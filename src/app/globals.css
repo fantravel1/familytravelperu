@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans text-gray-800 antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  .container-peru {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-peru-terracotta text-white font-semibold rounded-lg
+           hover:bg-peru-earth transition-colors duration-300 shadow-lg hover:shadow-xl;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-white text-peru-earth font-semibold rounded-lg
+           border-2 border-peru-earth hover:bg-peru-sand transition-colors duration-300;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-peru-gold text-white font-semibold rounded-lg
+           hover:bg-yellow-600 transition-colors duration-300 shadow-lg;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+  }
+
+  .card-image {
+    @apply w-full h-48 sm:h-56 object-cover;
+  }
+
+  .section-title {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-display font-bold text-peru-earth mb-4;
+  }
+
+  .section-subtitle {
+    @apply text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium;
+  }
+
+  .badge-gold {
+    @apply badge bg-peru-gold/20 text-peru-earth;
+  }
+
+  .badge-green {
+    @apply badge bg-peru-jungle/20 text-peru-jungle;
+  }
+
+  .badge-blue {
+    @apply badge bg-peru-ocean/20 text-peru-ocean;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-peru-gold focus:border-transparent outline-none transition-all;
+  }
+
+  .nav-link {
+    @apply text-gray-700 hover:text-peru-terracotta transition-colors duration-200 font-medium;
+  }
+
+  .nav-link-active {
+    @apply text-peru-terracotta font-semibold;
+  }
+}
+
+@layer utilities {
+  .text-gradient-peru {
+    @apply bg-gradient-to-r from-peru-gold via-peru-terracotta to-peru-earth bg-clip-text text-transparent;
+  }
+
+  .bg-pattern-inca {
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23D4AF37' fill-opacity='0.08'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-peru-gold/50 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-peru-gold;
+}
