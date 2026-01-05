@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "title": "Viajes en Familia a Perú - Guía Definitiva para Viajar con Niños",
+    "description": "Planifica tu aventura familiar perfecta en Perú. Descubre itinerarios para familias de 5 a 31 días, incluyendo Machu Picchu, selva amazónica, Lima, Cusco y más.",
+    "keywords": "viaje familiar Perú, viajar Perú con niños, itinerario Perú, Machu Picchu con niños, vacaciones familiares Perú, guía de viaje Perú"
+  },
+  "nav": {
+    "home": "Inicio",
+    "itineraries": "Itinerarios",
+    "destinations": "Destinos",
+    "planning": "Planificación",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Descubre Perú en Familia",
+    "subtitle": "Crea recuerdos inolvidables explorando ruinas ancestrales, ciudades vibrantes y paisajes impresionantes juntos",
+    "cta": "Explorar Itinerarios",
+    "secondary_cta": "Comenzar a Planificar"
+  },
+  "home": {
+    "featured_title": "Itinerarios Familiares Populares",
+    "featured_subtitle": "Aventuras diseñadas para familias de todas las edades",
+    "why_title": "¿Por Qué Viajar a Perú en Familia?",
+    "why_subtitle": "Perú ofrece una mezcla increíble de historia, cultura, naturaleza y aventura perfecta para familias",
+    "destinations_title": "Destinos Top para Familias",
+    "destinations_subtitle": "Explora los mejores lugares para visitar con niños en Perú",
+    "testimonials_title": "Lo Que Dicen las Familias",
+    "newsletter_title": "Obtén Nuestra Guía Gratuita de Viaje Familiar a Perú",
+    "newsletter_subtitle": "Suscríbete para consejos exclusivos, itinerarios y recomendaciones de viaje familiar",
+    "newsletter_placeholder": "Ingresa tu correo electrónico",
+    "newsletter_button": "Obtener Guía Gratuita"
+  },
+  "itineraries": {
+    "title": "Itinerarios Familiares en Perú",
+    "subtitle": "Encuentra la aventura perfecta para tu familia",
+    "filter_duration": "Duración",
+    "filter_theme": "Tema",
+    "filter_difficulty": "Nivel de Actividad",
+    "all": "Todos",
+    "days": "días",
+    "view_details": "Ver Itinerario",
+    "highlights": "Destacados",
+    "best_for": "Ideal Para",
+    "includes": "Qué Incluye",
+    "day_by_day": "Itinerario Día a Día"
+  },
+  "themes": {
+    "classic": "Perú Clásico",
+    "adventure": "Aventura y Naturaleza",
+    "cultural": "Inmersión Cultural",
+    "beach": "Playa y Costa",
+    "amazon": "Selva Amazónica",
+    "highlands": "Altiplano Andino",
+    "food": "Viaje Culinario",
+    "wildlife": "Vida Silvestre y Naturaleza",
+    "historical": "Descubrimiento Histórico"
+  },
+  "difficulty": {
+    "easy": "Fácil - Todas las Edades",
+    "moderate": "Moderado - Mayores de 6",
+    "active": "Activo - Mayores de 10"
+  },
+  "destinations": {
+    "title": "Destinos en Perú para Familias",
+    "subtitle": "Descubre los mejores lugares para explorar con tus hijos",
+    "lima": "Lima",
+    "cusco": "Cusco",
+    "machu_picchu": "Machu Picchu",
+    "sacred_valley": "Valle Sagrado",
+    "amazon": "Selva Amazónica",
+    "arequipa": "Arequipa",
+    "colca": "Cañón del Colca",
+    "puno": "Puno y Lago Titicaca",
+    "nazca": "Líneas de Nazca",
+    "paracas": "Paracas e Islas Ballestas",
+    "huacachina": "Huacachina",
+    "trujillo": "Trujillo",
+    "mancora": "Playa Máncora",
+    "iquitos": "Iquitos"
+  },
+  "planning": {
+    "title": "Planifica tu Viaje Familiar a Perú",
+    "best_time": "Mejor Época para Visitar",
+    "packing": "Qué Llevar",
+    "health": "Salud y Seguridad",
+    "budget": "Consejos de Presupuesto",
+    "transportation": "Cómo Moverse",
+    "accommodation": "Hoteles para Familias"
+  },
+  "cta": {
+    "start_planning": "Comenzar a Planificar",
+    "view_itinerary": "Ver Itinerario",
+    "download_guide": "Descargar Guía Gratuita",
+    "contact_us": "Contáctanos",
+    "book_now": "Reservar Ahora"
+  },
+  "footer": {
+    "tagline": "Tu guía de confianza para aventuras familiares en Perú",
+    "quick_links": "Enlaces Rápidos",
+    "resources": "Recursos",
+    "connect": "Conéctate Con Nosotros",
+    "copyright": "© 2024 Family Travel Peru. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "features": {
+    "kid_friendly": "Apto para Niños",
+    "family_tested": "Probado por Familias",
+    "local_experts": "Expertos Locales",
+    "flexible": "Planes Flexibles",
+    "safe": "Seguro y Protegido",
+    "support": "Soporte 24/7"
+  }
+}
