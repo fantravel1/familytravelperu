@@ -274,6 +274,300 @@ export const itineraries: Itinerary[] = [
       }
     ]
   },
+  {
+    id: '3-day-amazon-intro',
+    slug: '3-day-amazon-jungle-adventure',
+    duration: 3,
+    title: 'Amazon Jungle Introduction',
+    titleEs: 'Introducción a la Selva Amazónica',
+    subtitle: 'A taste of the rainforest for families with limited time',
+    subtitleEs: 'Una probada de la selva tropical para familias con tiempo limitado',
+    description: 'Experience the magic of the Amazon in just 3 days. Perfect for families wanting to add a jungle adventure to their Peru trip without extensive travel. Based at a comfortable eco-lodge near Puerto Maldonado, this itinerary includes wildlife spotting, jungle walks, and hands-on rainforest activities.',
+    descriptionEs: 'Experimenta la magia del Amazonas en solo 3 días. Perfecto para familias que quieren agregar una aventura en la selva a su viaje a Perú sin viajes extensos. Basado en un cómodo eco-lodge cerca de Puerto Maldonado, este itinerario incluye avistamiento de fauna, caminatas en la selva y actividades prácticas en la selva tropical.',
+    theme: 'amazon',
+    difficulty: 'easy',
+    price: 799,
+    image: '/images/itineraries/amazon-intro.jpg',
+    highlights: [
+      'Stay at family-friendly jungle lodge',
+      'Spot monkeys, macaws, and caimans',
+      'Night jungle walk with naturalist guide',
+      'Visit local indigenous community',
+      'Piranha fishing experience'
+    ],
+    highlightsEs: [
+      'Estadía en lodge de selva familiar',
+      'Avista monos, guacamayos y caimanes',
+      'Caminata nocturna con guía naturalista',
+      'Visita a comunidad indígena local',
+      'Experiencia de pesca de pirañas'
+    ],
+    includes: [
+      'Airport transfers in Puerto Maldonado',
+      '2 nights at jungle eco-lodge',
+      'All meals at lodge',
+      'English-speaking naturalist guide',
+      'All activities as listed',
+      'Rubber boots and rain ponchos'
+    ],
+    includesEs: [
+      'Traslados del aeropuerto en Puerto Maldonado',
+      '2 noches en eco-lodge de selva',
+      'Todas las comidas en el lodge',
+      'Guía naturalista de habla inglesa',
+      'Todas las actividades listadas',
+      'Botas de goma y ponchos de lluvia'
+    ],
+    notIncludes: [
+      'Flights to/from Puerto Maldonado',
+      'Travel insurance',
+      'Personal expenses',
+      'Tips for guides'
+    ],
+    notIncludesEs: [
+      'Vuelos hacia/desde Puerto Maldonado',
+      'Seguro de viaje',
+      'Gastos personales',
+      'Propinas para guías'
+    ],
+    bestFor: ['Nature lovers', 'Wildlife enthusiasts', 'Adventurous families', 'Ages 5+'],
+    bestForEs: ['Amantes de la naturaleza', 'Entusiastas de la fauna', 'Familias aventureras', 'Mayores de 5 años'],
+    minAge: 5,
+    groupSize: '6-12 people',
+    startLocation: 'Puerto Maldonado',
+    endLocation: 'Puerto Maldonado',
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Jungle Arrival & First Explorations',
+        titleEs: 'Llegada a la Selva y Primeras Exploraciones',
+        description: 'Fly into Puerto Maldonado and boat upriver to your jungle lodge. After settling in and a delicious lunch, take an introductory jungle walk to learn about the rainforest ecosystem. Evening caiman spotting on the river.',
+        descriptionEs: 'Vuela a Puerto Maldonado y navega río arriba hasta tu lodge de selva. Después de instalarte y un delicioso almuerzo, realiza una caminata introductoria en la selva para aprender sobre el ecosistema. Avistamiento de caimanes en la noche.',
+        locations: ['Puerto Maldonado', 'Tambopata River', 'Jungle Lodge'],
+        activities: ['River boat transfer', 'Jungle walk', 'Caiman spotting'],
+        activitiesEs: ['Traslado en bote', 'Caminata en la selva', 'Avistamiento de caimanes'],
+        meals: 'Lunch, Dinner'
+      },
+      {
+        day: 2,
+        title: 'Full Day of Adventure',
+        titleEs: 'Día Completo de Aventura',
+        description: 'Early morning bird watching when wildlife is most active. After breakfast, visit an indigenous community to learn traditional crafts. Afternoon piranha fishing - catch and release. Night walk to spot nocturnal creatures like tarantulas and frogs.',
+        descriptionEs: 'Observación de aves temprano cuando la fauna está más activa. Después del desayuno, visita una comunidad indígena para aprender artesanías tradicionales. Pesca de pirañas por la tarde. Caminata nocturna para ver criaturas nocturnas.',
+        locations: ['Jungle trails', 'Indigenous community', 'Oxbow lake'],
+        activities: ['Bird watching', 'Community visit', 'Piranha fishing', 'Night walk'],
+        activitiesEs: ['Observación de aves', 'Visita a comunidad', 'Pesca de pirañas', 'Caminata nocturna'],
+        meals: 'Breakfast, Lunch, Dinner'
+      },
+      {
+        day: 3,
+        title: 'Macaw Clay Lick & Departure',
+        titleEs: 'Collpa de Guacamayos y Partida',
+        description: 'Optional early morning visit to a parrot clay lick to see dozens of colorful birds. Final jungle walk before breakfast. Boat back to Puerto Maldonado for your departure flight.',
+        descriptionEs: 'Visita opcional temprano a una collpa de loros para ver docenas de aves coloridas. Última caminata antes del desayuno. Bote de regreso a Puerto Maldonado para tu vuelo de salida.',
+        locations: ['Clay lick', 'Jungle Lodge', 'Puerto Maldonado Airport'],
+        activities: ['Clay lick visit', 'Final jungle walk', 'Airport transfer'],
+        activitiesEs: ['Visita a collpa', 'Última caminata', 'Traslado al aeropuerto'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
+  {
+    id: '3-day-lake-titicaca',
+    slug: '3-day-lake-titicaca-puno',
+    duration: 3,
+    title: 'Lake Titicaca Discovery',
+    titleEs: 'Descubrimiento del Lago Titicaca',
+    subtitle: 'Explore the world\'s highest navigable lake and its unique cultures',
+    subtitleEs: 'Explora el lago navegable más alto del mundo y sus culturas únicas',
+    description: 'Discover the mystical Lake Titicaca, shared by Peru and Bolivia, and meet the communities who have called it home for centuries. Visit the famous floating Uros islands and stay overnight with a local family on Amantani Island for an authentic cultural immersion.',
+    descriptionEs: 'Descubre el místico Lago Titicaca, compartido por Perú y Bolivia, y conoce las comunidades que lo han llamado hogar por siglos. Visita las famosas islas flotantes de los Uros y quédate una noche con una familia local en la Isla Amantaní para una inmersión cultural auténtica.',
+    theme: 'cultural',
+    difficulty: 'moderate',
+    price: 549,
+    image: '/images/itineraries/lake-titicaca.jpg',
+    highlights: [
+      'Visit the floating Uros reed islands',
+      'Overnight homestay on Amantani Island',
+      'Traditional weaving demonstration',
+      'Sunset views over the lake',
+      'Learn about ancient Aymara culture'
+    ],
+    highlightsEs: [
+      'Visita las islas flotantes de los Uros',
+      'Estadía con familia en Isla Amantaní',
+      'Demostración de tejido tradicional',
+      'Vistas del atardecer sobre el lago',
+      'Aprende sobre la antigua cultura Aymara'
+    ],
+    includes: [
+      'Hotel in Puno (1 night)',
+      'Homestay on Amantani Island (1 night)',
+      'All boat transportation',
+      'English-speaking guide',
+      'Meals as specified',
+      'Community contributions'
+    ],
+    includesEs: [
+      'Hotel en Puno (1 noche)',
+      'Estadía con familia en Amantaní (1 noche)',
+      'Todo el transporte en bote',
+      'Guía de habla inglesa',
+      'Comidas especificadas',
+      'Contribuciones a la comunidad'
+    ],
+    notIncludes: [
+      'Flights to/from Juliaca',
+      'Travel insurance',
+      'Personal expenses',
+      'Tips'
+    ],
+    notIncludesEs: [
+      'Vuelos hacia/desde Juliaca',
+      'Seguro de viaje',
+      'Gastos personales',
+      'Propinas'
+    ],
+    bestFor: ['Cultural immersion', 'Unique experiences', 'Families with older kids', 'Photography'],
+    bestForEs: ['Inmersión cultural', 'Experiencias únicas', 'Familias con niños mayores', 'Fotografía'],
+    minAge: 8,
+    groupSize: '4-16 people',
+    startLocation: 'Puno',
+    endLocation: 'Puno',
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Arrival & Uros Floating Islands',
+        titleEs: 'Llegada e Islas Flotantes de los Uros',
+        description: 'Arrive in Puno and transfer to your lakeside hotel. After lunch, boat to the incredible Uros Floating Islands, constructed entirely of totora reeds. Learn how islanders build and maintain their unique homes. Return to Puno for dinner.',
+        descriptionEs: 'Llega a Puno y traslado a tu hotel junto al lago. Después del almuerzo, navega a las increíbles Islas Flotantes de los Uros, construidas enteramente de totora. Aprende cómo los isleños construyen y mantienen sus hogares únicos.',
+        locations: ['Puno', 'Uros Islands', 'Lake Titicaca'],
+        activities: ['Hotel check-in', 'Uros Islands visit', 'Cultural demonstration'],
+        activitiesEs: ['Check-in hotel', 'Visita Islas Uros', 'Demostración cultural'],
+        meals: 'Lunch, Dinner'
+      },
+      {
+        day: 2,
+        title: 'Amantani Island Homestay',
+        titleEs: 'Estadía con Familia en Amantaní',
+        description: 'Morning boat ride to Amantani Island (3.5 hours). Meet your host family and settle into their traditional home. Hike to the island\'s sacred temples for spectacular sunset views. Evening dinner with your family and traditional music.',
+        descriptionEs: 'Navegación matutina a la Isla Amantaní (3.5 horas). Conoce a tu familia anfitriona e instálate en su hogar tradicional. Caminata a los templos sagrados de la isla para vistas espectaculares del atardecer. Cena con tu familia y música tradicional.',
+        locations: ['Lake Titicaca', 'Amantani Island', 'Pachatata Temple'],
+        activities: ['Boat journey', 'Homestay', 'Temple hike', 'Cultural dinner'],
+        activitiesEs: ['Viaje en bote', 'Estadía con familia', 'Caminata al templo', 'Cena cultural'],
+        meals: 'Breakfast, Lunch, Dinner'
+      },
+      {
+        day: 3,
+        title: 'Taquile Island & Return',
+        titleEs: 'Isla Taquile y Retorno',
+        description: 'Say goodbye to your host family and boat to Taquile Island, famous for textile traditions recognized by UNESCO. Watch weavers at work and enjoy lunch with lake views. Return to Puno by mid-afternoon.',
+        descriptionEs: 'Despídete de tu familia anfitriona y navega a la Isla Taquile, famosa por tradiciones textiles reconocidas por UNESCO. Observa tejedores trabajando y disfruta almuerzo con vistas al lago. Regreso a Puno a media tarde.',
+        locations: ['Amantani Island', 'Taquile Island', 'Puno'],
+        activities: ['Island farewell', 'Weaving demonstration', 'Scenic lunch', 'Return boat'],
+        activitiesEs: ['Despedida de la isla', 'Demostración de tejido', 'Almuerzo panorámico', 'Bote de regreso'],
+        meals: 'Breakfast, Lunch'
+      }
+    ]
+  },
+  {
+    id: '3-day-arequipa-colca',
+    slug: '3-day-arequipa-colca-canyon',
+    duration: 3,
+    title: 'Arequipa & Colca Canyon',
+    titleEs: 'Arequipa y Cañón del Colca',
+    subtitle: 'White city architecture and condor watching adventure',
+    subtitleEs: 'Arquitectura de la ciudad blanca y avistamiento de cóndores',
+    description: 'Combine the colonial splendor of Arequipa with the dramatic landscapes of Colca Canyon - one of the world\'s deepest canyons. Watch Andean condors soar overhead and explore traditional villages. Perfect for families seeking a mix of culture and nature.',
+    descriptionEs: 'Combina el esplendor colonial de Arequipa con los paisajes dramáticos del Cañón del Colca - uno de los cañones más profundos del mundo. Observa cóndores andinos volar y explora pueblos tradicionales. Perfecto para familias buscando una mezcla de cultura y naturaleza.',
+    theme: 'adventure',
+    difficulty: 'moderate',
+    price: 649,
+    image: '/images/itineraries/colca-canyon.jpg',
+    highlights: [
+      'Explore Arequipa\'s stunning Santa Catalina Monastery',
+      'Watch condors at Cruz del Condor viewpoint',
+      'Visit traditional Colca Valley villages',
+      'See pre-Inca terraces and hot springs',
+      'Photography at dramatic canyon viewpoints'
+    ],
+    highlightsEs: [
+      'Explora el impresionante Monasterio de Santa Catalina',
+      'Observa cóndores en el mirador Cruz del Cóndor',
+      'Visita pueblos tradicionales del Valle del Colca',
+      'Ve terrazas pre-incas y aguas termales',
+      'Fotografía en miradores dramáticos del cañón'
+    ],
+    includes: [
+      'Hotel in Arequipa (1 night)',
+      'Hotel in Colca (1 night)',
+      'Private transportation',
+      'English-speaking guide',
+      'Entrance fees',
+      'Breakfasts'
+    ],
+    includesEs: [
+      'Hotel en Arequipa (1 noche)',
+      'Hotel en Colca (1 noche)',
+      'Transporte privado',
+      'Guía de habla inglesa',
+      'Entradas',
+      'Desayunos'
+    ],
+    notIncludes: [
+      'Flights to/from Arequipa',
+      'Lunches and dinners',
+      'Hot springs entrance',
+      'Tips'
+    ],
+    notIncludesEs: [
+      'Vuelos hacia/desde Arequipa',
+      'Almuerzos y cenas',
+      'Entrada a aguas termales',
+      'Propinas'
+    ],
+    bestFor: ['Nature enthusiasts', 'Birdwatchers', 'Adventure seekers', 'Families with older kids'],
+    bestForEs: ['Entusiastas de la naturaleza', 'Observadores de aves', 'Buscadores de aventura', 'Familias con niños mayores'],
+    minAge: 7,
+    groupSize: '2-8 people',
+    startLocation: 'Arequipa',
+    endLocation: 'Arequipa',
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Discover Arequipa',
+        titleEs: 'Descubre Arequipa',
+        description: 'Explore the "White City" with its stunning sillar architecture. Visit the Plaza de Armas, the ornate Cathedral, and the Santa Catalina Monastery - a city within a city. Free time to explore markets and try local cuisine like rocoto relleno.',
+        descriptionEs: 'Explora la "Ciudad Blanca" con su impresionante arquitectura de sillar. Visita la Plaza de Armas, la ornamentada Catedral y el Monasterio de Santa Catalina - una ciudad dentro de la ciudad. Tiempo libre para explorar mercados y probar cocina local.',
+        locations: ['Plaza de Armas', 'Santa Catalina Monastery', 'Arequipa Historic Center'],
+        activities: ['City walking tour', 'Monastery visit', 'Free exploration'],
+        activitiesEs: ['Tour a pie por la ciudad', 'Visita al monasterio', 'Exploración libre'],
+        meals: 'Breakfast'
+      },
+      {
+        day: 2,
+        title: 'Journey to Colca Canyon',
+        titleEs: 'Viaje al Cañón del Colca',
+        description: 'Early departure through stunning highland scenery. Stop at the highest point (4,910m) for vicuña spotting. Descend into Colca Valley, visiting traditional villages with pre-Inca terraces. Afternoon at leisure with optional hot springs visit.',
+        descriptionEs: 'Salida temprano a través de paisajes impresionantes de altura. Parada en el punto más alto (4,910m) para avistar vicuñas. Descenso al Valle del Colca, visitando pueblos tradicionales con terrazas pre-incas. Tarde libre con visita opcional a aguas termales.',
+        locations: ['Pata Pampa Pass', 'Chivay', 'Colca Valley'],
+        activities: ['Scenic drive', 'Wildlife spotting', 'Village visits', 'Optional hot springs'],
+        activitiesEs: ['Viaje escénico', 'Avistamiento de fauna', 'Visitas a pueblos', 'Aguas termales opcionales'],
+        meals: 'Breakfast'
+      },
+      {
+        day: 3,
+        title: 'Condors & Return',
+        titleEs: 'Cóndores y Retorno',
+        description: 'Very early departure to Cruz del Condor viewpoint for the best chance to see majestic Andean condors riding thermal currents. Stop at canyon viewpoints for photos. Visit the charming town of Maca before returning to Arequipa.',
+        descriptionEs: 'Salida muy temprano al mirador Cruz del Cóndor para la mejor oportunidad de ver majestuosos cóndores andinos surfeando corrientes térmicas. Paradas en miradores del cañón para fotos. Visita al encantador pueblo de Maca antes de regresar a Arequipa.',
+        locations: ['Cruz del Condor', 'Canyon viewpoints', 'Maca', 'Arequipa'],
+        activities: ['Condor watching', 'Photography', 'Village visit', 'Return drive'],
+        activitiesEs: ['Observación de cóndores', 'Fotografía', 'Visita a pueblo', 'Viaje de regreso'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
 
   // 5-DAY ITINERARIES
   {
