@@ -15,6 +15,7 @@ export default function Header() {
   const itineraryDurations = [3, 5, 7, 10, 14, 21, 30, 60];
 
   const resources = [
+    { href: '/when-to-visit/', label: locale === 'es' ? 'Cuándo Visitar' : 'When to Visit' },
     { href: '/packing/', label: locale === 'es' ? 'Listas de Equipaje' : 'Packing Lists' },
     { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
     { href: '/altitude-guide/', label: locale === 'es' ? 'Guía de Altitud' : 'Altitude Guide' },
