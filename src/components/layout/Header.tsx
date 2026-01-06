@@ -16,9 +16,11 @@ export default function Header() {
 
   const resources = [
     { href: '/when-to-visit/', label: locale === 'es' ? 'Cuándo Visitar' : 'When to Visit' },
+    { href: '/budget/', label: locale === 'es' ? 'Calculadora de Presupuesto' : 'Budget Calculator' },
     { href: '/packing/', label: locale === 'es' ? 'Listas de Equipaje' : 'Packing Lists' },
     { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
     { href: '/altitude-guide/', label: locale === 'es' ? 'Guía de Altitud' : 'Altitude Guide' },
+    { href: '/culture-guide/', label: locale === 'es' ? 'Cultura y Costumbres' : 'Culture Guide' },
     { href: '/faq/', label: locale === 'es' ? 'Preguntas Frecuentes' : 'FAQ' },
   ];
 
