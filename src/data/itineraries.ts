@@ -1212,6 +1212,102 @@ export const itineraries: Itinerary[] = [
     }))
   },
 
+  // 30-DAY COMPREHENSIVE ITINERARY
+  {
+    id: '30-day-coast-to-cloud',
+    slug: '30-day-peru-coast-to-cloud-forest',
+    duration: 30,
+    title: 'Peru: Coast to Cloud Forest',
+    titleEs: 'Perú: De la Costa al Bosque Nublado',
+    subtitle: 'A month-long journey through all of Peru\'s ecosystems',
+    subtitleEs: 'Un viaje de un mes por todos los ecosistemas del Perú',
+    description: 'The definitive month-long Peru experience. From Pacific beaches to Amazon rainforest, from coastal deserts to Andean peaks. This comprehensive itinerary includes Lima, Paracas, Nazca, Arequipa, Colca Canyon, Puno, Lake Titicaca, Cusco, Sacred Valley, Machu Picchu, and the Amazon jungle.',
+    descriptionEs: 'La experiencia definitiva de un mes en Perú. Desde playas del Pacífico hasta la selva amazónica, desde desiertos costeros hasta picos andinos. Este itinerario completo incluye Lima, Paracas, Nazca, Arequipa, Cañón del Colca, Puno, Lago Titicaca, Cusco, Valle Sagrado, Machu Picchu y la selva amazónica.',
+    theme: 'adventure',
+    difficulty: 'moderate',
+    price: 8499,
+    image: '/images/itineraries/coast-to-cloud.jpg',
+    highlights: [
+      'Complete coastal circuit: Lima, Paracas, Nazca',
+      'Condor watching at Colca Canyon',
+      'Lake Titicaca island experiences',
+      'Extended Sacred Valley exploration',
+      'Two-day Machu Picchu experience',
+      'Four-night Amazon jungle immersion',
+      'Northern Peru archaeological sites',
+      'Multiple cooking classes and food tours'
+    ],
+    highlightsEs: [
+      'Circuito costero completo: Lima, Paracas, Nazca',
+      'Observación de cóndores en el Cañón del Colca',
+      'Experiencias en las islas del Lago Titicaca',
+      'Exploración extendida del Valle Sagrado',
+      'Experiencia de dos días en Machu Picchu',
+      'Inmersión de cuatro noches en la selva amazónica',
+      'Sitios arqueológicos del norte de Perú',
+      'Múltiples clases de cocina y tours gastronómicos'
+    ],
+    includes: [
+      '29 nights accommodation (mix of luxury, boutique, eco-lodges)',
+      'Daily breakfast, most lunches and dinners',
+      'All domestic flights (5 flights included)',
+      'All ground transportation',
+      'Expert guides throughout',
+      'All entrance fees and activities',
+      'Train tickets to Machu Picchu'
+    ],
+    includesEs: [
+      '29 noches de alojamiento (mezcla de lujo, boutique, eco-lodges)',
+      'Desayuno diario, mayoría de almuerzos y cenas',
+      'Todos los vuelos domésticos (5 vuelos incluidos)',
+      'Todo el transporte terrestre',
+      'Guías expertos durante todo el viaje',
+      'Todas las entradas y actividades',
+      'Boletos de tren a Machu Picchu'
+    ],
+    notIncludes: ['International flights', 'Travel insurance', 'Alcoholic beverages', 'Tips'],
+    notIncludesEs: ['Vuelos internacionales', 'Seguro de viaje', 'Bebidas alcohólicas', 'Propinas'],
+    bestFor: ['Extended vacation families', 'Complete Peru experience seekers', 'Multi-generational travel'],
+    bestForEs: ['Familias con vacaciones extendidas', 'Buscadores de experiencia completa', 'Viajes multigeneracionales'],
+    minAge: 6,
+    groupSize: '2-8',
+    startLocation: 'Lima',
+    endLocation: 'Lima',
+    featured: true,
+    dayByDay: [
+      { day: 1, title: 'Welcome to Lima', titleEs: 'Bienvenidos a Lima', description: 'Arrive Lima, transfer to Miraflores hotel. Evening welcome dinner.', descriptionEs: 'Llegada a Lima, traslado al hotel en Miraflores. Cena de bienvenida.', locations: ['Lima'], activities: ['Arrival', 'Welcome dinner'], activitiesEs: ['Llegada', 'Cena de bienvenida'], meals: 'Dinner', accommodation: 'Miraflores hotel' },
+      { day: 2, title: 'Lima Exploration', titleEs: 'Exploración de Lima', description: 'Historic center, Larco Museum, evening food tour.', descriptionEs: 'Centro histórico, Museo Larco, tour gastronómico nocturno.', locations: ['Lima'], activities: ['City tour', 'Museum', 'Food tour'], activitiesEs: ['Tour de ciudad', 'Museo', 'Tour gastronómico'], meals: 'Breakfast', accommodation: 'Miraflores hotel' },
+      { day: 3, title: 'Lima to Paracas', titleEs: 'Lima a Paracas', description: 'Drive south, stop at Huacachina for sandboarding.', descriptionEs: 'Viaje al sur, parada en Huacachina para sandboard.', locations: ['Huacachina', 'Paracas'], activities: ['Scenic drive', 'Sandboarding', 'Dune buggy'], activitiesEs: ['Viaje panorámico', 'Sandboard', 'Buggy'], meals: 'Breakfast', accommodation: 'Paracas beach hotel' },
+      { day: 4, title: 'Ballestas & Reserve', titleEs: 'Ballestas y Reserva', description: 'Ballestas Islands boat tour, Paracas National Reserve.', descriptionEs: 'Tour en bote a Islas Ballestas, Reserva Nacional de Paracas.', locations: ['Ballestas Islands', 'Paracas Reserve'], activities: ['Boat tour', 'Wildlife', 'Reserve exploration'], activitiesEs: ['Tour en bote', 'Vida silvestre', 'Exploración de reserva'], meals: 'Breakfast, Lunch', accommodation: 'Paracas beach hotel' },
+      { day: 5, title: 'Nazca Lines', titleEs: 'Líneas de Nazca', description: 'Drive to Nazca, optional flight over the lines.', descriptionEs: 'Viaje a Nazca, vuelo opcional sobre las líneas.', locations: ['Nazca'], activities: ['Scenic drive', 'Optional overflight', 'Museum'], activitiesEs: ['Viaje panorámico', 'Sobrevuelo opcional', 'Museo'], meals: 'Breakfast', accommodation: 'Nazca hotel' },
+      { day: 6, title: 'To Arequipa', titleEs: 'A Arequipa', description: 'Fly to Arequipa, the White City. Afternoon city tour.', descriptionEs: 'Vuelo a Arequipa, la Ciudad Blanca. Tour de ciudad por la tarde.', locations: ['Arequipa'], activities: ['Flight', 'City tour', 'Santa Catalina Monastery'], activitiesEs: ['Vuelo', 'Tour de ciudad', 'Monasterio de Santa Catalina'], meals: 'Breakfast', accommodation: 'Arequipa hotel' },
+      { day: 7, title: 'Arequipa Free Day', titleEs: 'Día Libre en Arequipa', description: 'Free day to explore markets, museums, or relax.', descriptionEs: 'Día libre para explorar mercados, museos o relajarse.', locations: ['Arequipa'], activities: ['Free exploration', 'Optional activities'], activitiesEs: ['Exploración libre', 'Actividades opcionales'], meals: 'Breakfast', accommodation: 'Arequipa hotel' },
+      { day: 8, title: 'To Colca Canyon', titleEs: 'Al Cañón del Colca', description: 'Scenic drive to Colca, vicuña sightings, hot springs.', descriptionEs: 'Viaje panorámico a Colca, avistamiento de vicuñas, aguas termales.', locations: ['Colca Valley'], activities: ['Scenic drive', 'Vicuñas', 'Hot springs'], activitiesEs: ['Viaje panorámico', 'Vicuñas', 'Aguas termales'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Colca lodge' },
+      { day: 9, title: 'Colca Condors', titleEs: 'Cóndores del Colca', description: 'Early morning condor watching at Cruz del Condor.', descriptionEs: 'Observación de cóndores temprano en Cruz del Cóndor.', locations: ['Cruz del Condor', 'Colca Canyon'], activities: ['Condor watching', 'Canyon viewpoints', 'Village visits'], activitiesEs: ['Observación de cóndores', 'Miradores del cañón', 'Visitas a pueblos'], meals: 'Breakfast, Lunch', accommodation: 'Colca lodge' },
+      { day: 10, title: 'Colca to Puno', titleEs: 'Colca a Puno', description: 'High altitude drive to Puno via altiplano landscapes.', descriptionEs: 'Viaje de altura a Puno por paisajes del altiplano.', locations: ['Altiplano', 'Puno'], activities: ['Scenic drive', 'Flamingos', 'High altitude landscapes'], activitiesEs: ['Viaje panorámico', 'Flamencos', 'Paisajes de altura'], meals: 'Breakfast, Lunch', accommodation: 'Puno hotel' },
+      { day: 11, title: 'Uros & Taquile', titleEs: 'Uros y Taquile', description: 'Full day Lake Titicaca: Uros floating islands and Taquile.', descriptionEs: 'Día completo en Lago Titicaca: islas flotantes Uros y Taquile.', locations: ['Lake Titicaca', 'Uros', 'Taquile'], activities: ['Boat tour', 'Floating islands', 'Island hiking'], activitiesEs: ['Tour en bote', 'Islas flotantes', 'Caminata en isla'], meals: 'Breakfast, Lunch', accommodation: 'Puno hotel' },
+      { day: 12, title: 'Puno to Cusco', titleEs: 'Puno a Cusco', description: 'Scenic tourist bus with stops at Raqchi, La Raya, Andahuaylillas.', descriptionEs: 'Bus turístico panorámico con paradas en Raqchi, La Raya, Andahuaylillas.', locations: ['Altiplano route', 'Cusco'], activities: ['Tourist bus', 'Archaeological sites', 'Church visit'], activitiesEs: ['Bus turístico', 'Sitios arqueológicos', 'Visita a iglesia'], meals: 'Breakfast, Lunch', accommodation: 'Cusco hotel' },
+      { day: 13, title: 'Cusco Acclimatization', titleEs: 'Aclimatación en Cusco', description: 'Gentle city walking tour, San Pedro Market, chocolate workshop.', descriptionEs: 'Tour suave a pie por la ciudad, Mercado San Pedro, taller de chocolate.', locations: ['Cusco'], activities: ['Walking tour', 'Market visit', 'Chocolate workshop'], activitiesEs: ['Tour a pie', 'Visita al mercado', 'Taller de chocolate'], meals: 'Breakfast', accommodation: 'Cusco hotel' },
+      { day: 14, title: 'Cusco City Tour', titleEs: 'Tour de la Ciudad de Cusco', description: 'Sacsayhuaman, Qorikancha, Cathedral, artisan neighborhoods.', descriptionEs: 'Sacsayhuamán, Qorikancha, Catedral, barrios artesanales.', locations: ['Cusco'], activities: ['Archaeological sites', 'Temple', 'Cathedral'], activitiesEs: ['Sitios arqueológicos', 'Templo', 'Catedral'], meals: 'Breakfast', accommodation: 'Cusco hotel' },
+      { day: 15, title: 'Sacred Valley Day 1', titleEs: 'Valle Sagrado Día 1', description: 'Pisac ruins and market, Urubamba valley, weaving community.', descriptionEs: 'Ruinas y mercado de Pisac, valle de Urubamba, comunidad de tejedores.', locations: ['Pisac', 'Sacred Valley'], activities: ['Ruins', 'Market', 'Weaving'], activitiesEs: ['Ruinas', 'Mercado', 'Tejido'], meals: 'Breakfast, Lunch', accommodation: 'Sacred Valley hotel' },
+      { day: 16, title: 'Sacred Valley Day 2', titleEs: 'Valle Sagrado Día 2', description: 'Moray terraces, Maras salt mines, Ollantaytambo fortress.', descriptionEs: 'Terrazas de Moray, salineras de Maras, fortaleza de Ollantaytambo.', locations: ['Moray', 'Maras', 'Ollantaytambo'], activities: ['Terraces', 'Salt mines', 'Fortress'], activitiesEs: ['Terrazas', 'Salineras', 'Fortaleza'], meals: 'Breakfast, Lunch', accommodation: 'Sacred Valley hotel' },
+      { day: 17, title: 'Machu Picchu Day 1', titleEs: 'Machu Picchu Día 1', description: 'Train to Aguas Calientes, afternoon Machu Picchu visit.', descriptionEs: 'Tren a Aguas Calientes, visita a Machu Picchu por la tarde.', locations: ['Machu Picchu', 'Aguas Calientes'], activities: ['Train journey', 'Citadel visit'], activitiesEs: ['Viaje en tren', 'Visita a la ciudadela'], meals: 'Breakfast, Lunch', accommodation: 'Aguas Calientes hotel' },
+      { day: 18, title: 'Machu Picchu Day 2', titleEs: 'Machu Picchu Día 2', description: 'Sunrise at Machu Picchu, Huayna Picchu optional, return to Cusco.', descriptionEs: 'Amanecer en Machu Picchu, Huayna Picchu opcional, regreso a Cusco.', locations: ['Machu Picchu', 'Cusco'], activities: ['Sunrise visit', 'Optional hike', 'Train return'], activitiesEs: ['Visita al amanecer', 'Caminata opcional', 'Regreso en tren'], meals: 'Breakfast, Lunch', accommodation: 'Cusco hotel' },
+      { day: 19, title: 'Cusco Cooking Class', titleEs: 'Clase de Cocina en Cusco', description: 'Market visit and Peruvian cooking class, free afternoon.', descriptionEs: 'Visita al mercado y clase de cocina peruana, tarde libre.', locations: ['Cusco'], activities: ['Market tour', 'Cooking class', 'Free time'], activitiesEs: ['Tour del mercado', 'Clase de cocina', 'Tiempo libre'], meals: 'Breakfast, Lunch from class', accommodation: 'Cusco hotel' },
+      { day: 20, title: 'Fly to Amazon', titleEs: 'Vuelo a la Amazonía', description: 'Fly to Puerto Maldonado, boat to jungle lodge, first excursion.', descriptionEs: 'Vuelo a Puerto Maldonado, bote al lodge, primera excursión.', locations: ['Puerto Maldonado', 'Tambopata'], activities: ['Flight', 'Boat journey', 'Jungle walk'], activitiesEs: ['Vuelo', 'Viaje en bote', 'Caminata en selva'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Jungle eco-lodge' },
+      { day: 21, title: 'Amazon Day 1', titleEs: 'Amazonía Día 1', description: 'Dawn birdwatching, canopy walkway, night excursion.', descriptionEs: 'Observación de aves al amanecer, puente colgante, excursión nocturna.', locations: ['Tambopata Reserve'], activities: ['Birdwatching', 'Canopy walk', 'Night walk'], activitiesEs: ['Observación de aves', 'Caminata en canopy', 'Caminata nocturna'], meals: 'All meals', accommodation: 'Jungle eco-lodge' },
+      { day: 22, title: 'Amazon Day 2', titleEs: 'Amazonía Día 2', description: 'Oxbow lake exploration, giant otters, piranha fishing.', descriptionEs: 'Exploración de lago, nutrias gigantes, pesca de pirañas.', locations: ['Sandoval Lake'], activities: ['Lake excursion', 'Wildlife', 'Fishing'], activitiesEs: ['Excursión al lago', 'Vida silvestre', 'Pesca'], meals: 'All meals', accommodation: 'Jungle eco-lodge' },
+      { day: 23, title: 'Amazon Day 3', titleEs: 'Amazonía Día 3', description: 'Indigenous community visit, medicinal plants, cultural exchange.', descriptionEs: 'Visita a comunidad indígena, plantas medicinales, intercambio cultural.', locations: ['Native community'], activities: ['Community visit', 'Cultural exchange', 'Crafts'], activitiesEs: ['Visita a comunidad', 'Intercambio cultural', 'Artesanías'], meals: 'All meals', accommodation: 'Jungle eco-lodge' },
+      { day: 24, title: 'Amazon to Lima', titleEs: 'Amazonía a Lima', description: 'Morning jungle activity, return boat, fly to Lima.', descriptionEs: 'Actividad matutina en la selva, regreso en bote, vuelo a Lima.', locations: ['Tambopata', 'Lima'], activities: ['Morning walk', 'Flight'], activitiesEs: ['Caminata matutina', 'Vuelo'], meals: 'Breakfast, Lunch', accommodation: 'Lima hotel' },
+      { day: 25, title: 'Fly to Trujillo', titleEs: 'Vuelo a Trujillo', description: 'Fly to northern Peru, Chan Chan adobe city tour.', descriptionEs: 'Vuelo al norte de Perú, tour a la ciudad de adobe de Chan Chan.', locations: ['Trujillo', 'Chan Chan'], activities: ['Flight', 'Chan Chan tour'], activitiesEs: ['Vuelo', 'Tour de Chan Chan'], meals: 'Breakfast', accommodation: 'Trujillo hotel' },
+      { day: 26, title: 'Huacas del Sol y Luna', titleEs: 'Huacas del Sol y Luna', description: 'Visit Moche temples, Huanchaco beach town.', descriptionEs: 'Visita a templos Moche, pueblo playero de Huanchaco.', locations: ['Huaca del Sol', 'Huanchaco'], activities: ['Temple tour', 'Beach', 'Seafood lunch'], activitiesEs: ['Tour del templo', 'Playa', 'Almuerzo de mariscos'], meals: 'Breakfast, Lunch', accommodation: 'Trujillo hotel' },
+      { day: 27, title: 'To Chiclayo', titleEs: 'A Chiclayo', description: 'Drive to Chiclayo, Royal Tombs of Sipán Museum.', descriptionEs: 'Viaje a Chiclayo, Museo Tumbas Reales de Sipán.', locations: ['Chiclayo', 'Sipán'], activities: ['Scenic drive', 'Museum'], activitiesEs: ['Viaje panorámico', 'Museo'], meals: 'Breakfast', accommodation: 'Chiclayo hotel' },
+      { day: 28, title: 'Tucume Pyramids', titleEs: 'Pirámides de Túcume', description: 'Visit Túcume pyramids, Bruning Museum, fly to Lima.', descriptionEs: 'Visita a pirámides de Túcume, Museo Brüning, vuelo a Lima.', locations: ['Tucume', 'Lima'], activities: ['Pyramids', 'Museum', 'Flight'], activitiesEs: ['Pirámides', 'Museo', 'Vuelo'], meals: 'Breakfast', accommodation: 'Lima hotel' },
+      { day: 29, title: 'Lima Final Day', titleEs: 'Último Día en Lima', description: 'Free morning, farewell lunch, last-minute shopping.', descriptionEs: 'Mañana libre, almuerzo de despedida, compras de último momento.', locations: ['Lima'], activities: ['Free time', 'Farewell lunch', 'Shopping'], activitiesEs: ['Tiempo libre', 'Almuerzo de despedida', 'Compras'], meals: 'Breakfast, Farewell lunch', accommodation: 'Lima hotel' },
+      { day: 30, title: 'Departure', titleEs: 'Partida', description: 'Transfer to Lima airport for your international departure.', descriptionEs: 'Traslado al aeropuerto de Lima para su vuelo internacional.', locations: ['Lima Airport'], activities: ['Airport transfer'], activitiesEs: ['Traslado al aeropuerto'], meals: 'Breakfast' }
+    ]
+  },
+
   // 31-DAY ITINERARY
   {
     id: '31-day-ultimate-journey',
@@ -1251,6 +1347,147 @@ export const itineraries: Itinerary[] = [
       activitiesEs: ['Aventura'],
       meals: 'All included'
     }))
+  },
+
+  // 60-DAY COMPREHENSIVE SUMMER ODYSSEY
+  {
+    id: '60-day-summer-odyssey',
+    slug: '60-day-comprehensive-summer-odyssey',
+    duration: 60,
+    title: 'Comprehensive Summer Odyssey',
+    titleEs: 'Odisea de Verano Completa',
+    subtitle: 'The ultimate two-month Peru family adventure',
+    subtitleEs: 'La aventura familiar definitiva de dos meses en Perú',
+    description: 'The most comprehensive Peru experience possible. Spend two incredible months exploring every corner of Peru at a relaxed, family-friendly pace. This once-in-a-lifetime journey covers the entire coast, all highland regions, multiple Amazon experiences, northern archaeological wonders, and includes rest days for genuine immersion.',
+    descriptionEs: 'La experiencia más completa de Perú posible. Pasa dos meses increíbles explorando cada rincón del Perú a un ritmo relajado y familiar. Este viaje único en la vida cubre toda la costa, todas las regiones de sierra, múltiples experiencias amazónicas, maravillas arqueológicas del norte, e incluye días de descanso para una inmersión genuina.',
+    theme: 'adventure',
+    difficulty: 'moderate',
+    price: 15999,
+    image: '/images/itineraries/summer-odyssey.jpg',
+    highlights: [
+      'Complete coastal exploration: Lima to Máncora beaches',
+      'Extended Amazon: Tambopata AND Iquitos experiences',
+      'Full Andean circuit: Cusco, Puno, Arequipa, Huaraz',
+      'Northern treasures: Chan Chan, Sipán, Kuélap',
+      'Multiple Machu Picchu visits including sunrise',
+      'Community homestays and cultural immersion',
+      'Cooking classes in every region',
+      'Adventure activities: sandboarding, zip-lining, rafting',
+      'Wildlife watching: condors, dolphins, jaguars, penguins',
+      'Rest days built in for family recovery'
+    ],
+    highlightsEs: [
+      'Exploración costera completa: Lima a playas de Máncora',
+      'Amazonía extendida: experiencias en Tambopata E Iquitos',
+      'Circuito andino completo: Cusco, Puno, Arequipa, Huaraz',
+      'Tesoros del norte: Chan Chan, Sipán, Kuélap',
+      'Múltiples visitas a Machu Picchu incluyendo amanecer',
+      'Estadías con familias locales e inmersión cultural',
+      'Clases de cocina en cada región',
+      'Actividades de aventura: sandboard, tirolesa, rafting',
+      'Observación de fauna: cóndores, delfines, jaguares, pingüinos',
+      'Días de descanso integrados para recuperación familiar'
+    ],
+    includes: [
+      '59 nights accommodation (luxury, boutique, eco-lodges, homestays)',
+      'All meals throughout the journey',
+      'All domestic flights (8 flights)',
+      'All ground transportation',
+      'Expert guides in every region',
+      'All entrance fees and activities',
+      'Multiple train journeys',
+      '24/7 support throughout'
+    ],
+    includesEs: [
+      '59 noches de alojamiento (lujo, boutique, eco-lodges, estadías familiares)',
+      'Todas las comidas durante el viaje',
+      'Todos los vuelos domésticos (8 vuelos)',
+      'Todo el transporte terrestre',
+      'Guías expertos en cada región',
+      'Todas las entradas y actividades',
+      'Múltiples viajes en tren',
+      'Soporte 24/7 durante todo el viaje'
+    ],
+    notIncludes: ['International flights', 'Travel insurance', 'Alcoholic beverages', 'Personal expenses'],
+    notIncludesEs: ['Vuelos internacionales', 'Seguro de viaje', 'Bebidas alcohólicas', 'Gastos personales'],
+    bestFor: ['Sabbatical families', 'Extended summer vacation', 'Gap year travel', 'Multi-generational adventures'],
+    bestForEs: ['Familias en año sabático', 'Vacaciones de verano extendidas', 'Viaje de año sabático', 'Aventuras multigeneracionales'],
+    minAge: 5,
+    groupSize: '2-6',
+    startLocation: 'Lima',
+    endLocation: 'Lima',
+    featured: true,
+    dayByDay: [
+      // Week 1-2: Lima & Southern Coast
+      { day: 1, title: 'Welcome to Peru', titleEs: 'Bienvenidos a Perú', description: 'Arrive Lima, settle into Miraflores apartment.', descriptionEs: 'Llegada a Lima, acomodo en apartamento de Miraflores.', locations: ['Lima'], activities: ['Arrival', 'Rest'], activitiesEs: ['Llegada', 'Descanso'], meals: 'Welcome dinner', accommodation: 'Lima apartment' },
+      { day: 2, title: 'Lima Discovery', titleEs: 'Descubrimiento de Lima', description: 'Historic center, catacombs, Plaza Mayor.', descriptionEs: 'Centro histórico, catacumbas, Plaza Mayor.', locations: ['Lima Historic Center'], activities: ['Walking tour'], activitiesEs: ['Tour a pie'], meals: 'Breakfast', accommodation: 'Lima apartment' },
+      { day: 3, title: 'Lima Museums', titleEs: 'Museos de Lima', description: 'Larco Museum, MALI, evening food tour.', descriptionEs: 'Museo Larco, MALI, tour gastronómico nocturno.', locations: ['Miraflores', 'Barranco'], activities: ['Museums', 'Food tour'], activitiesEs: ['Museos', 'Tour gastronómico'], meals: 'Breakfast', accommodation: 'Lima apartment' },
+      { day: 4, title: 'Lima Cooking', titleEs: 'Cocina Limeña', description: 'Market visit and cooking class, beach time.', descriptionEs: 'Visita al mercado y clase de cocina, tiempo en la playa.', locations: ['Lima'], activities: ['Cooking class', 'Beach'], activitiesEs: ['Clase de cocina', 'Playa'], meals: 'Breakfast, Lunch', accommodation: 'Lima apartment' },
+      { day: 5, title: 'To Paracas', titleEs: 'A Paracas', description: 'Drive south, Huacachina sandboarding.', descriptionEs: 'Viaje al sur, sandboard en Huacachina.', locations: ['Huacachina', 'Paracas'], activities: ['Sandboarding', 'Dune buggy'], activitiesEs: ['Sandboard', 'Buggy'], meals: 'Breakfast', accommodation: 'Paracas resort' },
+      { day: 6, title: 'Ballestas Islands', titleEs: 'Islas Ballestas', description: 'Wildlife boat tour, penguins, sea lions.', descriptionEs: 'Tour de vida silvestre, pingüinos, lobos marinos.', locations: ['Ballestas'], activities: ['Boat tour', 'Wildlife'], activitiesEs: ['Tour en bote', 'Vida silvestre'], meals: 'Breakfast, Lunch', accommodation: 'Paracas resort' },
+      { day: 7, title: 'Paracas Reserve', titleEs: 'Reserva de Paracas', description: 'National Reserve exploration, beach day.', descriptionEs: 'Exploración de la Reserva Nacional, día de playa.', locations: ['Paracas Reserve'], activities: ['Reserve tour', 'Beach'], activitiesEs: ['Tour de reserva', 'Playa'], meals: 'Breakfast', accommodation: 'Paracas resort' },
+      { day: 8, title: 'Nazca Lines', titleEs: 'Líneas de Nazca', description: 'Drive to Nazca, optional overflight.', descriptionEs: 'Viaje a Nazca, sobrevuelo opcional.', locations: ['Nazca'], activities: ['Travel', 'Overflight optional'], activitiesEs: ['Viaje', 'Sobrevuelo opcional'], meals: 'Breakfast', accommodation: 'Nazca hotel' },
+      { day: 9, title: 'Nazca Exploration', titleEs: 'Exploración de Nazca', description: 'Chauchilla cemetery, aqueducts, museum.', descriptionEs: 'Cementerio de Chauchilla, acueductos, museo.', locations: ['Nazca'], activities: ['Archaeological sites'], activitiesEs: ['Sitios arqueológicos'], meals: 'Breakfast', accommodation: 'Nazca hotel' },
+      { day: 10, title: 'To Arequipa', titleEs: 'A Arequipa', description: 'Fly to Arequipa, settle in White City.', descriptionEs: 'Vuelo a Arequipa, acomodo en la Ciudad Blanca.', locations: ['Arequipa'], activities: ['Flight', 'Rest'], activitiesEs: ['Vuelo', 'Descanso'], meals: 'Breakfast', accommodation: 'Arequipa hotel' },
+      // Week 3: Arequipa & Colca
+      { day: 11, title: 'Arequipa Discovery', titleEs: 'Descubrimiento de Arequipa', description: 'City tour, Santa Catalina Monastery.', descriptionEs: 'Tour de ciudad, Monasterio de Santa Catalina.', locations: ['Arequipa'], activities: ['City tour', 'Monastery'], activitiesEs: ['Tour de ciudad', 'Monasterio'], meals: 'Breakfast', accommodation: 'Arequipa hotel' },
+      { day: 12, title: 'Arequipa Free Day', titleEs: 'Día Libre en Arequipa', description: 'Markets, museums, or relax at your pace.', descriptionEs: 'Mercados, museos, o relajarse a su ritmo.', locations: ['Arequipa'], activities: ['Free exploration'], activitiesEs: ['Exploración libre'], meals: 'Breakfast', accommodation: 'Arequipa hotel' },
+      { day: 13, title: 'To Colca Canyon', titleEs: 'Al Cañón del Colca', description: 'Scenic drive, vicuñas, hot springs.', descriptionEs: 'Viaje panorámico, vicuñas, aguas termales.', locations: ['Colca Valley'], activities: ['Scenic drive', 'Hot springs'], activitiesEs: ['Viaje panorámico', 'Aguas termales'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Colca lodge' },
+      { day: 14, title: 'Colca Condors', titleEs: 'Cóndores del Colca', description: 'Cruz del Condor, canyon viewpoints.', descriptionEs: 'Cruz del Cóndor, miradores del cañón.', locations: ['Cruz del Condor'], activities: ['Condor watching', 'Hiking'], activitiesEs: ['Observación de cóndores', 'Caminata'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Colca lodge' },
+      // Week 4: Lake Titicaca
+      { day: 15, title: 'Colca to Puno', titleEs: 'Colca a Puno', description: 'High altitude drive, flamingos, altiplano.', descriptionEs: 'Viaje de altura, flamencos, altiplano.', locations: ['Puno'], activities: ['Scenic drive'], activitiesEs: ['Viaje panorámico'], meals: 'Breakfast, Lunch', accommodation: 'Puno hotel' },
+      { day: 16, title: 'Uros Islands', titleEs: 'Islas Uros', description: 'Floating islands of the Uros people.', descriptionEs: 'Islas flotantes del pueblo Uros.', locations: ['Lake Titicaca'], activities: ['Boat tour', 'Cultural visit'], activitiesEs: ['Tour en bote', 'Visita cultural'], meals: 'Breakfast, Lunch', accommodation: 'Puno hotel' },
+      { day: 17, title: 'Taquile Island', titleEs: 'Isla Taquile', description: 'Full day on Taquile, traditional textiles.', descriptionEs: 'Día completo en Taquile, textiles tradicionales.', locations: ['Taquile'], activities: ['Island visit', 'Hiking'], activitiesEs: ['Visita a isla', 'Caminata'], meals: 'Breakfast, Lunch', accommodation: 'Puno hotel' },
+      { day: 18, title: 'Amantani Homestay', titleEs: 'Estadía en Amantaní', description: 'Overnight with local family on Amantani.', descriptionEs: 'Noche con familia local en Amantaní.', locations: ['Amantani Island'], activities: ['Homestay', 'Cultural exchange'], activitiesEs: ['Estadía familiar', 'Intercambio cultural'], meals: 'All meals', accommodation: 'Amantani homestay' },
+      { day: 19, title: 'Return to Puno', titleEs: 'Regreso a Puno', description: 'Morning on Amantani, return to Puno.', descriptionEs: 'Mañana en Amantaní, regreso a Puno.', locations: ['Puno'], activities: ['Sunrise', 'Boat return'], activitiesEs: ['Amanecer', 'Regreso en bote'], meals: 'Breakfast', accommodation: 'Puno hotel' },
+      { day: 20, title: 'Puno to Cusco', titleEs: 'Puno a Cusco', description: 'Tourist bus with archaeological stops.', descriptionEs: 'Bus turístico con paradas arqueológicas.', locations: ['Cusco'], activities: ['Tourist bus', 'Site visits'], activitiesEs: ['Bus turístico', 'Visitas a sitios'], meals: 'Breakfast, Lunch', accommodation: 'Cusco hotel' },
+      { day: 21, title: 'Cusco Rest Day', titleEs: 'Día de Descanso en Cusco', description: 'Acclimatize, gentle exploration.', descriptionEs: 'Aclimatación, exploración suave.', locations: ['Cusco'], activities: ['Rest', 'Light walking'], activitiesEs: ['Descanso', 'Caminata ligera'], meals: 'Breakfast', accommodation: 'Cusco hotel' },
+      // Week 5-6: Cusco & Sacred Valley
+      { day: 22, title: 'Cusco City Tour', titleEs: 'Tour de Cusco', description: 'Sacsayhuaman, Qorikancha, Cathedral.', descriptionEs: 'Sacsayhuamán, Qorikancha, Catedral.', locations: ['Cusco'], activities: ['City tour'], activitiesEs: ['Tour de ciudad'], meals: 'Breakfast', accommodation: 'Cusco hotel' },
+      { day: 23, title: 'Cusco Markets', titleEs: 'Mercados de Cusco', description: 'San Pedro Market, cooking class.', descriptionEs: 'Mercado San Pedro, clase de cocina.', locations: ['Cusco'], activities: ['Market', 'Cooking'], activitiesEs: ['Mercado', 'Cocina'], meals: 'Breakfast, Lunch', accommodation: 'Cusco hotel' },
+      { day: 24, title: 'Chinchero & Moray', titleEs: 'Chinchero y Moray', description: 'Weaving community, circular terraces.', descriptionEs: 'Comunidad de tejedores, terrazas circulares.', locations: ['Chinchero', 'Moray'], activities: ['Weaving', 'Archaeological site'], activitiesEs: ['Tejido', 'Sitio arqueológico'], meals: 'Breakfast, Lunch', accommodation: 'Sacred Valley hotel' },
+      { day: 25, title: 'Maras & Pisac', titleEs: 'Maras y Pisac', description: 'Salt mines, Pisac ruins and market.', descriptionEs: 'Salineras, ruinas y mercado de Pisac.', locations: ['Maras', 'Pisac'], activities: ['Salt mines', 'Ruins', 'Market'], activitiesEs: ['Salineras', 'Ruinas', 'Mercado'], meals: 'Breakfast, Lunch', accommodation: 'Sacred Valley hotel' },
+      { day: 26, title: 'Ollantaytambo', titleEs: 'Ollantaytambo', description: 'Fortress exploration, living Inca town.', descriptionEs: 'Exploración de fortaleza, pueblo inca vivo.', locations: ['Ollantaytambo'], activities: ['Ruins', 'Town walk'], activitiesEs: ['Ruinas', 'Caminata por el pueblo'], meals: 'Breakfast, Lunch', accommodation: 'Sacred Valley hotel' },
+      { day: 27, title: 'Machu Picchu Day 1', titleEs: 'Machu Picchu Día 1', description: 'Train to Aguas Calientes, afternoon citadel.', descriptionEs: 'Tren a Aguas Calientes, ciudadela por la tarde.', locations: ['Machu Picchu'], activities: ['Train', 'Citadel visit'], activitiesEs: ['Tren', 'Visita a ciudadela'], meals: 'Breakfast, Lunch', accommodation: 'Aguas Calientes hotel' },
+      { day: 28, title: 'Machu Picchu Day 2', titleEs: 'Machu Picchu Día 2', description: 'Sunrise visit, Huayna Picchu optional.', descriptionEs: 'Visita al amanecer, Huayna Picchu opcional.', locations: ['Machu Picchu'], activities: ['Sunrise', 'Optional hike'], activitiesEs: ['Amanecer', 'Caminata opcional'], meals: 'Breakfast, Lunch', accommodation: 'Cusco hotel' },
+      // Week 7: Amazon Tambopata
+      { day: 29, title: 'Cusco Free Day', titleEs: 'Día Libre en Cusco', description: 'Rest, explore, shop at your pace.', descriptionEs: 'Descanso, exploración, compras a su ritmo.', locations: ['Cusco'], activities: ['Free day'], activitiesEs: ['Día libre'], meals: 'Breakfast', accommodation: 'Cusco hotel' },
+      { day: 30, title: 'Fly to Tambopata', titleEs: 'Vuelo a Tambopata', description: 'Flight to Puerto Maldonado, boat to lodge.', descriptionEs: 'Vuelo a Puerto Maldonado, bote al lodge.', locations: ['Tambopata'], activities: ['Flight', 'Boat', 'Jungle walk'], activitiesEs: ['Vuelo', 'Bote', 'Caminata en selva'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Tambopata lodge' },
+      { day: 31, title: 'Amazon Day 1', titleEs: 'Amazonía Día 1', description: 'Canopy walkway, birdwatching, night walk.', descriptionEs: 'Puente colgante, observación de aves, caminata nocturna.', locations: ['Tambopata Reserve'], activities: ['Canopy', 'Birding', 'Night walk'], activitiesEs: ['Canopy', 'Avistamiento', 'Caminata nocturna'], meals: 'All meals', accommodation: 'Tambopata lodge' },
+      { day: 32, title: 'Amazon Day 2', titleEs: 'Amazonía Día 2', description: 'Oxbow lake, giant otters, caiman spotting.', descriptionEs: 'Lago, nutrias gigantes, avistamiento de caimanes.', locations: ['Sandoval Lake'], activities: ['Lake excursion', 'Wildlife'], activitiesEs: ['Excursión al lago', 'Vida silvestre'], meals: 'All meals', accommodation: 'Tambopata lodge' },
+      { day: 33, title: 'Amazon Day 3', titleEs: 'Amazonía Día 3', description: 'Clay lick, macaws, medicinal plants.', descriptionEs: 'Collpa, guacamayos, plantas medicinales.', locations: ['Tambopata'], activities: ['Macaw clay lick', 'Botanical walk'], activitiesEs: ['Collpa de guacamayos', 'Caminata botánica'], meals: 'All meals', accommodation: 'Tambopata lodge' },
+      { day: 34, title: 'Amazon Day 4', titleEs: 'Amazonía Día 4', description: 'Indigenous community, piranha fishing.', descriptionEs: 'Comunidad indígena, pesca de pirañas.', locations: ['Native community'], activities: ['Community visit', 'Fishing'], activitiesEs: ['Visita a comunidad', 'Pesca'], meals: 'All meals', accommodation: 'Tambopata lodge' },
+      { day: 35, title: 'Return to Lima', titleEs: 'Regreso a Lima', description: 'Morning activity, fly to Lima.', descriptionEs: 'Actividad matutina, vuelo a Lima.', locations: ['Lima'], activities: ['Morning walk', 'Flight'], activitiesEs: ['Caminata matutina', 'Vuelo'], meals: 'Breakfast, Lunch', accommodation: 'Lima hotel' },
+      // Week 8: Northern Coast
+      { day: 36, title: 'Lima Rest', titleEs: 'Descanso en Lima', description: 'Free day to rest and recharge.', descriptionEs: 'Día libre para descansar y recargar.', locations: ['Lima'], activities: ['Rest'], activitiesEs: ['Descanso'], meals: 'Breakfast', accommodation: 'Lima hotel' },
+      { day: 37, title: 'Fly to Trujillo', titleEs: 'Vuelo a Trujillo', description: 'Flight north, afternoon city tour.', descriptionEs: 'Vuelo al norte, tour de ciudad por la tarde.', locations: ['Trujillo'], activities: ['Flight', 'City tour'], activitiesEs: ['Vuelo', 'Tour de ciudad'], meals: 'Breakfast', accommodation: 'Trujillo hotel' },
+      { day: 38, title: 'Chan Chan', titleEs: 'Chan Chan', description: 'Largest adobe city in the Americas.', descriptionEs: 'La ciudad de adobe más grande de las Américas.', locations: ['Chan Chan'], activities: ['Archaeological tour'], activitiesEs: ['Tour arqueológico'], meals: 'Breakfast', accommodation: 'Trujillo hotel' },
+      { day: 39, title: 'Huacas & Beach', titleEs: 'Huacas y Playa', description: 'Huaca del Sol y Luna, Huanchaco beach.', descriptionEs: 'Huaca del Sol y Luna, playa Huanchaco.', locations: ['Huaca del Sol', 'Huanchaco'], activities: ['Temples', 'Beach'], activitiesEs: ['Templos', 'Playa'], meals: 'Breakfast, Lunch', accommodation: 'Trujillo hotel' },
+      { day: 40, title: 'To Chiclayo', titleEs: 'A Chiclayo', description: 'Drive to Chiclayo, Royal Tombs Museum.', descriptionEs: 'Viaje a Chiclayo, Museo Tumbas Reales.', locations: ['Chiclayo'], activities: ['Travel', 'Museum'], activitiesEs: ['Viaje', 'Museo'], meals: 'Breakfast', accommodation: 'Chiclayo hotel' },
+      { day: 41, title: 'Sipán & Túcume', titleEs: 'Sipán y Túcume', description: 'Lord of Sipán site, Túcume pyramids.', descriptionEs: 'Sitio del Señor de Sipán, pirámides de Túcume.', locations: ['Sipán', 'Túcume'], activities: ['Archaeological sites'], activitiesEs: ['Sitios arqueológicos'], meals: 'Breakfast', accommodation: 'Chiclayo hotel' },
+      { day: 42, title: 'To Chachapoyas', titleEs: 'A Chachapoyas', description: 'Scenic drive into cloud forest region.', descriptionEs: 'Viaje panorámico a la región del bosque nublado.', locations: ['Chachapoyas'], activities: ['Scenic drive'], activitiesEs: ['Viaje panorámico'], meals: 'Breakfast', accommodation: 'Chachapoyas hotel' },
+      // Week 9: Northern Highlands & Iquitos
+      { day: 43, title: 'Kuélap Fortress', titleEs: 'Fortaleza de Kuélap', description: 'Cable car to the cloud city fortress.', descriptionEs: 'Teleférico a la fortaleza en las nubes.', locations: ['Kuélap'], activities: ['Cable car', 'Fortress tour'], activitiesEs: ['Teleférico', 'Tour de fortaleza'], meals: 'Breakfast, Lunch', accommodation: 'Chachapoyas hotel' },
+      { day: 44, title: 'Gocta Waterfall', titleEs: 'Catarata Gocta', description: 'Hike to one of the world\'s tallest waterfalls.', descriptionEs: 'Caminata a una de las cataratas más altas del mundo.', locations: ['Gocta'], activities: ['Hiking', 'Waterfall'], activitiesEs: ['Caminata', 'Catarata'], meals: 'Breakfast, Lunch', accommodation: 'Chachapoyas hotel' },
+      { day: 45, title: 'Sarcophagi of Karajía', titleEs: 'Sarcófagos de Karajía', description: 'Ancient cliff-side burial sites.', descriptionEs: 'Sitios de entierro antiguos en acantilados.', locations: ['Karajía'], activities: ['Archaeological site', 'Hiking'], activitiesEs: ['Sitio arqueológico', 'Caminata'], meals: 'Breakfast', accommodation: 'Chachapoyas hotel' },
+      { day: 46, title: 'Fly to Iquitos', titleEs: 'Vuelo a Iquitos', description: 'Fly via Lima to Amazon\'s largest city.', descriptionEs: 'Vuelo vía Lima a la ciudad más grande de la Amazonía.', locations: ['Iquitos'], activities: ['Flights', 'City exploration'], activitiesEs: ['Vuelos', 'Exploración de ciudad'], meals: 'Breakfast', accommodation: 'Iquitos hotel' },
+      { day: 47, title: 'Amazon Iquitos Day 1', titleEs: 'Amazonía Iquitos Día 1', description: 'Boat to lodge on Amazon tributaries.', descriptionEs: 'Bote al lodge en afluentes del Amazonas.', locations: ['Iquitos jungle'], activities: ['Boat journey', 'Lodge arrival'], activitiesEs: ['Viaje en bote', 'Llegada al lodge'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Iquitos jungle lodge' },
+      { day: 48, title: 'Amazon Iquitos Day 2', titleEs: 'Amazonía Iquitos Día 2', description: 'Pink dolphin watching, village visit.', descriptionEs: 'Avistamiento de delfines rosados, visita a pueblo.', locations: ['Amazon River'], activities: ['Dolphins', 'Village'], activitiesEs: ['Delfines', 'Pueblo'], meals: 'All meals', accommodation: 'Iquitos jungle lodge' },
+      { day: 49, title: 'Amazon Iquitos Day 3', titleEs: 'Amazonía Iquitos Día 3', description: 'Jaguar search, night caiman spotting.', descriptionEs: 'Búsqueda de jaguares, avistamiento nocturno de caimanes.', locations: ['Pacaya-Samiria'], activities: ['Wildlife tracking', 'Night excursion'], activitiesEs: ['Rastreo de fauna', 'Excursión nocturna'], meals: 'All meals', accommodation: 'Iquitos jungle lodge' },
+      // Week 10: Huaraz & Cordillera Blanca
+      { day: 50, title: 'Return to Lima', titleEs: 'Regreso a Lima', description: 'Fly back to Lima, rest day.', descriptionEs: 'Vuelo de regreso a Lima, día de descanso.', locations: ['Lima'], activities: ['Flight', 'Rest'], activitiesEs: ['Vuelo', 'Descanso'], meals: 'Breakfast', accommodation: 'Lima hotel' },
+      { day: 51, title: 'To Huaraz', titleEs: 'A Huaraz', description: 'Drive to Cordillera Blanca, acclimatize.', descriptionEs: 'Viaje a la Cordillera Blanca, aclimatación.', locations: ['Huaraz'], activities: ['Scenic drive'], activitiesEs: ['Viaje panorámico'], meals: 'Breakfast', accommodation: 'Huaraz hotel' },
+      { day: 52, title: 'Huaraz Acclimatization', titleEs: 'Aclimatación en Huaraz', description: 'Gentle walks, market visit, rest.', descriptionEs: 'Caminatas suaves, visita al mercado, descanso.', locations: ['Huaraz'], activities: ['Light activity'], activitiesEs: ['Actividad ligera'], meals: 'Breakfast', accommodation: 'Huaraz hotel' },
+      { day: 53, title: 'Laguna 69', titleEs: 'Laguna 69', description: 'Trek to stunning turquoise glacial lake.', descriptionEs: 'Caminata a impresionante laguna glacial turquesa.', locations: ['Huascarán National Park'], activities: ['Hiking', 'Lake visit'], activitiesEs: ['Caminata', 'Visita a laguna'], meals: 'Breakfast, Lunch', accommodation: 'Huaraz hotel' },
+      { day: 54, title: 'Chavín de Huántar', titleEs: 'Chavín de Huántar', description: 'Ancient temple, UNESCO World Heritage.', descriptionEs: 'Templo antiguo, Patrimonio de la Humanidad.', locations: ['Chavín'], activities: ['Archaeological site'], activitiesEs: ['Sitio arqueológico'], meals: 'Breakfast, Lunch', accommodation: 'Huaraz hotel' },
+      { day: 55, title: 'Llanganuco Lakes', titleEs: 'Lagunas de Llanganuco', description: 'Beautiful mountain lakes, easy walks.', descriptionEs: 'Hermosas lagunas de montaña, caminatas fáciles.', locations: ['Llanganuco'], activities: ['Lake visit', 'Nature walks'], activitiesEs: ['Visita a lagunas', 'Caminatas'], meals: 'Breakfast, Lunch', accommodation: 'Huaraz hotel' },
+      { day: 56, title: 'Return to Lima', titleEs: 'Regreso a Lima', description: 'Drive back to Lima.', descriptionEs: 'Viaje de regreso a Lima.', locations: ['Lima'], activities: ['Travel'], activitiesEs: ['Viaje'], meals: 'Breakfast', accommodation: 'Lima hotel' },
+      // Final Days
+      { day: 57, title: 'Lima Beach Day', titleEs: 'Día de Playa en Lima', description: 'Relax at the coast, final shopping.', descriptionEs: 'Relajación en la costa, compras finales.', locations: ['Lima'], activities: ['Beach', 'Shopping'], activitiesEs: ['Playa', 'Compras'], meals: 'Breakfast', accommodation: 'Lima hotel' },
+      { day: 58, title: 'Lima Exploration', titleEs: 'Exploración de Lima', description: 'Revisit favorites, Barranco art walk.', descriptionEs: 'Revisitar favoritos, caminata de arte en Barranco.', locations: ['Lima', 'Barranco'], activities: ['Free exploration', 'Art walk'], activitiesEs: ['Exploración libre', 'Caminata de arte'], meals: 'Breakfast', accommodation: 'Lima hotel' },
+      { day: 59, title: 'Farewell Day', titleEs: 'Día de Despedida', description: 'Final memories, farewell dinner.', descriptionEs: 'Últimos recuerdos, cena de despedida.', locations: ['Lima'], activities: ['Free time', 'Farewell dinner'], activitiesEs: ['Tiempo libre', 'Cena de despedida'], meals: 'Breakfast, Farewell dinner', accommodation: 'Lima hotel' },
+      { day: 60, title: 'Departure', titleEs: 'Partida', description: 'Transfer to airport, farewell Peru!', descriptionEs: 'Traslado al aeropuerto, adiós Perú!', locations: ['Lima Airport'], activities: ['Airport transfer'], activitiesEs: ['Traslado al aeropuerto'], meals: 'Breakfast' }
+    ]
   }
 ];
 
@@ -1267,5 +1504,5 @@ export function getFeaturedItineraries(): Itinerary[] {
 }
 
 export function getAllDurations(): number[] {
-  return [...new Set(itineraries.map(i => i.duration))].sort((a, b) => a - b);
+  return Array.from(new Set(itineraries.map(i => i.duration))).sort((a, b) => a - b);
 }

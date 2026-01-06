@@ -4,7 +4,7 @@ import React, { createContext, useContext, useState, useEffect, ReactNode } from
 import { translations, Locale } from './translations';
 
 type TranslationValue = string | { [key: string]: TranslationValue };
-type Translations = typeof translations.en;
+type Translations = Record<string, unknown>;
 
 interface I18nContextType {
   locale: Locale;

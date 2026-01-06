@@ -3,16 +3,49 @@
 import Link from 'next/link';
 import { useI18n } from '@/lib/i18n';
 import { getFeaturedItineraries, getAllDurations } from '@/data/itineraries';
+import { getFeaturedDestinations } from '@/data/destinations';
 import {
   MapPin, Calendar, Users, Shield, Heart, Star,
   ChevronRight, Mountain, TreePine, Waves, Camera,
-  Clock, CheckCircle
+  Clock, CheckCircle, Compass, Sun, Utensils, Bus
 } from 'lucide-react';
 
 export default function HomePage() {
   const { t, locale } = useI18n();
   const featuredItineraries = getFeaturedItineraries();
+  const featuredDestinations = getFeaturedDestinations();
   const durations = getAllDurations();
+
+  const travelInfoCards = [
+    {
+      icon: Sun,
+      title: locale === 'es' ? 'Clima y Temporadas' : 'Seasons & Climate',
+      description: locale === 'es'
+        ? 'Aprende sobre el mejor momento para visitar cada región'
+        : 'Learn about the best time to visit each region'
+    },
+    {
+      icon: Mountain,
+      title: locale === 'es' ? 'Altura y Salud' : 'Altitude & Health',
+      description: locale === 'es'
+        ? 'Consejos para manejar la altura con tu familia'
+        : 'Tips for managing altitude with your family'
+    },
+    {
+      icon: Bus,
+      title: locale === 'es' ? 'Transporte' : 'Transportation',
+      description: locale === 'es'
+        ? 'Opciones de vuelos, trenes y transporte terrestre'
+        : 'Flight, train, and ground transport options'
+    },
+    {
+      icon: Utensils,
+      title: locale === 'es' ? 'Gastronomía' : 'Food & Gastronomy',
+      description: locale === 'es'
+        ? 'Descubre la increíble comida peruana'
+        : 'Discover Peru\'s incredible cuisine'
+    }
+  ];
 
   const whyPeruFeatures = [
     {
@@ -193,7 +226,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Destinations Preview */}
+      {/* Featured Destinations */}
       <section className="py-16 lg:py-24 bg-white">
         <div className="container-peru">
           <div className="text-center mb-12">
@@ -201,25 +234,34 @@ export default function HomePage() {
             <p className="section-subtitle">{t('home.destinations_subtitle')}</p>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
-            {[
-              { slug: 'machu-picchu', name: 'Machu Picchu' },
-              { slug: 'cusco', name: 'Cusco' },
-              { slug: 'lima', name: 'Lima' },
-              { slug: 'sacred-valley', name: locale === 'es' ? 'Valle Sagrado' : 'Sacred Valley' },
-              { slug: 'amazon', name: locale === 'es' ? 'Amazonía' : 'Amazon' },
-              { slug: 'lake-titicaca', name: locale === 'es' ? 'Lago Titicaca' : 'Lake Titicaca' },
-            ].map((dest) => (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {featuredDestinations.slice(0, 6).map((dest) => (
               <Link
                 key={dest.slug}
                 href={`/destinations/${dest.slug}/`}
-                className="group relative h-32 rounded-xl overflow-hidden bg-gradient-to-br from-peru-earth to-peru-terracotta"
+                className="group relative h-64 rounded-xl overflow-hidden bg-gradient-to-br from-peru-earth to-peru-terracotta"
               >
-                <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-colors"></div>
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <span className="text-white font-display font-bold text-center px-2">
-                    {dest.name}
+                <div
+                  className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-110"
+                  style={{
+                    backgroundImage: `url(${dest.image})`,
+                    backgroundColor: '#8B4513'
+                  }}
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
+                <div className="absolute bottom-0 left-0 right-0 p-6">
+                  <span className="inline-block px-2 py-1 bg-peru-gold/90 text-white text-xs rounded mb-2">
+                    {dest.region === 'coast' ? (locale === 'es' ? 'Costa' : 'Coast') :
+                     dest.region === 'highlands' ? (locale === 'es' ? 'Sierra' : 'Highlands') :
+                     dest.region === 'amazon' ? (locale === 'es' ? 'Amazonía' : 'Amazon') :
+                     (locale === 'es' ? 'Norte' : 'Northern Peru')}
                   </span>
+                  <h3 className="text-xl font-display font-bold text-white mb-1">
+                    {locale === 'es' ? dest.nameEs : dest.name}
+                  </h3>
+                  <p className="text-white/80 text-sm line-clamp-2">
+                    {locale === 'es' ? dest.taglineEs : dest.tagline}
+                  </p>
                 </div>
               </Link>
             ))}
@@ -227,7 +269,50 @@ export default function HomePage() {
 
           <div className="text-center mt-8">
             <Link href="/destinations/" className="btn-secondary">
-              {t('footer.view_all')}
+              {locale === 'es' ? 'Ver los 18 Destinos' : 'View All 18 Destinations'}
+              <ChevronRight className="ml-2 h-5 w-5" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Essential Travel Info */}
+      <section className="py-16 lg:py-24 bg-peru-sand">
+        <div className="container-peru">
+          <div className="text-center mb-12">
+            <h2 className="section-title">
+              {locale === 'es' ? 'Información Esencial de Viaje' : 'Essential Travel Info'}
+            </h2>
+            <p className="section-subtitle">
+              {locale === 'es'
+                ? 'Todo lo que necesitas saber para planificar tu viaje a Perú'
+                : 'Everything you need to know to plan your Peru trip'
+              }
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {travelInfoCards.map((card, index) => (
+              <Link
+                key={index}
+                href="/travel-info/"
+                className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow group"
+              >
+                <div className="w-14 h-14 bg-peru-terracotta/10 rounded-full flex items-center justify-center mb-4 group-hover:bg-peru-terracotta/20 transition-colors">
+                  <card.icon className="w-7 h-7 text-peru-terracotta" />
+                </div>
+                <h3 className="text-lg font-display font-bold text-peru-earth mb-2 group-hover:text-peru-terracotta transition-colors">
+                  {card.title}
+                </h3>
+                <p className="text-gray-600 text-sm">{card.description}</p>
+              </Link>
+            ))}
+          </div>
+
+          <div className="text-center mt-8">
+            <Link href="/travel-info/" className="btn-primary">
+              {locale === 'es' ? 'Ver Guía Completa' : 'View Complete Guide'}
+              <ChevronRight className="ml-2 h-5 w-5" />
             </Link>
           </div>
         </div>
