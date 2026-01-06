@@ -7,11 +7,20 @@ import { Menu, X, ChevronDown, MapPin } from 'lucide-react';
 import LanguageSwitcher from './LanguageSwitcher';
 
 export default function Header() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isItinerariesOpen, setIsItinerariesOpen] = useState(false);
+  const [isResourcesOpen, setIsResourcesOpen] = useState(false);
 
-  const itineraryDurations = [5, 7, 10, 14, 15, 20, 21, 28, 31];
+  const itineraryDurations = [3, 5, 7, 10, 14, 21, 30, 60];
+
+  const resources = [
+    { href: '/when-to-visit/', label: locale === 'es' ? 'Cuándo Visitar' : 'When to Visit' },
+    { href: '/packing/', label: locale === 'es' ? 'Listas de Equipaje' : 'Packing Lists' },
+    { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
+    { href: '/altitude-guide/', label: locale === 'es' ? 'Guía de Altitud' : 'Altitude Guide' },
+    { href: '/faq/', label: locale === 'es' ? 'Preguntas Frecuentes' : 'FAQ' },
+  ];
 
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md shadow-sm">
@@ -84,6 +93,36 @@ export default function Header() {
             <Link href="/travel-info/" className="nav-link">
               {t('nav.travel_info')}
             </Link>
+
+            {/* Resources Dropdown */}
+            <div className="relative group">
+              <button
+                className="nav-link flex items-center space-x-1"
+                onMouseEnter={() => setIsResourcesOpen(true)}
+                onMouseLeave={() => setIsResourcesOpen(false)}
+              >
+                <span>{locale === 'es' ? 'Recursos' : 'Resources'}</span>
+                <ChevronDown className="h-4 w-4" />
+              </button>
+              <div
+                className={`absolute top-full right-0 mt-2 w-48 bg-white rounded-xl shadow-xl border border-gray-100 py-2 transition-all duration-200 ${
+                  isResourcesOpen ? 'opacity-100 visible' : 'opacity-0 invisible'
+                }`}
+                onMouseEnter={() => setIsResourcesOpen(true)}
+                onMouseLeave={() => setIsResourcesOpen(false)}
+              >
+                {resources.map((resource) => (
+                  <Link
+                    key={resource.href}
+                    href={resource.href}
+                    className="block px-4 py-2 text-gray-700 hover:bg-peru-sand hover:text-peru-earth transition-colors"
+                  >
+                    {resource.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+
             <Link href="/about/" className="nav-link">
               {t('nav.about')}
             </Link>
@@ -162,6 +201,23 @@ export default function Header() {
               >
                 {t('nav.travel_info')}
               </Link>
+              <div className="py-2">
+                <span className="nav-link font-semibold">
+                  {locale === 'es' ? 'Recursos' : 'Resources'}
+                </span>
+                <div className="pl-4 flex flex-col space-y-2 mt-2">
+                  {resources.map((resource) => (
+                    <Link
+                      key={resource.href}
+                      href={resource.href}
+                      className="text-sm text-gray-600 hover:text-peru-terracotta py-1"
+                      onClick={() => setIsMobileMenuOpen(false)}
+                    >
+                      {resource.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
               <Link
                 href="/about/"
                 className="nav-link py-2"
