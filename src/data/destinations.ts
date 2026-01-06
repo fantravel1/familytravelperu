@@ -1186,5 +1186,5 @@ export function getFeaturedDestinations(): Destination[] {
 }
 
 export function getAllRegions(): string[] {
-  return [...new Set(destinations.map(d => d.region))];
+  return Array.from(new Set(destinations.map(d => d.region)));
 }

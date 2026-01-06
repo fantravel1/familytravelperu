@@ -1504,5 +1504,5 @@ export function getFeaturedItineraries(): Itinerary[] {
 }
 
 export function getAllDurations(): number[] {
-  return [...new Set(itineraries.map(i => i.duration))].sort((a, b) => a - b);
+  return Array.from(new Set(itineraries.map(i => i.duration))).sort((a, b) => a - b);
 }
