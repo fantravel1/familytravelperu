@@ -81,6 +81,9 @@ export default function Header() {
             <Link href="/planning/" className="nav-link">
               {t('nav.planning')}
             </Link>
+            <Link href="/travel-info/" className="nav-link">
+              {t('nav.travel_info')}
+            </Link>
             <Link href="/about/" className="nav-link">
               {t('nav.about')}
             </Link>
@@ -151,6 +154,13 @@ export default function Header() {
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 {t('nav.planning')}
+              </Link>
+              <Link
+                href="/travel-info/"
+                className="nav-link py-2"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                {t('nav.travel_info')}
               </Link>
               <Link
                 href="/about/"

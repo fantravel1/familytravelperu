@@ -42,6 +42,239 @@ export interface Itinerary {
 }
 
 export const itineraries: Itinerary[] = [
+  // 3-DAY ITINERARIES
+  {
+    id: '3-day-culture-coast',
+    slug: '3-day-lima-culture-coast',
+    duration: 3,
+    title: 'Lima Culture & Coast',
+    titleEs: 'Lima Cultura y Costa',
+    subtitle: 'A weekend taste of Peru\'s vibrant capital',
+    subtitleEs: 'Un fin de semana saboreando la vibrante capital de Perú',
+    description: 'Perfect for families with limited time or as a Lima extension. Explore world-class museums, incredible food, and the beautiful Miraflores coastline. No altitude concerns!',
+    descriptionEs: 'Perfecto para familias con tiempo limitado o como extensión en Lima. Explora museos de clase mundial, comida increíble y la hermosa costa de Miraflores. Sin preocupaciones de altura!',
+    theme: 'cultural',
+    difficulty: 'easy',
+    price: 599,
+    image: '/images/itineraries/lima-culture.jpg',
+    highlights: [
+      'Larco Museum pre-Columbian treasures',
+      'Lima food tour with tastings',
+      'Miraflores Malecón sunset walk',
+      'San Pedro Market exploration',
+      'Huaca Pucllana archaeological site'
+    ],
+    highlightsEs: [
+      'Tesoros precolombinos del Museo Larco',
+      'Tour gastronómico con degustaciones',
+      'Caminata al atardecer por el Malecón de Miraflores',
+      'Exploración del Mercado San Pedro',
+      'Sitio arqueológico Huaca Pucllana'
+    ],
+    includes: ['2 nights accommodation', 'Daily breakfast', 'Private transportation', 'English-speaking guide', 'Museum entrance fees'],
+    includesEs: ['2 noches de alojamiento', 'Desayuno diario', 'Transporte privado', 'Guía de habla inglesa', 'Entradas a museos'],
+    notIncludes: ['International flights', 'Travel insurance', 'Lunches and dinners', 'Tips'],
+    notIncludesEs: ['Vuelos internacionales', 'Seguro de viaje', 'Almuerzos y cenas', 'Propinas'],
+    bestFor: ['Weekend visitors', 'Food lovers', 'Families avoiding altitude', 'First-time Peru visitors'],
+    bestForEs: ['Visitantes de fin de semana', 'Amantes de la gastronomía', 'Familias evitando la altura', 'Visitantes primerizos'],
+    minAge: 3,
+    groupSize: '2-8',
+    startLocation: 'Lima',
+    endLocation: 'Lima',
+    featured: true,
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Welcome to Lima',
+        titleEs: 'Bienvenidos a Lima',
+        description: 'Arrive in Lima and settle into your Miraflores hotel. Afternoon visit to the stunning Larco Museum with its incredible pre-Columbian gold collection. Evening Malecón walk with ocean views.',
+        descriptionEs: 'Llegada a Lima y acomodo en su hotel de Miraflores. Visita por la tarde al impresionante Museo Larco con su increíble colección de oro precolombino. Caminata nocturna por el Malecón con vistas al océano.',
+        locations: ['Lima Airport', 'Miraflores', 'Larco Museum'],
+        activities: ['Airport pickup', 'Museum tour', 'Malecón sunset walk'],
+        activitiesEs: ['Recogida en aeropuerto', 'Tour del museo', 'Caminata al atardecer por el Malecón'],
+        meals: 'Welcome dinner',
+        accommodation: 'Hotel in Miraflores'
+      },
+      {
+        day: 2,
+        title: 'Lima Food & History',
+        titleEs: 'Gastronomía e Historia de Lima',
+        description: 'Morning walking tour of Lima\'s Historic Center: Plaza Mayor, San Francisco Catacombs, and colonial architecture. Afternoon food tour through Miraflores and Barranco with tastings of ceviche, anticuchos, and pisco sour.',
+        descriptionEs: 'Tour matutino a pie por el Centro Histórico de Lima: Plaza Mayor, Catacumbas de San Francisco y arquitectura colonial. Tour gastronómico por la tarde por Miraflores y Barranco con degustaciones de ceviche, anticuchos y pisco sour.',
+        locations: ['Lima Historic Center', 'Miraflores', 'Barranco'],
+        activities: ['Historic center tour', 'Catacombs visit', 'Food tour with tastings'],
+        activitiesEs: ['Tour del centro histórico', 'Visita a catacumbas', 'Tour gastronómico con degustaciones'],
+        meals: 'Breakfast, lunch tastings',
+        accommodation: 'Hotel in Miraflores'
+      },
+      {
+        day: 3,
+        title: 'Miraflores & Departure',
+        titleEs: 'Miraflores y Partida',
+        description: 'Morning visit to Huaca Pucllana, a pre-Inca pyramid right in Miraflores. Time for shopping at Indian Market or Larcomar. Transfer to airport for departure.',
+        descriptionEs: 'Visita matutina a Huaca Pucllana, una pirámide pre-inca en pleno Miraflores. Tiempo para compras en el Mercado Indio o Larcomar. Traslado al aeropuerto para la partida.',
+        locations: ['Huaca Pucllana', 'Miraflores', 'Lima Airport'],
+        activities: ['Archaeological site', 'Shopping time', 'Airport transfer'],
+        activitiesEs: ['Sitio arqueológico', 'Tiempo de compras', 'Traslado al aeropuerto'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
+  {
+    id: '3-day-sacred-valley-luxury',
+    slug: '3-day-luxury-sacred-valley',
+    duration: 3,
+    title: 'Luxury Sacred Valley Escape',
+    titleEs: 'Escape de Lujo al Valle Sagrado',
+    subtitle: 'Premium family experience in Peru\'s heartland',
+    subtitleEs: 'Experiencia familiar premium en el corazón del Perú',
+    description: 'A luxurious long weekend in the Sacred Valley with a quick Machu Picchu visit. Stay at premium hotels, enjoy gourmet dining, and experience the best of Inca heritage.',
+    descriptionEs: 'Un lujoso fin de semana largo en el Valle Sagrado con una visita rápida a Machu Picchu. Hospédese en hoteles premium, disfrute de cenas gourmet y experimente lo mejor de la herencia Inca.',
+    theme: 'classic',
+    difficulty: 'easy',
+    price: 1299,
+    image: '/images/itineraries/sacred-valley-luxury.jpg',
+    highlights: [
+      'Luxury Sacred Valley accommodation',
+      'Private Machu Picchu tour',
+      'Gourmet Peruvian dining',
+      'Exclusive alpaca experience',
+      'VIP train journey'
+    ],
+    highlightsEs: [
+      'Alojamiento de lujo en el Valle Sagrado',
+      'Tour privado a Machu Picchu',
+      'Cena gourmet peruana',
+      'Experiencia exclusiva con alpacas',
+      'Viaje en tren VIP'
+    ],
+    includes: ['2 nights luxury accommodation', 'All meals', 'Private VIP train', 'Private guide', 'All entrance fees'],
+    includesEs: ['2 noches alojamiento de lujo', 'Todas las comidas', 'Tren VIP privado', 'Guía privado', 'Todas las entradas'],
+    notIncludes: ['Flights to Cusco', 'International flights', 'Travel insurance', 'Tips'],
+    notIncludesEs: ['Vuelos a Cusco', 'Vuelos internacionales', 'Seguro de viaje', 'Propinas'],
+    bestFor: ['Luxury travelers', 'Time-constrained families', 'Special celebrations', 'Comfort seekers'],
+    bestForEs: ['Viajeros de lujo', 'Familias con poco tiempo', 'Celebraciones especiales', 'Buscadores de confort'],
+    minAge: 4,
+    groupSize: '2-6',
+    startLocation: 'Cusco',
+    endLocation: 'Cusco',
+    featured: true,
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Arrive Sacred Valley',
+        titleEs: 'Llegada al Valle Sagrado',
+        description: 'Arrive in Cusco and transfer directly to Sacred Valley (lower altitude for easier acclimatization). Check into your luxury hotel. Afternoon gentle exploration with alpaca visit and weaving demonstration.',
+        descriptionEs: 'Llegada a Cusco y traslado directo al Valle Sagrado (menor altitud para mejor aclimatación). Check-in en su hotel de lujo. Tarde de exploración suave con visita a alpacas y demostración de tejido.',
+        locations: ['Cusco Airport', 'Sacred Valley'],
+        activities: ['Airport pickup', 'Luxury hotel check-in', 'Alpaca farm', 'Weaving demo'],
+        activitiesEs: ['Recogida en aeropuerto', 'Check-in hotel de lujo', 'Granja de alpacas', 'Demostración de tejido'],
+        meals: 'Gourmet dinner',
+        accommodation: 'Luxury Sacred Valley hotel'
+      },
+      {
+        day: 2,
+        title: 'Machu Picchu VIP',
+        titleEs: 'Machu Picchu VIP',
+        description: 'Early VIP train from Ollantaytambo to Aguas Calientes. Private guided tour of Machu Picchu with special access times. Gourmet lunch at Sanctuary Lodge. Return by train for evening spa time.',
+        descriptionEs: 'Tren VIP temprano desde Ollantaytambo a Aguas Calientes. Tour guiado privado de Machu Picchu con horarios de acceso especiales. Almuerzo gourmet en Sanctuary Lodge. Regreso en tren para tiempo de spa.',
+        locations: ['Ollantaytambo', 'Machu Picchu', 'Aguas Calientes'],
+        activities: ['VIP train', 'Private Machu Picchu tour', 'Gourmet lunch', 'Spa time'],
+        activitiesEs: ['Tren VIP', 'Tour privado Machu Picchu', 'Almuerzo gourmet', 'Tiempo de spa'],
+        meals: 'Breakfast, Gourmet lunch, Dinner',
+        accommodation: 'Luxury Sacred Valley hotel'
+      },
+      {
+        day: 3,
+        title: 'Sacred Valley & Departure',
+        titleEs: 'Valle Sagrado y Partida',
+        description: 'Leisurely morning with optional spa treatment. Visit Moray circular terraces and Maras salt mines. Late afternoon transfer to Cusco airport.',
+        descriptionEs: 'Mañana tranquila con tratamiento de spa opcional. Visita a las terrazas circulares de Moray y salineras de Maras. Traslado al aeropuerto de Cusco por la tarde.',
+        locations: ['Sacred Valley', 'Moray', 'Maras', 'Cusco Airport'],
+        activities: ['Spa optional', 'Moray terraces', 'Maras salt mines', 'Airport transfer'],
+        activitiesEs: ['Spa opcional', 'Terrazas de Moray', 'Salineras de Maras', 'Traslado al aeropuerto'],
+        meals: 'Breakfast, Lunch'
+      }
+    ]
+  },
+  {
+    id: '3-day-ancient-civilizations',
+    slug: '3-day-ancient-civilizations-north',
+    duration: 3,
+    title: 'Ancient Civilizations of the North',
+    titleEs: 'Civilizaciones Antiguas del Norte',
+    subtitle: 'Discover Peru\'s pre-Inca treasures',
+    subtitleEs: 'Descubre los tesoros pre-Incas del Perú',
+    description: 'Explore the remarkable archaeological sites of northern Peru. Visit Chan Chan, the largest adobe city in the world, and the royal tombs of Sipán. Perfect for history-loving families.',
+    descriptionEs: 'Explora los notables sitios arqueológicos del norte de Perú. Visita Chan Chan, la ciudad de adobe más grande del mundo, y las tumbas reales de Sipán. Perfecto para familias amantes de la historia.',
+    theme: 'historical',
+    difficulty: 'easy',
+    price: 699,
+    image: '/images/itineraries/north-peru.jpg',
+    highlights: [
+      'Chan Chan adobe citadel',
+      'Lord of Sipán royal tombs',
+      'Huaca del Sol y la Luna',
+      'Chiclayo museums',
+      'Traditional northern cuisine'
+    ],
+    highlightsEs: [
+      'Ciudadela de adobe Chan Chan',
+      'Tumbas reales del Señor de Sipán',
+      'Huaca del Sol y la Luna',
+      'Museos de Chiclayo',
+      'Gastronomía tradicional del norte'
+    ],
+    includes: ['2 nights accommodation', 'Daily breakfast', 'Private transportation', 'Expert archaeologist guide', 'All entrance fees'],
+    includesEs: ['2 noches de alojamiento', 'Desayuno diario', 'Transporte privado', 'Guía arqueólogo experto', 'Todas las entradas'],
+    notIncludes: ['Flights to Trujillo/Chiclayo', 'International flights', 'Lunches and dinners', 'Tips'],
+    notIncludesEs: ['Vuelos a Trujillo/Chiclayo', 'Vuelos internacionales', 'Almuerzos y cenas', 'Propinas'],
+    bestFor: ['History enthusiasts', 'Off-the-beaten-path seekers', 'Archaeology fans', 'Educational trips'],
+    bestForEs: ['Entusiastas de la historia', 'Buscadores de rutas alternativas', 'Fanáticos de la arqueología', 'Viajes educativos'],
+    minAge: 6,
+    groupSize: '2-8',
+    startLocation: 'Trujillo',
+    endLocation: 'Chiclayo',
+    featured: false,
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Trujillo & Chan Chan',
+        titleEs: 'Trujillo y Chan Chan',
+        description: 'Arrive in Trujillo and explore the colonial city center. Afternoon visit to Chan Chan, the largest pre-Columbian city in South America and UNESCO World Heritage Site.',
+        descriptionEs: 'Llegada a Trujillo y exploración del centro colonial. Visita por la tarde a Chan Chan, la ciudad precolombina más grande de Sudamérica y Patrimonio de la Humanidad.',
+        locations: ['Trujillo', 'Chan Chan'],
+        activities: ['City tour', 'Chan Chan exploration', 'Colonial architecture'],
+        activitiesEs: ['Tour de ciudad', 'Exploración de Chan Chan', 'Arquitectura colonial'],
+        meals: 'Dinner',
+        accommodation: 'Hotel in Trujillo'
+      },
+      {
+        day: 2,
+        title: 'Huacas & Journey North',
+        titleEs: 'Huacas y Viaje al Norte',
+        description: 'Morning visit to Huaca del Sol y la Luna (Temple of the Sun and Moon) with spectacular Moche murals. Drive north to Chiclayo with stops at local markets.',
+        descriptionEs: 'Visita matutina a Huaca del Sol y la Luna con espectaculares murales Moche. Viaje al norte hacia Chiclayo con paradas en mercados locales.',
+        locations: ['Huaca del Sol', 'Huaca de la Luna', 'Chiclayo'],
+        activities: ['Temple visit', 'Moche art appreciation', 'Scenic drive'],
+        activitiesEs: ['Visita al templo', 'Apreciación del arte Moche', 'Viaje panorámico'],
+        meals: 'Breakfast, Lunch',
+        accommodation: 'Hotel in Chiclayo'
+      },
+      {
+        day: 3,
+        title: 'Lord of Sipán & Departure',
+        titleEs: 'Señor de Sipán y Partida',
+        description: 'Visit the spectacular Royal Tombs of Sipán Museum, one of Peru\'s most important archaeological discoveries. Explore the actual tomb site at Huaca Rajada. Transfer to Chiclayo airport.',
+        descriptionEs: 'Visita al espectacular Museo Tumbas Reales de Sipán, uno de los descubrimientos arqueológicos más importantes del Perú. Explora el sitio de la tumba en Huaca Rajada. Traslado al aeropuerto de Chiclayo.',
+        locations: ['Royal Tombs Museum', 'Huaca Rajada', 'Chiclayo Airport'],
+        activities: ['Museum visit', 'Archaeological site', 'Airport transfer'],
+        activitiesEs: ['Visita al museo', 'Sitio arqueológico', 'Traslado al aeropuerto'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
+
   // 5-DAY ITINERARIES
   {
     id: '5-day-classic-cusco',
