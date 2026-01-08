@@ -20,6 +20,7 @@ export default function Header() {
     { href: '/packing/', label: locale === 'es' ? 'Listas de Equipaje' : 'Packing Lists' },
     { href: '/transportation/', label: locale === 'es' ? 'Guía de Transporte' : 'Transportation' },
     { href: '/photo-spots/', label: locale === 'es' ? 'Lugares para Fotos' : 'Photo Spots' },
+    { href: '/health/', label: locale === 'es' ? 'Guía de Salud' : 'Health Guide' },
     { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
     { href: '/altitude-guide/', label: locale === 'es' ? 'Guía de Altitud' : 'Altitude Guide' },
     { href: '/culture-guide/', label: locale === 'es' ? 'Cultura y Costumbres' : 'Culture Guide' },
