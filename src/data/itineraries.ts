@@ -798,6 +798,124 @@ export const itineraries: Itinerary[] = [
       }
     ]
   },
+  {
+    id: '5-day-arequipa-colca',
+    slug: '5-day-arequipa-colca-family',
+    duration: 5,
+    title: 'Arequipa & Colca Canyon',
+    titleEs: 'Arequipa y Cañón del Colca',
+    subtitle: 'White City and soaring condors',
+    subtitleEs: 'Ciudad Blanca y cóndores volando',
+    description: 'Discover Arequipa\'s colonial charm and witness condors soaring over one of the world\'s deepest canyons. Perfect for families who love culture, nature, and manageable altitude.',
+    descriptionEs: 'Descubre el encanto colonial de Arequipa y presencia cóndores volando sobre uno de los cañones más profundos del mundo. Perfecto para familias que aman la cultura, naturaleza y altitud manejable.',
+    theme: 'wildlife',
+    difficulty: 'moderate',
+    price: 1099,
+    image: '/images/itineraries/colca-condor.jpg',
+    highlights: [
+      'Santa Catalina Monastery',
+      'Cruz del Condor viewpoint',
+      'Hot springs experience',
+      'Colonial architecture',
+      'Traditional villages'
+    ],
+    highlightsEs: [
+      'Monasterio de Santa Catalina',
+      'Mirador Cruz del Cóndor',
+      'Experiencia en aguas termales',
+      'Arquitectura colonial',
+      'Pueblos tradicionales'
+    ],
+    includes: [
+      '4 nights accommodation',
+      'Daily breakfast',
+      'Private transportation',
+      'English-speaking guide',
+      'All entrance fees'
+    ],
+    includesEs: [
+      '4 noches de alojamiento',
+      'Desayuno diario',
+      'Transporte privado',
+      'Guía de habla inglesa',
+      'Todas las entradas'
+    ],
+    notIncludes: ['International flights', 'Travel insurance', 'Lunches and dinners', 'Tips'],
+    notIncludesEs: ['Vuelos internacionales', 'Seguro de viaje', 'Almuerzos y cenas', 'Propinas'],
+    bestFor: ['Nature lovers', 'Bird watchers', 'Culture enthusiasts'],
+    bestForEs: ['Amantes de la naturaleza', 'Observadores de aves', 'Entusiastas de la cultura'],
+    minAge: 6,
+    groupSize: '2-8',
+    startLocation: 'Arequipa',
+    endLocation: 'Arequipa',
+    featured: false,
+    dayByDay: [
+      { day: 1, title: 'Welcome to Arequipa', titleEs: 'Bienvenidos a Arequipa', description: 'Arrive in Arequipa and transfer to hotel. Afternoon orientation walk around Plaza de Armas.', descriptionEs: 'Llegada a Arequipa y traslado al hotel. Caminata de orientación por la tarde en Plaza de Armas.', locations: ['Arequipa Airport', 'Plaza de Armas'], activities: ['Airport pickup', 'City orientation'], activitiesEs: ['Recogida en aeropuerto', 'Orientación en la ciudad'], meals: 'Dinner', accommodation: 'Hotel in Arequipa' },
+      { day: 2, title: 'Arequipa City Tour', titleEs: 'Tour de Arequipa', description: 'Explore Santa Catalina Monastery, San Camilo Market, and colonial architecture. Afternoon free for family exploration.', descriptionEs: 'Explora el Monasterio de Santa Catalina, Mercado San Camilo y arquitectura colonial. Tarde libre para exploración familiar.', locations: ['Santa Catalina', 'San Camilo Market'], activities: ['Monastery visit', 'Market tour', 'City walk'], activitiesEs: ['Visita al monasterio', 'Tour del mercado', 'Caminata por la ciudad'], meals: 'Breakfast', accommodation: 'Hotel in Arequipa' },
+      { day: 3, title: 'Journey to Colca', titleEs: 'Viaje al Colca', description: 'Scenic drive through the altiplano, spotting vicuñas. Stop at highest point (4,910m) briefly. Arrive Chivay and enjoy hot springs.', descriptionEs: 'Viaje panorámico por el altiplano, avistando vicuñas. Parada breve en el punto más alto (4,910m). Llegada a Chivay y disfrute de aguas termales.', locations: ['Altiplano', 'Chivay'], activities: ['Scenic drive', 'Vicuña spotting', 'Hot springs'], activitiesEs: ['Viaje panorámico', 'Avistamiento de vicuñas', 'Aguas termales'], meals: 'Breakfast, Lunch, Dinner', accommodation: 'Hotel in Colca Valley' },
+      { day: 4, title: 'Condor Watching', titleEs: 'Observación de Cóndores', description: 'Early morning visit to Cruz del Condor for condor viewing. Visit traditional villages Maca and Yanque. Return to Arequipa.', descriptionEs: 'Visita temprano a Cruz del Cóndor para ver cóndores. Visita a pueblos tradicionales Maca y Yanque. Regreso a Arequipa.', locations: ['Cruz del Condor', 'Maca', 'Yanque'], activities: ['Condor watching', 'Village visits', 'Return drive'], activitiesEs: ['Observación de cóndores', 'Visita a pueblos', 'Viaje de regreso'], meals: 'Breakfast, Lunch', accommodation: 'Hotel in Arequipa' },
+      { day: 5, title: 'Departure', titleEs: 'Partida', description: 'Free morning for last-minute shopping or exploring. Transfer to airport for departure.', descriptionEs: 'Mañana libre para compras de último minuto o exploración. Traslado al aeropuerto.', locations: ['Arequipa', 'Airport'], activities: ['Free time', 'Airport transfer'], activitiesEs: ['Tiempo libre', 'Traslado al aeropuerto'], meals: 'Breakfast' }
+    ]
+  },
+  {
+    id: '5-day-northern-beaches',
+    slug: '5-day-northern-beaches-family',
+    duration: 5,
+    title: 'Northern Beaches Escape',
+    titleEs: 'Escape a las Playas del Norte',
+    subtitle: 'Sun, surf and sea turtles',
+    subtitleEs: 'Sol, surf y tortugas marinas',
+    description: 'Relax on Peru\'s best beaches in Máncora and surrounding areas. Perfect for families seeking beach time, water activities, and marine wildlife.',
+    descriptionEs: 'Relájate en las mejores playas de Perú en Máncora y alrededores. Perfecto para familias que buscan tiempo en la playa, actividades acuáticas y vida marina.',
+    theme: 'beach',
+    difficulty: 'easy',
+    price: 949,
+    image: '/images/itineraries/mancora-beach.jpg',
+    highlights: [
+      'Máncora beach time',
+      'Sea turtle sanctuary',
+      'Whale watching (seasonal)',
+      'Surf lessons',
+      'Fresh seafood'
+    ],
+    highlightsEs: [
+      'Tiempo en playa de Máncora',
+      'Santuario de tortugas marinas',
+      'Avistamiento de ballenas (temporada)',
+      'Clases de surf',
+      'Mariscos frescos'
+    ],
+    includes: [
+      '4 nights beachfront accommodation',
+      'Daily breakfast',
+      'Airport transfers',
+      'Sea turtle sanctuary visit',
+      'One surf lesson per person'
+    ],
+    includesEs: [
+      '4 noches alojamiento frente al mar',
+      'Desayuno diario',
+      'Traslados al aeropuerto',
+      'Visita al santuario de tortugas',
+      'Una clase de surf por persona'
+    ],
+    notIncludes: ['Flights', 'Travel insurance', 'Lunches and dinners', 'Optional activities'],
+    notIncludesEs: ['Vuelos', 'Seguro de viaje', 'Almuerzos y cenas', 'Actividades opcionales'],
+    bestFor: ['Beach families', 'Water lovers', 'Relaxation seekers'],
+    bestForEs: ['Familias de playa', 'Amantes del agua', 'Buscadores de relax'],
+    minAge: 3,
+    groupSize: '2-10',
+    startLocation: 'Piura/Talara Airport',
+    endLocation: 'Piura/Talara Airport',
+    featured: false,
+    dayByDay: [
+      { day: 1, title: 'Welcome to the Beach', titleEs: 'Bienvenidos a la Playa', description: 'Arrive at Piura or Talara airport and transfer to Máncora. Settle into your beachfront accommodation and enjoy sunset.', descriptionEs: 'Llegada al aeropuerto de Piura o Talara y traslado a Máncora. Acomodo en tu alojamiento frente al mar y disfruta el atardecer.', locations: ['Piura Airport', 'Máncora'], activities: ['Airport pickup', 'Beach time', 'Sunset'], activitiesEs: ['Recogida en aeropuerto', 'Tiempo en playa', 'Atardecer'], meals: 'Dinner', accommodation: 'Beach hotel in Máncora' },
+      { day: 2, title: 'Surf & Beach Day', titleEs: 'Día de Surf y Playa', description: 'Morning surf lessons for the family. Afternoon free for swimming, sandcastle building, and relaxation.', descriptionEs: 'Clases de surf matutinas para la familia. Tarde libre para nadar, construir castillos de arena y relajación.', locations: ['Máncora Beach'], activities: ['Surf lesson', 'Swimming', 'Beach games'], activitiesEs: ['Clase de surf', 'Natación', 'Juegos de playa'], meals: 'Breakfast', accommodation: 'Beach hotel in Máncora' },
+      { day: 3, title: 'Marine Wildlife', titleEs: 'Vida Marina', description: 'Visit El Ñuro sea turtle sanctuary and swim with sea turtles. Afternoon whale watching boat tour (June-October) or more beach time.', descriptionEs: 'Visita al santuario de tortugas El Ñuro y nada con tortugas marinas. Tour en bote para ver ballenas por la tarde (junio-octubre) o más tiempo de playa.', locations: ['El Ñuro', 'Máncora'], activities: ['Sea turtles', 'Whale watching/Beach'], activitiesEs: ['Tortugas marinas', 'Avistamiento de ballenas/Playa'], meals: 'Breakfast', accommodation: 'Beach hotel in Máncora' },
+      { day: 4, title: 'Explore & Relax', titleEs: 'Explora y Relájate', description: 'Visit nearby Vichayito or Punta Sal beaches. Optional horseback riding on the beach or spa time for parents.', descriptionEs: 'Visita playas cercanas de Vichayito o Punta Sal. Cabalgata opcional en la playa o tiempo de spa para padres.', locations: ['Vichayito', 'Punta Sal'], activities: ['Beach hopping', 'Optional activities'], activitiesEs: ['Visita a playas', 'Actividades opcionales'], meals: 'Breakfast', accommodation: 'Beach hotel in Máncora' },
+      { day: 5, title: 'Farewell to Paradise', titleEs: 'Despedida del Paraíso', description: 'Final morning beach time. Transfer to airport for departure flight.', descriptionEs: 'Última mañana en la playa. Traslado al aeropuerto para vuelo de salida.', locations: ['Máncora', 'Airport'], activities: ['Beach time', 'Airport transfer'], activitiesEs: ['Tiempo en playa', 'Traslado al aeropuerto'], meals: 'Breakfast' }
+    ]
+  },
 
   // 7-DAY ITINERARIES
   {
