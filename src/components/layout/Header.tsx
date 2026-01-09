@@ -37,6 +37,10 @@ export default function Header() {
     { href: '/spanish-phrases/', label: locale === 'es' ? 'Frases en Español' : 'Spanish Phrases' },
     { href: '/safety/', label: locale === 'es' ? 'Guía de Seguridad' : 'Safety Guide' },
     { href: '/emergency/', label: locale === 'es' ? 'Emergencias' : 'Emergency Contacts' },
+    { href: '/visa/', label: locale === 'es' ? 'Visa y Entrada' : 'Visa & Entry' },
+    { href: '/travel-insurance/', label: locale === 'es' ? 'Seguro de Viaje' : 'Travel Insurance' },
+    { href: '/rainy-day/', label: locale === 'es' ? 'Días de Lluvia' : 'Rainy Day Activities' },
+    { href: '/flight-tips/', label: locale === 'es' ? 'Consejos de Vuelo' : 'Flight Tips' },
     { href: '/faq/', label: locale === 'es' ? 'Preguntas Frecuentes' : 'FAQ' },
   ];
 
