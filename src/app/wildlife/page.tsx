@@ -672,12 +672,12 @@ export default function WildlifePage() {
             <div className="bg-peru-sand/30 rounded-xl p-6">
               <Search className="h-8 w-8 text-peru-terracotta mb-4" />
               <h3 className="font-bold text-peru-earth mb-2">
-                {locale === 'es' ? 'Trae Binoculares' : 'Bring Search'}
+                {locale === 'es' ? 'Trae Binoculares' : 'Bring Binoculars'}
               </h3>
               <p className="text-gray-600 text-sm">
                 {locale === 'es'
                   ? 'Los binoculares hacen la experiencia 10x mejor. Considera unos para niños también.'
-                  : 'Search make the experience 10x better. Consider kid-sized ones too.'}
+                  : 'Binoculars make the experience 10x better. Consider kid-sized ones too.'}
               </p>
             </div>
 

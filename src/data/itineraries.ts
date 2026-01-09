@@ -568,6 +568,235 @@ export const itineraries: Itinerary[] = [
       }
     ]
   },
+  {
+    id: '3-day-machu-picchu-express',
+    slug: '3-day-machu-picchu-express',
+    duration: 3,
+    title: 'Machu Picchu Express',
+    titleEs: 'Machu Picchu Express',
+    subtitle: 'Fast track to the wonder of the world',
+    subtitleEs: 'Ruta rápida a la maravilla del mundo',
+    description: 'Short on time but don\'t want to miss Machu Picchu? This efficient itinerary gets you to the iconic citadel with minimal fuss, including Sacred Valley highlights along the way.',
+    descriptionEs: '¿Corto de tiempo pero no quieres perderte Machu Picchu? Este itinerario eficiente te lleva a la icónica ciudadela con mínimo esfuerzo, incluyendo lo destacado del Valle Sagrado en el camino.',
+    theme: 'classic',
+    difficulty: 'moderate',
+    price: 899,
+    image: '/images/itineraries/machu-picchu-express.jpg',
+    highlights: [
+      'Machu Picchu guided tour',
+      'Scenic train journey',
+      'Ollantaytambo fortress',
+      'Efficient acclimatization strategy'
+    ],
+    highlightsEs: [
+      'Tour guiado de Machu Picchu',
+      'Viaje panorámico en tren',
+      'Fortaleza de Ollantaytambo',
+      'Estrategia eficiente de aclimatación'
+    ],
+    includes: ['2 nights accommodation', 'Daily breakfast', 'Private transportation', 'Bilingual guide', 'All entrance fees', 'Train tickets'],
+    includesEs: ['2 noches de alojamiento', 'Desayuno diario', 'Transporte privado', 'Guía bilingüe', 'Todas las entradas', 'Boletos de tren'],
+    notIncludes: ['International flights', 'Travel insurance', 'Lunch and dinner', 'Tips'],
+    notIncludesEs: ['Vuelos internacionales', 'Seguro de viaje', 'Almuerzo y cena', 'Propinas'],
+    bestFor: ['Limited time travelers', 'Business trip add-on', 'First Machu Picchu visit'],
+    bestForEs: ['Viajeros con tiempo limitado', 'Extensión de viaje de negocios', 'Primera visita a Machu Picchu'],
+    minAge: 5,
+    groupSize: '2-6',
+    startLocation: 'Cusco',
+    endLocation: 'Cusco',
+    featured: false,
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Cusco to Sacred Valley',
+        titleEs: 'Cusco al Valle Sagrado',
+        description: 'Arrive in Cusco and immediately descend to the Sacred Valley (lower altitude helps acclimatization). Visit Ollantaytambo fortress in the afternoon. Stay overnight in the valley.',
+        descriptionEs: 'Llega a Cusco e inmediatamente desciende al Valle Sagrado (menor altitud ayuda a la aclimatación). Visita la fortaleza de Ollantaytambo por la tarde. Pernocta en el valle.',
+        locations: ['Cusco Airport', 'Ollantaytambo'],
+        activities: ['Airport transfer', 'Scenic drive', 'Ollantaytambo tour', 'Evening at leisure'],
+        activitiesEs: ['Traslado del aeropuerto', 'Manejo panorámico', 'Tour de Ollantaytambo', 'Tarde libre'],
+        meals: 'Dinner',
+        accommodation: 'Hotel in Ollantaytambo'
+      },
+      {
+        day: 2,
+        title: 'Machu Picchu Day',
+        titleEs: 'Día de Machu Picchu',
+        description: 'Early morning train to Aguas Calientes, then bus up to Machu Picchu. Full guided tour of the citadel. Optional afternoon in Aguas Calientes hot springs. Evening train return.',
+        descriptionEs: 'Tren temprano a Aguas Calientes, luego bus hasta Machu Picchu. Tour guiado completo de la ciudadela. Tarde opcional en las aguas termales de Aguas Calientes. Tren de regreso por la noche.',
+        locations: ['Ollantaytambo', 'Aguas Calientes', 'Machu Picchu'],
+        activities: ['Scenic train ride', 'Machu Picchu guided tour', 'Free time to explore', 'Optional hot springs'],
+        activitiesEs: ['Viaje en tren panorámico', 'Tour guiado de Machu Picchu', 'Tiempo libre para explorar', 'Aguas termales opcional'],
+        meals: 'Breakfast, Lunch',
+        accommodation: 'Hotel in Cusco'
+      },
+      {
+        day: 3,
+        title: 'Cusco & Departure',
+        titleEs: 'Cusco y Partida',
+        description: 'Morning at leisure to explore Cusco\'s Plaza de Armas, San Pedro Market, or shop for souvenirs. Transfer to airport for your onward journey.',
+        descriptionEs: 'Mañana libre para explorar la Plaza de Armas de Cusco, el Mercado de San Pedro o comprar souvenirs. Traslado al aeropuerto para tu siguiente destino.',
+        locations: ['Cusco', 'Plaza de Armas', 'San Pedro Market'],
+        activities: ['City exploration', 'Market visit', 'Souvenir shopping', 'Airport transfer'],
+        activitiesEs: ['Exploración de la ciudad', 'Visita al mercado', 'Compra de souvenirs', 'Traslado al aeropuerto'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
+  {
+    id: '3-day-beach-escape',
+    slug: '3-day-beach-escape-mancora',
+    duration: 3,
+    title: 'Beach Escape to Máncora',
+    titleEs: 'Escape de Playa a Máncora',
+    subtitle: 'Sun, sand, and surf on Peru\'s best beaches',
+    subtitleEs: 'Sol, arena y surf en las mejores playas de Perú',
+    description: 'Escape to Peru\'s premier beach destination. Máncora offers warm waters year-round, consistent surf, and a laid-back vibe perfect for families looking to relax.',
+    descriptionEs: 'Escapa al principal destino de playa de Perú. Máncora ofrece aguas cálidas todo el año, surf constante y un ambiente relajado perfecto para familias que buscan descansar.',
+    theme: 'adventure',
+    difficulty: 'easy',
+    price: 599,
+    image: '/images/itineraries/mancora-beach.jpg',
+    highlights: [
+      'Swimming in warm Pacific waters',
+      'Surf lessons for all levels',
+      'Fresh ceviche on the beach',
+      'Sunset watching',
+      'Sea turtle spotting (season)'
+    ],
+    highlightsEs: [
+      'Natación en aguas cálidas del Pacífico',
+      'Clases de surf para todos los niveles',
+      'Ceviche fresco en la playa',
+      'Observación de atardeceres',
+      'Avistamiento de tortugas marinas (temporada)'
+    ],
+    includes: ['2 nights beachfront accommodation', 'Daily breakfast', 'Surf lesson', 'Airport transfers'],
+    includesEs: ['2 noches de alojamiento frente al mar', 'Desayuno diario', 'Clase de surf', 'Traslados al aeropuerto'],
+    notIncludes: ['Flights to Piura/Tumbes', 'Travel insurance', 'Meals beyond breakfast', 'Optional activities'],
+    notIncludesEs: ['Vuelos a Piura/Tumbes', 'Seguro de viaje', 'Comidas más allá del desayuno', 'Actividades opcionales'],
+    bestFor: ['Beach lovers', 'Families with teens', 'Surf enthusiasts'],
+    bestForEs: ['Amantes de la playa', 'Familias con adolescentes', 'Entusiastas del surf'],
+    minAge: 3,
+    groupSize: '2-8',
+    startLocation: 'Piura/Tumbes Airport',
+    endLocation: 'Piura/Tumbes Airport',
+    featured: false,
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Arrival & Beach Time',
+        titleEs: 'Llegada y Tiempo de Playa',
+        description: 'Fly into Piura or Tumbes and transfer to Máncora (1-2 hours). Check into your beachfront hotel and spend the afternoon swimming, building sandcastles, or just relaxing. Welcome dinner at a beachfront restaurant.',
+        descriptionEs: 'Vuela a Piura o Tumbes y traslado a Máncora (1-2 horas). Check-in en tu hotel frente al mar y pasa la tarde nadando, construyendo castillos de arena o simplemente relajándote. Cena de bienvenida en un restaurante frente al mar.',
+        locations: ['Piura/Tumbes Airport', 'Máncora'],
+        activities: ['Airport transfer', 'Beach time', 'Swimming', 'Beach dinner'],
+        activitiesEs: ['Traslado del aeropuerto', 'Tiempo de playa', 'Natación', 'Cena de playa'],
+        meals: 'Dinner',
+        accommodation: 'Beachfront hotel in Máncora'
+      },
+      {
+        day: 2,
+        title: 'Surf & Explore',
+        titleEs: 'Surf y Exploración',
+        description: 'Morning surf lesson with experienced instructors (suitable for all ages 6+). Free afternoon to explore the town, visit Los Órganos for snorkeling, or relax by the pool. Fresh ceviche lunch on the beach.',
+        descriptionEs: 'Clase de surf matutina con instructores experimentados (apta para todas las edades 6+). Tarde libre para explorar el pueblo, visitar Los Órganos para snorkel o relajarse en la piscina. Almuerzo de ceviche fresco en la playa.',
+        locations: ['Máncora', 'Los Órganos'],
+        activities: ['Surf lesson', 'Free time', 'Optional snorkeling', 'Town exploration'],
+        activitiesEs: ['Clase de surf', 'Tiempo libre', 'Snorkel opcional', 'Exploración del pueblo'],
+        meals: 'Breakfast, Lunch',
+        accommodation: 'Beachfront hotel in Máncora'
+      },
+      {
+        day: 3,
+        title: 'Final Beach Morning & Departure',
+        titleEs: 'Última Mañana de Playa y Partida',
+        description: 'Enjoy a final swim or beach walk before breakfast. Free time for last souvenir shopping or relaxation before transfer to the airport.',
+        descriptionEs: 'Disfruta de una última nadada o caminata por la playa antes del desayuno. Tiempo libre para últimas compras de souvenirs o relajación antes del traslado al aeropuerto.',
+        locations: ['Máncora', 'Piura/Tumbes Airport'],
+        activities: ['Beach morning', 'Breakfast', 'Free time', 'Airport transfer'],
+        activitiesEs: ['Mañana de playa', 'Desayuno', 'Tiempo libre', 'Traslado al aeropuerto'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
+  {
+    id: '3-day-adventure-ica',
+    slug: '3-day-adventure-ica-desert',
+    duration: 3,
+    title: 'Desert Adventure in Ica',
+    titleEs: 'Aventura en el Desierto de Ica',
+    subtitle: 'Sandboarding, dune buggies, and wine tasting',
+    subtitleEs: 'Sandboard, buggies de arena y degustación de vinos',
+    description: 'An action-packed escape to Peru\'s desert oasis. Experience the thrill of dune buggies and sandboarding, visit ancient Nazca lines, and taste Peru\'s famous pisco.',
+    descriptionEs: 'Una escapada llena de acción al oasis desértico de Perú. Experimenta la emoción de los buggies y sandboard, visita las antiguas líneas de Nazca y prueba el famoso pisco de Perú.',
+    theme: 'adventure',
+    difficulty: 'moderate',
+    price: 549,
+    image: '/images/itineraries/huacachina-adventure.jpg',
+    highlights: [
+      'Dune buggy adventure',
+      'Sandboarding down giant dunes',
+      'Huacachina oasis',
+      'Pisco/wine tasting',
+      'Optional Nazca lines flight'
+    ],
+    highlightsEs: [
+      'Aventura en buggy de arena',
+      'Sandboard por dunas gigantes',
+      'Oasis de Huacachina',
+      'Degustación de pisco/vino',
+      'Vuelo opcional sobre líneas de Nazca'
+    ],
+    includes: ['2 nights accommodation', 'Daily breakfast', 'Dune buggy tour', 'Sandboarding', 'Winery visit', 'All transportation from Lima'],
+    includesEs: ['2 noches de alojamiento', 'Desayuno diario', 'Tour en buggy', 'Sandboarding', 'Visita a bodega', 'Todo el transporte desde Lima'],
+    notIncludes: ['International flights', 'Travel insurance', 'Nazca flight', 'Meals beyond breakfast'],
+    notIncludesEs: ['Vuelos internacionales', 'Seguro de viaje', 'Vuelo Nazca', 'Comidas más allá del desayuno'],
+    bestFor: ['Adventure seekers', 'Teens and older kids', 'Active families'],
+    bestForEs: ['Buscadores de aventura', 'Adolescentes y niños mayores', 'Familias activas'],
+    minAge: 6,
+    groupSize: '2-8',
+    startLocation: 'Lima',
+    endLocation: 'Lima',
+    featured: false,
+    dayByDay: [
+      {
+        day: 1,
+        title: 'Lima to Huacachina',
+        titleEs: 'Lima a Huacachina',
+        description: 'Depart Lima and drive south through coastal desert landscapes (4 hours). Arrive at the magical Huacachina oasis surrounded by towering sand dunes. Sunset dune buggy and sandboarding adventure!',
+        descriptionEs: '¡Sale de Lima y maneja al sur a través de paisajes desérticos costeros (4 horas). Llega al mágico oasis de Huacachina rodeado de imponentes dunas de arena. ¡Aventura de buggy y sandboard al atardecer!',
+        locations: ['Lima', 'Ica', 'Huacachina'],
+        activities: ['Scenic drive', 'Dune buggy ride', 'Sandboarding', 'Sunset at the oasis'],
+        activitiesEs: ['Manejo panorámico', 'Paseo en buggy', 'Sandboarding', 'Atardecer en el oasis'],
+        meals: 'Lunch',
+        accommodation: 'Hotel at Huacachina oasis'
+      },
+      {
+        day: 2,
+        title: 'Wine Country & Nazca Option',
+        titleEs: 'País del Vino y Opción Nazca',
+        description: 'Morning visit to a traditional pisco bodega to see production and taste Peru\'s national spirit (juice for kids!). Optional afternoon flight over the mysterious Nazca Lines, or relax at the oasis.',
+        descriptionEs: 'Visita matutina a una bodega tradicional de pisco para ver la producción y probar el licor nacional de Perú (¡jugo para niños!). Vuelo opcional por la tarde sobre las misteriosas Líneas de Nazca, o relájate en el oasis.',
+        locations: ['Ica wineries', 'Nazca (optional)', 'Huacachina'],
+        activities: ['Winery tour', 'Pisco tasting', 'Optional Nazca flight', 'Oasis relaxation'],
+        activitiesEs: ['Tour de bodega', 'Degustación de pisco', 'Vuelo opcional a Nazca', 'Relajación en el oasis'],
+        meals: 'Breakfast',
+        accommodation: 'Hotel at Huacachina oasis'
+      },
+      {
+        day: 3,
+        title: 'Paracas & Return to Lima',
+        titleEs: 'Paracas y Retorno a Lima',
+        description: 'Drive to Paracas for a boat tour to the Ballestas Islands - Peru\'s "Little Galapagos" with sea lions, penguins, and thousands of seabirds. Return to Lima in the afternoon.',
+        descriptionEs: 'Maneja a Paracas para un tour en bote a las Islas Ballestas - las "Pequeñas Galápagos" de Perú con lobos marinos, pingüinos y miles de aves marinas. Retorno a Lima por la tarde.',
+        locations: ['Huacachina', 'Paracas', 'Ballestas Islands', 'Lima'],
+        activities: ['Ballestas Islands boat tour', 'Wildlife viewing', 'Return drive to Lima'],
+        activitiesEs: ['Tour en bote a Islas Ballestas', 'Avistamiento de vida silvestre', 'Viaje de regreso a Lima'],
+        meals: 'Breakfast'
+      }
+    ]
+  },
 
   // 5-DAY ITINERARIES
   {
