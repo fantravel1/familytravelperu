@@ -441,6 +441,59 @@ export default function BudgetPage() {
               </div>
             </div>
 
+            {/* Optional Add-ons */}
+            <div className="bg-white rounded-2xl shadow-lg p-6">
+              <h2 className="text-xl font-display font-bold text-peru-earth mb-6 flex items-center gap-2">
+                <Ticket className="w-6 h-6 text-peru-gold" />
+                {locale === 'es' ? 'Experiencias Opcionales' : 'Optional Experiences'}
+              </h2>
+              <p className="text-sm text-gray-500 mb-4">
+                {locale === 'es'
+                  ? 'Selecciona las experiencias que te gustaría agregar a tu viaje'
+                  : 'Select experiences you\'d like to add to your trip'}
+              </p>
+
+              <div className="grid sm:grid-cols-2 gap-3">
+                {optionalAddons.map((addon) => {
+                  const isSelected = selectedAddons.includes(addon.id);
+                  const baseCost = addon[budgetLevel];
+                  const totalCost = addon.perPerson
+                    ? baseCost * adults + baseCost * children * childDiscount
+                    : baseCost;
+                  return (
+                    <button
+                      key={addon.id}
+                      onClick={() => toggleAddon(addon.id)}
+                      className={`p-4 rounded-xl border-2 transition-all text-left ${
+                        isSelected
+                          ? 'border-peru-gold bg-peru-gold/10'
+                          : 'border-gray-200 hover:border-peru-gold/50'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-2">
+                        <div>
+                          <p className="font-medium text-peru-earth text-sm">
+                            {locale === 'es' ? addon.nameEs : addon.name}
+                          </p>
+                          <p className="text-xs text-gray-500 mt-1">
+                            {locale === 'es' ? addon.notesEs : addon.notes}
+                          </p>
+                        </div>
+                        <div className="text-right flex-shrink-0">
+                          <p className="font-bold text-peru-terracotta">
+                            +${Math.round(totalCost).toLocaleString()}
+                          </p>
+                          <p className="text-xs text-gray-400">
+                            ${baseCost}/{locale === 'es' ? 'pers' : 'pp'}
+                          </p>
+                        </div>
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
             {/* Cost Breakdown */}
             <div className="bg-white rounded-2xl shadow-lg p-6">
               <h2 className="text-xl font-display font-bold text-peru-earth mb-6">
@@ -499,6 +552,35 @@ export default function BudgetPage() {
                     </div>
                   );
                 })}
+
+                {selectedAddons.length > 0 && (
+                  <>
+                    <h3 className="font-medium text-gray-500 text-sm uppercase tracking-wider mt-6">
+                      {locale === 'es' ? 'Experiencias Adicionales' : 'Added Experiences'}
+                    </h3>
+                    {selectedAddons.map((addonId) => {
+                      const addon = optionalAddons.find(a => a.id === addonId);
+                      if (!addon) return null;
+                      const baseCost = addon[budgetLevel];
+                      const lineCost = addon.perPerson
+                        ? baseCost * adults + baseCost * children * childDiscount
+                        : baseCost;
+                      return (
+                        <div key={addonId} className="flex items-center justify-between py-2 border-b border-gray-100">
+                          <div>
+                            <p className="font-medium text-peru-earth">
+                              {locale === 'es' ? addon.nameEs : addon.name}
+                            </p>
+                            <p className="text-xs text-gray-500">
+                              ${baseCost}/{locale === 'es' ? 'persona' : 'person'}
+                            </p>
+                          </div>
+                          <span className="font-bold text-peru-terracotta">${Math.round(lineCost).toLocaleString()}</span>
+                        </div>
+                      );
+                    })}
+                  </>
+                )}
               </div>
             </div>
           </div>
