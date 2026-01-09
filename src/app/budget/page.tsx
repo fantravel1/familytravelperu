@@ -119,6 +119,87 @@ const fixedCosts = [
   }
 ];
 
+interface OptionalAddon {
+  id: string;
+  name: string;
+  nameEs: string;
+  budget: number;
+  midRange: number;
+  luxury: number;
+  perPerson: boolean;
+  notes: string;
+  notesEs: string;
+}
+
+const optionalAddons: OptionalAddon[] = [
+  {
+    id: 'amazon',
+    name: 'Amazon Jungle Lodge (3 nights)',
+    nameEs: 'Lodge Selva Amazónica (3 noches)',
+    budget: 350,
+    midRange: 600,
+    luxury: 1200,
+    perPerson: true,
+    notes: 'All-inclusive packages with meals, activities, and guides.',
+    notesEs: 'Paquetes todo incluido con comidas, actividades y guías.'
+  },
+  {
+    id: 'colca',
+    name: 'Colca Canyon (2 days)',
+    nameEs: 'Cañón del Colca (2 días)',
+    budget: 80,
+    midRange: 150,
+    luxury: 350,
+    perPerson: true,
+    notes: 'Tour from Arequipa with one night in Chivay.',
+    notesEs: 'Tour desde Arequipa con una noche en Chivay.'
+  },
+  {
+    id: 'titicaca',
+    name: 'Lake Titicaca (Full Day)',
+    nameEs: 'Lago Titicaca (Día Completo)',
+    budget: 30,
+    midRange: 60,
+    luxury: 150,
+    perPerson: true,
+    notes: 'Uros and Taquile islands tour.',
+    notesEs: 'Tour a islas Uros y Taquile.'
+  },
+  {
+    id: 'nazca',
+    name: 'Nazca Lines Flight',
+    nameEs: 'Vuelo Líneas de Nazca',
+    budget: 80,
+    midRange: 100,
+    luxury: 150,
+    perPerson: true,
+    notes: '30-35 minute overflight of the mysterious lines.',
+    notesEs: 'Sobrevuelo de 30-35 minutos sobre las misteriosas líneas.'
+  },
+  {
+    id: 'rainbow',
+    name: 'Rainbow Mountain Trek',
+    nameEs: 'Trek Montaña de Colores',
+    budget: 40,
+    midRange: 80,
+    luxury: 150,
+    perPerson: true,
+    notes: 'Full day from Cusco including transport and lunch.',
+    notesEs: 'Día completo desde Cusco incluyendo transporte y almuerzo.'
+  },
+  {
+    id: 'cooking',
+    name: 'Cooking Class',
+    nameEs: 'Clase de Cocina',
+    budget: 35,
+    midRange: 70,
+    luxury: 150,
+    perPerson: true,
+    notes: 'Learn to make ceviche, pisco sour, and more.',
+    notesEs: 'Aprende a hacer ceviche, pisco sour y más.'
+  }
+];
+
 const seasonMultipliers = {
   peak: { label: 'Peak Season (Jun-Aug)', labelEs: 'Temporada Alta (Jun-Ago)', multiplier: 1.3 },
   shoulder: { label: 'Shoulder (Apr-May, Sep-Oct)', labelEs: 'Temporada Media (Abr-May, Sep-Oct)', multiplier: 1.0 },
@@ -133,6 +214,7 @@ export default function BudgetPage() {
   const [days, setDays] = useState(10);
   const [budgetLevel, setBudgetLevel] = useState<'budget' | 'midRange' | 'luxury'>('midRange');
   const [season, setSeason] = useState<'peak' | 'shoulder' | 'low'>('shoulder');
+  const [selectedAddons, setSelectedAddons] = useState<string[]>([]);
 
   const totalPeople = adults + children;
   const childDiscount = 0.7; // Children cost ~70% of adult prices
@@ -164,9 +246,35 @@ export default function BudgetPage() {
     return total;
   };
 
+  // Calculate addon costs
+  const calculateAddonCosts = () => {
+    let total = 0;
+    selectedAddons.forEach(addonId => {
+      const addon = optionalAddons.find(a => a.id === addonId);
+      if (addon) {
+        const baseCost = addon[budgetLevel];
+        if (addon.perPerson) {
+          total += baseCost * adults + baseCost * children * childDiscount;
+        } else {
+          total += baseCost;
+        }
+      }
+    });
+    return total;
+  };
+
+  const toggleAddon = (addonId: string) => {
+    setSelectedAddons(prev =>
+      prev.includes(addonId)
+        ? prev.filter(id => id !== addonId)
+        : [...prev, addonId]
+    );
+  };
+
   const dailyTotal = calculateDailyCosts();
   const fixedTotal = calculateFixedCosts();
-  const subtotal = (dailyTotal * days) + fixedTotal;
+  const addonTotal = calculateAddonCosts();
+  const subtotal = (dailyTotal * days) + fixedTotal + addonTotal;
   const seasonAdjusted = subtotal * seasonMultipliers[season].multiplier;
   const contingency = seasonAdjusted * 0.1; // 10% contingency
   const grandTotal = seasonAdjusted + contingency;
