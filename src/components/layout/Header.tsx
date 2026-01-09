@@ -25,6 +25,7 @@ export default function Header() {
     { href: '/transportation/', label: locale === 'es' ? 'Guía de Transporte' : 'Transportation' },
     { href: '/accommodation/', label: locale === 'es' ? 'Alojamiento' : 'Accommodation' },
     { href: '/photo-spots/', label: locale === 'es' ? 'Lugares para Fotos' : 'Photo Spots' },
+    { href: '/photography/', label: locale === 'es' ? 'Guía de Fotografía' : 'Photography Guide' },
     { href: '/health/', label: locale === 'es' ? 'Guía de Salud' : 'Health Guide' },
     { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
     { href: '/regional-cuisine/', label: locale === 'es' ? 'Cocinas Regionales' : 'Regional Cuisine' },
