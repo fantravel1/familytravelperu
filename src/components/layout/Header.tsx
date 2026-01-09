@@ -25,6 +25,7 @@ export default function Header() {
     { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
     { href: '/altitude-guide/', label: locale === 'es' ? 'Guía de Altitud' : 'Altitude Guide' },
     { href: '/culture-guide/', label: locale === 'es' ? 'Cultura y Costumbres' : 'Culture Guide' },
+    { href: '/spanish-phrases/', label: locale === 'es' ? 'Frases en Español' : 'Spanish Phrases' },
     { href: '/safety/', label: locale === 'es' ? 'Guía de Seguridad' : 'Safety Guide' },
     { href: '/faq/', label: locale === 'es' ? 'Preguntas Frecuentes' : 'FAQ' },
   ];
