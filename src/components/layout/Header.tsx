@@ -22,6 +22,7 @@ export default function Header() {
     { href: '/wildlife/', label: locale === 'es' ? 'Vida Silvestre' : 'Wildlife Guide' },
     { href: '/packing/', label: locale === 'es' ? 'Listas de Equipaje' : 'Packing Lists' },
     { href: '/transportation/', label: locale === 'es' ? 'Guía de Transporte' : 'Transportation' },
+    { href: '/accommodation/', label: locale === 'es' ? 'Alojamiento' : 'Accommodation' },
     { href: '/photo-spots/', label: locale === 'es' ? 'Lugares para Fotos' : 'Photo Spots' },
     { href: '/health/', label: locale === 'es' ? 'Guía de Salud' : 'Health Guide' },
     { href: '/food-guide/', label: locale === 'es' ? 'Guía de Comida' : 'Food Guide' },
