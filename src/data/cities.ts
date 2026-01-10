@@ -1121,6 +1121,386 @@ export const cities: City[] = [
       { name: 'La Casona Monsante', type: 'Mid-range', priceRange: '$$' },
       { name: 'Chachapoyas Backpackers', type: 'Budget', priceRange: '$' }
     ]
+  },
+  {
+    slug: 'huaraz',
+    name: 'Huaraz',
+    nameEs: 'Huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 3052,
+    population: '120,000',
+    description: 'Peru\'s trekking and mountaineering capital, Huaraz sits in the stunning Callejón de Huaylas valley surrounded by the snow-capped peaks of the Cordillera Blanca. The region offers incredible outdoor adventures from easy day hikes to challenging multi-day treks, plus beautiful glacial lakes and ancient ruins.',
+    descriptionEs: 'La capital del trekking y montañismo de Perú, Huaraz se encuentra en el impresionante valle del Callejón de Huaylas rodeado por los picos nevados de la Cordillera Blanca. La región ofrece increíbles aventuras al aire libre desde caminatas fáciles de un día hasta treks desafiantes de varios días, además de hermosas lagunas glaciares y ruinas antiguas.',
+    highlights: [
+      'Cordillera Blanca mountain range',
+      'Laguna 69 turquoise glacial lake',
+      'Chavín de Huántar archaeological site',
+      'Pastoruri glacier',
+      'Llanganuco lakes',
+      'World-class trekking'
+    ],
+    highlightsEs: [
+      'Cordillera Blanca',
+      'Laguna 69 turquesa glacial',
+      'Sitio arqueológico Chavín de Huántar',
+      'Glaciar Pastoruri',
+      'Lagunas de Llanganuco',
+      'Trekking de clase mundial'
+    ],
+    familyRating: 3,
+    bestMonths: [5, 6, 7, 8, 9],
+    minDays: 3,
+    nearbyAttractions: ['laguna-69', 'chavin-de-huantar', 'pastoruri-glacier'],
+    relatedCities: ['lima', 'trujillo'],
+    activities: ['trekking', 'mountain-biking', 'rock-climbing'],
+    climate: 'Cool highland climate with distinct dry season (May-September) and wet season (October-April). Days are sunny but nights are cold. Dry season is ideal for trekking.',
+    climateEs: 'Clima fresco de tierras altas con temporada seca distinta (mayo-septiembre) y temporada lluviosa (octubre-abril). Los días son soleados pero las noches son frías. La temporada seca es ideal para trekking.',
+    gettingThere: 'Bus from Lima (8 hours through spectacular scenery). No commercial airport. Many choose overnight buses that arrive in the morning.',
+    gettingThereEs: 'Bus desde Lima (8 horas a través de paisajes espectaculares). Sin aeropuerto comercial. Muchos eligen buses nocturnos que llegan en la mañana.',
+    familyTips: [
+      'Altitude is significant - spend 2 days acclimatizing before big hikes',
+      'Laguna 69 is challenging for young children - try Llanganuco lakes instead',
+      'Chavín de Huántar is fascinating for older kids interested in history',
+      'Many easy walks in the valley suitable for all ages',
+      'Book a reliable trekking agency for safety',
+      'Weather changes quickly - always bring layers and rain gear'
+    ],
+    familyTipsEs: [
+      'La altitud es significativa - pasa 2 días aclimatándote antes de grandes caminatas',
+      'Laguna 69 es desafiante para niños pequeños - prueba las lagunas de Llanganuco',
+      'Chavín de Huántar es fascinante para niños mayores interesados en historia',
+      'Muchas caminatas fáciles en el valle aptas para todas las edades',
+      'Reserva una agencia de trekking confiable por seguridad',
+      'El clima cambia rápido - siempre trae capas y equipo de lluvia'
+    ],
+    restaurants: [
+      { name: 'Chilli Heaven', type: 'International', kidFriendly: true },
+      { name: 'California Café', type: 'Cafe', kidFriendly: true },
+      { name: 'El Horno', type: 'Pizzeria', kidFriendly: true },
+      { name: 'Trivio', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'The Lazy Dog Inn', type: 'Eco-lodge', priceRange: '$$$' },
+      { name: 'Churup Guest House', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Albergue Churup', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'ollantaytambo',
+    name: 'Ollantaytambo',
+    nameEs: 'Ollantaytambo',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 2792,
+    population: '3,000',
+    description: 'A living Inca town where ancient streets and waterways still function as they did 500 years ago. Ollantaytambo features impressive Inca ruins, traditional architecture, and serves as the gateway to Machu Picchu via train. The massive fortress ruins overlooking the town are among Peru\'s most impressive.',
+    descriptionEs: 'Un pueblo inca vivo donde las calles y canales antiguos todavía funcionan como hace 500 años. Ollantaytambo presenta impresionantes ruinas incas, arquitectura tradicional y sirve como puerta de entrada a Machu Picchu por tren. Las masivas ruinas de la fortaleza sobre el pueblo están entre las más impresionantes de Perú.',
+    highlights: [
+      'Ollantaytambo fortress and temple',
+      'Living Inca town layout',
+      'Ancient water channels still in use',
+      'Gateway to Machu Picchu train',
+      'Traditional textiles and crafts',
+      'Pinkuylluna granaries on opposite hill'
+    ],
+    highlightsEs: [
+      'Fortaleza y templo de Ollantaytambo',
+      'Diseño de pueblo inca vivo',
+      'Canales de agua antiguos aún en uso',
+      'Puerta de entrada al tren a Machu Picchu',
+      'Textiles y artesanías tradicionales',
+      'Graneros de Pinkuylluna en la colina opuesta'
+    ],
+    familyRating: 5,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10],
+    minDays: 1,
+    nearbyAttractions: ['ollantaytambo-ruins', 'machu-picchu', 'moray', 'maras-salt-mines'],
+    relatedCities: ['cusco', 'sacred-valley', 'aguas-calientes'],
+    activities: ['hiking', 'cultural-tour', 'textile-workshop'],
+    climate: 'Pleasant Sacred Valley climate, warmer than Cusco due to lower altitude. Dry season May-October ideal for visiting.',
+    climateEs: 'Clima agradable del Valle Sagrado, más cálido que Cusco debido a menor altitud. Temporada seca mayo-octubre ideal para visitar.',
+    gettingThere: 'Colectivo or taxi from Cusco (1.5 hours). Many Sacred Valley tours stop here. Train station for Machu Picchu trains.',
+    gettingThereEs: 'Colectivo o taxi desde Cusco (1.5 horas). Muchos tours del Valle Sagrado paran aquí. Estación de tren para trenes a Machu Picchu.',
+    familyTips: [
+      'Climb the ruins early morning before tour groups arrive',
+      'Free Pinkuylluna hike on opposite hill has great views',
+      'The streets are original Inca layout - kids love exploring',
+      'Many families stay here instead of Aguas Calientes (cheaper, nicer)',
+      'Early morning trains to Machu Picchu depart from here',
+      'Try the chocolate museum and textile demonstrations'
+    ],
+    familyTipsEs: [
+      'Sube a las ruinas temprano en la mañana antes de los grupos',
+      'Caminata gratuita a Pinkuylluna en la colina opuesta tiene grandes vistas',
+      'Las calles son el diseño inca original - a los niños les encanta explorar',
+      'Muchas familias se quedan aquí en vez de Aguas Calientes (más barato, mejor)',
+      'Los trenes madrugadores a Machu Picchu salen de aquí',
+      'Prueba el museo de chocolate y demostraciones textiles'
+    ],
+    restaurants: [
+      { name: 'Hearts Cafe', type: 'International', kidFriendly: true },
+      { name: 'El Albergue Restaurant', type: 'Peruvian', kidFriendly: true },
+      { name: 'Tutti Amore', type: 'Pizzeria', kidFriendly: true },
+      { name: 'Chuncho', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'El Albergue', type: 'Boutique', priceRange: '$$$' },
+      { name: 'Pakaritampu Hotel', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hostal Iskay', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'pisac',
+    name: 'Pisac',
+    nameEs: 'Písac',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 2972,
+    population: '10,000',
+    description: 'Famous for its vibrant Sunday market and spectacular Inca ruins high above town, Pisac is a must-visit Sacred Valley destination. The massive archaeological site features agricultural terraces, temples, and an ancient cemetery. The market offers beautiful textiles, crafts, and local produce.',
+    descriptionEs: 'Famoso por su vibrante mercado dominical y espectaculares ruinas incas en lo alto del pueblo, Písac es un destino imperdible del Valle Sagrado. El masivo sitio arqueológico presenta terrazas agrícolas, templos y un cementerio antiguo. El mercado ofrece hermosos textiles, artesanías y productos locales.',
+    highlights: [
+      'Pisac archaeological site',
+      'Famous Sunday market',
+      'Agricultural terraces',
+      'Artisan crafts and textiles',
+      'Traditional bakeries',
+      'Views over Sacred Valley'
+    ],
+    highlightsEs: [
+      'Sitio arqueológico de Písac',
+      'Famoso mercado dominical',
+      'Terrazas agrícolas',
+      'Artesanías y textiles',
+      'Panaderías tradicionales',
+      'Vistas sobre el Valle Sagrado'
+    ],
+    familyRating: 5,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10],
+    minDays: 1,
+    nearbyAttractions: ['pisac-ruins', 'moray', 'maras-salt-mines'],
+    relatedCities: ['cusco', 'ollantaytambo', 'sacred-valley'],
+    activities: ['market-tour', 'hiking', 'textile-workshop'],
+    climate: 'Pleasant Sacred Valley climate. Sunny days, cool nights. Dry season May-October best for ruins visit.',
+    climateEs: 'Clima agradable del Valle Sagrado. Días soleados, noches frescas. Temporada seca mayo-octubre mejor para visitar las ruinas.',
+    gettingThere: 'Colectivo from Cusco (45 minutes). Included in most Sacred Valley tours.',
+    gettingThereEs: 'Colectivo desde Cusco (45 minutos). Incluido en la mayoría de los tours del Valle Sagrado.',
+    familyTips: [
+      'Sunday and Tuesday markets are the biggest and most authentic',
+      'The ruins are extensive - bring water and snacks',
+      'You can taxi up and hike down through the ruins',
+      'Try the empanadas at local bakeries',
+      'Let kids pick a small craft at the market',
+      'Combine with Moray and Maras for a full day'
+    ],
+    familyTipsEs: [
+      'Los mercados de domingo y martes son los más grandes y auténticos',
+      'Las ruinas son extensas - trae agua y snacks',
+      'Puedes tomar taxi arriba y caminar bajando por las ruinas',
+      'Prueba las empanadas en las panaderías locales',
+      'Deja que los niños elijan una artesanía pequeña en el mercado',
+      'Combina con Moray y Maras para un día completo'
+    ],
+    restaurants: [
+      { name: 'Ulrike\'s Café', type: 'Cafe/Bakery', kidFriendly: true },
+      { name: 'Cuchara de Palo', type: 'Peruvian', kidFriendly: true },
+      { name: 'Mullu Café', type: 'Organic', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Pisac Inn', type: 'Boutique', priceRange: '$$$' },
+      { name: 'Melissa Wasi', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hospedaje Beho', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'tarapoto',
+    name: 'Tarapoto',
+    nameEs: 'Tarapoto',
+    region: 'San Martín Region',
+    regionEs: 'Región San Martín',
+    altitude: 356,
+    population: '180,000',
+    description: 'Known as the "City of Palms," Tarapoto is the gateway to Peru\'s high jungle (selva alta). The region offers beautiful waterfalls, chocolate and coffee farms, indigenous communities, and adventure activities, all with easier access and lower humidity than the deep Amazon.',
+    descriptionEs: 'Conocida como la "Ciudad de las Palmeras," Tarapoto es la puerta de entrada a la selva alta de Perú. La región ofrece hermosas cascadas, fincas de chocolate y café, comunidades indígenas y actividades de aventura, todo con acceso más fácil y menor humedad que la Amazonía profunda.',
+    highlights: [
+      'Ahuashiyacu waterfall',
+      'Chocolate and coffee farm tours',
+      'Laguna Azul (Blue Lagoon)',
+      'Lamas indigenous village',
+      'High jungle biodiversity',
+      'Adventure sports'
+    ],
+    highlightsEs: [
+      'Catarata de Ahuashiyacu',
+      'Tours de fincas de chocolate y café',
+      'Laguna Azul',
+      'Pueblo indígena de Lamas',
+      'Biodiversidad de selva alta',
+      'Deportes de aventura'
+    ],
+    familyRating: 4,
+    bestMonths: [5, 6, 7, 8, 9, 10],
+    minDays: 3,
+    nearbyAttractions: ['ahuashiyacu-waterfall', 'laguna-azul', 'lamas-village'],
+    relatedCities: ['moyobamba', 'chachapoyas'],
+    activities: ['waterfall-visit', 'chocolate-making', 'coffee-farm-tour'],
+    climate: 'Tropical high jungle climate. Warm year-round (25-35°C). Less rain than lowland jungle, especially June-September.',
+    climateEs: 'Clima tropical de selva alta. Cálido todo el año (25-35°C). Menos lluvia que la selva baja, especialmente junio-septiembre.',
+    gettingThere: 'Daily flights from Lima (1.5 hours). Overland from Chiclayo or Chachapoyas (long but scenic drives).',
+    gettingThereEs: 'Vuelos diarios desde Lima (1.5 horas). Terrestre desde Chiclayo o Chachapoyas (viajes largos pero escénicos).',
+    familyTips: [
+      'Easier jungle experience than Iquitos for families',
+      'Waterfalls have swimming areas - bring swimsuits',
+      'Chocolate making workshops are fun for kids',
+      'Visit Lamas to learn about indigenous culture',
+      'Local fruit juices and ice creams are amazing',
+      'Book tours through reputable local agencies'
+    ],
+    familyTipsEs: [
+      'Experiencia de selva más fácil que Iquitos para familias',
+      'Las cascadas tienen áreas para nadar - trae trajes de baño',
+      'Los talleres de chocolate son divertidos para niños',
+      'Visita Lamas para aprender sobre cultura indígena',
+      'Los jugos de frutas y helados locales son increíbles',
+      'Reserva tours a través de agencias locales reputadas'
+    ],
+    restaurants: [
+      { name: 'La Patarashca', type: 'Amazonian', kidFriendly: true },
+      { name: 'Café d\'Mundo', type: 'Cafe', kidFriendly: true },
+      { name: 'El Rincón Sureño', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Puerto Palmeras Resort', type: 'Resort', priceRange: '$$$' },
+      { name: 'Tucan Suites', type: 'Mid-range', priceRange: '$$' },
+      { name: 'La Posada Inn', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'huancayo',
+    name: 'Huancayo',
+    nameEs: 'Huancayo',
+    region: 'Junín Region',
+    regionEs: 'Región Junín',
+    altitude: 3271,
+    population: '500,000',
+    description: 'The commercial hub of Peru\'s central highlands, Huancayo offers an authentic highland experience away from tourist crowds. The fertile Mantaro Valley is famous for its crafts, traditional villages, and the spectacular train journey from Lima - one of the world\'s highest railway routes.',
+    descriptionEs: 'El centro comercial de las tierras altas centrales de Perú, Huancayo ofrece una experiencia auténtica de los Andes lejos de las multitudes turísticas. El fértil Valle del Mantaro es famoso por sus artesanías, pueblos tradicionales y el espectacular viaje en tren desde Lima - una de las rutas ferroviarias más altas del mundo.',
+    highlights: [
+      'Ferrocarril Central Andino train',
+      'Mantaro Valley crafts villages',
+      'Torre Torre rock formations',
+      'Authentic highland culture',
+      'Huancayo craft market',
+      'Traditional festivals'
+    ],
+    highlightsEs: [
+      'Tren Ferrocarril Central Andino',
+      'Pueblos artesanales del Valle del Mantaro',
+      'Formaciones rocosas Torre Torre',
+      'Cultura auténtica de tierras altas',
+      'Mercado artesanal de Huancayo',
+      'Festivales tradicionales'
+    ],
+    familyRating: 3,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10],
+    minDays: 2,
+    nearbyAttractions: ['torre-torre', 'cochas-gourd-carving', 'hualhuas-textiles'],
+    relatedCities: ['lima', 'ayacucho', 'tarma'],
+    activities: ['train-journey', 'craft-workshop', 'hiking'],
+    climate: 'Highland climate with significant temperature variation between day and night. Dry season April-October, rainy November-March.',
+    climateEs: 'Clima de tierras altas con variación significativa de temperatura entre día y noche. Temporada seca abril-octubre, lluviosa noviembre-marzo.',
+    gettingThere: 'Bus from Lima (7 hours). Ferrocarril Central Andino train from Lima (scenic, runs select dates). Small airport with limited flights.',
+    gettingThereEs: 'Bus desde Lima (7 horas). Tren Ferrocarril Central Andino desde Lima (escénico, opera fechas selectas). Pequeño aeropuerto con vuelos limitados.',
+    familyTips: [
+      'The train journey is an incredible experience - book well in advance',
+      'Visit Cochas Grande for gourd carving demonstrations',
+      'Hualhuas village for textile weaving workshops',
+      'Sunday market is huge and authentic',
+      'Altitude is significant - acclimatize properly',
+      'Off the beaten path - expect less English spoken'
+    ],
+    familyTipsEs: [
+      'El viaje en tren es una experiencia increíble - reserva con anticipación',
+      'Visita Cochas Grande para demostraciones de tallado de mates',
+      'Pueblo de Hualhuas para talleres de tejido textil',
+      'El mercado dominical es enorme y auténtico',
+      'La altitud es significativa - aclimátate apropiadamente',
+      'Fuera del circuito turístico - espera menos inglés hablado'
+    ],
+    restaurants: [
+      { name: 'Huancahuasi', type: 'Peruvian', kidFriendly: true },
+      { name: 'La Cabaña', type: 'Peruvian', kidFriendly: true },
+      { name: 'Café Antojitos', type: 'Cafe', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Wasi Hotel Boutique', type: 'Boutique', priceRange: '$$$' },
+      { name: 'Hotel Turismo', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hotel Confort', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'tumbes',
+    name: 'Tumbes',
+    nameEs: 'Tumbes',
+    region: 'Tumbes Region',
+    regionEs: 'Región Tumbes',
+    altitude: 7,
+    population: '110,000',
+    description: 'Peru\'s northernmost coastal city offers warm beaches, mangrove ecosystems, and unique dry forest wildlife. The Tumbes beaches have the warmest ocean water in Peru, and the region\'s national reserves protect rare species found nowhere else in the country.',
+    descriptionEs: 'La ciudad costera más al norte de Perú ofrece playas cálidas, ecosistemas de manglares y vida silvestre única de bosque seco. Las playas de Tumbes tienen el agua de mar más cálida de Perú, y las reservas nacionales de la región protegen especies raras que no se encuentran en ningún otro lugar del país.',
+    highlights: [
+      'Punta Sal and Zorritos beaches',
+      'Mangroves National Sanctuary',
+      'Tumbes National Reserve (dry forest)',
+      'Warm ocean swimming year-round',
+      'Crocodile and wildlife watching',
+      'Fresh ceviche and seafood'
+    ],
+    highlightsEs: [
+      'Playas de Punta Sal y Zorritos',
+      'Santuario Nacional Los Manglares',
+      'Reserva Nacional de Tumbes (bosque seco)',
+      'Natación en océano cálido todo el año',
+      'Observación de cocodrilos y vida silvestre',
+      'Ceviche fresco y mariscos'
+    ],
+    familyRating: 4,
+    bestMonths: [1, 2, 3, 4, 5, 11, 12],
+    minDays: 3,
+    nearbyAttractions: ['punta-sal-beach', 'mangroves-sanctuary', 'tumbes-reserve'],
+    relatedCities: ['mancora', 'piura'],
+    activities: ['beach-relaxation', 'mangrove-tour', 'wildlife-watching'],
+    climate: 'Tropical dry climate. Warm year-round (25-34°C). Rainy season January-April but still warm and swimmable.',
+    climateEs: 'Clima tropical seco. Cálido todo el año (25-34°C). Temporada lluviosa enero-abril pero aún cálido y apto para nadar.',
+    gettingThere: 'Flights from Lima (2 hours). Bus from Lima (18-20 hours). Easy access from Ecuador border.',
+    gettingThereEs: 'Vuelos desde Lima (2 horas). Bus desde Lima (18-20 horas). Fácil acceso desde la frontera con Ecuador.',
+    familyTips: [
+      'Punta Sal has the warmest, calmest beaches',
+      'Mangrove tours in kayaks are magical for families',
+      'Unique wildlife not found elsewhere in Peru',
+      'Less developed than Máncora - more relaxed',
+      'Combine with Máncora for a beach vacation',
+      'Watch for American crocodiles in mangroves!'
+    ],
+    familyTipsEs: [
+      'Punta Sal tiene las playas más cálidas y tranquilas',
+      'Los tours de manglares en kayak son mágicos para familias',
+      'Vida silvestre única no encontrada en otro lugar de Perú',
+      'Menos desarrollado que Máncora - más relajado',
+      'Combina con Máncora para vacaciones de playa',
+      '¡Busca cocodrilos americanos en los manglares!'
+    ],
+    restaurants: [
+      { name: 'Si Señor', type: 'Seafood', kidFriendly: true },
+      { name: 'El Brujo', type: 'Peruvian', kidFriendly: true },
+      { name: 'Latino', type: 'Seafood', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Punta Sal Suites', type: 'Resort', priceRange: '$$$' },
+      { name: 'Costa Azul', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hostal Lourdes', type: 'Budget', priceRange: '$' }
+    ]
   }
 ];
 

@@ -929,6 +929,466 @@ export const festivals: Festival[] = [
     practicalInfo: 'Held at Costa Verde in Lima (location may vary). Entrance fee required plus food coupons. Over 500,000 visitors attend. Book Lima hotels early for September.',
     practicalInfoEs: 'Se celebra en Costa Verde en Lima (la ubicación puede variar). Se requiere entrada más cupones de comida. Más de 500,000 visitantes asisten. Reserva hoteles en Lima temprano para septiembre.',
     relatedFestivals: ['fiesta-de-la-marinera', 'vendimia-ica']
+  },
+  {
+    slug: 'fiestas-patrias',
+    name: 'Fiestas Patrias - Independence Day',
+    nameEs: 'Fiestas Patrias - Día de la Independencia',
+    date: 'July 28-29',
+    dateEs: '28-29 de julio',
+    month: 7,
+    duration: '2 days (celebrations extend throughout late July)',
+    durationEs: '2 días (celebraciones se extienden durante finales de julio)',
+    city: 'lima',
+    region: 'Nationwide',
+    regionEs: 'Nacional',
+    description: 'Peru\'s most patriotic celebration marks independence from Spain in 1821. Parades, fireworks, and festivities fill every city and town. Families gather for traditional food, and the country erupts in red and white pride.',
+    descriptionEs: 'La celebración más patriótica de Perú marca la independencia de España en 1821. Desfiles, fuegos artificiales y festividades llenan cada ciudad y pueblo. Las familias se reúnen para comida tradicional, y el país estalla en orgullo rojo y blanco.',
+    history: 'José de San Martín proclaimed Peru\'s independence on July 28, 1821, in Lima\'s Plaza Mayor. The two-day celebration honors this moment and the establishment of the republic the following day. It\'s the most important civic holiday in Peru.',
+    historyEs: 'José de San Martín proclamó la independencia de Perú el 28 de julio de 1821, en la Plaza Mayor de Lima. La celebración de dos días honra este momento y el establecimiento de la república al día siguiente. Es el feriado cívico más importante de Perú.',
+    highlights: [
+      'Military parades in Lima',
+      'Presidential speech from Government Palace',
+      'Fireworks nationwide',
+      'Flag-raising ceremonies',
+      'Traditional music and dance',
+      'Every building decorated in red and white'
+    ],
+    highlightsEs: [
+      'Desfiles militares en Lima',
+      'Discurso presidencial desde Palacio de Gobierno',
+      'Fuegos artificiales a nivel nacional',
+      'Ceremonias de izamiento de bandera',
+      'Música y baile tradicional',
+      'Cada edificio decorado en rojo y blanco'
+    ],
+    activities: [
+      'Watch the Gran Parada Militar parade',
+      'Visit decorated Plaza Mayor',
+      'Enjoy traditional pachamanca feast',
+      'See fireworks at night',
+      'Join local street celebrations',
+      'Shop for patriotic souvenirs'
+    ],
+    activitiesEs: [
+      'Ver el desfile de la Gran Parada Militar',
+      'Visitar la Plaza Mayor decorada',
+      'Disfrutar de la tradicional pachamanca',
+      'Ver fuegos artificiales en la noche',
+      'Unirse a celebraciones callejeras locales',
+      'Comprar souvenirs patrióticos'
+    ],
+    familyRating: 5,
+    crowdLevel: 'very high',
+    familyTips: [
+      'Book accommodations months in advance',
+      'Many businesses closed - plan accordingly',
+      'Transportation limited - stay central',
+      'Parade viewing spots fill early',
+      'Incredible national pride - very festive!',
+      'Great time to try pachamanca',
+      'Expect crowds everywhere',
+      'Fun for kids who love parades'
+    ],
+    familyTipsEs: [
+      'Reserva alojamiento con meses de anticipación',
+      'Muchos negocios cerrados - planifica acordemente',
+      'Transporte limitado - quédate en el centro',
+      'Los lugares para ver el desfile se llenan temprano',
+      '¡Increíble orgullo nacional - muy festivo!',
+      'Gran momento para probar pachamanca',
+      'Espera multitudes en todas partes',
+      'Divertido para niños que aman desfiles'
+    ],
+    whatToWear: 'Red and white clothing is encouraged! Comfortable clothes for outdoor celebrations.',
+    whatToWearEs: '¡Se anima a usar ropa roja y blanca! Ropa cómoda para celebraciones al aire libre.',
+    foodToTry: [
+      'Pachamanca (earth-oven feast)',
+      'Anticuchos',
+      'Ceviche',
+      'Chicha morada',
+      'Picarones',
+      'Pisco sour'
+    ],
+    foodToTryEs: [
+      'Pachamanca (festín de horno de tierra)',
+      'Anticuchos',
+      'Ceviche',
+      'Chicha morada',
+      'Picarones',
+      'Pisco sour'
+    ],
+    practicalInfo: 'National holidays on July 28-29. Most businesses closed. Heavy traffic and crowds. Book everything far in advance. Celebrations happen nationwide but Lima parade is the main event.',
+    practicalInfoEs: 'Feriados nacionales el 28-29 de julio. La mayoría de negocios cerrados. Tráfico y multitudes pesadas. Reserva todo con mucha anticipación. Las celebraciones ocurren a nivel nacional pero el desfile de Lima es el evento principal.',
+    relatedFestivals: ['inti-raymi', 'senor-de-los-milagros']
+  },
+  {
+    slug: 'corpus-christi-cusco',
+    name: 'Corpus Christi Cusco',
+    nameEs: 'Corpus Christi Cusco',
+    date: 'Variable (May/June - 60 days after Easter)',
+    dateEs: 'Variable (mayo/junio - 60 días después de Semana Santa)',
+    month: 6,
+    duration: '1 week of processions',
+    durationEs: '1 semana de procesiones',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'One of Cusco\'s most colorful religious festivals, when fifteen saints and virgins from surrounding parishes are carried to the Cathedral to "visit" the body of Christ. A fascinating blend of Catholic and Andean traditions.',
+    descriptionEs: 'Uno de los festivales religiosos más coloridos de Cusco, cuando quince santos y vírgenes de parroquias circundantes son llevados a la Catedral para "visitar" el cuerpo de Cristo. Una fascinante mezcla de tradiciones católicas y andinas.',
+    history: 'Introduced by Spanish colonizers in the 1570s, Corpus Christi was layered over the Inca celebration of Inti Raymi. The tradition of parading saint statues from parish churches continues today, with each saint having its own devoted following.',
+    historyEs: 'Introducido por los colonizadores españoles en la década de 1570, Corpus Christi se superpuso a la celebración inca del Inti Raymi. La tradición de desfilar estatuas de santos desde las iglesias parroquiales continúa hoy, con cada santo teniendo su propio seguimiento devoto.',
+    highlights: [
+      '15 saints paraded to Cathedral',
+      'Ornate colonial-era floats',
+      'Traditional brass bands',
+      'Indigenous and Catholic fusion',
+      'Elaborate processions',
+      'Traditional chiriuchu feast'
+    ],
+    highlightsEs: [
+      '15 santos desfilados a la Catedral',
+      'Ornados carros de la era colonial',
+      'Bandas de bronce tradicionales',
+      'Fusión indígena y católica',
+      'Elaboradas procesiones',
+      'Festín tradicional de chiriuchu'
+    ],
+    activities: [
+      'Watch processions enter Plaza de Armas',
+      'Try traditional chiriuchu dish',
+      'Visit the Cathedral',
+      'See the saints in their finery',
+      'Enjoy street food and festivals',
+      'Take photos of elaborate floats'
+    ],
+    activitiesEs: [
+      'Ver procesiones entrar a la Plaza de Armas',
+      'Probar el tradicional plato chiriuchu',
+      'Visitar la Catedral',
+      'Ver los santos en sus galas',
+      'Disfrutar comida callejera y festivales',
+      'Tomar fotos de los elaborados carros'
+    ],
+    familyRating: 4,
+    crowdLevel: 'high',
+    familyTips: [
+      'Thursday is main procession day',
+      'Plaza de Armas is festival center',
+      'Arrive early for good viewing spots',
+      'Try chiriuchu - cold platter tradition',
+      'Great cultural photography opportunity',
+      'Kids fascinated by saint statues',
+      'Combine with Inti Raymi if dates align',
+      'Book hotels early for June'
+    ],
+    familyTipsEs: [
+      'El jueves es el día principal de la procesión',
+      'La Plaza de Armas es el centro del festival',
+      'Llega temprano para buenos lugares para ver',
+      'Prueba chiriuchu - tradición de plato frío',
+      'Gran oportunidad de fotografía cultural',
+      'Los niños fascinados por las estatuas de santos',
+      'Combina con Inti Raymi si las fechas coinciden',
+      'Reserva hoteles temprano para junio'
+    ],
+    whatToWear: 'Layers for Cusco weather. Respectful attire for church visits.',
+    whatToWearEs: 'Capas para el clima de Cusco. Atuendo respetuoso para visitas a la iglesia.',
+    foodToTry: [
+      'Chiriuchu (cold platter with guinea pig)',
+      'Choclo con queso',
+      'Tamales cusqueños',
+      'Chicha de jora',
+      'Lechón (roast pig)',
+      'Festival sweets'
+    ],
+    foodToTryEs: [
+      'Chiriuchu (plato frío con cuy)',
+      'Choclo con queso',
+      'Tamales cusqueños',
+      'Chicha de jora',
+      'Lechón',
+      'Dulces del festival'
+    ],
+    practicalInfo: 'Date varies yearly (60 days after Easter). Processions run for a week but Thursday is the highlight. Plaza de Armas becomes very crowded. Book Cusco hotels well in advance.',
+    practicalInfoEs: 'La fecha varía cada año (60 días después de Semana Santa). Las procesiones duran una semana pero el jueves es lo más destacado. La Plaza de Armas se llena mucho. Reserva hoteles en Cusco con mucha anticipación.',
+    relatedFestivals: ['inti-raymi', 'semana-santa-ayacucho', 'qoyllur-riti']
+  },
+  {
+    slug: 'navidad-peru',
+    name: 'Peruvian Christmas',
+    nameEs: 'Navidad Peruana',
+    date: 'December 24-25',
+    dateEs: '24-25 de diciembre',
+    month: 12,
+    duration: 'Christmas Eve through Christmas Day',
+    durationEs: 'Nochebuena hasta Navidad',
+    city: 'lima',
+    region: 'Nationwide',
+    regionEs: 'Nacional',
+    description: 'Christmas in Peru blends Catholic traditions with unique Peruvian customs. From elaborate nativity scenes to the midnight Mass and traditional feast of turkey or lechón, families celebrate with warmth despite the summer heat.',
+    descriptionEs: 'La Navidad en Perú mezcla tradiciones católicas con costumbres peruanas únicas. Desde elaborados nacimientos hasta la Misa de Gallo y el festín tradicional de pavo o lechón, las familias celebran con calidez a pesar del calor del verano.',
+    history: 'Christmas traditions came with Spanish colonization but developed unique Peruvian character. The Santurantikuy market in Cusco (December 24) has sold nativity figurines for centuries. Celebrations center on Christmas Eve (Nochebuena), with gifts opened at midnight.',
+    historyEs: 'Las tradiciones navideñas llegaron con la colonización española pero desarrollaron un carácter peruano único. El mercado Santurantikuy en Cusco (24 de diciembre) ha vendido figurines de nacimiento por siglos. Las celebraciones se centran en Nochebuena, con regalos abiertos a medianoche.',
+    highlights: [
+      'Santurantikuy market (Cusco)',
+      'Elaborate nativity scenes (nacimientos)',
+      'Misa de Gallo (Midnight Mass)',
+      'Hot chocolate and panetón',
+      'Fireworks at midnight',
+      'Summer Christmas celebration!'
+    ],
+    highlightsEs: [
+      'Mercado Santurantikuy (Cusco)',
+      'Elaborados nacimientos',
+      'Misa de Gallo',
+      'Chocolate caliente y panetón',
+      'Fuegos artificiales a medianoche',
+      '¡Celebración navideña de verano!'
+    ],
+    activities: [
+      'Visit Santurantikuy market in Cusco',
+      'See decorated Plaza de Armas',
+      'Attend Midnight Mass',
+      'Enjoy traditional Christmas dinner',
+      'Watch midnight fireworks',
+      'Exchange gifts at midnight'
+    ],
+    activitiesEs: [
+      'Visitar mercado Santurantikuy en Cusco',
+      'Ver la Plaza de Armas decorada',
+      'Asistir a la Misa de Gallo',
+      'Disfrutar de la cena tradicional de Navidad',
+      'Ver fuegos artificiales a medianoche',
+      'Intercambiar regalos a medianoche'
+    ],
+    familyRating: 5,
+    crowdLevel: 'moderate',
+    familyTips: [
+      'It\'s summer in Peru - pack accordingly!',
+      'Santurantikuy market is magical for kids',
+      'Midnight celebrations mean late night',
+      'Hot chocolate is traditional despite heat',
+      'Great time to see decorated cities',
+      'Family-friendly atmosphere everywhere',
+      'Many restaurants closed - book dinner',
+      'Panetón (Italian panettone) is everywhere'
+    ],
+    familyTipsEs: [
+      '¡Es verano en Perú - empaca acordemente!',
+      'El mercado Santurantikuy es mágico para niños',
+      'Las celebraciones a medianoche significan noche tarde',
+      'El chocolate caliente es tradicional a pesar del calor',
+      'Gran momento para ver ciudades decoradas',
+      'Ambiente familiar en todas partes',
+      'Muchos restaurantes cerrados - reserva cena',
+      'El panetón (panettone italiano) está en todas partes'
+    ],
+    whatToWear: 'Summer clothes for coastal Peru. Layers for highlands. Dressy casual for Midnight Mass.',
+    whatToWearEs: 'Ropa de verano para la costa de Perú. Capas para las tierras altas. Casual elegante para la Misa de Gallo.',
+    foodToTry: [
+      'Panetón with hot chocolate',
+      'Pavo relleno (stuffed turkey)',
+      'Lechón (roast pork)',
+      'Tamales',
+      'Chocolate caliente',
+      'Turrón and other sweets'
+    ],
+    foodToTryEs: [
+      'Panetón con chocolate caliente',
+      'Pavo relleno',
+      'Lechón',
+      'Tamales',
+      'Chocolate caliente',
+      'Turrón y otros dulces'
+    ],
+    practicalInfo: 'December 25 is a national holiday. Many businesses closed December 24-25. Summer weather on coast (hot), pleasant in highlands. Santurantikuy market on December 24 in Cusco is unmissable.',
+    practicalInfoEs: 'El 25 de diciembre es feriado nacional. Muchos negocios cerrados 24-25 de diciembre. Clima de verano en la costa (caliente), agradable en las tierras altas. El mercado Santurantikuy el 24 de diciembre en Cusco es imperdible.',
+    relatedFestivals: ['fiestas-patrias', 'ano-nuevo']
+  },
+  {
+    slug: 'dia-de-los-muertos',
+    name: 'Día de los Muertos (All Saints)',
+    nameEs: 'Día de los Muertos (Todos los Santos)',
+    date: 'November 1-2',
+    dateEs: '1-2 de noviembre',
+    month: 11,
+    duration: '2 days',
+    durationEs: '2 días',
+    city: 'cusco',
+    region: 'Nationwide (especially Andean regions)',
+    regionEs: 'Nacional (especialmente regiones andinas)',
+    description: 'Peruvians honor deceased loved ones with cemetery visits, special foods, and family gatherings. A blend of Catholic All Saints Day and ancient Andean ancestor worship, it\'s a time of remembrance and celebration of life.',
+    descriptionEs: 'Los peruanos honran a seres queridos fallecidos con visitas al cementerio, comidas especiales y reuniones familiares. Una mezcla del Día de Todos los Santos católico y el antiguo culto a los ancestros andino, es un momento de recuerdo y celebración de la vida.',
+    history: 'Pre-Columbian Peruvians practiced elaborate ancestor veneration, mummifying the dead and including them in festivals. Spanish Catholic traditions merged with these customs, creating a unique blend of remembrance that continues today.',
+    historyEs: 'Los peruanos precolombinos practicaban elaborada veneración de ancestros, momificando a los muertos e incluyéndolos en festivales. Las tradiciones católicas españolas se mezclaron con estas costumbres, creando una mezcla única de recuerdo que continúa hoy.',
+    highlights: [
+      'Cemetery visits with flowers',
+      'Special bread (tanta wawa)',
+      'Traditional purple drink (colada morada)',
+      'Family picnics at gravesites',
+      'Music and celebration',
+      'Andean ritual offerings'
+    ],
+    highlightsEs: [
+      'Visitas al cementerio con flores',
+      'Pan especial (tanta wawa)',
+      'Bebida morada tradicional (colada morada)',
+      'Picnics familiares en las tumbas',
+      'Música y celebración',
+      'Ofrendas rituales andinas'
+    ],
+    activities: [
+      'Visit decorated cemeteries',
+      'Try tanta wawa bread',
+      'Join cemetery festivities',
+      'Learn about Andean traditions',
+      'Participate in family gatherings',
+      'See altar displays'
+    ],
+    activitiesEs: [
+      'Visitar cementerios decorados',
+      'Probar pan tanta wawa',
+      'Unirse a festividades del cementerio',
+      'Aprender sobre tradiciones andinas',
+      'Participar en reuniones familiares',
+      'Ver exhibiciones de altares'
+    ],
+    familyRating: 4,
+    crowdLevel: 'moderate',
+    familyTips: [
+      'A respectful cultural experience',
+      'Cemeteries are festive, not somber',
+      'Try tanta wawa bread shaped like babies',
+      'Great for teaching about different traditions',
+      'Photography usually welcome respectfully',
+      'Most impactful in Andean regions',
+      'Combine with regular Peru trip',
+      'Not spooky - a celebration of life'
+    ],
+    familyTipsEs: [
+      'Una experiencia cultural respetuosa',
+      'Los cementerios son festivos, no sombríos',
+      'Prueba el pan tanta wawa en forma de bebés',
+      'Genial para enseñar sobre diferentes tradiciones',
+      'Fotografía usualmente bienvenida respetuosamente',
+      'Más impactante en regiones andinas',
+      'Combina con viaje regular a Perú',
+      'No es tenebroso - es una celebración de la vida'
+    ],
+    whatToWear: 'Respectful casual clothes. Layers in the highlands.',
+    whatToWearEs: 'Ropa casual respetuosa. Capas en las tierras altas.',
+    foodToTry: [
+      'Tanta wawa (baby-shaped bread)',
+      'Colada morada (purple corn drink)',
+      'Lechón',
+      'Tamales',
+      'Traditional sweets',
+      'Chicha morada'
+    ],
+    foodToTryEs: [
+      'Tanta wawa (pan en forma de bebé)',
+      'Colada morada (bebida de maíz morado)',
+      'Lechón',
+      'Tamales',
+      'Dulces tradicionales',
+      'Chicha morada'
+    ],
+    practicalInfo: 'November 1 is a national holiday. Cemeteries very active on November 1-2. More prominent in highland areas. A respectful, family-oriented celebration.',
+    practicalInfoEs: 'El 1 de noviembre es feriado nacional. Los cementerios muy activos el 1-2 de noviembre. Más prominente en áreas de las tierras altas. Una celebración respetuosa y familiar.',
+    relatedFestivals: ['semana-santa-ayacucho', 'navidad-peru']
+  },
+  {
+    slug: 'santa-rosa-de-lima',
+    name: 'Santa Rosa de Lima',
+    nameEs: 'Santa Rosa de Lima',
+    date: 'August 30',
+    dateEs: '30 de agosto',
+    month: 8,
+    duration: '1 day',
+    durationEs: '1 día',
+    city: 'lima',
+    region: 'Lima Region (national holiday)',
+    regionEs: 'Región Lima (feriado nacional)',
+    description: 'Lima\'s patron saint and the first person born in the Americas to be canonized is honored with pilgrimages, processions, and the tradition of dropping letters with wishes into her well.',
+    descriptionEs: 'La santa patrona de Lima y la primera persona nacida en las Américas en ser canonizada es honrada con peregrinajes, procesiones y la tradición de dejar cartas con deseos en su pozo.',
+    history: 'Isabel Flores de Oliva (1586-1617), known as Rosa, lived a life of extreme piety and charity in colonial Lima. She was canonized in 1671. Her sanctuary and well have been pilgrimage sites for over 350 years.',
+    historyEs: 'Isabel Flores de Oliva (1586-1617), conocida como Rosa, vivió una vida de piedad y caridad extrema en la Lima colonial. Fue canonizada en 1671. Su santuario y pozo han sido sitios de peregrinación por más de 350 años.',
+    highlights: [
+      'Pilgrimage to her sanctuary',
+      'Drop wishes into her well',
+      'Religious processions',
+      'Traditional music',
+      'Decorated churches',
+      'Local holiday atmosphere'
+    ],
+    highlightsEs: [
+      'Peregrinación a su santuario',
+      'Dejar deseos en su pozo',
+      'Procesiones religiosas',
+      'Música tradicional',
+      'Iglesias decoradas',
+      'Atmósfera de feriado local'
+    ],
+    activities: [
+      'Visit Sanctuary of Santa Rosa',
+      'Write a wish and drop in well',
+      'See the church where she prayed',
+      'Watch religious processions',
+      'Enjoy local festivities',
+      'Try traditional Lima food'
+    ],
+    activitiesEs: [
+      'Visitar el Santuario de Santa Rosa',
+      'Escribir un deseo y dejarlo en el pozo',
+      'Ver la iglesia donde ella rezaba',
+      'Ver procesiones religiosas',
+      'Disfrutar festividades locales',
+      'Probar comida tradicional limeña'
+    ],
+    familyRating: 4,
+    crowdLevel: 'moderate',
+    familyTips: [
+      'Kids love writing wishes for the well',
+      'Sanctuary can be crowded - go early',
+      'National holiday - many businesses closed',
+      'Interesting for kids learning about saints',
+      'Combine with Lima sightseeing',
+      'Simple but meaningful tradition',
+      'Good for understanding Peruvian Catholicism',
+      'Well at Sanctuary of Santa Rosa'
+    ],
+    familyTipsEs: [
+      'A los niños les encanta escribir deseos para el pozo',
+      'El santuario puede estar lleno - ve temprano',
+      'Feriado nacional - muchos negocios cerrados',
+      'Interesante para niños aprendiendo sobre santos',
+      'Combina con turismo en Lima',
+      'Tradición simple pero significativa',
+      'Bueno para entender el catolicismo peruano',
+      'Pozo en el Santuario de Santa Rosa'
+    ],
+    whatToWear: 'Respectful casual clothes appropriate for church visits.',
+    whatToWearEs: 'Ropa casual respetuosa apropiada para visitas a la iglesia.',
+    foodToTry: [
+      'Picarones',
+      'Anticuchos',
+      'Suspiro limeño',
+      'Ceviche',
+      'Traditional sweets',
+      'Festival street food'
+    ],
+    foodToTryEs: [
+      'Picarones',
+      'Anticuchos',
+      'Suspiro limeño',
+      'Ceviche',
+      'Dulces tradicionales',
+      'Comida callejera del festival'
+    ],
+    practicalInfo: 'August 30 is a national holiday. Sanctuary in central Lima\'s historic center. The well tradition involves writing wishes on paper and dropping them in. Lines can be long.',
+    practicalInfoEs: 'El 30 de agosto es feriado nacional. El santuario está en el centro histórico de Lima. La tradición del pozo involucra escribir deseos en papel y dejarlos caer. Las colas pueden ser largas.',
+    relatedFestivals: ['senor-de-los-milagros', 'semana-santa-ayacucho']
   }
 ];
 

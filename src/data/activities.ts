@@ -1877,6 +1877,600 @@ export const activities: Activity[] = [
       { name: 'Pablo Tour', familyFriendly: true },
       { name: 'Naturaleza Activa', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'horseback-riding',
+    name: 'Sacred Valley Horseback Riding',
+    nameEs: 'Cabalgata en el Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the Sacred Valley on horseback, riding Peruvian Paso horses known for their smooth gait. This gentle adventure takes you through traditional villages, past Inca ruins, and across stunning Andean landscapes.',
+    descriptionEs: 'Explora el Valle Sagrado a caballo, montando caballos Paso Peruano conocidos por su paso suave. Esta suave aventura te lleva a través de pueblos tradicionales, pasando ruinas incas y a través de impresionantes paisajes andinos.',
+    whatToExpect: 'Meet your Peruvian Paso horse and receive a safety briefing. Rides range from 2-hour scenic trips to full-day adventures. Routes pass through farmland, villages, and often include Inca sites like Moray. Horses are well-trained and suitable for beginners.',
+    whatToExpectEs: 'Conoce tu caballo Paso Peruano y recibe una charla de seguridad. Los paseos van desde viajes escénicos de 2 horas hasta aventuras de día completo. Las rutas pasan por tierras de cultivo, pueblos y a menudo incluyen sitios incas como Moray. Los caballos están bien entrenados y son aptos para principiantes.',
+    highlights: [
+      'Peruvian Paso horses (smooth gait)',
+      'Stunning valley scenery',
+      'Visit traditional villages',
+      'Pass by Inca ruins',
+      'Suitable for beginners',
+      'Kid-sized horses available'
+    ],
+    highlightsEs: [
+      'Caballos Paso Peruano (paso suave)',
+      'Impresionante paisaje del valle',
+      'Visitar pueblos tradicionales',
+      'Pasar por ruinas incas',
+      'Apto para principiantes',
+      'Caballos de tamaño para niños disponibles'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-6 hours',
+    durationEs: '2-6 horas',
+    difficulty: 'easy',
+    priceRange: '$50-120 per person',
+    priceRangeEs: '$50-120 por persona',
+    bestTime: 'Dry season (May-October), morning rides',
+    bestTimeEs: 'Temporada seca (mayo-octubre), paseos matutinos',
+    includes: [
+      'Horse and tack',
+      'Helmet',
+      'Experienced guide',
+      'Safety briefing',
+      'Snacks (half-day+)'
+    ],
+    includesEs: [
+      'Caballo y montura',
+      'Casco',
+      'Guía experimentado',
+      'Charla de seguridad',
+      'Snacks (medio día+)'
+    ],
+    tips: [
+      'Wear long pants and closed shoes',
+      'Bring sun protection',
+      'Go slow at altitude',
+      'Smaller horses available for kids',
+      'Morning rides have best weather',
+      'Great combined with Moray/Maras'
+    ],
+    tipsEs: [
+      'Usa pantalones largos y zapatos cerrados',
+      'Trae protección solar',
+      'Ve despacio en la altitud',
+      'Caballos más pequeños disponibles para niños',
+      'Los paseos matutinos tienen mejor clima',
+      'Genial combinado con Moray/Maras'
+    ],
+    safetyNotes: [
+      'Helmets mandatory for children',
+      'Height/weight restrictions may apply',
+      'Inform guide of any experience level',
+      'First aid kit with guide'
+    ],
+    safetyNotesEs: [
+      'Cascos obligatorios para niños',
+      'Pueden aplicar restricciones de altura/peso',
+      'Informa al guía de cualquier nivel de experiencia',
+      'Botiquín de primeros auxilios con el guía'
+    ],
+    relatedActivities: ['llama-trekking', 'mountain-biking', 'atv-tour'],
+    providers: [
+      { name: 'Perol Chico', familyFriendly: true },
+      { name: 'Sol y Luna Stables', familyFriendly: true },
+      { name: 'Sacred Valley Horses', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'atv-quad-tour',
+    name: 'ATV Quad Bike Adventure',
+    nameEs: 'Aventura en Cuatrimoto ATV',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Race through the Sacred Valley on all-terrain vehicles, exploring ancient salt mines, Inca ruins, and remote villages inaccessible by regular transport. An adrenaline-pumping way to see the Peruvian highlands.',
+    descriptionEs: 'Corre a través del Valle Sagrado en vehículos todo terreno, explorando antiguas salinas, ruinas incas y pueblos remotos inaccesibles por transporte regular. Una forma llena de adrenalina para ver las tierras altas peruanas.',
+    whatToExpect: 'After safety training and practice, ride powerful ATVs on dirt trails through the countryside. Popular routes visit Maras salt mines and Moray circular terraces. Double ATVs available for families with young children who ride as passengers.',
+    whatToExpectEs: 'Después de entrenamiento de seguridad y práctica, maneja potentes ATVs en senderos de tierra a través del campo. Las rutas populares visitan las salinas de Maras y las terrazas circulares de Moray. ATVs dobles disponibles para familias con niños pequeños que van como pasajeros.',
+    highlights: [
+      'Thrilling off-road adventure',
+      'Visit Maras salt mines',
+      'Explore Moray terraces',
+      'Stunning mountain scenery',
+      'Double ATVs for families',
+      'Dusty, muddy fun!'
+    ],
+    highlightsEs: [
+      'Emocionante aventura todo terreno',
+      'Visitar salinas de Maras',
+      'Explorar terrazas de Moray',
+      'Impresionante paisaje de montañas',
+      'ATVs dobles para familias',
+      '¡Diversión polvorienta y lodosa!'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'moderate',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'Dry season (May-October) for least mud',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para menos lodo',
+    includes: [
+      'ATV and fuel',
+      'Helmet and goggles',
+      'Gloves',
+      'Guide',
+      'Entrance fees to sites'
+    ],
+    includesEs: [
+      'ATV y combustible',
+      'Casco y gafas',
+      'Guantes',
+      'Guía',
+      'Entradas a los sitios'
+    ],
+    tips: [
+      'Wear old clothes - you\'ll get dusty/muddy',
+      'Drivers need valid license',
+      'Kids can ride as passengers',
+      'Bandana helpful for dust',
+      'Bring camera with strap',
+      'Half-day is sufficient'
+    ],
+    tipsEs: [
+      'Usa ropa vieja - te ensuciarás de polvo/lodo',
+      'Los conductores necesitan licencia válida',
+      'Los niños pueden ir como pasajeros',
+      'Pañuelo útil para el polvo',
+      'Trae cámara con correa',
+      'Medio día es suficiente'
+    ],
+    safetyNotes: [
+      'Valid driver\'s license required',
+      'Children ride as passengers only',
+      'Follow guide at all times',
+      'Terrain can be challenging'
+    ],
+    safetyNotesEs: [
+      'Se requiere licencia de conducir válida',
+      'Los niños solo van como pasajeros',
+      'Sigue al guía en todo momento',
+      'El terreno puede ser desafiante'
+    ],
+    relatedActivities: ['horseback-riding', 'mountain-biking', 'zip-lining'],
+    providers: [
+      { name: 'Action Valley', familyFriendly: true },
+      { name: 'Moray ATV Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'whale-watching',
+    name: 'Humpback Whale Watching',
+    nameEs: 'Avistamiento de Ballenas Jorobadas',
+    type: 'nature',
+    city: 'mancora',
+    region: 'Piura Region',
+    regionEs: 'Región Piura',
+    description: 'Witness majestic humpback whales on their annual migration along Peru\'s northern coast. From July to October, these gentle giants pass close to shore, often breaching and playing with their calves.',
+    descriptionEs: 'Presencia majestuosas ballenas jorobadas en su migración anual a lo largo de la costa norte de Perú. De julio a octubre, estos gentiles gigantes pasan cerca de la costa, a menudo saltando y jugando con sus crías.',
+    whatToExpect: 'Board a boat from Máncora or Los Órganos for a 2-3 hour ocean excursion. Expert guides spot whales and explain their behavior. Expect to see breaching, tail slapping, and mother-calf pairs. Dolphins often appear too. Calm seas in this region make for comfortable viewing.',
+    whatToExpectEs: 'Aborda un bote desde Máncora o Los Órganos para una excursión oceánica de 2-3 horas. Guías expertos avistan ballenas y explican su comportamiento. Espera ver saltos, golpes de cola y parejas madre-cría. Los delfines a menudo aparecen también. Los mares tranquilos en esta región permiten una observación cómoda.',
+    highlights: [
+      'See breaching humpback whales',
+      'Mother and calf pairs',
+      'Dolphins often spotted',
+      'Expert naturalist guides',
+      'Calm, warm waters',
+      'Unforgettable wildlife experience'
+    ],
+    highlightsEs: [
+      'Ver ballenas jorobadas saltando',
+      'Parejas de madre y cría',
+      'Delfines avistados frecuentemente',
+      'Guías naturalistas expertos',
+      'Aguas cálidas y tranquilas',
+      'Experiencia de vida silvestre inolvidable'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$40-80 per person',
+    priceRangeEs: '$40-80 por persona',
+    bestTime: 'July-October (whale migration season)',
+    bestTimeEs: 'Julio-octubre (temporada de migración de ballenas)',
+    includes: [
+      'Boat trip',
+      'Life jackets',
+      'Expert guide',
+      'Snacks/water',
+      'Binoculars available'
+    ],
+    includesEs: [
+      'Viaje en bote',
+      'Chalecos salvavidas',
+      'Guía experto',
+      'Snacks/agua',
+      'Binoculares disponibles'
+    ],
+    tips: [
+      'Book for morning - calmer seas',
+      'Take motion sickness medication',
+      'Bring camera with good zoom',
+      'Patience rewarded - whales appear!',
+      'Combine with beach vacation',
+      'August-September peak season'
+    ],
+    tipsEs: [
+      'Reserva para la mañana - mares más tranquilos',
+      'Toma medicación para el mareo',
+      'Trae cámara con buen zoom',
+      '¡La paciencia es recompensada - las ballenas aparecen!',
+      'Combina con vacaciones de playa',
+      'Agosto-septiembre temporada alta'
+    ],
+    safetyNotes: [
+      'Life jackets mandatory',
+      'Follow captain\'s instructions',
+      'Boats don\'t approach too close',
+      'Sunscreen essential'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas obligatorios',
+      'Sigue las instrucciones del capitán',
+      'Los botes no se acercan demasiado',
+      'Protector solar esencial'
+    ],
+    relatedActivities: ['mancora-beach-day', 'surfing-lesson', 'fishing-tour'],
+    providers: [
+      { name: 'Pacifico Adventures', familyFriendly: true },
+      { name: 'Spondylus', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'stand-up-paddleboard',
+    name: 'Stand-Up Paddleboarding',
+    nameEs: 'Paddleboard de Pie (SUP)',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Glide across the calm waters of Lima\'s coast or Lake Titicaca on a stand-up paddleboard. This accessible water sport is perfect for families and offers unique perspectives on Peru\'s coastline and waterways.',
+    descriptionEs: 'Deslízate sobre las aguas tranquilas de la costa de Lima o el Lago Titicaca en un paddleboard de pie. Este deporte acuático accesible es perfecto para familias y ofrece perspectivas únicas de la costa y vías fluviales de Perú.',
+    whatToExpect: 'Beginner lessons start on the beach or dock with balance practice. Once comfortable, paddle along the coast or lake shore. In Lima, explore Miraflores bays; at Titicaca, paddle around the floating islands. Wetsuits provided in Lima\'s cooler waters.',
+    whatToExpectEs: 'Las clases para principiantes comienzan en la playa o muelle con práctica de equilibrio. Una vez cómodo, rema a lo largo de la costa o la orilla del lago. En Lima, explora las bahías de Miraflores; en Titicaca, rema alrededor de las islas flotantes. Trajes de neopreno proporcionados en las aguas más frías de Lima.',
+    highlights: [
+      'Easy to learn for all ages',
+      'Stunning coastal views',
+      'Calm morning waters',
+      'Great core workout',
+      'Wetsuits provided (Lima)',
+      'Also available at Lake Titicaca'
+    ],
+    highlightsEs: [
+      'Fácil de aprender para todas las edades',
+      'Impresionantes vistas costeras',
+      'Aguas tranquilas en la mañana',
+      'Gran ejercicio de core',
+      'Trajes de neopreno proporcionados (Lima)',
+      'También disponible en el Lago Titicaca'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: '$35-60 per person',
+    priceRangeEs: '$35-60 por persona',
+    bestTime: 'Morning for calmest conditions, year-round in Lima',
+    bestTimeEs: 'Mañana para condiciones más calmadas, todo el año en Lima',
+    includes: [
+      'Paddleboard and paddle',
+      'Life jacket',
+      'Wetsuit (Lima)',
+      'Instruction',
+      'Guided paddle'
+    ],
+    includesEs: [
+      'Paddleboard y remo',
+      'Chaleco salvavidas',
+      'Traje de neopreno (Lima)',
+      'Instrucción',
+      'Paseo guiado'
+    ],
+    tips: [
+      'Book early morning for flat water',
+      'Easier than surfing for beginners',
+      'Kids can sit or kneel at first',
+      'Waterproof phone case recommended',
+      'Great exercise without realizing',
+      'Also available at Paracas, Huanchaco'
+    ],
+    tipsEs: [
+      'Reserva temprano en la mañana para agua plana',
+      'Más fácil que surfear para principiantes',
+      'Los niños pueden sentarse o arrodillarse al principio',
+      'Funda impermeable para teléfono recomendada',
+      'Gran ejercicio sin darte cuenta',
+      'También disponible en Paracas, Huanchaco'
+    ],
+    safetyNotes: [
+      'Must be able to swim',
+      'Life jacket required for children',
+      'Stay in designated areas',
+      'Watch for boats and surfers'
+    ],
+    safetyNotesEs: [
+      'Debes saber nadar',
+      'Chaleco salvavidas requerido para niños',
+      'Mantente en áreas designadas',
+      'Cuidado con botes y surfistas'
+    ],
+    relatedActivities: ['surfing-lesson', 'kayaking-titicaca', 'paragliding-miraflores'],
+    providers: [
+      { name: 'Lima SUP', familyFriendly: true },
+      { name: 'Paracas Explorer', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'homestay-experience',
+    name: 'Andean Homestay Experience',
+    nameEs: 'Experiencia de Hospedaje Familiar Andino',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Live with a local family on Lake Titicaca\'s Amantaní or Taquile islands for an authentic cultural immersion. Share meals, learn traditional crafts, and experience daily life in one of Peru\'s most traditional communities.',
+    descriptionEs: 'Vive con una familia local en las islas Amantaní o Taquile del Lago Titicaca para una auténtica inmersión cultural. Comparte comidas, aprende artesanías tradicionales y experimenta la vida diaria en una de las comunidades más tradicionales de Perú.',
+    whatToExpect: 'Boat to an island community and meet your host family. Participate in daily activities like cooking, farming, or weaving. Evening may include traditional music and dancing. Sleep in simple but clean rooms. Experience life without cars, wifi, or modern distractions.',
+    whatToExpectEs: 'Bote a una comunidad isleña y conoce a tu familia anfitriona. Participa en actividades diarias como cocinar, cultivar o tejer. La noche puede incluir música y baile tradicional. Duerme en habitaciones simples pero limpias. Experimenta la vida sin autos, wifi ni distracciones modernas.',
+    highlights: [
+      'Authentic cultural immersion',
+      'Share meals with local family',
+      'Learn weaving and crafts',
+      'Traditional music and dance',
+      'Stunning lake views',
+      'No wifi = real connection'
+    ],
+    highlightsEs: [
+      'Auténtica inmersión cultural',
+      'Comparte comidas con familia local',
+      'Aprende tejido y artesanías',
+      'Música y baile tradicional',
+      'Impresionantes vistas del lago',
+      'Sin wifi = conexión real'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '1-2 nights',
+    durationEs: '1-2 noches',
+    difficulty: 'easy',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Dry season (May-October), any time works',
+    bestTimeEs: 'Temporada seca (mayo-octubre), cualquier momento funciona',
+    includes: [
+      'Boat transportation',
+      'Home accommodation',
+      'All meals',
+      'Cultural activities',
+      'English-speaking guide'
+    ],
+    includesEs: [
+      'Transporte en bote',
+      'Alojamiento en casa',
+      'Todas las comidas',
+      'Actividades culturales',
+      'Guía de habla inglesa'
+    ],
+    tips: [
+      'Bring small gifts for family (school supplies, chocolate)',
+      'Accommodation is basic - bring sleeping bag for warmth',
+      'Learn some Quechua phrases',
+      'Participate actively in activities',
+      'Digital detox - embrace no wifi!',
+      'Incredible for teaching kids about different cultures'
+    ],
+    tipsEs: [
+      'Trae pequeños regalos para la familia (útiles escolares, chocolate)',
+      'El alojamiento es básico - trae saco de dormir para el calor',
+      'Aprende algunas frases en quechua',
+      'Participa activamente en las actividades',
+      '¡Desintoxicación digital - abraza el no wifi!',
+      'Increíble para enseñar a los niños sobre diferentes culturas'
+    ],
+    safetyNotes: [
+      'Basic medical kit recommended',
+      'Altitude can affect sleep',
+      'No electricity in some homes',
+      'Dress warmly for cold nights'
+    ],
+    safetyNotesEs: [
+      'Botiquín básico recomendado',
+      'La altitud puede afectar el sueño',
+      'Sin electricidad en algunas casas',
+      'Vístete abrigado para noches frías'
+    ],
+    relatedActivities: ['kayaking-titicaca', 'textile-workshop'],
+    providers: [
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lima-food-tour',
+    name: 'Lima Gastronomy Tour',
+    nameEs: 'Tour Gastronómico de Lima',
+    type: 'culinary',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Discover why Lima is South America\'s culinary capital on a guided food tour. From ceviche to anticuchos, explore diverse neighborhoods while sampling Peru\'s famous cuisine at local favorites.',
+    descriptionEs: 'Descubre por qué Lima es la capital culinaria de Sudamérica en un tour gastronómico guiado. Desde ceviche hasta anticuchos, explora diversos barrios mientras pruebas la famosa cocina peruana en locales favoritos.',
+    whatToExpect: 'Walking tour through Lima\'s food hotspots, typically Miraflores or Barranco. Stop at 5-8 locations sampling ceviche, causa, anticuchos, picarones, pisco sour, and more. Guides explain the history and cultural significance of each dish. Vegetarian options usually available.',
+    whatToExpectEs: 'Tour a pie por los puntos gastronómicos de Lima, típicamente Miraflores o Barranco. Para en 5-8 lugares probando ceviche, causa, anticuchos, picarones, pisco sour y más. Los guías explican la historia e importancia cultural de cada plato. Opciones vegetarianas usualmente disponibles.',
+    highlights: [
+      'Sample 10+ Peruvian dishes',
+      'Visit local favorite spots',
+      'Learn food history',
+      'Try fresh ceviche',
+      'Pisco sour tasting',
+      'Explore foodie neighborhoods'
+    ],
+    highlightsEs: [
+      'Prueba más de 10 platos peruanos',
+      'Visita lugares favoritos locales',
+      'Aprende historia gastronómica',
+      'Prueba ceviche fresco',
+      'Degustación de pisco sour',
+      'Explora barrios gastronómicos'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Lunch or evening tours available',
+    bestTimeEs: 'Tours de almuerzo o noche disponibles',
+    includes: [
+      'All food tastings',
+      'Non-alcoholic drinks',
+      'Pisco sour for adults',
+      'Expert foodie guide',
+      'Walking tour'
+    ],
+    includesEs: [
+      'Todas las degustaciones de comida',
+      'Bebidas sin alcohol',
+      'Pisco sour para adultos',
+      'Guía experto en gastronomía',
+      'Tour a pie'
+    ],
+    tips: [
+      'Come hungry - lots of food!',
+      'Inform of allergies in advance',
+      'Evening tours include more variety',
+      'Kids love the sweet stops',
+      'Vegetarian tours available',
+      'Great first-night activity'
+    ],
+    tipsEs: [
+      '¡Ven con hambre - mucha comida!',
+      'Informa de alergias con anticipación',
+      'Los tours nocturnos incluyen más variedad',
+      'A los niños les encantan las paradas dulces',
+      'Tours vegetarianos disponibles',
+      'Gran actividad para la primera noche'
+    ],
+    safetyNotes: [
+      'Communicate allergies clearly',
+      'All restaurants have been vetted',
+      'Stick with your group',
+      'Comfortable walking shoes needed'
+    ],
+    safetyNotesEs: [
+      'Comunica las alergias claramente',
+      'Todos los restaurantes han sido verificados',
+      'Quédate con tu grupo',
+      'Se necesitan zapatos cómodos para caminar'
+    ],
+    relatedActivities: ['market-tour-lima', 'peruvian-cooking-class'],
+    providers: [
+      { name: 'Lima Gourmet Company', familyFriendly: true },
+      { name: 'Secret Food Tours', familyFriendly: true },
+      { name: 'Urban Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'spanish-immersion',
+    name: 'Family Spanish Lessons',
+    nameEs: 'Clases de Español para Familias',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn Spanish as a family with private or group lessons tailored to all ages. Combine language learning with cultural activities for an enriching educational experience that enhances your Peru trip.',
+    descriptionEs: 'Aprende español en familia con clases privadas o grupales adaptadas a todas las edades. Combina el aprendizaje del idioma con actividades culturales para una experiencia educativa enriquecedora que mejora tu viaje a Perú.',
+    whatToExpect: 'Lessons at your accommodation or language school, tailored to family needs. Kids learn through games, songs, and activities. Adults get practical travel Spanish. Combined programs include market visits, cooking classes, and cultural activities to practice skills.',
+    whatToExpectEs: 'Clases en tu alojamiento o escuela de idiomas, adaptadas a las necesidades familiares. Los niños aprenden a través de juegos, canciones y actividades. Los adultos obtienen español práctico para viajes. Los programas combinados incluyen visitas al mercado, clases de cocina y actividades culturales para practicar habilidades.',
+    highlights: [
+      'Private family lessons',
+      'Age-appropriate methods',
+      'Games and activities for kids',
+      'Practical travel vocabulary',
+      'Cultural immersion activities',
+      'Flexible scheduling'
+    ],
+    highlightsEs: [
+      'Clases familiares privadas',
+      'Métodos apropiados para cada edad',
+      'Juegos y actividades para niños',
+      'Vocabulario práctico de viaje',
+      'Actividades de inmersión cultural',
+      'Horarios flexibles'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2 hours per lesson',
+    durationEs: '2 horas por lección',
+    difficulty: 'easy',
+    priceRange: '$15-30 per hour per person',
+    priceRangeEs: '$15-30 por hora por persona',
+    bestTime: 'Any time, morning or afternoon',
+    bestTimeEs: 'Cualquier momento, mañana o tarde',
+    includes: [
+      'Certified teacher',
+      'Learning materials',
+      'Workbooks',
+      'Cultural activities (packages)',
+      'Certificate (longer courses)'
+    ],
+    includesEs: [
+      'Profesor certificado',
+      'Materiales de aprendizaje',
+      'Cuadernos de trabajo',
+      'Actividades culturales (paquetes)',
+      'Certificado (cursos más largos)'
+    ],
+    tips: [
+      'Even a few lessons enhance your trip',
+      'Practice at markets and restaurants',
+      'Kids pick up language quickly',
+      'Request package with activities',
+      'Morning lessons leave afternoons free',
+      'Available in Lima, Arequipa too'
+    ],
+    tipsEs: [
+      'Incluso unas pocas lecciones mejoran tu viaje',
+      'Practica en mercados y restaurantes',
+      'Los niños aprenden el idioma rápidamente',
+      'Solicita paquete con actividades',
+      'Las clases matutinas dejan las tardes libres',
+      'También disponible en Lima, Arequipa'
+    ],
+    safetyNotes: [
+      'Lessons at your accommodation for flexibility',
+      'Reputable schools have vetted teachers'
+    ],
+    safetyNotesEs: [
+      'Clases en tu alojamiento para flexibilidad',
+      'Las escuelas reputadas tienen profesores verificados'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'market-tour-lima', 'homestay-experience'],
+    providers: [
+      { name: 'Proyecto Peru', familyFriendly: true },
+      { name: 'Amauta Spanish School', familyFriendly: true },
+      { name: 'Cusco Spanish School', familyFriendly: true }
+    ]
   }
 ];
 
