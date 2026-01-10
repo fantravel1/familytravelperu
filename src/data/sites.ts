@@ -2219,6 +2219,448 @@ export const sites: Site[] = [
       'Estacionamiento',
       'Tienda de regalos'
     ]
+  },
+  {
+    slug: 'pastoruri-glacier',
+    name: 'Pastoruri Glacier',
+    nameEs: 'Glaciar Pastoruri',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 5000,
+    description: 'Once a popular skiing destination, Pastoruri Glacier is now a sobering reminder of climate change. Despite shrinking dramatically, it remains an accessible high-altitude experience where families can touch glacial ice and learn about environmental issues firsthand.',
+    descriptionEs: 'Antes un destino popular de esquí, el Glaciar Pastoruri es ahora un recordatorio aleccionador del cambio climático. A pesar de encogerse dramáticamente, sigue siendo una experiencia accesible de alta altitud donde las familias pueden tocar hielo glacial y aprender sobre temas ambientales de primera mano.',
+    history: 'Pastoruri was once a thriving ski resort with year-round snow. Climate change has caused it to lose 40% of its mass since 1995. In 2010, Peru declared it no longer a glacier scientifically. Today it serves as an open-air classroom about global warming.',
+    historyEs: 'Pastoruri fue una vez un próspero resort de esquí con nieve todo el año. El cambio climático ha causado que pierda 40% de su masa desde 1995. En 2010, Perú declaró que científicamente ya no era un glaciar. Hoy sirve como un aula al aire libre sobre el calentamiento global.',
+    highlights: [
+      'Touch ancient glacial ice',
+      'Climate change education',
+      'Puya raimondi plants (world\'s largest bromeliad)',
+      'High-altitude landscapes',
+      'Easy-to-moderate walking path',
+      'Stunning mountain scenery'
+    ],
+    highlightsEs: [
+      'Tocar hielo glacial antiguo',
+      'Educación sobre cambio climático',
+      'Plantas Puya raimondi (la bromelia más grande del mundo)',
+      'Paisajes de alta altitud',
+      'Sendero de caminata fácil a moderado',
+      'Impresionante paisaje montañoso'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: 'Full day (6-7 hours from Huaraz)',
+    durationEs: 'Día completo (6-7 horas desde Huaraz)',
+    difficulty: 'moderate',
+    entranceFee: 'Huascarán National Park fee ~$3',
+    entranceFeeEs: 'Entrada al Parque Nacional Huascarán ~$3',
+    bestTime: 'May-September dry season, morning departure',
+    bestTimeEs: 'Mayo-Septiembre temporada seca, salida en la mañana',
+    tips: [
+      'Acclimatize in Huaraz for 2-3 days first',
+      'Bring warm layers - it\'s cold at 5000m',
+      'Walk slowly at altitude',
+      'Bring coca leaves or altitude medication',
+      'The Puya raimondi forest is a highlight',
+      'Educational opportunity about climate change'
+    ],
+    tipsEs: [
+      'Aclimatarse en Huaraz por 2-3 días primero',
+      'Llevar capas abrigadas - hace frío a 5000m',
+      'Caminar lento en la altitud',
+      'Llevar hojas de coca o medicación para la altura',
+      'El bosque de Puya raimondi es un punto destacado',
+      'Oportunidad educativa sobre el cambio climático'
+    ],
+    nearbyAttractions: ['puya-raimondi-forest', 'huaraz-town'],
+    relatedSites: ['laguna-69', 'chavin-de-huantar'],
+    gettingThere: 'Tour from Huaraz (70km, 2 hours). Must go with organized tour.',
+    gettingThereEs: 'Tour desde Huaraz (70km, 2 horas). Debe ir con tour organizado.',
+    facilities: [
+      'Basic restrooms at parking',
+      'No restaurants - bring lunch',
+      'Tour includes transportation',
+      'Marked trail',
+      'Park rangers'
+    ],
+    facilitiesEs: [
+      'Baños básicos en estacionamiento',
+      'Sin restaurantes - llevar almuerzo',
+      'Tour incluye transporte',
+      'Sendero marcado',
+      'Guardaparques'
+    ]
+  },
+  {
+    slug: 'llanganuco-lakes',
+    name: 'Llanganuco Lakes',
+    nameEs: 'Lagunas de Llanganuco',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 3850,
+    description: 'Two stunning turquoise lakes nestled in a glacial valley beneath snow-capped peaks. Llanganuco offers dramatic Andean scenery without the extreme altitude of other Cordillera Blanca destinations, making it ideal for families with children.',
+    descriptionEs: 'Dos impresionantes lagos turquesa anidados en un valle glacial bajo picos nevados. Llanganuco ofrece paisajes dramáticos de los Andes sin la altitud extrema de otros destinos de la Cordillera Blanca, haciéndolo ideal para familias con niños.',
+    history: 'These glacial lakes - Chinancocha (female lake) and Orconcocha (male lake) - were formed by retreating glaciers thousands of years ago. They lie within Huascarán National Park, a UNESCO World Heritage Site, and are fed by meltwater from Peru\'s highest peak, Huascarán.',
+    historyEs: 'Estos lagos glaciales - Chinancocha (lago hembra) y Orconcocha (lago macho) - fueron formados por glaciares en retroceso hace miles de años. Se encuentran dentro del Parque Nacional Huascarán, Patrimonio Mundial de la UNESCO, y son alimentados por agua de deshielo del pico más alto de Perú, Huascarán.',
+    highlights: [
+      'Turquoise glacial waters',
+      'Views of Huascarán (6768m)',
+      'Rowboat rides on Chinancocha',
+      'Queñual forest walks',
+      'Lower altitude than Laguna 69',
+      'Picnic spots by the lakes'
+    ],
+    highlightsEs: [
+      'Aguas glaciales turquesa',
+      'Vistas del Huascarán (6768m)',
+      'Paseos en bote en Chinancocha',
+      'Caminatas por bosques de queñual',
+      'Menor altitud que Laguna 69',
+      'Lugares de picnic junto a los lagos'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Half day (4-5 hours from Huaraz)',
+    durationEs: 'Medio día (4-5 horas desde Huaraz)',
+    difficulty: 'easy',
+    entranceFee: 'Huascarán National Park fee ~$3',
+    entranceFeeEs: 'Entrada al Parque Nacional Huascarán ~$3',
+    bestTime: 'May-September dry season, morning for best views',
+    bestTimeEs: 'Mayo-Septiembre temporada seca, mañana para mejores vistas',
+    tips: [
+      'Much easier than Laguna 69 for families',
+      'Rowboat rides are fun for kids',
+      'Pack a picnic lunch',
+      'Still need altitude acclimatization',
+      'Arrive early to avoid afternoon clouds',
+      'Great photography in morning light'
+    ],
+    tipsEs: [
+      'Mucho más fácil que Laguna 69 para familias',
+      'Los paseos en bote son divertidos para niños',
+      'Llevar almuerzo de picnic',
+      'Aún necesita aclimatación a la altura',
+      'Llegar temprano para evitar nubes de la tarde',
+      'Gran fotografía con luz de la mañana'
+    ],
+    nearbyAttractions: ['yungay-memorial', 'huascarán-base'],
+    relatedSites: ['laguna-69', 'pastoruri-glacier'],
+    gettingThere: 'Tour or taxi from Huaraz (80km, 1.5 hours). Can combine with Laguna 69.',
+    gettingThereEs: 'Tour o taxi desde Huaraz (80km, 1.5 horas). Se puede combinar con Laguna 69.',
+    facilities: [
+      'Restrooms at parking area',
+      'Rowboat rentals',
+      'Food vendors',
+      'Parking',
+      'Walking paths'
+    ],
+    facilitiesEs: [
+      'Baños en área de estacionamiento',
+      'Alquiler de botes',
+      'Vendedores de comida',
+      'Estacionamiento',
+      'Senderos para caminar'
+    ]
+  },
+  {
+    slug: 'sechin',
+    name: 'Sechín Archaeological Complex',
+    nameEs: 'Complejo Arqueológico de Sechín',
+    type: 'archaeological',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 90,
+    description: 'One of Peru\'s oldest and most dramatic archaeological sites, Sechín features a temple decorated with over 400 carved stone warriors and dismembered body parts. Dating back 3,600 years, it\'s older than many Egyptian pyramids and tells a violent but fascinating story.',
+    descriptionEs: 'Uno de los sitios arqueológicos más antiguos y dramáticos de Perú, Sechín presenta un templo decorado con más de 400 guerreros de piedra tallada y partes del cuerpo desmembradas. Con 3,600 años de antigüedad, es más antiguo que muchas pirámides egipcias y cuenta una historia violenta pero fascinante.',
+    history: 'Built around 1600 BC by the Sechín culture, this temple predates the Chavín civilization. The graphic carvings likely depict a great battle or ritual sacrifice. The site was first excavated in 1937 by Peruvian archaeologist Julio C. Tello.',
+    historyEs: 'Construido alrededor de 1600 AC por la cultura Sechín, este templo es anterior a la civilización Chavín. Los tallados gráficos probablemente representan una gran batalla o sacrificio ritual. El sitio fue excavado por primera vez en 1937 por el arqueólogo peruano Julio C. Tello.',
+    highlights: [
+      'Over 400 carved warrior stones',
+      'One of Peru\'s oldest monuments',
+      'Dramatic battle/sacrifice scenes',
+      'Small but excellent museum',
+      'Off the tourist trail',
+      'Low altitude, easy visit'
+    ],
+    highlightsEs: [
+      'Más de 400 piedras de guerreros talladas',
+      'Uno de los monumentos más antiguos de Perú',
+      'Escenas dramáticas de batalla/sacrificio',
+      'Museo pequeño pero excelente',
+      'Fuera del circuito turístico',
+      'Baja altitud, visita fácil'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults ~$3, children ~$1',
+    entranceFeeEs: 'Adultos ~$3, niños ~$1',
+    bestTime: 'Year-round, morning to avoid heat',
+    bestTimeEs: 'Todo el año, mañana para evitar el calor',
+    tips: [
+      'Content is violent - prepare sensitive children',
+      'Great for kids interested in ancient history',
+      'Hire the site guide for context',
+      'Combine with beach time in Casma',
+      'Good stopover between Lima and Trujillo',
+      'Photography allowed'
+    ],
+    tipsEs: [
+      'El contenido es violento - preparar niños sensibles',
+      'Genial para niños interesados en historia antigua',
+      'Contratar el guía del sitio para contexto',
+      'Combinar con tiempo de playa en Casma',
+      'Buena parada entre Lima y Trujillo',
+      'Se permite fotografía'
+    ],
+    nearbyAttractions: ['tortugas-beach', 'casma-town'],
+    relatedSites: ['chavin-de-huantar', 'chan-chan'],
+    gettingThere: '5km from Casma, taxi or mototaxi. Casma is 370km north of Lima.',
+    gettingThereEs: '5km de Casma, taxi o mototaxi. Casma está 370km al norte de Lima.',
+    facilities: [
+      'Site museum',
+      'Restrooms',
+      'Parking',
+      'Site guides available',
+      'Shaded areas'
+    ],
+    facilitiesEs: [
+      'Museo del sitio',
+      'Baños',
+      'Estacionamiento',
+      'Guías disponibles',
+      'Áreas con sombra'
+    ]
+  },
+  {
+    slug: 'banos-del-inca',
+    name: 'Baños del Inca',
+    nameEs: 'Baños del Inca',
+    type: 'natural',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 2667,
+    description: 'Historic hot springs where Inca emperor Atahualpa was relaxing when Spanish conquistadors arrived in 1532. Today these therapeutic thermal waters offer families a unique blend of history and relaxation, with private and public pools at various temperatures.',
+    descriptionEs: 'Aguas termales históricas donde el emperador Inca Atahualpa estaba descansando cuando los conquistadores españoles llegaron en 1532. Hoy estas aguas termales terapéuticas ofrecen a las familias una mezcla única de historia y relajación, con piscinas privadas y públicas a varias temperaturas.',
+    history: 'These springs have been used for thousands of years. Most famously, Atahualpa was bathing here when Spanish conquistador Francisco Pizarro arrived in Cajamarca in November 1532. The springs remain one of Peru\'s most important thermal destinations.',
+    historyEs: 'Estos manantiales han sido usados por miles de años. Más famosamente, Atahualpa estaba bañándose aquí cuando el conquistador español Francisco Pizarro llegó a Cajamarca en noviembre de 1532. Los manantiales siguen siendo uno de los destinos termales más importantes de Perú.',
+    highlights: [
+      'Bathe where Atahualpa bathed',
+      'Therapeutic hot spring waters',
+      'Private and public pools',
+      'Water temperatures 70-78°C at source',
+      'Beautiful garden setting',
+      'Inca-era channels still visible'
+    ],
+    highlightsEs: [
+      'Bañarse donde se bañó Atahualpa',
+      'Aguas termales terapéuticas',
+      'Piscinas privadas y públicas',
+      'Temperaturas del agua 70-78°C en la fuente',
+      'Hermoso entorno de jardín',
+      'Canales de la era Inca aún visibles'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Public pools ~$1, private rooms ~$5-10',
+    entranceFeeEs: 'Piscinas públicas ~$1, habitaciones privadas ~$5-10',
+    bestTime: 'Year-round, early morning or late afternoon',
+    bestTimeEs: 'Todo el año, temprano en la mañana o tarde',
+    tips: [
+      'Book private pools for families',
+      'Water is very hot - test before entering',
+      'Bring swimsuits and towels',
+      'Don\'t stay too long - heat can be exhausting',
+      'Weekends are very crowded',
+      'Great way to relax after exploring Cajamarca'
+    ],
+    tipsEs: [
+      'Reservar piscinas privadas para familias',
+      'El agua está muy caliente - probar antes de entrar',
+      'Llevar trajes de baño y toallas',
+      'No quedarse mucho tiempo - el calor puede ser agotador',
+      'Los fines de semana están muy llenos',
+      'Gran manera de relajarse después de explorar Cajamarca'
+    ],
+    nearbyAttractions: ['cajamarca-center', 'cumbe-mayo'],
+    relatedSites: ['ventanillas-de-otuzco', 'cumbe-mayo'],
+    gettingThere: '6km from Cajamarca center. Taxi, colectivo, or walk.',
+    gettingThereEs: '6km del centro de Cajamarca. Taxi, colectivo, o caminando.',
+    facilities: [
+      'Multiple pool types',
+      'Changing rooms',
+      'Lockers',
+      'Restaurants nearby',
+      'Spa services',
+      'Parking'
+    ],
+    facilitiesEs: [
+      'Múltiples tipos de piscinas',
+      'Vestidores',
+      'Casilleros',
+      'Restaurantes cercanos',
+      'Servicios de spa',
+      'Estacionamiento'
+    ]
+  },
+  {
+    slug: 'mali-museum',
+    name: 'MALI - Lima Art Museum',
+    nameEs: 'MALI - Museo de Arte de Lima',
+    type: 'museum',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 154,
+    description: 'Peru\'s premier art museum houses 3,000 years of artistic heritage in a beautiful 19th-century palace. MALI offers families an excellent introduction to Peruvian culture through pre-Columbian art, colonial paintings, and contemporary works, plus a wonderful children\'s program.',
+    descriptionEs: 'El museo de arte más importante de Perú alberga 3,000 años de patrimonio artístico en un hermoso palacio del siglo XIX. MALI ofrece a las familias una excelente introducción a la cultura peruana a través del arte precolombino, pinturas coloniales y obras contemporáneas, más un maravilloso programa para niños.',
+    history: 'Housed in the Palacio de la Exposición, built in 1872 for Peru\'s first international exposition, MALI was founded in 1961. The collection spans from pre-Columbian textiles and ceramics to contemporary Peruvian art, representing the country\'s full artistic heritage.',
+    historyEs: 'Ubicado en el Palacio de la Exposición, construido en 1872 para la primera exposición internacional de Perú, MALI fue fundado en 1961. La colección abarca desde textiles y cerámicas precolombinas hasta arte peruano contemporáneo, representando todo el patrimonio artístico del país.',
+    highlights: [
+      '3,000 years of Peruvian art',
+      'Beautiful 19th-century palace',
+      'Pre-Columbian textiles',
+      'Children\'s educational programs',
+      'Sculpture garden',
+      'Café and bookshop'
+    ],
+    highlightsEs: [
+      '3,000 años de arte peruano',
+      'Hermoso palacio del siglo XIX',
+      'Textiles precolombinos',
+      'Programas educativos para niños',
+      'Jardín de esculturas',
+      'Café y librería'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults ~$10, children ~$2, family rates available',
+    entranceFeeEs: 'Adultos ~$10, niños ~$2, tarifas familiares disponibles',
+    bestTime: 'Any day, weekday mornings less crowded',
+    bestTimeEs: 'Cualquier día, mañanas entre semana menos llenas',
+    tips: [
+      'Check for children\'s workshops',
+      'The park outside is great for kids to run',
+      'Excellent café for lunch',
+      'Audio guides available in English',
+      'Free admission first Sunday of month',
+      'Can combine with nearby parks'
+    ],
+    tipsEs: [
+      'Revisar talleres para niños',
+      'El parque afuera es genial para que corran los niños',
+      'Excelente café para almorzar',
+      'Audioguías disponibles en inglés',
+      'Entrada gratuita el primer domingo del mes',
+      'Se puede combinar con parques cercanos'
+    ],
+    nearbyAttractions: ['parque-exposicion', 'centro-historico-lima'],
+    relatedSites: ['larco-museum', 'museo-oro'],
+    gettingThere: 'In Parque de la Exposición near Plaza Grau. Taxi or walking distance from Miraflores.',
+    gettingThereEs: 'En el Parque de la Exposición cerca de Plaza Grau. Taxi o caminando desde Miraflores.',
+    facilities: [
+      'Air conditioning',
+      'Café restaurant',
+      'Bookshop',
+      'Audio guides',
+      'Wheelchair accessible',
+      'Children\'s activities'
+    ],
+    facilitiesEs: [
+      'Aire acondicionado',
+      'Café restaurante',
+      'Librería',
+      'Audioguías',
+      'Accesible en silla de ruedas',
+      'Actividades para niños'
+    ]
+  },
+  {
+    slug: 'museo-oro',
+    name: 'Gold Museum (Museo de Oro)',
+    nameEs: 'Museo de Oro del Perú',
+    type: 'museum',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 154,
+    description: 'A dazzling private collection of pre-Columbian gold artifacts, ceremonial objects, and an extensive arms collection. Kids are fascinated by the golden treasures, mummies, and ancient weapons that span thousands of years of Peruvian history.',
+    descriptionEs: 'Una deslumbrante colección privada de artefactos de oro precolombinos, objetos ceremoniales y una extensa colección de armas. Los niños están fascinados por los tesoros dorados, momias y armas antiguas que abarcan miles de años de historia peruana.',
+    history: 'Founded by collector Miguel Mujica Gallo, the museum opened in 1968. While some pieces\' authenticity has been questioned, the collection remains impressive and includes thousands of gold objects, textiles, ceramics, and one of the world\'s largest private arms collections.',
+    historyEs: 'Fundado por el coleccionista Miguel Mujica Gallo, el museo abrió en 1968. Aunque la autenticidad de algunas piezas ha sido cuestionada, la colección sigue siendo impresionante e incluye miles de objetos de oro, textiles, cerámicas y una de las colecciones privadas de armas más grandes del mundo.',
+    highlights: [
+      'Thousands of gold artifacts',
+      'Ancient weapons collection',
+      'Ceremonial masks and crowns',
+      'Mummies and textiles',
+      'Underground vault setting',
+      'Interactive for kids'
+    ],
+    highlightsEs: [
+      'Miles de artefactos de oro',
+      'Colección de armas antiguas',
+      'Máscaras y coronas ceremoniales',
+      'Momias y textiles',
+      'Ambiente de bóveda subterránea',
+      'Interactivo para niños'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2 hours',
+    durationEs: '2 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults ~$11, children ~$4',
+    entranceFeeEs: 'Adultos ~$11, niños ~$4',
+    bestTime: 'Any day, afternoons often quieter',
+    bestTimeEs: 'Cualquier día, las tardes suelen ser más tranquilas',
+    tips: [
+      'Great for kids who love treasure/pirates',
+      'The weapons museum appeals to all ages',
+      'Some replicas mixed with originals',
+      'Located in residential Monterrico',
+      'Good rainy day activity',
+      'Combine with lunch in Miraflores'
+    ],
+    tipsEs: [
+      'Genial para niños que aman tesoros/piratas',
+      'El museo de armas atrae a todas las edades',
+      'Algunas réplicas mezcladas con originales',
+      'Ubicado en residencial Monterrico',
+      'Buena actividad para día lluvioso',
+      'Combinar con almuerzo en Miraflores'
+    ],
+    nearbyAttractions: ['jockey-plaza-mall', 'monterrico-neighborhood'],
+    relatedSites: ['larco-museum', 'mali-museum'],
+    gettingThere: 'Monterrico district, 30 min taxi from Miraflores. No public transit nearby.',
+    gettingThereEs: 'Distrito de Monterrico, 30 min en taxi desde Miraflores. Sin transporte público cercano.',
+    facilities: [
+      'Air conditioning',
+      'Restrooms',
+      'Small gift shop',
+      'Parking',
+      'Guided tours available'
+    ],
+    facilitiesEs: [
+      'Aire acondicionado',
+      'Baños',
+      'Pequeña tienda de regalos',
+      'Estacionamiento',
+      'Tours guiados disponibles'
+    ]
   }
 ];
 

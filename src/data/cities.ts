@@ -1501,6 +1501,258 @@ export const cities: City[] = [
       { name: 'Costa Azul', type: 'Mid-range', priceRange: '$$' },
       { name: 'Hostal Lourdes', type: 'Budget', priceRange: '$' }
     ]
+  },
+  {
+    slug: 'ica',
+    name: 'Ica',
+    nameEs: 'Ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 406,
+    population: '280,000',
+    description: 'Gateway to Peru\'s coastal desert wonders, Ica offers the famous Huacachina oasis, world-class pisco bodegas, and access to the mysterious Nazca Lines. The region\'s unique geography creates opportunities for sandboarding, dune buggy rides, and vineyard tours.',
+    descriptionEs: 'Puerta de entrada a las maravillas del desierto costero de Perú, Ica ofrece el famoso oasis de Huacachina, bodegas de pisco de clase mundial y acceso a las misteriosas Líneas de Nazca. La geografía única de la región crea oportunidades para sandboard, paseos en buggy y tours de viñedos.',
+    highlights: [
+      'Huacachina oasis - Peru\'s only desert oasis',
+      'Sandboarding and dune buggy rides',
+      'Pisco vineyard tours and tastings',
+      'Access to Nazca Lines',
+      'Ica Regional Museum',
+      'Cachiche witches village'
+    ],
+    highlightsEs: [
+      'Oasis de Huacachina - único oasis desértico de Perú',
+      'Sandboard y paseos en buggy por dunas',
+      'Tours y degustaciones de viñedos de pisco',
+      'Acceso a las Líneas de Nazca',
+      'Museo Regional de Ica',
+      'Pueblo de brujas de Cachiche'
+    ],
+    familyRating: 5,
+    bestMonths: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    minDays: 2,
+    nearbyAttractions: ['huacachina-oasis', 'nazca-lines', 'pisco-vineyards'],
+    relatedCities: ['nazca', 'lima', 'paracas'],
+    activities: ['sandboarding-huacachina', 'pisco-tour', 'nazca-lines-flight'],
+    climate: 'Desert climate with year-round sunshine. Very dry with temperatures 20-30°C. Perfect weather almost every day.',
+    climateEs: 'Clima desértico con sol todo el año. Muy seco con temperaturas 20-30°C. Clima perfecto casi todos los días.',
+    gettingThere: 'Bus from Lima (4-5 hours). Close to Paracas (1.5 hours). No commercial airport.',
+    gettingThereEs: 'Bus desde Lima (4-5 horas). Cerca de Paracas (1.5 horas). Sin aeropuerto comercial.',
+    familyTips: [
+      'Huacachina is magical - stay overnight at the oasis',
+      'Sunset dune buggy tours are the highlight',
+      'Younger kids can sandboard lying down',
+      'Vineyard tours include grape juice for kids',
+      'Great stopover between Lima and Arequipa',
+      'Regional museum has fascinating mummies'
+    ],
+    familyTipsEs: [
+      'Huacachina es mágico - quédate una noche en el oasis',
+      'Los tours de buggy al atardecer son lo mejor',
+      'Los niños pequeños pueden hacer sandboard acostados',
+      'Los tours de viñedos incluyen jugo de uva para niños',
+      'Gran parada entre Lima y Arequipa',
+      'El museo regional tiene momias fascinantes'
+    ],
+    restaurants: [
+      { name: 'El Otro Peñón', type: 'Peruvian', kidFriendly: true },
+      { name: 'Huacachina restaurants', type: 'International', kidFriendly: true },
+      { name: 'Plaza de Armas cafes', type: 'Cafe', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Hotel Viñas Queirolo', type: 'Wine resort', priceRange: '$$$' },
+      { name: 'Hostería Suiza', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Banana\'s Adventure Hostel', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'piura',
+    name: 'Piura',
+    nameEs: 'Piura',
+    region: 'Piura Region',
+    regionEs: 'Región Piura',
+    altitude: 29,
+    population: '480,000',
+    description: 'Peru\'s oldest Spanish city serves as the gateway to the country\'s northern beaches. While often just a transit point, Piura offers colonial architecture, excellent regional cuisine, and access to Catacaos - famous for its silverwork and traditional picanterías.',
+    descriptionEs: 'La ciudad española más antigua de Perú sirve como puerta de entrada a las playas del norte del país. Aunque a menudo es solo un punto de tránsito, Piura ofrece arquitectura colonial, excelente gastronomía regional y acceso a Catacaos - famosa por su platería y picanterías tradicionales.',
+    highlights: [
+      'Gateway to Máncora and beaches',
+      'Catacaos artisan village',
+      'Traditional picanterías (local restaurants)',
+      'Colonial Plaza de Armas',
+      'Regional gastronomy',
+      'Silverwork and filigree crafts'
+    ],
+    highlightsEs: [
+      'Puerta de entrada a Máncora y playas',
+      'Pueblo artesanal de Catacaos',
+      'Picanterías tradicionales (restaurantes locales)',
+      'Plaza de Armas colonial',
+      'Gastronomía regional',
+      'Platería y artesanías en filigrana'
+    ],
+    familyRating: 3,
+    bestMonths: [5, 6, 7, 8, 9, 10, 11],
+    minDays: 1,
+    nearbyAttractions: ['catacaos-village', 'sechura-desert', 'lobitos-beach'],
+    relatedCities: ['mancora', 'tumbes', 'chiclayo'],
+    activities: ['craft-shopping', 'culinary-tour', 'beach-hopping'],
+    climate: 'Hot desert climate. Warm year-round (25-35°C). El Niño can bring heavy rains January-April.',
+    climateEs: 'Clima desértico caliente. Cálido todo el año (25-35°C). El Niño puede traer lluvias fuertes enero-abril.',
+    gettingThere: 'Flights from Lima (1.5 hours). Bus from Lima (14-16 hours). Regional buses to beaches.',
+    gettingThereEs: 'Vuelos desde Lima (1.5 horas). Bus desde Lima (14-16 horas). Buses regionales a las playas.',
+    familyTips: [
+      'Most families pass through to beaches',
+      'Catacaos is worth a half-day visit',
+      'Try seco de chabelo (regional dish)',
+      'Chicha de jora (corn beer) for adults',
+      'Hot climate - stay hydrated',
+      'Good airport for starting beach vacation'
+    ],
+    familyTipsEs: [
+      'La mayoría de familias pasan hacia las playas',
+      'Catacaos vale una visita de medio día',
+      'Prueba seco de chabelo (plato regional)',
+      'Chicha de jora (cerveza de maíz) para adultos',
+      'Clima caliente - mantente hidratado',
+      'Buen aeropuerto para comenzar vacaciones de playa'
+    ],
+    restaurants: [
+      { name: 'Picanterías Catacaos', type: 'Regional', kidFriendly: true },
+      { name: 'Los Santitos', type: 'Peruvian', kidFriendly: true },
+      { name: 'Heladería 4D', type: 'Ice cream', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Costa del Sol Piura', type: 'Chain', priceRange: '$$$' },
+      { name: 'Hotel Río Verde', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Los Portales', type: 'Historic', priceRange: '$$' }
+    ]
+  },
+  {
+    slug: 'moyobamba',
+    name: 'Moyobamba',
+    nameEs: 'Moyobamba',
+    region: 'San Martín Region',
+    regionEs: 'Región San Martín',
+    altitude: 860,
+    population: '80,000',
+    description: 'Known as the "City of Orchids," Moyobamba sits in a beautiful cloud forest valley with over 3,500 orchid species. This off-the-beaten-path destination offers waterfalls, hot springs, and authentic jungle-highlands culture away from tourist crowds.',
+    descriptionEs: 'Conocida como la "Ciudad de las Orquídeas," Moyobamba se encuentra en un hermoso valle de bosque nublado con más de 3,500 especies de orquídeas. Este destino fuera del circuito turístico ofrece cascadas, aguas termales y auténtica cultura de selva-tierras altas lejos de las multitudes turísticas.',
+    highlights: [
+      'Orchid capital of Peru',
+      'Natural hot springs (Baños Termales)',
+      'Morro de Calzada viewpoint',
+      'Gera and Paccha waterfalls',
+      'Authentic cloud forest culture',
+      'Gateway to Alto Mayo region'
+    ],
+    highlightsEs: [
+      'Capital de las orquídeas de Perú',
+      'Aguas termales naturales (Baños Termales)',
+      'Mirador Morro de Calzada',
+      'Cascadas de Gera y Paccha',
+      'Auténtica cultura del bosque nublado',
+      'Puerta de entrada a la región Alto Mayo'
+    ],
+    familyRating: 3,
+    bestMonths: [5, 6, 7, 8, 9],
+    minDays: 2,
+    nearbyAttractions: ['banos-termales-san-mateo', 'morro-calzada', 'gera-waterfall'],
+    relatedCities: ['tarapoto', 'chachapoyas'],
+    activities: ['orchid-tours', 'waterfall-hikes', 'hot-springs'],
+    climate: 'Mild cloud forest climate. Pleasant temperatures (18-28°C). Rainy season October-March.',
+    climateEs: 'Clima templado de bosque nublado. Temperaturas agradables (18-28°C). Temporada lluviosa octubre-marzo.',
+    gettingThere: 'Bus from Tarapoto (1.5 hours). Bus from Chiclayo (8-10 hours). Small airport with limited flights.',
+    gettingThereEs: 'Bus desde Tarapoto (1.5 horas). Bus desde Chiclayo (8-10 horas). Pequeño aeropuerto con vuelos limitados.',
+    familyTips: [
+      'Perfect climate - not too hot or cold',
+      'Hot springs are great for families',
+      'Orchid season peaks February-March',
+      'Less English spoken - bring phrasebook',
+      'Combine with Tarapoto for jungle experience',
+      'Very affordable destination'
+    ],
+    familyTipsEs: [
+      'Clima perfecto - ni muy caliente ni frío',
+      'Las aguas termales son geniales para familias',
+      'La temporada de orquídeas alcanza su pico febrero-marzo',
+      'Menos inglés hablado - lleva libro de frases',
+      'Combina con Tarapoto para experiencia de selva',
+      'Destino muy económico'
+    ],
+    restaurants: [
+      { name: 'El Mango', type: 'Regional', kidFriendly: true },
+      { name: 'La Casa de Seizo', type: 'Peruvian-Japanese', kidFriendly: true },
+      { name: 'Plaza restaurants', type: 'Local', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Puerto Mirador', type: 'Lodge', priceRange: '$$' },
+      { name: 'Rio Mayo Hotel', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hospedaje Cobos', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'cajamarca',
+    name: 'Cajamarca',
+    nameEs: 'Cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 2750,
+    population: '250,000',
+    description: 'One of Peru\'s most historically significant cities, Cajamarca is where the Inca Empire fell to Spanish conquistadors in 1532. Today this charming highland city offers hot springs, fascinating archaeology, beautiful countryside, and some of Peru\'s finest dairy products.',
+    descriptionEs: 'Una de las ciudades más históricamente significativas de Perú, Cajamarca es donde el Imperio Inca cayó ante los conquistadores españoles en 1532. Hoy esta encantadora ciudad de tierras altas ofrece aguas termales, arqueología fascinante, hermoso campo y algunos de los mejores productos lácteos de Perú.',
+    highlights: [
+      'Cuarto del Rescate (Ransom Room)',
+      'Baños del Inca hot springs',
+      'Cumbe Mayo archaeological site',
+      'Ventanillas de Otuzco necropolis',
+      'Colonial architecture',
+      'Famous dairy farms and cheese'
+    ],
+    highlightsEs: [
+      'Cuarto del Rescate',
+      'Aguas termales Baños del Inca',
+      'Sitio arqueológico Cumbe Mayo',
+      'Necrópolis Ventanillas de Otuzco',
+      'Arquitectura colonial',
+      'Famosas granjas lecheras y queso'
+    ],
+    familyRating: 4,
+    bestMonths: [5, 6, 7, 8, 9],
+    minDays: 3,
+    nearbyAttractions: ['banos-del-inca', 'cumbe-mayo', 'ventanillas-de-otuzco'],
+    relatedCities: ['trujillo', 'chiclayo', 'chachapoyas'],
+    activities: ['hot-springs-soak', 'archaeology-tour', 'dairy-farm-visit'],
+    climate: 'Cool highland climate. Temperatures 10-21°C. Dry season May-October.',
+    climateEs: 'Clima fresco de tierras altas. Temperaturas 10-21°C. Temporada seca mayo-octubre.',
+    gettingThere: 'Flights from Lima (1.5 hours). Bus from Lima (14-16 hours). Bus from Trujillo (6-7 hours).',
+    gettingThereEs: 'Vuelos desde Lima (1.5 horas). Bus desde Lima (14-16 horas). Bus desde Trujillo (6-7 horas).',
+    familyTips: [
+      'Hot springs are a must-do for families',
+      'Ransom Room history fascinates kids',
+      'Try manjar blanco (caramel spread)',
+      'Cumbe Mayo feels like another planet',
+      'Carnaval in February is famous but crowded',
+      'Good base for northern highlands exploration'
+    ],
+    familyTipsEs: [
+      'Las aguas termales son imperdibles para familias',
+      'La historia del Cuarto del Rescate fascina a los niños',
+      'Prueba el manjar blanco',
+      'Cumbe Mayo parece otro planeta',
+      'El Carnaval en febrero es famoso pero lleno',
+      'Buena base para explorar las tierras altas del norte'
+    ],
+    restaurants: [
+      { name: 'Salas', type: 'Peruvian', kidFriendly: true },
+      { name: 'Querido Mío', type: 'Cafe', kidFriendly: true },
+      { name: 'Heladería Holanda', type: 'Ice cream', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Costa del Sol Cajamarca', type: 'Chain', priceRange: '$$$' },
+      { name: 'El Ingenio', type: 'Hacienda', priceRange: '$$$' },
+      { name: 'Hotel Laguna Seca', type: 'Hot springs', priceRange: '$$' }
+    ]
   }
 ];
 
