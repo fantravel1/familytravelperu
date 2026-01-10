@@ -2981,6 +2981,429 @@ export const activities: Activity[] = [
       { name: 'Inkaterra', familyFriendly: true },
       { name: 'Refugio Amazonas', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'llama-trekking',
+    name: 'Llama Trekking',
+    nameEs: 'Trekking con Llamas',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek through the Andean highlands accompanied by friendly llamas who carry your gear. These gentle animals make perfect hiking companions for families, offering a unique cultural experience while exploring remote Inca trails.',
+    descriptionEs: 'Camina por las tierras altas andinas acompañado de llamas amigables que cargan tu equipo. Estos gentiles animales son compañeros perfectos de senderismo para familias, ofreciendo una experiencia cultural única mientras exploras senderos Incas remotos.',
+    whatToExpect: 'Meet your llama companions at a local farm. Learn to lead and care for them before setting off on scenic trails. Llamas carry packs, leaving you free to enjoy the hike. Routes vary from gentle walks to multi-day treks through stunning Andean landscapes.',
+    whatToExpectEs: 'Conoce a tus compañeros llamas en una granja local. Aprende a guiarlas y cuidarlas antes de partir por senderos escénicos. Las llamas cargan los bultos, dejándote libre para disfrutar la caminata. Las rutas varían desde caminatas suaves hasta trekkings de varios días por impresionantes paisajes andinos.',
+    highlights: [
+      'Trek with friendly llamas',
+      'Llamas carry your gear',
+      'Stunning Andean scenery',
+      'Learn about Andean traditions',
+      'Visit local communities',
+      'Photo opportunities galore'
+    ],
+    highlightsEs: [
+      'Camina con llamas amigables',
+      'Las llamas cargan tu equipo',
+      'Impresionantes paisajes andinos',
+      'Aprende sobre tradiciones andinas',
+      'Visita comunidades locales',
+      'Muchas oportunidades de fotos'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day to multi-day',
+    durationEs: 'Medio día a varios días',
+    difficulty: 'easy',
+    priceRange: '$60-200 per person',
+    priceRangeEs: '$60-200 por persona',
+    bestTime: 'Dry season (May-October)',
+    bestTimeEs: 'Temporada seca (mayo-octubre)',
+    includes: [
+      'Llama companion',
+      'Professional guide',
+      'Snacks or meals',
+      'Equipment for llama handling',
+      'Community visit'
+    ],
+    includesEs: [
+      'Compañero llama',
+      'Guía profesional',
+      'Snacks o comidas',
+      'Equipo para manejar llamas',
+      'Visita a comunidad'
+    ],
+    tips: [
+      'Kids love the llamas - very gentle',
+      'Shorter treks available for families',
+      'Llamas are easier than horses for beginners',
+      'Support local communities',
+      'Great alternative to strenuous hikes',
+      'Amazing photos guaranteed'
+    ],
+    tipsEs: [
+      'A los niños les encantan las llamas - muy gentiles',
+      'Caminatas más cortas disponibles para familias',
+      'Las llamas son más fáciles que los caballos para principiantes',
+      'Apoya a comunidades locales',
+      'Gran alternativa a caminatas agotadoras',
+      'Fotos increíbles garantizadas'
+    ],
+    safetyNotes: [
+      'Llamas are gentle but respect their space',
+      'Altitude precautions still apply',
+      'Walk at a comfortable pace',
+      'Guides handle llama care'
+    ],
+    safetyNotesEs: [
+      'Las llamas son gentiles pero respeta su espacio',
+      'Las precauciones de altitud aún aplican',
+      'Camina a un ritmo cómodo',
+      'Los guías manejan el cuidado de las llamas'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'textile-workshop'],
+    providers: [
+      { name: 'Llama Pack', familyFriendly: true },
+      { name: 'Llamapath', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chocolate-making-cusco',
+    name: 'Chocolate Making Workshop',
+    nameEs: 'Taller de Elaboración de Chocolate',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn the ancient art of chocolate making using Peruvian cacao in a hands-on workshop. From grinding cacao beans to molding your own chocolate bars, this sweet activity traces chocolate\'s journey from the Amazon to your taste buds.',
+    descriptionEs: 'Aprende el antiguo arte de hacer chocolate usando cacao peruano en un taller práctico. Desde moler granos de cacao hasta moldear tus propias barras de chocolate, esta dulce actividad traza el viaje del chocolate desde el Amazonas hasta tu paladar.',
+    whatToExpect: 'Visit a chocolate workshop in Cusco. Learn about cacao history and Peru\'s role in chocolate production. Roast and grind cacao beans using traditional methods. Create your own chocolate bars with various flavors. Take home your creations!',
+    whatToExpectEs: 'Visita un taller de chocolate en Cusco. Aprende sobre la historia del cacao y el rol de Perú en la producción de chocolate. Tuesta y muele granos de cacao usando métodos tradicionales. Crea tus propias barras de chocolate con varios sabores. ¡Lleva tus creaciones a casa!',
+    highlights: [
+      'Bean-to-bar chocolate making',
+      'Traditional grinding methods',
+      'Create your own flavors',
+      'Take home your chocolate',
+      'Learn about Peruvian cacao',
+      'Delicious tastings'
+    ],
+    highlightsEs: [
+      'Elaboración de chocolate del grano a la barra',
+      'Métodos tradicionales de molienda',
+      'Crea tus propios sabores',
+      'Lleva tu chocolate a casa',
+      'Aprende sobre el cacao peruano',
+      'Deliciosas degustaciones'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 per person',
+    priceRangeEs: '$30-50 por persona',
+    bestTime: 'Any time, great for rainy days',
+    bestTimeEs: 'Cualquier momento, genial para días lluviosos',
+    includes: [
+      'All chocolate-making materials',
+      'Expert instruction',
+      'Tastings',
+      'Your own chocolate to take home',
+      'Certificate'
+    ],
+    includesEs: [
+      'Todos los materiales para hacer chocolate',
+      'Instrucción experta',
+      'Degustaciones',
+      'Tu propio chocolate para llevar',
+      'Certificado'
+    ],
+    tips: [
+      'Book ahead - popular activity',
+      'Perfect for a rainy afternoon',
+      'Kids love making their own bars',
+      'No chocolate experience needed',
+      'Vegetarian/vegan options available',
+      'Great souvenirs to take home'
+    ],
+    tipsEs: [
+      'Reserva con anticipación - actividad popular',
+      'Perfecto para una tarde lluviosa',
+      'A los niños les encanta hacer sus propias barras',
+      'No se necesita experiencia con chocolate',
+      'Opciones vegetarianas/veganas disponibles',
+      'Grandes recuerdos para llevar a casa'
+    ],
+    safetyNotes: [
+      'Allergy information collected in advance',
+      'Suitable for most dietary needs',
+      'Nut-free options available'
+    ],
+    safetyNotesEs: [
+      'Información de alergias recolectada con anticipación',
+      'Adecuado para la mayoría de necesidades dietéticas',
+      'Opciones sin nueces disponibles'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'market-tour-lima'],
+    providers: [
+      { name: 'ChocoMuseo', familyFriendly: true },
+      { name: 'Museo del Cacao', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'river-rafting-urubamba',
+    name: 'Urubamba River Rafting',
+    nameEs: 'Rafting en el Río Urubamba',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Navigate the rushing waters of the Sacred Valley\'s Urubamba River on an exciting rafting adventure. With rapids ranging from Class II to IV, there are options for families with older children seeking thrills amidst stunning Andean scenery.',
+    descriptionEs: 'Navega las aguas del río Urubamba del Valle Sagrado en una emocionante aventura de rafting. Con rápidos que van de Clase II a IV, hay opciones para familias con niños mayores que buscan emociones en medio de impresionantes paisajes andinos.',
+    whatToExpect: 'Meet your guides and gear up with helmets, life jackets, and wetsuits. Learn paddling techniques before hitting the river. Navigate exciting rapids while enjoying views of Inca terraces and mountains. End with a riverside snack or lunch.',
+    whatToExpectEs: 'Conoce a tus guías y equípate con cascos, chalecos salvavidas y trajes de neopreno. Aprende técnicas de remo antes de entrar al río. Navega emocionantes rápidos mientras disfrutas vistas de terrazas Incas y montañas. Termina con un snack o almuerzo junto al río.',
+    highlights: [
+      'Class II-IV rapids',
+      'Sacred Valley scenery',
+      'Professional guides',
+      'Inca ruins from the river',
+      'Wildlife sightings',
+      'Adrenaline rush!'
+    ],
+    highlightsEs: [
+      'Rápidos Clase II-IV',
+      'Paisaje del Valle Sagrado',
+      'Guías profesionales',
+      'Ruinas Incas desde el río',
+      'Avistamiento de vida silvestre',
+      '¡Descarga de adrenalina!'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-80 per person',
+    priceRangeEs: '$40-80 por persona',
+    bestTime: 'May-October (lower water, safer)',
+    bestTimeEs: 'Mayo-octubre (agua más baja, más seguro)',
+    includes: [
+      'All rafting equipment',
+      'Professional guide',
+      'Safety briefing',
+      'Transportation',
+      'Snack or lunch',
+      'Wetsuit if needed'
+    ],
+    includesEs: [
+      'Todo el equipo de rafting',
+      'Guía profesional',
+      'Instrucciones de seguridad',
+      'Transporte',
+      'Snack o almuerzo',
+      'Traje de neopreno si es necesario'
+    ],
+    tips: [
+      'Family-friendly Class II sections available',
+      'Dry season is safer for beginners',
+      'Waterproof camera recommended',
+      'Wear swimsuit under clothes',
+      'Listen to guide instructions!',
+      'Combine with Sacred Valley tour'
+    ],
+    tipsEs: [
+      'Secciones Clase II para familias disponibles',
+      'La temporada seca es más segura para principiantes',
+      'Cámara impermeable recomendada',
+      'Usa traje de baño debajo de la ropa',
+      '¡Escucha las instrucciones del guía!',
+      'Combina con tour del Valle Sagrado'
+    ],
+    safetyNotes: [
+      'Must be able to swim',
+      'Follow all guide instructions',
+      'Life jackets mandatory',
+      'Higher classes not for beginners'
+    ],
+    safetyNotesEs: [
+      'Debes saber nadar',
+      'Sigue todas las instrucciones del guía',
+      'Chalecos salvavidas obligatorios',
+      'Clases más altas no son para principiantes'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'zip-line-cusco'],
+    providers: [
+      { name: 'Apumayo Expediciones', familyFriendly: true },
+      { name: 'Eric Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'alpaca-farm-visit',
+    name: 'Alpaca Farm Experience',
+    nameEs: 'Experiencia en Granja de Alpacas',
+    type: 'educational',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Visit a traditional alpaca farm to meet these adorable fluffy animals up close. Learn about alpaca wool production, traditional dyeing techniques, and the importance of these gentle creatures in Andean culture. Perfect for animal-loving families!',
+    descriptionEs: 'Visita una granja tradicional de alpacas para conocer a estos adorables animales esponjosos de cerca. Aprende sobre la producción de lana de alpaca, técnicas tradicionales de teñido y la importancia de estas gentiles criaturas en la cultura andina. ¡Perfecto para familias amantes de los animales!',
+    whatToExpect: 'Arrive at a working alpaca farm in the Sacred Valley. Meet alpacas, llamas, and sometimes vicuñas. Learn to feed them, learn about different breeds and fiber types. Watch traditional wool processing and natural dyeing. Shop for authentic alpaca products.',
+    whatToExpectEs: 'Llega a una granja de alpacas en el Valle Sagrado. Conoce alpacas, llamas y a veces vicuñas. Aprende a alimentarlas, conoce diferentes razas y tipos de fibra. Observa el procesamiento tradicional de lana y teñido natural. Compra productos auténticos de alpaca.',
+    highlights: [
+      'Meet fluffy alpacas',
+      'Feed and pet the animals',
+      'Learn about wool production',
+      'See natural dyeing process',
+      'Shop for alpaca goods',
+      'Perfect for kids!'
+    ],
+    highlightsEs: [
+      'Conoce alpacas esponjosas',
+      'Alimenta y acaricia a los animales',
+      'Aprende sobre producción de lana',
+      'Ve el proceso de teñido natural',
+      'Compra productos de alpaca',
+      '¡Perfecto para niños!'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: '$10-30 per person',
+    priceRangeEs: '$10-30 por persona',
+    bestTime: 'Year-round, morning for active animals',
+    bestTimeEs: 'Todo el año, mañana para animales activos',
+    includes: [
+      'Farm tour',
+      'Animal interaction',
+      'Wool processing demonstration',
+      'Guide explanations',
+      'Photo opportunities'
+    ],
+    includesEs: [
+      'Tour de la granja',
+      'Interacción con animales',
+      'Demostración de procesamiento de lana',
+      'Explicaciones del guía',
+      'Oportunidades de fotos'
+    ],
+    tips: [
+      'Alpacas are gentle and love being fed',
+      'Great for young children',
+      'Support local communities by buying products',
+      'Baby alpacas extra cute in spring',
+      'Combine with Sacred Valley sights',
+      'Authentic souvenirs available'
+    ],
+    tipsEs: [
+      'Las alpacas son gentiles y les encanta que las alimenten',
+      'Genial para niños pequeños',
+      'Apoya comunidades locales comprando productos',
+      'Las crías de alpaca son extra lindas en primavera',
+      'Combina con sitios del Valle Sagrado',
+      'Recuerdos auténticos disponibles'
+    ],
+    safetyNotes: [
+      'Alpacas are gentle but can spit',
+      'Supervise small children',
+      'Wash hands after feeding'
+    ],
+    safetyNotesEs: [
+      'Las alpacas son gentiles pero pueden escupir',
+      'Supervisa a niños pequeños',
+      'Lava las manos después de alimentar'
+    ],
+    relatedActivities: ['textile-workshop', 'llama-trekking'],
+    providers: [
+      { name: 'Awanakancha', familyFriendly: true },
+      { name: 'Centro de Textiles', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'zip-line-cusco',
+    name: 'Sacred Valley Zip Line',
+    nameEs: 'Tirolesa del Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Soar over the Sacred Valley on exhilarating zip lines with views of Inca terraces, mountains, and the Urubamba River far below. Multiple lines of varying lengths offer thrills for the whole family.',
+    descriptionEs: 'Vuela sobre el Valle Sagrado en emocionantes tirolesas con vistas de terrazas Incas, montañas y el río Urubamba muy abajo. Múltiples líneas de diferentes longitudes ofrecen emociones para toda la familia.',
+    whatToExpect: 'Safety briefing and equipment fitting at the starting point. Multiple zip lines of varying lengths and heights, connected by short hikes or suspended bridges. Incredible bird\'s-eye views of the Sacred Valley. Professional guides ensure safety throughout.',
+    whatToExpectEs: 'Instrucciones de seguridad y ajuste de equipo en el punto de partida. Múltiples tirolesas de diferentes longitudes y alturas, conectadas por caminatas cortas o puentes colgantes. Increíbles vistas aéreas del Valle Sagrado. Guías profesionales aseguran la seguridad durante todo el recorrido.',
+    highlights: [
+      'Bird\'s-eye valley views',
+      'Multiple zip lines',
+      'Inca terraces from above',
+      'Mountain panoramas',
+      'Adrenaline adventure',
+      'Safe for families'
+    ],
+    highlightsEs: [
+      'Vistas aéreas del valle',
+      'Múltiples tirolesas',
+      'Terrazas Incas desde arriba',
+      'Panoramas de montañas',
+      'Aventura de adrenalina',
+      'Seguro para familias'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Dry season (May-October) for best views',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejores vistas',
+    includes: [
+      'All safety equipment',
+      'Professional guides',
+      'Multiple zip lines',
+      'Transportation (some operators)',
+      'Photos/videos (some operators)'
+    ],
+    includesEs: [
+      'Todo el equipo de seguridad',
+      'Guías profesionales',
+      'Múltiples tirolesas',
+      'Transporte (algunos operadores)',
+      'Fotos/videos (algunos operadores)'
+    ],
+    tips: [
+      'Weight and height restrictions apply',
+      'Not recommended for fear of heights',
+      'Wear closed-toe shoes',
+      'Secure loose items',
+      'Morning for clearest views',
+      'Great photos available for purchase'
+    ],
+    tipsEs: [
+      'Aplican restricciones de peso y altura',
+      'No recomendado para miedo a las alturas',
+      'Usa zapatos cerrados',
+      'Asegura objetos sueltos',
+      'Mañana para vistas más claras',
+      'Geniales fotos disponibles para comprar'
+    ],
+    safetyNotes: [
+      'Follow all guide instructions',
+      'Weight limits strictly enforced',
+      'Not suitable for certain health conditions',
+      'Helmets mandatory'
+    ],
+    safetyNotesEs: [
+      'Sigue todas las instrucciones del guía',
+      'Límites de peso estrictamente aplicados',
+      'No adecuado para ciertas condiciones de salud',
+      'Cascos obligatorios'
+    ],
+    relatedActivities: ['river-rafting-urubamba', 'via-ferrata-cusco'],
+    providers: [
+      { name: 'Natura Vive', familyFriendly: true },
+      { name: 'Cola de Mono', familyFriendly: true }
+    ]
   }
 ];
 

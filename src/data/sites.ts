@@ -2661,6 +2661,448 @@ export const sites: Site[] = [
       'Estacionamiento',
       'Tours guiados disponibles'
     ]
+  },
+  {
+    slug: 'kuelap',
+    name: 'Kuélap Fortress',
+    nameEs: 'Fortaleza de Kuélap',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 3000,
+    description: 'The "Machu Picchu of the North" is a massive stone fortress built by the Chachapoya cloud warriors. Perched atop a mountain ridge with over 400 circular buildings, this impressive site predates the Incas and rivals Machu Picchu in scale.',
+    descriptionEs: 'El "Machu Picchu del Norte" es una fortaleza de piedra masiva construida por los guerreros de la nube Chachapoya. Situado en la cima de una cresta montañosa con más de 400 edificios circulares, este impresionante sitio es anterior a los Incas y rivaliza con Machu Picchu en escala.',
+    history: 'Built by the Chachapoya culture between 500-1500 AD, Kuélap served as a fortress and city. The Chachapoyas, known as "Warriors of the Clouds," resisted Inca conquest longer than any other culture. The site was largely forgotten until 1843.',
+    historyEs: 'Construido por la cultura Chachapoya entre 500-1500 DC, Kuélap sirvió como fortaleza y ciudad. Los Chachapoyas, conocidos como "Guerreros de las Nubes," resistieron la conquista Inca más tiempo que cualquier otra cultura. El sitio fue olvidado hasta 1843.',
+    highlights: [
+      'Massive 20-meter high walls',
+      '400+ circular stone buildings',
+      'Cable car access (teleférico)',
+      'Cloud forest setting',
+      'Less crowded than Machu Picchu',
+      'Fascinating Chachapoya culture'
+    ],
+    highlightsEs: [
+      'Murallas masivas de 20 metros de alto',
+      'Más de 400 edificios circulares de piedra',
+      'Acceso por teleférico',
+      'Entorno de bosque nublado',
+      'Menos lleno que Machu Picchu',
+      'Fascinante cultura Chachapoya'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '4-5 hours (plus cable car)',
+    durationEs: '4-5 horas (más teleférico)',
+    difficulty: 'moderate',
+    entranceFee: 'Site ~$6, Cable car ~$20 round trip',
+    entranceFeeEs: 'Sitio ~$6, Teleférico ~$20 ida y vuelta',
+    bestTime: 'May-September dry season, morning for views',
+    bestTimeEs: 'Mayo-septiembre temporada seca, mañana para vistas',
+    tips: [
+      'Take the teleférico (cable car) - it\'s spectacular',
+      'Allow full day from Chachapoyas',
+      'Wear sturdy shoes for uneven paths',
+      'Bring rain jacket - cloud forest weather',
+      'Less strenuous than Machu Picchu',
+      'Combine with Gocta Waterfall'
+    ],
+    tipsEs: [
+      'Toma el teleférico - es espectacular',
+      'Permite un día completo desde Chachapoyas',
+      'Usa zapatos resistentes para caminos irregulares',
+      'Trae chaqueta de lluvia - clima de bosque nublado',
+      'Menos agotador que Machu Picchu',
+      'Combina con la Catarata de Gocta'
+    ],
+    nearbyAttractions: ['gocta-waterfall', 'karajia-sarcophagi'],
+    relatedSites: ['machu-picchu', 'chavin-de-huantar'],
+    gettingThere: 'Cable car from Tingo Nuevo (1.5 hours from Chachapoyas). Or 3-hour hike.',
+    gettingThereEs: 'Teleférico desde Tingo Nuevo (1.5 horas de Chachapoyas). O caminata de 3 horas.',
+    facilities: [
+      'Cable car station',
+      'Visitor center',
+      'Restrooms',
+      'Basic cafeteria',
+      'Site guides available',
+      'Parking'
+    ],
+    facilitiesEs: [
+      'Estación de teleférico',
+      'Centro de visitantes',
+      'Baños',
+      'Cafetería básica',
+      'Guías del sitio disponibles',
+      'Estacionamiento'
+    ]
+  },
+  {
+    slug: 'gocta-waterfall',
+    name: 'Gocta Waterfall',
+    nameEs: 'Catarata de Gocta',
+    type: 'natural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 1800,
+    description: 'One of the world\'s tallest waterfalls at 771 meters, Gocta remained unknown to outsiders until 2005. The two-tiered cascade plunges through pristine cloud forest, offering families a spectacular hiking adventure to its misty base.',
+    descriptionEs: 'Una de las cascadas más altas del mundo con 771 metros, Gocta permaneció desconocida para los foráneos hasta 2005. La cascada de dos niveles cae a través de bosque nublado prístino, ofreciendo a las familias una aventura de senderismo espectacular hasta su brumosa base.',
+    history: 'Local villagers had always known about Gocta but kept it secret, believing a mermaid lived in its pool who would curse anyone who revealed its location. German researcher Stefan Ziemendorff measured it in 2005, introducing it to the world.',
+    historyEs: 'Los aldeanos locales siempre habían conocido Gocta pero lo mantuvieron en secreto, creyendo que una sirena vivía en su poza que maldeciría a quien revelara su ubicación. El investigador alemán Stefan Ziemendorff lo midió en 2005, presentándolo al mundo.',
+    highlights: [
+      'One of world\'s tallest waterfalls',
+      '771 meters in two tiers',
+      'Cloud forest hiking trail',
+      'Swimming at the base',
+      'Bird watching opportunities',
+      'Undiscovered until 2005!'
+    ],
+    highlightsEs: [
+      'Una de las cascadas más altas del mundo',
+      '771 metros en dos niveles',
+      'Sendero de senderismo en bosque nublado',
+      'Nadar en la base',
+      'Oportunidades de observación de aves',
+      '¡No descubierta hasta 2005!'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '5-6 hours round trip hike',
+    durationEs: '5-6 horas caminata ida y vuelta',
+    difficulty: 'moderate',
+    entranceFee: '~$3 per person',
+    entranceFeeEs: '~$3 por persona',
+    bestTime: 'May-October dry season for clearest views',
+    bestTimeEs: 'Mayo-octubre temporada seca para vistas más claras',
+    tips: [
+      'Two routes: Cocachimba (shorter) or San Pablo',
+      'Hire local guide - supports community',
+      'Bring swimsuit for base pool',
+      'Start early to avoid afternoon mist',
+      'Trail is well-maintained but steep sections',
+      'Watch for cock-of-the-rock birds!'
+    ],
+    tipsEs: [
+      'Dos rutas: Cocachimba (más corta) o San Pablo',
+      'Contrata guía local - apoya a la comunidad',
+      'Trae traje de baño para la poza base',
+      'Comienza temprano para evitar niebla de la tarde',
+      'El sendero está bien mantenido pero hay secciones empinadas',
+      '¡Busca gallitos de las rocas!'
+    ],
+    nearbyAttractions: ['kuelap', 'cocachimba-village'],
+    relatedSites: ['kuelap', 'laguna-69'],
+    gettingThere: 'Drive to Cocachimba (1 hour from Chachapoyas), then hike 2.5 hours.',
+    gettingThereEs: 'Maneja a Cocachimba (1 hora de Chachapoyas), luego caminata de 2.5 horas.',
+    facilities: [
+      'Trail entrance station',
+      'Local guides for hire',
+      'Basic refreshments in villages',
+      'Restrooms at trailhead',
+      'Lodges in Cocachimba'
+    ],
+    facilitiesEs: [
+      'Estación de entrada al sendero',
+      'Guías locales para contratar',
+      'Refrescos básicos en los pueblos',
+      'Baños en el inicio del sendero',
+      'Lodges en Cocachimba'
+    ]
+  },
+  {
+    slug: 'rainbow-mountain',
+    name: 'Rainbow Mountain (Vinicunca)',
+    nameEs: 'Montaña de Siete Colores (Vinicunca)',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 5200,
+    description: 'This stunning striped mountain displays layers of red, yellow, green, and turquoise created by mineral deposits over millions of years. Revealed by melting glaciers, Rainbow Mountain has become one of Peru\'s most photographed destinations.',
+    descriptionEs: 'Esta impresionante montaña rayada muestra capas de rojo, amarillo, verde y turquesa creadas por depósitos minerales durante millones de años. Revelada por glaciares que se derriten, la Montaña Arcoíris se ha convertido en uno de los destinos más fotografiados de Perú.',
+    history: 'Rainbow Mountain was hidden under glaciers until climate change revealed its colorful stripes in recent years. The colors come from mineral deposits: iron oxides (reds and yellows), chlorite (greens), and goethite (browns). It was virtually unknown until 2015.',
+    historyEs: 'La Montaña Arcoíris estaba escondida bajo glaciares hasta que el cambio climático reveló sus rayas coloridas en años recientes. Los colores vienen de depósitos minerales: óxidos de hierro (rojos y amarillos), clorita (verdes) y goethita (marrones). Era virtualmente desconocida hasta 2015.',
+    highlights: [
+      'Spectacular rainbow-striped mountain',
+      'Red Valley nearby (less crowded)',
+      'High-altitude Andean scenery',
+      'Alpaca and llama sightings',
+      'Stunning photography opportunity',
+      'Bucket-list destination'
+    ],
+    highlightsEs: [
+      'Espectacular montaña de rayas arcoíris',
+      'Valle Rojo cercano (menos lleno)',
+      'Paisaje andino de alta altitud',
+      'Avistamiento de alpacas y llamas',
+      'Impresionante oportunidad fotográfica',
+      'Destino de lista de deseos'
+    ],
+    familyRating: 2,
+    minAge: 12,
+    duration: 'Full day (12-14 hours from Cusco)',
+    durationEs: 'Día completo (12-14 horas desde Cusco)',
+    difficulty: 'challenging',
+    entranceFee: '~$3 entrance, tours $30-100',
+    entranceFeeEs: '~$3 entrada, tours $30-100',
+    bestTime: 'May-September dry season, arrive 7-8am',
+    bestTimeEs: 'Mayo-septiembre temporada seca, llegar 7-8am',
+    tips: [
+      'EXTREME altitude (5200m) - not for young children',
+      'Acclimatize in Cusco 3+ days first',
+      'Start very early to avoid crowds',
+      'Horse rental available for those who struggle',
+      'Bring coca leaves/altitude medication',
+      'Alternative: Palccoyo is easier and less crowded'
+    ],
+    tipsEs: [
+      'Altitud EXTREMA (5200m) - no para niños pequeños',
+      'Aclimatarse en Cusco 3+ días primero',
+      'Comenzar muy temprano para evitar multitudes',
+      'Alquiler de caballos disponible para quienes tengan dificultad',
+      'Llevar hojas de coca/medicación para la altitud',
+      'Alternativa: Palccoyo es más fácil y menos lleno'
+    ],
+    nearbyAttractions: ['red-valley', 'ausangate'],
+    relatedSites: ['ausangate-trek', 'machu-picchu'],
+    gettingThere: 'Tour from Cusco (3 hours drive, then 1.5-hour hike). Must book tour.',
+    gettingThereEs: 'Tour desde Cusco (3 horas de manejo, luego caminata de 1.5 horas). Debe reservar tour.',
+    facilities: [
+      'Basic restrooms at parking',
+      'Hot drink vendors',
+      'Horse rentals',
+      'Basic snacks for sale',
+      'No restaurants - bring food'
+    ],
+    facilitiesEs: [
+      'Baños básicos en estacionamiento',
+      'Vendedores de bebidas calientes',
+      'Alquiler de caballos',
+      'Snacks básicos a la venta',
+      'Sin restaurantes - trae comida'
+    ]
+  },
+  {
+    slug: 'cumbe-mayo',
+    name: 'Cumbe Mayo',
+    nameEs: 'Cumbe Mayo',
+    type: 'archaeological',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 3500,
+    description: 'A surreal landscape of eroded rock formations and ancient aqueducts, Cumbe Mayo features a 3,000-year-old water channel carved through rock by pre-Inca engineers. The site feels like walking on another planet.',
+    descriptionEs: 'Un paisaje surrealista de formaciones rocosas erosionadas y acueductos antiguos, Cumbe Mayo presenta un canal de agua de 3,000 años tallado en roca por ingenieros pre-Incas. El sitio se siente como caminar en otro planeta.',
+    history: 'The aqueduct at Cumbe Mayo was built around 1000 BC, making it one of the oldest engineering works in the Americas. It diverts water from the Pacific to Atlantic watershed across the Andes divide. Petroglyphs and caves add to the mystery.',
+    historyEs: 'El acueducto de Cumbe Mayo fue construido alrededor del 1000 AC, haciéndolo una de las obras de ingeniería más antiguas de las Américas. Desvía agua de la cuenca del Pacífico a la del Atlántico a través de la divisoria de los Andes. Petroglifos y cuevas añaden al misterio.',
+    highlights: [
+      'Otherworldly rock formations',
+      '3,000-year-old aqueduct',
+      'Ancient petroglyphs',
+      'Sacred caves',
+      'Stunning highland landscape',
+      'Off-the-beaten-path experience'
+    ],
+    highlightsEs: [
+      'Formaciones rocosas de otro mundo',
+      'Acueducto de 3,000 años',
+      'Petroglifos antiguos',
+      'Cuevas sagradas',
+      'Impresionante paisaje de tierras altas',
+      'Experiencia fuera del circuito turístico'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'easy',
+    entranceFee: '~$2 per person',
+    entranceFeeEs: '~$2 por persona',
+    bestTime: 'May-October dry season, morning best',
+    bestTimeEs: 'Mayo-octubre temporada seca, mañana mejor',
+    tips: [
+      'Hire local guide to understand the site',
+      'Rock formations spark kids\' imagination',
+      'Combine with Baños del Inca',
+      'Bring warm layers - highland weather',
+      'Walk through the "Bosque de Piedras"',
+      'Photography is spectacular'
+    ],
+    tipsEs: [
+      'Contrata guía local para entender el sitio',
+      'Las formaciones rocosas despiertan la imaginación de los niños',
+      'Combina con Baños del Inca',
+      'Trae capas abrigadas - clima de tierras altas',
+      'Camina por el "Bosque de Piedras"',
+      'La fotografía es espectacular'
+    ],
+    nearbyAttractions: ['banos-del-inca', 'ventanillas-de-otuzco'],
+    relatedSites: ['chavin-de-huantar', 'ventanillas-de-otuzco'],
+    gettingThere: '20km from Cajamarca. Tour or taxi (45 minutes).',
+    gettingThereEs: '20km de Cajamarca. Tour o taxi (45 minutos).',
+    facilities: [
+      'Basic restrooms',
+      'Local guides',
+      'Parking',
+      'No food facilities - bring snacks',
+      'Marked paths'
+    ],
+    facilitiesEs: [
+      'Baños básicos',
+      'Guías locales',
+      'Estacionamiento',
+      'Sin instalaciones de comida - trae snacks',
+      'Senderos marcados'
+    ]
+  },
+  {
+    slug: 'karajia-sarcophagi',
+    name: 'Karajía Sarcophagi',
+    nameEs: 'Sarcófagos de Karajía',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2700,
+    description: 'Perched impossibly high on a cliff face, these eerie 2-meter tall sarcophagi contain Chachapoya mummies. The clay figures with skull headdresses watch over the valley, a haunting and unforgettable sight for adventurous families.',
+    descriptionEs: 'Colocados imposiblemente alto en un acantilado, estos espeluznantes sarcófagos de 2 metros de alto contienen momias Chachapoya. Las figuras de arcilla con tocados de cráneo vigilan el valle, una vista inquietante e inolvidable para familias aventureras.',
+    history: 'The Chachapoya people placed their dead in these clay sarcophagi between 1000-1500 AD, setting them in inaccessible cliff niches to protect them from enemies and tomb robbers. Each sarcophagus held a mummified body in fetal position.',
+    historyEs: 'El pueblo Chachapoya colocó a sus muertos en estos sarcófagos de arcilla entre 1000-1500 DC, situándolos en nichos de acantilados inaccesibles para protegerlos de enemigos y saqueadores de tumbas. Cada sarcófago contenía un cuerpo momificado en posición fetal.',
+    highlights: [
+      'Unique cliff-side sarcophagi',
+      'Mysterious Chachapoya culture',
+      'Scenic mountain drive',
+      'Off-the-beaten-path adventure',
+      'Photography from viewpoint',
+      'Combine with Kuélap visit'
+    ],
+    highlightsEs: [
+      'Sarcófagos únicos en acantilado',
+      'Misteriosa cultura Chachapoya',
+      'Manejo escénico por montañas',
+      'Aventura fuera del circuito turístico',
+      'Fotografía desde el mirador',
+      'Combina con visita a Kuélap'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-4 hours from Chachapoyas',
+    durationEs: '3-4 horas desde Chachapoyas',
+    difficulty: 'easy',
+    entranceFee: '~$2 per person',
+    entranceFeeEs: '~$2 por persona',
+    bestTime: 'Year-round, morning for better light',
+    bestTimeEs: 'Todo el año, mañana para mejor luz',
+    tips: [
+      'Short hike (30 min) to viewpoint',
+      'Binoculars help see details',
+      'Fascinating for kids interested in mummies',
+      'Local guides explain the culture',
+      'Visit Quiocta Cave nearby',
+      'Not scary - educational and mysterious'
+    ],
+    tipsEs: [
+      'Caminata corta (30 min) al mirador',
+      'Binoculares ayudan a ver detalles',
+      'Fascinante para niños interesados en momias',
+      'Los guías locales explican la cultura',
+      'Visita la Cueva Quiocta cercana',
+      'No es tenebroso - educativo y misterioso'
+    ],
+    nearbyAttractions: ['quiocta-cave', 'chachapoyas-town'],
+    relatedSites: ['kuelap', 'revash'],
+    gettingThere: '2 hours from Chachapoyas by car, then 30-min hike.',
+    gettingThereEs: '2 horas de Chachapoyas en auto, luego caminata de 30 min.',
+    facilities: [
+      'Viewpoint platform',
+      'Basic restrooms',
+      'Local guides',
+      'Small community shops',
+      'Parking'
+    ],
+    facilitiesEs: [
+      'Plataforma de mirador',
+      'Baños básicos',
+      'Guías locales',
+      'Pequeñas tiendas comunitarias',
+      'Estacionamiento'
+    ]
+  },
+  {
+    slug: 'manu-national-park',
+    name: 'Manu National Park',
+    nameEs: 'Parque Nacional del Manu',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Madre de Dios / Cusco Regions',
+    regionEs: 'Regiones Madre de Dios / Cusco',
+    altitude: 400,
+    description: 'One of the most biodiverse places on Earth, Manu encompasses cloud forest, lowland jungle, and Andean highlands. This UNESCO World Heritage Site protects giant otters, jaguars, harpy eagles, and over 1,000 bird species in pristine Amazon rainforest.',
+    descriptionEs: 'Uno de los lugares con más biodiversidad en la Tierra, Manu abarca bosque nublado, selva baja y tierras altas andinas. Este Patrimonio Mundial de la UNESCO protege nutrias gigantes, jaguares, águilas arpías y más de 1,000 especies de aves en selva amazónica prístina.',
+    history: 'Established in 1973, Manu protects 1.5 million hectares across multiple ecological zones. It contains one of the few uncontacted indigenous groups in the world and has been a UNESCO World Heritage Site since 1987.',
+    historyEs: 'Establecido en 1973, Manu protege 1.5 millones de hectáreas a través de múltiples zonas ecológicas. Contiene uno de los pocos grupos indígenas no contactados del mundo y ha sido Patrimonio Mundial de la UNESCO desde 1987.',
+    highlights: [
+      'World-class biodiversity',
+      'Giant river otter spotting',
+      'Macaw clay licks',
+      'Cloud forest to lowland jungle',
+      'Pristine Amazon experience',
+      'Indigenous communities'
+    ],
+    highlightsEs: [
+      'Biodiversidad de clase mundial',
+      'Avistamiento de nutrias gigantes',
+      'Colpas de guacamayos',
+      'Bosque nublado a selva baja',
+      'Experiencia amazónica prístina',
+      'Comunidades indígenas'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '5-8 days minimum',
+    durationEs: '5-8 días mínimo',
+    difficulty: 'moderate',
+    entranceFee: 'Included in lodge/tour packages',
+    entranceFeeEs: 'Incluido en paquetes de lodge/tour',
+    bestTime: 'May-October dry season for best wildlife',
+    bestTimeEs: 'Mayo-octubre temporada seca para mejor vida silvestre',
+    tips: [
+      'Multi-day expedition required',
+      'Book with authorized operators only',
+      'Lodges are comfortable but remote',
+      'Vaccinations required (yellow fever)',
+      'Not for very young children',
+      'Ultimate Amazon experience'
+    ],
+    tipsEs: [
+      'Se requiere expedición de varios días',
+      'Reserva solo con operadores autorizados',
+      'Los lodges son cómodos pero remotos',
+      'Vacunas requeridas (fiebre amarilla)',
+      'No para niños muy pequeños',
+      'La experiencia amazónica definitiva'
+    ],
+    nearbyAttractions: ['manu-biosphere', 'cock-rock-lodge'],
+    relatedSites: ['tambopata', 'amazon-iquitos'],
+    gettingThere: 'Multi-day journey from Cusco through cloud forest. All arrangements through authorized tour operators.',
+    gettingThereEs: 'Viaje de varios días desde Cusco a través del bosque nublado. Todos los arreglos a través de operadores turísticos autorizados.',
+    facilities: [
+      'Eco-lodges',
+      'Expert naturalist guides',
+      'Boat transportation',
+      'All meals included',
+      'Research stations',
+      'Wildlife observation towers'
+    ],
+    facilitiesEs: [
+      'Eco-lodges',
+      'Guías naturalistas expertos',
+      'Transporte en bote',
+      'Todas las comidas incluidas',
+      'Estaciones de investigación',
+      'Torres de observación de vida silvestre'
+    ]
   }
 ];
 
