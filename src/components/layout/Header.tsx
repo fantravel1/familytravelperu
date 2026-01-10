@@ -18,6 +18,7 @@ export default function Header() {
     { href: '/when-to-visit/', label: locale === 'es' ? 'Cuándo Visitar' : 'When to Visit' },
     { href: '/budget/', label: locale === 'es' ? 'Calculadora de Presupuesto' : 'Budget Calculator' },
     { href: '/money-guide/', label: locale === 'es' ? 'Dinero y Propinas' : 'Money & Tipping' },
+    { href: '/activities/', label: locale === 'es' ? 'Actividades Familiares' : 'Family Activities' },
     { href: '/activities-by-age/', label: locale === 'es' ? 'Actividades por Edad' : 'Activities by Age' },
     { href: '/day-trips/', label: locale === 'es' ? 'Excursiones de un Día' : 'Day Trips' },
     { href: '/wildlife/', label: locale === 'es' ? 'Vida Silvestre' : 'Wildlife Guide' },
