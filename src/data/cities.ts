@@ -884,6 +884,243 @@ export const cities: City[] = [
       { name: 'Costa del Sol Wyndham', type: 'Mid-range', priceRange: '$$' },
       { name: 'Win Meier', type: 'Budget', priceRange: '$' }
     ]
+  },
+  {
+    slug: 'ayacucho',
+    name: 'Ayacucho',
+    nameEs: 'Ayacucho',
+    region: 'Ayacucho Region',
+    regionEs: 'Región Ayacucho',
+    altitude: 2761,
+    population: '180,000',
+    description: 'Known for having 33 churches (one for each year of Christ\'s life), Ayacucho is Peru\'s religious heartland. The city hosts the country\'s most spectacular Semana Santa (Holy Week) celebrations and is famous for its artisan crafts, especially retablos.',
+    descriptionEs: 'Conocida por tener 33 iglesias (una por cada año de la vida de Cristo), Ayacucho es el corazón religioso de Perú. La ciudad alberga las celebraciones de Semana Santa más espectaculares del país y es famosa por sus artesanías, especialmente los retablos.',
+    highlights: [
+      '33 colonial churches',
+      'Semana Santa celebrations',
+      'Retablo folk art workshops',
+      'Wari archaeological site',
+      'Pampa de Ayacucho battlefield'
+    ],
+    highlightsEs: [
+      '33 iglesias coloniales',
+      'Celebraciones de Semana Santa',
+      'Talleres de arte popular de retablos',
+      'Sitio arqueológico Wari',
+      'Campo de batalla Pampa de Ayacucho'
+    ],
+    familyRating: 4,
+    bestMonths: [3, 4, 5, 6, 7, 8, 9, 10],
+    minDays: 2,
+    nearbyAttractions: ['wari-ruins', 'quinua', 'vilcashuaman'],
+    relatedCities: ['cusco', 'lima', 'arequipa'],
+    activities: ['church-tour', 'craft-workshop', 'archaeology-tour', 'cultural-experience'],
+    climate: 'Highland climate with dry season April-October. Pleasant temperatures year-round but cold nights.',
+    climateEs: 'Clima de sierra con temporada seca abril-octubre. Temperaturas agradables todo el año pero noches frías.',
+    gettingThere: 'Alfredo Mendívil Airport has daily flights from Lima (1 hour). Also accessible by bus (9 hours) through scenic mountain roads.',
+    gettingThereEs: 'El Aeropuerto Alfredo Mendívil tiene vuelos diarios desde Lima (1 hora). También accesible en bus (9 horas) por caminos de montaña escénicos.',
+    familyTips: [
+      'Semana Santa in March/April is incredible but book months ahead',
+      'Kids love watching retablo artisans work',
+      'The churches are beautiful but 33 is a lot - pick favorites',
+      'Wari ruins predate the Incas - great history lesson',
+      'Try the local dish puca picante'
+    ],
+    familyTipsEs: [
+      'Semana Santa en marzo/abril es increíble pero reserva con meses de anticipación',
+      'A los niños les encanta ver a los artesanos de retablos trabajar',
+      'Las iglesias son hermosas pero 33 son muchas - elige tus favoritas',
+      'Las ruinas Wari son anteriores a los Incas - gran lección de historia',
+      'Prueba el plato local puca picante'
+    ],
+    restaurants: [
+      { name: 'Mia Pizza', type: 'Italian', kidFriendly: true },
+      { name: 'La Casona', type: 'Peruvian', kidFriendly: true },
+      { name: 'Sukre', type: 'Cafe', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'DM Hoteles Ayacucho', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hotel Santa Rosa', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Via Via Cafe', type: 'Budget', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'cajamarca',
+    name: 'Cajamarca',
+    nameEs: 'Cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 2750,
+    population: '250,000',
+    description: 'The site where the Inca Empire fell, Cajamarca is where Atahualpa was captured by the Spanish in 1532. Today this charming highland city is known for its colonial architecture, dairy products, and Peru\'s most famous Carnival celebration.',
+    descriptionEs: 'El sitio donde cayó el Imperio Inca, Cajamarca es donde Atahualpa fue capturado por los españoles en 1532. Hoy esta encantadora ciudad de sierra es conocida por su arquitectura colonial, productos lácteos y la celebración de Carnaval más famosa de Perú.',
+    highlights: [
+      'El Cuarto del Rescate (Ransom Room)',
+      'Carnival celebrations (February)',
+      'Ventanillas de Otuzco',
+      'Baños del Inca hot springs',
+      'Dairy farms and cheese'
+    ],
+    highlightsEs: [
+      'El Cuarto del Rescate',
+      'Celebraciones de Carnaval (febrero)',
+      'Ventanillas de Otuzco',
+      'Baños del Inca aguas termales',
+      'Granjas lecheras y queso'
+    ],
+    familyRating: 4,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10, 11, 12, 1],
+    minDays: 2,
+    nearbyAttractions: ['banos-del-inca', 'ventanillas-otuzco', 'cumbe-mayo', 'kuntur-wasi'],
+    relatedCities: ['trujillo', 'chiclayo', 'chachapoyas'],
+    activities: ['hot-springs', 'archaeology-tour', 'carnival', 'farm-visit', 'cultural-experience'],
+    climate: 'Highland climate - mild days, cool nights. Rainy season December-March. Carnival in February.',
+    climateEs: 'Clima de sierra - días templados, noches frescas. Temporada de lluvias diciembre-marzo. Carnaval en febrero.',
+    gettingThere: 'Armando Revoredo Airport has daily flights from Lima (1.5 hours). Also accessible by bus from Trujillo (6 hours) or Lima (14 hours).',
+    gettingThereEs: 'El Aeropuerto Armando Revoredo tiene vuelos diarios desde Lima (1.5 horas). También accesible en bus desde Trujillo (6 horas) o Lima (14 horas).',
+    familyTips: [
+      'Carnival water fights are epic - bring water guns and spare clothes!',
+      'Baños del Inca hot springs are perfect for families',
+      'The Ransom Room tells an incredible story kids will remember',
+      'Try the famous cheese and manjar blanco',
+      'Ventanillas de Otuzco (ancient niches) are fascinating'
+    ],
+    familyTipsEs: [
+      '¡Las guerras de agua del Carnaval son épicas - trae pistolas de agua y ropa de repuesto!',
+      'Las aguas termales de Baños del Inca son perfectas para familias',
+      'El Cuarto del Rescate cuenta una historia increíble que los niños recordarán',
+      'Prueba el famoso queso y manjar blanco',
+      'Las Ventanillas de Otuzco (nichos antiguos) son fascinantes'
+    ],
+    restaurants: [
+      { name: 'El Batán', type: 'Peruvian', kidFriendly: true },
+      { name: 'Heladería Holanda', type: 'Ice Cream', kidFriendly: true },
+      { name: 'Salas', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Costa del Sol Wyndham', type: 'Mid-range', priceRange: '$$' },
+      { name: 'El Portal del Marqués', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Laguna Seca', type: 'Resort', priceRange: '$$$' }
+    ]
+  },
+  {
+    slug: 'puerto-maldonado',
+    name: 'Puerto Maldonado',
+    nameEs: 'Puerto Maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    altitude: 256,
+    population: '75,000',
+    description: 'Gateway to Peru\'s most biodiverse Amazon region, Puerto Maldonado offers easier access to jungle lodges than Iquitos. Located near Tambopata National Reserve and Manu Biosphere Reserve, this is one of the best places on Earth to see wildlife.',
+    descriptionEs: 'Puerta de entrada a la región amazónica más biodiversa de Perú, Puerto Maldonado ofrece acceso más fácil a lodges de selva que Iquitos. Ubicado cerca de la Reserva Nacional Tambopata y la Reserva de Biosfera del Manu, este es uno de los mejores lugares del mundo para ver vida silvestre.',
+    highlights: [
+      'Tambopata National Reserve',
+      'Macaw clay licks',
+      'Giant river otters',
+      'Sandoval Lake',
+      'Canopy towers and walkways'
+    ],
+    highlightsEs: [
+      'Reserva Nacional Tambopata',
+      'Collpas de guacamayos',
+      'Nutrias gigantes de río',
+      'Lago Sandoval',
+      'Torres y pasarelas de dosel'
+    ],
+    familyRating: 5,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10, 11],
+    minDays: 3,
+    nearbyAttractions: ['tambopata-reserve', 'sandoval-lake', 'manu-reserve', 'monkey-island'],
+    relatedCities: ['cusco', 'iquitos', 'lima'],
+    activities: ['jungle-lodge', 'wildlife-spotting', 'canopy-walk', 'night-safari', 'kayaking'],
+    climate: 'Tropical - hot and humid year-round. Dry season May-October is best. Rainy season November-April has higher water levels.',
+    climateEs: 'Tropical - caliente y húmedo todo el año. Temporada seca mayo-octubre es mejor. Temporada de lluvias noviembre-abril tiene niveles de agua más altos.',
+    gettingThere: 'Padre Aldamiz Airport has daily flights from Lima (1.5 hours) and Cusco (30 minutes). Much easier access than Iquitos.',
+    gettingThereEs: 'El Aeropuerto Padre Aldamiz tiene vuelos diarios desde Lima (1.5 horas) y Cusco (30 minutos). Acceso mucho más fácil que Iquitos.',
+    familyTips: [
+      'Fly from Cusco for an easy add-on to your highlands trip',
+      'Macaw clay licks at dawn are unforgettable',
+      'Giant otters in Sandoval Lake are amazing for kids',
+      'Choose lodges with family programs and shorter boat rides',
+      'Canopy walkways are thrilling but have height requirements'
+    ],
+    familyTipsEs: [
+      'Vuela desde Cusco para un fácil complemento a tu viaje por las tierras altas',
+      'Las collpas de guacamayos al amanecer son inolvidables',
+      'Las nutrias gigantes en el Lago Sandoval son increíbles para niños',
+      'Elige lodges con programas familiares y viajes en bote más cortos',
+      'Las pasarelas de dosel son emocionantes pero tienen requisitos de altura'
+    ],
+    restaurants: [
+      { name: 'Burgos Restaurant', type: 'Peruvian', kidFriendly: true },
+      { name: 'El Caimán', type: 'Amazonian', kidFriendly: true },
+      { name: 'Gustitos del Cura', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Inkaterra Reserva Amazonica', type: 'Luxury', priceRange: '$$$' },
+      { name: 'Refugio Amazonas', type: 'Eco-lodge', priceRange: '$$$' },
+      { name: 'Posada Amazonas', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Corto Maltes Lodge', type: 'Mid-range', priceRange: '$$' }
+    ]
+  },
+  {
+    slug: 'chachapoyas',
+    name: 'Chachapoyas',
+    nameEs: 'Chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2335,
+    population: '30,000',
+    description: 'Capital of Peru\'s Amazonas region (not the jungle!), Chachapoyas is the gateway to Kuelap, the "Machu Picchu of the North." This off-the-beaten-path destination offers stunning cloud forest scenery, ancient ruins, and authentic Peruvian culture.',
+    descriptionEs: 'Capital de la región Amazonas de Perú (¡no la selva!), Chachapoyas es la puerta de entrada a Kuelap, el "Machu Picchu del Norte". Este destino fuera de lo común ofrece impresionantes paisajes de bosque nuboso, ruinas antiguas y cultura peruana auténtica.',
+    highlights: [
+      'Kuelap fortress (pre-Inca)',
+      'Gocta Waterfall (771m)',
+      'Karajía cliff tombs',
+      'Revash mausoleums',
+      'Cable car to Kuelap'
+    ],
+    highlightsEs: [
+      'Fortaleza de Kuelap (pre-Inca)',
+      'Catarata de Gocta (771m)',
+      'Sarcófagos de Karajía',
+      'Mausoleos de Revash',
+      'Teleférico a Kuelap'
+    ],
+    familyRating: 4,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10],
+    minDays: 3,
+    nearbyAttractions: ['kuelap', 'gocta-waterfall', 'karajia', 'revash', 'leymebamba-museum'],
+    relatedCities: ['cajamarca', 'tarapoto', 'chiclayo'],
+    activities: ['archaeology-tour', 'waterfall-hike', 'cable-car', 'bird-watching', 'cultural-experience'],
+    climate: 'Cloud forest climate - mild year-round with frequent mist and rain. Dry season May-October is best.',
+    climateEs: 'Clima de bosque nuboso - templado todo el año con neblina y lluvia frecuente. Temporada seca mayo-octubre es mejor.',
+    gettingThere: 'Chachapoyas Airport has limited flights from Lima. Most visitors fly to Jaén or Tarapoto then drive (4-6 hours). Adventurous route from Cajamarca.',
+    gettingThereEs: 'El Aeropuerto de Chachapoyas tiene vuelos limitados desde Lima. La mayoría de visitantes vuelan a Jaén o Tarapoto y luego manejan (4-6 horas). Ruta aventurera desde Cajamarca.',
+    familyTips: [
+      'The cable car to Kuelap makes it much easier for families',
+      'Gocta waterfall hike is doable for active kids (age 8+)',
+      'Karajía sarcophagi are like nothing else in Peru',
+      'Less touristy than Cusco - more authentic experience',
+      'Roads are winding - pack motion sickness medication'
+    ],
+    familyTipsEs: [
+      'El teleférico a Kuelap lo hace mucho más fácil para familias',
+      'La caminata a la catarata de Gocta es posible para niños activos (8+ años)',
+      'Los sarcófagos de Karajía son únicos en Perú',
+      'Menos turístico que Cusco - experiencia más auténtica',
+      'Los caminos son sinuosos - empaca medicamento para el mareo'
+    ],
+    restaurants: [
+      { name: 'Café Fusiones', type: 'Cafe', kidFriendly: true },
+      { name: 'El Tejado', type: 'Peruvian', kidFriendly: true },
+      { name: 'La Tushpa', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Gocta Andes Lodge', type: 'Eco-lodge', priceRange: '$$$' },
+      { name: 'La Casona Monsante', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Chachapoyas Backpackers', type: 'Budget', priceRange: '$' }
+    ]
   }
 ];
 

@@ -860,6 +860,773 @@ export const sites: Site[] = [
       'La torre de observación tiene baños',
       'Múltiples operadores de tours en el pueblo'
     ]
+  },
+  {
+    slug: 'kuelap',
+    name: 'Kuelap Fortress',
+    nameEs: 'Fortaleza de Kuelap',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 3000,
+    description: 'Often called the "Machu Picchu of the North," Kuelap is a massive stone fortress built by the Chachapoya cloud warriors. With walls up to 20 meters high and over 400 buildings, this pre-Inca citadel rivals Machu Picchu in grandeur but sees a fraction of the visitors.',
+    descriptionEs: 'A menudo llamada el "Machu Picchu del Norte", Kuelap es una fortaleza masiva de piedra construida por los guerreros de las nubes Chachapoya. Con paredes de hasta 20 metros de alto y más de 400 edificios, esta ciudadela pre-inca rivaliza con Machu Picchu en grandeza pero recibe una fracción de los visitantes.',
+    history: 'Built between 500-1500 AD by the Chachapoya civilization, Kuelap predates Machu Picchu by almost 1000 years. The Chachapoya were known as "Warriors of the Clouds" and successfully resisted Inca conquest until 1470.',
+    historyEs: 'Construida entre 500-1500 DC por la civilización Chachapoya, Kuelap es casi 1000 años más antigua que Machu Picchu. Los Chachapoya eran conocidos como "Guerreros de las Nubes" y resistieron exitosamente la conquista inca hasta 1470.',
+    highlights: [
+      'Massive 20-meter walls',
+      'Over 400 circular buildings',
+      'Unique funnel-shaped entrances',
+      'Cloud forest setting',
+      'Cable car access',
+      'Far fewer tourists than Machu Picchu'
+    ],
+    highlightsEs: [
+      'Masivas paredes de 20 metros',
+      'Más de 400 edificios circulares',
+      'Únicas entradas en forma de embudo',
+      'Entorno de bosque nuboso',
+      'Acceso por teleférico',
+      'Muchos menos turistas que Machu Picchu'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'moderate',
+    entranceFee: 'S/30 (~$8) adults, S/15 children + cable car S/31',
+    entranceFeeEs: 'S/30 (~$8) adultos, S/15 niños + teleférico S/31',
+    bestTime: 'May-October (dry season) for clearest views',
+    bestTimeEs: 'Mayo-octubre (temporada seca) para vistas más claras',
+    tips: [
+      'The cable car makes access much easier for families',
+      'Bring rain gear - weather changes quickly in cloud forest',
+      'Wear sturdy shoes for uneven terrain',
+      'Less crowded than Machu Picchu - more exploration time',
+      'Combine with Gocta waterfall for a full Chachapoyas experience'
+    ],
+    tipsEs: [
+      'El teleférico hace el acceso mucho más fácil para familias',
+      'Trae impermeable - el clima cambia rápido en el bosque nuboso',
+      'Usa zapatos resistentes para terreno irregular',
+      'Menos concurrido que Machu Picchu - más tiempo para explorar',
+      'Combina con la catarata de Gocta para una experiencia completa de Chachapoyas'
+    ],
+    nearbyAttractions: ['gocta-waterfall', 'karajia', 'revash'],
+    relatedSites: ['machu-picchu', 'chan-chan', 'caral'],
+    gettingThere: 'Cable car from Nuevo Tingo (1.5 hours from Chachapoyas). Alternative hiking trail available.',
+    gettingThereEs: 'Teleférico desde Nuevo Tingo (1.5 horas desde Chachapoyas). Sendero alternativo para caminar disponible.',
+    facilities: [
+      'Restrooms at cable car stations',
+      'Small cafeteria at top',
+      'Guides available',
+      'No facilities inside the site'
+    ],
+    facilitiesEs: [
+      'Baños en estaciones del teleférico',
+      'Pequeña cafetería arriba',
+      'Guías disponibles',
+      'Sin instalaciones dentro del sitio'
+    ]
+  },
+  {
+    slug: 'huaca-sol-luna',
+    name: 'Huaca del Sol y de la Luna',
+    nameEs: 'Huaca del Sol y de la Luna',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    altitude: 60,
+    description: 'The Temples of the Sun and Moon were the religious and administrative centers of the Moche civilization. The Temple of the Moon features incredibly preserved polychrome murals depicting the fearsome deity Ai-Apaec.',
+    descriptionEs: 'Los Templos del Sol y la Luna fueron los centros religiosos y administrativos de la civilización Moche. El Templo de la Luna presenta murales policromados increíblemente preservados que representan a la temible deidad Ai-Apaec.',
+    history: 'Built between 100-700 AD by the Moche civilization, these temples were the capital of Moche culture. The Temple of the Moon was continuously modified over centuries, with each new layer of murals covering the last.',
+    historyEs: 'Construidos entre 100-700 DC por la civilización Moche, estos templos fueron la capital de la cultura Moche. El Templo de la Luna fue continuamente modificado durante siglos, con cada nueva capa de murales cubriendo la anterior.',
+    highlights: [
+      'Vivid polychrome murals',
+      'Ai-Apaec deity depictions',
+      'Multiple construction layers',
+      'On-site museum',
+      'Less crowded than Chan Chan',
+      'Insight into Moche civilization'
+    ],
+    highlightsEs: [
+      'Vívidos murales policromados',
+      'Representaciones de la deidad Ai-Apaec',
+      'Múltiples capas de construcción',
+      'Museo en el sitio',
+      'Menos concurrido que Chan Chan',
+      'Visión de la civilización Moche'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 (~$4) adults, S/5 children',
+    entranceFeeEs: 'S/15 (~$4) adultos, S/5 niños',
+    bestTime: 'Morning for best light on murals',
+    bestTimeEs: 'Mañana para mejor luz en los murales',
+    tips: [
+      'Hire a guide to understand the complex iconography',
+      'The murals are stunning - kids love the colorful images',
+      'Combine with Chan Chan for a full day of archaeology',
+      'Visit the small museum first for context',
+      'Bring sun protection - limited shade'
+    ],
+    tipsEs: [
+      'Contrata un guía para entender la compleja iconografía',
+      'Los murales son impresionantes - a los niños les encantan las coloridas imágenes',
+      'Combina con Chan Chan para un día completo de arqueología',
+      'Visita primero el pequeño museo para contexto',
+      'Trae protección solar - sombra limitada'
+    ],
+    nearbyAttractions: ['chan-chan', 'huanchaco', 'trujillo-centro'],
+    relatedSites: ['chan-chan', 'sipan', 'tucume'],
+    gettingThere: '8km south of Trujillo, 15-minute taxi ride.',
+    gettingThereEs: '8km al sur de Trujillo, 15 minutos en taxi.',
+    facilities: [
+      'Small museum on site',
+      'Restrooms',
+      'Gift shop',
+      'Guides available'
+    ],
+    facilitiesEs: [
+      'Pequeño museo en el sitio',
+      'Baños',
+      'Tienda de regalos',
+      'Guías disponibles'
+    ]
+  },
+  {
+    slug: 'sipan',
+    name: 'Huaca Rajada - Lord of Sipán',
+    nameEs: 'Huaca Rajada - Señor de Sipán',
+    type: 'archaeological',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    altitude: 50,
+    description: 'The discovery of the Lord of Sipán tomb in 1987 was compared to finding King Tutankhamun. This Moche royal burial site revealed incredible gold artifacts and provided unprecedented insight into ancient Peruvian civilization.',
+    descriptionEs: 'El descubrimiento de la tumba del Señor de Sipán en 1987 fue comparado con encontrar al Rey Tutankamón. Este sitio de entierro real Moche reveló increíbles artefactos de oro y proporcionó una visión sin precedentes de la antigua civilización peruana.',
+    history: 'Discovered in 1987 by archaeologist Walter Alva, the tomb of the Lord of Sipán dates to around 200 AD. The untouched burial contained gold, silver, and copper ornaments, plus sacrificed attendants.',
+    historyEs: 'Descubierta en 1987 por el arqueólogo Walter Alva, la tumba del Señor de Sipán data de alrededor del 200 DC. El entierro intacto contenía ornamentos de oro, plata y cobre, además de sirvientes sacrificados.',
+    highlights: [
+      'Original excavation site',
+      'Multiple royal tombs discovered',
+      'Replica tombs on display',
+      'World-class Royal Tombs Museum nearby',
+      'One of greatest archaeological finds',
+      'Less touristy than southern Peru'
+    ],
+    highlightsEs: [
+      'Sitio de excavación original',
+      'Múltiples tumbas reales descubiertas',
+      'Réplicas de tumbas en exhibición',
+      'Museo Tumbas Reales de clase mundial cercano',
+      'Uno de los mayores hallazgos arqueológicos',
+      'Menos turístico que el sur de Perú'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1.5-2 hours (site) + 2 hours (museum)',
+    durationEs: '1.5-2 horas (sitio) + 2 horas (museo)',
+    difficulty: 'easy',
+    entranceFee: 'Huaca S/10, Royal Tombs Museum S/15',
+    entranceFeeEs: 'Huaca S/10, Museo Tumbas Reales S/15',
+    bestTime: 'Any time - desert climate',
+    bestTimeEs: 'Cualquier momento - clima desértico',
+    tips: [
+      'Visit both the huaca AND the Royal Tombs Museum in Lambayeque',
+      'The museum is world-class and air-conditioned',
+      'Kids fascinated by the gold and treasure story',
+      'Hire a guide to understand the significance',
+      'Less crowded than Cusco sites'
+    ],
+    tipsEs: [
+      'Visita tanto la huaca COMO el Museo Tumbas Reales en Lambayeque',
+      'El museo es de clase mundial y tiene aire acondicionado',
+      'Los niños quedan fascinados por la historia del oro y el tesoro',
+      'Contrata un guía para entender la importancia',
+      'Menos concurrido que los sitios de Cusco'
+    ],
+    nearbyAttractions: ['tucume', 'bruning-museum', 'pimentel'],
+    relatedSites: ['huaca-sol-luna', 'chan-chan', 'tucume'],
+    gettingThere: '35km east of Chiclayo, 45-minute drive.',
+    gettingThereEs: '35km al este de Chiclayo, 45 minutos en auto.',
+    facilities: [
+      'Small site museum',
+      'Restrooms',
+      'Guides available',
+      'Parking'
+    ],
+    facilitiesEs: [
+      'Pequeño museo del sitio',
+      'Baños',
+      'Guías disponibles',
+      'Estacionamiento'
+    ]
+  },
+  {
+    slug: 'uros-islands',
+    name: 'Uros Floating Islands',
+    nameEs: 'Islas Flotantes de los Uros',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3812,
+    description: 'The Uros people have lived on floating islands made of totora reeds for centuries. Walking on these bouncy, man-made islands and learning about this unique lifestyle is one of Peru\'s most memorable family experiences.',
+    descriptionEs: 'El pueblo Uros ha vivido en islas flotantes hechas de totora durante siglos. Caminar sobre estas esponjosas islas artificiales y aprender sobre este estilo de vida único es una de las experiencias familiares más memorables de Perú.',
+    history: 'The Uros people originally created their floating islands to escape conflict with the Inca and Colla peoples. Today, about 2,000 Uros live on roughly 100 floating islands, maintaining traditions while adapting to tourism.',
+    historyEs: 'El pueblo Uros originalmente creó sus islas flotantes para escapar del conflicto con los pueblos Inca y Colla. Hoy, alrededor de 2,000 Uros viven en aproximadamente 100 islas flotantes, manteniendo tradiciones mientras se adaptan al turismo.',
+    highlights: [
+      'Walk on bouncy reed islands',
+      'Traditional totora reed construction',
+      'Reed boat rides',
+      'Meet local Uros families',
+      'Buy handmade crafts',
+      'Incredible photo opportunities'
+    ],
+    highlightsEs: [
+      'Camina sobre esponjosas islas de totora',
+      'Construcción tradicional de totora',
+      'Paseos en botes de totora',
+      'Conoce familias Uros locales',
+      'Compra artesanías hechas a mano',
+      'Increíbles oportunidades fotográficas'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 (~$4) per person',
+    entranceFeeEs: 'S/15 (~$4) por persona',
+    bestTime: 'Morning for best light and fewer crowds',
+    bestTimeEs: 'Mañana para mejor luz y menos gente',
+    tips: [
+      'Kids love the bouncy feeling of walking on reeds',
+      'Take a reed boat ride - it\'s included in most tours',
+      'Buy crafts to support the community',
+      'Ask permission before taking photos of people',
+      'Islands closest to Puno are most touristy',
+      'Can combine with Taquile for full day'
+    ],
+    tipsEs: [
+      'A los niños les encanta la sensación esponjosa de caminar sobre totora',
+      'Toma un paseo en bote de totora - está incluido en la mayoría de tours',
+      'Compra artesanías para apoyar a la comunidad',
+      'Pide permiso antes de tomar fotos de personas',
+      'Las islas más cercanas a Puno son las más turísticas',
+      'Se puede combinar con Taquile para un día completo'
+    ],
+    nearbyAttractions: ['taquile-island', 'amantani-island', 'sillustani'],
+    relatedSites: ['taquile-island', 'lake-titicaca'],
+    gettingThere: '30-45 minute boat ride from Puno port. Tours depart daily.',
+    gettingThereEs: '30-45 minutos en bote desde el puerto de Puno. Tours salen diariamente.',
+    facilities: [
+      'Basic toilets on some islands',
+      'Handicraft stalls',
+      'Some islands have restaurants',
+      'No ATMs'
+    ],
+    facilitiesEs: [
+      'Baños básicos en algunas islas',
+      'Puestos de artesanías',
+      'Algunas islas tienen restaurantes',
+      'Sin cajeros automáticos'
+    ]
+  },
+  {
+    slug: 'taquile-island',
+    name: 'Taquile Island',
+    nameEs: 'Isla Taquile',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3950,
+    description: 'A beautiful island in Lake Titicaca where traditional Quechua culture thrives. Famous for its intricate textiles made by men, Taquile offers stunning lake views, pre-Inca ruins, and an authentic glimpse into Andean community life.',
+    descriptionEs: 'Una hermosa isla en el Lago Titicaca donde prospera la cultura quechua tradicional. Famosa por sus intrincados textiles hechos por hombres, Taquile ofrece impresionantes vistas del lago, ruinas pre-incas y una auténtica mirada a la vida comunitaria andina.',
+    history: 'The island has been inhabited for thousands of years, with ruins dating to pre-Inca times. The textile traditions were recognized by UNESCO as Intangible Cultural Heritage in 2005. Men do all the knitting, learning from age 8.',
+    historyEs: 'La isla ha sido habitada por miles de años, con ruinas que datan de tiempos pre-incas. Las tradiciones textiles fueron reconocidas por UNESCO como Patrimonio Cultural Inmaterial en 2005. Los hombres hacen todo el tejido, aprendiendo desde los 8 años.',
+    highlights: [
+      'UNESCO-recognized textile traditions',
+      'Stunning lake panoramas',
+      'Traditional Quechua culture',
+      'Pre-Inca ruins',
+      'Men knitting intricate textiles',
+      'Community-run tourism'
+    ],
+    highlightsEs: [
+      'Tradiciones textiles reconocidas por UNESCO',
+      'Impresionantes panoramas del lago',
+      'Cultura quechua tradicional',
+      'Ruinas pre-incas',
+      'Hombres tejiendo intrincados textiles',
+      'Turismo comunitario'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '4-5 hours (half day) or overnight',
+    durationEs: '4-5 horas (medio día) o noche',
+    difficulty: 'moderate',
+    entranceFee: 'S/10 (~$3) per person',
+    entranceFeeEs: 'S/10 (~$3) por persona',
+    bestTime: 'May-October for best weather',
+    bestTimeEs: 'Mayo-octubre para mejor clima',
+    tips: [
+      'The hike from the port to the village is steep (500+ steps)',
+      'Take it slowly due to altitude',
+      'Buy textiles directly from the weavers',
+      'Lunch in local restaurants with lake views',
+      'Can combine with Uros in one day',
+      'Overnight homestays available'
+    ],
+    tipsEs: [
+      'La caminata desde el puerto al pueblo es empinada (500+ escalones)',
+      'Ve despacio por la altitud',
+      'Compra textiles directamente de los tejedores',
+      'Almuerza en restaurantes locales con vistas al lago',
+      'Se puede combinar con Uros en un día',
+      'Estadías con familias disponibles para pernoctar'
+    ],
+    nearbyAttractions: ['uros-islands', 'amantani-island', 'lake-titicaca'],
+    relatedSites: ['uros-islands', 'amantani-island'],
+    gettingThere: '3-hour boat ride from Puno (usually combined with Uros visit).',
+    gettingThereEs: '3 horas en bote desde Puno (usualmente combinado con visita a Uros).',
+    facilities: [
+      'Basic restaurants',
+      'Simple restrooms',
+      'Handicraft shops',
+      'Basic homestay accommodation'
+    ],
+    facilitiesEs: [
+      'Restaurantes básicos',
+      'Baños simples',
+      'Tiendas de artesanías',
+      'Alojamiento básico con familias'
+    ]
+  },
+  {
+    slug: 'huayna-picchu',
+    name: 'Huayna Picchu',
+    nameEs: 'Huayna Picchu',
+    type: 'archaeological',
+    city: 'aguas-calientes',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 2720,
+    description: 'The iconic peak that towers behind Machu Picchu, Huayna Picchu offers a challenging climb rewarded with breathtaking aerial views of the citadel. Ancient temples and terraces cling to its steep slopes.',
+    descriptionEs: 'El icónico pico que se eleva detrás de Machu Picchu, Huayna Picchu ofrece una escalada desafiante recompensada con impresionantes vistas aéreas de la ciudadela. Templos antiguos y terrazas se aferran a sus empinadas laderas.',
+    history: 'Huayna Picchu served as a lookout point and site for astronomical observations during Inca times. The Temple of the Moon is located in a cave on the mountain\'s north face.',
+    historyEs: 'Huayna Picchu sirvió como punto de observación y sitio para observaciones astronómicas durante tiempos incas. El Templo de la Luna está ubicado en una cueva en la cara norte de la montaña.',
+    highlights: [
+      'Bird\'s-eye view of Machu Picchu',
+      'Ancient Inca temples',
+      'Temple of the Moon (cave temple)',
+      'Thrilling steep climb',
+      'Limited daily visitors',
+      'Ultimate photo opportunity'
+    ],
+    highlightsEs: [
+      'Vista aérea de Machu Picchu',
+      'Templos incas antiguos',
+      'Templo de la Luna (templo en cueva)',
+      'Emocionante escalada empinada',
+      'Visitantes diarios limitados',
+      'Oportunidad fotográfica definitiva'
+    ],
+    familyRating: 2,
+    minAge: 12,
+    duration: '2-3 hours (add to Machu Picchu visit)',
+    durationEs: '2-3 horas (agregar a visita de Machu Picchu)',
+    difficulty: 'challenging',
+    entranceFee: 'Included in Machu Picchu + Huayna Picchu ticket (~$75)',
+    entranceFeeEs: 'Incluido en boleto Machu Picchu + Huayna Picchu (~$75)',
+    bestTime: 'First entry time (7am) for clearer views',
+    bestTimeEs: 'Primera hora de entrada (7am) para vistas más claras',
+    tips: [
+      'NOT recommended for young children - very steep and exposed',
+      'Only 400 visitors per day - book months ahead',
+      'The climb has steep steps and requires hands',
+      'Acrophobia (fear of heights) is a real concern',
+      'Temple of the Moon adds 1-2 hours extra',
+      'Rain makes the trail dangerous'
+    ],
+    tipsEs: [
+      'NO recomendado para niños pequeños - muy empinado y expuesto',
+      'Solo 400 visitantes por día - reserva con meses de anticipación',
+      'La escalada tiene escalones empinados y requiere usar las manos',
+      'La acrofobia (miedo a las alturas) es una preocupación real',
+      'El Templo de la Luna agrega 1-2 horas extra',
+      'La lluvia hace el sendero peligroso'
+    ],
+    nearbyAttractions: ['machu-picchu', 'sun-gate', 'inca-bridge'],
+    relatedSites: ['machu-picchu', 'machu-picchu-mountain'],
+    gettingThere: 'Access from within Machu Picchu citadel. Must have specific ticket.',
+    gettingThereEs: 'Acceso desde dentro de la ciudadela de Machu Picchu. Debe tener boleto específico.',
+    facilities: [
+      'Sign-in book at entrance',
+      'No facilities on the mountain',
+      'Use Machu Picchu restrooms before climbing'
+    ],
+    facilitiesEs: [
+      'Libro de registro en la entrada',
+      'Sin instalaciones en la montaña',
+      'Usa los baños de Machu Picchu antes de subir'
+    ]
+  },
+  {
+    slug: 'sun-gate',
+    name: 'Inti Punku (Sun Gate)',
+    nameEs: 'Inti Punku (Puerta del Sol)',
+    type: 'archaeological',
+    city: 'aguas-calientes',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 2720,
+    description: 'The ancient entrance to Machu Picchu on the Inca Trail, the Sun Gate rewards hikers with the iconic first view of the citadel. A moderate uphill hike from Machu Picchu makes this achievable for many families.',
+    descriptionEs: 'La antigua entrada a Machu Picchu en el Camino Inca, la Puerta del Sol recompensa a los excursionistas con la icónica primera vista de la ciudadela. Una caminata moderada cuesta arriba desde Machu Picchu hace esto alcanzable para muchas familias.',
+    history: 'Inti Punku was the main entrance for pilgrims arriving at Machu Picchu via the Inca Trail. The structure is aligned so that the sun rises through it during the winter solstice (June 21).',
+    historyEs: 'Inti Punku era la entrada principal para peregrinos que llegaban a Machu Picchu por el Camino Inca. La estructura está alineada para que el sol salga a través de ella durante el solsticio de invierno (21 de junio).',
+    highlights: [
+      'Classic postcard view of Machu Picchu',
+      'End point of the Inca Trail',
+      'Well-preserved Inca structure',
+      'Solstice alignment',
+      'Less crowded than main citadel',
+      'Easier than Huayna Picchu'
+    ],
+    highlightsEs: [
+      'Vista clásica de postal de Machu Picchu',
+      'Punto final del Camino Inca',
+      'Estructura inca bien preservada',
+      'Alineamiento del solsticio',
+      'Menos concurrido que la ciudadela principal',
+      'Más fácil que Huayna Picchu'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1.5-2 hours round trip from citadel',
+    durationEs: '1.5-2 horas ida y vuelta desde la ciudadela',
+    difficulty: 'moderate',
+    entranceFee: 'Included in Machu Picchu entry ticket',
+    entranceFeeEs: 'Incluido en boleto de entrada a Machu Picchu',
+    bestTime: 'Early morning for best light and fewer people',
+    bestTimeEs: 'Temprano en la mañana para mejor luz y menos gente',
+    tips: [
+      'More achievable for families than Huayna Picchu',
+      'About 1 hour uphill walk from the citadel',
+      'The path is clear but has steep sections',
+      'Bring water and snacks',
+      'Rest frequently due to altitude',
+      'The view back to Machu Picchu is incredible'
+    ],
+    tipsEs: [
+      'Más alcanzable para familias que Huayna Picchu',
+      'Aproximadamente 1 hora de caminata cuesta arriba desde la ciudadela',
+      'El camino es claro pero tiene secciones empinadas',
+      'Trae agua y snacks',
+      'Descansa frecuentemente por la altitud',
+      'La vista de regreso a Machu Picchu es increíble'
+    ],
+    nearbyAttractions: ['machu-picchu', 'huayna-picchu', 'inca-bridge'],
+    relatedSites: ['machu-picchu', 'huayna-picchu'],
+    gettingThere: 'Walk from within Machu Picchu citadel, following signs to Inti Punku.',
+    gettingThereEs: 'Camina desde dentro de la ciudadela de Machu Picchu, siguiendo señales hacia Inti Punku.',
+    facilities: [
+      'No facilities on the trail',
+      'Use Machu Picchu restrooms before hiking',
+      'Bring your own water and food'
+    ],
+    facilitiesEs: [
+      'Sin instalaciones en el sendero',
+      'Usa los baños de Machu Picchu antes de caminar',
+      'Trae tu propia agua y comida'
+    ]
+  },
+  {
+    slug: 'tambomachay',
+    name: 'Tambomachay (Inca Baths)',
+    nameEs: 'Tambomachay (Baños del Inca)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3765,
+    description: 'A sacred Inca site dedicated to water worship, Tambomachay features impressive fountains fed by natural springs that still flow today. The hydraulic engineering demonstrates the Inca mastery of water management.',
+    descriptionEs: 'Un sitio inca sagrado dedicado al culto al agua, Tambomachay presenta impresionantes fuentes alimentadas por manantiales naturales que aún fluyen hoy. La ingeniería hidráulica demuestra el dominio inca del manejo del agua.',
+    history: 'Tambomachay was likely a royal retreat and ceremonial bathing site for Inca nobility. The site showcases the religious importance of water in Inca culture and their advanced engineering skills.',
+    historyEs: 'Tambomachay fue probablemente un retiro real y sitio de baño ceremonial para la nobleza inca. El sitio muestra la importancia religiosa del agua en la cultura inca y sus avanzadas habilidades de ingeniería.',
+    highlights: [
+      'Perfectly functioning ancient fountains',
+      'Inca hydraulic engineering',
+      'Beautiful stone masonry',
+      'Part of Cusco circuit tour',
+      'Peaceful atmosphere',
+      'Natural spring water'
+    ],
+    highlightsEs: [
+      'Fuentes antiguas funcionando perfectamente',
+      'Ingeniería hidráulica inca',
+      'Hermosa mampostería de piedra',
+      'Parte del circuito turístico de Cusco',
+      'Atmósfera pacífica',
+      'Agua de manantial natural'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: 'Included in Cusco Tourist Ticket (~$40)',
+    entranceFeeEs: 'Incluido en el Boleto Turístico de Cusco (~$40)',
+    bestTime: 'Morning for best light',
+    bestTimeEs: 'Mañana para mejor luz',
+    tips: [
+      'Usually visited as part of the 4-ruins circuit',
+      'Kids love seeing water still flowing through Inca channels',
+      'Combine with Sacsayhuamán, Qenqo, and Puca Pucara',
+      'The site is small - don\'t over-schedule',
+      'Local vendors sell crafts nearby'
+    ],
+    tipsEs: [
+      'Usualmente visitado como parte del circuito de 4 ruinas',
+      'A los niños les encanta ver el agua aún fluyendo por canales incas',
+      'Combina con Sacsayhuamán, Qenqo y Puca Pucara',
+      'El sitio es pequeño - no llenes demasiado tu agenda',
+      'Vendedores locales venden artesanías cerca'
+    ],
+    nearbyAttractions: ['qenqo', 'sacsayhuaman', 'puca-pucara'],
+    relatedSites: ['sacsayhuaman', 'qenqo', 'tipón'],
+    gettingThere: '8km from Cusco, 20-minute drive. Part of the northern ruins circuit.',
+    gettingThereEs: '8km desde Cusco, 20 minutos en auto. Parte del circuito de ruinas del norte.',
+    facilities: [
+      'Basic restrooms nearby',
+      'Vendors selling snacks',
+      'Parking available'
+    ],
+    facilitiesEs: [
+      'Baños básicos cerca',
+      'Vendedores vendiendo snacks',
+      'Estacionamiento disponible'
+    ]
+  },
+  {
+    slug: 'qenqo',
+    name: 'Q\'enqo',
+    nameEs: 'Q\'enqo',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3680,
+    description: 'A fascinating ceremonial site carved from a massive limestone outcrop, Q\'enqo features zigzag channels (its name means "labyrinth" in Quechua), underground caves, and an amphitheater. Kids love exploring the mysterious passageways.',
+    descriptionEs: 'Un fascinante sitio ceremonial tallado en un masivo afloramiento de piedra caliza, Q\'enqo presenta canales en zigzag (su nombre significa "laberinto" en quechua), cuevas subterráneas y un anfiteatro. A los niños les encanta explorar los misteriosos pasadizos.',
+    history: 'Q\'enqo was an important huaca (sacred place) used for ceremonies including mummification and astronomical observations. The zigzag channels were used to pour chicha (corn beer) during rituals.',
+    historyEs: 'Q\'enqo fue una importante huaca (lugar sagrado) usada para ceremonias incluyendo momificación y observaciones astronómicas. Los canales en zigzag se usaban para verter chicha (cerveza de maíz) durante rituales.',
+    highlights: [
+      'Underground caves and tunnels',
+      'Zigzag carved channels',
+      'Natural rock amphitheater',
+      'Altar and ceremonial stone',
+      'Fun exploration for kids',
+      'Part of Cusco circuit'
+    ],
+    highlightsEs: [
+      'Cuevas y túneles subterráneos',
+      'Canales tallados en zigzag',
+      'Anfiteatro natural de roca',
+      'Altar y piedra ceremonial',
+      'Exploración divertida para niños',
+      'Parte del circuito de Cusco'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: 'Included in Cusco Tourist Ticket (~$40)',
+    entranceFeeEs: 'Incluido en el Boleto Turístico de Cusco (~$40)',
+    bestTime: 'Any time - partially shaded',
+    bestTimeEs: 'Cualquier momento - parcialmente sombreado',
+    tips: [
+      'Kids love exploring the cave passages',
+      'Bring a flashlight for the underground areas',
+      'Watch your head in low passages',
+      'Combine with other nearby ruins',
+      'The carvings are mysterious and spark imagination',
+      'Less crowded than Sacsayhuamán'
+    ],
+    tipsEs: [
+      'A los niños les encanta explorar los pasajes de las cuevas',
+      'Trae una linterna para las áreas subterráneas',
+      'Cuidado con tu cabeza en pasajes bajos',
+      'Combina con otras ruinas cercanas',
+      'Los tallados son misteriosos y despiertan la imaginación',
+      'Menos concurrido que Sacsayhuamán'
+    ],
+    nearbyAttractions: ['sacsayhuaman', 'tambomachay', 'puca-pucara'],
+    relatedSites: ['sacsayhuaman', 'tambomachay'],
+    gettingThere: '4km from Cusco\'s Plaza de Armas. Can walk from Sacsayhuamán.',
+    gettingThereEs: '4km desde la Plaza de Armas de Cusco. Se puede caminar desde Sacsayhuamán.',
+    facilities: [
+      'Basic facilities nearby',
+      'Vendors selling crafts',
+      'Part of circuit with other sites'
+    ],
+    facilitiesEs: [
+      'Instalaciones básicas cerca',
+      'Vendedores vendiendo artesanías',
+      'Parte del circuito con otros sitios'
+    ]
+  },
+  {
+    slug: 'gocta-waterfall',
+    name: 'Gocta Waterfall',
+    nameEs: 'Catarata de Gocta',
+    type: 'natural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 1771,
+    description: 'One of the world\'s tallest waterfalls at 771 meters (2,530 feet), Gocta was only "discovered" by the outside world in 2005. The dramatic two-tier cascade plunges through lush cloud forest, accessible via a rewarding jungle hike.',
+    descriptionEs: 'Una de las cataratas más altas del mundo con 771 metros (2,530 pies), Gocta solo fue "descubierta" por el mundo exterior en 2005. La dramática cascada de dos niveles se precipita a través de un exuberante bosque nuboso, accesible mediante una gratificante caminata por la selva.',
+    history: 'Local villagers kept Gocta secret for centuries, fearing a curse. German researcher Stefan Ziemendorff brought it to international attention in 2005, making it one of the world\'s most recently "discovered" major waterfalls.',
+    historyEs: 'Los aldeanos locales mantuvieron Gocta en secreto durante siglos, temiendo una maldición. El investigador alemán Stefan Ziemendorff la dio a conocer internacionalmente en 2005, convirtiéndola en una de las cascadas importantes más recientemente "descubiertas" del mundo.',
+    highlights: [
+      '771m tall - one of world\'s highest',
+      'Two-tier dramatic cascade',
+      'Cloud forest scenery',
+      'Bird watching opportunities',
+      'Refreshing pool at base',
+      'Recently discovered wonder'
+    ],
+    highlightsEs: [
+      '771m de altura - una de las más altas del mundo',
+      'Dramática cascada de dos niveles',
+      'Paisaje de bosque nuboso',
+      'Oportunidades de observación de aves',
+      'Refrescante poza en la base',
+      'Maravilla recientemente descubierta'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-5 hours (round trip hike)',
+    durationEs: '4-5 horas (caminata ida y vuelta)',
+    difficulty: 'moderate',
+    entranceFee: 'S/10 (~$3) entrance + local guide (~$30)',
+    entranceFeeEs: 'S/10 (~$3) entrada + guía local (~$30)',
+    bestTime: 'May-September (dry season) for best visibility',
+    bestTimeEs: 'Mayo-septiembre (temporada seca) para mejor visibilidad',
+    tips: [
+      'The hike is 5km each way - suitable for active families',
+      'Hire a local guide from the village',
+      'Bring waterproof layer - cloud forest is misty',
+      'The pool at the base is cold but refreshing',
+      'Can visit upper or lower falls - lower is longer hike',
+      'Bring lunch and plenty of water'
+    ],
+    tipsEs: [
+      'La caminata es de 5km en cada dirección - apta para familias activas',
+      'Contrata un guía local del pueblo',
+      'Trae capa impermeable - el bosque nuboso es brumoso',
+      'La poza en la base es fría pero refrescante',
+      'Se puede visitar cascada superior o inferior - la inferior es caminata más larga',
+      'Trae almuerzo y mucha agua'
+    ],
+    nearbyAttractions: ['kuelap', 'karajia', 'revash'],
+    relatedSites: ['kuelap', 'colca-canyon'],
+    gettingThere: '1 hour from Chachapoyas to Cocachimba village, then hike.',
+    gettingThereEs: '1 hora desde Chachapoyas al pueblo de Cocachimba, luego caminata.',
+    facilities: [
+      'Simple restaurants in village',
+      'Local guides available',
+      'Basic restrooms at trailhead',
+      'No facilities on trail'
+    ],
+    facilitiesEs: [
+      'Restaurantes simples en el pueblo',
+      'Guías locales disponibles',
+      'Baños básicos en el inicio del sendero',
+      'Sin instalaciones en el sendero'
+    ]
+  },
+  {
+    slug: 'caral',
+    name: 'Caral - Sacred City',
+    nameEs: 'Caral - Ciudad Sagrada',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 350,
+    description: 'The oldest city in the Americas, Caral dates back 5,000 years - contemporary with ancient Egypt. This UNESCO World Heritage Site features six pyramids and reveals a sophisticated civilization that developed without pottery or writing.',
+    descriptionEs: 'La ciudad más antigua de las Américas, Caral data de hace 5,000 años - contemporánea del antiguo Egipto. Este Patrimonio de la Humanidad de la UNESCO presenta seis pirámides y revela una civilización sofisticada que se desarrolló sin cerámica ni escritura.',
+    history: 'Caral flourished between 3000-1800 BC, making it older than the Egyptian pyramids at Giza. The Norte Chico civilization built the complex without knowledge of pottery or writing, yet developed advanced agriculture and architecture.',
+    historyEs: 'Caral floreció entre 3000-1800 AC, haciéndola más antigua que las pirámides egipcias de Giza. La civilización de Norte Chico construyó el complejo sin conocimiento de cerámica ni escritura, pero desarrolló agricultura y arquitectura avanzadas.',
+    highlights: [
+      '5,000 years old - oldest in Americas',
+      'Six pyramid complexes',
+      'Contemporary with ancient Egypt',
+      'UNESCO World Heritage Site',
+      'Amphitheater and plazas',
+      'Off-the-beaten-path experience'
+    ],
+    highlightsEs: [
+      '5,000 años de antigüedad - la más antigua de las Américas',
+      'Seis complejos piramidales',
+      'Contemporánea del antiguo Egipto',
+      'Patrimonio de la Humanidad UNESCO',
+      'Anfiteatro y plazas',
+      'Experiencia fuera de lo común'
+    ],
+    familyRating: 3,
+    minAge: 7,
+    duration: '2-3 hours (plus travel)',
+    durationEs: '2-3 horas (más viaje)',
+    difficulty: 'easy',
+    entranceFee: 'S/11 (~$3) adults, S/5 children',
+    entranceFeeEs: 'S/11 (~$3) adultos, S/5 niños',
+    bestTime: 'Year-round (desert climate)',
+    bestTimeEs: 'Todo el año (clima desértico)',
+    tips: [
+      'Hire a guide to understand the significance',
+      'Bring water and sun protection - no shade',
+      'The remoteness is part of the experience',
+      'Kids can grasp "older than pyramids"',
+      'Can be done as Lima day trip but it\'s far',
+      'Combine with beach town of Huacho'
+    ],
+    tipsEs: [
+      'Contrata un guía para entender la importancia',
+      'Trae agua y protección solar - sin sombra',
+      'La lejanía es parte de la experiencia',
+      'Los niños pueden entender "más antiguo que las pirámides"',
+      'Se puede hacer como excursión de un día desde Lima pero está lejos',
+      'Combina con el pueblo costero de Huacho'
+    ],
+    nearbyAttractions: ['bandurria', 'huacho', 'lomas-de-lachay'],
+    relatedSites: ['pachacamac', 'chan-chan', 'sipan'],
+    gettingThere: '4 hours north of Lima by car. Tours available from Lima.',
+    gettingThereEs: '4 horas al norte de Lima en auto. Tours disponibles desde Lima.',
+    facilities: [
+      'Small visitor center',
+      'Restrooms',
+      'Parking',
+      'Guides available',
+      'No food on site'
+    ],
+    facilitiesEs: [
+      'Pequeño centro de visitantes',
+      'Baños',
+      'Estacionamiento',
+      'Guías disponibles',
+      'Sin comida en el sitio'
+    ]
   }
 ];
 
