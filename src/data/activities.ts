@@ -2981,6 +2981,1465 @@ export const activities: Activity[] = [
       { name: 'Inkaterra', familyFriendly: true },
       { name: 'Refugio Amazonas', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'llama-trekking',
+    name: 'Llama Trekking',
+    nameEs: 'Trekking con Llamas',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek through the Andean highlands accompanied by friendly llamas who carry your gear. These gentle animals make perfect hiking companions for families, offering a unique cultural experience while exploring remote Inca trails.',
+    descriptionEs: 'Camina por las tierras altas andinas acompañado de llamas amigables que cargan tu equipo. Estos gentiles animales son compañeros perfectos de senderismo para familias, ofreciendo una experiencia cultural única mientras exploras senderos Incas remotos.',
+    whatToExpect: 'Meet your llama companions at a local farm. Learn to lead and care for them before setting off on scenic trails. Llamas carry packs, leaving you free to enjoy the hike. Routes vary from gentle walks to multi-day treks through stunning Andean landscapes.',
+    whatToExpectEs: 'Conoce a tus compañeros llamas en una granja local. Aprende a guiarlas y cuidarlas antes de partir por senderos escénicos. Las llamas cargan los bultos, dejándote libre para disfrutar la caminata. Las rutas varían desde caminatas suaves hasta trekkings de varios días por impresionantes paisajes andinos.',
+    highlights: [
+      'Trek with friendly llamas',
+      'Llamas carry your gear',
+      'Stunning Andean scenery',
+      'Learn about Andean traditions',
+      'Visit local communities',
+      'Photo opportunities galore'
+    ],
+    highlightsEs: [
+      'Camina con llamas amigables',
+      'Las llamas cargan tu equipo',
+      'Impresionantes paisajes andinos',
+      'Aprende sobre tradiciones andinas',
+      'Visita comunidades locales',
+      'Muchas oportunidades de fotos'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day to multi-day',
+    durationEs: 'Medio día a varios días',
+    difficulty: 'easy',
+    priceRange: '$60-200 per person',
+    priceRangeEs: '$60-200 por persona',
+    bestTime: 'Dry season (May-October)',
+    bestTimeEs: 'Temporada seca (mayo-octubre)',
+    includes: [
+      'Llama companion',
+      'Professional guide',
+      'Snacks or meals',
+      'Equipment for llama handling',
+      'Community visit'
+    ],
+    includesEs: [
+      'Compañero llama',
+      'Guía profesional',
+      'Snacks o comidas',
+      'Equipo para manejar llamas',
+      'Visita a comunidad'
+    ],
+    tips: [
+      'Kids love the llamas - very gentle',
+      'Shorter treks available for families',
+      'Llamas are easier than horses for beginners',
+      'Support local communities',
+      'Great alternative to strenuous hikes',
+      'Amazing photos guaranteed'
+    ],
+    tipsEs: [
+      'A los niños les encantan las llamas - muy gentiles',
+      'Caminatas más cortas disponibles para familias',
+      'Las llamas son más fáciles que los caballos para principiantes',
+      'Apoya a comunidades locales',
+      'Gran alternativa a caminatas agotadoras',
+      'Fotos increíbles garantizadas'
+    ],
+    safetyNotes: [
+      'Llamas are gentle but respect their space',
+      'Altitude precautions still apply',
+      'Walk at a comfortable pace',
+      'Guides handle llama care'
+    ],
+    safetyNotesEs: [
+      'Las llamas son gentiles pero respeta su espacio',
+      'Las precauciones de altitud aún aplican',
+      'Camina a un ritmo cómodo',
+      'Los guías manejan el cuidado de las llamas'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'textile-workshop'],
+    providers: [
+      { name: 'Llama Pack', familyFriendly: true },
+      { name: 'Llamapath', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chocolate-making-cusco',
+    name: 'Chocolate Making Workshop',
+    nameEs: 'Taller de Elaboración de Chocolate',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn the ancient art of chocolate making using Peruvian cacao in a hands-on workshop. From grinding cacao beans to molding your own chocolate bars, this sweet activity traces chocolate\'s journey from the Amazon to your taste buds.',
+    descriptionEs: 'Aprende el antiguo arte de hacer chocolate usando cacao peruano en un taller práctico. Desde moler granos de cacao hasta moldear tus propias barras de chocolate, esta dulce actividad traza el viaje del chocolate desde el Amazonas hasta tu paladar.',
+    whatToExpect: 'Visit a chocolate workshop in Cusco. Learn about cacao history and Peru\'s role in chocolate production. Roast and grind cacao beans using traditional methods. Create your own chocolate bars with various flavors. Take home your creations!',
+    whatToExpectEs: 'Visita un taller de chocolate en Cusco. Aprende sobre la historia del cacao y el rol de Perú en la producción de chocolate. Tuesta y muele granos de cacao usando métodos tradicionales. Crea tus propias barras de chocolate con varios sabores. ¡Lleva tus creaciones a casa!',
+    highlights: [
+      'Bean-to-bar chocolate making',
+      'Traditional grinding methods',
+      'Create your own flavors',
+      'Take home your chocolate',
+      'Learn about Peruvian cacao',
+      'Delicious tastings'
+    ],
+    highlightsEs: [
+      'Elaboración de chocolate del grano a la barra',
+      'Métodos tradicionales de molienda',
+      'Crea tus propios sabores',
+      'Lleva tu chocolate a casa',
+      'Aprende sobre el cacao peruano',
+      'Deliciosas degustaciones'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 per person',
+    priceRangeEs: '$30-50 por persona',
+    bestTime: 'Any time, great for rainy days',
+    bestTimeEs: 'Cualquier momento, genial para días lluviosos',
+    includes: [
+      'All chocolate-making materials',
+      'Expert instruction',
+      'Tastings',
+      'Your own chocolate to take home',
+      'Certificate'
+    ],
+    includesEs: [
+      'Todos los materiales para hacer chocolate',
+      'Instrucción experta',
+      'Degustaciones',
+      'Tu propio chocolate para llevar',
+      'Certificado'
+    ],
+    tips: [
+      'Book ahead - popular activity',
+      'Perfect for a rainy afternoon',
+      'Kids love making their own bars',
+      'No chocolate experience needed',
+      'Vegetarian/vegan options available',
+      'Great souvenirs to take home'
+    ],
+    tipsEs: [
+      'Reserva con anticipación - actividad popular',
+      'Perfecto para una tarde lluviosa',
+      'A los niños les encanta hacer sus propias barras',
+      'No se necesita experiencia con chocolate',
+      'Opciones vegetarianas/veganas disponibles',
+      'Grandes recuerdos para llevar a casa'
+    ],
+    safetyNotes: [
+      'Allergy information collected in advance',
+      'Suitable for most dietary needs',
+      'Nut-free options available'
+    ],
+    safetyNotesEs: [
+      'Información de alergias recolectada con anticipación',
+      'Adecuado para la mayoría de necesidades dietéticas',
+      'Opciones sin nueces disponibles'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'market-tour-lima'],
+    providers: [
+      { name: 'ChocoMuseo', familyFriendly: true },
+      { name: 'Museo del Cacao', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'river-rafting-urubamba',
+    name: 'Urubamba River Rafting',
+    nameEs: 'Rafting en el Río Urubamba',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Navigate the rushing waters of the Sacred Valley\'s Urubamba River on an exciting rafting adventure. With rapids ranging from Class II to IV, there are options for families with older children seeking thrills amidst stunning Andean scenery.',
+    descriptionEs: 'Navega las aguas del río Urubamba del Valle Sagrado en una emocionante aventura de rafting. Con rápidos que van de Clase II a IV, hay opciones para familias con niños mayores que buscan emociones en medio de impresionantes paisajes andinos.',
+    whatToExpect: 'Meet your guides and gear up with helmets, life jackets, and wetsuits. Learn paddling techniques before hitting the river. Navigate exciting rapids while enjoying views of Inca terraces and mountains. End with a riverside snack or lunch.',
+    whatToExpectEs: 'Conoce a tus guías y equípate con cascos, chalecos salvavidas y trajes de neopreno. Aprende técnicas de remo antes de entrar al río. Navega emocionantes rápidos mientras disfrutas vistas de terrazas Incas y montañas. Termina con un snack o almuerzo junto al río.',
+    highlights: [
+      'Class II-IV rapids',
+      'Sacred Valley scenery',
+      'Professional guides',
+      'Inca ruins from the river',
+      'Wildlife sightings',
+      'Adrenaline rush!'
+    ],
+    highlightsEs: [
+      'Rápidos Clase II-IV',
+      'Paisaje del Valle Sagrado',
+      'Guías profesionales',
+      'Ruinas Incas desde el río',
+      'Avistamiento de vida silvestre',
+      '¡Descarga de adrenalina!'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-80 per person',
+    priceRangeEs: '$40-80 por persona',
+    bestTime: 'May-October (lower water, safer)',
+    bestTimeEs: 'Mayo-octubre (agua más baja, más seguro)',
+    includes: [
+      'All rafting equipment',
+      'Professional guide',
+      'Safety briefing',
+      'Transportation',
+      'Snack or lunch',
+      'Wetsuit if needed'
+    ],
+    includesEs: [
+      'Todo el equipo de rafting',
+      'Guía profesional',
+      'Instrucciones de seguridad',
+      'Transporte',
+      'Snack o almuerzo',
+      'Traje de neopreno si es necesario'
+    ],
+    tips: [
+      'Family-friendly Class II sections available',
+      'Dry season is safer for beginners',
+      'Waterproof camera recommended',
+      'Wear swimsuit under clothes',
+      'Listen to guide instructions!',
+      'Combine with Sacred Valley tour'
+    ],
+    tipsEs: [
+      'Secciones Clase II para familias disponibles',
+      'La temporada seca es más segura para principiantes',
+      'Cámara impermeable recomendada',
+      'Usa traje de baño debajo de la ropa',
+      '¡Escucha las instrucciones del guía!',
+      'Combina con tour del Valle Sagrado'
+    ],
+    safetyNotes: [
+      'Must be able to swim',
+      'Follow all guide instructions',
+      'Life jackets mandatory',
+      'Higher classes not for beginners'
+    ],
+    safetyNotesEs: [
+      'Debes saber nadar',
+      'Sigue todas las instrucciones del guía',
+      'Chalecos salvavidas obligatorios',
+      'Clases más altas no son para principiantes'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'zip-line-cusco'],
+    providers: [
+      { name: 'Apumayo Expediciones', familyFriendly: true },
+      { name: 'Eric Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'alpaca-farm-visit',
+    name: 'Alpaca Farm Experience',
+    nameEs: 'Experiencia en Granja de Alpacas',
+    type: 'educational',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Visit a traditional alpaca farm to meet these adorable fluffy animals up close. Learn about alpaca wool production, traditional dyeing techniques, and the importance of these gentle creatures in Andean culture. Perfect for animal-loving families!',
+    descriptionEs: 'Visita una granja tradicional de alpacas para conocer a estos adorables animales esponjosos de cerca. Aprende sobre la producción de lana de alpaca, técnicas tradicionales de teñido y la importancia de estas gentiles criaturas en la cultura andina. ¡Perfecto para familias amantes de los animales!',
+    whatToExpect: 'Arrive at a working alpaca farm in the Sacred Valley. Meet alpacas, llamas, and sometimes vicuñas. Learn to feed them, learn about different breeds and fiber types. Watch traditional wool processing and natural dyeing. Shop for authentic alpaca products.',
+    whatToExpectEs: 'Llega a una granja de alpacas en el Valle Sagrado. Conoce alpacas, llamas y a veces vicuñas. Aprende a alimentarlas, conoce diferentes razas y tipos de fibra. Observa el procesamiento tradicional de lana y teñido natural. Compra productos auténticos de alpaca.',
+    highlights: [
+      'Meet fluffy alpacas',
+      'Feed and pet the animals',
+      'Learn about wool production',
+      'See natural dyeing process',
+      'Shop for alpaca goods',
+      'Perfect for kids!'
+    ],
+    highlightsEs: [
+      'Conoce alpacas esponjosas',
+      'Alimenta y acaricia a los animales',
+      'Aprende sobre producción de lana',
+      'Ve el proceso de teñido natural',
+      'Compra productos de alpaca',
+      '¡Perfecto para niños!'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: '$10-30 per person',
+    priceRangeEs: '$10-30 por persona',
+    bestTime: 'Year-round, morning for active animals',
+    bestTimeEs: 'Todo el año, mañana para animales activos',
+    includes: [
+      'Farm tour',
+      'Animal interaction',
+      'Wool processing demonstration',
+      'Guide explanations',
+      'Photo opportunities'
+    ],
+    includesEs: [
+      'Tour de la granja',
+      'Interacción con animales',
+      'Demostración de procesamiento de lana',
+      'Explicaciones del guía',
+      'Oportunidades de fotos'
+    ],
+    tips: [
+      'Alpacas are gentle and love being fed',
+      'Great for young children',
+      'Support local communities by buying products',
+      'Baby alpacas extra cute in spring',
+      'Combine with Sacred Valley sights',
+      'Authentic souvenirs available'
+    ],
+    tipsEs: [
+      'Las alpacas son gentiles y les encanta que las alimenten',
+      'Genial para niños pequeños',
+      'Apoya comunidades locales comprando productos',
+      'Las crías de alpaca son extra lindas en primavera',
+      'Combina con sitios del Valle Sagrado',
+      'Recuerdos auténticos disponibles'
+    ],
+    safetyNotes: [
+      'Alpacas are gentle but can spit',
+      'Supervise small children',
+      'Wash hands after feeding'
+    ],
+    safetyNotesEs: [
+      'Las alpacas son gentiles pero pueden escupir',
+      'Supervisa a niños pequeños',
+      'Lava las manos después de alimentar'
+    ],
+    relatedActivities: ['textile-workshop', 'llama-trekking'],
+    providers: [
+      { name: 'Awanakancha', familyFriendly: true },
+      { name: 'Centro de Textiles', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'zip-line-cusco',
+    name: 'Sacred Valley Zip Line',
+    nameEs: 'Tirolesa del Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Soar over the Sacred Valley on exhilarating zip lines with views of Inca terraces, mountains, and the Urubamba River far below. Multiple lines of varying lengths offer thrills for the whole family.',
+    descriptionEs: 'Vuela sobre el Valle Sagrado en emocionantes tirolesas con vistas de terrazas Incas, montañas y el río Urubamba muy abajo. Múltiples líneas de diferentes longitudes ofrecen emociones para toda la familia.',
+    whatToExpect: 'Safety briefing and equipment fitting at the starting point. Multiple zip lines of varying lengths and heights, connected by short hikes or suspended bridges. Incredible bird\'s-eye views of the Sacred Valley. Professional guides ensure safety throughout.',
+    whatToExpectEs: 'Instrucciones de seguridad y ajuste de equipo en el punto de partida. Múltiples tirolesas de diferentes longitudes y alturas, conectadas por caminatas cortas o puentes colgantes. Increíbles vistas aéreas del Valle Sagrado. Guías profesionales aseguran la seguridad durante todo el recorrido.',
+    highlights: [
+      'Bird\'s-eye valley views',
+      'Multiple zip lines',
+      'Inca terraces from above',
+      'Mountain panoramas',
+      'Adrenaline adventure',
+      'Safe for families'
+    ],
+    highlightsEs: [
+      'Vistas aéreas del valle',
+      'Múltiples tirolesas',
+      'Terrazas Incas desde arriba',
+      'Panoramas de montañas',
+      'Aventura de adrenalina',
+      'Seguro para familias'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Dry season (May-October) for best views',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejores vistas',
+    includes: [
+      'All safety equipment',
+      'Professional guides',
+      'Multiple zip lines',
+      'Transportation (some operators)',
+      'Photos/videos (some operators)'
+    ],
+    includesEs: [
+      'Todo el equipo de seguridad',
+      'Guías profesionales',
+      'Múltiples tirolesas',
+      'Transporte (algunos operadores)',
+      'Fotos/videos (algunos operadores)'
+    ],
+    tips: [
+      'Weight and height restrictions apply',
+      'Not recommended for fear of heights',
+      'Wear closed-toe shoes',
+      'Secure loose items',
+      'Morning for clearest views',
+      'Great photos available for purchase'
+    ],
+    tipsEs: [
+      'Aplican restricciones de peso y altura',
+      'No recomendado para miedo a las alturas',
+      'Usa zapatos cerrados',
+      'Asegura objetos sueltos',
+      'Mañana para vistas más claras',
+      'Geniales fotos disponibles para comprar'
+    ],
+    safetyNotes: [
+      'Follow all guide instructions',
+      'Weight limits strictly enforced',
+      'Not suitable for certain health conditions',
+      'Helmets mandatory'
+    ],
+    safetyNotesEs: [
+      'Sigue todas las instrucciones del guía',
+      'Límites de peso estrictamente aplicados',
+      'No adecuado para ciertas condiciones de salud',
+      'Cascos obligatorios'
+    ],
+    relatedActivities: ['river-rafting-urubamba', 'via-ferrata-cusco'],
+    providers: [
+      { name: 'Natura Vive', familyFriendly: true },
+      { name: 'Cola de Mono', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'night-jungle-walk',
+    name: 'Night Jungle Walk',
+    nameEs: 'Caminata Nocturna en la Selva',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Experience the Amazon rainforest after dark when the jungle truly comes alive. With flashlights and expert guides, discover nocturnal creatures like tarantulas, tree frogs, caimans, and glowing eyes in the darkness.',
+    descriptionEs: 'Experimenta la selva amazónica después del anochecer cuando la jungla realmente cobra vida. Con linternas y guías expertos, descubre criaturas nocturnas como tarántulas, ranas arbóreas, caimanes y ojos brillantes en la oscuridad.',
+    whatToExpect: '1-2 hour guided walks along jungle trails after dinner. Guides use flashlights to spot wildlife and explain nocturnal behaviors. A completely different jungle experience from daytime excursions.',
+    whatToExpectEs: 'Caminatas guiadas de 1-2 horas por senderos de selva después de la cena. Los guías usan linternas para avistar fauna y explicar comportamientos nocturnos. Una experiencia de selva completamente diferente a las excursiones diurnas.',
+    highlights: [
+      'See tarantulas and giant insects',
+      'Spot tree frogs and nocturnal birds',
+      'Caiman eye-spotting on rivers',
+      'Hear the symphony of jungle sounds',
+      'Bioluminescent fungi (some areas)',
+      'Unique wildlife not seen by day'
+    ],
+    highlightsEs: [
+      'Ver tarántulas e insectos gigantes',
+      'Avistar ranas arbóreas y aves nocturnas',
+      'Avistamiento de ojos de caimanes en ríos',
+      'Escuchar la sinfonía de sonidos de la selva',
+      'Hongos bioluminiscentes (algunas áreas)',
+      'Fauna única no vista de día'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'moderate',
+    priceRange: 'Usually included in lodge packages',
+    priceRangeEs: 'Usualmente incluido en paquetes de lodge',
+    bestTime: 'Year-round, though dry season (May-Oct) has easier trail conditions',
+    bestTimeEs: 'Todo el año, aunque temporada seca (mayo-oct) tiene mejores condiciones de senderos',
+    includes: [
+      'Expert naturalist guide',
+      'Flashlight/headlamp',
+      'Rubber boots',
+      'Insect repellent',
+      'First aid kit'
+    ],
+    includesEs: [
+      'Guía naturalista experto',
+      'Linterna/lámpara frontal',
+      'Botas de goma',
+      'Repelente de insectos',
+      'Botiquín de primeros auxilios'
+    ],
+    tips: [
+      'Not too scary for most kids 6+',
+      'Wear long pants and sleeves',
+      'Stay on the trail',
+      'Bring camera with flash/night mode',
+      'Embrace the adventure mindset',
+      'Ask guides about sounds you hear'
+    ],
+    tipsEs: [
+      'No muy aterrador para la mayoría de niños 6+',
+      'Usa pantalones y mangas largas',
+      'Mantente en el sendero',
+      'Lleva cámara con flash/modo nocturno',
+      'Adopta mentalidad de aventura',
+      'Pregunta a los guías sobre los sonidos que escuchas'
+    ],
+    safetyNotes: [
+      'Always follow guide instructions',
+      'Stay with the group',
+      'Wear closed-toe shoes',
+      'Avoid touching wildlife',
+      'Bring backup light source'
+    ],
+    safetyNotesEs: [
+      'Siempre sigue instrucciones del guía',
+      'Mantente con el grupo',
+      'Usa zapatos cerrados',
+      'Evita tocar la fauna',
+      'Lleva fuente de luz de respaldo'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'caiman-spotting', 'canopy-walkway'],
+    providers: [
+      { name: 'Inkaterra', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'horseback-riding-sacred-valley',
+    name: 'Sacred Valley Horseback Riding',
+    nameEs: 'Cabalgata en el Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the stunning Sacred Valley on horseback, riding Peruvian Paso horses through ancient Inca agricultural terraces, traditional villages, and scenic mountain trails. Perfect for families seeking adventure with incredible views.',
+    descriptionEs: 'Explora el impresionante Valle Sagrado a caballo, montando caballos Paso Peruano a través de antiguas terrazas agrícolas Incas, pueblos tradicionales y senderos de montaña escénicos. Perfecto para familias que buscan aventura con vistas increíbles.',
+    whatToExpect: 'Rides from 1 hour to full day. Gentle Paso horses suitable for beginners. Routes pass through farmland, Inca sites, and local communities. Guides assist beginners and ensure safety.',
+    whatToExpectEs: 'Paseos desde 1 hora hasta día completo. Caballos Paso gentiles adecuados para principiantes. Las rutas pasan por tierras de cultivo, sitios Incas y comunidades locales. Los guías asisten a principiantes y aseguran la seguridad.',
+    highlights: [
+      'Ride famous Peruvian Paso horses',
+      'View Inca archaeological sites',
+      'Ride through traditional villages',
+      'Spectacular mountain scenery',
+      'Suitable for all skill levels',
+      'Learn about Andean culture'
+    ],
+    highlightsEs: [
+      'Montar famosos caballos Paso Peruano',
+      'Ver sitios arqueológicos Incas',
+      'Cabalgar a través de pueblos tradicionales',
+      'Espectacular paisaje de montaña',
+      'Adecuado para todos los niveles',
+      'Aprender sobre cultura andina'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-6 hours',
+    durationEs: '1-6 horas',
+    difficulty: 'easy',
+    priceRange: '$30-120 depending on duration',
+    priceRangeEs: '$30-120 dependiendo de la duración',
+    bestTime: 'April to October for dry trails and clear views',
+    bestTimeEs: 'Abril a octubre para senderos secos y vistas claras',
+    includes: [
+      'Horse and saddle',
+      'Helmets for children',
+      'Experienced guide',
+      'Safety briefing',
+      'Water (most operators)'
+    ],
+    includesEs: [
+      'Caballo y montura',
+      'Cascos para niños',
+      'Guía experimentado',
+      'Instrucciones de seguridad',
+      'Agua (mayoría de operadores)'
+    ],
+    tips: [
+      'Wear long pants',
+      'Closed-toe shoes required',
+      'Shorter rides for first-timers',
+      'Book morning for cooler weather',
+      'Acclimate to altitude first',
+      'Sunscreen essential'
+    ],
+    tipsEs: [
+      'Usa pantalones largos',
+      'Zapatos cerrados requeridos',
+      'Paseos más cortos para primerizos',
+      'Reserva en la mañana para clima más fresco',
+      'Aclimatarse a la altitud primero',
+      'Bloqueador solar esencial'
+    ],
+    safetyNotes: [
+      'Helmets provided and recommended',
+      'Listen to guide instructions',
+      'Horses matched to rider experience',
+      'Altitude affects energy levels'
+    ],
+    safetyNotesEs: [
+      'Cascos proporcionados y recomendados',
+      'Escucha instrucciones del guía',
+      'Caballos asignados según experiencia del jinete',
+      'La altitud afecta niveles de energía'
+    ],
+    relatedActivities: ['llama-trekking', 'sacred-valley-tour', 'mountain-biking'],
+    providers: [
+      { name: 'Sol y Luna', familyFriendly: true },
+      { name: 'Wayra Ranch', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'stand-up-paddleboarding',
+    name: 'Lake Paddleboarding (SUP)',
+    nameEs: 'Paddleboarding en Lago (SUP)',
+    type: 'adventure',
+    city: 'huacachina',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Glide across the emerald waters of Huacachina\'s famous oasis lagoon on a stand-up paddleboard. This calm, beginner-friendly activity offers unique views of surrounding sand dunes and is a refreshing break from desert tours.',
+    descriptionEs: 'Deslízate sobre las aguas esmeralda de la famosa laguna oasis de Huacachina en un paddleboard. Esta actividad tranquila y apta para principiantes ofrece vistas únicas de las dunas circundantes y es un descanso refrescante de los tours del desierto.',
+    whatToExpect: 'Calm lake paddling with instruction for beginners. Boards provided at lakeside rentals. Best in morning before afternoon winds. Combine with sandboarding and dune buggy tours.',
+    whatToExpectEs: 'Remar en lago tranquilo con instrucción para principiantes. Tablas disponibles en alquileres junto al lago. Mejor en la mañana antes de los vientos de la tarde. Combina con sandboarding y tours en buggy.',
+    highlights: [
+      'Unique oasis setting',
+      'Calm, beginner-friendly waters',
+      'Great photo opportunities',
+      'Cool off from desert heat',
+      'View sand dunes from water',
+      'Quick to learn'
+    ],
+    highlightsEs: [
+      'Entorno único de oasis',
+      'Aguas tranquilas aptas para principiantes',
+      'Grandes oportunidades de fotos',
+      'Refrescarse del calor del desierto',
+      'Ver dunas desde el agua',
+      'Rápido de aprender'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '30-60 minutes',
+    durationEs: '30-60 minutos',
+    difficulty: 'easy',
+    priceRange: '$5-10 per hour',
+    priceRangeEs: '$5-10 por hora',
+    bestTime: 'Year-round, mornings best for calm conditions',
+    bestTimeEs: 'Todo el año, mañanas mejores para condiciones tranquilas',
+    includes: [
+      'Paddleboard',
+      'Paddle',
+      'Basic instruction',
+      'Life vest (some operators)'
+    ],
+    includesEs: [
+      'Paddleboard',
+      'Remo',
+      'Instrucción básica',
+      'Chaleco salvavidas (algunos operadores)'
+    ],
+    tips: [
+      'Go in morning for stillest water',
+      'Start on knees before standing',
+      'Bring waterproof bag for phone',
+      'Wear swimsuit',
+      'Combine with sandboarding',
+      'Very affordable activity'
+    ],
+    tipsEs: [
+      'Ve en la mañana para agua más tranquila',
+      'Empieza de rodillas antes de pararte',
+      'Lleva bolsa impermeable para teléfono',
+      'Usa traje de baño',
+      'Combina con sandboarding',
+      'Actividad muy económica'
+    ],
+    safetyNotes: [
+      'Calm lake - minimal risk',
+      'Life vests recommended for children',
+      'Stay near shore',
+      'Watch for other watercraft'
+    ],
+    safetyNotesEs: [
+      'Lago tranquilo - riesgo mínimo',
+      'Chalecos salvavidas recomendados para niños',
+      'Mantente cerca de la orilla',
+      'Cuidado con otras embarcaciones'
+    ],
+    relatedActivities: ['sandboarding-huacachina', 'dune-buggy', 'kayaking'],
+    providers: [
+      { name: 'Lakeside rentals', familyFriendly: true },
+      { name: 'Banana\'s Adventure', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'butterfly-farm-visit',
+    name: 'Amazon Butterfly Farm',
+    nameEs: 'Mariposario Amazónico',
+    type: 'educational',
+    city: 'tarapoto',
+    region: 'San Martín Region',
+    regionEs: 'Región San Martín',
+    description: 'Walk through enclosed gardens filled with hundreds of colorful butterflies at Amazon region butterfly farms. Learn about butterfly life cycles, see caterpillars and cocoons, and have butterflies land on you for magical photos.',
+    descriptionEs: 'Camina a través de jardines cerrados llenos de cientos de mariposas coloridas en las granjas de mariposas de la región amazónica. Aprende sobre ciclos de vida de mariposas, ve orugas y capullos, y deja que las mariposas se posen en ti para fotos mágicas.',
+    whatToExpect: 'Guided tours through screened gardens. Guides explain metamorphosis and species identification. Best times are sunny mornings when butterflies are most active. Some farms include other insects and small animals.',
+    whatToExpectEs: 'Tours guiados a través de jardines con malla. Los guías explican la metamorfosis e identificación de especies. Los mejores momentos son mañanas soleadas cuando las mariposas están más activas. Algunas granjas incluyen otros insectos y animales pequeños.',
+    highlights: [
+      'Hundreds of free-flying butterflies',
+      'See morpho butterflies up close',
+      'Learn about metamorphosis',
+      'Photo opportunities (butterflies land on you)',
+      'Educational for all ages',
+      'Climate-controlled gardens'
+    ],
+    highlightsEs: [
+      'Cientos de mariposas volando libremente',
+      'Ver mariposas morpho de cerca',
+      'Aprender sobre metamorfosis',
+      'Oportunidades de fotos (mariposas se posan en ti)',
+      'Educativo para todas las edades',
+      'Jardines climatizados'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: '$5-15',
+    priceRangeEs: '$5-15',
+    bestTime: 'Sunny mornings for most active butterflies',
+    bestTimeEs: 'Mañanas soleadas para mariposas más activas',
+    includes: [
+      'Guided tour',
+      'Entry to all areas',
+      'Educational information',
+      'Photo opportunities'
+    ],
+    includesEs: [
+      'Tour guiado',
+      'Entrada a todas las áreas',
+      'Información educativa',
+      'Oportunidades de fotos'
+    ],
+    tips: [
+      'Wear bright colors to attract butterflies',
+      'Move slowly and quietly',
+      'No touching butterflies',
+      'Sunny weather is best',
+      'Combine with jungle lodge stay',
+      'Great for toddlers and young kids'
+    ],
+    tipsEs: [
+      'Usa colores brillantes para atraer mariposas',
+      'Muévete lenta y silenciosamente',
+      'No toques las mariposas',
+      'El clima soleado es mejor',
+      'Combina con estadía en lodge de selva',
+      'Genial para niños pequeños'
+    ],
+    safetyNotes: [
+      'Very safe activity',
+      'Stay on pathways',
+      'No flash photography (some farms)',
+      'Check for escape doors when entering/exiting'
+    ],
+    safetyNotesEs: [
+      'Actividad muy segura',
+      'Mantente en los senderos',
+      'Sin fotografía con flash (algunas granjas)',
+      'Revisa puertas de escape al entrar/salir'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'birdwatching', 'chocolate-making'],
+    providers: [
+      { name: 'Mariposario Tarapoto', familyFriendly: true },
+      { name: 'Various jungle lodges', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'surfing-lessons',
+    name: 'Surfing Lessons',
+    nameEs: 'Clases de Surf',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Learn to surf on Peru\'s Pacific coast, which offers consistent waves perfect for beginners. Miraflores and Huanchaco beaches provide gentle waves, warm instructors, and family-friendly surf schools with all equipment included.',
+    descriptionEs: 'Aprende a surfear en la costa del Pacífico de Perú, que ofrece olas consistentes perfectas para principiantes. Las playas de Miraflores y Huanchaco proporcionan olas suaves, instructores cálidos y escuelas de surf familiares con todo el equipo incluido.',
+    whatToExpect: '1-2 hour lessons including beach safety, paddling practice, and standing on the board. Wetsuits and boards provided. Most kids can stand up by end of first lesson.',
+    whatToExpectEs: 'Lecciones de 1-2 horas incluyendo seguridad en la playa, práctica de remo y pararse en la tabla. Trajes de neopreno y tablas proporcionados. La mayoría de los niños pueden pararse al final de la primera lección.',
+    highlights: [
+      'Beginner-friendly waves',
+      'All equipment provided',
+      'Patient bilingual instructors',
+      'Year-round surfing possible',
+      'Great Peruvian surf culture',
+      'Multiple beach options'
+    ],
+    highlightsEs: [
+      'Olas amigables para principiantes',
+      'Todo el equipo proporcionado',
+      'Instructores bilingües pacientes',
+      'Surf posible todo el año',
+      'Gran cultura de surf peruana',
+      'Múltiples opciones de playa'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '1-2 hours per lesson',
+    durationEs: '1-2 horas por lección',
+    difficulty: 'moderate',
+    priceRange: '$30-60 per lesson',
+    priceRangeEs: '$30-60 por lección',
+    bestTime: 'Year-round. Summer (Dec-Mar) has warmer water. Winter has larger waves.',
+    bestTimeEs: 'Todo el año. Verano (dic-mar) tiene agua más cálida. Invierno tiene olas más grandes.',
+    includes: [
+      'Surfboard',
+      'Wetsuit',
+      'Instructor',
+      'Safety briefing',
+      'Beach access',
+      'Sometimes photos/video'
+    ],
+    includesEs: [
+      'Tabla de surf',
+      'Traje de neopreno',
+      'Instructor',
+      'Instrucciones de seguridad',
+      'Acceso a la playa',
+      'A veces fotos/video'
+    ],
+    tips: [
+      'Book morning lessons for calmer water',
+      'Apply reef-safe sunscreen before',
+      'Eat light meal 1-2 hours before',
+      'Huanchaco great for beginners',
+      'Lima Miraflores very convenient',
+      'Kids often learn faster than adults!'
+    ],
+    tipsEs: [
+      'Reserva lecciones matutinas para agua más tranquila',
+      'Aplica bloqueador solar reef-safe antes',
+      'Come comida ligera 1-2 horas antes',
+      'Huanchaco genial para principiantes',
+      'Lima Miraflores muy conveniente',
+      '¡Los niños a menudo aprenden más rápido que los adultos!'
+    ],
+    safetyNotes: [
+      'Always surf with instructor supervision',
+      'Learn rip current awareness',
+      'Proper warm-up prevents injuries',
+      'Stay in designated areas'
+    ],
+    safetyNotesEs: [
+      'Siempre surfea con supervisión del instructor',
+      'Aprende sobre corrientes de resaca',
+      'Calentamiento adecuado previene lesiones',
+      'Mantente en áreas designadas'
+    ],
+    relatedActivities: ['stand-up-paddleboarding', 'beach-day', 'kayaking'],
+    providers: [
+      { name: 'Pukana Surf', familyFriendly: true },
+      { name: 'Larcomar Surf School', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pisco-tasting-tour',
+    name: 'Pisco Vineyard & Tasting Tour',
+    nameEs: 'Tour de Viñedos y Degustación de Pisco',
+    type: 'culinary',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Visit historic pisco distilleries and vineyards in Peru\'s wine country. Learn how Peru\'s national spirit is made, from grape to bottle. Many bodegas offer grape juice for kids and family-friendly tours of the traditional production process.',
+    descriptionEs: 'Visita destilerías históricas de pisco y viñedos en la región vinícola de Perú. Aprende cómo se hace el licor nacional de Perú, desde la uva hasta la botella. Muchas bodegas ofrecen jugo de uva para niños y tours familiares del proceso tradicional de producción.',
+    whatToExpect: 'Tour historic haciendas, see copper stills, learn about grape varieties, and taste different pisco styles. Kids enjoy seeing the process and often get grape juice tastings. Many bodegas have gardens and peacocks.',
+    whatToExpectEs: 'Recorre haciendas históricas, ve alambiques de cobre, aprende sobre variedades de uva y prueba diferentes estilos de pisco. Los niños disfrutan viendo el proceso y a menudo reciben degustaciones de jugo de uva. Muchas bodegas tienen jardines y pavorreales.',
+    highlights: [
+      'Historic hacienda settings',
+      'Traditional copper stills',
+      'Grape juice for kids',
+      'Pisco sour demonstration',
+      'Beautiful vineyard scenery',
+      'Cultural education'
+    ],
+    highlightsEs: [
+      'Entornos de haciendas históricas',
+      'Alambiques de cobre tradicionales',
+      'Jugo de uva para niños',
+      'Demostración de pisco sour',
+      'Hermoso paisaje de viñedos',
+      'Educación cultural'
+    ],
+    familyRating: 4,
+    minAge: 3,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$10-30 per person',
+    priceRangeEs: '$10-30 por persona',
+    bestTime: 'March (harvest season) is most exciting. Year-round visits possible.',
+    bestTimeEs: 'Marzo (temporada de cosecha) es más emocionante. Visitas posibles todo el año.',
+    includes: [
+      'Guided tour',
+      'Pisco tastings (adults)',
+      'Grape juice (kids)',
+      'History presentation',
+      'Garden access',
+      'Sometimes lunch options'
+    ],
+    includesEs: [
+      'Tour guiado',
+      'Degustaciones de pisco (adultos)',
+      'Jugo de uva (niños)',
+      'Presentación histórica',
+      'Acceso al jardín',
+      'A veces opciones de almuerzo'
+    ],
+    tips: [
+      'Combine with Huacachina sandboarding',
+      'Vendimia festival in March is amazing',
+      'Tacama and Vista Alegre are family-friendly',
+      'Book ahead for harvest season',
+      'Don\'t drink and drive - use tour',
+      'Kids love the peacocks at some bodegas'
+    ],
+    tipsEs: [
+      'Combina con sandboarding en Huacachina',
+      'El festival de Vendimia en marzo es increíble',
+      'Tacama y Vista Alegre son familiares',
+      'Reserva con anticipación para temporada de cosecha',
+      'No bebas y conduzcas - usa tour',
+      'A los niños les encantan los pavorreales en algunas bodegas'
+    ],
+    safetyNotes: [
+      'Adults only for alcohol tasting',
+      'Designated driver or tour recommended',
+      'Stay on marked paths in vineyards',
+      'Sun protection in outdoor areas'
+    ],
+    safetyNotesEs: [
+      'Solo adultos para degustación de alcohol',
+      'Conductor designado o tour recomendado',
+      'Mantente en senderos marcados en viñedos',
+      'Protección solar en áreas exteriores'
+    ],
+    relatedActivities: ['sandboarding-huacachina', 'peruvian-cooking-class', 'wine-tasting'],
+    providers: [
+      { name: 'Tacama Winery', familyFriendly: true },
+      { name: 'Vista Alegre', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'textile-weaving-workshop',
+    name: 'Traditional Textile Weaving Workshop',
+    nameEs: 'Taller de Tejido Tradicional',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn the ancient art of Andean textile weaving from master weavers in Cusco or Sacred Valley communities. Discover how natural dyes are made from plants and insects, and try weaving on a traditional backstrap loom.',
+    descriptionEs: 'Aprende el arte antiguo del tejido textil andino de maestras tejedoras en comunidades de Cusco o el Valle Sagrado. Descubre cómo se hacen los tintes naturales de plantas e insectos, e intenta tejer en un telar de cintura tradicional.',
+    whatToExpect: 'Interactive workshops where you learn about natural dyes (cochineal, plants), spinning wool, and basic weaving techniques. Take home a small woven piece. Incredible for understanding Andean culture.',
+    whatToExpectEs: 'Talleres interactivos donde aprendes sobre tintes naturales (cochinilla, plantas), hilado de lana y técnicas básicas de tejido. Llévate a casa una pequeña pieza tejida. Increíble para entender la cultura andina.',
+    highlights: [
+      'Learn from master weavers',
+      'Natural dye demonstration',
+      'Try backstrap loom weaving',
+      'Take home your creation',
+      'Support local communities',
+      'Understand textile symbolism'
+    ],
+    highlightsEs: [
+      'Aprende de maestras tejedoras',
+      'Demostración de tintes naturales',
+      'Intenta tejer en telar de cintura',
+      'Llévate tu creación a casa',
+      'Apoya a comunidades locales',
+      'Entiende el simbolismo textil'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-4 hours',
+    durationEs: '2-4 horas',
+    difficulty: 'easy',
+    priceRange: '$20-60 per person',
+    priceRangeEs: '$20-60 por persona',
+    bestTime: 'Year-round. Mornings when weavers are freshest.',
+    bestTimeEs: 'Todo el año. Mañanas cuando las tejedoras están más frescas.',
+    includes: [
+      'All materials',
+      'Expert instruction',
+      'Natural dye demonstration',
+      'Small woven item to keep',
+      'Community visit',
+      'Often includes tea/snack'
+    ],
+    includesEs: [
+      'Todos los materiales',
+      'Instrucción experta',
+      'Demostración de tintes naturales',
+      'Pequeño artículo tejido para llevarse',
+      'Visita a la comunidad',
+      'A menudo incluye té/bocadillo'
+    ],
+    tips: [
+      'Chinchero has famous weaving tradition',
+      'Kids love the cochineal bug dye demo',
+      'Buying textiles supports families directly',
+      'Ask about symbols and meanings',
+      'Great rainy day activity',
+      'Photos usually welcome'
+    ],
+    tipsEs: [
+      'Chinchero tiene famosa tradición de tejido',
+      'A los niños les encanta la demostración de tinte de cochinilla',
+      'Comprar textiles apoya directamente a las familias',
+      'Pregunta sobre símbolos y significados',
+      'Gran actividad para día lluvioso',
+      'Fotos usualmente bienvenidas'
+    ],
+    safetyNotes: [
+      'Very safe activity',
+      'Supervision for young children with tools',
+      'Some dyes may stain clothing',
+      'Altitude considerations in highlands'
+    ],
+    safetyNotesEs: [
+      'Actividad muy segura',
+      'Supervisión para niños pequeños con herramientas',
+      'Algunos tintes pueden manchar la ropa',
+      'Consideraciones de altitud en tierras altas'
+    ],
+    relatedActivities: ['pottery-class', 'peruvian-cooking-class', 'community-visit'],
+    providers: [
+      { name: 'Centro de Textiles Tradicionales', familyFriendly: true },
+      { name: 'Chinchero weaving cooperatives', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lake-titicaca-kayaking',
+    name: 'Lake Titicaca Kayaking',
+    nameEs: 'Kayak en el Lago Titicaca',
+    type: 'adventure',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Paddle across the world\'s highest navigable lake in a kayak, exploring the famous floating Uros islands and pristine waters with stunning Andean mountain views. A unique perspective on Lake Titicaca away from motorboat crowds.',
+    descriptionEs: 'Rema a través del lago navegable más alto del mundo en kayak, explorando las famosas islas flotantes de los Uros y aguas prístinas con impresionantes vistas de montañas andinas. Una perspectiva única del Lago Titicaca lejos de las multitudes de lanchas.',
+    whatToExpect: 'Half-day or full-day kayaking tours. Paddle to Uros floating islands, glide past totora reeds, and enjoy the high-altitude adventure. Guides provide instruction and ensure safety. Double kayaks available for families.',
+    whatToExpectEs: 'Tours de kayak de medio día o día completo. Rema hacia las islas flotantes de los Uros, deslízate junto a totoras y disfruta la aventura de alta altitud. Los guías proporcionan instrucción y aseguran la seguridad. Kayaks dobles disponibles para familias.',
+    highlights: [
+      'World\'s highest navigable lake',
+      'Visit Uros floating islands by kayak',
+      'Stunning Andean scenery',
+      'Peaceful alternative to boats',
+      'Wildlife spotting opportunities',
+      'Unique adventure experience'
+    ],
+    highlightsEs: [
+      'Lago navegable más alto del mundo',
+      'Visita islas flotantes Uros en kayak',
+      'Impresionante paisaje andino',
+      'Alternativa pacífica a las lanchas',
+      'Oportunidades de avistamiento de fauna',
+      'Experiencia de aventura única'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '3-6 hours',
+    durationEs: '3-6 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'April to October (dry season) for calmest waters',
+    bestTimeEs: 'Abril a octubre (temporada seca) para aguas más tranquilas',
+    includes: [
+      'Kayak and paddle',
+      'Life jacket',
+      'Waterproof bags',
+      'Experienced guide',
+      'Snacks/lunch on longer tours',
+      'Hotel pickup (some operators)'
+    ],
+    includesEs: [
+      'Kayak y remo',
+      'Chaleco salvavidas',
+      'Bolsas impermeables',
+      'Guía experimentado',
+      'Bocadillos/almuerzo en tours más largos',
+      'Recogida en hotel (algunos operadores)'
+    ],
+    tips: [
+      'Acclimate to altitude before kayaking',
+      'Bring layers - weather changes fast',
+      'Sun protection essential at altitude',
+      'Double kayaks great for parent-child',
+      'Morning departures for calmest water',
+      'More intimate than boat tours'
+    ],
+    tipsEs: [
+      'Aclimatarse a la altitud antes de kayak',
+      'Lleva capas - el clima cambia rápido',
+      'Protección solar esencial en altitud',
+      'Kayaks dobles geniales para padre-hijo',
+      'Salidas matutinas para agua más tranquila',
+      'Más íntimo que tours en lancha'
+    ],
+    safetyNotes: [
+      'Life jackets mandatory',
+      'Altitude affects exertion - pace yourself',
+      'Stay with group at all times',
+      'Weather can change rapidly',
+      'Swimming not recommended (very cold)'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas obligatorios',
+      'La altitud afecta el esfuerzo - tómatelo con calma',
+      'Mantente con el grupo en todo momento',
+      'El clima puede cambiar rápidamente',
+      'Nadar no recomendado (muy frío)'
+    ],
+    relatedActivities: ['stand-up-paddleboarding', 'uros-islands-tour', 'amantani-homestay'],
+    providers: [
+      { name: 'Titicaca Peru Expeditions', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'paragliding-lima',
+    name: 'Lima Coastal Paragliding',
+    nameEs: 'Parapente Costero en Lima',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Soar above Lima\'s dramatic coastal cliffs on a tandem paragliding flight over Miraflores. No experience needed - just sit back and enjoy spectacular views of the Pacific Ocean, Lima\'s skyline, and the famous Costa Verde cliffs.',
+    descriptionEs: 'Vuela sobre los dramáticos acantilados costeros de Lima en un vuelo de parapente en tándem sobre Miraflores. No se necesita experiencia - solo siéntate y disfruta de espectaculares vistas del Océano Pacífico, el horizonte de Lima y los famosos acantilados de la Costa Verde.',
+    whatToExpect: '10-15 minute tandem flights with certified pilots. Launch from Miraflores clifftop parks, glide along the coast, and land on the beach or park. Photos and videos usually included.',
+    whatToExpectEs: 'Vuelos en tándem de 10-15 minutos con pilotos certificados. Despega desde los parques en los acantilados de Miraflores, planea a lo largo de la costa y aterriza en la playa o parque. Fotos y videos usualmente incluidos.',
+    highlights: [
+      'Tandem flight - no experience needed',
+      'Stunning Pacific Ocean views',
+      'Fly along Costa Verde cliffs',
+      'Photos/videos included',
+      'Year-round flying conditions',
+      'Unique Lima perspective'
+    ],
+    highlightsEs: [
+      'Vuelo en tándem - no se necesita experiencia',
+      'Impresionantes vistas del Océano Pacífico',
+      'Vuela a lo largo de acantilados de Costa Verde',
+      'Fotos/videos incluidos',
+      'Condiciones de vuelo todo el año',
+      'Perspectiva única de Lima'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '10-15 minutes flight (1 hour total)',
+    durationEs: '10-15 minutos de vuelo (1 hora total)',
+    difficulty: 'easy',
+    priceRange: '$70-100 per flight',
+    priceRangeEs: '$70-100 por vuelo',
+    bestTime: 'Year-round. Best conditions October-April. Afternoon thermals.',
+    bestTimeEs: 'Todo el año. Mejores condiciones octubre-abril. Térmicas de la tarde.',
+    includes: [
+      'Tandem pilot',
+      'All equipment',
+      'Safety briefing',
+      'Photos/video',
+      'Insurance',
+      'Beach/park landing'
+    ],
+    includesEs: [
+      'Piloto tándem',
+      'Todo el equipo',
+      'Instrucciones de seguridad',
+      'Fotos/video',
+      'Seguro',
+      'Aterrizaje en playa/parque'
+    ],
+    tips: [
+      'Book online - operators at park can overcharge',
+      'Wear closed-toe shoes',
+      'Sunglasses recommended',
+      'Dress in layers - cooler in air',
+      'Great for older kids and teens',
+      'Easily combined with Miraflores sightseeing'
+    ],
+    tipsEs: [
+      'Reserva online - operadores en el parque pueden cobrar de más',
+      'Usa zapatos cerrados',
+      'Lentes de sol recomendados',
+      'Viste en capas - más frío en el aire',
+      'Genial para niños mayores y adolescentes',
+      'Fácil de combinar con turismo en Miraflores'
+    ],
+    safetyNotes: [
+      'Only fly with licensed operators',
+      'Weather can cancel flights',
+      'Weight limits apply (usually 90-100kg)',
+      'Not recommended for severe fear of heights'
+    ],
+    safetyNotesEs: [
+      'Solo vuela con operadores licenciados',
+      'El clima puede cancelar vuelos',
+      'Aplican límites de peso (usualmente 90-100kg)',
+      'No recomendado para miedo severo a las alturas'
+    ],
+    relatedActivities: ['surfing-lessons', 'zip-line-sacred-valley', 'sandboarding-huacachina'],
+    providers: [
+      { name: 'Peru Fly', familyFriendly: true },
+      { name: 'Aeroxtreme', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'mountain-biking-sacred-valley',
+    name: 'Sacred Valley Mountain Biking',
+    nameEs: 'Ciclismo de Montaña en el Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Ride through the spectacular Sacred Valley on mountain bikes, passing Inca ruins, traditional villages, and stunning Andean landscapes. Routes range from gentle downhill rides to challenging single-track trails for all skill levels.',
+    descriptionEs: 'Recorre el espectacular Valle Sagrado en bicicletas de montaña, pasando ruinas Incas, pueblos tradicionales e impresionantes paisajes andinos. Las rutas van desde paseos suaves en descenso hasta senderos de single-track desafiantes para todos los niveles.',
+    whatToExpect: 'Half-day or full-day guided rides. Most popular is Maras-Moray route (mostly downhill). Quality bikes, helmets, and support vehicle provided. Lunch at local restaurant often included.',
+    whatToExpectEs: 'Paseos guiados de medio día o día completo. La más popular es la ruta Maras-Moray (mayormente en descenso). Bicicletas de calidad, cascos y vehículo de apoyo proporcionados. Almuerzo en restaurante local frecuentemente incluido.',
+    highlights: [
+      'Stunning Sacred Valley scenery',
+      'Visit Maras salt mines by bike',
+      'Moray circular terraces',
+      'Downhill options for beginners',
+      'Traditional village encounters',
+      'Quality bikes and gear'
+    ],
+    highlightsEs: [
+      'Impresionante paisaje del Valle Sagrado',
+      'Visita las salinas de Maras en bicicleta',
+      'Terrazas circulares de Moray',
+      'Opciones de descenso para principiantes',
+      'Encuentros con pueblos tradicionales',
+      'Bicicletas y equipo de calidad'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-8 hours',
+    durationEs: '4-8 horas',
+    difficulty: 'moderate',
+    priceRange: '$60-150 per person',
+    priceRangeEs: '$60-150 por persona',
+    bestTime: 'April to October (dry season) for best trail conditions',
+    bestTimeEs: 'Abril a octubre (temporada seca) para mejores condiciones de sendero',
+    includes: [
+      'Quality mountain bike',
+      'Helmet and gloves',
+      'Professional guide',
+      'Support vehicle',
+      'Lunch (full day)',
+      'Entrance fees'
+    ],
+    includesEs: [
+      'Bicicleta de montaña de calidad',
+      'Casco y guantes',
+      'Guía profesional',
+      'Vehículo de apoyo',
+      'Almuerzo (día completo)',
+      'Entradas'
+    ],
+    tips: [
+      'Maras-Moray is best for families',
+      'Mostly downhill - manageable for kids 8+',
+      'Altitude affects stamina - pace yourself',
+      'Wear layers - weather changes',
+      'Sunscreen and sunglasses essential',
+      'Book with reputable company'
+    ],
+    tipsEs: [
+      'Maras-Moray es mejor para familias',
+      'Mayormente en bajada - manejable para niños 8+',
+      'La altitud afecta la resistencia - tómatelo con calma',
+      'Usa capas - el clima cambia',
+      'Bloqueador solar y lentes esenciales',
+      'Reserva con compañía de buena reputación'
+    ],
+    safetyNotes: [
+      'Helmets mandatory',
+      'Follow guide instructions',
+      'Support vehicle for emergencies',
+      'Altitude affects performance'
+    ],
+    safetyNotesEs: [
+      'Cascos obligatorios',
+      'Sigue instrucciones del guía',
+      'Vehículo de apoyo para emergencias',
+      'La altitud afecta el rendimiento'
+    ],
+    relatedActivities: ['horseback-riding-sacred-valley', 'zip-line-sacred-valley', 'atv-tour'],
+    providers: [
+      { name: 'Gravity Peru', familyFriendly: true },
+      { name: 'Sacred Rides', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'market-tour-cusco',
+    name: 'Cusco Market Food Tour',
+    nameEs: 'Tour Gastronómico del Mercado de Cusco',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the vibrant San Pedro Market with a local guide, tasting exotic fruits, fresh juices, local cheeses, and traditional dishes. Learn about Andean ingredients, bargain for souvenirs, and enjoy the sensory explosion of Peru\'s largest traditional market.',
+    descriptionEs: 'Explora el vibrante Mercado San Pedro con un guía local, probando frutas exóticas, jugos frescos, quesos locales y platos tradicionales. Aprende sobre ingredientes andinos, regatea por souvenirs y disfruta la explosión sensorial del mercado tradicional más grande de Perú.',
+    whatToExpect: '2-3 hour guided tours through market sections. Taste 10-15 different foods and drinks. Learn about ingredients, cooking methods, and Andean culture. Great for adventurous eaters!',
+    whatToExpectEs: 'Tours guiados de 2-3 horas a través de secciones del mercado. Prueba 10-15 diferentes comidas y bebidas. Aprende sobre ingredientes, métodos de cocina y cultura andina. ¡Genial para comensales aventureros!',
+    highlights: [
+      'San Pedro Market exploration',
+      '10+ food tastings included',
+      'Exotic fruits and juices',
+      'Traditional Andean dishes',
+      'Local guide insights',
+      'Shopping tips and bargaining'
+    ],
+    highlightsEs: [
+      'Exploración del Mercado San Pedro',
+      '10+ degustaciones incluidas',
+      'Frutas exóticas y jugos',
+      'Platos tradicionales andinos',
+      'Conocimientos del guía local',
+      'Tips de compras y regateo'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Morning (8-11am) when market is busiest and freshest',
+    bestTimeEs: 'Mañana (8-11am) cuando el mercado está más lleno y fresco',
+    includes: [
+      'Local expert guide',
+      '10+ food tastings',
+      'Fresh juice samples',
+      'Market navigation',
+      'Cultural explanations',
+      'Shopping assistance'
+    ],
+    includesEs: [
+      'Guía local experto',
+      '10+ degustaciones de comida',
+      'Muestras de jugos frescos',
+      'Navegación del mercado',
+      'Explicaciones culturales',
+      'Asistencia de compras'
+    ],
+    tips: [
+      'Come hungry!',
+      'Try lucuma and chirimoya fruits',
+      'Fresh juices are incredible',
+      'Kids love trying new things',
+      'Bring small bills for shopping',
+      'Perfect morning activity'
+    ],
+    tipsEs: [
+      '¡Ven con hambre!',
+      'Prueba frutas lucuma y chirimoya',
+      'Los jugos frescos son increíbles',
+      'A los niños les encanta probar cosas nuevas',
+      'Lleva billetes pequeños para compras',
+      'Actividad perfecta para la mañana'
+    ],
+    safetyNotes: [
+      'Stay with guide in crowded areas',
+      'Watch belongings',
+      'Inform guide of food allergies',
+      'Eat only what guide recommends'
+    ],
+    safetyNotesEs: [
+      'Mantente con el guía en áreas llenas',
+      'Cuida tus pertenencias',
+      'Informa al guía de alergias alimentarias',
+      'Come solo lo que el guía recomienda'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'chocolate-making', 'pisco-tasting-tour'],
+    providers: [
+      { name: 'Cusco Food Tours', familyFriendly: true },
+      { name: 'Flavors of Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pottery-class-cusco',
+    name: 'Traditional Pottery Workshop',
+    nameEs: 'Taller de Cerámica Tradicional',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn the ancient art of Andean pottery from master ceramicists in Cusco or nearby villages like Raqchi. Work with clay using traditional techniques, create your own piece, and understand the symbolism in Inca and pre-Inca ceramic traditions.',
+    descriptionEs: 'Aprende el arte antiguo de la cerámica andina de maestros ceramistas en Cusco o pueblos cercanos como Raqchi. Trabaja con arcilla usando técnicas tradicionales, crea tu propia pieza y entiende el simbolismo en las tradiciones cerámicas Inca y pre-Inca.',
+    whatToExpect: 'Hands-on workshop learning to shape clay, understand Andean symbols, and create functional or decorative pieces. Take home your creation (dried or arrange shipping for fired pieces).',
+    whatToExpectEs: 'Taller práctico aprendiendo a dar forma a la arcilla, entender símbolos andinos y crear piezas funcionales o decorativas. Llévate tu creación a casa (seca o coordina envío para piezas cocidas).',
+    highlights: [
+      'Learn from master potters',
+      'Hands-on clay work',
+      'Understand Andean symbols',
+      'Create your own piece',
+      'Traditional techniques',
+      'Take home your work'
+    ],
+    highlightsEs: [
+      'Aprende de maestros alfareros',
+      'Trabajo práctico con arcilla',
+      'Entiende símbolos andinos',
+      'Crea tu propia pieza',
+      'Técnicas tradicionales',
+      'Llévate tu trabajo a casa'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$20-50 per person',
+    priceRangeEs: '$20-50 por persona',
+    bestTime: 'Year-round. Book in advance.',
+    bestTimeEs: 'Todo el año. Reserva con anticipación.',
+    includes: [
+      'All materials',
+      'Expert instruction',
+      'History and culture lesson',
+      'Your finished piece',
+      'Often includes tea/snack',
+      'Protective apron'
+    ],
+    includesEs: [
+      'Todos los materiales',
+      'Instrucción experta',
+      'Lección de historia y cultura',
+      'Tu pieza terminada',
+      'A menudo incluye té/bocadillo',
+      'Delantal protector'
+    ],
+    tips: [
+      'Wear old clothes - clay is messy',
+      'Kids absolutely love this activity',
+      'No artistic skill needed',
+      'Raqchi village is famous for pottery',
+      'Great rainy day activity',
+      'Book small group for best experience'
+    ],
+    tipsEs: [
+      'Usa ropa vieja - la arcilla ensucia',
+      'A los niños absolutamente les encanta esta actividad',
+      'No se necesita habilidad artística',
+      'El pueblo de Raqchi es famoso por su cerámica',
+      'Gran actividad para día lluvioso',
+      'Reserva grupo pequeño para mejor experiencia'
+    ],
+    safetyNotes: [
+      'Very safe activity',
+      'Supervision for young children',
+      'Wash hands after',
+      'Clay is non-toxic'
+    ],
+    safetyNotesEs: [
+      'Actividad muy segura',
+      'Supervisión para niños pequeños',
+      'Lávate las manos después',
+      'La arcilla no es tóxica'
+    ],
+    relatedActivities: ['textile-weaving-workshop', 'peruvian-cooking-class', 'chocolate-making'],
+    providers: [
+      { name: 'Pablo Seminario Workshop', familyFriendly: true },
+      { name: 'Raqchi community workshops', familyFriendly: true }
+    ]
   }
 ];
 

@@ -1389,6 +1389,912 @@ export const festivals: Festival[] = [
     practicalInfo: 'August 30 is a national holiday. Sanctuary in central Lima\'s historic center. The well tradition involves writing wishes on paper and dropping them in. Lines can be long.',
     practicalInfoEs: 'El 30 de agosto es feriado nacional. El santuario está en el centro histórico de Lima. La tradición del pozo involucra escribir deseos en papel y dejarlos caer. Las colas pueden ser largas.',
     relatedFestivals: ['senor-de-los-milagros', 'semana-santa-ayacucho']
+  },
+  {
+    slug: 'senor-de-los-milagros',
+    name: 'Señor de los Milagros',
+    nameEs: 'Señor de los Milagros',
+    date: 'October (multiple processions)',
+    dateEs: 'Octubre (múltiples procesiones)',
+    month: 10,
+    duration: 'Throughout October, main procession Oct 18-28',
+    durationEs: 'Durante todo octubre, procesión principal 18-28 oct',
+    city: 'lima',
+    region: 'Lima Region (national)',
+    regionEs: 'Región Lima (nacional)',
+    description: 'The largest religious procession in South America draws millions of purple-clad devotees to honor the Lord of Miracles. Lima transforms as the massive painting of Christ is carried through the streets for hours.',
+    descriptionEs: 'La procesión religiosa más grande de Sudamérica atrae millones de devotos vestidos de morado para honrar al Señor de los Milagros. Lima se transforma mientras la enorme pintura de Cristo es llevada por las calles durante horas.',
+    history: 'In 1655, an enslaved Angolan man painted an image of Christ on a wall in Pachacamilla. When a massive earthquake destroyed Lima in 1746, the wall miraculously survived. The painting has been venerated ever since and is Peru\'s most important religious icon.',
+    historyEs: 'En 1655, un hombre esclavizado de Angola pintó una imagen de Cristo en una pared en Pachacamilla. Cuando un terremoto masivo destruyó Lima en 1746, la pared milagrosamente sobrevivió. La pintura ha sido venerada desde entonces y es el icono religioso más importante de Perú.',
+    highlights: [
+      'Largest procession in South America',
+      'Sea of purple-clad devotees',
+      'Massive painting carried through streets',
+      'Traditional purple habit wearing',
+      'Turrón de Doña Pepa sweets',
+      'Deep cultural and spiritual experience'
+    ],
+    highlightsEs: [
+      'Procesión más grande de Sudamérica',
+      'Mar de devotos vestidos de morado',
+      'Pintura enorme llevada por las calles',
+      'Uso del hábito morado tradicional',
+      'Dulces turrón de Doña Pepa',
+      'Experiencia cultural y espiritual profunda'
+    ],
+    activities: [
+      'Watch the main procession',
+      'Try turrón de Doña Pepa',
+      'Visit Las Nazarenas church',
+      'See Lima in purple',
+      'Join in devotion',
+      'Experience true Lima culture'
+    ],
+    activitiesEs: [
+      'Ver la procesión principal',
+      'Probar turrón de Doña Pepa',
+      'Visitar la iglesia Las Nazarenas',
+      'Ver Lima de morado',
+      'Unirse a la devoción',
+      'Experimentar la verdadera cultura limeña'
+    ],
+    familyRating: 4,
+    crowdLevel: 'very high',
+    familyTips: [
+      'Very crowded - hold children\'s hands',
+      'Wear purple to blend in',
+      'Start early for good viewing spots',
+      'Procession moves very slowly',
+      'Bring water and snacks',
+      'Incredible cultural experience',
+      'Turrón de Doña Pepa is delicious',
+      'October 18 and 28 are biggest days'
+    ],
+    familyTipsEs: [
+      'Muy lleno - toma las manos de los niños',
+      'Viste de morado para mezclarte',
+      'Comienza temprano para buenos lugares',
+      'La procesión se mueve muy lento',
+      'Trae agua y snacks',
+      'Experiencia cultural increíble',
+      'El turrón de Doña Pepa es delicioso',
+      'El 18 y 28 de octubre son los días más grandes'
+    ],
+    whatToWear: 'Purple clothing is traditional. Comfortable walking shoes essential.',
+    whatToWearEs: 'La ropa morada es tradicional. Zapatos cómodos para caminar esenciales.',
+    foodToTry: [
+      'Turrón de Doña Pepa (iconic festival sweet)',
+      'Mazamorra morada',
+      'Picarones',
+      'Anticuchos',
+      'Purple corn drinks',
+      'Street food vendors everywhere'
+    ],
+    foodToTryEs: [
+      'Turrón de Doña Pepa (dulce icónico del festival)',
+      'Mazamorra morada',
+      'Picarones',
+      'Anticuchos',
+      'Bebidas de maíz morado',
+      'Vendedores de comida callejera en todas partes'
+    ],
+    practicalInfo: 'Main processions October 18 and 28. Central Lima streets closed. Very crowded - plan transportation carefully. Las Nazarenas church is the home of the image.',
+    practicalInfoEs: 'Procesiones principales el 18 y 28 de octubre. Calles del centro de Lima cerradas. Muy lleno - planifica el transporte cuidadosamente. La iglesia Las Nazarenas es el hogar de la imagen.',
+    relatedFestivals: ['santa-rosa-de-lima', 'semana-santa-ayacucho']
+  },
+  {
+    slug: 'vendimia-ica',
+    name: 'Vendimia Wine Harvest Festival',
+    nameEs: 'Festival de la Vendimia',
+    date: 'Early March',
+    dateEs: 'Principios de marzo',
+    month: 3,
+    duration: '1 week',
+    durationEs: '1 semana',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Celebrate Peru\'s wine and pisco harvest with grape stomping, beauty queens, folk dancing, and free-flowing pisco. This joyful festival showcases Ica\'s viticultural heritage with parades, concerts, and vineyard tours.',
+    descriptionEs: 'Celebra la cosecha de vino y pisco de Perú con pisado de uvas, reinas de belleza, bailes folclóricos y pisco a raudales. Este alegre festival muestra la herencia vitícola de Ica con desfiles, conciertos y tours de viñedos.',
+    history: 'The Vendimia dates back to the 1950s, celebrating Ica\'s position as Peru\'s wine and pisco heartland. Spanish missionaries planted the first vines here in the 1560s, and the region has produced wine and pisco ever since.',
+    historyEs: 'La Vendimia data de los años 1950, celebrando la posición de Ica como el corazón del vino y pisco de Perú. Los misioneros españoles plantaron las primeras vides aquí en la década de 1560, y la región ha producido vino y pisco desde entonces.',
+    highlights: [
+      'Traditional grape stomping',
+      'Pisco and wine tastings',
+      'Beauty queen coronation',
+      'Folk music and marinera dancing',
+      'Vineyard tours',
+      'Street parades and floats'
+    ],
+    highlightsEs: [
+      'Pisado de uvas tradicional',
+      'Degustaciones de pisco y vino',
+      'Coronación de la reina de belleza',
+      'Música folclórica y baile de marinera',
+      'Tours de viñedos',
+      'Desfiles callejeros y carrozas'
+    ],
+    activities: [
+      'Stomp grapes the traditional way',
+      'Tour pisco bodegas',
+      'Watch the parade',
+      'See marinera dance performances',
+      'Enjoy live music concerts',
+      'Sample local wines and piscos'
+    ],
+    activitiesEs: [
+      'Pisar uvas de la manera tradicional',
+      'Tour por bodegas de pisco',
+      'Ver el desfile',
+      'Ver presentaciones de marinera',
+      'Disfrutar de conciertos en vivo',
+      'Probar vinos y piscos locales'
+    ],
+    familyRating: 4,
+    crowdLevel: 'high',
+    familyTips: [
+      'Kids can participate in grape stomping!',
+      'Juice tastings available for children',
+      'Parades are colorful and fun for all',
+      'Book hotels far in advance',
+      'Hot weather - bring sun protection',
+      'Combine with Huacachina sandboarding',
+      'Great cultural experience',
+      'Try virgin pisco sour (no alcohol)'
+    ],
+    familyTipsEs: [
+      '¡Los niños pueden participar en el pisado de uvas!',
+      'Degustaciones de jugo disponibles para niños',
+      'Los desfiles son coloridos y divertidos para todos',
+      'Reserva hoteles con mucha anticipación',
+      'Clima caliente - trae protección solar',
+      'Combina con sandboard en Huacachina',
+      'Gran experiencia cultural',
+      'Prueba pisco sour virgen (sin alcohol)'
+    ],
+    whatToWear: 'Light summer clothes. Hat and sunscreen essential. Comfortable shoes for walking.',
+    whatToWearEs: 'Ropa ligera de verano. Sombrero y protector solar esenciales. Zapatos cómodos para caminar.',
+    foodToTry: [
+      'Fresh pisco and wine',
+      'Tejas (local sweets)',
+      'Chocotejas (chocolate-covered treats)',
+      'Pallares (lima beans)',
+      'Carapulcra',
+      'Fresh grape juice'
+    ],
+    foodToTryEs: [
+      'Pisco y vino frescos',
+      'Tejas (dulces locales)',
+      'Chocotejas (dulces cubiertos de chocolate)',
+      'Pallares',
+      'Carapulcra',
+      'Jugo de uva fresco'
+    ],
+    practicalInfo: 'Usually first or second week of March. Hotels fill up fast - book early. Main events in Ica city and at bodegas. Hot summer weather.',
+    practicalInfoEs: 'Usualmente primera o segunda semana de marzo. Los hoteles se llenan rápido - reserva temprano. Eventos principales en la ciudad de Ica y en bodegas. Clima caliente de verano.',
+    relatedFestivals: ['fiestas-patrias', 'carnaval-cajamarca']
+  },
+  {
+    slug: 'concurso-marinera',
+    name: 'Marinera Dance Festival',
+    nameEs: 'Concurso Nacional de Marinera',
+    date: 'Late January',
+    dateEs: 'Finales de enero',
+    month: 1,
+    duration: '1 week',
+    durationEs: '1 semana',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Peru\'s most elegant dance comes alive in Trujillo with the national Marinera competition. Watch hundreds of couples perform this graceful courtship dance, featuring handkerchief twirling, fancy footwork, and elaborate costumes.',
+    descriptionEs: 'El baile más elegante de Perú cobra vida en Trujillo con el concurso nacional de Marinera. Observa cientos de parejas realizar este elegante baile de cortejo, con pañuelos girando, trabajo de pies elaborado y trajes sofisticados.',
+    history: 'The Marinera evolved from Spanish, African, and indigenous dance traditions. Declared Peru\'s national dance in 1986, the Trujillo competition has been held since 1960 and is the most prestigious dance event in the country.',
+    historyEs: 'La Marinera evolucionó de tradiciones de danza españolas, africanas e indígenas. Declarada baile nacional de Perú en 1986, el concurso de Trujillo se ha celebrado desde 1960 y es el evento de danza más prestigioso del país.',
+    highlights: [
+      'National dance competition',
+      'Elegant costumes and footwork',
+      'Multiple age categories',
+      'Children\'s performances',
+      'Live orchestra music',
+      'Grace and elegance on display'
+    ],
+    highlightsEs: [
+      'Concurso nacional de danza',
+      'Trajes elegantes y trabajo de pies',
+      'Múltiples categorías de edad',
+      'Presentaciones de niños',
+      'Música de orquesta en vivo',
+      'Gracia y elegancia en exhibición'
+    ],
+    activities: [
+      'Watch competition finals',
+      'See children\'s categories',
+      'Enjoy street celebrations',
+      'Take a marinera class',
+      'Explore Trujillo\'s culture',
+      'Photography opportunities'
+    ],
+    activitiesEs: [
+      'Ver las finales del concurso',
+      'Ver categorías de niños',
+      'Disfrutar celebraciones callejeras',
+      'Tomar una clase de marinera',
+      'Explorar la cultura de Trujillo',
+      'Oportunidades de fotografía'
+    ],
+    familyRating: 5,
+    crowdLevel: 'moderate',
+    familyTips: [
+      'Children\'s categories are adorable',
+      'Great introduction to Peruvian dance',
+      'Buy tickets in advance for finals',
+      'Kids can take beginner classes',
+      'Elegant and family-appropriate',
+      'Combine with Chan Chan and beaches',
+      'Evening events - plan accordingly',
+      'Beautiful costumes inspire kids'
+    ],
+    familyTipsEs: [
+      'Las categorías de niños son adorables',
+      'Gran introducción a la danza peruana',
+      'Compra boletos con anticipación para las finales',
+      'Los niños pueden tomar clases para principiantes',
+      'Elegante y apropiado para familias',
+      'Combina con Chan Chan y playas',
+      'Eventos nocturnos - planifica acordemente',
+      'Los trajes hermosos inspiran a los niños'
+    ],
+    whatToWear: 'Smart casual for competition viewing. Comfortable for street events.',
+    whatToWearEs: 'Casual elegante para ver el concurso. Cómodo para eventos callejeros.',
+    foodToTry: [
+      'Ceviche trujillano',
+      'Shambar (Monday soup)',
+      'Cabrito a la norteña',
+      'Sopa teóloga',
+      'King kong (layered sweet)',
+      'Chicha de jora'
+    ],
+    foodToTryEs: [
+      'Ceviche trujillano',
+      'Shambar (sopa del lunes)',
+      'Cabrito a la norteña',
+      'Sopa teóloga',
+      'King kong (dulce en capas)',
+      'Chicha de jora'
+    ],
+    practicalInfo: 'Last week of January. Main events at Club Libertad. Book Trujillo hotels early. Competition runs through the week with finals on last weekend.',
+    practicalInfoEs: 'Última semana de enero. Eventos principales en Club Libertad. Reserva hoteles en Trujillo temprano. El concurso dura toda la semana con finales el último fin de semana.',
+    relatedFestivals: ['festival-primavera-trujillo', 'fiestas-patrias']
+  },
+  {
+    slug: 'festival-primavera-trujillo',
+    name: 'Spring Festival Trujillo',
+    nameEs: 'Festival de la Primavera',
+    date: 'Last week of September',
+    dateEs: 'Última semana de septiembre',
+    month: 9,
+    duration: '1 week',
+    durationEs: '1 semana',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Trujillo celebrates spring with elaborate flower-covered floats, beauty queens, and paso horse parades. The City of Eternal Spring lives up to its name with colorful celebrations, marinera dancing, and joyful street parties.',
+    descriptionEs: 'Trujillo celebra la primavera con elaboradas carrozas cubiertas de flores, reinas de belleza y desfiles de caballos de paso. La Ciudad de la Eterna Primavera hace honor a su nombre con coloridas celebraciones, baile de marinera y alegres fiestas callejeras.',
+    history: 'Founded in 1950, the Spring Festival celebrates Trujillo\'s mild climate and rich agricultural heritage. It has grown into one of Peru\'s most colorful celebrations, featuring the famous Peruvian paso horses bred in the region.',
+    historyEs: 'Fundado en 1950, el Festival de la Primavera celebra el clima templado de Trujillo y su rica herencia agrícola. Ha crecido hasta convertirse en una de las celebraciones más coloridas de Perú, presentando los famosos caballos de paso peruanos criados en la región.',
+    highlights: [
+      'Flower-covered parade floats',
+      'Paso horse demonstrations',
+      'Spring Queen coronation',
+      'Marinera performances',
+      'Street parties and concerts',
+      'Colorful costumes and flowers'
+    ],
+    highlightsEs: [
+      'Carrozas del desfile cubiertas de flores',
+      'Demostraciones de caballos de paso',
+      'Coronación de la Reina de la Primavera',
+      'Presentaciones de marinera',
+      'Fiestas callejeras y conciertos',
+      'Trajes coloridos y flores'
+    ],
+    activities: [
+      'Watch the grand corso parade',
+      'See paso horse shows',
+      'Enjoy street festivities',
+      'Visit flower displays',
+      'Dance to live music',
+      'See children\'s parades'
+    ],
+    activitiesEs: [
+      'Ver el gran corso del desfile',
+      'Ver shows de caballos de paso',
+      'Disfrutar festividades callejeras',
+      'Visitar exhibiciones de flores',
+      'Bailar con música en vivo',
+      'Ver desfiles de niños'
+    ],
+    familyRating: 5,
+    crowdLevel: 'high',
+    familyTips: [
+      'Flower floats are spectacular',
+      'Paso horses are gentle and beautiful',
+      'Great for children who love animals',
+      'Arrive early for parade spots',
+      'Pleasant spring weather',
+      'Combine with Chan Chan visit',
+      'Colorful and photogenic',
+      'Less intense than Lima festivals'
+    ],
+    familyTipsEs: [
+      'Las carrozas de flores son espectaculares',
+      'Los caballos de paso son gentiles y hermosos',
+      'Genial para niños que aman los animales',
+      'Llega temprano para lugares del desfile',
+      'Clima agradable de primavera',
+      'Combina con visita a Chan Chan',
+      'Colorido y fotogénico',
+      'Menos intenso que los festivales de Lima'
+    ],
+    whatToWear: 'Light spring clothes. Sun protection for parade watching.',
+    whatToWearEs: 'Ropa ligera de primavera. Protección solar para ver el desfile.',
+    foodToTry: [
+      'Ceviche mixto',
+      'Cabrito con frijoles',
+      'Shambar',
+      'Causa rellena',
+      'King kong sweets',
+      'Fresh fruit drinks'
+    ],
+    foodToTryEs: [
+      'Ceviche mixto',
+      'Cabrito con frijoles',
+      'Shambar',
+      'Causa rellena',
+      'Dulces king kong',
+      'Bebidas de fruta fresca'
+    ],
+    practicalInfo: 'Last week of September. Main parade on Saturday. Hotels book up - reserve early. Good time to combine with archaeological sites.',
+    practicalInfoEs: 'Última semana de septiembre. Desfile principal el sábado. Los hoteles se llenan - reserva temprano. Buen momento para combinar con sitios arqueológicos.',
+    relatedFestivals: ['concurso-marinera', 'vendimia-ica']
+  },
+  {
+    slug: 'carnaval-cajamarca',
+    name: 'Cajamarca Carnival',
+    nameEs: 'Carnaval de Cajamarca',
+    date: 'February (before Lent)',
+    dateEs: 'Febrero (antes de Cuaresma)',
+    month: 2,
+    duration: '1 week',
+    durationEs: '1 semana',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    description: 'Peru\'s most famous carnival fills Cajamarca with water balloon fights, paint throwing, parades, and the ceremonial burial of Ño Carnavalón. This wild celebration attracts visitors from across Peru for uninhibited fun.',
+    descriptionEs: 'El carnaval más famoso de Perú llena Cajamarca con peleas de globos de agua, lanzamiento de pintura, desfiles y el entierro ceremonial de Ño Carnavalón. Esta celebración salvaje atrae visitantes de todo Perú para diversión sin inhibiciones.',
+    history: 'Cajamarca\'s carnival blends Spanish Catholic pre-Lenten traditions with indigenous celebrations. Ño Carnavalón, a carnival king figure, presides over the festivities and is ceremonially "buried" on Ash Wednesday to end the celebration.',
+    historyEs: 'El carnaval de Cajamarca mezcla tradiciones católicas españolas de pre-Cuaresma con celebraciones indígenas. Ño Carnavalón, una figura del rey del carnaval, preside las festividades y es ceremonialmente "enterrado" el Miércoles de Ceniza para terminar la celebración.',
+    highlights: [
+      'Massive water and paint fights',
+      'Ño Carnavalón parade',
+      'Neighborhood competitions',
+      'Traditional dances',
+      'Burial of Ño Carnavalón',
+      'Uninhibited celebration'
+    ],
+    highlightsEs: [
+      'Peleas masivas de agua y pintura',
+      'Desfile de Ño Carnavalón',
+      'Competencias de barrios',
+      'Bailes tradicionales',
+      'Entierro de Ño Carnavalón',
+      'Celebración sin inhibiciones'
+    ],
+    activities: [
+      'Join water balloon battles',
+      'Watch the main parade',
+      'See traditional dances',
+      'Participate in paint fights',
+      'Attend neighborhood parties',
+      'Witness Ño Carnavalón burial'
+    ],
+    activitiesEs: [
+      'Unirse a batallas de globos de agua',
+      'Ver el desfile principal',
+      'Ver bailes tradicionales',
+      'Participar en peleas de pintura',
+      'Asistir a fiestas de barrios',
+      'Presenciar el entierro de Ño Carnavalón'
+    ],
+    familyRating: 4,
+    crowdLevel: 'very high',
+    familyTips: [
+      'YOU WILL GET WET - embrace it!',
+      'Bring waterproof phone case',
+      'Wear clothes you don\'t mind ruining',
+      'Kids absolutely love it',
+      'Store valuables safely at hotel',
+      'Very chaotic but joyful',
+      'Paint washes out - mostly',
+      'Incredible cultural experience'
+    ],
+    familyTipsEs: [
+      '¡TE MOJARÁS - acéptalo!',
+      'Trae funda impermeable para el teléfono',
+      'Viste ropa que no te importe arruinar',
+      'A los niños les encanta absolutamente',
+      'Guarda objetos de valor en el hotel',
+      'Muy caótico pero alegre',
+      'La pintura se quita - mayormente',
+      'Experiencia cultural increíble'
+    ],
+    whatToWear: 'Old clothes that can be ruined. Waterproof phone protection. Closed shoes.',
+    whatToWearEs: 'Ropa vieja que pueda arruinarse. Protección impermeable para teléfono. Zapatos cerrados.',
+    foodToTry: [
+      'Frito cajamarquino',
+      'Chicharrón cajamarquino',
+      'Humitas',
+      'Caldo verde',
+      'Manjar blanco',
+      'Queso mantecoso'
+    ],
+    foodToTryEs: [
+      'Frito cajamarquino',
+      'Chicharrón cajamarquino',
+      'Humitas',
+      'Caldo verde',
+      'Manjar blanco',
+      'Queso mantecoso'
+    ],
+    practicalInfo: 'Date varies yearly (before Lent). Hotels fill up fast - book months ahead. No one is safe from water/paint! Main parade on carnival Sunday.',
+    practicalInfoEs: 'La fecha varía cada año (antes de Cuaresma). Los hoteles se llenan rápido - reserva con meses de anticipación. ¡Nadie está a salvo del agua/pintura! Desfile principal el domingo de carnaval.',
+    relatedFestivals: ['virgen-candelaria', 'vendimia-ica']
+  },
+  {
+    slug: 'semana-santa-ayacucho',
+    name: 'Semana Santa in Ayacucho',
+    nameEs: 'Semana Santa en Ayacucho',
+    date: 'March/April (Holy Week)',
+    dateEs: 'Marzo/Abril (Semana Santa)',
+    month: 4,
+    duration: '10 days',
+    durationEs: '10 días',
+    city: 'ayacucho',
+    region: 'Ayacucho Region',
+    regionEs: 'Región Ayacucho',
+    description: 'The most spectacular Holy Week celebration in South America transforms Ayacucho into a living religious theater. Ten days of processions, carpet-lined streets, candlelit vigils, and deeply moving ceremonies draw pilgrims from around the world to witness this UNESCO-recognized tradition.',
+    descriptionEs: 'La celebración de Semana Santa más espectacular de Sudamérica transforma Ayacucho en un teatro religioso viviente. Diez días de procesiones, calles cubiertas de alfombras, vigilias con velas y ceremonias profundamente conmovedoras atraen peregrinos de todo el mundo para presenciar esta tradición reconocida por la UNESCO.',
+    history: 'Ayacucho\'s Semana Santa dates to the 16th century, blending Spanish Catholic traditions with Andean spirituality. The city\'s 33 colonial churches (one for each year of Christ\'s life) host elaborate processions. The tradition has been recognized by UNESCO as an Intangible Cultural Heritage.',
+    historyEs: 'La Semana Santa de Ayacucho data del siglo XVI, mezclando tradiciones católicas españolas con espiritualidad andina. Las 33 iglesias coloniales de la ciudad (una por cada año de la vida de Cristo) albergan elaboradas procesiones. La tradición ha sido reconocida por la UNESCO como Patrimonio Cultural Inmaterial.',
+    highlights: [
+      'Elaborate flower carpet streets',
+      'Candlelit night processions',
+      'Spectacular religious floats',
+      '33 colonial churches participate',
+      'Unique Andean-Catholic blend',
+      'UNESCO Intangible Heritage'
+    ],
+    highlightsEs: [
+      'Elaboradas alfombras de flores en las calles',
+      'Procesiones nocturnas con velas',
+      'Espectaculares carros religiosos',
+      '33 iglesias coloniales participan',
+      'Mezcla única andino-católica',
+      'Patrimonio Inmaterial de la UNESCO'
+    ],
+    activities: [
+      'Watch the flower carpet creation',
+      'Join candlelit processions',
+      'Visit the 33 colonial churches',
+      'See the dramatic Good Friday procession',
+      'Experience Easter Sunday celebration',
+      'Try traditional Ayacucho cuisine'
+    ],
+    activitiesEs: [
+      'Ver la creación de alfombras de flores',
+      'Unirse a procesiones con velas',
+      'Visitar las 33 iglesias coloniales',
+      'Ver la dramática procesión del Viernes Santo',
+      'Experimentar la celebración del Domingo de Pascua',
+      'Probar la cocina tradicional de Ayacucho'
+    ],
+    familyRating: 5,
+    crowdLevel: 'very high',
+    familyTips: [
+      'Book hotels 6+ months in advance',
+      'Flower carpet making is fascinating for kids',
+      'Night processions are magical but late',
+      'Crowds are intense - hold children\'s hands',
+      'Great for teaching about traditions',
+      'Combine with Ayacucho crafts exploration',
+      'Weather is pleasant in March/April',
+      'Try puca picante and other local dishes'
+    ],
+    familyTipsEs: [
+      'Reserva hoteles con 6+ meses de anticipación',
+      'La creación de alfombras de flores es fascinante para los niños',
+      'Las procesiones nocturnas son mágicas pero tarde',
+      'Las multitudes son intensas - toma las manos de los niños',
+      'Genial para enseñar sobre tradiciones',
+      'Combina con exploración de artesanías de Ayacucho',
+      'El clima es agradable en marzo/abril',
+      'Prueba puca picante y otros platos locales'
+    ],
+    whatToWear: 'Respectful modest clothing for church visits. Layers for cool evenings. Comfortable walking shoes essential.',
+    whatToWearEs: 'Ropa modesta y respetuosa para visitas a iglesias. Capas para noches frescas. Zapatos cómodos esenciales.',
+    foodToTry: [
+      'Puca picante (red spicy pork)',
+      'Mondongo ayacuchano (soup)',
+      'Chicharrón',
+      'Panes de Semana Santa',
+      'Ponche de habas',
+      'Siete potajes (seven dishes on Holy Thursday)'
+    ],
+    foodToTryEs: [
+      'Puca picante (cerdo picante rojo)',
+      'Mondongo ayacuchano (sopa)',
+      'Chicharrón',
+      'Panes de Semana Santa',
+      'Ponche de habas',
+      'Siete potajes (siete platos el Jueves Santo)'
+    ],
+    practicalInfo: 'Dates vary yearly with Easter. Friday before Palm Sunday through Easter Sunday. Book everything months ahead - the city fills completely. Fly from Lima (1 hour) or bus (9 hours).',
+    practicalInfoEs: 'Las fechas varían cada año con la Pascua. Viernes antes del Domingo de Ramos hasta Domingo de Pascua. Reserva todo con meses de anticipación - la ciudad se llena completamente. Vuelo desde Lima (1 hora) o bus (9 horas).',
+    relatedFestivals: ['corpus-christi-cusco', 'senor-de-los-milagros', 'virgen-candelaria']
+  },
+  {
+    slug: 'senor-de-los-temblores',
+    name: 'Señor de los Temblores (Lord of the Earthquakes)',
+    nameEs: 'Señor de los Temblores',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    month: 3,
+    date: 'Easter Monday (variable March/April)',
+    dateEs: 'Lunes de Pascua (variable marzo/abril)',
+    duration: '1 day',
+    durationEs: '1 día',
+    description: 'Cusco\'s most important religious festival honors the dark-skinned Christ image believed to have stopped the devastating 1650 earthquake. The solemn procession through colonial streets is showered with red ñucchu flowers, symbolizing Christ\'s blood.',
+    descriptionEs: 'El festival religioso más importante de Cusco honra la imagen del Cristo de piel oscura que se cree detuvo el devastador terremoto de 1650. La solemne procesión por calles coloniales es bañada con flores rojas ñucchu, simbolizando la sangre de Cristo.',
+    history: 'The "Taytacha" (Dear Father) image dates to the 16th century. During the 1650 earthquake, residents carried it through the streets and the tremors stopped. The dark color comes from centuries of candle smoke.',
+    historyEs: 'La imagen del "Taytacha" (Querido Padre) data del siglo XVI. Durante el terremoto de 1650, los residentes la llevaron por las calles y los temblores cesaron. El color oscuro proviene de siglos de humo de velas.',
+    highlights: [
+      'Ancient dark-skinned Christ image',
+      'Red ñucchu flower "rain"',
+      'Colonial streets transformed',
+      'Traditional brass bands',
+      'Blend of Catholic and Andean beliefs',
+      'Profound local devotion'
+    ],
+    highlightsEs: [
+      'Antigua imagen de Cristo de piel oscura',
+      '"Lluvia" de flores rojas ñucchu',
+      'Calles coloniales transformadas',
+      'Bandas de bronce tradicionales',
+      'Mezcla de creencias católicas y andinas',
+      'Profunda devoción local'
+    ],
+    familyRating: 4,
+    crowdLevel: 'very high',
+    activities: [
+      'Witness the main procession',
+      'See flower showers from balconies',
+      'Visit Cusco Cathedral',
+      'Watch brass band performances',
+      'Experience local devotion'
+    ],
+    activitiesEs: [
+      'Presenciar la procesión principal',
+      'Ver lluvias de flores desde balcones',
+      'Visitar la Catedral de Cusco',
+      'Ver presentaciones de bandas de bronce',
+      'Experimentar la devoción local'
+    ],
+    familyTips: [
+      'Very crowded - arrive early for good viewing',
+      'Profound religious event - teach kids context',
+      'Lasts several hours - bring snacks',
+      'Cool weather in evening - bring layers',
+      'Combined with Easter Monday holiday',
+      'Great opportunity to see Peruvian faith'
+    ],
+    familyTipsEs: [
+      'Muy lleno - llega temprano para buena vista',
+      'Evento religioso profundo - enseña contexto a los niños',
+      'Dura varias horas - lleva bocadillos',
+      'Clima fresco en la noche - lleva capas',
+      'Combinado con feriado de Lunes de Pascua',
+      'Gran oportunidad de ver la fe peruana'
+    ],
+    whatToWear: 'Modest, respectful clothing. Layers for cool evening. Comfortable standing shoes.',
+    whatToWearEs: 'Ropa modesta y respetuosa. Capas para noche fresca. Zapatos cómodos para estar de pie.',
+    foodToTry: [
+      'Chiriuchu (cold mixed plate)',
+      '12 traditional dishes',
+      'Tamales',
+      'Humitas',
+      'Hot chocolate',
+      'Empanadas'
+    ],
+    foodToTryEs: [
+      'Chiriuchu (plato mixto frío)',
+      '12 platos tradicionales',
+      'Tamales',
+      'Humitas',
+      'Chocolate caliente',
+      'Empanadas'
+    ],
+    practicalInfo: 'Falls on Easter Monday. Procession starts at Cusco Cathedral around noon, returns late evening. Main plaza and surrounding streets closed to traffic.',
+    practicalInfoEs: 'Cae en Lunes de Pascua. La procesión inicia en la Catedral de Cusco alrededor del mediodía, regresa tarde en la noche. Plaza principal y calles circundantes cerradas al tráfico.',
+    relatedFestivals: ['semana-santa-ayacucho', 'corpus-christi-cusco', 'inti-raymi']
+  },
+  {
+    slug: 'la-diablada-puno',
+    name: 'La Diablada (Virgen de la Candelaria)',
+    nameEs: 'La Diablada (Virgen de la Candelaria)',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    month: 2,
+    date: 'February 2-11 (with pre-events in late January)',
+    dateEs: '2-11 de febrero (con eventos previos a fines de enero)',
+    duration: '10+ days',
+    durationEs: '10+ días',
+    description: 'Peru\'s largest folklore festival features the famous "Devil Dance" with elaborate costumes, masks, and 200+ dance groups. The Diablada represents the eternal battle between good and evil, with spectacular devil and angel costumes filling Puno\'s streets.',
+    descriptionEs: 'El festival de folklore más grande de Perú presenta la famosa "Danza del Diablo" con elaborados disfraces, máscaras y más de 200 grupos de danza. La Diablada representa la eterna batalla entre el bien y el mal, con espectaculares disfraces de diablos y ángeles llenando las calles de Puno.',
+    history: 'Dating to colonial times, the Diablada blends pre-Hispanic Andean beliefs with Catholic traditions. UNESCO declared it an Intangible Cultural Heritage. The dance dramatizes the seven deadly sins versus the archangel Michael.',
+    historyEs: 'Datando de tiempos coloniales, la Diablada mezcla creencias andinas prehispánicas con tradiciones católicas. UNESCO la declaró Patrimonio Cultural Inmaterial. La danza dramatiza los siete pecados capitales versus el arcángel Miguel.',
+    highlights: [
+      'Spectacular devil costumes and masks',
+      'UNESCO Intangible Cultural Heritage',
+      'Over 200 dance groups',
+      'Giant Diablada procession',
+      'Incredible musical accompaniment',
+      'Costume competitions'
+    ],
+    highlightsEs: [
+      'Espectaculares disfraces y máscaras de diablos',
+      'Patrimonio Cultural Inmaterial UNESCO',
+      'Más de 200 grupos de danza',
+      'Procesión gigante de Diablada',
+      'Increíble acompañamiento musical',
+      'Concursos de disfraces'
+    ],
+    familyRating: 5,
+    crowdLevel: 'very high',
+    activities: [
+      'Watch Diablada dancers',
+      'See elaborate costume displays',
+      'Experience Morenada dance',
+      'Visit mask workshops',
+      'Attend stadium competitions',
+      'Photograph incredible costumes'
+    ],
+    activitiesEs: [
+      'Ver bailarines de Diablada',
+      'Ver exhibiciones de elaborados disfraces',
+      'Experimentar la danza Morenada',
+      'Visitar talleres de máscaras',
+      'Asistir a competencias en el estadio',
+      'Fotografiar increíbles disfraces'
+    ],
+    familyTips: [
+      'Kids love the colorful devil costumes',
+      'Explain it represents good vs evil',
+      'Book hotels 6+ months ahead',
+      'February is rainy - bring rain gear',
+      'Stadium seating available for competitions',
+      'Cold at night - bundle up',
+      'Combine with Lake Titicaca visit',
+      'Many activities spread across days'
+    ],
+    familyTipsEs: [
+      'A los niños les encantan los coloridos disfraces de diablos',
+      'Explica que representa el bien contra el mal',
+      'Reserva hoteles con 6+ meses de anticipación',
+      'Febrero es lluvioso - lleva equipo de lluvia',
+      'Asientos de estadio disponibles para competencias',
+      'Frío en la noche - abríguense',
+      'Combina con visita al Lago Titicaca',
+      'Muchas actividades distribuidas en días'
+    ],
+    whatToWear: 'Warm, waterproof layers. Rain jacket essential in February. Comfortable walking shoes. Bring extra socks.',
+    whatToWearEs: 'Capas abrigadas e impermeables. Chaqueta de lluvia esencial en febrero. Zapatos cómodos para caminar. Lleva calcetines extra.',
+    foodToTry: [
+      'Trucha (lake trout)',
+      'Quinoa soup',
+      'Chairo (hearty soup)',
+      'Apthapi (communal meal)',
+      'Kankacho (roasted lamb)',
+      'Torrejas (sweet fritters)'
+    ],
+    foodToTryEs: [
+      'Trucha (trucha del lago)',
+      'Sopa de quinoa',
+      'Chairo (sopa contundente)',
+      'Apthapi (comida comunal)',
+      'Kankacho (cordero asado)',
+      'Torrejas (frituras dulces)'
+    ],
+    practicalInfo: 'Main events February 2-11. Best viewing spots fill early. Stadium competitions require tickets. Fly to Juliaca from Lima, then 45 min to Puno. Cold temperatures (0-15°C) and possible rain.',
+    practicalInfoEs: 'Eventos principales febrero 2-11. Los mejores lugares de observación se llenan temprano. Las competencias en el estadio requieren entradas. Vuela a Juliaca desde Lima, luego 45 min a Puno. Temperaturas frías (0-15°C) y posible lluvia.',
+    relatedFestivals: ['virgen-candelaria', 'inti-raymi', 'corpus-christi-cusco']
+  },
+  {
+    slug: 'fiesta-de-la-cruz',
+    name: 'Fiesta de la Cruz (Festival of the Cross)',
+    nameEs: 'Fiesta de la Cruz',
+    city: 'lima',
+    region: 'Nationwide',
+    regionEs: 'Todo el país',
+    month: 5,
+    date: 'May 3 (celebrations throughout May)',
+    dateEs: '3 de mayo (celebraciones durante todo mayo)',
+    duration: '1 day to weeks (varies by location)',
+    durationEs: '1 día a semanas (varía por ubicación)',
+    description: 'A colorful festival celebrated throughout Peru where communities honor decorated crosses on hilltops and in churches. Combines Catholic traditions with ancient Andean mountain worship, featuring music, dance, processions, and community feasts.',
+    descriptionEs: 'Un colorido festival celebrado en todo Perú donde las comunidades honran cruces decoradas en cumbres de cerros y en iglesias. Combina tradiciones católicas con antigua adoración andina de montañas, presentando música, danza, procesiones y festines comunitarios.',
+    history: 'Spanish missionaries placed crosses on Andean peaks to replace indigenous apus (mountain spirits). Communities adopted the crosses while maintaining pre-Hispanic traditions, creating a unique syncretic celebration.',
+    historyEs: 'Los misioneros españoles colocaron cruces en cumbres andinas para reemplazar apus indígenas (espíritus de montañas). Las comunidades adoptaron las cruces mientras mantenían tradiciones prehispánicas, creando una celebración sincrética única.',
+    highlights: [
+      'Elaborately decorated crosses',
+      'Hilltop processions',
+      'Traditional music and dance',
+      'Community feasts',
+      'Syncretism of beliefs',
+      'Nationwide celebration'
+    ],
+    highlightsEs: [
+      'Cruces elaboradamente decoradas',
+      'Procesiones en cumbres',
+      'Música y danza tradicional',
+      'Festines comunitarios',
+      'Sincretismo de creencias',
+      'Celebración a nivel nacional'
+    ],
+    familyRating: 4,
+    crowdLevel: 'moderate',
+    activities: [
+      'Watch cross processions',
+      'See decorated crosses',
+      'Enjoy traditional music',
+      'Join community meals',
+      'Visit hilltop shrines',
+      'Participate in local festivities'
+    ],
+    activitiesEs: [
+      'Ver procesiones de cruces',
+      'Ver cruces decoradas',
+      'Disfrutar música tradicional',
+      'Unirse a comidas comunitarias',
+      'Visitar santuarios en cumbres',
+      'Participar en festividades locales'
+    ],
+    familyTips: [
+      'Celebrated differently in each region',
+      'Cusco and Lima have notable celebrations',
+      'Great for experiencing local culture',
+      'Often includes fireworks',
+      'Ask locals about celebrations',
+      'Community meals are welcoming'
+    ],
+    familyTipsEs: [
+      'Se celebra diferente en cada región',
+      'Cusco y Lima tienen celebraciones notables',
+      'Genial para experimentar cultura local',
+      'A menudo incluye fuegos artificiales',
+      'Pregunta a locales sobre celebraciones',
+      'Las comidas comunitarias son acogedoras'
+    ],
+    whatToWear: 'Casual comfortable clothes. Layers for highland celebrations. Walking shoes for processions.',
+    whatToWearEs: 'Ropa casual cómoda. Capas para celebraciones de tierras altas. Zapatos para caminar para procesiones.',
+    foodToTry: [
+      'Pachamanca (earth oven feast)',
+      'Chicha de jora',
+      'Anticuchos',
+      'Regional specialties',
+      'Traditional bread',
+      'Community potluck dishes'
+    ],
+    foodToTryEs: [
+      'Pachamanca (festín en horno de tierra)',
+      'Chicha de jora',
+      'Anticuchos',
+      'Especialidades regionales',
+      'Pan tradicional',
+      'Platos de comida comunitaria'
+    ],
+    practicalInfo: 'Main day is May 3, but celebrations can last days or weeks. Check local schedules as each town celebrates differently. Most vibrant in highland communities.',
+    practicalInfoEs: 'El día principal es el 3 de mayo, pero las celebraciones pueden durar días o semanas. Verifica horarios locales ya que cada pueblo celebra diferente. Más vibrante en comunidades de tierras altas.',
+    relatedFestivals: ['corpus-christi-cusco', 'virgen-candelaria', 'senor-de-los-milagros']
+  },
+  {
+    slug: 'fiesta-san-juan',
+    name: 'Fiesta de San Juan',
+    nameEs: 'Fiesta de San Juan',
+    city: 'iquitos',
+    region: 'Amazon Region',
+    regionEs: 'Región Amazónica',
+    month: 6,
+    date: 'June 24',
+    dateEs: '24 de junio',
+    duration: '1-3 days',
+    durationEs: '1-3 días',
+    description: 'The Amazon\'s biggest festival celebrating Saint John the Baptist. The entire jungle region celebrates with traditional juanes (rice tamales), music, dance, beauty contests, and river activities. A perfect time to experience authentic Amazonian culture.',
+    descriptionEs: 'El festival más grande de la Amazonía celebrando a San Juan Bautista. Toda la región de selva celebra con tradicionales juanes (tamales de arroz), música, danza, concursos de belleza y actividades de río. Un momento perfecto para experimentar auténtica cultura amazónica.',
+    history: 'Saint John the Baptist\'s feast day became the Amazon\'s biggest celebration, incorporating indigenous traditions and becoming synonymous with jungle culture. The juane dish represents Saint John\'s head on a platter.',
+    historyEs: 'El día de San Juan Bautista se convirtió en la mayor celebración de la Amazonía, incorporando tradiciones indígenas y volviéndose sinónimo de la cultura de selva. El plato juane representa la cabeza de San Juan en un plato.',
+    highlights: [
+      'Traditional juanes everywhere',
+      'Amazon music and dance',
+      'River swimming and activities',
+      'Beauty pageants',
+      'Fireworks and parades',
+      'Authentic jungle celebration'
+    ],
+    highlightsEs: [
+      'Juanes tradicionales en todas partes',
+      'Música y danza amazónica',
+      'Natación y actividades de río',
+      'Concursos de belleza',
+      'Fuegos artificiales y desfiles',
+      'Celebración auténtica de selva'
+    ],
+    familyRating: 5,
+    crowdLevel: 'high',
+    activities: [
+      'Try juanes (essential!)',
+      'Watch traditional dances',
+      'Join river activities',
+      'Watch parades',
+      'Enjoy live music',
+      'Visit local communities'
+    ],
+    activitiesEs: [
+      'Probar juanes (¡esencial!)',
+      'Ver danzas tradicionales',
+      'Unirse a actividades de río',
+      'Ver desfiles',
+      'Disfrutar música en vivo',
+      'Visitar comunidades locales'
+    ],
+    familyTips: [
+      'Everyone eats juanes on June 24',
+      'Great introduction to Amazon culture',
+      'Book Iquitos hotels well in advance',
+      'Tarapoto also celebrates big',
+      'Weather is hot - stay hydrated',
+      'Swimming in rivers is traditional'
+    ],
+    familyTipsEs: [
+      'Todos comen juanes el 24 de junio',
+      'Gran introducción a la cultura amazónica',
+      'Reserva hoteles en Iquitos con mucha anticipación',
+      'Tarapoto también celebra en grande',
+      'El clima es caluroso - mantente hidratado',
+      'Nadar en ríos es tradicional'
+    ],
+    whatToWear: 'Light, breathable clothes. Swimwear for river activities. Sandals or water shoes.',
+    whatToWearEs: 'Ropa ligera y transpirable. Traje de baño para actividades de río. Sandalias o zapatos de agua.',
+    foodToTry: [
+      'Juane (absolutely must try!)',
+      'Tacacho con cecina',
+      'Inchicapi (chicken soup)',
+      'Masato (fermented yuca drink)',
+      'Tropical fruits',
+      'River fish dishes'
+    ],
+    foodToTryEs: [
+      'Juane (¡absolutamente debes probar!)',
+      'Tacacho con cecina',
+      'Inchicapi (sopa de pollo)',
+      'Masato (bebida de yuca fermentada)',
+      'Frutas tropicales',
+      'Platos de pescado de río'
+    ],
+    practicalInfo: 'June 24 is the main day but festivities span several days. Iquitos, Tarapoto, and Pucallpa have biggest celebrations. Hot and humid - bring water and sun protection.',
+    practicalInfoEs: 'El 24 de junio es el día principal pero las festividades abarcan varios días. Iquitos, Tarapoto y Pucallpa tienen las mayores celebraciones. Caluroso y húmedo - lleva agua y protección solar.',
+    relatedFestivals: ['inti-raymi', 'fiesta-de-la-cruz', 'carnaval-cajamarca']
   }
 ];
 
