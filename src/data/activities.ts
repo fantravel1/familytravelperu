@@ -4440,6 +4440,365 @@ export const activities: Activity[] = [
       { name: 'Pablo Seminario Workshop', familyFriendly: true },
       { name: 'Raqchi community workshops', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'birdwatching-manu',
+    name: 'Birdwatching in Manu',
+    nameEs: 'Observación de Aves en Manu',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Experience some of the world\'s best birdwatching in Manu National Park, home to over 1,000 bird species. From colorful macaws at clay licks to toucans and hummingbirds, this is a paradise for bird-loving families.',
+    descriptionEs: 'Experimenta algunas de las mejores observaciones de aves del mundo en el Parque Nacional del Manu, hogar de más de 1,000 especies de aves. Desde coloridos guacamayos en collpas hasta tucanes y colibríes, es un paraíso para familias amantes de las aves.',
+    whatToExpect: 'Early morning expeditions to clay licks where macaws gather, guided forest walks spotting rare species, tower hides for canopy viewing, and dedicated birding guides with spotting scopes. Multi-day stays at eco-lodges maximize sightings.',
+    whatToExpectEs: 'Expediciones temprano por la mañana a collpas donde se reúnen los guacamayos, caminatas guiadas por el bosque para avistar especies raras, torres de observación para ver el dosel, y guías especializados con telescopios. Las estadías de varios días en eco-lodges maximizan los avistamientos.',
+    highlights: [
+      'Macaw clay lick spectacle at dawn',
+      'Over 1,000 bird species possible',
+      'Colorful toucans and tanagers',
+      'Rare harpy eagle sightings',
+      'Hummingbird feeders at lodges',
+      'Canopy observation towers'
+    ],
+    highlightsEs: [
+      'Espectáculo de collpa de guacamayos al amanecer',
+      'Más de 1,000 especies de aves posibles',
+      'Coloridos tucanes y tangaras',
+      'Avistamientos raros de águila harpía',
+      'Comederos de colibríes en los lodges',
+      'Torres de observación del dosel'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-5 days recommended',
+    durationEs: '3-5 días recomendados',
+    difficulty: 'moderate',
+    priceRange: '$200-500 per person/day',
+    priceRangeEs: '$200-500 por persona/día',
+    bestTime: 'May-October (dry season) for best visibility',
+    bestTimeEs: 'Mayo-octubre (temporada seca) para mejor visibilidad',
+    includes: [
+      'Expert birding guides',
+      'Spotting scopes and binoculars',
+      'Bird checklists',
+      'Lodge accommodation',
+      'All meals',
+      'Transportation from Cusco'
+    ],
+    includesEs: [
+      'Guías expertos en aves',
+      'Telescopios y binoculares',
+      'Listas de verificación de aves',
+      'Alojamiento en lodge',
+      'Todas las comidas',
+      'Transporte desde Cusco'
+    ],
+    tips: [
+      'Bring your own binoculars for each family member',
+      'Kids love the macaw clay lick spectacle',
+      'Early mornings are essential - best birds before 8am',
+      'Bird ID apps help kids stay engaged',
+      'Bring a bird journal for kids to draw and record',
+      'Choose lodges with hummingbird feeders'
+    ],
+    tipsEs: [
+      'Trae tus propios binoculares para cada miembro de la familia',
+      'A los niños les encanta el espectáculo de la collpa de guacamayos',
+      'Las mañanas tempranas son esenciales - mejores aves antes de las 8am',
+      'Apps de identificación de aves mantienen a los niños interesados',
+      'Trae un diario de aves para que los niños dibujen y registren',
+      'Elige lodges con comederos de colibríes'
+    ],
+    safetyNotes: [
+      'Stay quiet on trails',
+      'Follow guide instructions',
+      'Wear neutral colors',
+      'Apply insect repellent',
+      'Carry water on walks'
+    ],
+    safetyNotesEs: [
+      'Mantente en silencio en los senderos',
+      'Sigue las instrucciones del guía',
+      'Usa colores neutros',
+      'Aplica repelente de insectos',
+      'Lleva agua en las caminatas'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'night-jungle-walk', 'tambopata-wildlife'],
+    providers: [
+      { name: 'Manu Wildlife Center', familyFriendly: true },
+      { name: 'Cock of the Rock Lodge', familyFriendly: true },
+      { name: 'Manu Paradise Lodge', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'atv-sacred-valley',
+    name: 'ATV Adventure in Sacred Valley',
+    nameEs: 'Aventura en Cuatrimoto en el Valle Sagrado',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the stunning Sacred Valley landscapes on exciting ATV tours. Ride through Andean villages, past agricultural terraces, and enjoy panoramic mountain views. Perfect for adventure-seeking families with older children.',
+    descriptionEs: 'Explora los impresionantes paisajes del Valle Sagrado en emocionantes tours en cuatrimoto. Recorre aldeas andinas, terrazas agrícolas y disfruta de vistas panorámicas de las montañas. Perfecto para familias aventureras con niños mayores.',
+    whatToExpect: 'After safety briefing and practice, ride single or double ATVs through scenic trails. Routes pass through traditional villages, beside rivers, and offer stops at viewpoints. Guides lead the way, ensuring safety while maximizing fun.',
+    whatToExpectEs: 'Después de una sesión de seguridad y práctica, maneja cuatrimotos individuales o dobles por senderos escénicos. Las rutas pasan por aldeas tradicionales, junto a ríos, y ofrecen paradas en miradores. Los guías lideran el camino, asegurando la seguridad mientras maximizan la diversión.',
+    highlights: [
+      'Panoramic Sacred Valley views',
+      'Visit traditional Andean villages',
+      'Cross rivers and streams',
+      'Photo stops at scenic viewpoints',
+      'Ride through ancient terraces',
+      'Optional Maras salt mines visit'
+    ],
+    highlightsEs: [
+      'Vistas panorámicas del Valle Sagrado',
+      'Visitar aldeas andinas tradicionales',
+      'Cruzar ríos y arroyos',
+      'Paradas para fotos en miradores',
+      'Recorrer terrazas antiguas',
+      'Visita opcional a las salineras de Maras'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-4 hours',
+    durationEs: '2-4 horas',
+    difficulty: 'moderate',
+    priceRange: '$60-120 per person',
+    priceRangeEs: '$60-120 por persona',
+    bestTime: 'April-November (dry season) for best conditions',
+    bestTimeEs: 'Abril-noviembre (temporada seca) para mejores condiciones',
+    includes: [
+      'ATV and fuel',
+      'Safety gear (helmet, goggles, gloves)',
+      'Experienced guide',
+      'Safety briefing and practice',
+      'Hotel pickup and drop-off',
+      'Water bottle'
+    ],
+    includesEs: [
+      'Cuatrimoto y combustible',
+      'Equipo de seguridad (casco, gafas, guantes)',
+      'Guía experimentado',
+      'Sesión de seguridad y práctica',
+      'Recogida y regreso al hotel',
+      'Botella de agua'
+    ],
+    tips: [
+      'Kids under 16 ride as passengers with parents',
+      'Wear clothes that can get dusty/muddy',
+      'Bring sunglasses and sunscreen',
+      'Book morning tours for clearer views',
+      'Half-day tours better for families',
+      'Book double ATVs for smaller children'
+    ],
+    tipsEs: [
+      'Niños menores de 16 van como pasajeros con los padres',
+      'Usa ropa que pueda ensuciarse con polvo/barro',
+      'Trae gafas de sol y protector solar',
+      'Reserva tours matutinos para vistas más claras',
+      'Tours de medio día son mejores para familias',
+      'Reserva cuatrimotos dobles para niños pequeños'
+    ],
+    safetyNotes: [
+      'Follow guide instructions exactly',
+      'Drive at safe speeds',
+      'Keep safe distance between vehicles',
+      'Wear all provided safety gear',
+      'No riding experience needed'
+    ],
+    safetyNotesEs: [
+      'Sigue las instrucciones del guía exactamente',
+      'Maneja a velocidades seguras',
+      'Mantén distancia segura entre vehículos',
+      'Usa todo el equipo de seguridad proporcionado',
+      'No se necesita experiencia previa'
+    ],
+    relatedActivities: ['mountain-biking-sacred-valley', 'horseback-sacred-valley', 'zipline-sacred-valley'],
+    providers: [
+      { name: 'Action Valley', website: 'https://actionvalley.com', familyFriendly: true },
+      { name: 'Sacred Valley ATV Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'whale-watching-mancora',
+    name: 'Whale Watching in Máncora',
+    nameEs: 'Avistamiento de Ballenas en Máncora',
+    type: 'nature',
+    city: 'mancora',
+    region: 'Piura Region',
+    regionEs: 'Región Piura',
+    description: 'Witness the majestic humpback whales during their annual migration along Peru\'s northern coast. From July to October, these gentle giants pass through the warm waters near Máncora, offering unforgettable family encounters.',
+    descriptionEs: 'Presencia las majestuosas ballenas jorobadas durante su migración anual a lo largo de la costa norte del Perú. De julio a octubre, estos gentiles gigantes pasan por las aguas cálidas cerca de Máncora, ofreciendo encuentros familiares inolvidables.',
+    whatToExpect: 'Boat excursions of 2-3 hours take you to whale watching zones. Experienced captains locate pods, allowing close-up views of breaching, tail slapping, and mother-calf pairs. Marine biologists often accompany tours with educational commentary.',
+    whatToExpectEs: 'Excursiones en bote de 2-3 horas te llevan a zonas de avistamiento de ballenas. Capitanes experimentados localizan grupos, permitiendo vistas cercanas de saltos, golpes de cola y parejas de madre y cría. Biólogos marinos a menudo acompañan los tours con comentarios educativos.',
+    highlights: [
+      'Humpback whale breaching',
+      'Mother and calf pairs',
+      'Tail slapping displays',
+      'Sea turtle sightings',
+      'Dolphin pods common',
+      'Marine biologist guides'
+    ],
+    highlightsEs: [
+      'Saltos de ballenas jorobadas',
+      'Parejas de madre y cría',
+      'Exhibiciones de golpes de cola',
+      'Avistamientos de tortugas marinas',
+      'Grupos de delfines comunes',
+      'Guías biólogos marinos'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'July-October (whale migration season)',
+    bestTimeEs: 'Julio-octubre (temporada de migración de ballenas)',
+    includes: [
+      'Boat excursion',
+      'Life jackets',
+      'Experienced captain',
+      'Marine biologist guide (some tours)',
+      'Drinking water',
+      'Sea sickness tablets available'
+    ],
+    includesEs: [
+      'Excursión en bote',
+      'Chalecos salvavidas',
+      'Capitán experimentado',
+      'Guía biólogo marino (algunos tours)',
+      'Agua potable',
+      'Tabletas para mareo disponibles'
+    ],
+    tips: [
+      'Book July-September for best sightings',
+      'Morning tours have calmer seas',
+      'Take motion sickness medication 1 hour before',
+      'Bring binoculars and cameras with zoom',
+      'Dress in layers - ocean can be cool',
+      'Be patient - whales don\'t perform on schedule!'
+    ],
+    tipsEs: [
+      'Reserva julio-septiembre para mejores avistamientos',
+      'Los tours matutinos tienen mares más calmados',
+      'Toma medicamento para mareo 1 hora antes',
+      'Trae binoculares y cámaras con zoom',
+      'Vístete en capas - el océano puede ser frío',
+      '¡Sé paciente - las ballenas no actúan según horario!'
+    ],
+    safetyNotes: [
+      'Wear life jacket at all times',
+      'Hold onto rails when standing',
+      'Listen to captain instructions',
+      'Boats maintain safe distance from whales',
+      'Seasickness medication recommended'
+    ],
+    safetyNotesEs: [
+      'Usa chaleco salvavidas en todo momento',
+      'Agárrate de las barandas al estar de pie',
+      'Escucha las instrucciones del capitán',
+      'Los botes mantienen distancia segura de las ballenas',
+      'Se recomienda medicamento para mareo'
+    ],
+    relatedActivities: ['surfing-mancora', 'sea-turtle-encounter', 'beach-day-mancora'],
+    providers: [
+      { name: 'Máncora Marina Tours', familyFriendly: true },
+      { name: 'Pacific Adventures Peru', familyFriendly: true },
+      { name: 'Whale Watch Máncora', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'canyoning-lunahuana',
+    name: 'Canyoning in Lunahuaná',
+    nameEs: 'Cañonismo en Lunahuaná',
+    type: 'adventure',
+    city: 'lunahuana',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Descend dramatic canyons through rappelling, jumping into pools, and natural water slides. Lunahuaná\'s canyons offer thrilling family adventures with options for different skill levels and ages.',
+    descriptionEs: 'Desciende cañones dramáticos a través de rappel, saltos a pozas y toboganes naturales de agua. Los cañones de Lunahuaná ofrecen emocionantes aventuras familiares con opciones para diferentes niveles de habilidad y edades.',
+    whatToExpect: 'Equipped with wetsuits and helmets, descend canyon walls using ropes, leap into natural pools, and slide down water-polished rock chutes. Professional guides ensure safety while providing an adrenaline-pumping adventure.',
+    whatToExpectEs: 'Equipado con trajes de neopreno y cascos, desciende paredes de cañones usando cuerdas, salta a pozas naturales y deslízate por toboganes de roca pulida por el agua. Guías profesionales aseguran la seguridad mientras proporcionan una aventura llena de adrenalina.',
+    highlights: [
+      'Rappelling down canyon walls',
+      'Jumping into crystal pools',
+      'Natural water slides',
+      'Swimming in canyon pools',
+      'Beautiful canyon scenery',
+      'Professional safety equipment'
+    ],
+    highlightsEs: [
+      'Rappel por paredes del cañón',
+      'Saltos a pozas cristalinas',
+      'Toboganes naturales de agua',
+      'Nadar en pozas del cañón',
+      'Hermoso paisaje del cañón',
+      'Equipo de seguridad profesional'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: '3-5 hours',
+    durationEs: '3-5 horas',
+    difficulty: 'challenging',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'December-April (summer) for warmer water',
+    bestTimeEs: 'Diciembre-abril (verano) para agua más cálida',
+    includes: [
+      'All technical equipment',
+      'Wetsuit, helmet, harness',
+      'Professional guides',
+      'Safety briefing',
+      'Transportation to canyon',
+      'Snacks and drinks'
+    ],
+    includesEs: [
+      'Todo el equipo técnico',
+      'Traje de neopreno, casco, arnés',
+      'Guías profesionales',
+      'Sesión de seguridad',
+      'Transporte al cañón',
+      'Snacks y bebidas'
+    ],
+    tips: [
+      'Choose beginner canyons for first-timers',
+      'Bring water shoes that stay on securely',
+      'Waterproof camera for amazing photos',
+      'Eat light breakfast before activity',
+      'Bring dry clothes for after',
+      'Book with reputable companies only'
+    ],
+    tipsEs: [
+      'Elige cañones para principiantes si es tu primera vez',
+      'Trae zapatos de agua que se ajusten bien',
+      'Cámara impermeable para fotos increíbles',
+      'Come un desayuno ligero antes de la actividad',
+      'Trae ropa seca para después',
+      'Reserva solo con compañías de buena reputación'
+    ],
+    safetyNotes: [
+      'Swimming ability required',
+      'Follow all guide instructions',
+      'Inform of any medical conditions',
+      'Jumps are optional',
+      'Less challenging routes available'
+    ],
+    safetyNotesEs: [
+      'Se requiere saber nadar',
+      'Sigue todas las instrucciones del guía',
+      'Informa de cualquier condición médica',
+      'Los saltos son opcionales',
+      'Hay rutas menos desafiantes disponibles'
+    ],
+    relatedActivities: ['whitewater-rafting', 'zipline-adventure', 'rock-climbing'],
+    providers: [
+      { name: 'Lunahuaná Rafting', familyFriendly: true },
+      { name: 'Peru Canyoning', familyFriendly: true },
+      { name: 'Extreme Peru Adventures', familyFriendly: true }
+    ]
   }
 ];
 

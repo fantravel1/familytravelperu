@@ -4216,6 +4216,304 @@ export const sites: Site[] = [
       'Estacionamiento',
       'Cajeros en el pueblo'
     ]
+  },
+  {
+    slug: 'ballestas-islands',
+    name: 'Ballestas Islands',
+    nameEs: 'Islas Ballestas',
+    type: 'natural',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Known as the "Poor Man\'s Galápagos," these rocky islands are home to thousands of sea lions, Humboldt penguins, and seabirds. Boat tours get remarkably close to wildlife, making it one of Peru\'s best family wildlife experiences.',
+    descriptionEs: 'Conocidas como las "Galápagos del Pobre," estas islas rocosas son hogar de miles de lobos marinos, pingüinos de Humboldt y aves marinas. Los tours en bote se acercan notablemente a la fauna, haciéndola una de las mejores experiencias de vida silvestre familiar de Perú.',
+    history: 'The islands have been protected since 1975 as part of the Paracas National Reserve. Guano (bird droppings) was historically harvested here and remains visible covering the rocks.',
+    historyEs: 'Las islas han sido protegidas desde 1975 como parte de la Reserva Nacional de Paracas. El guano (excrementos de aves) fue históricamente cosechado aquí y permanece visible cubriendo las rocas.',
+    highlights: [
+      'Thousands of sea lions',
+      'Humboldt penguins',
+      'Massive bird colonies',
+      'El Candelabro geoglyph',
+      'Close wildlife encounters',
+      'Affordable wildlife experience'
+    ],
+    highlightsEs: [
+      'Miles de lobos marinos',
+      'Pingüinos de Humboldt',
+      'Colonias masivas de aves',
+      'Geoglifo El Candelabro',
+      'Encuentros cercanos con fauna',
+      'Experiencia de vida silvestre económica'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2 hours (boat tour)',
+    durationEs: '2 horas (tour en bote)',
+    difficulty: 'easy',
+    entranceFee: '$15-25 per person (tour price)',
+    entranceFeeEs: '$15-25 por persona (precio del tour)',
+    bestTime: 'Year-round. June-September for whale sightings nearby.',
+    bestTimeEs: 'Todo el año. Junio-septiembre para avistamiento de ballenas cercano.',
+    tips: [
+      'Book early morning tours (less wind)',
+      'Bring motion sickness medicine if prone',
+      'Wear layers - ocean is cold',
+      'Binoculars enhance experience',
+      'Watch for El Candelabro on way out',
+      'Combine with Paracas Reserve visit'
+    ],
+    tipsEs: [
+      'Reserva tours temprano en la mañana (menos viento)',
+      'Lleva medicina para mareo si eres propenso',
+      'Usa capas - el océano es frío',
+      'Binoculares mejoran la experiencia',
+      'Observa El Candelabro en el camino',
+      'Combina con visita a Reserva de Paracas'
+    ],
+    nearbyAttractions: ['paracas-reserve', 'el-candelabro', 'lagunillas-beach'],
+    relatedSites: ['paracas-reserve', 'nazca-lines', 'huacachina'],
+    gettingThere: 'Boats depart from Paracas pier (El Chaco). Paracas is 3.5 hours from Lima by bus.',
+    gettingThereEs: 'Los botes salen del muelle de Paracas (El Chaco). Paracas está a 3.5 horas de Lima en bus.',
+    facilities: [
+      'Tour boats with life jackets',
+      'Restrooms at pier',
+      'Restaurants in Paracas',
+      'Tour agencies',
+      'Parking at pier',
+      'Some boats have covered areas'
+    ],
+    facilitiesEs: [
+      'Botes de tour con chalecos salvavidas',
+      'Baños en el muelle',
+      'Restaurantes en Paracas',
+      'Agencias de tour',
+      'Estacionamiento en el muelle',
+      'Algunos botes tienen áreas cubiertas'
+    ]
+  },
+  {
+    slug: 'raqchi',
+    name: 'Raqchi (Temple of Wiracocha)',
+    nameEs: 'Raqchi (Templo de Wiracocha)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'An impressive Inca temple complex featuring the largest known Inca roofed building - the Temple of Wiracocha with walls reaching 12 meters high. The site also includes qolqas (storehouses), fountains, and a traditional pottery-making village.',
+    descriptionEs: 'Un impresionante complejo de templos Incas que presenta el edificio techado Inca conocido más grande - el Templo de Wiracocha con paredes que alcanzan 12 metros de altura. El sitio también incluye qolqas (almacenes), fuentes y un pueblo de alfarería tradicional.',
+    history: 'Built during the reign of Inca Wiracocha (1400s), the temple was dedicated to the creator god Wiracocha. The site served as an important administrative and religious center on the road to Lake Titicaca.',
+    historyEs: 'Construido durante el reinado del Inca Wiracocha (1400s), el templo fue dedicado al dios creador Wiracocha. El sitio sirvió como un importante centro administrativo y religioso en el camino al Lago Titicaca.',
+    highlights: [
+      'Massive Temple of Wiracocha',
+      '12-meter high walls',
+      '200+ circular qolqas (storehouses)',
+      'Traditional pottery village',
+      'Less crowded than main sites',
+      'On route to Puno'
+    ],
+    highlightsEs: [
+      'Masivo Templo de Wiracocha',
+      'Paredes de 12 metros de altura',
+      '200+ qolqas circulares (almacenes)',
+      'Pueblo de alfarería tradicional',
+      'Menos lleno que sitios principales',
+      'En ruta a Puno'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    altitude: 3480,
+    entranceFee: '~$3 or included in Boleto Turístico',
+    entranceFeeEs: '~$3 o incluido en Boleto Turístico',
+    bestTime: 'Year-round. Sundays for local market.',
+    bestTimeEs: 'Todo el año. Domingos para mercado local.',
+    tips: [
+      'Visit the pottery workshops',
+      'Less touristy than Sacred Valley sites',
+      'Great stop between Cusco and Puno',
+      'Sunday market is colorful',
+      'Kids can try pottery making',
+      'Lower altitude than Cusco - easier breathing'
+    ],
+    tipsEs: [
+      'Visita los talleres de alfarería',
+      'Menos turístico que sitios del Valle Sagrado',
+      'Gran parada entre Cusco y Puno',
+      'El mercado del domingo es colorido',
+      'Los niños pueden intentar hacer cerámica',
+      'Menor altitud que Cusco - respiración más fácil'
+    ],
+    nearbyAttractions: ['andahuaylillas', 'la-raya-pass', 'puno'],
+    relatedSites: ['ollantaytambo', 'pikillacta', 'sacsayhuaman'],
+    gettingThere: '110km southeast of Cusco (2 hours). On the Cusco-Puno route. Tours available or stop on bus journey.',
+    gettingThereEs: '110km al sureste de Cusco (2 horas). En la ruta Cusco-Puno. Tours disponibles o parada en viaje de bus.',
+    facilities: [
+      'Visitor entrance',
+      'Restrooms',
+      'Pottery workshops',
+      'Local guides',
+      'Small restaurants',
+      'Artisan market'
+    ],
+    facilitiesEs: [
+      'Entrada de visitantes',
+      'Baños',
+      'Talleres de alfarería',
+      'Guías locales',
+      'Pequeños restaurantes',
+      'Mercado artesanal'
+    ]
+  },
+  {
+    slug: 'pikillacta',
+    name: 'Pikillacta (Wari Ruins)',
+    nameEs: 'Pikillacta (Ruinas Wari)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'The largest pre-Inca city in the Cusco region, built by the Wari Empire 600 years before the Incas. This vast urban complex of over 700 buildings offers a fascinating look at the civilization that preceded and influenced the Incas.',
+    descriptionEs: 'La ciudad pre-Inca más grande de la región de Cusco, construida por el Imperio Wari 600 años antes de los Incas. Este vasto complejo urbano de más de 700 edificios ofrece una fascinante mirada a la civilización que precedió e influyó a los Incas.',
+    history: 'Built between 550-1100 AD by the Wari civilization, this was a major administrative center housing up to 10,000 people. The Wari Empire controlled much of Peru before the Inca.',
+    historyEs: 'Construido entre 550-1100 d.C. por la civilización Wari, este fue un importante centro administrativo que albergaba hasta 10,000 personas. El Imperio Wari controló gran parte de Perú antes de los Incas.',
+    highlights: [
+      'Pre-Inca Wari civilization',
+      '700+ ancient buildings',
+      'Massive stone walls',
+      'Less visited gem',
+      'Combined with Andahuaylillas',
+      'Different from Inca architecture'
+    ],
+    highlightsEs: [
+      'Civilización Wari pre-Inca',
+      '700+ edificios antiguos',
+      'Paredes de piedra masivas',
+      'Joya menos visitada',
+      'Combinado con Andahuaylillas',
+      'Diferente de arquitectura Inca'
+    ],
+    familyRating: 3,
+    minAge: 6,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    altitude: 3250,
+    entranceFee: 'Included in Boleto Turístico or ~$5',
+    entranceFeeEs: 'Incluido en Boleto Turístico o ~$5',
+    bestTime: 'Year-round. Morning for best light.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz.',
+    tips: [
+      'Combine with Andahuaylillas (Sistine Chapel of Americas)',
+      'Guide helps explain Wari history',
+      'Wear sun protection - exposed site',
+      'Fascinating for history-loving families',
+      'Less crowded than Inca sites',
+      'Good half-day trip from Cusco'
+    ],
+    tipsEs: [
+      'Combina con Andahuaylillas (Capilla Sixtina de las Américas)',
+      'El guía ayuda a explicar historia Wari',
+      'Usa protección solar - sitio expuesto',
+      'Fascinante para familias amantes de la historia',
+      'Menos lleno que sitios Incas',
+      'Buen viaje de medio día desde Cusco'
+    ],
+    nearbyAttractions: ['andahuaylillas', 'tipon', 'raqchi'],
+    relatedSites: ['raqchi', 'tiwanaku', 'wari-ruins-ayacucho'],
+    gettingThere: '30km south of Cusco (40 min). Part of South Valley tour. Combis run from Cusco.',
+    gettingThereEs: '30km al sur de Cusco (40 min). Parte del tour del Valle Sur. Combis salen de Cusco.',
+    facilities: [
+      'Entrance station',
+      'Basic restrooms',
+      'Parking',
+      'Local guides',
+      'No food vendors',
+      'Bring water and snacks'
+    ],
+    facilitiesEs: [
+      'Estación de entrada',
+      'Baños básicos',
+      'Estacionamiento',
+      'Guías locales',
+      'Sin vendedores de comida',
+      'Lleva agua y bocadillos'
+    ]
+  },
+  {
+    slug: 'nazca-lines-mirador',
+    name: 'Nazca Lines Viewing Tower (Mirador)',
+    nameEs: 'Torre de Observación de Líneas de Nazca (Mirador)',
+    type: 'archaeological',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'A metal observation tower on the Pan-American Highway offering ground-level views of two Nazca geoglyphs - the Hands and the Tree. A budget-friendly alternative to scenic flights for families with young children or limited budgets.',
+    descriptionEs: 'Una torre de observación de metal en la Carretera Panamericana que ofrece vistas a nivel del suelo de dos geoglifos de Nazca - las Manos y el Árbol. Una alternativa económica a los vuelos escénicos para familias con niños pequeños o presupuestos limitados.',
+    history: 'The Nazca Lines were created between 500 BC and 500 AD by the Nazca culture. This tower was built to provide accessible viewing without disturbing the fragile desert surface.',
+    historyEs: 'Las Líneas de Nazca fueron creadas entre 500 a.C. y 500 d.C. por la cultura Nazca. Esta torre fue construida para proporcionar observación accesible sin perturbar la frágil superficie del desierto.',
+    highlights: [
+      'See Nazca Lines without flying',
+      'Budget-friendly option',
+      'View Hands and Tree geoglyphs',
+      'Good for families with young kids',
+      'Quick stop on Pan-American Highway',
+      'Educational introduction to lines'
+    ],
+    highlightsEs: [
+      'Ver Líneas de Nazca sin volar',
+      'Opción económica',
+      'Ver geoglifos de Manos y Árbol',
+      'Bueno para familias con niños pequeños',
+      'Parada rápida en Carretera Panamericana',
+      'Introducción educativa a las líneas'
+    ],
+    familyRating: 4,
+    minAge: 3,
+    duration: '30 minutes',
+    durationEs: '30 minutos',
+    difficulty: 'easy',
+    entranceFee: '~$1',
+    entranceFeeEs: '~$1',
+    bestTime: 'Morning or late afternoon for best light and visibility',
+    bestTimeEs: 'Mañana o tarde para mejor luz y visibilidad',
+    tips: [
+      'Only see 2 of 70+ figures here',
+      'For full experience, flights are best',
+      'Good alternative for motion-sick family members',
+      'Very hot - bring water and sun protection',
+      'Maria Reiche museum nearby',
+      'Combine with Chauchilla Cemetery'
+    ],
+    tipsEs: [
+      'Solo se ven 2 de más de 70 figuras aquí',
+      'Para experiencia completa, los vuelos son mejores',
+      'Buena alternativa para familiares con mareo',
+      'Muy caluroso - lleva agua y protección solar',
+      'Museo Maria Reiche cercano',
+      'Combina con Cementerio Chauchilla'
+    ],
+    nearbyAttractions: ['maria-reiche-museum', 'chauchilla-cemetery', 'nazca-centro'],
+    relatedSites: ['nazca-lines-flight', 'cahuachi', 'palpa-lines'],
+    gettingThere: 'On Pan-American Highway, 20km north of Nazca town. Any bus can stop here.',
+    gettingThereEs: 'En Carretera Panamericana, 20km al norte del pueblo de Nazca. Cualquier bus puede parar aquí.',
+    facilities: [
+      'Observation tower',
+      'Small museum area',
+      'Basic restrooms',
+      'Souvenir vendors',
+      'Parking',
+      'No shade - bring protection'
+    ],
+    facilitiesEs: [
+      'Torre de observación',
+      'Pequeña área de museo',
+      'Baños básicos',
+      'Vendedores de souvenirs',
+      'Estacionamiento',
+      'Sin sombra - lleva protección'
+    ]
   }
 ];
 
