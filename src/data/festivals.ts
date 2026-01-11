@@ -1849,6 +1849,98 @@ export const festivals: Festival[] = [
     practicalInfo: 'Date varies yearly (before Lent). Hotels fill up fast - book months ahead. No one is safe from water/paint! Main parade on carnival Sunday.',
     practicalInfoEs: 'La fecha varía cada año (antes de Cuaresma). Los hoteles se llenan rápido - reserva con meses de anticipación. ¡Nadie está a salvo del agua/pintura! Desfile principal el domingo de carnaval.',
     relatedFestivals: ['virgen-candelaria', 'vendimia-ica']
+  },
+  {
+    slug: 'semana-santa-ayacucho',
+    name: 'Semana Santa in Ayacucho',
+    nameEs: 'Semana Santa en Ayacucho',
+    date: 'March/April (Holy Week)',
+    dateEs: 'Marzo/Abril (Semana Santa)',
+    month: 4,
+    duration: '10 days',
+    durationEs: '10 días',
+    city: 'ayacucho',
+    region: 'Ayacucho Region',
+    regionEs: 'Región Ayacucho',
+    description: 'The most spectacular Holy Week celebration in South America transforms Ayacucho into a living religious theater. Ten days of processions, carpet-lined streets, candlelit vigils, and deeply moving ceremonies draw pilgrims from around the world to witness this UNESCO-recognized tradition.',
+    descriptionEs: 'La celebración de Semana Santa más espectacular de Sudamérica transforma Ayacucho en un teatro religioso viviente. Diez días de procesiones, calles cubiertas de alfombras, vigilias con velas y ceremonias profundamente conmovedoras atraen peregrinos de todo el mundo para presenciar esta tradición reconocida por la UNESCO.',
+    history: 'Ayacucho\'s Semana Santa dates to the 16th century, blending Spanish Catholic traditions with Andean spirituality. The city\'s 33 colonial churches (one for each year of Christ\'s life) host elaborate processions. The tradition has been recognized by UNESCO as an Intangible Cultural Heritage.',
+    historyEs: 'La Semana Santa de Ayacucho data del siglo XVI, mezclando tradiciones católicas españolas con espiritualidad andina. Las 33 iglesias coloniales de la ciudad (una por cada año de la vida de Cristo) albergan elaboradas procesiones. La tradición ha sido reconocida por la UNESCO como Patrimonio Cultural Inmaterial.',
+    highlights: [
+      'Elaborate flower carpet streets',
+      'Candlelit night processions',
+      'Spectacular religious floats',
+      '33 colonial churches participate',
+      'Unique Andean-Catholic blend',
+      'UNESCO Intangible Heritage'
+    ],
+    highlightsEs: [
+      'Elaboradas alfombras de flores en las calles',
+      'Procesiones nocturnas con velas',
+      'Espectaculares carros religiosos',
+      '33 iglesias coloniales participan',
+      'Mezcla única andino-católica',
+      'Patrimonio Inmaterial de la UNESCO'
+    ],
+    activities: [
+      'Watch the flower carpet creation',
+      'Join candlelit processions',
+      'Visit the 33 colonial churches',
+      'See the dramatic Good Friday procession',
+      'Experience Easter Sunday celebration',
+      'Try traditional Ayacucho cuisine'
+    ],
+    activitiesEs: [
+      'Ver la creación de alfombras de flores',
+      'Unirse a procesiones con velas',
+      'Visitar las 33 iglesias coloniales',
+      'Ver la dramática procesión del Viernes Santo',
+      'Experimentar la celebración del Domingo de Pascua',
+      'Probar la cocina tradicional de Ayacucho'
+    ],
+    familyRating: 5,
+    crowdLevel: 'very high',
+    familyTips: [
+      'Book hotels 6+ months in advance',
+      'Flower carpet making is fascinating for kids',
+      'Night processions are magical but late',
+      'Crowds are intense - hold children\'s hands',
+      'Great for teaching about traditions',
+      'Combine with Ayacucho crafts exploration',
+      'Weather is pleasant in March/April',
+      'Try puca picante and other local dishes'
+    ],
+    familyTipsEs: [
+      'Reserva hoteles con 6+ meses de anticipación',
+      'La creación de alfombras de flores es fascinante para los niños',
+      'Las procesiones nocturnas son mágicas pero tarde',
+      'Las multitudes son intensas - toma las manos de los niños',
+      'Genial para enseñar sobre tradiciones',
+      'Combina con exploración de artesanías de Ayacucho',
+      'El clima es agradable en marzo/abril',
+      'Prueba puca picante y otros platos locales'
+    ],
+    whatToWear: 'Respectful modest clothing for church visits. Layers for cool evenings. Comfortable walking shoes essential.',
+    whatToWearEs: 'Ropa modesta y respetuosa para visitas a iglesias. Capas para noches frescas. Zapatos cómodos esenciales.',
+    foodToTry: [
+      'Puca picante (red spicy pork)',
+      'Mondongo ayacuchano (soup)',
+      'Chicharrón',
+      'Panes de Semana Santa',
+      'Ponche de habas',
+      'Siete potajes (seven dishes on Holy Thursday)'
+    ],
+    foodToTryEs: [
+      'Puca picante (cerdo picante rojo)',
+      'Mondongo ayacuchano (sopa)',
+      'Chicharrón',
+      'Panes de Semana Santa',
+      'Ponche de habas',
+      'Siete potajes (siete platos el Jueves Santo)'
+    ],
+    practicalInfo: 'Dates vary yearly with Easter. Friday before Palm Sunday through Easter Sunday. Book everything months ahead - the city fills completely. Fly from Lima (1 hour) or bus (9 hours).',
+    practicalInfoEs: 'Las fechas varían cada año con la Pascua. Viernes antes del Domingo de Ramos hasta Domingo de Pascua. Reserva todo con meses de anticipación - la ciudad se llena completamente. Vuelo desde Lima (1 hora) o bus (9 horas).',
+    relatedFestivals: ['corpus-christi-cusco', 'senor-de-los-milagros', 'virgen-candelaria']
   }
 ];
 

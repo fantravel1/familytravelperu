@@ -3103,6 +3103,233 @@ export const sites: Site[] = [
       'Estaciones de investigación',
       'Torres de observación de vida silvestre'
     ]
+  },
+  {
+    slug: 'circuito-magico-agua',
+    name: 'Circuito Mágico del Agua',
+    nameEs: 'Circuito Mágico del Agua',
+    type: 'museum',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 154,
+    description: 'A spectacular water park featuring 13 illuminated fountains, including the world\'s tallest fountain in a public park. After dark, the fountains dance to music with dazzling light shows - a magical evening experience for families that\'s uniquely Peruvian.',
+    descriptionEs: 'Un espectacular parque de agua con 13 fuentes iluminadas, incluyendo la fuente más alta del mundo en un parque público. Después del anochecer, las fuentes bailan con música y deslumbrantes shows de luces - una experiencia nocturna mágica para familias que es únicamente peruana.',
+    history: 'Opened in 2007 in the Parque de la Reserva, the Circuito Mágico del Agua holds a Guinness World Record for the largest fountain complex in a public park. The main fountain shoots water 80 meters high, and the park combines modern entertainment with Lima\'s beautiful historic surroundings.',
+    historyEs: 'Inaugurado en 2007 en el Parque de la Reserva, el Circuito Mágico del Agua tiene un Récord Mundial Guinness por el complejo de fuentes más grande en un parque público. La fuente principal dispara agua a 80 metros de altura, y el parque combina entretenimiento moderno con los hermosos alrededores históricos de Lima.',
+    highlights: [
+      '13 spectacular fountains',
+      'World record tallest fountain (80m)',
+      'Nightly music and light shows',
+      'Walk-through tunnel of water',
+      'Interactive fountains for kids',
+      'Laser and hologram shows'
+    ],
+    highlightsEs: [
+      '13 fuentes espectaculares',
+      'Fuente más alta del mundo (80m) récord',
+      'Shows nocturnos de música y luces',
+      'Túnel de agua para caminar',
+      'Fuentes interactivas para niños',
+      'Shows de láser y hologramas'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults ~$1.50, children ~$0.50',
+    entranceFeeEs: 'Adultos ~$1.50, niños ~$0.50',
+    bestTime: 'Go at dusk (6-7pm) to see fountains in daylight AND illuminated',
+    bestTimeEs: 'Ve al atardecer (6-7pm) para ver las fuentes de día Y iluminadas',
+    tips: [
+      'Go at sunset to see both day and night shows',
+      'Bring towels - kids WILL get wet at interactive fountains',
+      'Light show starts after dark (~7pm)',
+      'Incredibly affordable family entertainment',
+      'Easy to reach by taxi or Metropolitano',
+      'Combine with nearby MALI museum'
+    ],
+    tipsEs: [
+      'Ve al atardecer para ver shows de día y noche',
+      'Trae toallas - los niños SE MOJARÁN en las fuentes interactivas',
+      'El show de luces comienza después del anochecer (~7pm)',
+      'Entretenimiento familiar increíblemente económico',
+      'Fácil de llegar en taxi o Metropolitano',
+      'Combina con el museo MALI cercano'
+    ],
+    nearbyAttractions: ['mali-museum', 'centro-historico-lima'],
+    relatedSites: ['mali-museum', 'parque-kennedy'],
+    gettingThere: 'Parque de la Reserva, near Plaza Grau. Taxi, Uber, or Metropolitano (Estadio station).',
+    gettingThereEs: 'Parque de la Reserva, cerca de Plaza Grau. Taxi, Uber, o Metropolitano (estación Estadio).',
+    facilities: [
+      'Restrooms',
+      'Snack vendors',
+      'Seating areas',
+      'Wheelchair accessible',
+      'Baby changing',
+      'Photo opportunities everywhere'
+    ],
+    facilitiesEs: [
+      'Baños',
+      'Vendedores de snacks',
+      'Áreas de asientos',
+      'Accesible en silla de ruedas',
+      'Cambiador de bebés',
+      'Oportunidades de fotos en todas partes'
+    ]
+  },
+  {
+    slug: 'parque-leyendas',
+    name: 'Parque de las Leyendas (Lima Zoo)',
+    nameEs: 'Parque de las Leyendas',
+    type: 'natural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 60,
+    description: 'Lima\'s beloved zoo combines animal exhibits with pre-Columbian ruins and botanical gardens across three ecological zones: coast, highlands, and jungle. Kids love the petting zoo, playground, and paddle boats while learning about Peru\'s incredible biodiversity.',
+    descriptionEs: 'El querido zoológico de Lima combina exhibiciones de animales con ruinas precolombinas y jardines botánicos a través de tres zonas ecológicas: costa, sierra y selva. A los niños les encanta el zoológico de contacto, el área de juegos y los botes a pedal mientras aprenden sobre la increíble biodiversidad del Perú.',
+    history: 'Opened in 1964, the zoo sits on land that was once the pre-Inca Maranga culture capital. The 247-acre park contains numerous huacas (pyramids) among its animal exhibits. With over 1,500 animals and 215 species, it\'s one of the largest zoos in Latin America.',
+    historyEs: 'Inaugurado en 1964, el zoológico se encuentra en tierras que fueron la capital de la cultura pre-Inca Maranga. El parque de 100 hectáreas contiene numerosas huacas (pirámides) entre sus exhibiciones de animales. Con más de 1,500 animales y 215 especies, es uno de los zoológicos más grandes de Latinoamérica.',
+    highlights: [
+      'Three zones: Coast, Highlands, Jungle',
+      'Pre-Columbian pyramids within zoo',
+      'Peruvian animals: llamas, condors, jaguars',
+      'Interactive petting zoo',
+      'Paddle boats and playgrounds',
+      'Botanical gardens'
+    ],
+    highlightsEs: [
+      'Tres zonas: Costa, Sierra, Selva',
+      'Pirámides precolombinas dentro del zoológico',
+      'Animales peruanos: llamas, cóndores, jaguares',
+      'Zoológico de contacto interactivo',
+      'Botes a pedal y áreas de juegos',
+      'Jardines botánicos'
+    ],
+    familyRating: 5,
+    minAge: 1,
+    duration: '3-5 hours',
+    durationEs: '3-5 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults ~$5, children ~$2',
+    entranceFeeEs: 'Adultos ~$5, niños ~$2',
+    bestTime: 'Morning (9-11am) when animals are most active. Avoid midday heat.',
+    bestTimeEs: 'Mañana (9-11am) cuando los animales están más activos. Evita el calor del mediodía.',
+    tips: [
+      'It\'s huge - rent a cart or bring stroller',
+      'Morning is best for active animals',
+      'Pack snacks and water',
+      'Don\'t miss the Peruvian species section',
+      'Huaca ruins are fascinating bonus',
+      'Weekdays are less crowded'
+    ],
+    tipsEs: [
+      'Es enorme - alquila un carrito o trae cochecito',
+      'La mañana es mejor para animales activos',
+      'Empaca snacks y agua',
+      'No te pierdas la sección de especies peruanas',
+      'Las ruinas de huacas son un bonus fascinante',
+      'Entre semana está menos lleno'
+    ],
+    nearbyAttractions: ['san-miguel-mall', 'la-marina-lighthouse'],
+    relatedSites: ['pachacamac', 'huaca-pucllana'],
+    gettingThere: 'San Miguel district. Taxi or Uber from Miraflores (~20 min). Large parking area.',
+    gettingThereEs: 'Distrito de San Miguel. Taxi o Uber desde Miraflores (~20 min). Gran área de estacionamiento.',
+    facilities: [
+      'Multiple restaurants',
+      'Clean restrooms throughout',
+      'Cart/wheelchair rental',
+      'Gift shops',
+      'Paddle boat rental',
+      'Playground areas',
+      'Picnic areas'
+    ],
+    facilitiesEs: [
+      'Múltiples restaurantes',
+      'Baños limpios en todo el parque',
+      'Alquiler de carritos/sillas de ruedas',
+      'Tiendas de regalos',
+      'Alquiler de botes a pedal',
+      'Áreas de juegos',
+      'Áreas de picnic'
+    ]
+  },
+  {
+    slug: 'chinchero',
+    name: 'Chinchero',
+    nameEs: 'Chinchero',
+    type: 'archaeological',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3762,
+    description: 'A living Inca town where time seems to stand still, Chinchero combines spectacular Inca ruins with a colonial church built on Inca foundations, a famous Sunday market, and world-renowned traditional weaving. Watch master weavers demonstrate ancient techniques passed down for generations.',
+    descriptionEs: 'Un pueblo Inca viviente donde el tiempo parece detenerse, Chinchero combina espectaculares ruinas Incas con una iglesia colonial construida sobre cimientos Incas, un famoso mercado dominical y tejido tradicional de renombre mundial. Observa a maestras tejedoras demostrar técnicas antiguas transmitidas por generaciones.',
+    history: 'Chinchero was the royal estate of Inca Tupac Yupanqui and features impressive agricultural terraces and ceremonial spaces. When the Spanish arrived, they built a church directly on the Inca palace foundation - a powerful symbol of conquest still visible today. The town has preserved its weaving traditions for over 500 years.',
+    historyEs: 'Chinchero fue la propiedad real del Inca Túpac Yupanqui y presenta impresionantes terrazas agrícolas y espacios ceremoniales. Cuando llegaron los españoles, construyeron una iglesia directamente sobre los cimientos del palacio Inca - un poderoso símbolo de conquista aún visible hoy. El pueblo ha preservado sus tradiciones textiles por más de 500 años.',
+    highlights: [
+      'Inca ruins and terraces',
+      'Colonial church on Inca foundations',
+      'Famous Sunday market',
+      'Traditional weaving demonstrations',
+      'Natural dye techniques',
+      'Stunning mountain views'
+    ],
+    highlightsEs: [
+      'Ruinas y terrazas Incas',
+      'Iglesia colonial sobre cimientos Incas',
+      'Famoso mercado dominical',
+      'Demostraciones de tejido tradicional',
+      'Técnicas de teñido natural',
+      'Impresionantes vistas de montañas'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico (~$20) or single entry ~$3',
+    entranceFeeEs: 'Incluido en Boleto Turístico (~$20) o entrada simple ~$3',
+    bestTime: 'Sunday for market, any day for ruins and weaving',
+    bestTimeEs: 'Domingo para el mercado, cualquier día para ruinas y tejido',
+    tips: [
+      'Sunday market is unmissable!',
+      'Weaving demonstrations are fascinating for kids',
+      'Let kids try using a backstrap loom',
+      'Higher altitude than Cusco - acclimatize first',
+      'Buy authentic textiles directly from weavers',
+      'Visit the church for Inca-Spanish history lesson'
+    ],
+    tipsEs: [
+      '¡El mercado del domingo es imperdible!',
+      'Las demostraciones de tejido son fascinantes para los niños',
+      'Deja que los niños intenten usar un telar de cintura',
+      'Mayor altitud que Cusco - aclimátate primero',
+      'Compra textiles auténticos directamente de las tejedoras',
+      'Visita la iglesia para una lección de historia Inca-española'
+    ],
+    nearbyAttractions: ['moray', 'maras-salt-mines', 'sacred-valley'],
+    relatedSites: ['moray', 'maras-salt-mines', 'ollantaytambo'],
+    gettingThere: '30km from Cusco (45 min), on the way to Sacred Valley. Included in most Sacred Valley tours.',
+    gettingThereEs: '30km de Cusco (45 min), camino al Valle Sagrado. Incluido en la mayoría de tours del Valle Sagrado.',
+    facilities: [
+      'Restrooms',
+      'Small restaurants',
+      'Weaving cooperatives',
+      'Market stalls (Sunday)',
+      'Parking',
+      'Local guides available'
+    ],
+    facilitiesEs: [
+      'Baños',
+      'Pequeños restaurantes',
+      'Cooperativas de tejido',
+      'Puestos de mercado (domingo)',
+      'Estacionamiento',
+      'Guías locales disponibles'
+    ]
   }
 ];
 
