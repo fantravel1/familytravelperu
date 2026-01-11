@@ -1942,6 +1942,132 @@ export const cities: City[] = [
       { name: 'Suite Plaza Hotel', type: 'Modern', priceRange: '$$' },
       { name: 'Hotel Don Carlos', type: 'Budget', priceRange: '$' }
     ]
+  },
+  {
+    slug: 'tumbes',
+    name: 'Tumbes',
+    nameEs: 'Tumbes',
+    region: 'Tumbes Region',
+    regionEs: 'Región Tumbes',
+    altitude: 7,
+    population: '120,000',
+    description: 'Peru\'s northernmost coastal city offers warm tropical beaches, mangrove ecosystems, and access to pristine beaches like Punta Sal and Zorritos. The year-round warm water makes it Peru\'s only truly tropical beach destination.',
+    descriptionEs: 'La ciudad costera más al norte de Perú ofrece playas tropicales cálidas, ecosistemas de manglar y acceso a playas prístinas como Punta Sal y Zorritos. El agua cálida todo el año la convierte en el único destino de playa verdaderamente tropical de Perú.',
+    highlights: [
+      'Warm tropical beaches year-round',
+      'Mangrove National Sanctuary',
+      'Punta Sal resort beaches',
+      'Whale watching (July-October)',
+      'Fresh ceviche and seafood',
+      'Gateway to Ecuador border'
+    ],
+    highlightsEs: [
+      'Playas tropicales cálidas todo el año',
+      'Santuario Nacional Los Manglares',
+      'Playas resort de Punta Sal',
+      'Avistamiento de ballenas (julio-octubre)',
+      'Ceviche fresco y mariscos',
+      'Puerta de entrada a la frontera con Ecuador'
+    ],
+    familyRating: 4,
+    bestMonths: [1, 2, 3, 4, 5, 6, 11, 12],
+    minDays: 3,
+    nearbyAttractions: ['punta-sal', 'manglares-tumbes', 'zorritos'],
+    relatedCities: ['piura', 'mancora', 'chiclayo'],
+    activities: ['beach-day', 'mangrove-tour', 'whale-watching', 'snorkeling'],
+    climate: 'Tropical climate. Warm year-round (24-33°C). Rainy season January-April.',
+    climateEs: 'Clima tropical. Cálido todo el año (24-33°C). Temporada lluviosa enero-abril.',
+    gettingThere: 'Flights from Lima (1.5 hours). Bus from Lima (18-20 hours). Near Ecuador border.',
+    gettingThereEs: 'Vuelos desde Lima (1.5 horas). Bus desde Lima (18-20 horas). Cerca de la frontera con Ecuador.',
+    familyTips: [
+      'Warmest swimming water in Peru',
+      'Punta Sal has best family resorts',
+      'Mangrove tours are educational and fun',
+      'Great seafood everywhere',
+      'Less crowded than Máncora',
+      'Can combine with Ecuador trip'
+    ],
+    familyTipsEs: [
+      'Agua de natación más cálida de Perú',
+      'Punta Sal tiene los mejores resorts familiares',
+      'Los tours de manglar son educativos y divertidos',
+      'Gran marisco en todas partes',
+      'Menos lleno que Máncora',
+      'Puede combinarse con viaje a Ecuador'
+    ],
+    restaurants: [
+      { name: 'Restaurant Eduardo', type: 'Seafood', kidFriendly: true },
+      { name: 'Cevichería Puerto Pizarro', type: 'Ceviche', kidFriendly: true },
+      { name: 'La Cabaña', type: 'Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Casa Andina Tumbes', type: 'Chain', priceRange: '$$' },
+      { name: 'Hotel Costa del Sol', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Punta Sal resorts', type: 'Beach resort', priceRange: '$$$' }
+    ]
+  },
+  {
+    slug: 'moquegua',
+    name: 'Moquegua',
+    nameEs: 'Moquegua',
+    region: 'Moquegua Region',
+    regionEs: 'Región Moquegua',
+    altitude: 1410,
+    population: '75,000',
+    description: 'A peaceful colonial city in Peru\'s southern desert known for excellent pisco production, beautiful colonial architecture, and the unique Cerro Baúl archaeological site. Less touristy but rich in history and wine culture.',
+    descriptionEs: 'Una tranquila ciudad colonial en el desierto del sur de Perú conocida por su excelente producción de pisco, hermosa arquitectura colonial y el único sitio arqueológico de Cerro Baúl. Menos turística pero rica en historia y cultura del vino.',
+    highlights: [
+      'Colonial plaza and architecture',
+      'Excellent pisco and wine bodegas',
+      'Cerro Baúl Wari ruins',
+      'Museo Contisuyo',
+      'Pleasant year-round climate',
+      'Authentic southern Peru culture'
+    ],
+    highlightsEs: [
+      'Plaza colonial y arquitectura',
+      'Excelentes bodegas de pisco y vino',
+      'Ruinas Wari de Cerro Baúl',
+      'Museo Contisuyo',
+      'Clima agradable todo el año',
+      'Auténtica cultura del sur de Perú'
+    ],
+    familyRating: 3,
+    bestMonths: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    minDays: 2,
+    nearbyAttractions: ['cerro-baul', 'torata-valley', 'pisco-bodegas'],
+    relatedCities: ['tacna', 'arequipa', 'ilo'],
+    activities: ['pisco-tasting-tour', 'archaeology-tour', 'colonial-walk'],
+    climate: 'Desert climate. Warm and dry year-round (15-28°C). Very little rainfall.',
+    climateEs: 'Clima desértico. Cálido y seco todo el año (15-28°C). Muy poca lluvia.',
+    gettingThere: 'Bus from Arequipa (3-4 hours). Bus from Tacna (2-3 hours). No commercial flights.',
+    gettingThereEs: 'Bus desde Arequipa (3-4 horas). Bus desde Tacna (2-3 horas). Sin vuelos comerciales.',
+    familyTips: [
+      'Very peaceful - good for relaxation',
+      'Pisco bodegas welcome families',
+      'Try the local macerated fruits',
+      'Good stopover between Arequipa and Tacna',
+      'Less English spoken - Spanish helpful',
+      'Cerro Baúl is fascinating archaeology'
+    ],
+    familyTipsEs: [
+      'Muy tranquilo - bueno para relajación',
+      'Las bodegas de pisco dan la bienvenida a familias',
+      'Prueba las frutas maceradas locales',
+      'Buena parada entre Arequipa y Tacna',
+      'Menos inglés hablado - español útil',
+      'Cerro Baúl es arqueología fascinante'
+    ],
+    restaurants: [
+      { name: 'El Cabildo', type: 'Peruvian', kidFriendly: true },
+      { name: 'Moraly', type: 'Regional', kidFriendly: true },
+      { name: 'Plaza restaurants', type: 'Local', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Hotel El Punto', type: 'Modern', priceRange: '$$' },
+      { name: 'Hostal Plaza', type: 'Budget', priceRange: '$' },
+      { name: 'Hotel Cristina', type: 'Mid-range', priceRange: '$$' }
+    ]
   }
 ];
 

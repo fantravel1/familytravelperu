@@ -3742,6 +3742,356 @@ export const activities: Activity[] = [
       { name: 'Mariposario Tarapoto', familyFriendly: true },
       { name: 'Various jungle lodges', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'surfing-lessons',
+    name: 'Surfing Lessons',
+    nameEs: 'Clases de Surf',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Learn to surf on Peru\'s Pacific coast, which offers consistent waves perfect for beginners. Miraflores and Huanchaco beaches provide gentle waves, warm instructors, and family-friendly surf schools with all equipment included.',
+    descriptionEs: 'Aprende a surfear en la costa del Pacífico de Perú, que ofrece olas consistentes perfectas para principiantes. Las playas de Miraflores y Huanchaco proporcionan olas suaves, instructores cálidos y escuelas de surf familiares con todo el equipo incluido.',
+    whatToExpect: '1-2 hour lessons including beach safety, paddling practice, and standing on the board. Wetsuits and boards provided. Most kids can stand up by end of first lesson.',
+    whatToExpectEs: 'Lecciones de 1-2 horas incluyendo seguridad en la playa, práctica de remo y pararse en la tabla. Trajes de neopreno y tablas proporcionados. La mayoría de los niños pueden pararse al final de la primera lección.',
+    highlights: [
+      'Beginner-friendly waves',
+      'All equipment provided',
+      'Patient bilingual instructors',
+      'Year-round surfing possible',
+      'Great Peruvian surf culture',
+      'Multiple beach options'
+    ],
+    highlightsEs: [
+      'Olas amigables para principiantes',
+      'Todo el equipo proporcionado',
+      'Instructores bilingües pacientes',
+      'Surf posible todo el año',
+      'Gran cultura de surf peruana',
+      'Múltiples opciones de playa'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '1-2 hours per lesson',
+    durationEs: '1-2 horas por lección',
+    difficulty: 'moderate',
+    priceRange: '$30-60 per lesson',
+    priceRangeEs: '$30-60 por lección',
+    bestTime: 'Year-round. Summer (Dec-Mar) has warmer water. Winter has larger waves.',
+    bestTimeEs: 'Todo el año. Verano (dic-mar) tiene agua más cálida. Invierno tiene olas más grandes.',
+    includes: [
+      'Surfboard',
+      'Wetsuit',
+      'Instructor',
+      'Safety briefing',
+      'Beach access',
+      'Sometimes photos/video'
+    ],
+    includesEs: [
+      'Tabla de surf',
+      'Traje de neopreno',
+      'Instructor',
+      'Instrucciones de seguridad',
+      'Acceso a la playa',
+      'A veces fotos/video'
+    ],
+    tips: [
+      'Book morning lessons for calmer water',
+      'Apply reef-safe sunscreen before',
+      'Eat light meal 1-2 hours before',
+      'Huanchaco great for beginners',
+      'Lima Miraflores very convenient',
+      'Kids often learn faster than adults!'
+    ],
+    tipsEs: [
+      'Reserva lecciones matutinas para agua más tranquila',
+      'Aplica bloqueador solar reef-safe antes',
+      'Come comida ligera 1-2 horas antes',
+      'Huanchaco genial para principiantes',
+      'Lima Miraflores muy conveniente',
+      '¡Los niños a menudo aprenden más rápido que los adultos!'
+    ],
+    safetyNotes: [
+      'Always surf with instructor supervision',
+      'Learn rip current awareness',
+      'Proper warm-up prevents injuries',
+      'Stay in designated areas'
+    ],
+    safetyNotesEs: [
+      'Siempre surfea con supervisión del instructor',
+      'Aprende sobre corrientes de resaca',
+      'Calentamiento adecuado previene lesiones',
+      'Mantente en áreas designadas'
+    ],
+    relatedActivities: ['stand-up-paddleboarding', 'beach-day', 'kayaking'],
+    providers: [
+      { name: 'Pukana Surf', familyFriendly: true },
+      { name: 'Larcomar Surf School', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pisco-tasting-tour',
+    name: 'Pisco Vineyard & Tasting Tour',
+    nameEs: 'Tour de Viñedos y Degustación de Pisco',
+    type: 'culinary',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Visit historic pisco distilleries and vineyards in Peru\'s wine country. Learn how Peru\'s national spirit is made, from grape to bottle. Many bodegas offer grape juice for kids and family-friendly tours of the traditional production process.',
+    descriptionEs: 'Visita destilerías históricas de pisco y viñedos en la región vinícola de Perú. Aprende cómo se hace el licor nacional de Perú, desde la uva hasta la botella. Muchas bodegas ofrecen jugo de uva para niños y tours familiares del proceso tradicional de producción.',
+    whatToExpect: 'Tour historic haciendas, see copper stills, learn about grape varieties, and taste different pisco styles. Kids enjoy seeing the process and often get grape juice tastings. Many bodegas have gardens and peacocks.',
+    whatToExpectEs: 'Recorre haciendas históricas, ve alambiques de cobre, aprende sobre variedades de uva y prueba diferentes estilos de pisco. Los niños disfrutan viendo el proceso y a menudo reciben degustaciones de jugo de uva. Muchas bodegas tienen jardines y pavorreales.',
+    highlights: [
+      'Historic hacienda settings',
+      'Traditional copper stills',
+      'Grape juice for kids',
+      'Pisco sour demonstration',
+      'Beautiful vineyard scenery',
+      'Cultural education'
+    ],
+    highlightsEs: [
+      'Entornos de haciendas históricas',
+      'Alambiques de cobre tradicionales',
+      'Jugo de uva para niños',
+      'Demostración de pisco sour',
+      'Hermoso paisaje de viñedos',
+      'Educación cultural'
+    ],
+    familyRating: 4,
+    minAge: 3,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$10-30 per person',
+    priceRangeEs: '$10-30 por persona',
+    bestTime: 'March (harvest season) is most exciting. Year-round visits possible.',
+    bestTimeEs: 'Marzo (temporada de cosecha) es más emocionante. Visitas posibles todo el año.',
+    includes: [
+      'Guided tour',
+      'Pisco tastings (adults)',
+      'Grape juice (kids)',
+      'History presentation',
+      'Garden access',
+      'Sometimes lunch options'
+    ],
+    includesEs: [
+      'Tour guiado',
+      'Degustaciones de pisco (adultos)',
+      'Jugo de uva (niños)',
+      'Presentación histórica',
+      'Acceso al jardín',
+      'A veces opciones de almuerzo'
+    ],
+    tips: [
+      'Combine with Huacachina sandboarding',
+      'Vendimia festival in March is amazing',
+      'Tacama and Vista Alegre are family-friendly',
+      'Book ahead for harvest season',
+      'Don\'t drink and drive - use tour',
+      'Kids love the peacocks at some bodegas'
+    ],
+    tipsEs: [
+      'Combina con sandboarding en Huacachina',
+      'El festival de Vendimia en marzo es increíble',
+      'Tacama y Vista Alegre son familiares',
+      'Reserva con anticipación para temporada de cosecha',
+      'No bebas y conduzcas - usa tour',
+      'A los niños les encantan los pavorreales en algunas bodegas'
+    ],
+    safetyNotes: [
+      'Adults only for alcohol tasting',
+      'Designated driver or tour recommended',
+      'Stay on marked paths in vineyards',
+      'Sun protection in outdoor areas'
+    ],
+    safetyNotesEs: [
+      'Solo adultos para degustación de alcohol',
+      'Conductor designado o tour recomendado',
+      'Mantente en senderos marcados en viñedos',
+      'Protección solar en áreas exteriores'
+    ],
+    relatedActivities: ['sandboarding-huacachina', 'peruvian-cooking-class', 'wine-tasting'],
+    providers: [
+      { name: 'Tacama Winery', familyFriendly: true },
+      { name: 'Vista Alegre', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'textile-weaving-workshop',
+    name: 'Traditional Textile Weaving Workshop',
+    nameEs: 'Taller de Tejido Tradicional',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn the ancient art of Andean textile weaving from master weavers in Cusco or Sacred Valley communities. Discover how natural dyes are made from plants and insects, and try weaving on a traditional backstrap loom.',
+    descriptionEs: 'Aprende el arte antiguo del tejido textil andino de maestras tejedoras en comunidades de Cusco o el Valle Sagrado. Descubre cómo se hacen los tintes naturales de plantas e insectos, e intenta tejer en un telar de cintura tradicional.',
+    whatToExpect: 'Interactive workshops where you learn about natural dyes (cochineal, plants), spinning wool, and basic weaving techniques. Take home a small woven piece. Incredible for understanding Andean culture.',
+    whatToExpectEs: 'Talleres interactivos donde aprendes sobre tintes naturales (cochinilla, plantas), hilado de lana y técnicas básicas de tejido. Llévate a casa una pequeña pieza tejida. Increíble para entender la cultura andina.',
+    highlights: [
+      'Learn from master weavers',
+      'Natural dye demonstration',
+      'Try backstrap loom weaving',
+      'Take home your creation',
+      'Support local communities',
+      'Understand textile symbolism'
+    ],
+    highlightsEs: [
+      'Aprende de maestras tejedoras',
+      'Demostración de tintes naturales',
+      'Intenta tejer en telar de cintura',
+      'Llévate tu creación a casa',
+      'Apoya a comunidades locales',
+      'Entiende el simbolismo textil'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-4 hours',
+    durationEs: '2-4 horas',
+    difficulty: 'easy',
+    priceRange: '$20-60 per person',
+    priceRangeEs: '$20-60 por persona',
+    bestTime: 'Year-round. Mornings when weavers are freshest.',
+    bestTimeEs: 'Todo el año. Mañanas cuando las tejedoras están más frescas.',
+    includes: [
+      'All materials',
+      'Expert instruction',
+      'Natural dye demonstration',
+      'Small woven item to keep',
+      'Community visit',
+      'Often includes tea/snack'
+    ],
+    includesEs: [
+      'Todos los materiales',
+      'Instrucción experta',
+      'Demostración de tintes naturales',
+      'Pequeño artículo tejido para llevarse',
+      'Visita a la comunidad',
+      'A menudo incluye té/bocadillo'
+    ],
+    tips: [
+      'Chinchero has famous weaving tradition',
+      'Kids love the cochineal bug dye demo',
+      'Buying textiles supports families directly',
+      'Ask about symbols and meanings',
+      'Great rainy day activity',
+      'Photos usually welcome'
+    ],
+    tipsEs: [
+      'Chinchero tiene famosa tradición de tejido',
+      'A los niños les encanta la demostración de tinte de cochinilla',
+      'Comprar textiles apoya directamente a las familias',
+      'Pregunta sobre símbolos y significados',
+      'Gran actividad para día lluvioso',
+      'Fotos usualmente bienvenidas'
+    ],
+    safetyNotes: [
+      'Very safe activity',
+      'Supervision for young children with tools',
+      'Some dyes may stain clothing',
+      'Altitude considerations in highlands'
+    ],
+    safetyNotesEs: [
+      'Actividad muy segura',
+      'Supervisión para niños pequeños con herramientas',
+      'Algunos tintes pueden manchar la ropa',
+      'Consideraciones de altitud en tierras altas'
+    ],
+    relatedActivities: ['pottery-class', 'peruvian-cooking-class', 'community-visit'],
+    providers: [
+      { name: 'Centro de Textiles Tradicionales', familyFriendly: true },
+      { name: 'Chinchero weaving cooperatives', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lake-titicaca-kayaking',
+    name: 'Lake Titicaca Kayaking',
+    nameEs: 'Kayak en el Lago Titicaca',
+    type: 'adventure',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Paddle across the world\'s highest navigable lake in a kayak, exploring the famous floating Uros islands and pristine waters with stunning Andean mountain views. A unique perspective on Lake Titicaca away from motorboat crowds.',
+    descriptionEs: 'Rema a través del lago navegable más alto del mundo en kayak, explorando las famosas islas flotantes de los Uros y aguas prístinas con impresionantes vistas de montañas andinas. Una perspectiva única del Lago Titicaca lejos de las multitudes de lanchas.',
+    whatToExpect: 'Half-day or full-day kayaking tours. Paddle to Uros floating islands, glide past totora reeds, and enjoy the high-altitude adventure. Guides provide instruction and ensure safety. Double kayaks available for families.',
+    whatToExpectEs: 'Tours de kayak de medio día o día completo. Rema hacia las islas flotantes de los Uros, deslízate junto a totoras y disfruta la aventura de alta altitud. Los guías proporcionan instrucción y aseguran la seguridad. Kayaks dobles disponibles para familias.',
+    highlights: [
+      'World\'s highest navigable lake',
+      'Visit Uros floating islands by kayak',
+      'Stunning Andean scenery',
+      'Peaceful alternative to boats',
+      'Wildlife spotting opportunities',
+      'Unique adventure experience'
+    ],
+    highlightsEs: [
+      'Lago navegable más alto del mundo',
+      'Visita islas flotantes Uros en kayak',
+      'Impresionante paisaje andino',
+      'Alternativa pacífica a las lanchas',
+      'Oportunidades de avistamiento de fauna',
+      'Experiencia de aventura única'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '3-6 hours',
+    durationEs: '3-6 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'April to October (dry season) for calmest waters',
+    bestTimeEs: 'Abril a octubre (temporada seca) para aguas más tranquilas',
+    includes: [
+      'Kayak and paddle',
+      'Life jacket',
+      'Waterproof bags',
+      'Experienced guide',
+      'Snacks/lunch on longer tours',
+      'Hotel pickup (some operators)'
+    ],
+    includesEs: [
+      'Kayak y remo',
+      'Chaleco salvavidas',
+      'Bolsas impermeables',
+      'Guía experimentado',
+      'Bocadillos/almuerzo en tours más largos',
+      'Recogida en hotel (algunos operadores)'
+    ],
+    tips: [
+      'Acclimate to altitude before kayaking',
+      'Bring layers - weather changes fast',
+      'Sun protection essential at altitude',
+      'Double kayaks great for parent-child',
+      'Morning departures for calmest water',
+      'More intimate than boat tours'
+    ],
+    tipsEs: [
+      'Aclimatarse a la altitud antes de kayak',
+      'Lleva capas - el clima cambia rápido',
+      'Protección solar esencial en altitud',
+      'Kayaks dobles geniales para padre-hijo',
+      'Salidas matutinas para agua más tranquila',
+      'Más íntimo que tours en lancha'
+    ],
+    safetyNotes: [
+      'Life jackets mandatory',
+      'Altitude affects exertion - pace yourself',
+      'Stay with group at all times',
+      'Weather can change rapidly',
+      'Swimming not recommended (very cold)'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas obligatorios',
+      'La altitud afecta el esfuerzo - tómatelo con calma',
+      'Mantente con el grupo en todo momento',
+      'El clima puede cambiar rápidamente',
+      'Nadar no recomendado (muy frío)'
+    ],
+    relatedActivities: ['stand-up-paddleboarding', 'uros-islands-tour', 'amantani-homestay'],
+    providers: [
+      { name: 'Titicaca Peru Expeditions', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
   }
 ];
 

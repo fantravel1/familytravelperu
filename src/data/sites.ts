@@ -3627,6 +3627,300 @@ export const sites: Site[] = [
       'Tienda de recuerdos',
       'Estacionamiento'
     ]
+  },
+  {
+    slug: 'huaca-de-la-luna',
+    name: 'Huaca de la Luna (Temple of the Moon)',
+    nameEs: 'Huaca de la Luna (Templo de la Luna)',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'One of Peru\'s most impressive Moche archaeological sites, the Temple of the Moon features extraordinary polychrome murals depicting the deity Ai Apaec. Unlike many sites, the vivid colors of 1,500-year-old murals are remarkably preserved.',
+    descriptionEs: 'Uno de los sitios arqueológicos Moche más impresionantes de Perú, el Templo de la Luna presenta extraordinarios murales policromados que representan a la deidad Ai Apaec. A diferencia de muchos sitios, los colores vívidos de murales de 1,500 años están notablemente preservados.',
+    history: 'Built by the Moche civilization (100-800 AD), the temple was constructed in layers over 600 years. Human sacrifices occurred here. Excavations continue to reveal new murals and artifacts.',
+    historyEs: 'Construido por la civilización Moche (100-800 d.C.), el templo fue construido en capas durante 600 años. Aquí ocurrieron sacrificios humanos. Las excavaciones continúan revelando nuevos murales y artefactos.',
+    highlights: [
+      'Preserved polychrome murals',
+      'Deity Ai Apaec imagery',
+      'Ongoing archaeological excavations',
+      'Excellent on-site museum',
+      'View of Huaca del Sol nearby',
+      'Less crowded than Chan Chan'
+    ],
+    highlightsEs: [
+      'Murales policromados preservados',
+      'Imágenes de la deidad Ai Apaec',
+      'Excavaciones arqueológicas en curso',
+      'Excelente museo en el sitio',
+      'Vista de Huaca del Sol cercana',
+      'Menos lleno que Chan Chan'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '~$4 adults, ~$1 children, includes guided tour',
+    entranceFeeEs: '~$4 adultos, ~$1 niños, incluye tour guiado',
+    bestTime: 'Morning for best light on murals',
+    bestTimeEs: 'Mañana para mejor luz en los murales',
+    tips: [
+      'Guided tours mandatory and excellent',
+      'Combine with Chan Chan for full day',
+      'Colors are truly amazing',
+      'Explain sacrifice history age-appropriately',
+      'Museum gives great context first',
+      'Photo-friendly site'
+    ],
+    tipsEs: [
+      'Tours guiados obligatorios y excelentes',
+      'Combina con Chan Chan para día completo',
+      'Los colores son verdaderamente increíbles',
+      'Explica la historia de sacrificios apropiadamente según la edad',
+      'El museo da gran contexto primero',
+      'Sitio amigable para fotos'
+    ],
+    nearbyAttractions: ['chan-chan', 'huanchaco', 'trujillo-centro'],
+    relatedSites: ['chan-chan', 'sipan', 'tucume'],
+    gettingThere: '8km from Trujillo center (20 min by taxi). Often combined with Chan Chan tours.',
+    gettingThereEs: '8km del centro de Trujillo (20 min en taxi). Frecuentemente combinado con tours a Chan Chan.',
+    facilities: [
+      'Excellent museum',
+      'Restrooms',
+      'Parking',
+      'Guided tours included',
+      'Gift shop',
+      'Shaded viewing areas'
+    ],
+    facilitiesEs: [
+      'Excelente museo',
+      'Baños',
+      'Estacionamiento',
+      'Tours guiados incluidos',
+      'Tienda de recuerdos',
+      'Áreas de observación con sombra'
+    ]
+  },
+  {
+    slug: 'ventanillas-de-otuzco',
+    name: 'Ventanillas de Otuzco',
+    nameEs: 'Ventanillas de Otuzco',
+    type: 'archaeological',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    description: 'An ancient pre-Inca necropolis carved into volcanic rock hillsides, featuring hundreds of square niches that look like windows. These 3,000-year-old burial chambers create a hauntingly beautiful landscape that fascinates visitors of all ages.',
+    descriptionEs: 'Una antigua necrópolis pre-Inca tallada en laderas de roca volcánica, con cientos de nichos cuadrados que parecen ventanas. Estas cámaras funerarias de 3,000 años crean un paisaje inquietantemente hermoso que fascina a visitantes de todas las edades.',
+    history: 'Created by the Cajamarca culture (1500 BC - 1500 AD), these niches held mummified remains of important individuals. The name means "little windows" in Spanish.',
+    historyEs: 'Creadas por la cultura Cajamarca (1500 a.C. - 1500 d.C.), estos nichos contenían restos momificados de individuos importantes. El nombre significa "pequeñas ventanas" en español.',
+    highlights: [
+      'Hundreds of carved burial niches',
+      'Unique "window" appearance',
+      'Beautiful countryside setting',
+      'Pre-Inca history lesson',
+      'Short visit - easy for kids',
+      'Combine with Cajamarca city'
+    ],
+    highlightsEs: [
+      'Cientos de nichos funerarios tallados',
+      'Apariencia única de "ventanas"',
+      'Hermoso entorno campestre',
+      'Lección de historia pre-Inca',
+      'Visita corta - fácil para niños',
+      'Combina con ciudad de Cajamarca'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '1 hour',
+    durationEs: '1 hora',
+    difficulty: 'easy',
+    altitude: 2850,
+    entranceFee: '~$1.50',
+    entranceFeeEs: '~$1.50',
+    bestTime: 'Morning for best light and photos',
+    bestTimeEs: 'Mañana para mejor luz y fotos',
+    tips: [
+      'Quick visit - great for short attention spans',
+      'Explain burial customs age-appropriately',
+      'Combine with Baños del Inca',
+      'Count the windows with kids!',
+      'Wear sun protection',
+      'Local guides available'
+    ],
+    tipsEs: [
+      'Visita rápida - genial para períodos de atención cortos',
+      'Explica costumbres funerarias apropiadamente según la edad',
+      'Combina con Baños del Inca',
+      '¡Cuenta las ventanas con los niños!',
+      'Usa protección solar',
+      'Guías locales disponibles'
+    ],
+    nearbyAttractions: ['banos-del-inca', 'cumbe-mayo', 'cajamarca-centro'],
+    relatedSites: ['cumbe-mayo', 'revash', 'sillustani'],
+    gettingThere: '8km from Cajamarca (15 min by taxi or combi). Easy half-day trip.',
+    gettingThereEs: '8km de Cajamarca (15 min en taxi o combi). Fácil viaje de medio día.',
+    facilities: [
+      'Basic restrooms',
+      'Small parking area',
+      'Local vendors',
+      'Viewing platforms',
+      'No formal museum'
+    ],
+    facilitiesEs: [
+      'Baños básicos',
+      'Pequeña área de estacionamiento',
+      'Vendedores locales',
+      'Plataformas de observación',
+      'Sin museo formal'
+    ]
+  },
+  {
+    slug: 'caral',
+    name: 'Caral (Sacred City)',
+    nameEs: 'Caral (Ciudad Sagrada)',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'The oldest city in the Americas, Caral dates back 5,000 years - contemporary with Egyptian pyramids. This UNESCO World Heritage Site features six pyramids and reveals a sophisticated civilization that had no warfare or weapons.',
+    descriptionEs: 'La ciudad más antigua de las Américas, Caral data de hace 5,000 años - contemporánea con las pirámides egipcias. Este Sitio Patrimonio Mundial UNESCO presenta seis pirámides y revela una civilización sofisticada que no tenía guerras ni armas.',
+    history: 'Built around 2600 BC, Caral was a thriving city of 3,000 people. Remarkably, no evidence of warfare has been found - they developed through trade and religion, not conquest.',
+    historyEs: 'Construida alrededor del 2600 a.C., Caral fue una ciudad próspera de 3,000 personas. Notablemente, no se ha encontrado evidencia de guerras - se desarrollaron a través del comercio y la religión, no la conquista.',
+    highlights: [
+      'Oldest city in Americas',
+      'UNESCO World Heritage Site',
+      'Six pyramidal structures',
+      'Peaceful civilization history',
+      'Ancient amphitheater',
+      'No evidence of warfare'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas',
+      'Sitio Patrimonio Mundial UNESCO',
+      'Seis estructuras piramidales',
+      'Historia de civilización pacífica',
+      'Anfiteatro antiguo',
+      'Sin evidencia de guerras'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-4 hours (including travel)',
+    durationEs: '3-4 horas (incluyendo viaje)',
+    difficulty: 'easy',
+    entranceFee: '~$4 adults, ~$1 children',
+    entranceFeeEs: '~$4 adultos, ~$1 niños',
+    bestTime: 'Year-round, mornings for cooler temperatures',
+    bestTimeEs: 'Todo el año, mañanas para temperaturas más frescas',
+    tips: [
+      'Fascinating "no war" history for kids',
+      'Bring plenty of water - desert climate',
+      'Sun protection essential',
+      'Guided tours recommended',
+      'Combine with beach visit at Huacho',
+      'Long day trip from Lima (4+ hours)'
+    ],
+    tipsEs: [
+      'Fascinante historia de "sin guerras" para niños',
+      'Lleva bastante agua - clima desértico',
+      'Protección solar esencial',
+      'Tours guiados recomendados',
+      'Combina con visita a playa en Huacho',
+      'Viaje largo de día desde Lima (4+ horas)'
+    ],
+    nearbyAttractions: ['huacho-beach', 'supe-valley'],
+    relatedSites: ['pachacamac', 'chan-chan', 'sechin'],
+    gettingThere: '182km north of Lima (3-4 hours by car). Day tours available from Lima. No public transport to site.',
+    gettingThereEs: '182km al norte de Lima (3-4 horas en auto). Tours de día disponibles desde Lima. Sin transporte público al sitio.',
+    facilities: [
+      'Visitor center',
+      'Restrooms',
+      'Parking',
+      'Guided tours',
+      'Small museum',
+      'Limited shade - bring hat'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes',
+      'Baños',
+      'Estacionamiento',
+      'Tours guiados',
+      'Pequeño museo',
+      'Sombra limitada - lleva sombrero'
+    ]
+  },
+  {
+    slug: 'revash',
+    name: 'Revash Mausoleums',
+    nameEs: 'Mausoleos de Revash',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Colorful house-shaped tombs painted red and cream, perched dramatically on cliff faces in the cloud forest. Built by the Chachapoyas culture, these 600-year-old mausoleums are among Peru\'s most photogenic archaeological sites.',
+    descriptionEs: 'Tumbas coloridas en forma de casas pintadas de rojo y crema, ubicadas dramáticamente en acantilados en el bosque nublado. Construidos por la cultura Chachapoyas, estos mausoleos de 600 años son de los sitios arqueológicos más fotogénicos de Perú.',
+    history: 'Built by the Chachapoyas culture (800-1475 AD), these cliff tombs housed mummified remains of important individuals. The houses represent the continuation of life after death.',
+    historyEs: 'Construidos por la cultura Chachapoyas (800-1475 d.C.), estas tumbas en acantilados albergaban restos momificados de individuos importantes. Las casas representan la continuación de la vida después de la muerte.',
+    highlights: [
+      'Colorful cliff-side tombs',
+      'Dramatic cloud forest setting',
+      'House-shaped mausoleums',
+      'Less visited than Kuélap',
+      'Beautiful hiking approach',
+      'Photography paradise'
+    ],
+    highlightsEs: [
+      'Tumbas coloridas en acantilados',
+      'Dramático entorno de bosque nublado',
+      'Mausoleos en forma de casa',
+      'Menos visitado que Kuélap',
+      'Hermosa aproximación de caminata',
+      'Paraíso de fotografía'
+    ],
+    familyRating: 3,
+    minAge: 7,
+    duration: 'Half day (3-4 hours including hike)',
+    durationEs: 'Medio día (3-4 horas incluyendo caminata)',
+    difficulty: 'moderate',
+    altitude: 2800,
+    entranceFee: '~$3',
+    entranceFeeEs: '~$3',
+    bestTime: 'May to October for driest conditions',
+    bestTimeEs: 'Mayo a octubre para condiciones más secas',
+    tips: [
+      'Moderate hike required (30-45 min)',
+      'Bring binoculars for best views',
+      'Not accessible for young children',
+      'Combine with Kuélap visit',
+      'Rain jacket recommended',
+      'Local guide helpful for history'
+    ],
+    tipsEs: [
+      'Se requiere caminata moderada (30-45 min)',
+      'Lleva binoculares para mejores vistas',
+      'No accesible para niños pequeños',
+      'Combina con visita a Kuélap',
+      'Chaqueta de lluvia recomendada',
+      'Guía local útil para la historia'
+    ],
+    nearbyAttractions: ['kuelap', 'gocta-waterfall', 'karajia'],
+    relatedSites: ['karajia', 'kuelap', 'ventanillas-de-otuzco'],
+    gettingThere: '60km south of Chachapoyas. Take transport to Santo Tomás village, then 30-45 min hike.',
+    gettingThereEs: '60km al sur de Chachapoyas. Toma transporte al pueblo de Santo Tomás, luego caminata de 30-45 min.',
+    facilities: [
+      'Basic trailhead facilities',
+      'Local guides in village',
+      'No restrooms at site',
+      'Village restaurants',
+      'Bring water and snacks'
+    ],
+    facilitiesEs: [
+      'Instalaciones básicas en inicio del sendero',
+      'Guías locales en el pueblo',
+      'Sin baños en el sitio',
+      'Restaurantes en el pueblo',
+      'Lleva agua y bocadillos'
+    ]
   }
 ];
 
