@@ -1753,6 +1753,195 @@ export const cities: City[] = [
       { name: 'El Ingenio', type: 'Hacienda', priceRange: '$$$' },
       { name: 'Hotel Laguna Seca', type: 'Hot springs', priceRange: '$$' }
     ]
+  },
+  {
+    slug: 'pucallpa',
+    name: 'Pucallpa',
+    nameEs: 'Pucallpa',
+    region: 'Ucayali Region',
+    regionEs: 'Región Ucayali',
+    altitude: 154,
+    population: '370,000',
+    description: 'Peru\'s second-largest Amazon city sits on the Ucayali River, offering authentic jungle experiences without the tourist infrastructure of Iquitos. The Shipibo-Conibo indigenous culture is strong here, known worldwide for their distinctive geometric art and textiles.',
+    descriptionEs: 'La segunda ciudad amazónica más grande de Perú se encuentra a orillas del río Ucayali, ofreciendo experiencias auténticas de selva sin la infraestructura turística de Iquitos. La cultura indígena Shipibo-Conibo es fuerte aquí, conocida mundialmente por su distintivo arte geométrico y textiles.',
+    highlights: [
+      'Yarinacocha Lake (oxbow lagoon)',
+      'Shipibo-Conibo indigenous communities',
+      'Authentic Amazon wildlife',
+      'Traditional craft villages',
+      'River boat adventures',
+      'Less touristic jungle experience'
+    ],
+    highlightsEs: [
+      'Laguna Yarinacocha',
+      'Comunidades indígenas Shipibo-Conibo',
+      'Fauna amazónica auténtica',
+      'Pueblos artesanales tradicionales',
+      'Aventuras en bote por el río',
+      'Experiencia de selva menos turística'
+    ],
+    familyRating: 3,
+    bestMonths: [5, 6, 7, 8, 9, 10],
+    minDays: 3,
+    nearbyAttractions: ['yarinacocha', 'san-francisco-shipibo-village'],
+    relatedCities: ['iquitos', 'tarapoto', 'lima'],
+    activities: ['amazon-jungle-tour', 'indigenous-community-visit', 'piranha-fishing'],
+    climate: 'Hot and humid year-round. Temperatures 25-35°C. Drier season May-October.',
+    climateEs: 'Caluroso y húmedo todo el año. Temperaturas 25-35°C. Temporada más seca mayo-octubre.',
+    gettingThere: 'Flights from Lima (1 hour). Bus from Lima (18-20 hours through mountains - scenic but long).',
+    gettingThereEs: 'Vuelos desde Lima (1 hora). Bus desde Lima (18-20 horas a través de montañas - escénico pero largo).',
+    familyTips: [
+      'Yarinacocha is perfect for families - calmer than rivers',
+      'Visit Shipibo villages to see art being made',
+      'Bring insect repellent and sun protection',
+      'Less English spoken - some Spanish helpful',
+      'More affordable than Iquitos lodges',
+      'Great for authentic, non-touristy Amazon'
+    ],
+    familyTipsEs: [
+      'Yarinacocha es perfecto para familias - más tranquilo que los ríos',
+      'Visita pueblos Shipibo para ver el arte siendo creado',
+      'Lleva repelente de insectos y protección solar',
+      'Menos inglés hablado - algo de español útil',
+      'Más económico que los lodges de Iquitos',
+      'Genial para Amazon auténtico y no turístico'
+    ],
+    restaurants: [
+      { name: 'El Asador', type: 'Peruvian', kidFriendly: true },
+      { name: 'Restaurant Yarinacocha', type: 'Amazon cuisine', kidFriendly: true },
+      { name: 'Chifa Central', type: 'Chinese-Peruvian', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Antonio\'s Hotel', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Sol del Oriente', type: 'Business', priceRange: '$$' },
+      { name: 'Hospedaje Yarinacocha', type: 'Budget lakeside', priceRange: '$' }
+    ]
+  },
+  {
+    slug: 'tacna',
+    name: 'Tacna',
+    nameEs: 'Tacna',
+    region: 'Tacna Region',
+    regionEs: 'Región Tacna',
+    altitude: 562,
+    population: '330,000',
+    description: 'Peru\'s southernmost city near the Chilean border is a symbol of national pride, having been occupied by Chile for 50 years before returning to Peru in 1929. The city offers desert landscapes, patriotic monuments, hot springs, and serves as a gateway to the coast and highlands.',
+    descriptionEs: 'La ciudad más al sur de Perú cerca de la frontera con Chile es un símbolo de orgullo nacional, habiendo sido ocupada por Chile por 50 años antes de regresar a Perú en 1929. La ciudad ofrece paisajes desérticos, monumentos patrióticos, aguas termales y sirve como puerta de entrada a la costa y las tierras altas.',
+    highlights: [
+      'Arco Parabólico monument',
+      'Museo de la Reincorporación',
+      'Calientes hot springs',
+      'Alto de la Alianza battlefield',
+      'Duty-free shopping (ZOFRATACNA)',
+      'Gateway to unique southern Peru'
+    ],
+    highlightsEs: [
+      'Monumento Arco Parabólico',
+      'Museo de la Reincorporación',
+      'Aguas termales de Calientes',
+      'Campo de batalla Alto de la Alianza',
+      'Compras duty-free (ZOFRATACNA)',
+      'Puerta de entrada al sur único de Perú'
+    ],
+    familyRating: 3,
+    bestMonths: [1, 2, 3, 4, 11, 12],
+    minDays: 2,
+    nearbyAttractions: ['calientes-hot-springs', 'alto-alianza', 'boca-del-rio-beach'],
+    relatedCities: ['arequipa', 'moquegua'],
+    activities: ['historical-tour', 'hot-springs-soak', 'shopping'],
+    climate: 'Desert climate. Warm and dry. Temperatures 15-28°C. Little rainfall.',
+    climateEs: 'Clima desértico. Cálido y seco. Temperaturas 15-28°C. Poca lluvia.',
+    gettingThere: 'Flights from Lima (2 hours). Bus from Arequipa (5-6 hours). Border crossing from Chile.',
+    gettingThereEs: 'Vuelos desde Lima (2 horas). Bus desde Arequipa (5-6 horas). Cruce fronterizo desde Chile.',
+    familyTips: [
+      'Hot springs at Calientes are family-friendly',
+      'History lessons come alive at museums',
+      'Good shopping for Chilean products',
+      'Pleasant weather year-round',
+      'Good base for exploring southern Peru',
+      'Combine with trip to/from Chile'
+    ],
+    familyTipsEs: [
+      'Las aguas termales en Calientes son para toda la familia',
+      'Las lecciones de historia cobran vida en los museos',
+      'Buenas compras de productos chilenos',
+      'Clima agradable todo el año',
+      'Buena base para explorar el sur de Perú',
+      'Combina con viaje a/desde Chile'
+    ],
+    restaurants: [
+      { name: 'Restaurant Uru\'s', type: 'Peruvian', kidFriendly: true },
+      { name: 'Da Vinci', type: 'Italian-Peruvian', kidFriendly: true },
+      { name: 'Pastelería Mia', type: 'Bakery', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Casa Andina Tacna', type: 'Chain', priceRange: '$$' },
+      { name: 'Gran Hotel Tacna', type: 'Historic', priceRange: '$$' },
+      { name: 'DM Hotel', type: 'Modern', priceRange: '$$' }
+    ]
+  },
+  {
+    slug: 'juliaca',
+    name: 'Juliaca',
+    nameEs: 'Juliaca',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3825,
+    population: '310,000',
+    description: 'The largest city in the Puno region and a major commercial hub of the Altiplano, Juliaca is known for its bustling markets and as a transport gateway. While not a tourist destination itself, it offers authentic highland culture and access to lesser-known attractions.',
+    descriptionEs: 'La ciudad más grande de la región Puno y un importante centro comercial del Altiplano, Juliaca es conocida por sus bulliciosos mercados y como puerta de entrada de transporte. Aunque no es un destino turístico en sí, ofrece cultura auténtica de tierras altas y acceso a atracciones menos conocidas.',
+    highlights: [
+      'Santa Catalina Church',
+      'Las Calceteras market (textiles)',
+      'Sillustani nearby',
+      'Gateway to Lake Titicaca',
+      'Authentic Altiplano culture',
+      'Major textile and craft markets'
+    ],
+    highlightsEs: [
+      'Iglesia Santa Catalina',
+      'Mercado Las Calceteras (textiles)',
+      'Sillustani cercano',
+      'Puerta de entrada al Lago Titicaca',
+      'Auténtica cultura del Altiplano',
+      'Principales mercados de textiles y artesanías'
+    ],
+    familyRating: 2,
+    bestMonths: [4, 5, 6, 7, 8, 9, 10],
+    minDays: 1,
+    nearbyAttractions: ['sillustani', 'lampa-pink-city', 'lake-titicaca'],
+    relatedCities: ['puno', 'cusco', 'arequipa'],
+    activities: ['market-exploration', 'textile-shopping'],
+    climate: 'Cold highland climate. Temperatures -5 to 18°C. Rainy November-March.',
+    climateEs: 'Clima frío de tierras altas. Temperaturas -5 a 18°C. Lluvioso noviembre-marzo.',
+    gettingThere: 'Flights from Lima and Cusco (Inca Manco Cápac Airport). Bus from Puno (1 hour), Cusco (6-7 hours).',
+    gettingThereEs: 'Vuelos desde Lima y Cusco (Aeropuerto Inca Manco Cápac). Bus desde Puno (1 hora), Cusco (6-7 horas).',
+    familyTips: [
+      'Primarily a transit stop - plan accordingly',
+      'Visit Sillustani for incredible archaeology',
+      'Great for authentic textile shopping',
+      'Altitude is high - acclimate first',
+      'Lampa nearby has surprising attractions',
+      'Continue to Puno for Lake Titicaca'
+    ],
+    familyTipsEs: [
+      'Principalmente una parada de tránsito - planifica acordemente',
+      'Visita Sillustani para arqueología increíble',
+      'Genial para compras de textiles auténticos',
+      'La altitud es alta - aclimatarse primero',
+      'Lampa cercana tiene atracciones sorprendentes',
+      'Continúa a Puno para el Lago Titicaca'
+    ],
+    restaurants: [
+      { name: 'Trujillano', type: 'Peruvian', kidFriendly: true },
+      { name: 'Rumi Restaurant', type: 'Regional', kidFriendly: true },
+      { name: 'Plaza cafes', type: 'Local', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Royal Inn', type: 'Business', priceRange: '$$' },
+      { name: 'Suite Plaza Hotel', type: 'Modern', priceRange: '$$' },
+      { name: 'Hotel Don Carlos', type: 'Budget', priceRange: '$' }
+    ]
   }
 ];
 

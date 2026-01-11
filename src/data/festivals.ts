@@ -1941,6 +1941,184 @@ export const festivals: Festival[] = [
     practicalInfo: 'Dates vary yearly with Easter. Friday before Palm Sunday through Easter Sunday. Book everything months ahead - the city fills completely. Fly from Lima (1 hour) or bus (9 hours).',
     practicalInfoEs: 'Las fechas varían cada año con la Pascua. Viernes antes del Domingo de Ramos hasta Domingo de Pascua. Reserva todo con meses de anticipación - la ciudad se llena completamente. Vuelo desde Lima (1 hora) o bus (9 horas).',
     relatedFestivals: ['corpus-christi-cusco', 'senor-de-los-milagros', 'virgen-candelaria']
+  },
+  {
+    slug: 'senor-de-los-temblores',
+    name: 'Señor de los Temblores (Lord of the Earthquakes)',
+    nameEs: 'Señor de los Temblores',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    month: 3,
+    date: 'Easter Monday (variable March/April)',
+    dateEs: 'Lunes de Pascua (variable marzo/abril)',
+    duration: '1 day',
+    durationEs: '1 día',
+    description: 'Cusco\'s most important religious festival honors the dark-skinned Christ image believed to have stopped the devastating 1650 earthquake. The solemn procession through colonial streets is showered with red ñucchu flowers, symbolizing Christ\'s blood.',
+    descriptionEs: 'El festival religioso más importante de Cusco honra la imagen del Cristo de piel oscura que se cree detuvo el devastador terremoto de 1650. La solemne procesión por calles coloniales es bañada con flores rojas ñucchu, simbolizando la sangre de Cristo.',
+    history: 'The "Taytacha" (Dear Father) image dates to the 16th century. During the 1650 earthquake, residents carried it through the streets and the tremors stopped. The dark color comes from centuries of candle smoke.',
+    historyEs: 'La imagen del "Taytacha" (Querido Padre) data del siglo XVI. Durante el terremoto de 1650, los residentes la llevaron por las calles y los temblores cesaron. El color oscuro proviene de siglos de humo de velas.',
+    highlights: [
+      'Ancient dark-skinned Christ image',
+      'Red ñucchu flower "rain"',
+      'Colonial streets transformed',
+      'Traditional brass bands',
+      'Blend of Catholic and Andean beliefs',
+      'Profound local devotion'
+    ],
+    highlightsEs: [
+      'Antigua imagen de Cristo de piel oscura',
+      '"Lluvia" de flores rojas ñucchu',
+      'Calles coloniales transformadas',
+      'Bandas de bronce tradicionales',
+      'Mezcla de creencias católicas y andinas',
+      'Profunda devoción local'
+    ],
+    familyRating: 4,
+    crowdLevel: 'very high',
+    activities: [
+      'Witness the main procession',
+      'See flower showers from balconies',
+      'Visit Cusco Cathedral',
+      'Watch brass band performances',
+      'Experience local devotion'
+    ],
+    activitiesEs: [
+      'Presenciar la procesión principal',
+      'Ver lluvias de flores desde balcones',
+      'Visitar la Catedral de Cusco',
+      'Ver presentaciones de bandas de bronce',
+      'Experimentar la devoción local'
+    ],
+    familyTips: [
+      'Very crowded - arrive early for good viewing',
+      'Profound religious event - teach kids context',
+      'Lasts several hours - bring snacks',
+      'Cool weather in evening - bring layers',
+      'Combined with Easter Monday holiday',
+      'Great opportunity to see Peruvian faith'
+    ],
+    familyTipsEs: [
+      'Muy lleno - llega temprano para buena vista',
+      'Evento religioso profundo - enseña contexto a los niños',
+      'Dura varias horas - lleva bocadillos',
+      'Clima fresco en la noche - lleva capas',
+      'Combinado con feriado de Lunes de Pascua',
+      'Gran oportunidad de ver la fe peruana'
+    ],
+    whatToWear: 'Modest, respectful clothing. Layers for cool evening. Comfortable standing shoes.',
+    whatToWearEs: 'Ropa modesta y respetuosa. Capas para noche fresca. Zapatos cómodos para estar de pie.',
+    foodToTry: [
+      'Chiriuchu (cold mixed plate)',
+      '12 traditional dishes',
+      'Tamales',
+      'Humitas',
+      'Hot chocolate',
+      'Empanadas'
+    ],
+    foodToTryEs: [
+      'Chiriuchu (plato mixto frío)',
+      '12 platos tradicionales',
+      'Tamales',
+      'Humitas',
+      'Chocolate caliente',
+      'Empanadas'
+    ],
+    practicalInfo: 'Falls on Easter Monday. Procession starts at Cusco Cathedral around noon, returns late evening. Main plaza and surrounding streets closed to traffic.',
+    practicalInfoEs: 'Cae en Lunes de Pascua. La procesión inicia en la Catedral de Cusco alrededor del mediodía, regresa tarde en la noche. Plaza principal y calles circundantes cerradas al tráfico.',
+    relatedFestivals: ['semana-santa-ayacucho', 'corpus-christi-cusco', 'inti-raymi']
+  },
+  {
+    slug: 'la-diablada-puno',
+    name: 'La Diablada (Virgen de la Candelaria)',
+    nameEs: 'La Diablada (Virgen de la Candelaria)',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    month: 2,
+    date: 'February 2-11 (with pre-events in late January)',
+    dateEs: '2-11 de febrero (con eventos previos a fines de enero)',
+    duration: '10+ days',
+    durationEs: '10+ días',
+    description: 'Peru\'s largest folklore festival features the famous "Devil Dance" with elaborate costumes, masks, and 200+ dance groups. The Diablada represents the eternal battle between good and evil, with spectacular devil and angel costumes filling Puno\'s streets.',
+    descriptionEs: 'El festival de folklore más grande de Perú presenta la famosa "Danza del Diablo" con elaborados disfraces, máscaras y más de 200 grupos de danza. La Diablada representa la eterna batalla entre el bien y el mal, con espectaculares disfraces de diablos y ángeles llenando las calles de Puno.',
+    history: 'Dating to colonial times, the Diablada blends pre-Hispanic Andean beliefs with Catholic traditions. UNESCO declared it an Intangible Cultural Heritage. The dance dramatizes the seven deadly sins versus the archangel Michael.',
+    historyEs: 'Datando de tiempos coloniales, la Diablada mezcla creencias andinas prehispánicas con tradiciones católicas. UNESCO la declaró Patrimonio Cultural Inmaterial. La danza dramatiza los siete pecados capitales versus el arcángel Miguel.',
+    highlights: [
+      'Spectacular devil costumes and masks',
+      'UNESCO Intangible Cultural Heritage',
+      'Over 200 dance groups',
+      'Giant Diablada procession',
+      'Incredible musical accompaniment',
+      'Costume competitions'
+    ],
+    highlightsEs: [
+      'Espectaculares disfraces y máscaras de diablos',
+      'Patrimonio Cultural Inmaterial UNESCO',
+      'Más de 200 grupos de danza',
+      'Procesión gigante de Diablada',
+      'Increíble acompañamiento musical',
+      'Concursos de disfraces'
+    ],
+    familyRating: 5,
+    crowdLevel: 'very high',
+    activities: [
+      'Watch Diablada dancers',
+      'See elaborate costume displays',
+      'Experience Morenada dance',
+      'Visit mask workshops',
+      'Attend stadium competitions',
+      'Photograph incredible costumes'
+    ],
+    activitiesEs: [
+      'Ver bailarines de Diablada',
+      'Ver exhibiciones de elaborados disfraces',
+      'Experimentar la danza Morenada',
+      'Visitar talleres de máscaras',
+      'Asistir a competencias en el estadio',
+      'Fotografiar increíbles disfraces'
+    ],
+    familyTips: [
+      'Kids love the colorful devil costumes',
+      'Explain it represents good vs evil',
+      'Book hotels 6+ months ahead',
+      'February is rainy - bring rain gear',
+      'Stadium seating available for competitions',
+      'Cold at night - bundle up',
+      'Combine with Lake Titicaca visit',
+      'Many activities spread across days'
+    ],
+    familyTipsEs: [
+      'A los niños les encantan los coloridos disfraces de diablos',
+      'Explica que representa el bien contra el mal',
+      'Reserva hoteles con 6+ meses de anticipación',
+      'Febrero es lluvioso - lleva equipo de lluvia',
+      'Asientos de estadio disponibles para competencias',
+      'Frío en la noche - abríguense',
+      'Combina con visita al Lago Titicaca',
+      'Muchas actividades distribuidas en días'
+    ],
+    whatToWear: 'Warm, waterproof layers. Rain jacket essential in February. Comfortable walking shoes. Bring extra socks.',
+    whatToWearEs: 'Capas abrigadas e impermeables. Chaqueta de lluvia esencial en febrero. Zapatos cómodos para caminar. Lleva calcetines extra.',
+    foodToTry: [
+      'Trucha (lake trout)',
+      'Quinoa soup',
+      'Chairo (hearty soup)',
+      'Apthapi (communal meal)',
+      'Kankacho (roasted lamb)',
+      'Torrejas (sweet fritters)'
+    ],
+    foodToTryEs: [
+      'Trucha (trucha del lago)',
+      'Sopa de quinoa',
+      'Chairo (sopa contundente)',
+      'Apthapi (comida comunal)',
+      'Kankacho (cordero asado)',
+      'Torrejas (frituras dulces)'
+    ],
+    practicalInfo: 'Main events February 2-11. Best viewing spots fill early. Stadium competitions require tickets. Fly to Juliaca from Lima, then 45 min to Puno. Cold temperatures (0-15°C) and possible rain.',
+    practicalInfoEs: 'Eventos principales febrero 2-11. Los mejores lugares de observación se llenan temprano. Las competencias en el estadio requieren entradas. Vuela a Juliaca desde Lima, luego 45 min a Puno. Temperaturas frías (0-15°C) y posible lluvia.',
+    relatedFestivals: ['virgen-candelaria', 'inti-raymi', 'corpus-christi-cusco']
   }
 ];
 

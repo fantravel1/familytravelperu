@@ -3330,6 +3330,303 @@ export const sites: Site[] = [
       'Estacionamiento',
       'Guías locales disponibles'
     ]
+  },
+  {
+    slug: 'tambopata-reserve',
+    name: 'Tambopata National Reserve',
+    nameEs: 'Reserva Nacional Tambopata',
+    type: 'natural',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'One of the most biodiverse places on Earth, Tambopata protects pristine Amazon rainforest with incredible wildlife including macaws, giant otters, caimans, and monkeys. Family-friendly lodges offer immersive jungle experiences with expert naturalist guides.',
+    descriptionEs: 'Uno de los lugares más biodiversos de la Tierra, Tambopata protege bosque amazónico prístino con increíble fauna incluyendo guacamayos, nutrias gigantes, caimanes y monos. Lodges familiares ofrecen experiencias inmersivas de selva con guías naturalistas expertos.',
+    history: 'Established in 1990 and expanded in 2000 to cover 274,690 hectares, protecting lowland Amazon rainforest and connecting with Bahuaja-Sonene National Park.',
+    historyEs: 'Establecida en 1990 y expandida en 2000 para cubrir 274,690 hectáreas, protegiendo bosque amazónico de tierras bajas y conectando con el Parque Nacional Bahuaja-Sonene.',
+    highlights: [
+      'Famous macaw clay licks (colpas)',
+      'Giant river otter sightings',
+      'Canopy towers and walkways',
+      'Night jungle walks',
+      'Lake Sandoval oxbow lake',
+      'Incredible bird diversity (600+ species)'
+    ],
+    highlightsEs: [
+      'Famosas collpas de guacamayos',
+      'Avistamiento de nutrias gigantes',
+      'Torres y pasarelas de dosel',
+      'Caminatas nocturnas en la selva',
+      'Lago Sandoval (lago de herradura)',
+      'Increíble diversidad de aves (600+ especies)'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-5 days',
+    durationEs: '3-5 días',
+    difficulty: 'moderate',
+    entranceFee: 'Included in lodge packages (lodges $150-500/night)',
+    entranceFeeEs: 'Incluido en paquetes de lodge (lodges $150-500/noche)',
+    bestTime: 'May to October (dry season) for best wildlife viewing',
+    bestTimeEs: 'Mayo a octubre (temporada seca) para mejor avistamiento de fauna',
+    tips: [
+      'Book 3-4 nights minimum for best experience',
+      'Wake early for macaw clay licks (5:30am)',
+      'Bring binoculars and camera with zoom',
+      'Rubber boots provided by lodges',
+      'Insect repellent is essential',
+      'Some lodges have minimum age requirements'
+    ],
+    tipsEs: [
+      'Reserva 3-4 noches mínimo para mejor experiencia',
+      'Despierta temprano para collpas de guacamayos (5:30am)',
+      'Lleva binoculares y cámara con zoom',
+      'Los lodges proporcionan botas de goma',
+      'El repelente de insectos es esencial',
+      'Algunos lodges tienen requisitos de edad mínima'
+    ],
+    nearbyAttractions: ['lake-sandoval', 'colpa-chuncho', 'monkey-island'],
+    relatedSites: ['manu-national-park', 'amazon-jungle'],
+    gettingThere: 'Fly to Puerto Maldonado (30 min from Lima), then boat transfer to lodges (1-3 hours).',
+    gettingThereEs: 'Vuela a Puerto Maldonado (30 min desde Lima), luego traslado en bote a los lodges (1-3 horas).',
+    facilities: [
+      'Full-service jungle lodges',
+      'Naturalist guides included',
+      'All meals included',
+      'Canopy walkways',
+      'Observation towers',
+      'Some lodges have pools'
+    ],
+    facilitiesEs: [
+      'Lodges de selva con servicio completo',
+      'Guías naturalistas incluidos',
+      'Todas las comidas incluidas',
+      'Pasarelas de dosel',
+      'Torres de observación',
+      'Algunos lodges tienen piscinas'
+    ]
+  },
+  {
+    slug: 'amantani-island',
+    name: 'Amantaní Island',
+    nameEs: 'Isla Amantaní',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'A beautiful island on Lake Titicaca where visitors can experience authentic Quechua homestays with local families. With no cars or hotels, Amantaní offers a glimpse into traditional Andean life, with ancient temples, terraced hills, and warm community hospitality.',
+    descriptionEs: 'Una hermosa isla en el Lago Titicaca donde los visitantes pueden experimentar auténticas estadías con familias Quechuas locales. Sin autos ni hoteles, Amantaní ofrece una visión de la vida andina tradicional, con templos antiguos, cerros aterrazados y cálida hospitalidad comunitaria.',
+    history: 'Inhabited for over 4,000 years, Amantaní has pre-Inca temples dedicated to Pachamama (Mother Earth) and Pachatata (Father Earth) on its twin peaks.',
+    historyEs: 'Habitada por más de 4,000 años, Amantaní tiene templos pre-Incas dedicados a Pachamama (Madre Tierra) y Pachatata (Padre Tierra) en sus picos gemelos.',
+    highlights: [
+      'Authentic homestay with local families',
+      'Pachamama and Pachatata temples',
+      'Traditional dress-up evening',
+      'Stunning lake views from hilltops',
+      'No cars, hotels, or tourism',
+      'Traditional textile weaving'
+    ],
+    highlightsEs: [
+      'Estadía auténtica con familias locales',
+      'Templos Pachamama y Pachatata',
+      'Noche de vestimenta tradicional',
+      'Impresionantes vistas del lago desde los cerros',
+      'Sin autos, hoteles ni turismo masivo',
+      'Tejido de textiles tradicionales'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '1-2 nights (overnight required)',
+    durationEs: '1-2 noches (pernocte requerido)',
+    difficulty: 'moderate',
+    altitude: 3817,
+    entranceFee: 'Community fee ~$3, homestay ~$15-25/person including meals',
+    entranceFeeEs: 'Tarifa comunitaria ~$3, estadía ~$15-25/persona incluyendo comidas',
+    bestTime: 'April to October for clear skies and calm lake',
+    bestTimeEs: 'Abril a octubre para cielos despejados y lago tranquilo',
+    tips: [
+      'Bring small gifts for host families (school supplies, fruit)',
+      'Pack warm clothes - nights are cold',
+      'Flashlight essential (limited electricity)',
+      'Embrace simple accommodations',
+      'Hike to temples for sunset - magical!',
+      'Learn basic Quechua greetings'
+    ],
+    tipsEs: [
+      'Lleva pequeños regalos para familias anfitrionas (útiles escolares, fruta)',
+      'Empaca ropa abrigada - las noches son frías',
+      'Linterna esencial (electricidad limitada)',
+      'Acepta alojamientos simples',
+      'Camina a los templos para el atardecer - ¡mágico!',
+      'Aprende saludos básicos en Quechua'
+    ],
+    nearbyAttractions: ['taquile-island', 'uros-floating-islands', 'lake-titicaca'],
+    relatedSites: ['taquile-island', 'uros-floating-islands'],
+    gettingThere: '4-hour boat ride from Puno. Usually combined with Uros and Taquile in 2-day tours.',
+    gettingThereEs: '4 horas en bote desde Puno. Usualmente combinado con Uros y Taquile en tours de 2 días.',
+    facilities: [
+      'Basic homestay accommodations',
+      'Shared meals with families',
+      'Community meeting hall',
+      'Small shops',
+      'Basic restrooms',
+      'No ATMs or internet'
+    ],
+    facilitiesEs: [
+      'Alojamiento básico en casas familiares',
+      'Comidas compartidas con familias',
+      'Salón de reuniones comunitario',
+      'Pequeñas tiendas',
+      'Baños básicos',
+      'Sin cajeros ni internet'
+    ]
+  },
+  {
+    slug: 'chan-chan',
+    name: 'Chan Chan',
+    nameEs: 'Chan Chan',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'The largest adobe city in the ancient world and capital of the Chimú Empire. This UNESCO World Heritage Site features elaborate mud-brick palaces, plazas, and walls decorated with intricate geometric patterns. A must-see for families interested in pre-Inca civilizations.',
+    descriptionEs: 'La ciudad de adobe más grande del mundo antiguo y capital del Imperio Chimú. Este Sitio Patrimonio Mundial de UNESCO presenta elaborados palacios de barro, plazas y muros decorados con intrincados patrones geométricos. Imperdible para familias interesadas en civilizaciones pre-Incas.',
+    history: 'Built around 850 AD, Chan Chan was capital of the Chimú Kingdom until conquered by the Incas in 1470. At its peak, 60,000 people lived here.',
+    historyEs: 'Construida alrededor del 850 d.C., Chan Chan fue capital del Reino Chimú hasta ser conquistada por los Incas en 1470. En su apogeo, 60,000 personas vivían aquí.',
+    highlights: [
+      'UNESCO World Heritage Site',
+      'Elaborate adobe friezes',
+      'Nik An (Tschudi Palace) complex',
+      'Ancient water management systems',
+      'Geometric animal patterns',
+      'On-site museum'
+    ],
+    highlightsEs: [
+      'Sitio Patrimonio Mundial UNESCO',
+      'Elaborados frisos de adobe',
+      'Complejo Nik An (Palacio Tschudi)',
+      'Sistemas antiguos de manejo de agua',
+      'Patrones geométricos de animales',
+      'Museo en el sitio'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '~$4 adults, ~$1 children',
+    entranceFeeEs: '~$4 adultos, ~$1 niños',
+    bestTime: 'Morning for cooler temperatures and better photos',
+    bestTimeEs: 'Mañana para temperaturas más frescas y mejores fotos',
+    tips: [
+      'Hire a guide to understand the history',
+      'Visit museum first for context',
+      'Bring sun protection - little shade',
+      'Combine with Huacas del Sol y Luna',
+      'Look for pelican and fish patterns',
+      'Photography is allowed'
+    ],
+    tipsEs: [
+      'Contrata guía para entender la historia',
+      'Visita el museo primero para contexto',
+      'Lleva protección solar - poca sombra',
+      'Combina con Huacas del Sol y Luna',
+      'Busca patrones de pelícanos y peces',
+      'Fotografía está permitida'
+    ],
+    nearbyAttractions: ['huaca-sol-luna', 'trujillo-centro', 'huanchaco'],
+    relatedSites: ['huaca-sol-luna', 'tucume', 'sipan'],
+    gettingThere: '5km from Trujillo center (15 min by taxi). On route to Huanchaco beach.',
+    gettingThereEs: '5km del centro de Trujillo (15 min en taxi). Camino a playa Huanchaco.',
+    facilities: [
+      'Site museum',
+      'Restrooms',
+      'Parking',
+      'Guide services',
+      'Gift shop',
+      'Wheelchair accessible (main areas)'
+    ],
+    facilitiesEs: [
+      'Museo del sitio',
+      'Baños',
+      'Estacionamiento',
+      'Servicios de guía',
+      'Tienda de recuerdos',
+      'Accesible en silla de ruedas (áreas principales)'
+    ]
+  },
+  {
+    slug: 'pachacamac',
+    name: 'Pachacamac',
+    nameEs: 'Pachacamac',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'An important pre-Columbian pilgrimage center just 40 minutes from Lima\'s center. For 1,500 years, people traveled here to consult the famous oracle. The extensive ruins include pyramids, temples, and a modern museum with excellent exhibits.',
+    descriptionEs: 'Un importante centro de peregrinación precolombino a solo 40 minutos del centro de Lima. Durante 1,500 años, personas viajaban aquí para consultar el famoso oráculo. Las extensas ruinas incluyen pirámides, templos y un museo moderno con excelentes exhibiciones.',
+    history: 'A sacred site from 200 AD, later incorporated by the Wari and Inca empires. The oracle of Pachacamac was one of the most important in the ancient Andes.',
+    historyEs: 'Un sitio sagrado desde el 200 d.C., luego incorporado por los imperios Wari e Inca. El oráculo de Pachacamac fue uno de los más importantes en los Andes antiguos.',
+    highlights: [
+      'Temple of the Sun',
+      'Painted Temple (oldest structure)',
+      'Pilgrims\' plaza',
+      'Modern on-site museum',
+      'Pacific Ocean views',
+      'Easy day trip from Lima'
+    ],
+    highlightsEs: [
+      'Templo del Sol',
+      'Templo Pintado (estructura más antigua)',
+      'Plaza de peregrinos',
+      'Museo moderno en el sitio',
+      'Vistas al Océano Pacífico',
+      'Fácil excursión de un día desde Lima'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '~$5 adults, ~$1 children, includes museum',
+    entranceFeeEs: '~$5 adultos, ~$1 niños, incluye museo',
+    bestTime: 'Morning to avoid afternoon heat and crowds',
+    bestTimeEs: 'Mañana para evitar calor y multitudes de la tarde',
+    tips: [
+      'Start at the museum for context',
+      'Rent bicycles to cover the large site',
+      'Bring water and sun protection',
+      'Allow extra time for the museum',
+      'Great alternative to Machu Picchu crowds',
+      'Combine with Barranco or Chorrillos visit'
+    ],
+    tipsEs: [
+      'Empieza en el museo para contexto',
+      'Alquila bicicletas para cubrir el gran sitio',
+      'Lleva agua y protección solar',
+      'Permite tiempo extra para el museo',
+      'Gran alternativa a las multitudes de Machu Picchu',
+      'Combina con visita a Barranco o Chorrillos'
+    ],
+    nearbyAttractions: ['lima-beaches', 'barranco', 'chorrillos'],
+    relatedSites: ['huaca-pucllana', 'circuito-magico-agua', 'parque-leyendas'],
+    gettingThere: '31km south of Lima center (40 min by taxi/tour). Public bus from Barranco possible.',
+    gettingThereEs: '31km al sur del centro de Lima (40 min en taxi/tour). Bus público desde Barranco posible.',
+    facilities: [
+      'Modern museum',
+      'Bicycle rentals',
+      'Restrooms',
+      'Cafe',
+      'Gift shop',
+      'Parking'
+    ],
+    facilitiesEs: [
+      'Museo moderno',
+      'Alquiler de bicicletas',
+      'Baños',
+      'Cafetería',
+      'Tienda de recuerdos',
+      'Estacionamiento'
+    ]
   }
 ];
 

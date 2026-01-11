@@ -3404,6 +3404,344 @@ export const activities: Activity[] = [
       { name: 'Natura Vive', familyFriendly: true },
       { name: 'Cola de Mono', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'night-jungle-walk',
+    name: 'Night Jungle Walk',
+    nameEs: 'Caminata Nocturna en la Selva',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Experience the Amazon rainforest after dark when the jungle truly comes alive. With flashlights and expert guides, discover nocturnal creatures like tarantulas, tree frogs, caimans, and glowing eyes in the darkness.',
+    descriptionEs: 'Experimenta la selva amazónica después del anochecer cuando la jungla realmente cobra vida. Con linternas y guías expertos, descubre criaturas nocturnas como tarántulas, ranas arbóreas, caimanes y ojos brillantes en la oscuridad.',
+    whatToExpect: '1-2 hour guided walks along jungle trails after dinner. Guides use flashlights to spot wildlife and explain nocturnal behaviors. A completely different jungle experience from daytime excursions.',
+    whatToExpectEs: 'Caminatas guiadas de 1-2 horas por senderos de selva después de la cena. Los guías usan linternas para avistar fauna y explicar comportamientos nocturnos. Una experiencia de selva completamente diferente a las excursiones diurnas.',
+    highlights: [
+      'See tarantulas and giant insects',
+      'Spot tree frogs and nocturnal birds',
+      'Caiman eye-spotting on rivers',
+      'Hear the symphony of jungle sounds',
+      'Bioluminescent fungi (some areas)',
+      'Unique wildlife not seen by day'
+    ],
+    highlightsEs: [
+      'Ver tarántulas e insectos gigantes',
+      'Avistar ranas arbóreas y aves nocturnas',
+      'Avistamiento de ojos de caimanes en ríos',
+      'Escuchar la sinfonía de sonidos de la selva',
+      'Hongos bioluminiscentes (algunas áreas)',
+      'Fauna única no vista de día'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'moderate',
+    priceRange: 'Usually included in lodge packages',
+    priceRangeEs: 'Usualmente incluido en paquetes de lodge',
+    bestTime: 'Year-round, though dry season (May-Oct) has easier trail conditions',
+    bestTimeEs: 'Todo el año, aunque temporada seca (mayo-oct) tiene mejores condiciones de senderos',
+    includes: [
+      'Expert naturalist guide',
+      'Flashlight/headlamp',
+      'Rubber boots',
+      'Insect repellent',
+      'First aid kit'
+    ],
+    includesEs: [
+      'Guía naturalista experto',
+      'Linterna/lámpara frontal',
+      'Botas de goma',
+      'Repelente de insectos',
+      'Botiquín de primeros auxilios'
+    ],
+    tips: [
+      'Not too scary for most kids 6+',
+      'Wear long pants and sleeves',
+      'Stay on the trail',
+      'Bring camera with flash/night mode',
+      'Embrace the adventure mindset',
+      'Ask guides about sounds you hear'
+    ],
+    tipsEs: [
+      'No muy aterrador para la mayoría de niños 6+',
+      'Usa pantalones y mangas largas',
+      'Mantente en el sendero',
+      'Lleva cámara con flash/modo nocturno',
+      'Adopta mentalidad de aventura',
+      'Pregunta a los guías sobre los sonidos que escuchas'
+    ],
+    safetyNotes: [
+      'Always follow guide instructions',
+      'Stay with the group',
+      'Wear closed-toe shoes',
+      'Avoid touching wildlife',
+      'Bring backup light source'
+    ],
+    safetyNotesEs: [
+      'Siempre sigue instrucciones del guía',
+      'Mantente con el grupo',
+      'Usa zapatos cerrados',
+      'Evita tocar la fauna',
+      'Lleva fuente de luz de respaldo'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'caiman-spotting', 'canopy-walkway'],
+    providers: [
+      { name: 'Inkaterra', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'horseback-riding-sacred-valley',
+    name: 'Sacred Valley Horseback Riding',
+    nameEs: 'Cabalgata en el Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the stunning Sacred Valley on horseback, riding Peruvian Paso horses through ancient Inca agricultural terraces, traditional villages, and scenic mountain trails. Perfect for families seeking adventure with incredible views.',
+    descriptionEs: 'Explora el impresionante Valle Sagrado a caballo, montando caballos Paso Peruano a través de antiguas terrazas agrícolas Incas, pueblos tradicionales y senderos de montaña escénicos. Perfecto para familias que buscan aventura con vistas increíbles.',
+    whatToExpect: 'Rides from 1 hour to full day. Gentle Paso horses suitable for beginners. Routes pass through farmland, Inca sites, and local communities. Guides assist beginners and ensure safety.',
+    whatToExpectEs: 'Paseos desde 1 hora hasta día completo. Caballos Paso gentiles adecuados para principiantes. Las rutas pasan por tierras de cultivo, sitios Incas y comunidades locales. Los guías asisten a principiantes y aseguran la seguridad.',
+    highlights: [
+      'Ride famous Peruvian Paso horses',
+      'View Inca archaeological sites',
+      'Ride through traditional villages',
+      'Spectacular mountain scenery',
+      'Suitable for all skill levels',
+      'Learn about Andean culture'
+    ],
+    highlightsEs: [
+      'Montar famosos caballos Paso Peruano',
+      'Ver sitios arqueológicos Incas',
+      'Cabalgar a través de pueblos tradicionales',
+      'Espectacular paisaje de montaña',
+      'Adecuado para todos los niveles',
+      'Aprender sobre cultura andina'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-6 hours',
+    durationEs: '1-6 horas',
+    difficulty: 'easy',
+    priceRange: '$30-120 depending on duration',
+    priceRangeEs: '$30-120 dependiendo de la duración',
+    bestTime: 'April to October for dry trails and clear views',
+    bestTimeEs: 'Abril a octubre para senderos secos y vistas claras',
+    includes: [
+      'Horse and saddle',
+      'Helmets for children',
+      'Experienced guide',
+      'Safety briefing',
+      'Water (most operators)'
+    ],
+    includesEs: [
+      'Caballo y montura',
+      'Cascos para niños',
+      'Guía experimentado',
+      'Instrucciones de seguridad',
+      'Agua (mayoría de operadores)'
+    ],
+    tips: [
+      'Wear long pants',
+      'Closed-toe shoes required',
+      'Shorter rides for first-timers',
+      'Book morning for cooler weather',
+      'Acclimate to altitude first',
+      'Sunscreen essential'
+    ],
+    tipsEs: [
+      'Usa pantalones largos',
+      'Zapatos cerrados requeridos',
+      'Paseos más cortos para primerizos',
+      'Reserva en la mañana para clima más fresco',
+      'Aclimatarse a la altitud primero',
+      'Bloqueador solar esencial'
+    ],
+    safetyNotes: [
+      'Helmets provided and recommended',
+      'Listen to guide instructions',
+      'Horses matched to rider experience',
+      'Altitude affects energy levels'
+    ],
+    safetyNotesEs: [
+      'Cascos proporcionados y recomendados',
+      'Escucha instrucciones del guía',
+      'Caballos asignados según experiencia del jinete',
+      'La altitud afecta niveles de energía'
+    ],
+    relatedActivities: ['llama-trekking', 'sacred-valley-tour', 'mountain-biking'],
+    providers: [
+      { name: 'Sol y Luna', familyFriendly: true },
+      { name: 'Wayra Ranch', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'stand-up-paddleboarding',
+    name: 'Lake Paddleboarding (SUP)',
+    nameEs: 'Paddleboarding en Lago (SUP)',
+    type: 'adventure',
+    city: 'huacachina',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Glide across the emerald waters of Huacachina\'s famous oasis lagoon on a stand-up paddleboard. This calm, beginner-friendly activity offers unique views of surrounding sand dunes and is a refreshing break from desert tours.',
+    descriptionEs: 'Deslízate sobre las aguas esmeralda de la famosa laguna oasis de Huacachina en un paddleboard. Esta actividad tranquila y apta para principiantes ofrece vistas únicas de las dunas circundantes y es un descanso refrescante de los tours del desierto.',
+    whatToExpect: 'Calm lake paddling with instruction for beginners. Boards provided at lakeside rentals. Best in morning before afternoon winds. Combine with sandboarding and dune buggy tours.',
+    whatToExpectEs: 'Remar en lago tranquilo con instrucción para principiantes. Tablas disponibles en alquileres junto al lago. Mejor en la mañana antes de los vientos de la tarde. Combina con sandboarding y tours en buggy.',
+    highlights: [
+      'Unique oasis setting',
+      'Calm, beginner-friendly waters',
+      'Great photo opportunities',
+      'Cool off from desert heat',
+      'View sand dunes from water',
+      'Quick to learn'
+    ],
+    highlightsEs: [
+      'Entorno único de oasis',
+      'Aguas tranquilas aptas para principiantes',
+      'Grandes oportunidades de fotos',
+      'Refrescarse del calor del desierto',
+      'Ver dunas desde el agua',
+      'Rápido de aprender'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '30-60 minutes',
+    durationEs: '30-60 minutos',
+    difficulty: 'easy',
+    priceRange: '$5-10 per hour',
+    priceRangeEs: '$5-10 por hora',
+    bestTime: 'Year-round, mornings best for calm conditions',
+    bestTimeEs: 'Todo el año, mañanas mejores para condiciones tranquilas',
+    includes: [
+      'Paddleboard',
+      'Paddle',
+      'Basic instruction',
+      'Life vest (some operators)'
+    ],
+    includesEs: [
+      'Paddleboard',
+      'Remo',
+      'Instrucción básica',
+      'Chaleco salvavidas (algunos operadores)'
+    ],
+    tips: [
+      'Go in morning for stillest water',
+      'Start on knees before standing',
+      'Bring waterproof bag for phone',
+      'Wear swimsuit',
+      'Combine with sandboarding',
+      'Very affordable activity'
+    ],
+    tipsEs: [
+      'Ve en la mañana para agua más tranquila',
+      'Empieza de rodillas antes de pararte',
+      'Lleva bolsa impermeable para teléfono',
+      'Usa traje de baño',
+      'Combina con sandboarding',
+      'Actividad muy económica'
+    ],
+    safetyNotes: [
+      'Calm lake - minimal risk',
+      'Life vests recommended for children',
+      'Stay near shore',
+      'Watch for other watercraft'
+    ],
+    safetyNotesEs: [
+      'Lago tranquilo - riesgo mínimo',
+      'Chalecos salvavidas recomendados para niños',
+      'Mantente cerca de la orilla',
+      'Cuidado con otras embarcaciones'
+    ],
+    relatedActivities: ['sandboarding-huacachina', 'dune-buggy', 'kayaking'],
+    providers: [
+      { name: 'Lakeside rentals', familyFriendly: true },
+      { name: 'Banana\'s Adventure', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'butterfly-farm-visit',
+    name: 'Amazon Butterfly Farm',
+    nameEs: 'Mariposario Amazónico',
+    type: 'educational',
+    city: 'tarapoto',
+    region: 'San Martín Region',
+    regionEs: 'Región San Martín',
+    description: 'Walk through enclosed gardens filled with hundreds of colorful butterflies at Amazon region butterfly farms. Learn about butterfly life cycles, see caterpillars and cocoons, and have butterflies land on you for magical photos.',
+    descriptionEs: 'Camina a través de jardines cerrados llenos de cientos de mariposas coloridas en las granjas de mariposas de la región amazónica. Aprende sobre ciclos de vida de mariposas, ve orugas y capullos, y deja que las mariposas se posen en ti para fotos mágicas.',
+    whatToExpect: 'Guided tours through screened gardens. Guides explain metamorphosis and species identification. Best times are sunny mornings when butterflies are most active. Some farms include other insects and small animals.',
+    whatToExpectEs: 'Tours guiados a través de jardines con malla. Los guías explican la metamorfosis e identificación de especies. Los mejores momentos son mañanas soleadas cuando las mariposas están más activas. Algunas granjas incluyen otros insectos y animales pequeños.',
+    highlights: [
+      'Hundreds of free-flying butterflies',
+      'See morpho butterflies up close',
+      'Learn about metamorphosis',
+      'Photo opportunities (butterflies land on you)',
+      'Educational for all ages',
+      'Climate-controlled gardens'
+    ],
+    highlightsEs: [
+      'Cientos de mariposas volando libremente',
+      'Ver mariposas morpho de cerca',
+      'Aprender sobre metamorfosis',
+      'Oportunidades de fotos (mariposas se posan en ti)',
+      'Educativo para todas las edades',
+      'Jardines climatizados'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: '$5-15',
+    priceRangeEs: '$5-15',
+    bestTime: 'Sunny mornings for most active butterflies',
+    bestTimeEs: 'Mañanas soleadas para mariposas más activas',
+    includes: [
+      'Guided tour',
+      'Entry to all areas',
+      'Educational information',
+      'Photo opportunities'
+    ],
+    includesEs: [
+      'Tour guiado',
+      'Entrada a todas las áreas',
+      'Información educativa',
+      'Oportunidades de fotos'
+    ],
+    tips: [
+      'Wear bright colors to attract butterflies',
+      'Move slowly and quietly',
+      'No touching butterflies',
+      'Sunny weather is best',
+      'Combine with jungle lodge stay',
+      'Great for toddlers and young kids'
+    ],
+    tipsEs: [
+      'Usa colores brillantes para atraer mariposas',
+      'Muévete lenta y silenciosamente',
+      'No toques las mariposas',
+      'El clima soleado es mejor',
+      'Combina con estadía en lodge de selva',
+      'Genial para niños pequeños'
+    ],
+    safetyNotes: [
+      'Very safe activity',
+      'Stay on pathways',
+      'No flash photography (some farms)',
+      'Check for escape doors when entering/exiting'
+    ],
+    safetyNotesEs: [
+      'Actividad muy segura',
+      'Mantente en los senderos',
+      'Sin fotografía con flash (algunas granjas)',
+      'Revisa puertas de escape al entrar/salir'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'birdwatching', 'chocolate-making'],
+    providers: [
+      { name: 'Mariposario Tarapoto', familyFriendly: true },
+      { name: 'Various jungle lodges', familyFriendly: true }
+    ]
   }
 ];
 
