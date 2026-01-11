@@ -3921,6 +3921,301 @@ export const sites: Site[] = [
       'Restaurantes en el pueblo',
       'Lleva agua y bocadillos'
     ]
+  },
+  {
+    slug: 'sipan',
+    name: 'Lord of Sipán Royal Tombs',
+    nameEs: 'Tumbas Reales del Señor de Sipán',
+    type: 'archaeological',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'One of the most important archaeological discoveries in the Americas - the intact tomb of a Moche warrior-priest discovered in 1987. The museum displays stunning gold, silver, and copper artifacts that rival King Tut\'s treasures.',
+    descriptionEs: 'Uno de los descubrimientos arqueológicos más importantes de las Américas - la tumba intacta de un sacerdote-guerrero Moche descubierta en 1987. El museo exhibe impresionantes artefactos de oro, plata y cobre que rivalizan con los tesoros del Rey Tut.',
+    history: 'The Lord of Sipán ruled the Moche around 250 AD. His tomb was found undisturbed with incredible treasures, providing unprecedented insight into Moche civilization and burial practices.',
+    historyEs: 'El Señor de Sipán gobernó a los Moche alrededor del 250 d.C. Su tumba fue encontrada intacta con increíbles tesoros, proporcionando una visión sin precedentes de la civilización Moche y sus prácticas funerarias.',
+    highlights: [
+      'Peru\'s "King Tut" discovery',
+      'Stunning gold artifacts',
+      'World-class museum',
+      'Intact royal burial goods',
+      'Moche warrior regalia',
+      'Archaeological excavation site'
+    ],
+    highlightsEs: [
+      'Descubrimiento del "Rey Tut" de Perú',
+      'Impresionantes artefactos de oro',
+      'Museo de clase mundial',
+      'Bienes funerarios reales intactos',
+      'Vestimenta de guerrero Moche',
+      'Sitio de excavación arqueológica'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '~$4 adults, ~$1 children',
+    entranceFeeEs: '~$4 adultos, ~$1 niños',
+    bestTime: 'Year-round. Morning for fewer crowds.',
+    bestTimeEs: 'Todo el año. Mañana para menos multitudes.',
+    tips: [
+      'Museum is air-conditioned - great for hot days',
+      'Audio guides available in English',
+      'Allow 2+ hours for full experience',
+      'Photography not allowed inside',
+      'Combine with Túcume pyramids',
+      'Kids love the treasure story'
+    ],
+    tipsEs: [
+      'El museo tiene aire acondicionado - genial para días calurosos',
+      'Audio guías disponibles en inglés',
+      'Permite 2+ horas para experiencia completa',
+      'Fotografía no permitida adentro',
+      'Combina con las pirámides de Túcume',
+      'A los niños les encanta la historia del tesoro'
+    ],
+    nearbyAttractions: ['tucume', 'bruning-museum', 'chiclayo-centro'],
+    relatedSites: ['tucume', 'huaca-de-la-luna', 'chan-chan'],
+    gettingThere: 'In Lambayeque town, 11km from Chiclayo center (20 min by taxi).',
+    gettingThereEs: 'En el pueblo de Lambayeque, 11km del centro de Chiclayo (20 min en taxi).',
+    facilities: [
+      'Modern museum building',
+      'Air conditioning',
+      'Restrooms',
+      'Gift shop',
+      'Cafeteria',
+      'Parking'
+    ],
+    facilitiesEs: [
+      'Edificio de museo moderno',
+      'Aire acondicionado',
+      'Baños',
+      'Tienda de recuerdos',
+      'Cafetería',
+      'Estacionamiento'
+    ]
+  },
+  {
+    slug: 'tucume',
+    name: 'Túcume Pyramids (Valley of the Pyramids)',
+    nameEs: 'Pirámides de Túcume (Valle de las Pirámides)',
+    type: 'archaeological',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'An awe-inspiring complex of 26 adobe pyramids spread across a desert valley, one of the largest such complexes in the Americas. The site spans 1,000 years of history from the Lambayeque to Chimú to Inca cultures.',
+    descriptionEs: 'Un impresionante complejo de 26 pirámides de adobe dispersas en un valle desértico, uno de los complejos más grandes de su tipo en las Américas. El sitio abarca 1,000 años de historia desde las culturas Lambayeque hasta Chimú hasta Inca.',
+    history: 'Founded around 1000 AD by the Lambayeque (Sicán) culture, later occupied by the Chimú and finally the Incas. Thor Heyerdahl led major excavations in the 1990s.',
+    historyEs: 'Fundado alrededor del 1000 d.C. por la cultura Lambayeque (Sicán), luego ocupado por los Chimú y finalmente los Incas. Thor Heyerdahl lideró importantes excavaciones en los años 1990.',
+    highlights: [
+      '26 adobe pyramids',
+      'Largest pyramid complex in Peru',
+      'Cerro Purgatorio viewpoint',
+      'Site museum',
+      'Thor Heyerdahl connection',
+      'Less crowded than other sites'
+    ],
+    highlightsEs: [
+      '26 pirámides de adobe',
+      'El complejo de pirámides más grande de Perú',
+      'Mirador Cerro Purgatorio',
+      'Museo del sitio',
+      'Conexión con Thor Heyerdahl',
+      'Menos lleno que otros sitios'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    entranceFee: '~$3 adults, ~$1 children',
+    entranceFeeEs: '~$3 adultos, ~$1 niños',
+    bestTime: 'Early morning to avoid midday heat',
+    bestTimeEs: 'Temprano en la mañana para evitar el calor del mediodía',
+    tips: [
+      'Climb Cerro Purgatorio for panoramic views',
+      'Bring sun protection - very little shade',
+      'Best combined with Sipán museum',
+      'Guide recommended for history context',
+      'Water essential',
+      'Great for counting pyramids with kids'
+    ],
+    tipsEs: [
+      'Sube al Cerro Purgatorio para vistas panorámicas',
+      'Lleva protección solar - muy poca sombra',
+      'Mejor combinado con museo de Sipán',
+      'Guía recomendado para contexto histórico',
+      'Agua esencial',
+      'Genial para contar pirámides con niños'
+    ],
+    nearbyAttractions: ['sipan', 'ferrenafe', 'museo-sican'],
+    relatedSites: ['sipan', 'chan-chan', 'caral'],
+    gettingThere: '33km from Chiclayo (45 min by taxi or tour). Limited public transport.',
+    gettingThereEs: '33km de Chiclayo (45 min en taxi o tour). Transporte público limitado.',
+    facilities: [
+      'Site museum',
+      'Restrooms',
+      'Parking',
+      'Local guides',
+      'Small shops',
+      'Viewpoint trail'
+    ],
+    facilitiesEs: [
+      'Museo del sitio',
+      'Baños',
+      'Estacionamiento',
+      'Guías locales',
+      'Pequeñas tiendas',
+      'Sendero al mirador'
+    ]
+  },
+  {
+    slug: 'laguna-69',
+    name: 'Laguna 69',
+    nameEs: 'Laguna 69',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'One of Peru\'s most stunning glacier lakes, famous for its impossibly turquoise waters surrounded by snow-capped peaks. The challenging but rewarding hike in Huascarán National Park is a bucket-list experience for adventure-loving families.',
+    descriptionEs: 'Uno de los lagos glaciales más impresionantes de Perú, famoso por sus aguas imposiblemente turquesas rodeadas de picos nevados. La caminata desafiante pero gratificante en el Parque Nacional Huascarán es una experiencia imperdible para familias amantes de la aventura.',
+    history: 'Named simply for being the 69th lake catalogued in the Cordillera Blanca. Located within UNESCO-listed Huascarán National Park, beneath Chacraraju peak (6,112m).',
+    historyEs: 'Nombrada simplemente por ser el lago número 69 catalogado en la Cordillera Blanca. Ubicada dentro del Parque Nacional Huascarán declarado Patrimonio de la Humanidad por UNESCO, bajo el pico Chacraraju (6,112m).',
+    highlights: [
+      'Stunning turquoise glacial lake',
+      'Huascarán National Park (UNESCO)',
+      'Snow-capped mountain views',
+      'Rewarding high-altitude hike',
+      'Pristine Andean landscape',
+      'Bucket-list destination'
+    ],
+    highlightsEs: [
+      'Impresionante lago glacial turquesa',
+      'Parque Nacional Huascarán (UNESCO)',
+      'Vistas de montañas nevadas',
+      'Gratificante caminata de alta altitud',
+      'Paisaje andino prístino',
+      'Destino de lista de deseos'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (6-7 hours hiking)',
+    durationEs: 'Día completo (6-7 horas caminando)',
+    difficulty: 'challenging',
+    altitude: 4604,
+    entranceFee: 'Park entry ~$3, tours $25-40',
+    entranceFeeEs: 'Entrada al parque ~$3, tours $25-40',
+    bestTime: 'May to September (dry season) for clearest views',
+    bestTimeEs: 'Mayo a septiembre (temporada seca) para vistas más claras',
+    tips: [
+      'Only for fit, altitude-acclimated families',
+      'Minimum 2-3 days in Huaraz first',
+      'Start very early (5-6am)',
+      'Bring layers - weather changes fast',
+      'Coca tea helps with altitude',
+      'Bring lunch and plenty of water'
+    ],
+    tipsEs: [
+      'Solo para familias en forma y aclimatadas a la altitud',
+      'Mínimo 2-3 días en Huaraz primero',
+      'Empieza muy temprano (5-6am)',
+      'Lleva capas - el clima cambia rápido',
+      'Té de coca ayuda con la altitud',
+      'Lleva almuerzo y mucha agua'
+    ],
+    nearbyAttractions: ['llanganuco-lakes', 'huascaran', 'chavin-de-huantar'],
+    relatedSites: ['llanganuco-lakes', 'pastoruri-glacier', 'rainbow-mountain'],
+    gettingThere: '3-hour drive from Huaraz to trailhead. Day tours include transport. Then 3-hour hike up, 2 hours down.',
+    gettingThereEs: '3 horas en auto de Huaraz al inicio del sendero. Tours de día incluyen transporte. Luego 3 horas de subida, 2 horas de bajada.',
+    facilities: [
+      'Park entrance station',
+      'Basic restrooms at trailhead',
+      'No facilities on trail',
+      'No food/water sold on route',
+      'Bring everything you need'
+    ],
+    facilitiesEs: [
+      'Estación de entrada al parque',
+      'Baños básicos en inicio del sendero',
+      'Sin instalaciones en el sendero',
+      'No se vende comida/agua en la ruta',
+      'Lleva todo lo que necesites'
+    ]
+  },
+  {
+    slug: 'huanchaco',
+    name: 'Huanchaco Beach & Caballitos de Totora',
+    nameEs: 'Playa Huanchaco y Caballitos de Totora',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'A charming fishing village where fishermen still use traditional totora reed boats (caballitos de totora), unchanged for 3,000 years. Watch surfers and fishermen share the waves, eat fresh ceviche, and learn about this living maritime tradition.',
+    descriptionEs: 'Un encantador pueblo pesquero donde los pescadores aún usan botes tradicionales de totora (caballitos de totora), sin cambios por 3,000 años. Observa surfistas y pescadores compartiendo las olas, come ceviche fresco y aprende sobre esta tradición marítima viva.',
+    history: 'The caballito de totora tradition dates back over 3,000 years to the Moche and Chimú cultures. UNESCO has recognized this as an intangible cultural heritage.',
+    historyEs: 'La tradición del caballito de totora data de más de 3,000 años a las culturas Moche y Chimú. UNESCO ha reconocido esto como patrimonio cultural inmaterial.',
+    highlights: [
+      'Ancient totora reed boats',
+      'Active fishing tradition',
+      'Great surfing beach',
+      'Fresh seafood restaurants',
+      'Sunset watching',
+      'Relaxed beach town vibe'
+    ],
+    highlightsEs: [
+      'Antiguos botes de totora',
+      'Tradición pesquera activa',
+      'Gran playa para surfear',
+      'Restaurantes de mariscos frescos',
+      'Observación del atardecer',
+      'Ambiente relajado de pueblo de playa'
+    ],
+    familyRating: 5,
+    minAge: 1,
+    duration: 'Half day to full day',
+    durationEs: 'Medio día a día completo',
+    difficulty: 'easy',
+    entranceFee: 'Free (beach access)',
+    entranceFeeEs: 'Gratis (acceso a la playa)',
+    bestTime: 'Year-round. Summer (Dec-Mar) for swimming. Mornings to see fishermen.',
+    bestTimeEs: 'Todo el año. Verano (dic-mar) para nadar. Mañanas para ver pescadores.',
+    tips: [
+      'Arrive early morning to see fishermen return',
+      'Try a caballito de totora ride ($5-10)',
+      'Ceviche here is exceptional',
+      'Great surf lessons for families',
+      'Pier has best sunset views',
+      'Combine with Chan Chan visit'
+    ],
+    tipsEs: [
+      'Llega temprano en la mañana para ver pescadores regresar',
+      'Prueba un paseo en caballito de totora ($5-10)',
+      'El ceviche aquí es excepcional',
+      'Geniales clases de surf para familias',
+      'El muelle tiene las mejores vistas del atardecer',
+      'Combina con visita a Chan Chan'
+    ],
+    nearbyAttractions: ['chan-chan', 'huaca-de-la-luna', 'trujillo-centro'],
+    relatedSites: ['chan-chan', 'huaca-de-la-luna', 'mancora'],
+    gettingThere: '12km from Trujillo center (20 min by taxi or frequent combis).',
+    gettingThereEs: '12km del centro de Trujillo (20 min en taxi o combis frecuentes).',
+    facilities: [
+      'Beach with lifeguards (summer)',
+      'Many restaurants',
+      'Surf shops and rentals',
+      'Public restrooms',
+      'Parking',
+      'ATMs in town'
+    ],
+    facilitiesEs: [
+      'Playa con salvavidas (verano)',
+      'Muchos restaurantes',
+      'Tiendas de surf y alquileres',
+      'Baños públicos',
+      'Estacionamiento',
+      'Cajeros en el pueblo'
+    ]
   }
 ];
 

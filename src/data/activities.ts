@@ -4092,6 +4092,354 @@ export const activities: Activity[] = [
       { name: 'Titicaca Peru Expeditions', familyFriendly: true },
       { name: 'Edgar Adventures', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'paragliding-lima',
+    name: 'Lima Coastal Paragliding',
+    nameEs: 'Parapente Costero en Lima',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Soar above Lima\'s dramatic coastal cliffs on a tandem paragliding flight over Miraflores. No experience needed - just sit back and enjoy spectacular views of the Pacific Ocean, Lima\'s skyline, and the famous Costa Verde cliffs.',
+    descriptionEs: 'Vuela sobre los dramáticos acantilados costeros de Lima en un vuelo de parapente en tándem sobre Miraflores. No se necesita experiencia - solo siéntate y disfruta de espectaculares vistas del Océano Pacífico, el horizonte de Lima y los famosos acantilados de la Costa Verde.',
+    whatToExpect: '10-15 minute tandem flights with certified pilots. Launch from Miraflores clifftop parks, glide along the coast, and land on the beach or park. Photos and videos usually included.',
+    whatToExpectEs: 'Vuelos en tándem de 10-15 minutos con pilotos certificados. Despega desde los parques en los acantilados de Miraflores, planea a lo largo de la costa y aterriza en la playa o parque. Fotos y videos usualmente incluidos.',
+    highlights: [
+      'Tandem flight - no experience needed',
+      'Stunning Pacific Ocean views',
+      'Fly along Costa Verde cliffs',
+      'Photos/videos included',
+      'Year-round flying conditions',
+      'Unique Lima perspective'
+    ],
+    highlightsEs: [
+      'Vuelo en tándem - no se necesita experiencia',
+      'Impresionantes vistas del Océano Pacífico',
+      'Vuela a lo largo de acantilados de Costa Verde',
+      'Fotos/videos incluidos',
+      'Condiciones de vuelo todo el año',
+      'Perspectiva única de Lima'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '10-15 minutes flight (1 hour total)',
+    durationEs: '10-15 minutos de vuelo (1 hora total)',
+    difficulty: 'easy',
+    priceRange: '$70-100 per flight',
+    priceRangeEs: '$70-100 por vuelo',
+    bestTime: 'Year-round. Best conditions October-April. Afternoon thermals.',
+    bestTimeEs: 'Todo el año. Mejores condiciones octubre-abril. Térmicas de la tarde.',
+    includes: [
+      'Tandem pilot',
+      'All equipment',
+      'Safety briefing',
+      'Photos/video',
+      'Insurance',
+      'Beach/park landing'
+    ],
+    includesEs: [
+      'Piloto tándem',
+      'Todo el equipo',
+      'Instrucciones de seguridad',
+      'Fotos/video',
+      'Seguro',
+      'Aterrizaje en playa/parque'
+    ],
+    tips: [
+      'Book online - operators at park can overcharge',
+      'Wear closed-toe shoes',
+      'Sunglasses recommended',
+      'Dress in layers - cooler in air',
+      'Great for older kids and teens',
+      'Easily combined with Miraflores sightseeing'
+    ],
+    tipsEs: [
+      'Reserva online - operadores en el parque pueden cobrar de más',
+      'Usa zapatos cerrados',
+      'Lentes de sol recomendados',
+      'Viste en capas - más frío en el aire',
+      'Genial para niños mayores y adolescentes',
+      'Fácil de combinar con turismo en Miraflores'
+    ],
+    safetyNotes: [
+      'Only fly with licensed operators',
+      'Weather can cancel flights',
+      'Weight limits apply (usually 90-100kg)',
+      'Not recommended for severe fear of heights'
+    ],
+    safetyNotesEs: [
+      'Solo vuela con operadores licenciados',
+      'El clima puede cancelar vuelos',
+      'Aplican límites de peso (usualmente 90-100kg)',
+      'No recomendado para miedo severo a las alturas'
+    ],
+    relatedActivities: ['surfing-lessons', 'zip-line-sacred-valley', 'sandboarding-huacachina'],
+    providers: [
+      { name: 'Peru Fly', familyFriendly: true },
+      { name: 'Aeroxtreme', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'mountain-biking-sacred-valley',
+    name: 'Sacred Valley Mountain Biking',
+    nameEs: 'Ciclismo de Montaña en el Valle Sagrado',
+    type: 'adventure',
+    city: 'sacred-valley',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Ride through the spectacular Sacred Valley on mountain bikes, passing Inca ruins, traditional villages, and stunning Andean landscapes. Routes range from gentle downhill rides to challenging single-track trails for all skill levels.',
+    descriptionEs: 'Recorre el espectacular Valle Sagrado en bicicletas de montaña, pasando ruinas Incas, pueblos tradicionales e impresionantes paisajes andinos. Las rutas van desde paseos suaves en descenso hasta senderos de single-track desafiantes para todos los niveles.',
+    whatToExpect: 'Half-day or full-day guided rides. Most popular is Maras-Moray route (mostly downhill). Quality bikes, helmets, and support vehicle provided. Lunch at local restaurant often included.',
+    whatToExpectEs: 'Paseos guiados de medio día o día completo. La más popular es la ruta Maras-Moray (mayormente en descenso). Bicicletas de calidad, cascos y vehículo de apoyo proporcionados. Almuerzo en restaurante local frecuentemente incluido.',
+    highlights: [
+      'Stunning Sacred Valley scenery',
+      'Visit Maras salt mines by bike',
+      'Moray circular terraces',
+      'Downhill options for beginners',
+      'Traditional village encounters',
+      'Quality bikes and gear'
+    ],
+    highlightsEs: [
+      'Impresionante paisaje del Valle Sagrado',
+      'Visita las salinas de Maras en bicicleta',
+      'Terrazas circulares de Moray',
+      'Opciones de descenso para principiantes',
+      'Encuentros con pueblos tradicionales',
+      'Bicicletas y equipo de calidad'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-8 hours',
+    durationEs: '4-8 horas',
+    difficulty: 'moderate',
+    priceRange: '$60-150 per person',
+    priceRangeEs: '$60-150 por persona',
+    bestTime: 'April to October (dry season) for best trail conditions',
+    bestTimeEs: 'Abril a octubre (temporada seca) para mejores condiciones de sendero',
+    includes: [
+      'Quality mountain bike',
+      'Helmet and gloves',
+      'Professional guide',
+      'Support vehicle',
+      'Lunch (full day)',
+      'Entrance fees'
+    ],
+    includesEs: [
+      'Bicicleta de montaña de calidad',
+      'Casco y guantes',
+      'Guía profesional',
+      'Vehículo de apoyo',
+      'Almuerzo (día completo)',
+      'Entradas'
+    ],
+    tips: [
+      'Maras-Moray is best for families',
+      'Mostly downhill - manageable for kids 8+',
+      'Altitude affects stamina - pace yourself',
+      'Wear layers - weather changes',
+      'Sunscreen and sunglasses essential',
+      'Book with reputable company'
+    ],
+    tipsEs: [
+      'Maras-Moray es mejor para familias',
+      'Mayormente en bajada - manejable para niños 8+',
+      'La altitud afecta la resistencia - tómatelo con calma',
+      'Usa capas - el clima cambia',
+      'Bloqueador solar y lentes esenciales',
+      'Reserva con compañía de buena reputación'
+    ],
+    safetyNotes: [
+      'Helmets mandatory',
+      'Follow guide instructions',
+      'Support vehicle for emergencies',
+      'Altitude affects performance'
+    ],
+    safetyNotesEs: [
+      'Cascos obligatorios',
+      'Sigue instrucciones del guía',
+      'Vehículo de apoyo para emergencias',
+      'La altitud afecta el rendimiento'
+    ],
+    relatedActivities: ['horseback-riding-sacred-valley', 'zip-line-sacred-valley', 'atv-tour'],
+    providers: [
+      { name: 'Gravity Peru', familyFriendly: true },
+      { name: 'Sacred Rides', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'market-tour-cusco',
+    name: 'Cusco Market Food Tour',
+    nameEs: 'Tour Gastronómico del Mercado de Cusco',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the vibrant San Pedro Market with a local guide, tasting exotic fruits, fresh juices, local cheeses, and traditional dishes. Learn about Andean ingredients, bargain for souvenirs, and enjoy the sensory explosion of Peru\'s largest traditional market.',
+    descriptionEs: 'Explora el vibrante Mercado San Pedro con un guía local, probando frutas exóticas, jugos frescos, quesos locales y platos tradicionales. Aprende sobre ingredientes andinos, regatea por souvenirs y disfruta la explosión sensorial del mercado tradicional más grande de Perú.',
+    whatToExpect: '2-3 hour guided tours through market sections. Taste 10-15 different foods and drinks. Learn about ingredients, cooking methods, and Andean culture. Great for adventurous eaters!',
+    whatToExpectEs: 'Tours guiados de 2-3 horas a través de secciones del mercado. Prueba 10-15 diferentes comidas y bebidas. Aprende sobre ingredientes, métodos de cocina y cultura andina. ¡Genial para comensales aventureros!',
+    highlights: [
+      'San Pedro Market exploration',
+      '10+ food tastings included',
+      'Exotic fruits and juices',
+      'Traditional Andean dishes',
+      'Local guide insights',
+      'Shopping tips and bargaining'
+    ],
+    highlightsEs: [
+      'Exploración del Mercado San Pedro',
+      '10+ degustaciones incluidas',
+      'Frutas exóticas y jugos',
+      'Platos tradicionales andinos',
+      'Conocimientos del guía local',
+      'Tips de compras y regateo'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Morning (8-11am) when market is busiest and freshest',
+    bestTimeEs: 'Mañana (8-11am) cuando el mercado está más lleno y fresco',
+    includes: [
+      'Local expert guide',
+      '10+ food tastings',
+      'Fresh juice samples',
+      'Market navigation',
+      'Cultural explanations',
+      'Shopping assistance'
+    ],
+    includesEs: [
+      'Guía local experto',
+      '10+ degustaciones de comida',
+      'Muestras de jugos frescos',
+      'Navegación del mercado',
+      'Explicaciones culturales',
+      'Asistencia de compras'
+    ],
+    tips: [
+      'Come hungry!',
+      'Try lucuma and chirimoya fruits',
+      'Fresh juices are incredible',
+      'Kids love trying new things',
+      'Bring small bills for shopping',
+      'Perfect morning activity'
+    ],
+    tipsEs: [
+      '¡Ven con hambre!',
+      'Prueba frutas lucuma y chirimoya',
+      'Los jugos frescos son increíbles',
+      'A los niños les encanta probar cosas nuevas',
+      'Lleva billetes pequeños para compras',
+      'Actividad perfecta para la mañana'
+    ],
+    safetyNotes: [
+      'Stay with guide in crowded areas',
+      'Watch belongings',
+      'Inform guide of food allergies',
+      'Eat only what guide recommends'
+    ],
+    safetyNotesEs: [
+      'Mantente con el guía en áreas llenas',
+      'Cuida tus pertenencias',
+      'Informa al guía de alergias alimentarias',
+      'Come solo lo que el guía recomienda'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'chocolate-making', 'pisco-tasting-tour'],
+    providers: [
+      { name: 'Cusco Food Tours', familyFriendly: true },
+      { name: 'Flavors of Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pottery-class-cusco',
+    name: 'Traditional Pottery Workshop',
+    nameEs: 'Taller de Cerámica Tradicional',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn the ancient art of Andean pottery from master ceramicists in Cusco or nearby villages like Raqchi. Work with clay using traditional techniques, create your own piece, and understand the symbolism in Inca and pre-Inca ceramic traditions.',
+    descriptionEs: 'Aprende el arte antiguo de la cerámica andina de maestros ceramistas en Cusco o pueblos cercanos como Raqchi. Trabaja con arcilla usando técnicas tradicionales, crea tu propia pieza y entiende el simbolismo en las tradiciones cerámicas Inca y pre-Inca.',
+    whatToExpect: 'Hands-on workshop learning to shape clay, understand Andean symbols, and create functional or decorative pieces. Take home your creation (dried or arrange shipping for fired pieces).',
+    whatToExpectEs: 'Taller práctico aprendiendo a dar forma a la arcilla, entender símbolos andinos y crear piezas funcionales o decorativas. Llévate tu creación a casa (seca o coordina envío para piezas cocidas).',
+    highlights: [
+      'Learn from master potters',
+      'Hands-on clay work',
+      'Understand Andean symbols',
+      'Create your own piece',
+      'Traditional techniques',
+      'Take home your work'
+    ],
+    highlightsEs: [
+      'Aprende de maestros alfareros',
+      'Trabajo práctico con arcilla',
+      'Entiende símbolos andinos',
+      'Crea tu propia pieza',
+      'Técnicas tradicionales',
+      'Llévate tu trabajo a casa'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$20-50 per person',
+    priceRangeEs: '$20-50 por persona',
+    bestTime: 'Year-round. Book in advance.',
+    bestTimeEs: 'Todo el año. Reserva con anticipación.',
+    includes: [
+      'All materials',
+      'Expert instruction',
+      'History and culture lesson',
+      'Your finished piece',
+      'Often includes tea/snack',
+      'Protective apron'
+    ],
+    includesEs: [
+      'Todos los materiales',
+      'Instrucción experta',
+      'Lección de historia y cultura',
+      'Tu pieza terminada',
+      'A menudo incluye té/bocadillo',
+      'Delantal protector'
+    ],
+    tips: [
+      'Wear old clothes - clay is messy',
+      'Kids absolutely love this activity',
+      'No artistic skill needed',
+      'Raqchi village is famous for pottery',
+      'Great rainy day activity',
+      'Book small group for best experience'
+    ],
+    tipsEs: [
+      'Usa ropa vieja - la arcilla ensucia',
+      'A los niños absolutamente les encanta esta actividad',
+      'No se necesita habilidad artística',
+      'El pueblo de Raqchi es famoso por su cerámica',
+      'Gran actividad para día lluvioso',
+      'Reserva grupo pequeño para mejor experiencia'
+    ],
+    safetyNotes: [
+      'Very safe activity',
+      'Supervision for young children',
+      'Wash hands after',
+      'Clay is non-toxic'
+    ],
+    safetyNotesEs: [
+      'Actividad muy segura',
+      'Supervisión para niños pequeños',
+      'Lávate las manos después',
+      'La arcilla no es tóxica'
+    ],
+    relatedActivities: ['textile-weaving-workshop', 'peruvian-cooking-class', 'chocolate-making'],
+    providers: [
+      { name: 'Pablo Seminario Workshop', familyFriendly: true },
+      { name: 'Raqchi community workshops', familyFriendly: true }
+    ]
   }
 ];
 

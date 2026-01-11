@@ -2119,6 +2119,182 @@ export const festivals: Festival[] = [
     practicalInfo: 'Main events February 2-11. Best viewing spots fill early. Stadium competitions require tickets. Fly to Juliaca from Lima, then 45 min to Puno. Cold temperatures (0-15°C) and possible rain.',
     practicalInfoEs: 'Eventos principales febrero 2-11. Los mejores lugares de observación se llenan temprano. Las competencias en el estadio requieren entradas. Vuela a Juliaca desde Lima, luego 45 min a Puno. Temperaturas frías (0-15°C) y posible lluvia.',
     relatedFestivals: ['virgen-candelaria', 'inti-raymi', 'corpus-christi-cusco']
+  },
+  {
+    slug: 'fiesta-de-la-cruz',
+    name: 'Fiesta de la Cruz (Festival of the Cross)',
+    nameEs: 'Fiesta de la Cruz',
+    city: 'lima',
+    region: 'Nationwide',
+    regionEs: 'Todo el país',
+    month: 5,
+    date: 'May 3 (celebrations throughout May)',
+    dateEs: '3 de mayo (celebraciones durante todo mayo)',
+    duration: '1 day to weeks (varies by location)',
+    durationEs: '1 día a semanas (varía por ubicación)',
+    description: 'A colorful festival celebrated throughout Peru where communities honor decorated crosses on hilltops and in churches. Combines Catholic traditions with ancient Andean mountain worship, featuring music, dance, processions, and community feasts.',
+    descriptionEs: 'Un colorido festival celebrado en todo Perú donde las comunidades honran cruces decoradas en cumbres de cerros y en iglesias. Combina tradiciones católicas con antigua adoración andina de montañas, presentando música, danza, procesiones y festines comunitarios.',
+    history: 'Spanish missionaries placed crosses on Andean peaks to replace indigenous apus (mountain spirits). Communities adopted the crosses while maintaining pre-Hispanic traditions, creating a unique syncretic celebration.',
+    historyEs: 'Los misioneros españoles colocaron cruces en cumbres andinas para reemplazar apus indígenas (espíritus de montañas). Las comunidades adoptaron las cruces mientras mantenían tradiciones prehispánicas, creando una celebración sincrética única.',
+    highlights: [
+      'Elaborately decorated crosses',
+      'Hilltop processions',
+      'Traditional music and dance',
+      'Community feasts',
+      'Syncretism of beliefs',
+      'Nationwide celebration'
+    ],
+    highlightsEs: [
+      'Cruces elaboradamente decoradas',
+      'Procesiones en cumbres',
+      'Música y danza tradicional',
+      'Festines comunitarios',
+      'Sincretismo de creencias',
+      'Celebración a nivel nacional'
+    ],
+    familyRating: 4,
+    crowdLevel: 'moderate',
+    activities: [
+      'Watch cross processions',
+      'See decorated crosses',
+      'Enjoy traditional music',
+      'Join community meals',
+      'Visit hilltop shrines',
+      'Participate in local festivities'
+    ],
+    activitiesEs: [
+      'Ver procesiones de cruces',
+      'Ver cruces decoradas',
+      'Disfrutar música tradicional',
+      'Unirse a comidas comunitarias',
+      'Visitar santuarios en cumbres',
+      'Participar en festividades locales'
+    ],
+    familyTips: [
+      'Celebrated differently in each region',
+      'Cusco and Lima have notable celebrations',
+      'Great for experiencing local culture',
+      'Often includes fireworks',
+      'Ask locals about celebrations',
+      'Community meals are welcoming'
+    ],
+    familyTipsEs: [
+      'Se celebra diferente en cada región',
+      'Cusco y Lima tienen celebraciones notables',
+      'Genial para experimentar cultura local',
+      'A menudo incluye fuegos artificiales',
+      'Pregunta a locales sobre celebraciones',
+      'Las comidas comunitarias son acogedoras'
+    ],
+    whatToWear: 'Casual comfortable clothes. Layers for highland celebrations. Walking shoes for processions.',
+    whatToWearEs: 'Ropa casual cómoda. Capas para celebraciones de tierras altas. Zapatos para caminar para procesiones.',
+    foodToTry: [
+      'Pachamanca (earth oven feast)',
+      'Chicha de jora',
+      'Anticuchos',
+      'Regional specialties',
+      'Traditional bread',
+      'Community potluck dishes'
+    ],
+    foodToTryEs: [
+      'Pachamanca (festín en horno de tierra)',
+      'Chicha de jora',
+      'Anticuchos',
+      'Especialidades regionales',
+      'Pan tradicional',
+      'Platos de comida comunitaria'
+    ],
+    practicalInfo: 'Main day is May 3, but celebrations can last days or weeks. Check local schedules as each town celebrates differently. Most vibrant in highland communities.',
+    practicalInfoEs: 'El día principal es el 3 de mayo, pero las celebraciones pueden durar días o semanas. Verifica horarios locales ya que cada pueblo celebra diferente. Más vibrante en comunidades de tierras altas.',
+    relatedFestivals: ['corpus-christi-cusco', 'virgen-candelaria', 'senor-de-los-milagros']
+  },
+  {
+    slug: 'fiesta-san-juan',
+    name: 'Fiesta de San Juan',
+    nameEs: 'Fiesta de San Juan',
+    city: 'iquitos',
+    region: 'Amazon Region',
+    regionEs: 'Región Amazónica',
+    month: 6,
+    date: 'June 24',
+    dateEs: '24 de junio',
+    duration: '1-3 days',
+    durationEs: '1-3 días',
+    description: 'The Amazon\'s biggest festival celebrating Saint John the Baptist. The entire jungle region celebrates with traditional juanes (rice tamales), music, dance, beauty contests, and river activities. A perfect time to experience authentic Amazonian culture.',
+    descriptionEs: 'El festival más grande de la Amazonía celebrando a San Juan Bautista. Toda la región de selva celebra con tradicionales juanes (tamales de arroz), música, danza, concursos de belleza y actividades de río. Un momento perfecto para experimentar auténtica cultura amazónica.',
+    history: 'Saint John the Baptist\'s feast day became the Amazon\'s biggest celebration, incorporating indigenous traditions and becoming synonymous with jungle culture. The juane dish represents Saint John\'s head on a platter.',
+    historyEs: 'El día de San Juan Bautista se convirtió en la mayor celebración de la Amazonía, incorporando tradiciones indígenas y volviéndose sinónimo de la cultura de selva. El plato juane representa la cabeza de San Juan en un plato.',
+    highlights: [
+      'Traditional juanes everywhere',
+      'Amazon music and dance',
+      'River swimming and activities',
+      'Beauty pageants',
+      'Fireworks and parades',
+      'Authentic jungle celebration'
+    ],
+    highlightsEs: [
+      'Juanes tradicionales en todas partes',
+      'Música y danza amazónica',
+      'Natación y actividades de río',
+      'Concursos de belleza',
+      'Fuegos artificiales y desfiles',
+      'Celebración auténtica de selva'
+    ],
+    familyRating: 5,
+    crowdLevel: 'high',
+    activities: [
+      'Try juanes (essential!)',
+      'Watch traditional dances',
+      'Join river activities',
+      'Watch parades',
+      'Enjoy live music',
+      'Visit local communities'
+    ],
+    activitiesEs: [
+      'Probar juanes (¡esencial!)',
+      'Ver danzas tradicionales',
+      'Unirse a actividades de río',
+      'Ver desfiles',
+      'Disfrutar música en vivo',
+      'Visitar comunidades locales'
+    ],
+    familyTips: [
+      'Everyone eats juanes on June 24',
+      'Great introduction to Amazon culture',
+      'Book Iquitos hotels well in advance',
+      'Tarapoto also celebrates big',
+      'Weather is hot - stay hydrated',
+      'Swimming in rivers is traditional'
+    ],
+    familyTipsEs: [
+      'Todos comen juanes el 24 de junio',
+      'Gran introducción a la cultura amazónica',
+      'Reserva hoteles en Iquitos con mucha anticipación',
+      'Tarapoto también celebra en grande',
+      'El clima es caluroso - mantente hidratado',
+      'Nadar en ríos es tradicional'
+    ],
+    whatToWear: 'Light, breathable clothes. Swimwear for river activities. Sandals or water shoes.',
+    whatToWearEs: 'Ropa ligera y transpirable. Traje de baño para actividades de río. Sandalias o zapatos de agua.',
+    foodToTry: [
+      'Juane (absolutely must try!)',
+      'Tacacho con cecina',
+      'Inchicapi (chicken soup)',
+      'Masato (fermented yuca drink)',
+      'Tropical fruits',
+      'River fish dishes'
+    ],
+    foodToTryEs: [
+      'Juane (¡absolutamente debes probar!)',
+      'Tacacho con cecina',
+      'Inchicapi (sopa de pollo)',
+      'Masato (bebida de yuca fermentada)',
+      'Frutas tropicales',
+      'Platos de pescado de río'
+    ],
+    practicalInfo: 'June 24 is the main day but festivities span several days. Iquitos, Tarapoto, and Pucallpa have biggest celebrations. Hot and humid - bring water and sun protection.',
+    practicalInfoEs: 'El 24 de junio es el día principal pero las festividades abarcan varios días. Iquitos, Tarapoto y Pucallpa tienen las mayores celebraciones. Caluroso y húmedo - lleva agua y protección solar.',
+    relatedFestivals: ['inti-raymi', 'fiesta-de-la-cruz', 'carnaval-cajamarca']
   }
 ];
 
