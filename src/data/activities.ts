@@ -6595,6 +6595,366 @@ export const activities: Activity[] = [
       { name: 'Andes Kayak', familyFriendly: true },
       { name: 'Puno Kayaking', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'pisco-tasting-tour',
+    name: 'Pisco Tasting Tour',
+    nameEs: 'Tour de Degustación de Pisco',
+    type: 'culinary',
+    city: 'lima',
+    region: 'Lima or Ica Region',
+    regionEs: 'Región Lima o Ica',
+    description: 'Discover Peru\'s national spirit on a guided pisco tasting experience. Learn about the distillation process, grape varieties, and history of pisco while sampling different styles and learning to make the perfect pisco sour.',
+    descriptionEs: 'Descubre el licor nacional del Perú en una experiencia guiada de degustación de pisco. Aprende sobre el proceso de destilación, variedades de uva, e historia del pisco mientras pruebas diferentes estilos y aprendes a hacer el pisco sour perfecto.',
+    whatToExpect: 'Visit a pisco distillery or specialty bar. Learn about the 8 grape varieties used in pisco production. Taste different pisco styles (puro, acholado, mosto verde). Learn to make a traditional pisco sour cocktail.',
+    whatToExpectEs: 'Visita una destilería de pisco o bar especializado. Aprende sobre las 8 variedades de uva usadas en la producción de pisco. Prueba diferentes estilos de pisco (puro, acholado, mosto verde). Aprende a hacer un coctel tradicional pisco sour.',
+    highlights: [
+      'Learn pisco history and production',
+      'Taste different pisco varieties',
+      'Make your own pisco sour',
+      'Visit historic bodegas (in Ica)',
+      'Expert sommelier guidance',
+      'Peruvian appetizers included'
+    ],
+    highlightsEs: [
+      'Aprende historia y producción del pisco',
+      'Prueba diferentes variedades de pisco',
+      'Haz tu propio pisco sour',
+      'Visita bodegas históricas (en Ica)',
+      'Guía de sommelier experto',
+      'Aperitivos peruanos incluidos'
+    ],
+    familyRating: 2,
+    minAge: 18,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$40-80 per person',
+    priceRangeEs: '$40-80 por persona',
+    bestTime: 'Year-round. Afternoon or evening sessions.',
+    bestTimeEs: 'Todo el año. Sesiones de tarde o noche.',
+    includes: [
+      'Pisco tastings (multiple varieties)',
+      'Pisco sour making class',
+      'Expert guide/sommelier',
+      'Peruvian snacks',
+      'Distillery tour (some)',
+      'Cocktail recipes'
+    ],
+    includesEs: [
+      'Degustaciones de pisco (múltiples variedades)',
+      'Clase de preparación de pisco sour',
+      'Guía experto/sommelier',
+      'Snacks peruanos',
+      'Tour de destilería (algunos)',
+      'Recetas de cocteles'
+    ],
+    tips: [
+      'Adults only activity',
+      'Ica has more authentic bodega tours',
+      'Lima has upscale tasting experiences',
+      'Don\'t drive after tasting',
+      'Pace yourself with water',
+      'Buy bottles at distillery for best prices'
+    ],
+    tipsEs: [
+      'Actividad solo para adultos',
+      'Ica tiene tours de bodega más auténticos',
+      'Lima tiene experiencias de degustación de alta gama',
+      'No manejes después de la degustación',
+      'Tómatelo con calma con agua',
+      'Compra botellas en la destilería por mejores precios'
+    ],
+    safetyNotes: [
+      'Drink responsibly',
+      'Do not drive after tasting',
+      'Pace yourself',
+      'Eat the provided snacks',
+      'Water provided'
+    ],
+    safetyNotesEs: [
+      'Bebe responsablemente',
+      'No manejes después de la degustación',
+      'Tómatelo con calma',
+      'Come los snacks proporcionados',
+      'Agua proporcionada'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'lima-food-tour', 'wine-tasting-ica'],
+    providers: [
+      { name: 'Pisco Museum Lima', familyFriendly: false },
+      { name: 'Tacama Vineyard', familyFriendly: false },
+      { name: 'BarTour Lima', familyFriendly: false }
+    ]
+  },
+  {
+    slug: 'birdwatching-manu',
+    name: 'Birdwatching in Manu',
+    nameEs: 'Observación de Aves en Manu',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Experience world-class birdwatching in Manu National Park, home to over 1,000 bird species. From colorful macaws at clay licks to rare Andean cock-of-the-rock, Manu offers unparalleled opportunities for birding enthusiasts and curious families alike.',
+    descriptionEs: 'Experimenta observación de aves de clase mundial en el Parque Nacional Manu, hogar de más de 1,000 especies de aves. Desde coloridas guacamayas en colpas hasta el raro gallito de las rocas andino, Manu ofrece oportunidades sin igual para entusiastas de las aves y familias curiosas.',
+    whatToExpect: 'Join expert birding guides at prime locations including clay licks, canopy towers, and forest trails. Wake before dawn to witness macaw clay licks. Spot toucans, tanagers, hummingbirds, and the iconic cock-of-the-rock at dawn leks.',
+    whatToExpectEs: 'Únete a guías expertos en observación de aves en ubicaciones privilegiadas incluyendo colpas, torres de dosel, y senderos del bosque. Despierta antes del amanecer para presenciar colpas de guacamayas. Observa tucanes, tangaras, colibríes, y el icónico gallito de las rocas en leks al amanecer.',
+    highlights: [
+      'Over 1,000 bird species',
+      'Macaw clay licks',
+      'Cock-of-the-rock viewing',
+      'Expert naturalist guides',
+      'Canopy tower observation',
+      'UNESCO Biosphere Reserve'
+    ],
+    highlightsEs: [
+      'Más de 1,000 especies de aves',
+      'Colpas de guacamayas',
+      'Observación del gallito de las rocas',
+      'Guías naturalistas expertos',
+      'Observación desde torre de dosel',
+      'Reserva de Biosfera UNESCO'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '3-7 days (multi-day expeditions)',
+    durationEs: '3-7 días (expediciones de múltiples días)',
+    difficulty: 'moderate',
+    priceRange: '$200-400 per person per day',
+    priceRangeEs: '$200-400 por persona por día',
+    bestTime: 'Dry season (May-October) for best access. May-July for macaw clay licks.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejor acceso. Mayo-julio para colpas de guacamayas.',
+    includes: [
+      'Expert birding guides',
+      'Binoculars (often)',
+      'Bird checklists',
+      'Lodge accommodation',
+      'All meals',
+      'Park permits'
+    ],
+    includesEs: [
+      'Guías expertos en aves',
+      'Binoculares (a menudo)',
+      'Listas de aves',
+      'Alojamiento en lodge',
+      'Todas las comidas',
+      'Permisos del parque'
+    ],
+    tips: [
+      'Bring quality binoculars',
+      'Early mornings are essential',
+      'Pack insect repellent',
+      'Patience rewards with great sightings',
+      'Keep bird checklist',
+      'Multi-day trips see more species'
+    ],
+    tipsEs: [
+      'Trae binoculares de calidad',
+      'Las madrugadas son esenciales',
+      'Empaca repelente de insectos',
+      'La paciencia recompensa con grandes avistamientos',
+      'Mantén lista de aves',
+      'Viajes de múltiples días ven más especies'
+    ],
+    safetyNotes: [
+      'Follow guide instructions',
+      'Stay on trails',
+      'Mosquito protection essential',
+      'Drink treated water only',
+      'Jungle conditions vary'
+    ],
+    safetyNotesEs: [
+      'Sigue las instrucciones del guía',
+      'Permanece en los senderos',
+      'Protección contra mosquitos esencial',
+      'Bebe solo agua tratada',
+      'Las condiciones de la selva varían'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'amazon-canopy-walkway', 'wildlife-photography'],
+    providers: [
+      { name: 'Manu Wildlife Center', familyFriendly: true },
+      { name: 'Cock of the Rock Lodge', familyFriendly: true },
+      { name: 'Manu Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'stand-up-paddleboarding-lima',
+    name: 'Stand-Up Paddleboarding in Lima',
+    nameEs: 'Stand-Up Paddleboarding en Lima',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Glide across the calm Pacific waters of Lima\'s Costa Verde on a stand-up paddleboard. This beginner-friendly activity offers a fun way for families to enjoy the ocean while taking in views of Miraflores\' dramatic clifftop skyline.',
+    descriptionEs: 'Deslízate sobre las tranquilas aguas del Pacífico de la Costa Verde de Lima en una tabla de stand-up paddle. Esta actividad amigable para principiantes ofrece una forma divertida para que las familias disfruten del océano mientras admiran las vistas del dramático horizonte de Miraflores.',
+    whatToExpect: 'Start with beach instruction on balance, paddling technique, and safety. Practice in calm waters before venturing further. Suitable for beginners - most stand up within minutes. Wetsuits provided as water is cool year-round.',
+    whatToExpectEs: 'Comienza con instrucción en la playa sobre equilibrio, técnica de remado, y seguridad. Practica en aguas tranquilas antes de aventurarte más lejos. Apto para principiantes - la mayoría se para en minutos. Se proporcionan trajes de neopreno ya que el agua es fría todo el año.',
+    highlights: [
+      'Beginner-friendly activity',
+      'Beautiful coastal views',
+      'Great core workout',
+      'Calm morning waters',
+      'All equipment provided',
+      'Fun for the whole family'
+    ],
+    highlightsEs: [
+      'Actividad amigable para principiantes',
+      'Hermosas vistas costeras',
+      'Gran ejercicio para el core',
+      'Aguas tranquilas en la mañana',
+      'Todo el equipo proporcionado',
+      'Diversión para toda la familia'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 per person',
+    priceRangeEs: '$30-50 por persona',
+    bestTime: 'Year-round. Morning for calmest water. Summer (Dec-Mar) warmer.',
+    bestTimeEs: 'Todo el año. Mañana para agua más tranquila. Verano (dic-mar) más cálido.',
+    includes: [
+      'Paddleboard and paddle',
+      'Wetsuit',
+      'Instructor',
+      'Safety leash',
+      'Beach instruction',
+      'Water instruction'
+    ],
+    includesEs: [
+      'Tabla de paddle y remo',
+      'Traje de neopreno',
+      'Instructor',
+      'Leash de seguridad',
+      'Instrucción en playa',
+      'Instrucción en agua'
+    ],
+    tips: [
+      'Morning sessions have calmest water',
+      'Easier than surfing for beginners',
+      'Great activity for teens',
+      'Wear swimsuit under wetsuit',
+      'Secure glasses with strap',
+      'You will fall in - it\'s part of learning!'
+    ],
+    tipsEs: [
+      'Sesiones matutinas tienen agua más tranquila',
+      'Más fácil que el surf para principiantes',
+      'Gran actividad para adolescentes',
+      'Usa traje de baño debajo del neopreno',
+      'Asegura los lentes con correa',
+      '¡Te caerás - es parte del aprendizaje!'
+    ],
+    safetyNotes: [
+      'Life jacket available on request',
+      'Leash keeps board attached',
+      'Instructors stay nearby',
+      'Swimming ability helpful',
+      'Cool water - wetsuit essential'
+    ],
+    safetyNotesEs: [
+      'Chaleco salvavidas disponible a pedido',
+      'Leash mantiene la tabla amarrada',
+      'Los instructores se mantienen cerca',
+      'Habilidad de nadar útil',
+      'Agua fría - traje de neopreno esencial'
+    ],
+    relatedActivities: ['surfing-lessons-lima', 'kayaking-lima', 'paragliding-miraflores'],
+    providers: [
+      { name: 'Lima SUP', familyFriendly: true },
+      { name: 'Peru Paddle Sports', familyFriendly: true },
+      { name: 'Costa Verde SUP', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'piranha-fishing-amazon',
+    name: 'Piranha Fishing in the Amazon',
+    nameEs: 'Pesca de Pirañas en el Amazonas',
+    type: 'adventure',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Try your hand at catching the Amazon\'s most famous fish on a family-friendly fishing excursion. Using simple wooden poles and meat bait, even children can catch these feisty fish while learning about Amazon river ecosystems.',
+    descriptionEs: 'Prueba tu suerte atrapando el pez más famoso del Amazonas en una excursión de pesca familiar. Usando simples cañas de madera y carne como carnada, incluso los niños pueden atrapar estos peces aguerridos mientras aprenden sobre los ecosistemas fluviales amazónicos.',
+    whatToExpect: 'Travel by boat to productive fishing spots in lagoons or tributaries. Use traditional wooden poles with simple hooks and meat bait. Guides teach technique and share knowledge about piranhas and their role in the ecosystem. Catch-and-release or keep for dinner!',
+    whatToExpectEs: 'Viaja en bote a lugares productivos de pesca en lagunas o tributarios. Usa cañas de madera tradicionales con anzuelos simples y carne como carnada. Los guías enseñan la técnica y comparten conocimientos sobre las pirañas y su rol en el ecosistema. ¡Pesca y suelta o quédatelos para la cena!',
+    highlights: [
+      'Catch real piranhas',
+      'Simple, fun technique',
+      'Learn about Amazon ecosystem',
+      'Suitable for all ages',
+      'Boat ride through jungle',
+      'Often can eat your catch'
+    ],
+    highlightsEs: [
+      'Atrapa pirañas reales',
+      'Técnica simple y divertida',
+      'Aprende sobre el ecosistema amazónico',
+      'Apto para todas las edades',
+      'Paseo en bote por la selva',
+      'A menudo puedes comer tu pesca'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: 'Usually included in lodge stay or $20-40',
+    priceRangeEs: 'Usualmente incluido en estadía en lodge o $20-40',
+    bestTime: 'Year-round. Dry season (June-October) has lower water and better fishing.',
+    bestTimeEs: 'Todo el año. Temporada seca (junio-octubre) tiene agua más baja y mejor pesca.',
+    includes: [
+      'Fishing equipment',
+      'Boat transportation',
+      'Expert guide',
+      'Bait',
+      'Safety briefing',
+      'Often lunch or snacks'
+    ],
+    includesEs: [
+      'Equipo de pesca',
+      'Transporte en bote',
+      'Guía experto',
+      'Carnada',
+      'Sesión de seguridad',
+      'A menudo almuerzo o snacks'
+    ],
+    tips: [
+      'Kids absolutely love this activity',
+      'Quick, jerky movements attract bites',
+      'Piranhas have sharp teeth - handle carefully',
+      'Great photos with your catch',
+      'Sunset fishing is magical',
+      'Fried piranha is delicious!'
+    ],
+    tipsEs: [
+      'A los niños les encanta esta actividad',
+      'Movimientos rápidos y bruscos atraen mordidas',
+      'Las pirañas tienen dientes afilados - manipula con cuidado',
+      'Grandes fotos con tu pesca',
+      'La pesca al atardecer es mágica',
+      '¡La piraña frita es deliciosa!'
+    ],
+    safetyNotes: [
+      'Guide handles fish with teeth',
+      'Children supervised at all times',
+      'Life jackets provided',
+      'Stay seated in boat',
+      'Sharp hooks - be careful'
+    ],
+    safetyNotesEs: [
+      'El guía maneja el pescado con dientes',
+      'Niños supervisados en todo momento',
+      'Chalecos salvavidas proporcionados',
+      'Permanece sentado en el bote',
+      'Anzuelos afilados - ten cuidado'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'amazon-canopy-walkway', 'caiman-spotting'],
+    providers: [
+      { name: 'Amazon Yarapa River Lodge', familyFriendly: true },
+      { name: 'Explorama Lodges', familyFriendly: true },
+      { name: 'Heliconia Lodge', familyFriendly: true }
+    ]
   }
 ];
 
