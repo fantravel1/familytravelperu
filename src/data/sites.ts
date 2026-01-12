@@ -4514,6 +4514,306 @@ export const sites: Site[] = [
       'Estacionamiento',
       'Sin sombra - lleva protección'
     ]
+  },
+  {
+    slug: 'kuelap',
+    name: 'Kuélap Fortress',
+    nameEs: 'Fortaleza de Kuélap',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 3000,
+    description: 'The "Machu Picchu of the North" - a massive pre-Inca fortress built by the Chachapoya cloud warriors. With walls up to 20 meters high and over 400 circular stone houses, Kuélap offers a less crowded but equally impressive archaeological experience.',
+    descriptionEs: 'El "Machu Picchu del Norte" - una masiva fortaleza pre-inca construida por los guerreros de las nubes Chachapoya. Con muros de hasta 20 metros de alto y más de 400 casas circulares de piedra, Kuélap ofrece una experiencia arqueológica igualmente impresionante pero menos concurrida.',
+    history: 'Built by the Chachapoya civilization between 500-1500 AD, Kuélap served as a fortified citadel high in the cloud forests. The Chachapoya, known as "Warriors of the Clouds," resisted Inca expansion until the 1470s. The site was rediscovered in 1843 and has been under excavation since.',
+    historyEs: 'Construido por la civilización Chachapoya entre 500-1500 d.C., Kuélap sirvió como ciudadela fortificada en lo alto de los bosques nubosos. Los Chachapoya, conocidos como "Guerreros de las Nubes," resistieron la expansión Inca hasta la década de 1470. El sitio fue redescubierto en 1843 y ha estado bajo excavación desde entonces.',
+    highlights: [
+      'Massive 20-meter stone walls',
+      'Over 400 circular buildings',
+      'New cable car access (2017)',
+      'Cloud forest setting',
+      'Less crowded than Machu Picchu',
+      'Mysterious Chachapoya culture'
+    ],
+    highlightsEs: [
+      'Masivos muros de piedra de 20 metros',
+      'Más de 400 edificios circulares',
+      'Nuevo acceso por teleférico (2017)',
+      'Entorno de bosque nuboso',
+      'Menos concurrido que Machu Picchu',
+      'Misteriosa cultura Chachapoya'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'moderate',
+    entranceFee: 'S/30 (~$8) + S/20 cable car',
+    entranceFeeEs: 'S/30 (~$8) + S/20 teleférico',
+    bestTime: 'May-September (dry season). Morning for clearer views.',
+    bestTimeEs: 'Mayo-septiembre (temporada seca). Mañana para vistas más claras.',
+    tips: [
+      'Take the cable car - spectacular views!',
+      'Arrive early for clearer skies',
+      'Bring rain gear even in dry season',
+      'Kids love exploring the circular houses',
+      'Less altitude than Cusco sites',
+      'Allow full day from Chachapoyas'
+    ],
+    tipsEs: [
+      '¡Toma el teleférico - vistas espectaculares!',
+      'Llega temprano para cielos más claros',
+      'Lleva ropa para lluvia incluso en temporada seca',
+      'A los niños les encanta explorar las casas circulares',
+      'Menos altitud que los sitios de Cusco',
+      'Permite un día completo desde Chachapoyas'
+    ],
+    nearbyAttractions: ['gocta-falls', 'karajia', 'revash'],
+    relatedSites: ['machu-picchu', 'gran-pajaten', 'chachapoya-museums'],
+    gettingThere: 'Cable car from Nuevo Tingo (20 min ride) or 4-hour trek. Day trip from Chachapoyas.',
+    gettingThereEs: 'Teleférico desde Nuevo Tingo (20 min) o caminata de 4 horas. Excursión de un día desde Chachapoyas.',
+    facilities: [
+      'Modern cable car system',
+      'Visitor center',
+      'Restrooms',
+      'Small cafeteria',
+      'Guides available',
+      'Parking at cable car station'
+    ],
+    facilitiesEs: [
+      'Sistema moderno de teleférico',
+      'Centro de visitantes',
+      'Baños',
+      'Pequeña cafetería',
+      'Guías disponibles',
+      'Estacionamiento en estación de teleférico'
+    ]
+  },
+  {
+    slug: 'gocta-falls',
+    name: 'Gocta Waterfall',
+    nameEs: 'Catarata de Gocta',
+    type: 'natural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 1771,
+    description: 'One of the world\'s tallest waterfalls at 771 meters, Gocta remained unknown to the outside world until 2005. The spectacular two-tiered cascade plunges through pristine cloud forest, making for an unforgettable family hiking adventure.',
+    descriptionEs: 'Una de las cataratas más altas del mundo con 771 metros, Gocta permaneció desconocida para el mundo exterior hasta 2005. La espectacular cascada de dos niveles cae a través de un bosque nuboso prístino, creando una inolvidable aventura familiar de senderismo.',
+    history: 'Local people knew of the waterfall for centuries but kept it secret, believing a mermaid guarded its waters. German researcher Stefan Ziemendorff "discovered" it in 2005 and measured its height, bringing it to international attention as one of the world\'s tallest waterfalls.',
+    historyEs: 'La gente local conocía la cascada durante siglos pero la mantuvo en secreto, creyendo que una sirena guardaba sus aguas. El investigador alemán Stefan Ziemendorff la "descubrió" en 2005 y midió su altura, atrayendo la atención internacional como una de las cataratas más altas del mundo.',
+    highlights: [
+      'One of world\'s tallest waterfalls',
+      'Pristine cloud forest hike',
+      'Two-tier waterfall system',
+      'Rich birdlife including cock-of-the-rock',
+      'Swimming pool at base',
+      'Relatively undiscovered'
+    ],
+    highlightsEs: [
+      'Una de las cataratas más altas del mundo',
+      'Caminata por bosque nuboso prístino',
+      'Sistema de cascada de dos niveles',
+      'Rica vida de aves incluyendo gallito de las rocas',
+      'Poza para nadar en la base',
+      'Relativamente poco descubierta'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '5-6 hours (full hike)',
+    durationEs: '5-6 horas (caminata completa)',
+    difficulty: 'moderate',
+    entranceFee: 'S/10 (~$3)',
+    entranceFeeEs: 'S/10 (~$3)',
+    bestTime: 'May-September for drier trails. Early morning for bird watching.',
+    bestTimeEs: 'Mayo-septiembre para senderos más secos. Temprano en la mañana para observación de aves.',
+    tips: [
+      'Two routes: from Cocachimba (easier) or San Pablo (harder)',
+      'Bring swimsuit for pool at base',
+      'Start early to avoid afternoon clouds',
+      'Hiking poles very helpful',
+      'Pack lunch and plenty of water',
+      'Local guides enhance the experience'
+    ],
+    tipsEs: [
+      'Dos rutas: desde Cocachimba (más fácil) o San Pablo (más difícil)',
+      'Lleva traje de baño para la poza en la base',
+      'Empieza temprano para evitar nubes de la tarde',
+      'Bastones de senderismo muy útiles',
+      'Lleva almuerzo y mucha agua',
+      'Guías locales mejoran la experiencia'
+    ],
+    nearbyAttractions: ['kuelap', 'cocachimba-village', 'yumbilla-falls'],
+    relatedSites: ['yumbilla-falls', 'chinata-falls', 'cloud-forest-trails'],
+    gettingThere: 'Drive to Cocachimba village (1 hour from Chachapoyas), then 2-hour hike to base.',
+    gettingThereEs: 'Conducir al pueblo de Cocachimba (1 hora desde Chachapoyas), luego caminata de 2 horas a la base.',
+    facilities: [
+      'Trail entrance station',
+      'Basic restrooms at trailhead',
+      'Local guides for hire',
+      'Small shops in villages',
+      'Lodges near trailhead',
+      'Horse rental available'
+    ],
+    facilitiesEs: [
+      'Estación de entrada al sendero',
+      'Baños básicos en el inicio del sendero',
+      'Guías locales disponibles',
+      'Pequeñas tiendas en los pueblos',
+      'Lodges cerca del inicio del sendero',
+      'Alquiler de caballos disponible'
+    ]
+  },
+  {
+    slug: 'huacachina-oasis',
+    name: 'Huacachina Oasis',
+    nameEs: 'Oasis de Huacachina',
+    type: 'natural',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 406,
+    description: 'A magical desert oasis surrounded by towering sand dunes, Huacachina is Peru\'s adventure playground. Families love the thrilling dune buggy rides and sandboarding, while the palm-fringed lagoon offers a surreal photo opportunity.',
+    descriptionEs: 'Un mágico oasis del desierto rodeado de imponentes dunas de arena, Huacachina es el parque de aventuras de Perú. Las familias adoran los emocionantes paseos en buggy y el sandboard, mientras la laguna bordeada de palmeras ofrece una oportunidad fotográfica surrealista.',
+    history: 'Legend says the lagoon formed when a princess fled from a hunter, her tears creating the lake and her green cloak becoming the surrounding palm trees. Once a retreat for Peruvian elite, Huacachina became an adventure tourism hub in the 1990s.',
+    historyEs: 'La leyenda dice que la laguna se formó cuando una princesa huyó de un cazador, sus lágrimas crearon el lago y su capa verde se convirtió en las palmeras circundantes. Antes un retiro para la élite peruana, Huacachina se convirtió en un centro de turismo de aventura en los años 90.',
+    highlights: [
+      'Stunning desert oasis lagoon',
+      'Massive sand dunes',
+      'Dune buggy adventures',
+      'Sandboarding for all levels',
+      'Spectacular desert sunsets',
+      'Unique photo opportunities'
+    ],
+    highlightsEs: [
+      'Impresionante laguna del oasis desértico',
+      'Masivas dunas de arena',
+      'Aventuras en buggy de dunas',
+      'Sandboard para todos los niveles',
+      'Espectaculares atardeceres del desierto',
+      'Oportunidades únicas para fotos'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours for activities, overnight recommended',
+    durationEs: '2-3 horas para actividades, se recomienda pernoctar',
+    difficulty: 'easy',
+    entranceFee: 'Free entry. Activities ~$15-30',
+    entranceFeeEs: 'Entrada gratuita. Actividades ~$15-30',
+    bestTime: 'Late afternoon for sunset tours. Year-round destination.',
+    bestTimeEs: 'Tarde para tours al atardecer. Destino todo el año.',
+    tips: [
+      'Book sunset dune buggy tour',
+      'Sandboarding is beginner-friendly',
+      'Protect cameras from sand',
+      'Bring sunglasses and sunscreen',
+      'Stay overnight for full experience',
+      'Combine with Nazca Lines trip'
+    ],
+    tipsEs: [
+      'Reserva tour en buggy al atardecer',
+      'El sandboard es amigable para principiantes',
+      'Protege las cámaras de la arena',
+      'Lleva gafas de sol y protector solar',
+      'Quédate una noche para experiencia completa',
+      'Combina con viaje a Líneas de Nazca'
+    ],
+    nearbyAttractions: ['ica-wineries', 'nazca-lines', 'paracas'],
+    relatedSites: ['ballestas-islands', 'paracas-reserve', 'nazca-lines-mirador'],
+    gettingThere: '5 minutes from Ica city center. 4 hours from Lima by bus.',
+    gettingThereEs: '5 minutos del centro de Ica. 4 horas desde Lima en bus.',
+    facilities: [
+      'Hotels and hostels around lagoon',
+      'Multiple restaurants and bars',
+      'Tour operators',
+      'Equipment rental',
+      'Souvenir shops',
+      'ATMs nearby in Ica'
+    ],
+    facilitiesEs: [
+      'Hoteles y hostales alrededor de la laguna',
+      'Múltiples restaurantes y bares',
+      'Operadores turísticos',
+      'Alquiler de equipos',
+      'Tiendas de souvenirs',
+      'Cajeros automáticos cercanos en Ica'
+    ]
+  },
+  {
+    slug: 'sillustani',
+    name: 'Sillustani Funerary Towers',
+    nameEs: 'Torres Funerarias de Sillustani',
+    type: 'archaeological',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3890,
+    description: 'A mysterious pre-Inca burial ground featuring tall cylindrical stone towers called chullpas, set dramatically on a peninsula overlooking Lake Umayo. The engineering and setting make this one of Peru\'s most atmospheric archaeological sites.',
+    descriptionEs: 'Un misterioso cementerio pre-inca con altas torres cilíndricas de piedra llamadas chullpas, ubicadas dramáticamente en una península con vista al Lago Umayo. La ingeniería y el entorno hacen de este uno de los sitios arqueológicos más atmosféricos de Perú.',
+    history: 'Built by the Colla people before Inca conquest, these burial towers (chullpas) held the remains of nobility in fetal position. The Incas later expanded the site but the Colla craftsmanship is considered superior. Many towers were looted by Spanish conquistadors.',
+    historyEs: 'Construidas por el pueblo Colla antes de la conquista Inca, estas torres funerarias (chullpas) contenían los restos de la nobleza en posición fetal. Los Incas expandieron el sitio más tarde pero la artesanía Colla es considerada superior. Muchas torres fueron saqueadas por los conquistadores españoles.',
+    highlights: [
+      'Unique chullpa burial towers',
+      'Stunning Lake Umayo views',
+      'Pre-Inca Colla culture',
+      'Impressive stone engineering',
+      'Peaceful peninsula setting',
+      'Alpacas grazing nearby'
+    ],
+    highlightsEs: [
+      'Únicas torres funerarias chullpas',
+      'Impresionantes vistas del Lago Umayo',
+      'Cultura Colla pre-inca',
+      'Impresionante ingeniería en piedra',
+      'Tranquilo entorno de península',
+      'Alpacas pastando cerca'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 (~$4)',
+    entranceFeeEs: 'S/15 (~$4)',
+    bestTime: 'Afternoon for best light on towers. Dry season (May-Oct) preferred.',
+    bestTimeEs: 'Tarde para mejor luz en las torres. Temporada seca (mayo-oct) preferida.',
+    tips: [
+      'Usually combined with Lake Titicaca tour',
+      'Afternoon light best for photos',
+      'Watch for alpacas - great photo ops',
+      'Dress warmly - windy location',
+      'Local guides tell fascinating stories',
+      'Less crowded than Titicaca islands'
+    ],
+    tipsEs: [
+      'Usualmente combinado con tour al Lago Titicaca',
+      'Luz de la tarde mejor para fotos',
+      'Busca alpacas - buenas oportunidades de fotos',
+      'Vístete abrigado - ubicación ventosa',
+      'Guías locales cuentan historias fascinantes',
+      'Menos concurrido que las islas del Titicaca'
+    ],
+    nearbyAttractions: ['lake-titicaca', 'uros-islands', 'taquile-island'],
+    relatedSites: ['cutimbo', 'lake-umayo', 'puno-museums'],
+    gettingThere: '35km from Puno (45 min). Usually visited as half-day tour.',
+    gettingThereEs: '35km desde Puno (45 min). Usualmente visitado como tour de medio día.',
+    facilities: [
+      'Entrance station with information',
+      'Basic restrooms',
+      'Small site museum',
+      'Souvenir vendors',
+      'Parking area',
+      'Guides available'
+    ],
+    facilitiesEs: [
+      'Estación de entrada con información',
+      'Baños básicos',
+      'Pequeño museo del sitio',
+      'Vendedores de souvenirs',
+      'Área de estacionamiento',
+      'Guías disponibles'
+    ]
   }
 ];
 

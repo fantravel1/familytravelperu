@@ -4799,6 +4799,366 @@ export const activities: Activity[] = [
       { name: 'Peru Canyoning', familyFriendly: true },
       { name: 'Extreme Peru Adventures', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'sandboarding-huacachina',
+    name: 'Sandboarding in Huacachina',
+    nameEs: 'Sandboard en Huacachina',
+    type: 'adventure',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Slide down massive golden sand dunes on a sandboard at Peru\'s adventure oasis. With options from gentle slopes to steep descents, sandboarding is accessible to all ages and makes for exhilarating family fun.',
+    descriptionEs: 'Deslízate por masivas dunas de arena dorada en un sandboard en el oasis de aventura de Perú. Con opciones desde pendientes suaves hasta descensos empinados, el sandboard es accesible para todas las edades y es diversión familiar emocionante.',
+    whatToExpect: 'After a thrilling dune buggy ride to the top, choose your descent style - standing (harder) or lying down (easier and faster). Guides provide boards and basic instruction. Multiple runs on different dunes included.',
+    whatToExpectEs: 'Después de un emocionante paseo en buggy hasta la cima, elige tu estilo de descenso - parado (más difícil) o acostado (más fácil y rápido). Los guías proporcionan tablas e instrucción básica. Múltiples descensos en diferentes dunas incluidos.',
+    highlights: [
+      'Massive sand dunes up to 100m high',
+      'Beginner-friendly lying position',
+      'Thrilling standing descents for teens',
+      'Combined with dune buggy ride',
+      'Spectacular sunset views',
+      'No experience needed'
+    ],
+    highlightsEs: [
+      'Masivas dunas de arena de hasta 100m de alto',
+      'Posición acostada amigable para principiantes',
+      'Emocionantes descensos parados para adolescentes',
+      'Combinado con paseo en buggy',
+      'Espectaculares vistas al atardecer',
+      'No se necesita experiencia'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$15-30 per person (includes buggy)',
+    priceRangeEs: '$15-30 por persona (incluye buggy)',
+    bestTime: 'Late afternoon for sunset. Year-round activity.',
+    bestTimeEs: 'Tarde para atardecer. Actividad todo el año.',
+    includes: [
+      'Dune buggy transportation',
+      'Sandboard rental',
+      'Basic instruction',
+      'Multiple descents',
+      'Water bottle',
+      'Hotel pickup (some tours)'
+    ],
+    includesEs: [
+      'Transporte en buggy de dunas',
+      'Alquiler de sandboard',
+      'Instrucción básica',
+      'Múltiples descensos',
+      'Botella de agua',
+      'Recogida del hotel (algunos tours)'
+    ],
+    tips: [
+      'Wear closed-toe shoes that can get sandy',
+      'Lying down is easier and faster!',
+      'Protect cameras and phones from sand',
+      'Sunscreen and sunglasses essential',
+      'Book sunset tour for best photos',
+      'Wax your board between runs'
+    ],
+    tipsEs: [
+      'Usa zapatos cerrados que puedan ensuciarse con arena',
+      '¡Acostado es más fácil y rápido!',
+      'Protege cámaras y teléfonos de la arena',
+      'Protector solar y gafas de sol esenciales',
+      'Reserva tour al atardecer para mejores fotos',
+      'Encera tu tabla entre descensos'
+    ],
+    safetyNotes: [
+      'Start with smaller dunes',
+      'Lying position is safer for beginners',
+      'Keep distance between riders',
+      'Wear provided goggles if windy',
+      'Guides supervise all descents'
+    ],
+    safetyNotesEs: [
+      'Empieza con dunas más pequeñas',
+      'Posición acostada es más segura para principiantes',
+      'Mantén distancia entre los que descienden',
+      'Usa las gafas proporcionadas si hay viento',
+      'Los guías supervisan todos los descensos'
+    ],
+    relatedActivities: ['dune-buggy-huacachina', 'desert-camping', 'nazca-flight'],
+    providers: [
+      { name: 'Huacachina Tours', familyFriendly: true },
+      { name: 'Desert Adventures', familyFriendly: true },
+      { name: 'Oasis Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'dune-buggy-huacachina',
+    name: 'Dune Buggy Adventure in Huacachina',
+    nameEs: 'Aventura en Buggy de Dunas en Huacachina',
+    type: 'adventure',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Hold on tight for a roller-coaster ride through Peru\'s highest sand dunes! Powerful dune buggies race up and down steep dunes, offering heart-pounding thrills with desert panoramas. A must-do Peru adventure.',
+    descriptionEs: '¡Agárrate fuerte para un paseo como montaña rusa a través de las dunas de arena más altas de Perú! Poderosos buggies de dunas corren subiendo y bajando dunas empinadas, ofreciendo emociones con panoramas del desierto. Una aventura imperdible en Perú.',
+    whatToExpect: 'Professional drivers navigate custom-built buggies through the dune fields, racing up steep inclines and dropping down sand faces. Tours stop at viewpoints and for sandboarding. Sunset tours are most popular.',
+    whatToExpectEs: 'Conductores profesionales navegan buggies hechos a medida a través de los campos de dunas, corriendo por pendientes empinadas y bajando por caras de arena. Los tours paran en miradores y para sandboard. Los tours al atardecer son los más populares.',
+    highlights: [
+      'Heart-pumping dune rides',
+      'Professional experienced drivers',
+      'Panoramic desert viewpoints',
+      'Combined with sandboarding',
+      'Spectacular sunset photo ops',
+      'Safe modern vehicles'
+    ],
+    highlightsEs: [
+      'Emocionantes paseos por las dunas',
+      'Conductores profesionales experimentados',
+      'Miradores panorámicos del desierto',
+      'Combinado con sandboard',
+      'Espectaculares oportunidades de fotos al atardecer',
+      'Vehículos modernos y seguros'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$15-30 per person',
+    priceRangeEs: '$15-30 por persona',
+    bestTime: 'Late afternoon (4-5pm) for sunset tour. Year-round.',
+    bestTimeEs: 'Tarde (4-5pm) para tour al atardecer. Todo el año.',
+    includes: [
+      'Professional driver',
+      'Modern safety-equipped buggy',
+      'Multiple dune runs',
+      'Photo stops',
+      'Sandboard rental',
+      'Basic insurance'
+    ],
+    includesEs: [
+      'Conductor profesional',
+      'Buggy moderno con equipo de seguridad',
+      'Múltiples recorridos por dunas',
+      'Paradas para fotos',
+      'Alquiler de sandboard',
+      'Seguro básico'
+    ],
+    tips: [
+      'Sunset tours have best light',
+      'Sit in front for most thrills',
+      'Cover camera equipment from sand',
+      'Wear bandana for dusty conditions',
+      'Book day before in peak season',
+      'Combine with sandboarding'
+    ],
+    tipsEs: [
+      'Tours al atardecer tienen mejor luz',
+      'Siéntate adelante para más emoción',
+      'Cubre el equipo de cámara de la arena',
+      'Usa pañuelo para condiciones polvorientas',
+      'Reserva el día anterior en temporada alta',
+      'Combina con sandboard'
+    ],
+    safetyNotes: [
+      'Seatbelts required at all times',
+      'Roll bars on all vehicles',
+      'Licensed professional drivers',
+      'Young children sit in middle',
+      'Motion sickness possible'
+    ],
+    safetyNotesEs: [
+      'Cinturones de seguridad requeridos siempre',
+      'Barras antivuelco en todos los vehículos',
+      'Conductores profesionales con licencia',
+      'Niños pequeños se sientan en el medio',
+      'Posible mareo por movimiento'
+    ],
+    relatedActivities: ['sandboarding-huacachina', 'nazca-flight', 'paracas-tour'],
+    providers: [
+      { name: 'Huacachina Desert Tours', familyFriendly: true },
+      { name: 'Oasis Peru Adventures', familyFriendly: true },
+      { name: 'Ica Sand Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sup-lake-titicaca',
+    name: 'Stand-Up Paddleboarding on Lake Titicaca',
+    nameEs: 'Stand-Up Paddleboard en el Lago Titicaca',
+    type: 'adventure',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Glide across the world\'s highest navigable lake on a stand-up paddleboard. Experience the sacred waters with stunning views of floating islands and snow-capped peaks. A unique way to explore Titicaca\'s beauty.',
+    descriptionEs: 'Deslízate por el lago navegable más alto del mundo en un stand-up paddleboard. Experimenta las aguas sagradas con impresionantes vistas de islas flotantes y picos nevados. Una forma única de explorar la belleza del Titicaca.',
+    whatToExpect: 'After brief instruction, paddle calm waters near shore or venture to floating islands. Tours often include visits to Uros communities by paddle. Calm morning waters offer the best conditions.',
+    whatToExpectEs: 'Después de una breve instrucción, rema por aguas tranquilas cerca de la orilla o aventúrate a las islas flotantes. Los tours a menudo incluyen visitas a comunidades Uros en paddle. Las aguas calmadas de la mañana ofrecen las mejores condiciones.',
+    highlights: [
+      'Highest altitude SUP in the world',
+      'Crystal-clear lake waters',
+      'Views of floating islands',
+      'Snow-capped mountain backdrop',
+      'Calm protected bays',
+      'Unique perspective on Titicaca'
+    ],
+    highlightsEs: [
+      'SUP en la altitud más alta del mundo',
+      'Aguas cristalinas del lago',
+      'Vistas de islas flotantes',
+      'Telón de fondo de montañas nevadas',
+      'Bahías protegidas y tranquilas',
+      'Perspectiva única del Titicaca'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Morning for calmest water. April-October (dry season).',
+    bestTimeEs: 'Mañana para agua más calma. Abril-octubre (temporada seca).',
+    includes: [
+      'SUP board and paddle',
+      'Life jacket',
+      'Brief instruction',
+      'Guide accompaniment',
+      'Wetsuit (if needed)',
+      'Waterproof bag'
+    ],
+    includesEs: [
+      'Tabla SUP y remo',
+      'Chaleco salvavidas',
+      'Instrucción breve',
+      'Acompañamiento de guía',
+      'Traje de neopreno (si es necesario)',
+      'Bolsa impermeable'
+    ],
+    tips: [
+      'Acclimatize 1-2 days before due to altitude',
+      'Morning has calmest waters',
+      'Dress in layers - can be cold',
+      'Waterproof your camera',
+      'Swimming ability required',
+      'Great photo opportunity activity'
+    ],
+    tipsEs: [
+      'Aclimátate 1-2 días antes debido a la altitud',
+      'La mañana tiene las aguas más calmadas',
+      'Vístete en capas - puede hacer frío',
+      'Impermeabiliza tu cámara',
+      'Se requiere saber nadar',
+      'Gran actividad para oportunidades de fotos'
+    ],
+    safetyNotes: [
+      'Altitude affects stamina',
+      'Stay in calm protected areas',
+      'Wear life jacket at all times',
+      'Guide stays nearby',
+      'Weather can change quickly'
+    ],
+    safetyNotesEs: [
+      'La altitud afecta la resistencia',
+      'Permanece en áreas protegidas y calmadas',
+      'Usa chaleco salvavidas en todo momento',
+      'El guía permanece cerca',
+      'El clima puede cambiar rápidamente'
+    ],
+    relatedActivities: ['kayaking-titicaca', 'uros-islands-tour', 'boat-tour-titicaca'],
+    providers: [
+      { name: 'Titicaca SUP Adventures', familyFriendly: true },
+      { name: 'Puno Paddle', familyFriendly: true },
+      { name: 'Lake Adventures Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'coffee-farm-tour-villa-rica',
+    name: 'Coffee Farm Tour in Villa Rica',
+    nameEs: 'Tour de Finca de Café en Villa Rica',
+    type: 'culinary',
+    city: 'oxapampa',
+    region: 'Pasco Region',
+    regionEs: 'Región Pasco',
+    description: 'Discover Peru\'s award-winning coffee at its source in the cloud forests of Villa Rica. This hands-on experience takes families from bean to cup, walking through coffee plantations and learning traditional harvesting.',
+    descriptionEs: 'Descubre el café premiado de Perú en su origen en los bosques nubosos de Villa Rica. Esta experiencia práctica lleva a las familias del grano a la taza, caminando por plantaciones de café y aprendiendo la cosecha tradicional.',
+    whatToExpect: 'Visit working coffee farms to see plants at various growth stages. Pick ripe cherries, watch processing, learn about roasting, and enjoy a cupping session. Many farms offer lunch with farm-fresh ingredients.',
+    whatToExpectEs: 'Visita fincas de café en funcionamiento para ver plantas en varias etapas de crecimiento. Recoge cerezas maduras, observa el procesamiento, aprende sobre el tueste y disfruta de una sesión de catación. Muchas fincas ofrecen almuerzo con ingredientes frescos de la granja.',
+    highlights: [
+      'Walk through coffee plantations',
+      'Pick your own coffee cherries',
+      'See bean processing steps',
+      'Learn cupping/tasting techniques',
+      'Meet local farming families',
+      'Beautiful cloud forest setting'
+    ],
+    highlightsEs: [
+      'Camina por plantaciones de café',
+      'Recoge tus propias cerezas de café',
+      'Ve los pasos de procesamiento del grano',
+      'Aprende técnicas de catación',
+      'Conoce familias agricultoras locales',
+      'Hermoso entorno de bosque nuboso'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Harvest season (April-September) for best experience.',
+    bestTimeEs: 'Temporada de cosecha (abril-septiembre) para mejor experiencia.',
+    includes: [
+      'Farm tour with guide',
+      'Coffee tasting session',
+      'Farm-fresh lunch (usually)',
+      'Bag of local coffee to take home',
+      'Transportation within farm',
+      'Educational materials'
+    ],
+    includesEs: [
+      'Tour de finca con guía',
+      'Sesión de degustación de café',
+      'Almuerzo fresco de la granja (usualmente)',
+      'Bolsa de café local para llevar',
+      'Transporte dentro de la finca',
+      'Materiales educativos'
+    ],
+    tips: [
+      'Visit during harvest (Apr-Sep) to pick cherries',
+      'Bring rain gear - cloud forest is misty',
+      'Try the cascara tea made from coffee fruit',
+      'Buy beans direct - freshest possible',
+      'Combine with Oxapampa German colony visit',
+      'Kids can do chocolate versions at some farms'
+    ],
+    tipsEs: [
+      'Visita durante la cosecha (abr-sep) para recoger cerezas',
+      'Lleva ropa para lluvia - el bosque nuboso es brumoso',
+      'Prueba el té de cáscara hecho de la fruta del café',
+      'Compra granos directamente - lo más fresco posible',
+      'Combina con visita a la colonia alemana de Oxapampa',
+      'Los niños pueden hacer versiones de chocolate en algunas fincas'
+    ],
+    safetyNotes: [
+      'Wear sturdy walking shoes',
+      'Sun and insect protection',
+      'Inform of any allergies',
+      'Trail walks are easy',
+      'Caffeine limits for children at tasting'
+    ],
+    safetyNotesEs: [
+      'Usa zapatos resistentes para caminar',
+      'Protección solar y de insectos',
+      'Informa de cualquier alergia',
+      'Las caminatas por senderos son fáciles',
+      'Límites de cafeína para niños en la catación'
+    ],
+    relatedActivities: ['chocolate-making', 'farm-to-table-lunch', 'cloud-forest-hike'],
+    providers: [
+      { name: 'Villa Rica Coffee Tours', familyFriendly: true },
+      { name: 'Finca Santa Rosa', familyFriendly: true },
+      { name: 'Coffee Route Peru', familyFriendly: true }
+    ]
   }
 ];
 

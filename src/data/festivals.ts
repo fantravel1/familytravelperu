@@ -2295,6 +2295,190 @@ export const festivals: Festival[] = [
     practicalInfo: 'June 24 is the main day but festivities span several days. Iquitos, Tarapoto, and Pucallpa have biggest celebrations. Hot and humid - bring water and sun protection.',
     practicalInfoEs: 'El 24 de junio es el día principal pero las festividades abarcan varios días. Iquitos, Tarapoto y Pucallpa tienen las mayores celebraciones. Caluroso y húmedo - lleva agua y protección solar.',
     relatedFestivals: ['inti-raymi', 'fiesta-de-la-cruz', 'carnaval-cajamarca']
+  },
+  {
+    slug: 'senor-de-los-milagros',
+    name: 'Señor de los Milagros (Lord of Miracles)',
+    nameEs: 'Señor de los Milagros',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    month: 10,
+    date: 'October 18, 19, 28 (main processions)',
+    dateEs: '18, 19, 28 de octubre (procesiones principales)',
+    duration: '1 month (October)',
+    durationEs: '1 mes (octubre)',
+    description: 'The largest religious procession in the Americas honors a 17th-century painting of Christ that survived devastating earthquakes. Millions of purple-clad devotees follow the sacred image through Lima\'s streets in an awe-inspiring display of faith.',
+    descriptionEs: 'La procesión religiosa más grande de las Américas honra una pintura de Cristo del siglo XVII que sobrevivió devastadores terremotos. Millones de devotos vestidos de morado siguen la imagen sagrada por las calles de Lima en una impresionante muestra de fe.',
+    history: 'In 1655, an African slave painted an image of the crucified Christ on an adobe wall. Despite earthquakes that destroyed surrounding buildings, the wall and painting survived, becoming a symbol of divine protection. The October processions began in 1687.',
+    historyEs: 'En 1655, un esclavo africano pintó una imagen de Cristo crucificado en una pared de adobe. A pesar de terremotos que destruyeron edificios circundantes, la pared y la pintura sobrevivieron, convirtiéndose en símbolo de protección divina. Las procesiones de octubre comenzaron en 1687.',
+    highlights: [
+      'Largest religious procession in Americas',
+      'Millions dressed in purple',
+      'Sacred image carried through streets',
+      '24+ hour continuous processions',
+      'Beautiful flower-covered litter',
+      'Incredible atmosphere of devotion'
+    ],
+    highlightsEs: [
+      'Procesión religiosa más grande de las Américas',
+      'Millones vestidos de morado',
+      'Imagen sagrada llevada por las calles',
+      'Procesiones continuas de 24+ horas',
+      'Hermosa anda cubierta de flores',
+      'Increíble atmósfera de devoción'
+    ],
+    familyRating: 4,
+    crowdLevel: 'very high',
+    activities: [
+      'Watch procession from balcony or street',
+      'Visit Nazarenas Church',
+      'Join devotees in purple attire',
+      'Try traditional turrón candy',
+      'Experience night procession',
+      'Visit the original painting'
+    ],
+    activitiesEs: [
+      'Ver la procesión desde un balcón o la calle',
+      'Visitar la Iglesia de las Nazarenas',
+      'Unirse a los devotos en atuendo morado',
+      'Probar el tradicional turrón',
+      'Experimentar la procesión nocturna',
+      'Visitar la pintura original'
+    ],
+    familyTips: [
+      'Wear purple clothing to participate',
+      'Watch from balcony for best view with kids',
+      'Expect very large crowds - hold hands',
+      'Night processions most atmospheric',
+      'Try turrón de Doña Pepa (traditional sweet)',
+      'Reserve restaurant balcony for comfort',
+      'Main procession days are most crowded',
+      'Good cultural/religious learning experience'
+    ],
+    familyTipsEs: [
+      'Usa ropa morada para participar',
+      'Ver desde un balcón para mejor vista con niños',
+      'Espera multitudes muy grandes - tómense de las manos',
+      'Procesiones nocturnas más atmosféricas',
+      'Prueba turrón de Doña Pepa (dulce tradicional)',
+      'Reserva balcón de restaurante para comodidad',
+      'Días de procesión principal son los más concurridos',
+      'Buena experiencia de aprendizaje cultural/religioso'
+    ],
+    whatToWear: 'Purple clothing (morado) is traditional. Comfortable walking shoes. Light layers for evening.',
+    whatToWearEs: 'Ropa morada es tradicional. Zapatos cómodos para caminar. Capas ligeras para la noche.',
+    foodToTry: [
+      'Turrón de Doña Pepa (must try!)',
+      'Mazamorra morada',
+      'Picarones',
+      'Anticuchos',
+      'Chicha morada',
+      'Traditional Lima cuisine'
+    ],
+    foodToTryEs: [
+      'Turrón de Doña Pepa (¡debes probar!)',
+      'Mazamorra morada',
+      'Picarones',
+      'Anticuchos',
+      'Chicha morada',
+      'Cocina tradicional limeña'
+    ],
+    practicalInfo: 'October 18 and 19 are main procession days. Processions start early morning and continue past midnight. Central Lima streets close for processions. Book restaurants with balconies weeks in advance.',
+    practicalInfoEs: 'El 18 y 19 de octubre son los días principales de procesión. Las procesiones comienzan temprano en la mañana y continúan pasada la medianoche. Las calles del centro de Lima cierran para las procesiones. Reserva restaurantes con balcones con semanas de anticipación.',
+    relatedFestivals: ['semana-santa-ayacucho', 'corpus-christi-cusco', 'senor-de-los-temblores']
+  },
+  {
+    slug: 'qoyllur-riti',
+    name: 'Qoyllur Rit\'i (Snow Star Festival)',
+    nameEs: 'Qoyllur Rit\'i (Festival de la Estrella de Nieve)',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    month: 5,
+    date: 'May/June (Trinity Sunday, 58 days after Easter)',
+    dateEs: 'Mayo/junio (Domingo de Trinidad, 58 días después de Pascua)',
+    duration: '3-4 days',
+    durationEs: '3-4 días',
+    description: 'One of Peru\'s most extraordinary pilgrimages draws 100,000+ devotees to a glacier at 4,700 meters. Dancers in elaborate costumes, ancient rituals, and the stunning Andean landscape make this UNESCO-recognized festival unforgettable.',
+    descriptionEs: 'Una de las peregrinaciones más extraordinarias de Perú atrae a más de 100,000 devotos a un glaciar a 4,700 metros. Bailarines con elaborados disfraces, rituales antiguos y el impresionante paisaje andino hacen de este festival reconocido por UNESCO algo inolvidable.',
+    history: 'Blending pre-Columbian worship of mountain spirits (apus) with Catholic traditions, Qoyllur Rit\'i honors both a miraculous Christ image and the sacred glacier. UNESCO designated it Intangible Cultural Heritage in 2011.',
+    historyEs: 'Mezclando el culto precolombino a los espíritus de las montañas (apus) con tradiciones católicas, Qoyllur Rit\'i honra tanto una imagen milagrosa de Cristo como el glaciar sagrado. UNESCO lo designó Patrimonio Cultural Inmaterial en 2011.',
+    highlights: [
+      'Pilgrimage to 4,700m glacier',
+      'Spectacular costumed dancers',
+      'Ukuku bear dancers',
+      'Ancient Andean-Catholic syncretism',
+      'Stunning mountain scenery',
+      'UNESCO Intangible Heritage'
+    ],
+    highlightsEs: [
+      'Peregrinación a glaciar a 4,700m',
+      'Espectaculares bailarines con disfraces',
+      'Bailarines ukukus (osos)',
+      'Antiguo sincretismo andino-católico',
+      'Impresionante paisaje de montaña',
+      'Patrimonio Inmaterial UNESCO'
+    ],
+    familyRating: 3,
+    crowdLevel: 'very high',
+    activities: [
+      'Watch dawn pilgrimage',
+      'See ukuku bear dancers',
+      'Experience traditional music',
+      'Witness glacier rituals',
+      'Observe nation dance groups',
+      'Camp under the stars'
+    ],
+    activitiesEs: [
+      'Ver la peregrinación del amanecer',
+      'Ver bailarines ukukus (osos)',
+      'Experimentar música tradicional',
+      'Presenciar rituales del glaciar',
+      'Observar grupos de danza de las naciones',
+      'Acampar bajo las estrellas'
+    ],
+    familyTips: [
+      'Extreme altitude - only for well-acclimatized families',
+      'Minimum age 10+ recommended',
+      'Very cold at night - proper gear essential',
+      'Basic camping conditions',
+      'No facilities - bring everything',
+      'Consider day visit from Cusco instead',
+      'Hire experienced guide',
+      'Watch for altitude sickness signs'
+    ],
+    familyTipsEs: [
+      'Altitud extrema - solo para familias bien aclimatadas',
+      'Edad mínima recomendada 10+',
+      'Muy frío de noche - equipo adecuado esencial',
+      'Condiciones básicas de campamento',
+      'Sin instalaciones - lleva todo',
+      'Considera visita de un día desde Cusco',
+      'Contrata guía experimentado',
+      'Observa signos de mal de altura'
+    ],
+    whatToWear: 'Multiple warm layers. Down jacket essential. Thermal underwear. Warm hat and gloves. Sturdy hiking boots. Rain gear.',
+    whatToWearEs: 'Múltiples capas abrigadas. Chaqueta de plumas esencial. Ropa interior térmica. Gorro y guantes abrigados. Botas de senderismo resistentes. Ropa para lluvia.',
+    foodToTry: [
+      'Hot soups (essential for warmth)',
+      'Coca tea (for altitude)',
+      'Traditional snacks from vendors',
+      'Bring your own provisions',
+      'Thermos with hot drinks',
+      'Energy bars and snacks'
+    ],
+    foodToTryEs: [
+      'Sopas calientes (esenciales para el calor)',
+      'Té de coca (para la altitud)',
+      'Snacks tradicionales de vendedores',
+      'Lleva tus propias provisiones',
+      'Termo con bebidas calientes',
+      'Barras energéticas y snacks'
+    ],
+    practicalInfo: 'Pilgrimage site is 8 hours from Cusco by road, then 8km uphill walk. Extreme cold at night (below freezing). Acclimatization essential - spend 3+ days in Cusco first. Not recommended for young children.',
+    practicalInfoEs: 'El sitio de peregrinación está a 8 horas de Cusco por carretera, luego 8km de caminata cuesta arriba. Frío extremo de noche (bajo cero). Aclimatación esencial - pasa 3+ días en Cusco primero. No recomendado para niños pequeños.',
+    relatedFestivals: ['inti-raymi', 'corpus-christi-cusco', 'la-diablada-puno']
   }
 ];
 
