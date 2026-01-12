@@ -6014,6 +6014,306 @@ export const sites: Site[] = [
       'Guardaparques',
       'Área de estacionamiento'
     ]
+  },
+  {
+    slug: 'palccoyo-rainbow-mountain',
+    name: 'Palccoyo Rainbow Mountain',
+    nameEs: 'Montaña de Colores Palccoyo',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 4900,
+    description: 'A stunning alternative to the famous Vinicunca Rainbow Mountain, Palccoyo offers three colorful mountains with far fewer crowds and an easier hike. The striped mineral deposits create vibrant reds, yellows, greens, and purples across the landscape.',
+    descriptionEs: 'Una impresionante alternativa a la famosa Montaña Vinicunca, Palccoyo ofrece tres montañas coloridas con muchas menos multitudes y una caminata más fácil. Los depósitos minerales rayados crean vibrantes rojos, amarillos, verdes y púrpuras a través del paisaje.',
+    history: 'Like Vinicunca, Palccoyo\'s colors were hidden under glacial ice until recent decades when climate change exposed the mineral-rich layers. The colors come from different mineral deposits: red from iron oxide, yellow from sulfur, and green from chlorite.',
+    historyEs: 'Como Vinicunca, los colores de Palccoyo estuvieron ocultos bajo hielo glaciar hasta décadas recientes cuando el cambio climático expuso las capas ricas en minerales. Los colores provienen de diferentes depósitos minerales: rojo del óxido de hierro, amarillo del azufre, y verde de la clorita.',
+    highlights: [
+      'Three rainbow mountains to see',
+      'Much easier hike than Vinicunca',
+      'Fewer tourists',
+      'Stone forest nearby',
+      'Alpacas and llamas grazing',
+      'Stunning photography opportunities'
+    ],
+    highlightsEs: [
+      'Tres montañas arcoíris para ver',
+      'Caminata mucho más fácil que Vinicunca',
+      'Menos turistas',
+      'Bosque de piedras cercano',
+      'Alpacas y llamas pastando',
+      'Impresionantes oportunidades de fotografía'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '6-7 hours (full day from Cusco)',
+    durationEs: '6-7 horas (día completo desde Cusco)',
+    difficulty: 'moderate',
+    entranceFee: 'S/10',
+    entranceFeeEs: 'S/10',
+    bestTime: 'Dry season (April-November). Early morning for best colors and weather.',
+    bestTimeEs: 'Temporada seca (abril-noviembre). Temprano en la mañana para mejores colores y clima.',
+    tips: [
+      'Much easier than Vinicunca - only 30 min walk',
+      'Still high altitude - acclimatize first',
+      'Bring warm layers - cold and windy',
+      'Best colors in morning light',
+      'Less crowded than Vinicunca',
+      'Horse rental available for tired hikers'
+    ],
+    tipsEs: [
+      'Mucho más fácil que Vinicunca - solo 30 min de caminata',
+      'Aún alta altitud - aclimátate primero',
+      'Trae capas abrigadas - frío y ventoso',
+      'Mejores colores con luz de la mañana',
+      'Menos concurrido que Vinicunca',
+      'Alquiler de caballos disponible para caminantes cansados'
+    ],
+    nearbyAttractions: ['rainbow-mountain', 'cusco', 'ausangate'],
+    relatedSites: ['rainbow-mountain', 'huayllay-stone-forest', 'sacred-valley'],
+    gettingThere: '3 hours from Cusco by car. Tours depart early morning.',
+    gettingThereEs: '3 horas desde Cusco en carro. Tours salen temprano en la mañana.',
+    facilities: [
+      'Basic restrooms at trailhead',
+      'Local vendors',
+      'Horse rental',
+      'Parking area',
+      'No food on trail',
+      'Limited facilities'
+    ],
+    facilitiesEs: [
+      'Baños básicos en inicio del sendero',
+      'Vendedores locales',
+      'Alquiler de caballos',
+      'Área de estacionamiento',
+      'Sin comida en el sendero',
+      'Instalaciones limitadas'
+    ]
+  },
+  {
+    slug: 'waqrapukara',
+    name: 'Waqrapukara (Horn Fortress)',
+    nameEs: 'Waqrapukara (Fortaleza de los Cuernos)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 4300,
+    description: 'A dramatic Inca fortress perched on twin horn-shaped rock formations, offering some of the most spectacular views in Peru. This off-the-beaten-path site combines stunning natural scenery with impressive archaeological remains.',
+    descriptionEs: 'Una dramática fortaleza Inca ubicada sobre formaciones rocosas gemelas en forma de cuernos, ofreciendo algunas de las vistas más espectaculares del Perú. Este sitio fuera de los caminos trillados combina impresionante paisaje natural con impresionantes restos arqueológicos.',
+    history: 'Originally built by the Qanchi people and later expanded by the Incas, Waqrapukara served as both a fortress and ceremonial center. The name means "horn fortress" in Quechua, referring to the two distinctive rock spires. The site was likely used for astronomical observations.',
+    historyEs: 'Originalmente construido por el pueblo Qanchi y luego expandido por los Incas, Waqrapukara sirvió como fortaleza y centro ceremonial. El nombre significa "fortaleza de los cuernos" en Quechua, refiriéndose a las dos distintivas agujas de roca. El sitio fue probablemente usado para observaciones astronómicas.',
+    highlights: [
+      'Dramatic twin horn rock formations',
+      'Spectacular canyon views',
+      'Off the beaten path',
+      'Impressive Inca stonework',
+      'Challenging but rewarding hike',
+      'Incredible photography'
+    ],
+    highlightsEs: [
+      'Dramáticas formaciones rocosas de cuernos gemelos',
+      'Espectaculares vistas del cañón',
+      'Fuera de los caminos trillados',
+      'Impresionante cantería Inca',
+      'Caminata desafiante pero gratificante',
+      'Fotografía increíble'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (10-12 hours from Cusco)',
+    durationEs: 'Día completo (10-12 horas desde Cusco)',
+    difficulty: 'challenging',
+    entranceFee: 'S/10',
+    entranceFeeEs: 'S/10',
+    bestTime: 'Dry season (May-October). Start very early for best light.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Comienza muy temprano para mejor luz.',
+    tips: [
+      'Challenging 3-4 hour hike each way',
+      'Start before dawn for best photos',
+      'Bring plenty of water and snacks',
+      'High altitude - acclimatize first',
+      'Hire local guide recommended',
+      'Camp overnight for sunrise (advanced)'
+    ],
+    tipsEs: [
+      'Caminata desafiante de 3-4 horas cada sentido',
+      'Comienza antes del amanecer para mejores fotos',
+      'Trae mucha agua y snacks',
+      'Alta altitud - aclimátate primero',
+      'Se recomienda contratar guía local',
+      'Acampa durante la noche para el amanecer (avanzado)'
+    ],
+    nearbyAttractions: ['cusco', 'rainbow-mountain', 'sacred-valley'],
+    relatedSites: ['sacsayhuaman', 'ollantaytambo', 'pisac'],
+    gettingThere: '4 hours drive from Cusco to trailhead, then 3-4 hour hike.',
+    gettingThereEs: '4 horas en carro desde Cusco al inicio del sendero, luego caminata de 3-4 horas.',
+    facilities: [
+      'No facilities at site',
+      'Basic restrooms at trailhead',
+      'Local community vendors',
+      'Camping possible',
+      'No water on trail',
+      'Bring everything you need'
+    ],
+    facilitiesEs: [
+      'Sin instalaciones en el sitio',
+      'Baños básicos en inicio del sendero',
+      'Vendedores de la comunidad local',
+      'Camping posible',
+      'Sin agua en el sendero',
+      'Trae todo lo que necesites'
+    ]
+  },
+  {
+    slug: 'huchuy-qosqo',
+    name: 'Huchuy Qosqo (Little Cusco)',
+    nameEs: 'Huchuy Qosqo (Pequeño Cusco)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3600,
+    description: 'An impressive but lesser-known Inca administrative center overlooking the Sacred Valley. Huchuy Qosqo features well-preserved buildings, agricultural terraces, and stunning views, without the crowds of more famous sites.',
+    descriptionEs: 'Un impresionante pero menos conocido centro administrativo Inca con vista al Valle Sagrado. Huchuy Qosqo presenta edificios bien preservados, terrazas agrícolas, y vistas impresionantes, sin las multitudes de sitios más famosos.',
+    history: 'Built during the reign of Inca Wiracocha in the 15th century, Huchuy Qosqo served as a royal retreat and administrative center. The site includes rare three-story buildings with original wooden beams - unusual for Inca construction that typically used only stone.',
+    historyEs: 'Construido durante el reinado del Inca Wiracocha en el siglo XV, Huchuy Qosqo sirvió como retiro real y centro administrativo. El sitio incluye raros edificios de tres pisos con vigas de madera originales - inusuales para la construcción Inca que típicamente solo usaba piedra.',
+    highlights: [
+      'Three-story Inca buildings',
+      'Original wooden beams preserved',
+      'Panoramic Sacred Valley views',
+      'Far fewer tourists',
+      'Excellent state of preservation',
+      'Beautiful hiking route'
+    ],
+    highlightsEs: [
+      'Edificios Incas de tres pisos',
+      'Vigas de madera originales preservadas',
+      'Vistas panorámicas del Valle Sagrado',
+      'Muchos menos turistas',
+      'Excelente estado de preservación',
+      'Hermosa ruta de senderismo'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-6 hours (hike) or 2 hours (by vehicle)',
+    durationEs: '4-6 horas (caminata) o 2 horas (en vehículo)',
+    difficulty: 'moderate',
+    entranceFee: 'Boleto Turístico or S/20',
+    entranceFeeEs: 'Boleto Turístico o S/20',
+    bestTime: 'Dry season (May-October). Morning for best light.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Mañana para mejor luz.',
+    tips: [
+      'Can hike from Tambomachay (4-5 hours)',
+      'Or take 4WD vehicle from Lamay',
+      'Much less crowded than major sites',
+      'Combine with Sacred Valley tour',
+      'Bring water and snacks',
+      'Guide helps understand the history'
+    ],
+    tipsEs: [
+      'Puedes caminar desde Tambomachay (4-5 horas)',
+      'O tomar vehículo 4x4 desde Lamay',
+      'Mucho menos concurrido que sitios principales',
+      'Combina con tour del Valle Sagrado',
+      'Trae agua y snacks',
+      'El guía ayuda a entender la historia'
+    ],
+    nearbyAttractions: ['sacred-valley', 'lamay', 'calca'],
+    relatedSites: ['ollantaytambo', 'pisac', 'chinchero'],
+    gettingThere: 'Hike from Tambomachay (4-5 hours) or drive via Lamay (1.5 hours from Cusco).',
+    gettingThereEs: 'Caminata desde Tambomachay (4-5 horas) o maneja vía Lamay (1.5 horas desde Cusco).',
+    facilities: [
+      'No facilities at site',
+      'Bring all supplies',
+      'Local guides in Lamay',
+      'Parking in Lamay',
+      'Basic services in nearby villages',
+      'Camping possible with permission'
+    ],
+    facilitiesEs: [
+      'Sin instalaciones en el sitio',
+      'Trae todos los suministros',
+      'Guías locales en Lamay',
+      'Estacionamiento en Lamay',
+      'Servicios básicos en pueblos cercanos',
+      'Camping posible con permiso'
+    ]
+  },
+  {
+    slug: 'leymebamba-museum',
+    name: 'Leymebamba Museum (Mummy Museum)',
+    nameEs: 'Museo de Leymebamba (Museo de las Momias)',
+    type: 'museum',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2200,
+    description: 'A remarkable museum housing over 200 mummies and 2,000 artifacts recovered from the cliff tombs at Laguna de los Cóndores. This world-class collection offers incredible insight into the Chachapoya civilization and their elaborate burial practices.',
+    descriptionEs: 'Un notable museo que alberga más de 200 momias y 2,000 artefactos recuperados de las tumbas en acantilados de la Laguna de los Cóndores. Esta colección de clase mundial ofrece increíble perspectiva sobre la civilización Chachapoya y sus elaboradas prácticas funerarias.',
+    history: 'In 1997, farmers discovered an extraordinary collection of mummies in cliff tombs above the remote Laguna de los Cóndores. The find included over 200 mummy bundles from the Chachapoya and Inca periods, along with textiles, ceramics, and quipus in remarkable condition.',
+    historyEs: 'En 1997, agricultores descubrieron una extraordinaria colección de momias en tumbas en acantilados sobre la remota Laguna de los Cóndores. El hallazgo incluyó más de 200 fardos de momias de los períodos Chachapoya e Inca, junto con textiles, cerámicas, y quipus en notable condición.',
+    highlights: [
+      'Over 200 mummies on display',
+      'Incredibly preserved textiles',
+      'Quipus (Inca counting devices)',
+      'Chachapoya culture artifacts',
+      'Modern, well-designed museum',
+      'Off the beaten tourist path'
+    ],
+    highlightsEs: [
+      'Más de 200 momias en exhibición',
+      'Textiles increíblemente preservados',
+      'Quipus (dispositivos de conteo Inca)',
+      'Artefactos de la cultura Chachapoya',
+      'Museo moderno y bien diseñado',
+      'Fuera de la ruta turística principal'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15',
+    entranceFeeEs: 'S/15',
+    bestTime: 'Year-round. Museum is climate-controlled.',
+    bestTimeEs: 'Todo el año. El museo tiene clima controlado.',
+    tips: [
+      'Mummies may be intense for young children',
+      'Photography not allowed in mummy room',
+      'Combine with Kuélap visit',
+      'Worth the journey to remote location',
+      'English information available',
+      'Local guides enhance the experience'
+    ],
+    tipsEs: [
+      'Las momias pueden ser intensas para niños pequeños',
+      'No se permite fotografía en sala de momias',
+      'Combina con visita a Kuélap',
+      'Vale la pena el viaje a ubicación remota',
+      'Información en inglés disponible',
+      'Los guías locales mejoran la experiencia'
+    ],
+    nearbyAttractions: ['kuelap', 'gocta-falls', 'chachapoyas'],
+    relatedSites: ['kuelap', 'revash', 'karajia'],
+    gettingThere: '2.5 hours south of Chachapoyas by car. Tours available.',
+    gettingThereEs: '2.5 horas al sur de Chachapoyas en carro. Tours disponibles.',
+    facilities: [
+      'Modern museum building',
+      'Restrooms',
+      'Gift shop',
+      'Parking',
+      'Climate-controlled galleries',
+      'Café nearby'
+    ],
+    facilitiesEs: [
+      'Edificio de museo moderno',
+      'Baños',
+      'Tienda de regalos',
+      'Estacionamiento',
+      'Galerías con clima controlado',
+      'Café cercano'
+    ]
   }
 ];
 
