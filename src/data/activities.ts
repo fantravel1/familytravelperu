@@ -5159,6 +5159,364 @@ export const activities: Activity[] = [
       { name: 'Finca Santa Rosa', familyFriendly: true },
       { name: 'Coffee Route Peru', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'hot-springs-aguas-calientes',
+    name: 'Hot Springs in Aguas Calientes',
+    nameEs: 'Aguas Termales en Aguas Calientes',
+    type: 'relaxation',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Soak in natural thermal pools at the base of Machu Picchu mountain. After a day exploring the ruins, these hot springs offer the perfect way to relax tired muscles while surrounded by jungle-clad peaks.',
+    descriptionEs: 'Sumérgete en piscinas termales naturales al pie de la montaña Machu Picchu. Después de un día explorando las ruinas, estas aguas termales ofrecen la manera perfecta de relajar los músculos cansados mientras estás rodeado de picos cubiertos de selva.',
+    whatToExpect: 'Multiple pools at varying temperatures ranging from warm to hot. Basic changing facilities, lockers, and a small snack bar. Often busy in evenings after Machu Picchu visits. Most relaxing in early morning.',
+    whatToExpectEs: 'Múltiples piscinas a diferentes temperaturas que van de templadas a calientes. Instalaciones básicas para cambiarse, casilleros y un pequeño bar de snacks. A menudo concurrido por las noches después de visitas a Machu Picchu. Más relajante temprano en la mañana.',
+    highlights: [
+      'Natural thermal waters',
+      'Mountain jungle setting',
+      'Perfect post-Machu Picchu relaxation',
+      'Multiple temperature pools',
+      'Evening under the stars',
+      'Soothe tired hiking muscles'
+    ],
+    highlightsEs: [
+      'Aguas termales naturales',
+      'Entorno de selva de montaña',
+      'Perfecta relajación post-Machu Picchu',
+      'Múltiples piscinas de diferentes temperaturas',
+      'Noche bajo las estrellas',
+      'Alivia los músculos cansados del senderismo'
+    ],
+    familyRating: 4,
+    minAge: 3,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: 'S/20 (~$5) per person',
+    priceRangeEs: 'S/20 (~$5) por persona',
+    bestTime: 'Early morning for fewer crowds, or evening for stargazing.',
+    bestTimeEs: 'Temprano en la mañana para menos multitudes, o noche para ver estrellas.',
+    includes: [
+      'Pool access',
+      'Changing rooms',
+      'Lockers (small fee)',
+      'Basic facilities',
+      'Towel rental available',
+      'Snack bar on site'
+    ],
+    includesEs: [
+      'Acceso a piscinas',
+      'Vestidores',
+      'Casilleros (pequeña tarifa)',
+      'Instalaciones básicas',
+      'Alquiler de toallas disponible',
+      'Bar de snacks en el sitio'
+    ],
+    tips: [
+      'Bring your own towel to save money',
+      'Visit early morning for peace',
+      'Evening visits are more crowded but magical',
+      'Bring water - hot pools dehydrate',
+      'Short walk from town center',
+      'Great way to end Machu Picchu day'
+    ],
+    tipsEs: [
+      'Trae tu propia toalla para ahorrar dinero',
+      'Visita temprano en la mañana para tranquilidad',
+      'Las visitas nocturnas son más concurridas pero mágicas',
+      'Trae agua - las piscinas calientes deshidratan',
+      'Corta caminata desde el centro del pueblo',
+      'Gran manera de terminar el día de Machu Picchu'
+    ],
+    safetyNotes: [
+      'Supervise young children closely',
+      'Stay hydrated',
+      'Don\'t stay too long in hottest pools',
+      'Shower before entering pools',
+      'Slippery surfaces - be careful'
+    ],
+    safetyNotesEs: [
+      'Supervisa a los niños pequeños de cerca',
+      'Mantente hidratado',
+      'No te quedes mucho tiempo en las piscinas más calientes',
+      'Dúchate antes de entrar a las piscinas',
+      'Superficies resbaladizas - ten cuidado'
+    ],
+    relatedActivities: ['machu-picchu-tour', 'sacred-valley-tour', 'inca-trail'],
+    providers: [
+      { name: 'Aguas Calientes Municipal Baths', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'llama-trekking-cusco',
+    name: 'Llama Trekking in Cusco',
+    nameEs: 'Caminata con Llamas en Cusco',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Walk alongside adorable llamas through stunning Andean landscapes. These gentle pack animals have been companions to Andean peoples for millennia, and now families can experience this tradition on scenic highland trails.',
+    descriptionEs: 'Camina junto a adorables llamas a través de impresionantes paisajes andinos. Estos gentiles animales de carga han sido compañeros de los pueblos andinos durante milenios, y ahora las familias pueden experimentar esta tradición en senderos escénicos de tierras altas.',
+    whatToExpect: 'Meet friendly llamas, learn about their importance in Andean culture, and walk scenic trails with them as companions. Llamas carry supplies while you enjoy the views. Perfect for animal-loving families.',
+    whatToExpectEs: 'Conoce llamas amigables, aprende sobre su importancia en la cultura andina, y camina por senderos escénicos con ellas como compañeras. Las llamas cargan los suministros mientras disfrutas las vistas. Perfecto para familias amantes de los animales.',
+    highlights: [
+      'Walk with friendly llamas',
+      'Learn Andean animal traditions',
+      'Scenic mountain trails',
+      'Photo opportunities with llamas',
+      'Light exercise at altitude',
+      'Cultural learning experience'
+    ],
+    highlightsEs: [
+      'Camina con llamas amigables',
+      'Aprende tradiciones andinas de animales',
+      'Senderos escénicos de montaña',
+      'Oportunidades de fotos con llamas',
+      'Ejercicio ligero en altitud',
+      'Experiencia de aprendizaje cultural'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-4 hours',
+    durationEs: '2-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-80 per person',
+    priceRangeEs: '$40-80 por persona',
+    bestTime: 'Morning for best weather. Dry season (May-Oct) preferred.',
+    bestTimeEs: 'Mañana para mejor clima. Temporada seca (mayo-oct) preferida.',
+    includes: [
+      'Llama companion for trek',
+      'Experienced guide',
+      'Snacks and coca tea',
+      'Cultural explanation',
+      'Photo opportunities',
+      'Transportation to trailhead'
+    ],
+    includesEs: [
+      'Llama compañera para la caminata',
+      'Guía experimentado',
+      'Snacks y té de coca',
+      'Explicación cultural',
+      'Oportunidades para fotos',
+      'Transporte al inicio del sendero'
+    ],
+    tips: [
+      'Kids absolutely love this activity',
+      'Llamas are gentle and easy to walk with',
+      'Bring camera for adorable photos',
+      'Dress in layers for mountain weather',
+      'Don\'t feed llamas without asking',
+      'Short treks available for young children'
+    ],
+    tipsEs: [
+      'A los niños absolutamente les encanta esta actividad',
+      'Las llamas son gentiles y fáciles para caminar',
+      'Trae cámara para fotos adorables',
+      'Vístete en capas para clima de montaña',
+      'No alimentes a las llamas sin preguntar',
+      'Caminatas cortas disponibles para niños pequeños'
+    ],
+    safetyNotes: [
+      'Llamas are gentle but keep safe distance',
+      'Don\'t approach from behind',
+      'Follow guide instructions',
+      'Altitude may affect stamina',
+      'Trails are generally easy'
+    ],
+    safetyNotesEs: [
+      'Las llamas son gentiles pero mantén distancia segura',
+      'No te acerques por detrás',
+      'Sigue las instrucciones del guía',
+      'La altitud puede afectar la resistencia',
+      'Los senderos son generalmente fáciles'
+    ],
+    relatedActivities: ['horseback-sacred-valley', 'hiking-rainbow-mountain', 'sacred-valley-tour'],
+    providers: [
+      { name: 'Llama Pack Project', familyFriendly: true },
+      { name: 'Cusco Llama Treks', familyFriendly: true },
+      { name: 'Andean Llama Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'stargazing-cusco',
+    name: 'Stargazing Tour in Cusco',
+    nameEs: 'Tour de Observación de Estrellas en Cusco',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover the Inca understanding of the cosmos on a stargazing tour. High altitude and minimal light pollution reveal spectacular skies, while guides explain Inca astronomy and point out Southern Hemisphere constellations.',
+    descriptionEs: 'Descubre la comprensión Inca del cosmos en un tour de observación de estrellas. La alta altitud y la mínima contaminación lumínica revelan cielos espectaculares, mientras los guías explican la astronomía Inca y señalan constelaciones del Hemisferio Sur.',
+    whatToExpect: 'Travel to a dark-sky location outside Cusco. Learn about Inca astronomy and their "dark constellations" in the Milky Way. Use telescopes to view planets, nebulae, and star clusters. Hot drinks provided.',
+    whatToExpectEs: 'Viaja a una ubicación de cielo oscuro fuera de Cusco. Aprende sobre la astronomía Inca y sus "constelaciones oscuras" en la Vía Láctea. Usa telescopios para ver planetas, nebulosas y cúmulos de estrellas. Bebidas calientes proporcionadas.',
+    highlights: [
+      'Spectacular high-altitude skies',
+      'Learn Inca astronomy',
+      'See Southern Hemisphere stars',
+      'Professional telescopes',
+      'View Milky Way clearly',
+      'Educational and magical experience'
+    ],
+    highlightsEs: [
+      'Espectaculares cielos de alta altitud',
+      'Aprende astronomía Inca',
+      'Ve estrellas del Hemisferio Sur',
+      'Telescopios profesionales',
+      'Ve la Vía Láctea claramente',
+      'Experiencia educativa y mágica'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '3-4 hours (evening)',
+    durationEs: '3-4 horas (noche)',
+    difficulty: 'easy',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Clear nights during dry season (May-Oct). New moon best.',
+    bestTimeEs: 'Noches claras durante temporada seca (mayo-oct). Luna nueva es mejor.',
+    includes: [
+      'Transportation to dark-sky site',
+      'Professional telescopes',
+      'Expert astronomy guide',
+      'Hot coca tea and snacks',
+      'Warm blankets',
+      'Astronomy presentation'
+    ],
+    includesEs: [
+      'Transporte a sitio de cielo oscuro',
+      'Telescopios profesionales',
+      'Guía experto en astronomía',
+      'Té de coca caliente y snacks',
+      'Mantas abrigadas',
+      'Presentación de astronomía'
+    ],
+    tips: [
+      'Dress very warmly - nights are cold!',
+      'Check weather forecast before booking',
+      'New moon nights are darkest',
+      'Kids love using the telescopes',
+      'Great way to learn about Inca culture',
+      'Photos of Milky Way are possible'
+    ],
+    tipsEs: [
+      '¡Vístete muy abrigado - las noches son frías!',
+      'Revisa el pronóstico del tiempo antes de reservar',
+      'Las noches de luna nueva son las más oscuras',
+      'A los niños les encanta usar los telescopios',
+      'Gran manera de aprender sobre la cultura Inca',
+      'Es posible tomar fotos de la Vía Láctea'
+    ],
+    safetyNotes: [
+      'Cold temperatures at night',
+      'Altitude may affect some visitors',
+      'Stay with group in dark',
+      'Uneven ground - bring flashlight',
+      'Weather-dependent activity'
+    ],
+    safetyNotesEs: [
+      'Temperaturas frías en la noche',
+      'La altitud puede afectar a algunos visitantes',
+      'Permanece con el grupo en la oscuridad',
+      'Terreno irregular - trae linterna',
+      'Actividad dependiente del clima'
+    ],
+    relatedActivities: ['planetarium-cusco', 'sacred-valley-tour', 'cultural-tour-cusco'],
+    providers: [
+      { name: 'Planetarium Cusco', familyFriendly: true },
+      { name: 'Cusco Stargazers', familyFriendly: true },
+      { name: 'Andean Sky Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'river-tubing-urubamba',
+    name: 'River Tubing on Urubamba River',
+    nameEs: 'Tubing en el Río Urubamba',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Float down the sacred Urubamba River on inflatable tubes for a gentle adventure. Easier than rafting, tubing offers families a fun, accessible way to experience the river with Sacred Valley views.',
+    descriptionEs: 'Flota por el sagrado Río Urubamba en tubos inflables para una aventura gentil. Más fácil que el rafting, el tubing ofrece a las familias una forma divertida y accesible de experimentar el río con vistas del Valle Sagrado.',
+    whatToExpect: 'After safety briefing, float downstream on individual tubes connected together. Guides accompany on kayaks. Sections are Class I-II, gentle enough for beginners. Splash through small rapids and enjoy river scenery.',
+    whatToExpectEs: 'Después de la sesión de seguridad, flota río abajo en tubos individuales conectados. Los guías acompañan en kayaks. Las secciones son Clase I-II, lo suficientemente suaves para principiantes. Chapotea a través de pequeños rápidos y disfruta el paisaje del río.',
+    highlights: [
+      'Gentle family-friendly rapids',
+      'Float through Sacred Valley',
+      'Easier than whitewater rafting',
+      'Beautiful river scenery',
+      'Refreshing water fun',
+      'Safe for beginners'
+    ],
+    highlightsEs: [
+      'Rápidos gentiles para familias',
+      'Flota a través del Valle Sagrado',
+      'Más fácil que el rafting en aguas bravas',
+      'Hermoso paisaje de río',
+      'Diversión refrescante en el agua',
+      'Seguro para principiantes'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 per person',
+    priceRangeEs: '$30-50 por persona',
+    bestTime: 'Dry season (May-Oct) for calmer waters. Summer for warmer temps.',
+    bestTimeEs: 'Temporada seca (mayo-oct) para aguas más calmadas. Verano para temperaturas más cálidas.',
+    includes: [
+      'Inflatable tube',
+      'Life jacket and helmet',
+      'Professional guides on kayaks',
+      'Safety briefing',
+      'Transportation',
+      'Dry bags for belongings'
+    ],
+    includesEs: [
+      'Tubo inflable',
+      'Chaleco salvavidas y casco',
+      'Guías profesionales en kayaks',
+      'Sesión de seguridad',
+      'Transporte',
+      'Bolsas secas para pertenencias'
+    ],
+    tips: [
+      'Wear swimsuit under clothes',
+      'Water shoes stay on better than sandals',
+      'Bring dry clothes for after',
+      'Waterproof camera for photos',
+      'Sunscreen is essential',
+      'Easier than rafting for younger kids'
+    ],
+    tipsEs: [
+      'Usa traje de baño debajo de la ropa',
+      'Los zapatos de agua se mantienen mejor que las sandalias',
+      'Trae ropa seca para después',
+      'Cámara impermeable para fotos',
+      'El protector solar es esencial',
+      'Más fácil que el rafting para niños pequeños'
+    ],
+    safetyNotes: [
+      'Swimming ability required',
+      'Always wear life jacket',
+      'Follow guide instructions',
+      'Stay with group',
+      'Guides are trained rescuers'
+    ],
+    safetyNotesEs: [
+      'Se requiere saber nadar',
+      'Siempre usa chaleco salvavidas',
+      'Sigue las instrucciones del guía',
+      'Permanece con el grupo',
+      'Los guías son rescatistas entrenados'
+    ],
+    relatedActivities: ['whitewater-rafting', 'kayaking-titicaca', 'sacred-valley-tour'],
+    providers: [
+      { name: 'Sacred Valley Tubes', familyFriendly: true },
+      { name: 'Urubamba River Adventures', familyFriendly: true },
+      { name: 'Peru Tube Tours', familyFriendly: true }
+    ]
   }
 ];
 

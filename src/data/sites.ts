@@ -4814,6 +4814,306 @@ export const sites: Site[] = [
       'Área de estacionamiento',
       'Guías disponibles'
     ]
+  },
+  {
+    slug: 'moray-terraces',
+    name: 'Moray Agricultural Terraces',
+    nameEs: 'Terrazas Agrícolas de Moray',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3500,
+    description: 'Mysterious circular terraces descending into natural sinkholes, Moray was an Inca agricultural laboratory. Each level creates a different microclimate, allowing the Incas to experiment with crops. The geometric perfection amazes visitors of all ages.',
+    descriptionEs: 'Misteriosas terrazas circulares que descienden en depresiones naturales, Moray fue un laboratorio agrícola Inca. Cada nivel crea un microclima diferente, permitiendo a los Incas experimentar con cultivos. La perfección geométrica asombra a visitantes de todas las edades.',
+    history: 'Built around 1500 AD, Moray served as an agricultural research station where Incas tested crop varieties at different altitudes and temperatures. The temperature difference between top and bottom terraces can reach 15°C, simulating various growing conditions.',
+    historyEs: 'Construido alrededor de 1500 d.C., Moray sirvió como estación de investigación agrícola donde los Incas probaban variedades de cultivos a diferentes altitudes y temperaturas. La diferencia de temperatura entre las terrazas superiores e inferiores puede alcanzar 15°C, simulando varias condiciones de cultivo.',
+    highlights: [
+      'Stunning circular terrace design',
+      'Ancient agricultural laboratory',
+      'Unique microclimate system',
+      'Perfect geometric construction',
+      'Spectacular photo opportunities',
+      'Less crowded than main sites'
+    ],
+    highlightsEs: [
+      'Impresionante diseño de terrazas circulares',
+      'Antiguo laboratorio agrícola',
+      'Sistema único de microclimas',
+      'Construcción geométrica perfecta',
+      'Espectaculares oportunidades para fotos',
+      'Menos concurrido que sitios principales'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-1.5 hours',
+    durationEs: '1-1.5 horas',
+    difficulty: 'easy',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Morning for best light. Dry season (May-Oct) preferred.',
+    bestTimeEs: 'Mañana para mejor luz. Temporada seca (mayo-oct) preferida.',
+    tips: [
+      'Combine with Maras salt mines nearby',
+      'Great for drone photography (if permitted)',
+      'Kids love the UFO-landing-site appearance',
+      'Walking down into terraces is easy',
+      'Buy Boleto Turístico in Cusco first',
+      'Best visited on Sacred Valley tour'
+    ],
+    tipsEs: [
+      'Combina con las salineras de Maras cercanas',
+      'Genial para fotografía con dron (si está permitido)',
+      'A los niños les encanta la apariencia de sitio de aterrizaje OVNI',
+      'Caminar hacia abajo en las terrazas es fácil',
+      'Compra Boleto Turístico en Cusco primero',
+      'Mejor visitado en tour del Valle Sagrado'
+    ],
+    nearbyAttractions: ['maras-salt-mines', 'chinchero', 'ollantaytambo'],
+    relatedSites: ['pisac-ruins', 'ollantaytambo-fortress', 'tipon'],
+    gettingThere: '50km from Cusco (1.5 hours). Usually combined with Maras on Sacred Valley tours.',
+    gettingThereEs: '50km desde Cusco (1.5 horas). Usualmente combinado con Maras en tours del Valle Sagrado.',
+    facilities: [
+      'Entrance station',
+      'Basic restrooms',
+      'Small parking area',
+      'Local vendors',
+      'Guides available',
+      'No restaurants on site'
+    ],
+    facilitiesEs: [
+      'Estación de entrada',
+      'Baños básicos',
+      'Pequeña área de estacionamiento',
+      'Vendedores locales',
+      'Guías disponibles',
+      'Sin restaurantes en el sitio'
+    ]
+  },
+  {
+    slug: 'chinchero',
+    name: 'Chinchero Archaeological Site & Market',
+    nameEs: 'Sitio Arqueológico y Mercado de Chinchero',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3762,
+    description: 'A living Andean village combining Inca ruins, a colonial church built on Inca foundations, and a famous Sunday market. Families love the weaving demonstrations where women in traditional dress show ancient textile techniques.',
+    descriptionEs: 'Un pueblo andino vivo que combina ruinas Incas, una iglesia colonial construida sobre cimientos Incas, y un famoso mercado dominical. Las familias adoran las demostraciones de tejido donde mujeres en traje tradicional muestran técnicas textiles antiguas.',
+    history: 'Chinchero was the royal estate of Inca Tupac Yupanqui. After the Spanish conquest, a church was built atop the Inca palace foundations, creating a unique blend of cultures. The village has maintained traditional weaving practices for centuries.',
+    historyEs: 'Chinchero fue la hacienda real del Inca Túpac Yupanqui. Después de la conquista española, se construyó una iglesia sobre los cimientos del palacio Inca, creando una mezcla única de culturas. El pueblo ha mantenido prácticas tradicionales de tejido durante siglos.',
+    highlights: [
+      'Traditional weaving demonstrations',
+      'Inca ruins with colonial church',
+      'Famous Sunday market',
+      'Stunning mountain views',
+      'Living Andean culture',
+      'Natural dye workshops'
+    ],
+    highlightsEs: [
+      'Demostraciones de tejido tradicional',
+      'Ruinas Incas con iglesia colonial',
+      'Famoso mercado dominical',
+      'Impresionantes vistas de montañas',
+      'Cultura andina viva',
+      'Talleres de tintes naturales'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Sunday for famous market. Year-round destination.',
+    bestTimeEs: 'Domingo para el famoso mercado. Destino todo el año.',
+    tips: [
+      'Visit on Sunday for the colorful market',
+      'Weaving demonstrations are interactive',
+      'Kids can try weaving and dyeing',
+      'Buy authentic textiles direct from weavers',
+      'Higher altitude - acclimatize first',
+      'Combine with Moray and Maras'
+    ],
+    tipsEs: [
+      'Visita el domingo para el colorido mercado',
+      'Las demostraciones de tejido son interactivas',
+      'Los niños pueden probar tejer y teñir',
+      'Compra textiles auténticos directamente de tejedoras',
+      'Mayor altitud - aclimátate primero',
+      'Combina con Moray y Maras'
+    ],
+    nearbyAttractions: ['moray-terraces', 'maras-salt-mines', 'urubamba'],
+    relatedSites: ['ollantaytambo-fortress', 'pisac-ruins', 'cusco-centro'],
+    gettingThere: '30km from Cusco (45 min). On the road to Sacred Valley.',
+    gettingThereEs: '30km desde Cusco (45 min). En el camino al Valle Sagrado.',
+    facilities: [
+      'Restrooms in town',
+      'Multiple restaurants',
+      'Market stalls',
+      'Weaving cooperatives',
+      'Parking area',
+      'Church open for visits'
+    ],
+    facilitiesEs: [
+      'Baños en el pueblo',
+      'Múltiples restaurantes',
+      'Puestos de mercado',
+      'Cooperativas de tejido',
+      'Área de estacionamiento',
+      'Iglesia abierta para visitas'
+    ]
+  },
+  {
+    slug: 'pisac-ruins',
+    name: 'Pisac Archaeological Site',
+    nameEs: 'Sitio Arqueológico de Pisac',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3400,
+    description: 'Spectacular Inca ruins perched high above the Sacred Valley, featuring agricultural terraces, temples, and the largest known Inca cemetery. The site offers breathtaking views and a fascinating glimpse into Inca engineering.',
+    descriptionEs: 'Espectaculares ruinas Incas ubicadas en lo alto sobre el Valle Sagrado, con terrazas agrícolas, templos y el cementerio Inca más grande conocido. El sitio ofrece vistas impresionantes y una fascinante visión de la ingeniería Inca.',
+    history: 'Pisac was a major Inca administrative and religious center controlling access to the Sacred Valley. The hillside contains thousands of tomb holes in the cliffs, once holding mummies of important figures until looted by Spanish conquistadors.',
+    historyEs: 'Pisac fue un importante centro administrativo y religioso Inca que controlaba el acceso al Valle Sagrado. La ladera contiene miles de agujeros de tumbas en los acantilados, que una vez contenían momias de figuras importantes hasta que fueron saqueados por los conquistadores españoles.',
+    highlights: [
+      'Dramatic mountain-top location',
+      'Massive agricultural terraces',
+      'Intihuatana sun temple',
+      'Largest Inca cemetery',
+      'Spectacular valley views',
+      'Well-preserved ruins'
+    ],
+    highlightsEs: [
+      'Dramática ubicación en la cima de la montaña',
+      'Masivas terrazas agrícolas',
+      'Templo del sol Intihuatana',
+      'Mayor cementerio Inca',
+      'Espectaculares vistas del valle',
+      'Ruinas bien conservadas'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Morning for cooler hiking. Dry season preferred.',
+    bestTimeEs: 'Mañana para caminata más fresca. Temporada seca preferida.',
+    tips: [
+      'Drive to upper entrance for easier visit',
+      'Lower sections are strenuous climbs',
+      'Combine with Pisac town market',
+      'Bring water and sun protection',
+      'Allow time for altitude adjustment',
+      'Hire guide for full history'
+    ],
+    tipsEs: [
+      'Conduce a la entrada superior para visita más fácil',
+      'Las secciones inferiores son subidas extenuantes',
+      'Combina con el mercado del pueblo de Pisac',
+      'Lleva agua y protección solar',
+      'Permite tiempo para ajuste de altitud',
+      'Contrata guía para historia completa'
+    ],
+    nearbyAttractions: ['pisac-market', 'urubamba-valley', 'ollantaytambo'],
+    relatedSites: ['ollantaytambo-fortress', 'moray-terraces', 'sacsayhuaman'],
+    gettingThere: '33km from Cusco (1 hour). Taxis or Sacred Valley tours.',
+    gettingThereEs: '33km desde Cusco (1 hora). Taxis o tours del Valle Sagrado.',
+    facilities: [
+      'Upper and lower entrances',
+      'Basic restrooms',
+      'Guides at entrance',
+      'Small vendors',
+      'Parking areas',
+      'Pisac town nearby for services'
+    ],
+    facilitiesEs: [
+      'Entradas superior e inferior',
+      'Baños básicos',
+      'Guías en la entrada',
+      'Pequeños vendedores',
+      'Áreas de estacionamiento',
+      'Pueblo de Pisac cercano para servicios'
+    ]
+  },
+  {
+    slug: 'tipon',
+    name: 'Tipon Water Temple',
+    nameEs: 'Templo del Agua de Tipón',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3560,
+    description: 'A masterpiece of Inca hydraulic engineering, Tipon features beautifully preserved terraces with sophisticated water channels and fountains still flowing after 500 years. Less visited than other sites, it offers a peaceful experience.',
+    descriptionEs: 'Una obra maestra de la ingeniería hidráulica Inca, Tipón presenta terrazas bellamente conservadas con sofisticados canales de agua y fuentes que aún fluyen después de 500 años. Menos visitado que otros sitios, ofrece una experiencia tranquila.',
+    history: 'Believed to be a royal garden of Inca Wiracocha, Tipon showcases the Incas\' mastery of water management. The complex irrigation system, including underground aqueducts, demonstrates advanced engineering that still functions perfectly today.',
+    historyEs: 'Se cree que fue un jardín real del Inca Wiracocha, Tipón muestra el dominio Inca del manejo del agua. El complejo sistema de irrigación, incluyendo acueductos subterráneos, demuestra ingeniería avanzada que aún funciona perfectamente hoy.',
+    highlights: [
+      'Working 500-year-old fountains',
+      'Sophisticated water channels',
+      'Beautiful terraced gardens',
+      'Peaceful, uncrowded site',
+      'Excellent preservation',
+      'Demonstration of Inca engineering'
+    ],
+    highlightsEs: [
+      'Fuentes de 500 años funcionando',
+      'Sofisticados canales de agua',
+      'Hermosos jardines en terrazas',
+      'Sitio tranquilo y poco concurrido',
+      'Excelente preservación',
+      'Demostración de ingeniería Inca'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Any time of day. Year-round destination.',
+    bestTimeEs: 'Cualquier hora del día. Destino todo el año.',
+    tips: [
+      'Kids love watching the water flow',
+      'Much less crowded than main sites',
+      'Great for teaching about engineering',
+      'Combine with nearby cuy (guinea pig) restaurants',
+      'Easy walking on flat terraces',
+      'Peaceful alternative to busy sites'
+    ],
+    tipsEs: [
+      'A los niños les encanta ver el flujo del agua',
+      'Mucho menos concurrido que sitios principales',
+      'Genial para enseñar sobre ingeniería',
+      'Combina con restaurantes de cuy cercanos',
+      'Caminata fácil en terrazas planas',
+      'Alternativa tranquila a sitios concurridos'
+    ],
+    nearbyAttractions: ['pikillacta', 'andahuaylillas-church', 'cusco'],
+    relatedSites: ['moray-terraces', 'ollantaytambo-fortress', 'tambomachay'],
+    gettingThere: '23km from Cusco (40 min) on road to Puno. Taxi or tour.',
+    gettingThereEs: '23km desde Cusco (40 min) en carretera a Puno. Taxi o tour.',
+    facilities: [
+      'Entrance station',
+      'Basic restrooms',
+      'Small parking area',
+      'Guides available',
+      'Cuy restaurants nearby',
+      'Peaceful grounds'
+    ],
+    facilitiesEs: [
+      'Estación de entrada',
+      'Baños básicos',
+      'Pequeña área de estacionamiento',
+      'Guías disponibles',
+      'Restaurantes de cuy cercanos',
+      'Terrenos tranquilos'
+    ]
   }
 ];
 
