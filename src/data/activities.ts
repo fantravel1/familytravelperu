@@ -5517,6 +5517,364 @@ export const activities: Activity[] = [
       { name: 'Urubamba River Adventures', familyFriendly: true },
       { name: 'Peru Tube Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'alpaca-farm-visit',
+    name: 'Alpaca Farm Visit',
+    nameEs: 'Visita a Granja de Alpacas',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Meet adorable alpacas and llamas at family-friendly farms in the Sacred Valley. Learn about these iconic Andean animals, watch wool processing demonstrations, and enjoy hands-on experiences feeding and interacting with the animals.',
+    descriptionEs: 'Conoce adorables alpacas y llamas en granjas familiares en el Valle Sagrado. Aprende sobre estos icónicos animales andinos, observa demostraciones de procesamiento de lana, y disfruta experiencias prácticas alimentando e interactuando con los animales.',
+    whatToExpect: 'Tours typically include meeting alpacas, llamas, and sometimes vicuñas. Watch wool being spun and dyed using traditional methods. Many farms offer feeding sessions, photo opportunities, and small shops selling alpaca products.',
+    whatToExpectEs: 'Los tours típicamente incluyen conocer alpacas, llamas, y a veces vicuñas. Observa la lana siendo hilada y teñida usando métodos tradicionales. Muchas granjas ofrecen sesiones de alimentación, oportunidades para fotos, y pequeñas tiendas vendiendo productos de alpaca.',
+    highlights: [
+      'Meet friendly alpacas and llamas',
+      'Learn about wool processing',
+      'Interactive feeding sessions',
+      'Natural dyeing demonstrations',
+      'Photo opportunities with animals',
+      'Support local communities'
+    ],
+    highlightsEs: [
+      'Conoce alpacas y llamas amigables',
+      'Aprende sobre el procesamiento de lana',
+      'Sesiones interactivas de alimentación',
+      'Demostraciones de teñido natural',
+      'Oportunidades de fotos con animales',
+      'Apoya a las comunidades locales'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: '$10-30 per person',
+    priceRangeEs: '$10-30 por persona',
+    bestTime: 'Morning for more active animals. Year-round activity.',
+    bestTimeEs: 'Mañana para animales más activos. Actividad todo el año.',
+    includes: [
+      'Farm entrance',
+      'Guided tour',
+      'Feeding session',
+      'Weaving demonstration',
+      'Photo opportunities',
+      'Often includes snacks'
+    ],
+    includesEs: [
+      'Entrada a la granja',
+      'Tour guiado',
+      'Sesión de alimentación',
+      'Demostración de tejido',
+      'Oportunidades para fotos',
+      'A menudo incluye snacks'
+    ],
+    tips: [
+      'Kids absolutely love this activity',
+      'Alpacas are gentler than llamas',
+      'Don\'t approach llamas from behind',
+      'Bring camera for cute photos',
+      'Buy authentic alpaca products here',
+      'Great activity for any age'
+    ],
+    tipsEs: [
+      'A los niños absolutamente les encanta esta actividad',
+      'Las alpacas son más gentiles que las llamas',
+      'No te acerques a las llamas por detrás',
+      'Trae cámara para fotos lindas',
+      'Compra productos auténticos de alpaca aquí',
+      'Gran actividad para cualquier edad'
+    ],
+    safetyNotes: [
+      'Alpacas are gentle - llamas can spit',
+      'Don\'t chase or corner animals',
+      'Supervise young children',
+      'Animals are used to visitors',
+      'Follow farm rules'
+    ],
+    safetyNotesEs: [
+      'Las alpacas son gentiles - las llamas pueden escupir',
+      'No persigas ni arrincones a los animales',
+      'Supervisa a los niños pequeños',
+      'Los animales están acostumbrados a los visitantes',
+      'Sigue las reglas de la granja'
+    ],
+    relatedActivities: ['llama-trekking-cusco', 'textile-weaving-workshop', 'sacred-valley-tour'],
+    providers: [
+      { name: 'Awana Kancha', familyFriendly: true },
+      { name: 'Cusco Alpaca Farm', familyFriendly: true },
+      { name: 'Sacred Valley Alpacas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'zipline-sacred-valley',
+    name: 'Zip-Line Adventure in Sacred Valley',
+    nameEs: 'Aventura en Tirolesa en el Valle Sagrado',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Soar over the Sacred Valley on exhilarating zip-lines with panoramic views of mountains, Inca terraces, and the Urubamba River. Multiple lines of varying lengths provide thrills for the whole family.',
+    descriptionEs: 'Vuela sobre el Valle Sagrado en emocionantes tirolesas con vistas panorámicas de montañas, terrazas Incas y el río Urubamba. Múltiples líneas de diferentes longitudes proporcionan emociones para toda la familia.',
+    whatToExpect: 'After safety briefing and gear fitting, take multiple zip-line runs over dramatic valley scenery. Courses include several lines of increasing length. Guides accompany throughout. Suitable for beginners with no experience needed.',
+    whatToExpectEs: 'Después de la sesión de seguridad y ajuste de equipo, realiza múltiples recorridos en tirolesa sobre el dramático paisaje del valle. Los cursos incluyen varias líneas de longitud creciente. Los guías acompañan durante todo el recorrido. Apto para principiantes sin necesidad de experiencia.',
+    highlights: [
+      'Spectacular Sacred Valley views',
+      'Multiple zip-line runs',
+      'Safe, modern equipment',
+      'No experience needed',
+      'Views of Inca terraces',
+      'Adrenaline-pumping fun'
+    ],
+    highlightsEs: [
+      'Espectaculares vistas del Valle Sagrado',
+      'Múltiples recorridos en tirolesa',
+      'Equipo moderno y seguro',
+      'No se necesita experiencia',
+      'Vistas de terrazas Incas',
+      'Diversión llena de adrenalina'
+    ],
+    familyRating: 5,
+    minAge: 8,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Morning for clearest views. Dry season preferred.',
+    bestTimeEs: 'Mañana para vistas más claras. Temporada seca preferida.',
+    includes: [
+      'All safety equipment',
+      'Professional guides',
+      'Safety briefing',
+      'Multiple zip-line runs',
+      'Transportation (some tours)',
+      'Photos (some operators)'
+    ],
+    includesEs: [
+      'Todo el equipo de seguridad',
+      'Guías profesionales',
+      'Sesión de seguridad',
+      'Múltiples recorridos en tirolesa',
+      'Transporte (algunos tours)',
+      'Fotos (algunos operadores)'
+    ],
+    tips: [
+      'Wear comfortable, closed-toe shoes',
+      'Tie back long hair',
+      'Secure loose items',
+      'Book morning for best views',
+      'Check weight/age restrictions',
+      'Photos available for purchase'
+    ],
+    tipsEs: [
+      'Usa zapatos cómodos y cerrados',
+      'Recógete el pelo largo',
+      'Asegura los objetos sueltos',
+      'Reserva en la mañana para mejores vistas',
+      'Revisa restricciones de peso/edad',
+      'Fotos disponibles para comprar'
+    ],
+    safetyNotes: [
+      'Modern safety equipment',
+      'Weight limits apply (check with operator)',
+      'Follow all guide instructions',
+      'Not recommended for those with heart conditions',
+      'Fully trained guides'
+    ],
+    safetyNotesEs: [
+      'Equipo de seguridad moderno',
+      'Aplican límites de peso (consulta con operador)',
+      'Sigue todas las instrucciones del guía',
+      'No recomendado para personas con condiciones cardíacas',
+      'Guías completamente entrenados'
+    ],
+    relatedActivities: ['atv-sacred-valley', 'mountain-biking-sacred-valley', 'river-tubing-urubamba'],
+    providers: [
+      { name: 'Action Valley', familyFriendly: true },
+      { name: 'Cola de Mono', familyFriendly: true },
+      { name: 'Natura Vive', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'kids-cooking-class',
+    name: 'Kids Cooking Class in Cusco',
+    nameEs: 'Clase de Cocina para Niños en Cusco',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Young chefs learn to make traditional Peruvian dishes in hands-on cooking classes designed for children. From making empanadas to decorating alfajores, these fun sessions teach culinary skills while exploring Peruvian food culture.',
+    descriptionEs: 'Los jóvenes chefs aprenden a hacer platos tradicionales peruanos en clases de cocina prácticas diseñadas para niños. Desde hacer empanadas hasta decorar alfajores, estas divertidas sesiones enseñan habilidades culinarias mientras exploran la cultura gastronómica peruana.',
+    whatToExpect: 'Age-appropriate cooking activities using safe techniques. Kids make dishes like empanadas, causa, alfajores, or hot chocolate. Sessions include eating what they\'ve made. Parents can participate or watch. Aprons provided.',
+    whatToExpectEs: 'Actividades de cocina apropiadas para la edad usando técnicas seguras. Los niños hacen platos como empanadas, causa, alfajores o chocolate caliente. Las sesiones incluyen comer lo que han hecho. Los padres pueden participar u observar. Se proporcionan delantales.',
+    highlights: [
+      'Hands-on cooking activities',
+      'Kid-friendly recipes',
+      'Safe, supervised kitchen',
+      'Learn about Peruvian food',
+      'Eat your creations',
+      'Take home recipes'
+    ],
+    highlightsEs: [
+      'Actividades de cocina prácticas',
+      'Recetas amigables para niños',
+      'Cocina segura y supervisada',
+      'Aprende sobre la comida peruana',
+      'Come tus creaciones',
+      'Llévate las recetas a casa'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$30-60 per child',
+    priceRangeEs: '$30-60 por niño',
+    bestTime: 'Morning or afternoon sessions available.',
+    bestTimeEs: 'Sesiones de mañana o tarde disponibles.',
+    includes: [
+      'All ingredients',
+      'Cooking instruction',
+      'Apron and chef hat',
+      'Recipes to take home',
+      'Meal of dishes prepared',
+      'Certificate of completion'
+    ],
+    includesEs: [
+      'Todos los ingredientes',
+      'Instrucción de cocina',
+      'Delantal y gorro de chef',
+      'Recetas para llevar a casa',
+      'Comida de los platos preparados',
+      'Certificado de finalización'
+    ],
+    tips: [
+      'Book in advance - popular activity',
+      'Inform of any food allergies',
+      'Kids feel proud of their dishes',
+      'Great rainy day activity',
+      'Parents can join or relax nearby',
+      'Vegetarian options usually available'
+    ],
+    tipsEs: [
+      'Reserva con anticipación - actividad popular',
+      'Informa de cualquier alergia alimentaria',
+      'Los niños se sienten orgullosos de sus platos',
+      'Gran actividad para días lluviosos',
+      'Los padres pueden unirse o relajarse cerca',
+      'Opciones vegetarianas usualmente disponibles'
+    ],
+    safetyNotes: [
+      'Age-appropriate tasks only',
+      'Adult supervision throughout',
+      'No sharp knives for young children',
+      'Allergy accommodations available',
+      'Clean, professional kitchen'
+    ],
+    safetyNotesEs: [
+      'Solo tareas apropiadas para la edad',
+      'Supervisión adulta durante todo el tiempo',
+      'Sin cuchillos afilados para niños pequeños',
+      'Adaptaciones para alergias disponibles',
+      'Cocina limpia y profesional'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'chocolate-making', 'market-tour-cusco'],
+    providers: [
+      { name: 'Cusco Culinary Kids', familyFriendly: true },
+      { name: 'Little Chefs Peru', familyFriendly: true },
+      { name: 'Marcelo Batata Cooking School', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'planetarium-cusco',
+    name: 'Cusco Planetarium',
+    nameEs: 'Planetario de Cusco',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore Inca astronomy and the southern night sky at Cusco\'s planetarium. Interactive presentations explain how the Incas used constellations for agriculture and ceremonies, followed by telescope viewing on clear nights.',
+    descriptionEs: 'Explora la astronomía Inca y el cielo nocturno del sur en el planetario de Cusco. Presentaciones interactivas explican cómo los Incas usaban las constelaciones para la agricultura y ceremonias, seguido de observación con telescopio en noches claras.',
+    whatToExpect: 'Indoor planetarium show explaining Inca astronomy and "dark constellations" in the Milky Way. On clear nights, outdoor telescope viewing follows. Bilingual presentations. Hot coca tea served. Warm blankets provided for outdoor viewing.',
+    whatToExpectEs: 'Show de planetario interior explicando la astronomía Inca y las "constelaciones oscuras" en la Vía Láctea. En noches claras, sigue observación exterior con telescopio. Presentaciones bilingües. Se sirve té de coca caliente. Mantas abrigadas proporcionadas para observación exterior.',
+    highlights: [
+      'Learn Inca astronomy',
+      'Indoor planetarium show',
+      'Outdoor telescope viewing',
+      'See Southern Cross constellation',
+      'Bilingual presentations',
+      'Educational and entertaining'
+    ],
+    highlightsEs: [
+      'Aprende astronomía Inca',
+      'Show de planetario interior',
+      'Observación exterior con telescopio',
+      'Ve la constelación Cruz del Sur',
+      'Presentaciones bilingües',
+      'Educativo y entretenido'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-2.5 hours',
+    durationEs: '2-2.5 horas',
+    difficulty: 'easy',
+    priceRange: '$35-50 per person',
+    priceRangeEs: '$35-50 por persona',
+    bestTime: 'Clear nights during dry season (May-Oct). Sessions start after dark.',
+    bestTimeEs: 'Noches claras durante temporada seca (mayo-oct). Las sesiones comienzan después del anochecer.',
+    includes: [
+      'Planetarium show',
+      'Telescope viewing (weather permitting)',
+      'Hot coca tea',
+      'Warm blankets',
+      'Bilingual guide',
+      'Transportation (usually)'
+    ],
+    includesEs: [
+      'Show de planetario',
+      'Observación con telescopio (clima permitting)',
+      'Té de coca caliente',
+      'Mantas abrigadas',
+      'Guía bilingüe',
+      'Transporte (usualmente)'
+    ],
+    tips: [
+      'Book clear nights for best experience',
+      'Dress very warmly - cold at night',
+      'Indoor show still great on cloudy nights',
+      'Kids love looking through telescopes',
+      'Perfect acclimatization evening activity',
+      'Combines education and entertainment'
+    ],
+    tipsEs: [
+      'Reserva noches claras para mejor experiencia',
+      'Vístete muy abrigado - frío de noche',
+      'El show interior aún es genial en noches nubladas',
+      'A los niños les encanta mirar por los telescopios',
+      'Perfecta actividad nocturna de aclimatación',
+      'Combina educación y entretenimiento'
+    ],
+    safetyNotes: [
+      'Warm clothing essential',
+      'Easy walk to viewing area',
+      'Indoor option if weather poor',
+      'Altitude - take it easy',
+      'Hot drinks provided'
+    ],
+    safetyNotesEs: [
+      'Ropa abrigada esencial',
+      'Caminata fácil al área de observación',
+      'Opción interior si el clima es malo',
+      'Altitud - tómalo con calma',
+      'Bebidas calientes proporcionadas'
+    ],
+    relatedActivities: ['stargazing-cusco', 'cusco-city-tour', 'cultural-tour-cusco'],
+    providers: [
+      { name: 'Planetarium Cusco', familyFriendly: true }
+    ]
   }
 ];
 

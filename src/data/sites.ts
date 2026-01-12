@@ -5114,6 +5114,306 @@ export const sites: Site[] = [
       'Restaurantes de cuy cercanos',
       'Terrenos tranquilos'
     ]
+  },
+  {
+    slug: 'maras-salt-mines',
+    name: 'Maras Salt Mines (Salineras)',
+    nameEs: 'Salineras de Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3380,
+    description: 'Thousands of terraced salt pools cascade down the mountainside, creating one of Peru\'s most photogenic sites. Families have harvested salt here since pre-Inca times using the same traditional methods still practiced today.',
+    descriptionEs: 'Miles de pozas de sal en terrazas caen en cascada por la ladera de la montaña, creando uno de los sitios más fotogénicos de Perú. Las familias han cosechado sal aquí desde tiempos pre-Incas usando los mismos métodos tradicionales que aún se practican hoy.',
+    history: 'For over 500 years, local families have owned and worked individual salt pools fed by a natural underground spring. The saline water evaporates, leaving pink-tinged salt rich in minerals. Each family passes their pools down through generations.',
+    historyEs: 'Durante más de 500 años, las familias locales han sido dueñas y han trabajado pozas de sal individuales alimentadas por un manantial subterráneo natural. El agua salina se evapora, dejando sal rosada rica en minerales. Cada familia pasa sus pozas de generación en generación.',
+    highlights: [
+      'Over 3,000 salt pools',
+      'Pre-Inca salt harvesting tradition',
+      'Stunning geometric patterns',
+      'Working community operation',
+      'Pink mineral-rich salt',
+      'Incredible photo opportunities'
+    ],
+    highlightsEs: [
+      'Más de 3,000 pozas de sal',
+      'Tradición pre-Inca de cosecha de sal',
+      'Impresionantes patrones geométricos',
+      'Operación comunitaria activa',
+      'Sal rosa rica en minerales',
+      'Increíbles oportunidades para fotos'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '1-1.5 hours',
+    durationEs: '1-1.5 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10 (~$3)',
+    entranceFeeEs: 'S/10 (~$3)',
+    bestTime: 'Dry season (May-Oct) for best colors. Morning for fewer crowds.',
+    bestTimeEs: 'Temporada seca (mayo-oct) para mejores colores. Mañana para menos multitudes.',
+    tips: [
+      'Buy local salt as souvenir - it\'s delicious!',
+      'Combine with Moray terraces nearby',
+      'Don\'t walk on the salt pools',
+      'White clothing shows pink salt beautifully',
+      'Morning light is best for photos',
+      'Community-run - your fee helps locals'
+    ],
+    tipsEs: [
+      '¡Compra sal local como souvenir - es deliciosa!',
+      'Combina con las terrazas de Moray cercanas',
+      'No camines sobre las pozas de sal',
+      'La ropa blanca muestra la sal rosa hermosamente',
+      'La luz de la mañana es mejor para fotos',
+      'Administrado por la comunidad - tu tarifa ayuda a los locales'
+    ],
+    nearbyAttractions: ['moray-terraces', 'chinchero', 'urubamba'],
+    relatedSites: ['moray-terraces', 'ollantaytambo-fortress', 'chinchero'],
+    gettingThere: '40km from Cusco (1.5 hours). Usually combined with Moray on tours.',
+    gettingThereEs: '40km desde Cusco (1.5 horas). Usualmente combinado con Moray en tours.',
+    facilities: [
+      'Entrance station',
+      'Walking paths through pools',
+      'Salt shop',
+      'Basic restrooms',
+      'Parking area',
+      'Local guides available'
+    ],
+    facilitiesEs: [
+      'Estación de entrada',
+      'Caminos peatonales a través de las pozas',
+      'Tienda de sal',
+      'Baños básicos',
+      'Área de estacionamiento',
+      'Guías locales disponibles'
+    ]
+  },
+  {
+    slug: 'tambomachay',
+    name: 'Tambomachay (Inca Baths)',
+    nameEs: 'Tambomachay (Baños del Inca)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3765,
+    description: 'An elegant Inca site dedicated to water worship, featuring aqueducts and cascading fountains that still flow perfectly after 500 years. Often called the "Bath of the Inca," it showcases remarkable hydraulic engineering.',
+    descriptionEs: 'Un elegante sitio Inca dedicado al culto del agua, con acueductos y fuentes en cascada que aún fluyen perfectamente después de 500 años. A menudo llamado el "Baño del Inca," muestra una notable ingeniería hidráulica.',
+    history: 'Tambomachay was a sacred site for water worship and possibly a spa for Inca royalty. The sophisticated system channels water from a natural spring through stone channels and fountains, demonstrating Inca mastery of hydraulics.',
+    historyEs: 'Tambomachay fue un sitio sagrado para el culto del agua y posiblemente un spa para la realeza Inca. El sofisticado sistema canaliza agua de un manantial natural a través de canales de piedra y fuentes, demostrando el dominio Inca de la hidráulica.',
+    highlights: [
+      'Working ancient fountains',
+      'Sacred water worship site',
+      'Impressive Inca stonework',
+      'Natural spring source',
+      'Peaceful setting',
+      'Close to Cusco'
+    ],
+    highlightsEs: [
+      'Fuentes antiguas funcionando',
+      'Sitio sagrado de culto al agua',
+      'Impresionante trabajo en piedra Inca',
+      'Fuente de manantial natural',
+      'Entorno tranquilo',
+      'Cerca de Cusco'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Morning or afternoon. Year-round.',
+    bestTimeEs: 'Mañana o tarde. Todo el año.',
+    tips: [
+      'Usually combined with Puca Pucara, Qenqo, Sacsayhuaman',
+      'Kids enjoy the flowing water',
+      'Small site - doesn\'t take long',
+      'Buy Boleto Turístico for all Cusco sites',
+      'Guides explain water worship traditions',
+      'Good for acclimatization - short, easy visit'
+    ],
+    tipsEs: [
+      'Usualmente combinado con Puca Pucara, Qenqo, Sacsayhuaman',
+      'A los niños les gusta el agua que fluye',
+      'Sitio pequeño - no toma mucho tiempo',
+      'Compra Boleto Turístico para todos los sitios de Cusco',
+      'Los guías explican las tradiciones del culto al agua',
+      'Bueno para aclimatación - visita corta y fácil'
+    ],
+    nearbyAttractions: ['puca-pucara', 'qenqo', 'sacsayhuaman'],
+    relatedSites: ['tipon', 'ollantaytambo-fortress', 'sacsayhuaman'],
+    gettingThere: '8km from Cusco (20 min). Taxi or city tour circuit.',
+    gettingThereEs: '8km desde Cusco (20 min). Taxi o circuito de tour de la ciudad.',
+    facilities: [
+      'Small entrance area',
+      'Basic restrooms nearby',
+      'Vendors outside',
+      'Limited parking',
+      'Guides available',
+      'Connected to nearby sites'
+    ],
+    facilitiesEs: [
+      'Pequeña área de entrada',
+      'Baños básicos cercanos',
+      'Vendedores afuera',
+      'Estacionamiento limitado',
+      'Guías disponibles',
+      'Conectado a sitios cercanos'
+    ]
+  },
+  {
+    slug: 'qenqo',
+    name: 'Qenqo (Q\'enqo)',
+    nameEs: 'Qenqo (Q\'enqo)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3600,
+    description: 'A mysterious carved rock shrine with zigzag channels, underground chambers, and an amphitheater. Qenqo means "labyrinth" in Quechua, and this enigmatic site was likely used for Inca ceremonies and possibly mummification.',
+    descriptionEs: 'Un misterioso santuario de roca tallada con canales en zigzag, cámaras subterráneas y un anfiteatro. Qenqo significa "laberinto" en quechua, y este enigmático sitio probablemente se usaba para ceremonias Incas y posiblemente momificación.',
+    history: 'Qenqo was an important huaca (sacred site) where Incas performed rituals. The zigzag channels may have been used to pour chicha (corn beer) as offerings. Underground caves might have been used for mummification of nobles.',
+    historyEs: 'Qenqo fue una importante huaca (sitio sagrado) donde los Incas realizaban rituales. Los canales en zigzag pueden haber sido usados para verter chicha (cerveza de maíz) como ofrendas. Las cuevas subterráneas pueden haber sido usadas para la momificación de nobles.',
+    highlights: [
+      'Mysterious carved rock formations',
+      'Underground ceremonial chambers',
+      'Zigzag ritual channels',
+      'Natural amphitheater',
+      'Ancient sacrificial altar',
+      'Enigmatic purpose intrigues visitors'
+    ],
+    highlightsEs: [
+      'Misteriosas formaciones de roca tallada',
+      'Cámaras ceremoniales subterráneas',
+      'Canales rituales en zigzag',
+      'Anfiteatro natural',
+      'Antiguo altar de sacrificios',
+      'Propósito enigmático intriga a los visitantes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Any time. Usually visited on Cusco city tour.',
+    bestTimeEs: 'Cualquier hora. Usualmente visitado en tour de la ciudad de Cusco.',
+    tips: [
+      'Kids love exploring the cave tunnels',
+      'Guide essential to understand mysteries',
+      'Part of Cusco city tour circuit',
+      'Small site but fascinating',
+      'Watch your head in low tunnels',
+      'Combine with Sacsayhuaman nearby'
+    ],
+    tipsEs: [
+      'A los niños les encanta explorar los túneles de la cueva',
+      'Guía esencial para entender los misterios',
+      'Parte del circuito de tour de la ciudad de Cusco',
+      'Sitio pequeño pero fascinante',
+      'Cuida tu cabeza en túneles bajos',
+      'Combina con Sacsayhuaman cercano'
+    ],
+    nearbyAttractions: ['sacsayhuaman', 'puca-pucara', 'tambomachay'],
+    relatedSites: ['sacsayhuaman', 'tambomachay', 'cusco-centro'],
+    gettingThere: '4km from Cusco Plaza (10 min). Walking distance from Sacsayhuaman.',
+    gettingThereEs: '4km desde la Plaza de Cusco (10 min). A distancia caminable de Sacsayhuaman.',
+    facilities: [
+      'Entrance checkpoint',
+      'Open-air site',
+      'Vendors nearby',
+      'Limited facilities',
+      'Guides available',
+      'Near other sites'
+    ],
+    facilitiesEs: [
+      'Punto de control de entrada',
+      'Sitio al aire libre',
+      'Vendedores cercanos',
+      'Instalaciones limitadas',
+      'Guías disponibles',
+      'Cerca de otros sitios'
+    ]
+  },
+  {
+    slug: 'puca-pucara',
+    name: 'Puca Pucara (Red Fortress)',
+    nameEs: 'Puca Pucara (Fortaleza Roja)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3750,
+    description: 'A pink-hued Inca military outpost commanding views of the surrounding valleys. Puca Pucara ("Red Fortress") served as a checkpoint, hunting lodge, and possibly a rest stop for Inca royalty traveling to Tambomachay.',
+    descriptionEs: 'Un puesto militar Inca de tonos rosados que domina vistas de los valles circundantes. Puca Pucara ("Fortaleza Roja") sirvió como punto de control, pabellón de caza, y posiblemente una parada de descanso para la realeza Inca viajando a Tambomachay.',
+    history: 'Built as a military garrison and tambo (rest stop), Puca Pucara protected the road to the sacred site of Tambomachay. The reddish color comes from the local limestone that turns pink in certain light.',
+    historyEs: 'Construido como guarnición militar y tambo (parada de descanso), Puca Pucara protegía el camino al sitio sagrado de Tambomachay. El color rojizo proviene de la piedra caliza local que se vuelve rosa con cierta luz.',
+    highlights: [
+      'Panoramic valley views',
+      'Pink-tinged stone walls',
+      'Military architecture',
+      'Strategic hilltop location',
+      'Less crowded than main sites',
+      'Beautiful at sunset'
+    ],
+    highlightsEs: [
+      'Vistas panorámicas del valle',
+      'Muros de piedra de tonos rosados',
+      'Arquitectura militar',
+      'Ubicación estratégica en la colina',
+      'Menos concurrido que sitios principales',
+      'Hermoso al atardecer'
+    ],
+    familyRating: 3,
+    minAge: 5,
+    duration: '20-30 minutes',
+    durationEs: '20-30 minutos',
+    difficulty: 'easy',
+    entranceFee: 'Boleto Turístico (~$20 for 10-site pass)',
+    entranceFeeEs: 'Boleto Turístico (~$20 para pase de 10 sitios)',
+    bestTime: 'Late afternoon for pink glow on stones. Sunset is magical.',
+    bestTimeEs: 'Tarde para el brillo rosado en las piedras. El atardecer es mágico.',
+    tips: [
+      'Quick stop - often combined with Tambomachay',
+      'Great viewpoint for photos',
+      'Smallest of the Cusco circuit sites',
+      'Best light is late afternoon',
+      'Good for teaching about Inca roads',
+      'Can walk here from Tambomachay'
+    ],
+    tipsEs: [
+      'Parada rápida - a menudo combinada con Tambomachay',
+      'Gran mirador para fotos',
+      'El más pequeño de los sitios del circuito de Cusco',
+      'La mejor luz es por la tarde',
+      'Bueno para enseñar sobre los caminos Incas',
+      'Se puede caminar aquí desde Tambomachay'
+    ],
+    nearbyAttractions: ['tambomachay', 'qenqo', 'sacsayhuaman'],
+    relatedSites: ['tambomachay', 'sacsayhuaman', 'qenqo'],
+    gettingThere: '7km from Cusco (15 min). Adjacent to Tambomachay.',
+    gettingThereEs: '7km desde Cusco (15 min). Adyacente a Tambomachay.',
+    facilities: [
+      'Open site',
+      'No restrooms on site',
+      'Vendors nearby',
+      'Roadside parking',
+      'Guides available',
+      'Walking path to Tambomachay'
+    ],
+    facilitiesEs: [
+      'Sitio abierto',
+      'Sin baños en el sitio',
+      'Vendedores cercanos',
+      'Estacionamiento al lado de la carretera',
+      'Guías disponibles',
+      'Camino peatonal a Tambomachay'
+    ]
   }
 ];
 
