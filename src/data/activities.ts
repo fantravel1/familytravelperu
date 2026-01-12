@@ -6235,6 +6235,366 @@ export const activities: Activity[] = [
       { name: 'Perol Chico Horse Ranch', familyFriendly: true },
       { name: 'Sacred Valley Horses', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'paragliding-miraflores',
+    name: 'Paragliding over Miraflores',
+    nameEs: 'Parapente sobre Miraflores',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Soar above Lima\'s stunning coastline with tandem paragliding flights from the cliffs of Miraflores. Experience incredible views of the Pacific Ocean, Lima\'s skyline, and the famous Costa Verde while floating peacefully through the air.',
+    descriptionEs: 'Vuela sobre la impresionante costa de Lima con vuelos de parapente tándem desde los acantilados de Miraflores. Experimenta vistas increíbles del Océano Pacífico, el horizonte de Lima, y la famosa Costa Verde mientras flotas pacíficamente por el aire.',
+    whatToExpect: 'Meet your certified pilot at the Parque del Amor launch site. After a brief safety orientation, run toward the cliff edge and gently lift off. Flights last 10-15 minutes, soaring over beaches and city. Land on the beach or malecón.',
+    whatToExpectEs: 'Conoce a tu piloto certificado en el sitio de despegue del Parque del Amor. Después de una breve orientación de seguridad, corre hacia el borde del acantilado y despega suavemente. Los vuelos duran 10-15 minutos, volando sobre playas y ciudad. Aterriza en la playa o el malecón.',
+    highlights: [
+      'Stunning Pacific Ocean views',
+      'Iconic Miraflores coastline',
+      'No experience necessary',
+      'Professional tandem pilots',
+      'Photos and video available',
+      'Perfect weather year-round'
+    ],
+    highlightsEs: [
+      'Impresionantes vistas del Océano Pacífico',
+      'Icónica costa de Miraflores',
+      'No se necesita experiencia',
+      'Pilotos tándem profesionales',
+      'Fotos y video disponibles',
+      'Clima perfecto todo el año'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: '10-15 minutes (flight)',
+    durationEs: '10-15 minutos (vuelo)',
+    difficulty: 'moderate',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'Year-round. Afternoon thermals provide longer flights. Best on clear days.',
+    bestTimeEs: 'Todo el año. Térmicas de la tarde proporcionan vuelos más largos. Mejor en días claros.',
+    includes: [
+      'Tandem flight with certified pilot',
+      'All safety equipment',
+      'Safety briefing',
+      'GoPro photos/video (usually extra)',
+      'Certificate of flight',
+      'Beach/malecón landing'
+    ],
+    includesEs: [
+      'Vuelo tándem con piloto certificado',
+      'Todo el equipo de seguridad',
+      'Sesión de seguridad',
+      'Fotos/video GoPro (usualmente extra)',
+      'Certificado de vuelo',
+      'Aterrizaje en playa/malecón'
+    ],
+    tips: [
+      'Book afternoon for best thermals',
+      'Wear comfortable, closed shoes',
+      'Don\'t eat heavy meal before',
+      'Secure loose items',
+      'GoPro video is worth the extra cost',
+      'Great activity before sunset'
+    ],
+    tipsEs: [
+      'Reserva en la tarde para mejores térmicas',
+      'Usa zapatos cómodos y cerrados',
+      'No comas comida pesada antes',
+      'Asegura objetos sueltos',
+      'Video GoPro vale el costo extra',
+      'Gran actividad antes del atardecer'
+    ],
+    safetyNotes: [
+      'All pilots are certified',
+      'Modern equipment regularly inspected',
+      'Weather-dependent activity',
+      'Not recommended for heart conditions',
+      'Weight limits typically apply'
+    ],
+    safetyNotesEs: [
+      'Todos los pilotos están certificados',
+      'Equipo moderno inspeccionado regularmente',
+      'Actividad dependiente del clima',
+      'No recomendado para condiciones cardíacas',
+      'Típicamente aplican límites de peso'
+    ],
+    relatedActivities: ['surfing-lessons-lima', 'lima-bike-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Peru Fly', familyFriendly: true },
+      { name: 'Aerextreme', familyFriendly: true },
+      { name: 'Miraflores Paragliding', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ceviche-making-class',
+    name: 'Ceviche Making Class',
+    nameEs: 'Clase de Preparación de Ceviche',
+    type: 'culinary',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Learn to prepare Peru\'s most famous dish from expert chefs in Lima, the gastronomic capital of South America. From selecting fresh fish to mastering the perfect leche de tigre, these hands-on classes teach you to make authentic ceviche.',
+    descriptionEs: 'Aprende a preparar el plato más famoso del Perú de chefs expertos en Lima, la capital gastronómica de Sudamérica. Desde seleccionar pescado fresco hasta dominar la perfecta leche de tigre, estas clases prácticas te enseñan a hacer ceviche auténtico.',
+    whatToExpect: 'Visit a local market to select fresh fish and ingredients. Learn about Peruvian seafood and traditional recipes. Prepare classic ceviche, leche de tigre, and accompaniments. Enjoy your creations with a pisco sour.',
+    whatToExpectEs: 'Visita un mercado local para seleccionar pescado fresco e ingredientes. Aprende sobre mariscos peruanos y recetas tradicionales. Prepara ceviche clásico, leche de tigre, y acompañamientos. Disfruta tus creaciones con un pisco sour.',
+    highlights: [
+      'Learn Peru\'s national dish',
+      'Market visit for fresh ingredients',
+      'Master leche de tigre technique',
+      'Expert chef instruction',
+      'Eat your creations',
+      'Recipes to take home'
+    ],
+    highlightsEs: [
+      'Aprende el plato nacional del Perú',
+      'Visita al mercado por ingredientes frescos',
+      'Domina la técnica de leche de tigre',
+      'Instrucción de chef experto',
+      'Come tus creaciones',
+      'Recetas para llevar a casa'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$60-120 per person',
+    priceRangeEs: '$60-120 por persona',
+    bestTime: 'Morning classes often include market visit. Year-round activity.',
+    bestTimeEs: 'Clases matutinas a menudo incluyen visita al mercado. Actividad todo el año.',
+    includes: [
+      'Market visit (some classes)',
+      'All ingredients',
+      'Professional chef instruction',
+      'Ceviche meal you prepare',
+      'Pisco sour (adults)',
+      'Recipe booklet'
+    ],
+    includesEs: [
+      'Visita al mercado (algunas clases)',
+      'Todos los ingredientes',
+      'Instrucción de chef profesional',
+      'Comida de ceviche que preparas',
+      'Pisco sour (adultos)',
+      'Folleto de recetas'
+    ],
+    tips: [
+      'Lima is the best place for this class',
+      'Morning classes have freshest fish',
+      'Kids can help with safe tasks',
+      'Book upscale classes for best experience',
+      'Learn about sustainable fishing',
+      'Try variations like ceviche mixto'
+    ],
+    tipsEs: [
+      'Lima es el mejor lugar para esta clase',
+      'Clases matutinas tienen el pescado más fresco',
+      'Los niños pueden ayudar con tareas seguras',
+      'Reserva clases de alta gama para mejor experiencia',
+      'Aprende sobre pesca sostenible',
+      'Prueba variaciones como ceviche mixto'
+    ],
+    safetyNotes: [
+      'Fresh, properly handled fish used',
+      'Age-appropriate tasks for children',
+      'Allergy accommodations available',
+      'Professional kitchen environment',
+      'Knives handled by adults only'
+    ],
+    safetyNotesEs: [
+      'Se usa pescado fresco y bien manejado',
+      'Tareas apropiadas para la edad de niños',
+      'Adaptaciones para alergias disponibles',
+      'Ambiente de cocina profesional',
+      'Cuchillos manejados solo por adultos'
+    ],
+    relatedActivities: ['peruvian-cooking-class', 'lima-food-tour', 'market-tour-lima'],
+    providers: [
+      { name: 'Peru Culinary', familyFriendly: true },
+      { name: 'Lima Gourmet Company', familyFriendly: true },
+      { name: 'Urban Kitchen', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'amazon-canopy-walkway',
+    name: 'Amazon Canopy Walkway',
+    nameEs: 'Pasarela de Dosel Amazónico',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Walk among the treetops on suspended bridges high above the Amazon rainforest floor. This unique perspective reveals wildlife and plant life invisible from below, including monkeys, sloths, and colorful birds in their natural habitat.',
+    descriptionEs: 'Camina entre las copas de los árboles en puentes suspendidos muy por encima del suelo de la selva amazónica. Esta perspectiva única revela vida silvestre y plantas invisibles desde abajo, incluyendo monos, perezosos, y aves coloridas en su hábitat natural.',
+    whatToExpect: 'Access the walkway via sturdy stairs and platforms. Walk along suspended bridges 30+ meters above the forest floor. Guides point out wildlife and explain the canopy ecosystem. Some walkways include observation towers.',
+    whatToExpectEs: 'Accede a la pasarela por escaleras y plataformas resistentes. Camina por puentes suspendidos a más de 30 metros sobre el suelo del bosque. Los guías señalan vida silvestre y explican el ecosistema del dosel. Algunas pasarelas incluyen torres de observación.',
+    highlights: [
+      'Walk 30+ meters above ground',
+      'Spot monkeys and sloths',
+      'Bird watching paradise',
+      'Unique rainforest perspective',
+      'Safe, sturdy construction',
+      'Unforgettable family adventure'
+    ],
+    highlightsEs: [
+      'Camina a más de 30 metros sobre el suelo',
+      'Observa monos y perezosos',
+      'Paraíso para observación de aves',
+      'Perspectiva única de la selva',
+      'Construcción segura y resistente',
+      'Aventura familiar inolvidable'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'moderate',
+    priceRange: 'Included in lodge stays or $20-50',
+    priceRangeEs: 'Incluido en estadías en lodges o $20-50',
+    bestTime: 'Early morning for most wildlife activity. Year-round.',
+    bestTimeEs: 'Temprano en la mañana para mayor actividad de vida silvestre. Todo el año.',
+    includes: [
+      'Guided canopy walk',
+      'Safety briefing',
+      'Wildlife spotting',
+      'Naturalist guide',
+      'Usually part of lodge package',
+      'Binoculars (some operators)'
+    ],
+    includesEs: [
+      'Caminata guiada por el dosel',
+      'Sesión de seguridad',
+      'Avistamiento de vida silvestre',
+      'Guía naturalista',
+      'Usualmente parte del paquete de lodge',
+      'Binoculares (algunos operadores)'
+    ],
+    tips: [
+      'Go early morning for wildlife',
+      'Bring binoculars',
+      'Wear closed-toe shoes',
+      'Not for those afraid of heights',
+      'Bridges are safe and sturdy',
+      'Great photos from above'
+    ],
+    tipsEs: [
+      'Ve temprano en la mañana para vida silvestre',
+      'Trae binoculares',
+      'Usa zapatos cerrados',
+      'No para quienes temen las alturas',
+      'Los puentes son seguros y resistentes',
+      'Grandes fotos desde arriba'
+    ],
+    safetyNotes: [
+      'Walkways are professionally maintained',
+      'Safety railings throughout',
+      'Weight limits may apply per bridge',
+      'Not recommended for vertigo sufferers',
+      'Follow guide instructions'
+    ],
+    safetyNotesEs: [
+      'Las pasarelas tienen mantenimiento profesional',
+      'Barandas de seguridad en todo el recorrido',
+      'Pueden aplicar límites de peso por puente',
+      'No recomendado para quienes sufren de vértigo',
+      'Sigue las instrucciones del guía'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'birdwatching-peru', 'piranha-fishing'],
+    providers: [
+      { name: 'Explorama Canopy Walkway', familyFriendly: true },
+      { name: 'Amazon Yarapa River Lodge', familyFriendly: true },
+      { name: 'Treehouse Lodge', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'kayaking-lake-titicaca',
+    name: 'Kayaking on Lake Titicaca',
+    nameEs: 'Kayak en el Lago Titicaca',
+    type: 'adventure',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Paddle across the world\'s highest navigable lake in stable kayaks, exploring floating islands, hidden bays, and ancient shorelines. This unique way to experience Lake Titicaca offers close encounters with local culture and stunning Andean scenery.',
+    descriptionEs: 'Rema a través del lago navegable más alto del mundo en kayaks estables, explorando islas flotantes, bahías escondidas, y costas antiguas. Esta forma única de experimentar el Lago Titicaca ofrece encuentros cercanos con la cultura local y impresionante paisaje andino.',
+    whatToExpect: 'After kayak instruction and safety briefing, paddle along the lake shore or to floating Uros islands. Stable sit-on-top kayaks are easy for beginners. Tours include rest stops, cultural visits, and stunning mountain views.',
+    whatToExpectEs: 'Después de instrucción de kayak y sesión de seguridad, rema a lo largo de la orilla del lago o a las islas flotantes Uros. Los kayaks estables sit-on-top son fáciles para principiantes. Los tours incluyen paradas de descanso, visitas culturales, y impresionantes vistas de montañas.',
+    highlights: [
+      'Paddle world\'s highest navigable lake',
+      'Visit floating Uros islands by kayak',
+      'Stunning Andean mountain views',
+      'Beginner-friendly equipment',
+      'Cultural immersion',
+      'Unique adventure experience'
+    ],
+    highlightsEs: [
+      'Rema en el lago navegable más alto del mundo',
+      'Visita islas flotantes Uros en kayak',
+      'Impresionantes vistas de montañas andinas',
+      'Equipo para principiantes',
+      'Inmersión cultural',
+      'Experiencia de aventura única'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '3-6 hours',
+    durationEs: '3-6 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-100 per person',
+    priceRangeEs: '$50-100 por persona',
+    bestTime: 'Dry season (May-October). Morning for calmer water and better light.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Mañana para agua más tranquila y mejor luz.',
+    includes: [
+      'Kayak and paddle',
+      'Life jacket',
+      'Waterproof bag',
+      'Kayak instruction',
+      'Guided tour',
+      'Snacks and water'
+    ],
+    includesEs: [
+      'Kayak y remo',
+      'Chaleco salvavidas',
+      'Bolsa impermeable',
+      'Instrucción de kayak',
+      'Tour guiado',
+      'Snacks y agua'
+    ],
+    tips: [
+      'High altitude affects stamina',
+      'Acclimatize before kayaking',
+      'Wear layers - weather changes quickly',
+      'Bring sunscreen and hat',
+      'Tandem kayaks available for families',
+      'Morning tours have calmer water'
+    ],
+    tipsEs: [
+      'La alta altitud afecta la resistencia',
+      'Aclimátate antes de hacer kayak',
+      'Usa capas - el clima cambia rápido',
+      'Trae protector solar y sombrero',
+      'Kayaks tándem disponibles para familias',
+      'Tours matutinos tienen agua más tranquila'
+    ],
+    safetyNotes: [
+      'Life jackets mandatory',
+      'Stable sit-on-top kayaks used',
+      'Guides stay close throughout',
+      'Swimming ability recommended',
+      'Cold water - don\'t fall in!'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas obligatorios',
+      'Se usan kayaks sit-on-top estables',
+      'Los guías se mantienen cerca durante todo el recorrido',
+      'Habilidad de nadar recomendada',
+      '¡Agua fría - no te caigas!'
+    ],
+    relatedActivities: ['uros-floating-islands', 'taquile-island', 'lake-titicaca-tour'],
+    providers: [
+      { name: 'Titicaca Kayak', familyFriendly: true },
+      { name: 'Andes Kayak', familyFriendly: true },
+      { name: 'Puno Kayaking', familyFriendly: true }
+    ]
   }
 ];
 

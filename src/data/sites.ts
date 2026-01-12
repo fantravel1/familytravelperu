@@ -5714,6 +5714,306 @@ export const sites: Site[] = [
       'El pueblo tiene tiendas básicas',
       'Sin servicios en la meseta'
     ]
+  },
+  {
+    slug: 'huaca-sol-luna',
+    name: 'Huaca del Sol y la Luna',
+    nameEs: 'Huacas del Sol y de la Luna',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    altitude: 50,
+    description: 'Two massive adobe pyramids built by the Moche civilization (100-800 AD) that rival the pyramids of Egypt in size. The Temple of the Moon features stunning polychrome murals and sacrificial chambers, while the Temple of the Sun remains largely unexcavated.',
+    descriptionEs: 'Dos pirámides masivas de adobe construidas por la civilización Moche (100-800 DC) que rivalizan en tamaño con las pirámides de Egipto. El Templo de la Luna presenta impresionantes murales policromados y cámaras de sacrificio, mientras que el Templo del Sol permanece mayormente sin excavar.',
+    history: 'The Moche civilization built these ceremonial centers over 700 years, layer upon layer. The Temple of the Moon served as a religious and ceremonial center where elaborate rituals and human sacrifices took place. The murals depicting Ai Apaec (the Decapitator God) are among Peru\'s most impressive pre-Columbian art.',
+    historyEs: 'La civilización Moche construyó estos centros ceremoniales durante 700 años, capa sobre capa. El Templo de la Luna sirvió como centro religioso y ceremonial donde se realizaban elaborados rituales y sacrificios humanos. Los murales que representan a Ai Apaec (el Dios Decapitador) están entre el arte precolombino más impresionante del Perú.',
+    highlights: [
+      'Stunning polychrome murals',
+      'Temple of the Moon excavations',
+      'Ai Apaec deity images',
+      'Massive adobe pyramids',
+      'Excellent site museum',
+      'Less crowded than major sites'
+    ],
+    highlightsEs: [
+      'Impresionantes murales policromados',
+      'Excavaciones del Templo de la Luna',
+      'Imágenes de la deidad Ai Apaec',
+      'Masivas pirámides de adobe',
+      'Excelente museo de sitio',
+      'Menos concurrido que sitios principales'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults S/10, Students S/5',
+    entranceFeeEs: 'Adultos S/10, Estudiantes S/5',
+    bestTime: 'Year-round. Morning before it gets hot. Best light for photos.',
+    bestTimeEs: 'Todo el año. Mañana antes de que haga calor. Mejor luz para fotos.',
+    tips: [
+      'Guide essential to understand murals',
+      'Visit site museum first',
+      'Wear hat and sunscreen - hot area',
+      'Temple of Sun is across fields (view only)',
+      'Combine with Chan Chan day trip',
+      'Some murals are replicas for preservation'
+    ],
+    tipsEs: [
+      'Guía esencial para entender los murales',
+      'Visita el museo de sitio primero',
+      'Usa sombrero y protector solar - área calurosa',
+      'Templo del Sol está cruzando campos (solo vista)',
+      'Combina con excursión de día a Chan Chan',
+      'Algunos murales son réplicas para preservación'
+    ],
+    nearbyAttractions: ['chan-chan', 'huanchaco', 'trujillo-centro'],
+    relatedSites: ['chan-chan', 'sipan', 'el-brujo'],
+    gettingThere: '8km from Trujillo (15 minutes). Taxi or tour from city center.',
+    gettingThereEs: '8km desde Trujillo (15 minutos). Taxi o tour desde el centro de la ciudad.',
+    facilities: [
+      'Site museum',
+      'Restrooms',
+      'Guides available',
+      'Parking',
+      'Small cafe',
+      'Gift shop'
+    ],
+    facilitiesEs: [
+      'Museo de sitio',
+      'Baños',
+      'Guías disponibles',
+      'Estacionamiento',
+      'Pequeña cafetería',
+      'Tienda de regalos'
+    ]
+  },
+  {
+    slug: 'el-brujo',
+    name: 'El Brujo Archaeological Complex',
+    nameEs: 'Complejo Arqueológico El Brujo',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    altitude: 35,
+    description: 'A spectacular Moche archaeological site famous for the discovery of the Lady of Cao, a powerful female ruler buried with elaborate regalia. The modern museum houses her remarkably preserved tattooed mummy and treasures.',
+    descriptionEs: 'Un espectacular sitio arqueológico Moche famoso por el descubrimiento de la Señora de Cao, una poderosa gobernante femenina enterrada con elaborada parafernalia. El moderno museo alberga su momia tatuada extraordinariamente preservada y tesoros.',
+    history: 'El Brujo was a major ceremonial center of the Moche civilization. In 2005, archaeologists discovered the tomb of the Lady of Cao, who died around 450 AD. She was buried with weapons, gold crowns, and evidence of human sacrifice, proving women held power in Moche society.',
+    historyEs: 'El Brujo fue un importante centro ceremonial de la civilización Moche. En 2005, arqueólogos descubrieron la tumba de la Señora de Cao, quien murió alrededor de 450 DC. Fue enterrada con armas, coronas de oro, y evidencia de sacrificio humano, probando que las mujeres tenían poder en la sociedad Moche.',
+    highlights: [
+      'Lady of Cao mummy and tomb',
+      'Moche polychrome murals',
+      'World-class modern museum',
+      'Tattooed mummy display',
+      'Gold and ceremonial objects',
+      'Off the beaten path'
+    ],
+    highlightsEs: [
+      'Momia y tumba de la Señora de Cao',
+      'Murales policromados Moche',
+      'Museo moderno de clase mundial',
+      'Exhibición de momia tatuada',
+      'Oro y objetos ceremoniales',
+      'Fuera de los caminos trillados'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Adults S/10, Students S/5',
+    entranceFeeEs: 'Adultos S/10, Estudiantes S/5',
+    bestTime: 'Year-round. Morning for cooler temperatures.',
+    bestTimeEs: 'Todo el año. Mañana para temperaturas más frescas.',
+    tips: [
+      'Lady of Cao mummy is incredible',
+      'Less crowded than other sites',
+      'Museum is air-conditioned',
+      'Combine with Huacas del Sol y Luna',
+      'Tattooed mummy may fascinate older kids',
+      'Remote location - plan transportation'
+    ],
+    tipsEs: [
+      'La momia de la Señora de Cao es increíble',
+      'Menos concurrido que otros sitios',
+      'El museo tiene aire acondicionado',
+      'Combina con Huacas del Sol y Luna',
+      'La momia tatuada puede fascinar a niños mayores',
+      'Ubicación remota - planifica transporte'
+    ],
+    nearbyAttractions: ['huaca-sol-luna', 'chan-chan', 'trujillo'],
+    relatedSites: ['huaca-sol-luna', 'sipan', 'chan-chan'],
+    gettingThere: '60km north of Trujillo (1.5 hours). Tour recommended as roads are rough.',
+    gettingThereEs: '60km al norte de Trujillo (1.5 horas). Tour recomendado ya que las carreteras son difíciles.',
+    facilities: [
+      'Modern museum',
+      'Restrooms',
+      'Guides included',
+      'Parking',
+      'Gift shop',
+      'Small cafe'
+    ],
+    facilitiesEs: [
+      'Museo moderno',
+      'Baños',
+      'Guías incluidos',
+      'Estacionamiento',
+      'Tienda de regalos',
+      'Pequeña cafetería'
+    ]
+  },
+  {
+    slug: 'pastoruri-glacier',
+    name: 'Pastoruri Glacier',
+    nameEs: 'Glaciar Pastoruri',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 5000,
+    description: 'One of Peru\'s most accessible tropical glaciers, located in Huascarán National Park. While climate change has dramatically reduced its size, visiting this retreating glacier offers a powerful lesson about global warming while experiencing stunning high-altitude landscapes.',
+    descriptionEs: 'Uno de los glaciares tropicales más accesibles del Perú, ubicado en el Parque Nacional Huascarán. Aunque el cambio climático ha reducido dramáticamente su tamaño, visitar este glaciar en retroceso ofrece una poderosa lección sobre el calentamiento global mientras se experimentan impresionantes paisajes de alta montaña.',
+    history: 'Pastoruri was once a popular skiing destination, but climate change has caused it to lose over 50% of its ice since 1995. In 2010, it was reclassified from glacier to "ice field." The site now serves as an educational resource about climate change impacts on tropical glaciers.',
+    historyEs: 'Pastoruri fue alguna vez un destino popular de esquí, pero el cambio climático ha causado que pierda más del 50% de su hielo desde 1995. En 2010, fue reclasificado de glaciar a "campo de hielo." El sitio ahora sirve como recurso educativo sobre los impactos del cambio climático en los glaciares tropicales.',
+    highlights: [
+      'Accessible tropical glacier',
+      'Climate change education',
+      'Stunning mountain scenery',
+      'Puya Raimondi plants en route',
+      'High-altitude experience',
+      'UNESCO World Heritage buffer zone'
+    ],
+    highlightsEs: [
+      'Glaciar tropical accesible',
+      'Educación sobre cambio climático',
+      'Impresionante paisaje de montaña',
+      'Plantas Puya Raimondi en ruta',
+      'Experiencia de alta altitud',
+      'Zona de amortiguamiento Patrimonio UNESCO'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '6-8 hours (full day tour)',
+    durationEs: '6-8 horas (tour de día completo)',
+    difficulty: 'challenging',
+    entranceFee: 'National Park fee S/30',
+    entranceFeeEs: 'Tarifa del Parque Nacional S/30',
+    bestTime: 'Dry season (May-September). Clear mornings best.',
+    bestTimeEs: 'Temporada seca (mayo-septiembre). Mañanas claras mejor.',
+    tips: [
+      'High altitude - acclimatize in Huaraz first',
+      'Altitude sickness is real risk',
+      'Walk slowly - it\'s 5000m elevation',
+      'Bring warm layers - cold and windy',
+      'Stop to see Puya Raimondi plants',
+      'Discuss climate change with kids'
+    ],
+    tipsEs: [
+      'Gran altitud - aclimátate en Huaraz primero',
+      'El mal de altura es un riesgo real',
+      'Camina despacio - son 5000m de elevación',
+      'Trae capas abrigadas - frío y ventoso',
+      'Para a ver las plantas Puya Raimondi',
+      'Habla sobre el cambio climático con los niños'
+    ],
+    nearbyAttractions: ['laguna-69', 'huaraz', 'chavin-de-huantar'],
+    relatedSites: ['laguna-69', 'huayllay-stone-forest', 'cordillera-blanca'],
+    gettingThere: '70km from Huaraz. Day tours include transportation.',
+    gettingThereEs: '70km desde Huaraz. Tours de día incluyen transporte.',
+    facilities: [
+      'Basic facilities only',
+      'Restrooms at parking area',
+      'No food vendors',
+      'Marked trail',
+      'National park rangers',
+      'Horse rental available'
+    ],
+    facilitiesEs: [
+      'Solo instalaciones básicas',
+      'Baños en área de estacionamiento',
+      'Sin vendedores de comida',
+      'Sendero marcado',
+      'Guardaparques nacionales',
+      'Alquiler de caballos disponible'
+    ]
+  },
+  {
+    slug: 'llanganuco-lakes',
+    name: 'Llanganuco Lakes',
+    nameEs: 'Lagunas de Llanganuco',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 3850,
+    description: 'Two stunning turquoise glacial lakes nestled in the Cordillera Blanca, surrounded by snow-capped peaks including Huascarán, Peru\'s highest mountain. The intense blue-green colors and dramatic mountain backdrop make this one of Peru\'s most beautiful natural sites.',
+    descriptionEs: 'Dos impresionantes lagunas glaciares turquesas enclavadas en la Cordillera Blanca, rodeadas de picos nevados incluyendo Huascarán, la montaña más alta del Perú. Los intensos colores azul-verde y el dramático telón de fondo de montañas hacen de este uno de los sitios naturales más bellos del Perú.',
+    history: 'The lakes were formed by glacial activity and are named Chinancocha (Female Lake) and Orconcocha (Male Lake) in Quechua. They sit within Huascarán National Park, a UNESCO World Heritage Site and Biosphere Reserve established in 1975.',
+    historyEs: 'Las lagunas fueron formadas por actividad glaciar y se llaman Chinancocha (Laguna Femenina) y Orconcocha (Laguna Masculina) en Quechua. Se encuentran dentro del Parque Nacional Huascarán, Patrimonio de la Humanidad UNESCO y Reserva de Biosfera establecida en 1975.',
+    highlights: [
+      'Stunning turquoise waters',
+      'Views of Huascarán peak',
+      'Boat rides available',
+      'Easy access by road',
+      'Queñual forest walks',
+      'Incredible photography'
+    ],
+    highlightsEs: [
+      'Aguas turquesas impresionantes',
+      'Vistas del pico Huascarán',
+      'Paseos en bote disponibles',
+      'Fácil acceso por carretera',
+      'Caminatas por bosque de queñuales',
+      'Fotografía increíble'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-5 hours (half day)',
+    durationEs: '3-5 horas (medio día)',
+    difficulty: 'easy',
+    entranceFee: 'National Park fee S/30',
+    entranceFeeEs: 'Tarifa del Parque Nacional S/30',
+    bestTime: 'Dry season (May-September) for clearest views. Morning best.',
+    bestTimeEs: 'Temporada seca (mayo-septiembre) para vistas más claras. Mañana mejor.',
+    tips: [
+      'More accessible than Laguna 69',
+      'Rowboat rentals are fun for families',
+      'Walk along lake trails',
+      'Altitude still affects some visitors',
+      'Combine with Laguna 69 day if fit',
+      'Pack picnic - limited food available'
+    ],
+    tipsEs: [
+      'Más accesible que Laguna 69',
+      'Alquiler de botes de remo es divertido para familias',
+      'Camina por los senderos del lago',
+      'La altitud aún afecta a algunos visitantes',
+      'Combina con día de Laguna 69 si estás en forma',
+      'Lleva picnic - comida limitada disponible'
+    ],
+    nearbyAttractions: ['laguna-69', 'huaraz', 'chavin-de-huantar'],
+    relatedSites: ['laguna-69', 'pastoruri-glacier', 'huayllay-stone-forest'],
+    gettingThere: '70km from Huaraz (2 hours). Day tours or taxi available.',
+    gettingThereEs: '70km desde Huaraz (2 horas). Tours de día o taxi disponibles.',
+    facilities: [
+      'Restrooms at parking',
+      'Boat rentals',
+      'Walking trails',
+      'Small vendors',
+      'Park rangers',
+      'Parking area'
+    ],
+    facilitiesEs: [
+      'Baños en estacionamiento',
+      'Alquiler de botes',
+      'Senderos para caminar',
+      'Pequeños vendedores',
+      'Guardaparques',
+      'Área de estacionamiento'
+    ]
   }
 ];
 
