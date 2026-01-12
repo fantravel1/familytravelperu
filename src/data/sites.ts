@@ -5414,6 +5414,306 @@ export const sites: Site[] = [
       'Guías disponibles',
       'Camino peatonal a Tambomachay'
     ]
+  },
+  {
+    slug: 'chavin-de-huantar',
+    name: 'Chavín de Huántar',
+    nameEs: 'Chavín de Huántar',
+    type: 'archaeological',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 3177,
+    description: 'A UNESCO World Heritage Site and one of the oldest and most important pre-Columbian sites in Peru. This ancient ceremonial center was the spiritual and political heart of the Chavín culture (1200-400 BC), featuring underground galleries, intricate stone carvings, and mysterious labyrinths.',
+    descriptionEs: 'Patrimonio de la Humanidad por UNESCO y uno de los sitios precolombinos más antiguos e importantes del Perú. Este antiguo centro ceremonial fue el corazón espiritual y político de la cultura Chavín (1200-400 AC), con galerías subterráneas, intrincadas esculturas de piedra y misteriosos laberintos.',
+    history: 'The Chavín culture flourished from 1200-400 BC, predating the Inca by over a millennium. The site served as an oracle and pilgrimage center, where religious leaders used elaborate underground passages and acoustic effects to create mystical experiences for visitors.',
+    historyEs: 'La cultura Chavín floreció desde 1200-400 AC, precediendo a los Incas por más de un milenio. El sitio sirvió como oráculo y centro de peregrinación, donde líderes religiosos usaban elaborados pasajes subterráneos y efectos acústicos para crear experiencias místicas para los visitantes.',
+    highlights: [
+      'Lanzón monolith - 4.5m stone deity',
+      'Underground galleries and labyrinths',
+      'Cabezas clavas (tenon heads)',
+      'Old and New Temple structures',
+      'Tello Obelisk carvings',
+      'Acoustic engineering mysteries'
+    ],
+    highlightsEs: [
+      'Monolito Lanzón - deidad de piedra de 4.5m',
+      'Galerías y laberintos subterráneos',
+      'Cabezas clavas',
+      'Estructuras del Templo Viejo y Nuevo',
+      'Grabados del Obelisco Tello',
+      'Misterios de ingeniería acústica'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    entranceFee: 'Adults S/15, Students S/8',
+    entranceFeeEs: 'Adultos S/15, Estudiantes S/8',
+    bestTime: 'Dry season (May-October). Morning visits best before afternoon clouds.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Visitas matutinas mejor antes de nubes de la tarde.',
+    tips: [
+      'Underground galleries may trigger claustrophobia',
+      'Bring flashlight for tunnels',
+      'Museum has key artifacts removed from site',
+      'Guide essential for understanding symbolism',
+      'Combine with trek in Cordillera Blanca',
+      'Dress in layers - temperature varies'
+    ],
+    tipsEs: [
+      'Galerías subterráneas pueden provocar claustrofobia',
+      'Trae linterna para los túneles',
+      'El museo tiene artefactos clave removidos del sitio',
+      'Guía esencial para entender el simbolismo',
+      'Combina con trekking en la Cordillera Blanca',
+      'Vístete en capas - temperatura varía'
+    ],
+    nearbyAttractions: ['cordillera-blanca', 'huaraz'],
+    relatedSites: ['sechin', 'caral', 'chan-chan'],
+    gettingThere: '110km from Huaraz (3 hours by car). Tours available from Huaraz.',
+    gettingThereEs: '110km desde Huaraz (3 horas en carro). Tours disponibles desde Huaraz.',
+    facilities: [
+      'Site museum',
+      'Restrooms at entrance',
+      'Guides available',
+      'Parking area',
+      'Small vendors nearby',
+      'Visitor information center'
+    ],
+    facilitiesEs: [
+      'Museo de sitio',
+      'Baños en la entrada',
+      'Guías disponibles',
+      'Área de estacionamiento',
+      'Pequeños vendedores cercanos',
+      'Centro de información al visitante'
+    ]
+  },
+  {
+    slug: 'ventanillas-de-otuzco',
+    name: 'Ventanillas de Otuzco',
+    nameEs: 'Ventanillas de Otuzco',
+    type: 'archaeological',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 2850,
+    description: 'An ancient pre-Inca necropolis featuring hundreds of rectangular funeral niches carved into volcanic rock cliffs. These "little windows" were used by the Cajamarca culture as tombs, creating a haunting honeycomb pattern across the hillside that fascinates visitors of all ages.',
+    descriptionEs: 'Una antigua necrópolis pre-Inca con cientos de nichos funerarios rectangulares tallados en acantilados de roca volcánica. Estas "ventanillas" fueron usadas por la cultura Cajamarca como tumbas, creando un fascinante patrón de panal en la ladera que fascina a visitantes de todas las edades.',
+    history: 'Created by the Cajamarca culture between 300-800 AD, these cliff tombs held the remains of important members of society. The niches were carved with simple tools and originally contained mummy bundles with offerings. Spanish conquistadors looted many tombs, but the site remains an impressive testament to ancient funerary practices.',
+    historyEs: 'Creadas por la cultura Cajamarca entre 300-800 DC, estas tumbas en acantilados contenían los restos de miembros importantes de la sociedad. Los nichos fueron tallados con herramientas simples y originalmente contenían fardos de momias con ofrendas. Los conquistadores españoles saquearon muchas tumbas, pero el sitio sigue siendo un impresionante testimonio de las prácticas funerarias antiguas.',
+    highlights: [
+      'Hundreds of carved niches',
+      'Unique honeycomb cliff face',
+      'Valley viewpoints',
+      'Peaceful rural setting',
+      'Great for photography',
+      'Easy to explore with kids'
+    ],
+    highlightsEs: [
+      'Cientos de nichos tallados',
+      'Cara de acantilado único tipo panal',
+      'Miradores del valle',
+      'Entorno rural tranquilo',
+      'Excelente para fotografía',
+      'Fácil de explorar con niños'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '1-1.5 hours',
+    durationEs: '1-1.5 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/5',
+    entranceFeeEs: 'S/5',
+    bestTime: 'Morning light illuminates the niches best. Dry season (May-October) ideal.',
+    bestTimeEs: 'La luz de la mañana ilumina mejor los nichos. Temporada seca (mayo-octubre) ideal.',
+    tips: [
+      'Combine with Cumbe Mayo day trip',
+      'Great introduction to ancient Peru',
+      'Easy walk from parking to site',
+      'Best photos in morning light',
+      'Compare with Ventanillas de Combayo',
+      'Respect this sacred burial site'
+    ],
+    tipsEs: [
+      'Combina con excursión de día a Cumbe Mayo',
+      'Gran introducción al Perú antiguo',
+      'Caminata fácil desde estacionamiento al sitio',
+      'Mejores fotos con luz de la mañana',
+      'Compara con Ventanillas de Combayo',
+      'Respeta este sitio sagrado de entierro'
+    ],
+    nearbyAttractions: ['cumbe-mayo', 'banos-del-inca', 'cajamarca-plaza'],
+    relatedSites: ['kuelap', 'chan-chan', 'sipan'],
+    gettingThere: '8km from Cajamarca (20 minutes). Taxi or colectivo from city center.',
+    gettingThereEs: '8km desde Cajamarca (20 minutos). Taxi o colectivo desde el centro de la ciudad.',
+    facilities: [
+      'Parking area',
+      'Basic restrooms',
+      'Local guides',
+      'Walkways',
+      'Information signs',
+      'Artisan vendors'
+    ],
+    facilitiesEs: [
+      'Área de estacionamiento',
+      'Baños básicos',
+      'Guías locales',
+      'Senderos',
+      'Señalización informativa',
+      'Vendedores artesanos'
+    ]
+  },
+  {
+    slug: 'huayllay-stone-forest',
+    name: 'Huayllay Stone Forest',
+    nameEs: 'Bosque de Piedras de Huayllay',
+    type: 'natural',
+    city: 'cerro-de-pasco',
+    region: 'Pasco Region',
+    regionEs: 'Región Pasco',
+    altitude: 4310,
+    description: 'One of the world\'s largest and most spectacular geological gardens, featuring thousands of massive rock formations sculpted by millions of years of wind and rain. These natural stone sculptures resemble animals, faces, and fantastic creatures, sparking children\'s imaginations in this otherworldly high-altitude landscape.',
+    descriptionEs: 'Uno de los jardines geológicos más grandes y espectaculares del mundo, con miles de formaciones rocosas masivas esculpidas por millones de años de viento y lluvia. Estas esculturas de piedra natural se asemejan a animales, caras y criaturas fantásticas, encendiendo la imaginación de los niños en este paisaje de gran altitud de otro mundo.',
+    history: 'Formed over 60 million years ago from volcanic rock, these limestone formations were shaped by erosion into over 4,000 distinct sculptures spread across 6,815 hectares. Local peoples considered this a sacred place, and cave paintings dating back thousands of years can still be found among the rocks.',
+    historyEs: 'Formadas hace más de 60 millones de años de roca volcánica, estas formaciones de piedra caliza fueron moldeadas por la erosión en más de 4,000 esculturas distintas repartidas en 6,815 hectáreas. Los pueblos locales consideraban este un lugar sagrado, y pinturas rupestres de miles de años aún pueden encontrarse entre las rocas.',
+    highlights: [
+      'Elephant rock formation',
+      'Cobra and turtle shapes',
+      'Ancient cave paintings',
+      'Alpacas grazing among stones',
+      'Unique high-altitude landscape',
+      'Natural playground for kids'
+    ],
+    highlightsEs: [
+      'Formación rocosa del elefante',
+      'Formas de cobra y tortuga',
+      'Pinturas rupestres antiguas',
+      'Alpacas pastando entre las piedras',
+      'Paisaje único de gran altitud',
+      'Patio de juegos natural para niños'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-5 hours',
+    durationEs: '3-5 horas',
+    difficulty: 'moderate',
+    entranceFee: 'S/10',
+    entranceFeeEs: 'S/10',
+    bestTime: 'Dry season (April-November). Morning for best light and less wind.',
+    bestTimeEs: 'Temporada seca (abril-noviembre). Mañana para mejor luz y menos viento.',
+    tips: [
+      'High altitude - acclimatize first',
+      'Bring warm layers - cold even in summer',
+      'Play spot-the-shapes with kids',
+      'Hire local guide to find best formations',
+      'Pack picnic - no food vendors',
+      'Wear sturdy hiking shoes'
+    ],
+    tipsEs: [
+      'Gran altitud - aclimatarse primero',
+      'Trae capas abrigadas - frío incluso en verano',
+      'Juega a encontrar formas con los niños',
+      'Contrata guía local para encontrar mejores formaciones',
+      'Lleva picnic - no hay vendedores de comida',
+      'Usa zapatos de trekking resistentes'
+    ],
+    nearbyAttractions: ['cerro-de-pasco', 'junin-lake'],
+    relatedSites: ['marcahuasi', 'siete-colores'],
+    gettingThere: '35km from Cerro de Pasco. 4WD recommended for final stretch.',
+    gettingThereEs: '35km desde Cerro de Pasco. 4x4 recomendado para el tramo final.',
+    facilities: [
+      'Marked trails',
+      'Basic visitor center',
+      'No restrooms inside park',
+      'Parking area',
+      'Local guides at entrance',
+      'Camping permitted'
+    ],
+    facilitiesEs: [
+      'Senderos marcados',
+      'Centro de visitantes básico',
+      'Sin baños dentro del parque',
+      'Área de estacionamiento',
+      'Guías locales en la entrada',
+      'Camping permitido'
+    ]
+  },
+  {
+    slug: 'marcahuasi',
+    name: 'Marcahuasi Stone Forest',
+    nameEs: 'Meseta de Marcahuasi',
+    type: 'natural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 4000,
+    description: 'A mystical plateau east of Lima covered with enormous stone formations that some believe were carved by an ancient civilization. Whether natural or man-made, these mysterious rocks resembling faces, animals, and monuments create an unforgettable adventure for families willing to make the trek.',
+    descriptionEs: 'Una meseta mística al este de Lima cubierta de enormes formaciones de piedra que algunos creen fueron talladas por una civilización antigua. Ya sean naturales o hechas por el hombre, estas misteriosas rocas que se asemejan a caras, animales y monumentos crean una aventura inolvidable para familias dispuestas a hacer el trekking.',
+    history: 'Made famous by researcher Daniel Ruzo in the 1950s, who believed the formations were carved by an ancient Masma civilization. While geologists say they are natural granite formations shaped by erosion, the debate adds mystery. The area was sacred to pre-Inca peoples who left offerings and built structures on the plateau.',
+    historyEs: 'Hecho famoso por el investigador Daniel Ruzo en los años 1950, quien creía que las formaciones fueron talladas por una antigua civilización Masma. Mientras los geólogos dicen que son formaciones naturales de granito moldeadas por erosión, el debate añade misterio. El área era sagrada para los pueblos pre-Incas que dejaron ofrendas y construyeron estructuras en la meseta.',
+    highlights: [
+      'Monument to Humanity rock',
+      'Face profiles and animal shapes',
+      'Spectacular sunrise/sunset views',
+      'Camping under stars',
+      'Energy vortex legends',
+      'Challenging family adventure'
+    ],
+    highlightsEs: [
+      'Roca Monumento a la Humanidad',
+      'Perfiles de caras y formas de animales',
+      'Espectaculares vistas del amanecer/atardecer',
+      'Camping bajo las estrellas',
+      'Leyendas de vórtices de energía',
+      'Aventura familiar desafiante'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '2 days (overnight recommended)',
+    durationEs: '2 días (pernoctar recomendado)',
+    difficulty: 'challenging',
+    entranceFee: 'S/5',
+    entranceFeeEs: 'S/5',
+    bestTime: 'Dry season (May-October). Full moon visits popular for mystical experiences.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Visitas de luna llena populares para experiencias místicas.',
+    tips: [
+      'Requires 4-hour uphill hike from San Pedro',
+      'Bring camping gear - no lodging above',
+      'Extreme temperature changes day/night',
+      'Pack all food and water',
+      'Altitude affects children differently',
+      'Hire local guide for safety'
+    ],
+    tipsEs: [
+      'Requiere caminata cuesta arriba de 4 horas desde San Pedro',
+      'Trae equipo de camping - no hay alojamiento arriba',
+      'Cambios extremos de temperatura día/noche',
+      'Lleva toda la comida y agua',
+      'La altitud afecta a los niños diferente',
+      'Contrata guía local por seguridad'
+    ],
+    nearbyAttractions: ['san-pedro-de-casta', 'lima'],
+    relatedSites: ['huayllay-stone-forest', 'pachacamac'],
+    gettingThere: '80km from Lima to San Pedro de Casta village, then 4-hour hike to plateau.',
+    gettingThereEs: '80km desde Lima al pueblo de San Pedro de Casta, luego caminata de 4 horas a la meseta.',
+    facilities: [
+      'Basic camping areas',
+      'No restrooms on plateau',
+      'Guides in San Pedro de Casta',
+      'Horse/mule hire possible',
+      'Village has basic stores',
+      'No services on plateau'
+    ],
+    facilitiesEs: [
+      'Áreas de camping básicas',
+      'Sin baños en la meseta',
+      'Guías en San Pedro de Casta',
+      'Posible alquiler de caballos/mulas',
+      'El pueblo tiene tiendas básicas',
+      'Sin servicios en la meseta'
+    ]
   }
 ];
 

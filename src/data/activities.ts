@@ -5875,6 +5875,366 @@ export const activities: Activity[] = [
     providers: [
       { name: 'Planetarium Cusco', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'surfing-lessons-lima',
+    name: 'Surfing Lessons in Lima',
+    nameEs: 'Clases de Surf en Lima',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Ride the waves at Lima\'s famous surf beaches with family-friendly lessons. Miraflores and Costa Verde offer consistent waves perfect for beginners, while experienced instructors make learning safe and fun for kids and adults alike.',
+    descriptionEs: 'Monta las olas en las famosas playas de surf de Lima con clases familiares. Miraflores y Costa Verde ofrecen olas consistentes perfectas para principiantes, mientras instructores experimentados hacen el aprendizaje seguro y divertido para niños y adultos por igual.',
+    whatToExpect: 'Lessons begin with beach instruction on technique, safety, and etiquette. Then hit the water with your instructor nearby. Wetsuits provided (water is cool year-round). Most students stand up on their first lesson!',
+    whatToExpectEs: 'Las lecciones comienzan con instrucción en la playa sobre técnica, seguridad y etiqueta. Luego al agua con tu instructor cerca. Se proporcionan trajes de neopreno (el agua es fría todo el año). ¡La mayoría de estudiantes se paran en su primera lección!',
+    highlights: [
+      'Learn to surf with experienced instructors',
+      'Consistent beginner-friendly waves',
+      'All equipment provided',
+      'Beautiful ocean views',
+      'Great family activity',
+      'Lima\'s iconic surf culture'
+    ],
+    highlightsEs: [
+      'Aprende a surfear con instructores experimentados',
+      'Olas consistentes para principiantes',
+      'Todo el equipo proporcionado',
+      'Hermosas vistas del océano',
+      'Gran actividad familiar',
+      'Cultura de surf icónica de Lima'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '2 hours',
+    durationEs: '2 horas',
+    difficulty: 'moderate',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. Summer (Dec-Mar) has warmer water. Morning lessons have calmer conditions.',
+    bestTimeEs: 'Todo el año. Verano (dic-mar) tiene agua más cálida. Lecciones matutinas tienen condiciones más tranquilas.',
+    includes: [
+      'Surfboard rental',
+      'Wetsuit',
+      'Professional instructor',
+      'Beach instruction',
+      'Water instruction',
+      'Safety briefing'
+    ],
+    includesEs: [
+      'Alquiler de tabla de surf',
+      'Traje de neopreno',
+      'Instructor profesional',
+      'Instrucción en playa',
+      'Instrucción en agua',
+      'Sesión de seguridad'
+    ],
+    tips: [
+      'Book morning lessons for calmer waves',
+      'Apply sunscreen before lesson',
+      'Eat light breakfast beforehand',
+      'Miraflores has best beginner spots',
+      'Water is cool - wetsuit essential',
+      'Most people stand up first lesson!'
+    ],
+    tipsEs: [
+      'Reserva lecciones matutinas para olas más tranquilas',
+      'Aplica protector solar antes de la lección',
+      'Come un desayuno ligero antes',
+      'Miraflores tiene los mejores spots para principiantes',
+      'El agua es fría - traje de neopreno esencial',
+      '¡La mayoría se para en la primera lección!'
+    ],
+    safetyNotes: [
+      'Swimming ability required',
+      'Instructor stays close in water',
+      'Soft-top beginner boards used',
+      'Beach has lifeguards',
+      'Current awareness taught'
+    ],
+    safetyNotesEs: [
+      'Se requiere saber nadar',
+      'El instructor se mantiene cerca en el agua',
+      'Se usan tablas de principiante con punta suave',
+      'La playa tiene salvavidas',
+      'Se enseña conciencia de corrientes'
+    ],
+    relatedActivities: ['paddleboarding-lima', 'paragliding-miraflores', 'lima-bike-tour'],
+    providers: [
+      { name: 'Pukana Surf', familyFriendly: true },
+      { name: 'Peru Surf Guides', familyFriendly: true },
+      { name: 'Focus Surf School', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pottery-class-cusco',
+    name: 'Traditional Pottery Class',
+    nameEs: 'Clase de Cerámica Tradicional',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Create your own ceramic art using techniques passed down from Inca times. Family-friendly pottery workshops teach traditional Andean pottery methods, from hand-building to painting with natural pigments.',
+    descriptionEs: 'Crea tu propio arte cerámico usando técnicas transmitidas desde tiempos Incas. Talleres de cerámica familiares enseñan métodos tradicionales de cerámica andina, desde construcción a mano hasta pintura con pigmentos naturales.',
+    whatToExpect: 'Learn about Inca and pre-Inca pottery traditions. Work with clay to create your own pieces - bowls, cups, or decorative items. Paint with natural earth pigments. Finished pieces can be taken home (some workshops fire and ship).',
+    whatToExpectEs: 'Aprende sobre las tradiciones de cerámica Inca y pre-Inca. Trabaja con arcilla para crear tus propias piezas - tazones, tazas u objetos decorativos. Pinta con pigmentos naturales de tierra. Las piezas terminadas se pueden llevar a casa (algunos talleres hornean y envían).',
+    highlights: [
+      'Hands-on creative activity',
+      'Learn ancient techniques',
+      'Create your own souvenirs',
+      'Work with natural materials',
+      'Great for all ages',
+      'Support local artisans'
+    ],
+    highlightsEs: [
+      'Actividad creativa práctica',
+      'Aprende técnicas antiguas',
+      'Crea tus propios recuerdos',
+      'Trabaja con materiales naturales',
+      'Genial para todas las edades',
+      'Apoya a artesanos locales'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Year-round indoor activity. Great for rainy days.',
+    bestTimeEs: 'Actividad interior todo el año. Genial para días lluviosos.',
+    includes: [
+      'All materials and clay',
+      'Expert instruction',
+      'Your finished piece',
+      'History and cultural context',
+      'Aprons provided',
+      'Snacks (some workshops)'
+    ],
+    includesEs: [
+      'Todos los materiales y arcilla',
+      'Instrucción experta',
+      'Tu pieza terminada',
+      'Historia y contexto cultural',
+      'Delantales proporcionados',
+      'Snacks (algunos talleres)'
+    ],
+    tips: [
+      'Wear clothes that can get dirty',
+      'Book ahead during peak season',
+      'Kids love this creative activity',
+      'Ask about shipping fired pieces',
+      'Perfect rainy day activity',
+      'Buy authentic ceramics at workshop'
+    ],
+    tipsEs: [
+      'Usa ropa que pueda ensuciarse',
+      'Reserva con anticipación en temporada alta',
+      'A los niños les encanta esta actividad creativa',
+      'Pregunta sobre envío de piezas horneadas',
+      'Perfecta actividad para días lluviosos',
+      'Compra cerámicas auténticas en el taller'
+    ],
+    safetyNotes: [
+      'Non-toxic natural materials',
+      'Supervised activity',
+      'Suitable for young children',
+      'No sharp tools used',
+      'Clean water for washing hands'
+    ],
+    safetyNotesEs: [
+      'Materiales naturales no tóxicos',
+      'Actividad supervisada',
+      'Adecuada para niños pequeños',
+      'No se usan herramientas afiladas',
+      'Agua limpia para lavarse las manos'
+    ],
+    relatedActivities: ['textile-weaving-workshop', 'kids-cooking-class', 'chocolate-making'],
+    providers: [
+      { name: 'Cusco Ceramic Studio', familyFriendly: true },
+      { name: 'Pablo Seminario Ceramics', familyFriendly: true },
+      { name: 'Taller de Ceramica Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'weaving-workshop-chinchero',
+    name: 'Traditional Weaving Workshop in Chinchero',
+    nameEs: 'Taller de Tejido Tradicional en Chinchero',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn ancestral Andean weaving techniques from master weavers in the highland village of Chinchero. Watch demonstrations of natural dyeing, spinning, and backstrap loom weaving, then try your hand at this ancient art.',
+    descriptionEs: 'Aprende técnicas ancestrales de tejido andino de tejedoras maestras en el pueblo de montaña de Chinchero. Observa demostraciones de teñido natural, hilado y tejido en telar de cintura, luego prueba este arte antiguo.',
+    whatToExpect: 'Visit a weaving cooperative in Chinchero. Watch wool being cleaned, spun, dyed with natural plants, and woven on traditional looms. Try weaving simple patterns yourself. Learn about the symbolism in Andean textiles.',
+    whatToExpectEs: 'Visita una cooperativa de tejido en Chinchero. Observa la lana siendo limpiada, hilada, teñida con plantas naturales, y tejida en telares tradicionales. Prueba tejer patrones simples tú mismo. Aprende sobre el simbolismo en los textiles andinos.',
+    highlights: [
+      'Meet master weavers',
+      'Learn natural dyeing',
+      'Try backstrap loom weaving',
+      'See alpaca and sheep wool processed',
+      'Understand textile symbolism',
+      'Support indigenous women\'s cooperatives'
+    ],
+    highlightsEs: [
+      'Conoce tejedoras maestras',
+      'Aprende teñido natural',
+      'Prueba el tejido en telar de cintura',
+      'Observa el procesamiento de lana de alpaca y oveja',
+      'Entiende el simbolismo textil',
+      'Apoya cooperativas de mujeres indígenas'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: '$10-25 per person (varies if part of tour)',
+    priceRangeEs: '$10-25 por persona (varía si es parte de tour)',
+    bestTime: 'Year-round. Often combined with Sacred Valley tour.',
+    bestTimeEs: 'Todo el año. A menudo combinado con tour del Valle Sagrado.',
+    includes: [
+      'Weaving demonstration',
+      'Natural dyeing demonstration',
+      'Hands-on weaving experience',
+      'Cultural explanation',
+      'Often includes welcome drink',
+      'Option to purchase textiles'
+    ],
+    includesEs: [
+      'Demostración de tejido',
+      'Demostración de teñido natural',
+      'Experiencia práctica de tejido',
+      'Explicación cultural',
+      'A menudo incluye bebida de bienvenida',
+      'Opción de comprar textiles'
+    ],
+    tips: [
+      'Best combined with Chinchero ruins visit',
+      'Textiles here are authentic - not mass produced',
+      'Kids enjoy trying the loom',
+      'Great photos with colorful dyed wool',
+      'Support local women\'s cooperatives',
+      'Ask about meaning of patterns'
+    ],
+    tipsEs: [
+      'Mejor combinado con visita a ruinas de Chinchero',
+      'Los textiles aquí son auténticos - no producidos en masa',
+      'Los niños disfrutan probando el telar',
+      'Grandes fotos con lana teñida colorida',
+      'Apoya cooperativas locales de mujeres',
+      'Pregunta sobre el significado de los patrones'
+    ],
+    safetyNotes: [
+      'Indoor/outdoor activity',
+      'No dangerous materials',
+      'Gentle activity for all ages',
+      'Short drive from Cusco',
+      'Altitude may affect some visitors'
+    ],
+    safetyNotesEs: [
+      'Actividad interior/exterior',
+      'Sin materiales peligrosos',
+      'Actividad gentil para todas las edades',
+      'Corto viaje desde Cusco',
+      'La altitud puede afectar a algunos visitantes'
+    ],
+    relatedActivities: ['alpaca-farm-visit', 'pottery-class-cusco', 'sacred-valley-tour'],
+    providers: [
+      { name: 'Chinchero Weaving Cooperative', familyFriendly: true },
+      { name: 'Centro de Textiles Tradicionales del Cusco', familyFriendly: true },
+      { name: 'Away Nina Weavers', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'horseback-riding-sacred-valley',
+    name: 'Horseback Riding in Sacred Valley',
+    nameEs: 'Cabalgata en el Valle Sagrado',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the stunning Sacred Valley on horseback, riding gentle Peruvian Paso horses through ancient landscapes. Routes pass Inca ruins, traditional villages, and scenic viewpoints, offering a unique perspective on the valley below.',
+    descriptionEs: 'Explora el impresionante Valle Sagrado a caballo, montando gentiles caballos de Paso Peruano a través de paisajes antiguos. Las rutas pasan por ruinas Incas, pueblos tradicionales y miradores escénicos, ofreciendo una perspectiva única del valle abajo.',
+    whatToExpect: 'After safety briefing and matching with suitable horses, ride through the valley with experienced guides. Routes range from beginner-friendly to more challenging terrain. Peruvian Paso horses are known for their smooth gait.',
+    whatToExpectEs: 'Después de la sesión de seguridad y asignación de caballos adecuados, cabalga por el valle con guías experimentados. Las rutas van desde terreno para principiantes hasta más desafiante. Los caballos de Paso Peruano son conocidos por su andar suave.',
+    highlights: [
+      'Ride smooth Peruvian Paso horses',
+      'Scenic Sacred Valley views',
+      'Pass by Inca ruins',
+      'Visit local villages',
+      'Suitable for beginners',
+      'Family-friendly adventure'
+    ],
+    highlightsEs: [
+      'Monta suaves caballos de Paso Peruano',
+      'Vistas escénicas del Valle Sagrado',
+      'Pasa por ruinas Incas',
+      'Visita pueblos locales',
+      'Apto para principiantes',
+      'Aventura familiar'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-4 hours',
+    durationEs: '2-4 horas',
+    difficulty: 'moderate',
+    priceRange: '$50-120 per person',
+    priceRangeEs: '$50-120 por persona',
+    bestTime: 'Dry season (May-October) best. Morning rides avoid afternoon rain.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) mejor. Cabalgatas matutinas evitan lluvia de la tarde.',
+    includes: [
+      'Well-trained horse',
+      'Helmets',
+      'Experienced guide',
+      'Safety briefing',
+      'Snacks and water',
+      'Transportation (some tours)'
+    ],
+    includesEs: [
+      'Caballo bien entrenado',
+      'Cascos',
+      'Guía experimentado',
+      'Sesión de seguridad',
+      'Snacks y agua',
+      'Transporte (algunos tours)'
+    ],
+    tips: [
+      'No experience necessary',
+      'Wear long pants and closed shoes',
+      'Bring sunscreen and hat',
+      'Peruvian Pasos have a smooth gait',
+      'Book morning to avoid rain',
+      'Request ponies for young children'
+    ],
+    tipsEs: [
+      'No se necesita experiencia',
+      'Usa pantalones largos y zapatos cerrados',
+      'Trae protector solar y sombrero',
+      'Los Pasos Peruanos tienen un andar suave',
+      'Reserva en la mañana para evitar lluvia',
+      'Solicita ponis para niños pequeños'
+    ],
+    safetyNotes: [
+      'Helmets required for all riders',
+      'Horses are gentle and well-trained',
+      'Guides stay close at all times',
+      'Weight limits may apply',
+      'Altitude may affect endurance'
+    ],
+    safetyNotesEs: [
+      'Cascos requeridos para todos los jinetes',
+      'Los caballos son gentiles y bien entrenados',
+      'Los guías se mantienen cerca en todo momento',
+      'Pueden aplicar límites de peso',
+      'La altitud puede afectar la resistencia'
+    ],
+    relatedActivities: ['llama-trekking-cusco', 'sacred-valley-tour', 'mountain-biking-sacred-valley'],
+    providers: [
+      { name: 'Sol y Luna Stables', familyFriendly: true },
+      { name: 'Perol Chico Horse Ranch', familyFriendly: true },
+      { name: 'Sacred Valley Horses', familyFriendly: true }
+    ]
   }
 ];
 
