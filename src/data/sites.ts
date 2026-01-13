@@ -8654,6 +8654,286 @@ export const sites: Site[] = [
       'Vendedores de artesanías',
       'Áreas de observación con sombra'
     ]
+  },
+  {
+    slug: 'huaca-de-la-luna',
+    name: 'Huaca de la Luna',
+    nameEs: 'Huaca de la Luna',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    altitude: 45,
+    description: 'The Temple of the Moon is one of the most important Moche archaeological sites, famous for its remarkably preserved polychrome murals depicting the fierce deity Ai Apaec. Unlike neighboring Huaca del Sol, this temple has been extensively excavated, revealing five superimposed temples built over 600 years. Children are amazed by the colorful murals showing warriors, prisoners, and mythological creatures that have retained their vivid reds, yellows, and blacks after 1,500 years.',
+    descriptionEs: 'El Templo de la Luna es uno de los sitios arqueológicos Moche más importantes, famoso por sus murales policromados notablemente preservados que representan al feroz dios Ai Apaec. A diferencia de la vecina Huaca del Sol, este templo ha sido extensamente excavado, revelando cinco templos superpuestos construidos durante 600 años. Los niños quedan asombrados por los coloridos murales que muestran guerreros, prisioneros y criaturas mitológicas que han conservado sus vívidos rojos, amarillos y negros después de 1,500 años.',
+    history: 'The Huaca de la Luna was built by the Moche civilization between 100-800 AD as a ceremonial and religious center. Archaeological evidence shows it was primarily used for rituals, including human sacrifice during El Niño events. The temple was continually rebuilt, with each new structure covering the previous one, preserving the murals beneath. The site was abandoned around 850 AD and rediscovered in the 20th century. Ongoing excavations continue to reveal new discoveries.',
+    historyEs: 'La Huaca de la Luna fue construida por la civilización Moche entre el 100-800 d.C. como centro ceremonial y religioso. La evidencia arqueológica muestra que fue utilizada principalmente para rituales, incluyendo sacrificios humanos durante eventos de El Niño. El templo fue continuamente reconstruido, con cada nueva estructura cubriendo la anterior, preservando los murales debajo. El sitio fue abandonado alrededor del 850 d.C. y redescubierto en el siglo XX. Las excavaciones continuas siguen revelando nuevos descubrimientos.',
+    highlights: [
+      'Vivid polychrome murals of deity Ai Apaec',
+      'Five superimposed temple structures',
+      'Views of Huaca del Sol pyramid',
+      'Excellent on-site museum',
+      'Active archaeological excavation'
+    ],
+    highlightsEs: [
+      'Vívidos murales policromados del dios Ai Apaec',
+      'Cinco estructuras de templo superpuestas',
+      'Vistas de la pirámide Huaca del Sol',
+      'Excelente museo en el sitio',
+      'Excavación arqueológica activa'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '15 soles adults, 5 soles children (includes museum)',
+    entranceFeeEs: '15 soles adultos, 5 soles niños (incluye museo)',
+    bestTime: 'Morning visits before the afternoon heat. Year-round destination.',
+    bestTimeEs: 'Visitas matutinas antes del calor de la tarde. Destino de todo el año.',
+    tips: [
+      'Guided tours are mandatory and included in price',
+      'Visit the museum before or after the temple',
+      'Bring sunscreen and a hat - limited shade',
+      'Photography allowed without flash',
+      'Combine with Chan Chan for a full day'
+    ],
+    tipsEs: [
+      'Los tours guiados son obligatorios e incluidos en el precio',
+      'Visita el museo antes o después del templo',
+      'Trae protector solar y sombrero - sombra limitada',
+      'Fotografía permitida sin flash',
+      'Combina con Chan Chan para un día completo'
+    ],
+    nearbyAttractions: ['Huaca del Sol', 'Chan Chan', 'Trujillo Historic Center', 'Huanchaco Beach'],
+    relatedSites: ['chan-chan', 'sipan-royal-tombs-museum', 'tucume'],
+    gettingThere: 'Located 8km south of Trujillo city center. Taxis cost about 15-20 soles. Colectivos run from Trujillo center. Most tours include transportation.',
+    gettingThereEs: 'Ubicado a 8km al sur del centro de Trujillo. Los taxis cuestan aproximadamente 15-20 soles. Los colectivos salen del centro de Trujillo. La mayoría de los tours incluyen transporte.',
+    facilities: [
+      'Excellent on-site museum',
+      'Gift shop',
+      'Clean restrooms',
+      'Parking area',
+      'Covered rest areas',
+      'Bilingual guides'
+    ],
+    facilitiesEs: [
+      'Excelente museo en el sitio',
+      'Tienda de regalos',
+      'Baños limpios',
+      'Área de estacionamiento',
+      'Áreas de descanso cubiertas',
+      'Guías bilingües'
+    ]
+  },
+  {
+    slug: 'pikillacta',
+    name: 'Pikillacta',
+    nameEs: 'Pikillacta',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3250,
+    description: 'Pikillacta is an impressive pre-Inca city built by the Wari Empire around 600-1000 AD, making it older than any Inca site in the region. This vast complex of over 700 buildings spread across 50 hectares features remarkably uniform architecture with high walls and perfectly planned streets. Unlike Inca sites, Pikillacta has no precisely fitted stonework, instead using rough-cut stones covered in plaster. For families interested in pre-Inca cultures, this site offers a fascinating contrast to nearby Inca ruins.',
+    descriptionEs: 'Pikillacta es una impresionante ciudad pre-Inca construida por el Imperio Wari alrededor del 600-1000 d.C., haciéndola más antigua que cualquier sitio Inca en la región. Este vasto complejo de más de 700 edificios distribuidos en 50 hectáreas presenta arquitectura notablemente uniforme con muros altos y calles perfectamente planificadas. A diferencia de los sitios Incas, Pikillacta no tiene mampostería precisamente ajustada, sino piedras toscamente cortadas cubiertas de yeso. Para familias interesadas en culturas pre-Incas, este sitio ofrece un contraste fascinante con las ruinas Incas cercanas.',
+    history: 'The Wari Empire, based in Ayacucho, built Pikillacta as an administrative and military center to control the Cusco region from approximately 550-1100 AD. The city could house up to 10,000 people and served as a major hub on the Wari road network. When the Wari Empire collapsed around 1100 AD, the site was abandoned. The Incas later used parts of it but never rebuilt it. The name means "City of the Fleas" in Quechua, though its original Wari name is unknown.',
+    historyEs: 'El Imperio Wari, con sede en Ayacucho, construyó Pikillacta como centro administrativo y militar para controlar la región de Cusco aproximadamente entre el 550-1100 d.C. La ciudad podía albergar hasta 10,000 personas y servía como un importante centro en la red de caminos Wari. Cuando el Imperio Wari colapsó alrededor del 1100 d.C., el sitio fue abandonado. Los Incas luego usaron partes de él pero nunca lo reconstruyeron. El nombre significa "Ciudad de las Pulgas" en quechua, aunque su nombre Wari original es desconocido.',
+    highlights: [
+      'Pre-Inca Wari architecture predating the Incas',
+      'Over 700 buildings across 50 hectares',
+      'High defensive walls up to 12 meters',
+      'Perfectly planned grid street layout',
+      'Lake Huacarpay views nearby'
+    ],
+    highlightsEs: [
+      'Arquitectura Wari pre-Inca anterior a los Incas',
+      'Más de 700 edificios en 50 hectáreas',
+      'Altos muros defensivos de hasta 12 metros',
+      'Diseño de calles en cuadrícula perfectamente planificado',
+      'Vistas del Lago Huacarpay cercano'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Morning visits recommended. Dry season (May-October) offers best weather.',
+    bestTimeEs: 'Se recomiendan visitas matutinas. La temporada seca (mayo-octubre) ofrece mejor clima.',
+    tips: [
+      'Combine with Tipón and Andahuaylillas on the "South Valley Tour"',
+      'Less crowded than Sacred Valley sites',
+      'Bring water - no vendors inside',
+      'A guide helps explain the Wari history',
+      'Good for families wanting variety from Inca sites'
+    ],
+    tipsEs: [
+      'Combina con Tipón y Andahuaylillas en el "Tour del Valle Sur"',
+      'Menos concurrido que los sitios del Valle Sagrado',
+      'Trae agua - no hay vendedores adentro',
+      'Un guía ayuda a explicar la historia Wari',
+      'Bueno para familias que quieren variedad de los sitios Incas'
+    ],
+    nearbyAttractions: ['Tipón', 'Andahuaylillas', 'Lake Huacarpay', 'Rumiqolqa'],
+    relatedSites: ['tipon', 'andahuaylillas-church', 'sacsayhuaman'],
+    gettingThere: 'Located 32km southeast of Cusco on the road to Puno. Most visitors come on organized "South Valley" tours. Colectivos to Urcos pass by the site.',
+    gettingThereEs: 'Ubicado a 32km al sureste de Cusco en la carretera a Puno. La mayoría de visitantes vienen en tours organizados del "Valle Sur". Los colectivos a Urcos pasan por el sitio.',
+    facilities: [
+      'Small parking area',
+      'Basic restrooms at entrance',
+      'Information panels',
+      'Local guides available',
+      'Artisan vendors outside'
+    ],
+    facilitiesEs: [
+      'Pequeña área de estacionamiento',
+      'Baños básicos en la entrada',
+      'Paneles informativos',
+      'Guías locales disponibles',
+      'Vendedores artesanales afuera'
+    ]
+  },
+  {
+    slug: 'laguna-69',
+    name: 'Laguna 69',
+    nameEs: 'Laguna 69',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 4600,
+    description: 'Laguna 69 is one of Peru\'s most spectacular high-altitude lakes, a stunning turquoise jewel nestled beneath the snow-capped peak of Chacraraju in Huascarán National Park. The challenging but rewarding 14km round-trip hike takes you through diverse Andean ecosystems, from queñual forests to alpine meadows and glacial moraines. The lake\'s intense blue-green color, caused by glacial minerals, creates an unforgettable sight. This is an adventure for active families with older children who are well-acclimatized.',
+    descriptionEs: 'Laguna 69 es uno de los lagos de gran altitud más espectaculares del Perú, una impresionante joya turquesa ubicada bajo el pico nevado de Chacraraju en el Parque Nacional Huascarán. La desafiante pero gratificante caminata de 14km ida y vuelta te lleva a través de diversos ecosistemas andinos, desde bosques de queñual hasta praderas alpinas y morrenas glaciares. El intenso color azul-verde del lago, causado por minerales glaciares, crea una vista inolvidable. Esta es una aventura para familias activas con niños mayores bien aclimatados.',
+    history: 'Laguna 69 is named for its number in the official Peruvian glacial lake inventory. The lake was formed by glacial retreat and is fed by meltwater from Chacraraju glacier. Huascarán National Park, which protects the lake, was established in 1975 and declared a UNESCO World Heritage Site in 1985. The park contains 663 glaciers, 296 lakes, and 41 rivers. Climate change is affecting the glaciers, making visits to these pristine lakes increasingly precious.',
+    historyEs: 'Laguna 69 recibe su nombre por su número en el inventario oficial de lagos glaciares peruanos. El lago se formó por el retroceso glaciar y es alimentado por agua de deshielo del glaciar Chacraraju. El Parque Nacional Huascarán, que protege el lago, fue establecido en 1975 y declarado Patrimonio de la Humanidad por UNESCO en 1985. El parque contiene 663 glaciares, 296 lagos y 41 ríos. El cambio climático está afectando los glaciares, haciendo las visitas a estos lagos prístinos cada vez más preciosas.',
+    highlights: [
+      'Stunning turquoise glacial lake',
+      'Views of Chacraraju peak (6,112m)',
+      'Diverse Andean ecosystems on the trail',
+      'Pristine high-altitude wilderness',
+      'One of Peru\'s most photogenic locations'
+    ],
+    highlightsEs: [
+      'Impresionante lago glaciar turquesa',
+      'Vistas del pico Chacraraju (6,112m)',
+      'Diversos ecosistemas andinos en el sendero',
+      'Naturaleza prístina de gran altitud',
+      'Una de las ubicaciones más fotogénicas del Perú'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: 'Full day (7-9 hours including transport)',
+    durationEs: 'Día completo (7-9 horas incluyendo transporte)',
+    difficulty: 'challenging',
+    entranceFee: 'Park entrance: 30 soles adults, 15 soles children',
+    entranceFeeEs: 'Entrada al parque: 30 soles adultos, 15 soles niños',
+    bestTime: 'Dry season (May-September) is essential. Start early to avoid afternoon clouds.',
+    bestTimeEs: 'La temporada seca (mayo-septiembre) es esencial. Comienza temprano para evitar las nubes de la tarde.',
+    tips: [
+      'Acclimatize in Huaraz for at least 3 days before attempting',
+      'Bring layers, rain gear, sunscreen, and plenty of water',
+      'Start very early (5am departure from Huaraz)',
+      'The final steep section is the hardest - take it slow',
+      'Not recommended for children under 10 or those not fully acclimatized'
+    ],
+    tipsEs: [
+      'Aclimátate en Huaraz por al menos 3 días antes de intentarlo',
+      'Trae capas, ropa de lluvia, protector solar y mucha agua',
+      'Comienza muy temprano (salida a las 5am desde Huaraz)',
+      'La sección final empinada es la más difícil - ve despacio',
+      'No recomendado para niños menores de 10 años o quienes no estén completamente aclimatados'
+    ],
+    nearbyAttractions: ['Llanganuco Lakes', 'Pastoruri Glacier', 'Huascarán National Park', 'Chavín de Huántar'],
+    relatedSites: ['llanganuco-lakes', 'huascaran-national-park', 'pastoruri-glacier'],
+    gettingThere: 'Trailhead is at Cebollapampa, 3 hours from Huaraz via Yungay. Most visitors join organized day tours that include transportation. The drive passes through the Llanganuco valley.',
+    gettingThereEs: 'El inicio del sendero está en Cebollapampa, a 3 horas de Huaraz vía Yungay. La mayoría de visitantes se unen a tours organizados de día que incluyen transporte. El viaje pasa por el valle de Llanganuco.',
+    facilities: [
+      'Basic restrooms at trailhead',
+      'No facilities at the lake',
+      'Park entrance station',
+      'Some food vendors at Cebollapampa',
+      'Emergency services limited'
+    ],
+    facilitiesEs: [
+      'Baños básicos en el inicio del sendero',
+      'Sin instalaciones en el lago',
+      'Estación de entrada al parque',
+      'Algunos vendedores de comida en Cebollapampa',
+      'Servicios de emergencia limitados'
+    ]
+  },
+  {
+    slug: 'chavin-de-huantar',
+    name: 'Chavín de Huántar',
+    nameEs: 'Chavín de Huántar',
+    type: 'archaeological',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 3177,
+    description: 'Chavín de Huántar is one of Peru\'s most important archaeological sites, a UNESCO World Heritage Site that served as the spiritual center of the Chavín culture from 1500-300 BC. The site features remarkable underground galleries, mysterious carvings, and the famous Lanzón monolith - a 4.5-meter granite sculpture still standing in its original underground chamber. For families, exploring the dark passages with flashlights and discovering ancient carvings creates an unforgettable Indiana Jones-style adventure.',
+    descriptionEs: 'Chavín de Huántar es uno de los sitios arqueológicos más importantes del Perú, un Patrimonio de la Humanidad UNESCO que sirvió como centro espiritual de la cultura Chavín del 1500-300 a.C. El sitio presenta notables galerías subterráneas, misteriosos grabados y el famoso monolito Lanzón - una escultura de granito de 4.5 metros que todavía está de pie en su cámara subterránea original. Para las familias, explorar los pasajes oscuros con linternas y descubrir grabados antiguos crea una aventura inolvidable estilo Indiana Jones.',
+    history: 'The Chavín culture flourished from approximately 900-200 BC, with Chavín de Huántar serving as their principal ceremonial center. The site was a pilgrimage destination where priests used the underground galleries and acoustic effects to perform rituals. The Lanzón monolith, depicting a supernatural being with fangs and serpent hair, was the cult\'s main deity. The site was largely abandoned by 200 BC and remained hidden until its rediscovery in the 16th century. Major excavations began in the early 20th century.',
+    historyEs: 'La cultura Chavín floreció aproximadamente del 900-200 a.C., con Chavín de Huántar sirviendo como su principal centro ceremonial. El sitio era un destino de peregrinación donde los sacerdotes usaban las galerías subterráneas y efectos acústicos para realizar rituales. El monolito Lanzón, representando un ser sobrenatural con colmillos y cabello de serpiente, era la deidad principal del culto. El sitio fue en gran parte abandonado hacia el 200 a.C. y permaneció oculto hasta su redescubrimiento en el siglo XVI. Las excavaciones importantes comenzaron a principios del siglo XX.',
+    highlights: [
+      'Underground galleries and passageways',
+      'The Lanzón monolith in its original chamber',
+      'Intricate stone carvings and tenon heads',
+      'UNESCO World Heritage Site',
+      'Excellent on-site museum'
+    ],
+    highlightsEs: [
+      'Galerías y pasajes subterráneos',
+      'El monolito Lanzón en su cámara original',
+      'Intrincados grabados en piedra y cabezas clavas',
+      'Patrimonio de la Humanidad UNESCO',
+      'Excelente museo en el sitio'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    entranceFee: '15 soles adults, 5 soles children (includes museum)',
+    entranceFeeEs: '15 soles adultos, 5 soles niños (incluye museo)',
+    bestTime: 'Dry season (May-October). Morning visits allow time to explore both site and museum.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Las visitas matutinas permiten tiempo para explorar el sitio y el museo.',
+    tips: [
+      'Bring a flashlight for the underground galleries',
+      'The tunnels can feel claustrophobic - prepare children',
+      'Visit the museum first to understand what you\'ll see',
+      'Lower altitude than Huaraz makes breathing easier',
+      'Combine with a scenic drive through Huascarán National Park'
+    ],
+    tipsEs: [
+      'Trae una linterna para las galerías subterráneas',
+      'Los túneles pueden sentirse claustrofóbicos - prepara a los niños',
+      'Visita el museo primero para entender lo que verás',
+      'La altitud más baja que Huaraz hace la respiración más fácil',
+      'Combina con un viaje escénico por el Parque Nacional Huascarán'
+    ],
+    nearbyAttractions: ['Huascarán National Park', 'Querococha Lake', 'Huaraz', 'Recuay'],
+    relatedSites: ['llanganuco-lakes', 'laguna-69', 'sechin'],
+    gettingThere: 'Located 110km from Huaraz (about 3 hours drive). Most visitors join day tours from Huaraz. The scenic route passes through the Kawish tunnel and Querococha Lake.',
+    gettingThereEs: 'Ubicado a 110km de Huaraz (aproximadamente 3 horas de viaje). La mayoría de visitantes se unen a tours de día desde Huaraz. La ruta escénica pasa por el túnel Kawish y el Lago Querococha.',
+    facilities: [
+      'Modern museum with artifacts',
+      'Clean restrooms',
+      'Parking area',
+      'Information center',
+      'Local guides available',
+      'Small cafeteria nearby'
+    ],
+    facilitiesEs: [
+      'Museo moderno con artefactos',
+      'Baños limpios',
+      'Área de estacionamiento',
+      'Centro de información',
+      'Guías locales disponibles',
+      'Pequeña cafetería cercana'
+    ]
   }
 ];
 

@@ -9727,6 +9727,340 @@ export const activities: Activity[] = [
       { name: 'Imperio Tours', familyFriendly: true },
       { name: 'Cumbe Mayo Travel', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'huacas-moche-tour',
+    name: 'Huacas del Sol y la Luna Tour',
+    nameEs: 'Tour Huacas del Sol y la Luna',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Discover the spectacular Moche temples on this half-day tour to Huaca de la Luna, where remarkably preserved polychrome murals depict the fierce deity Ai Apaec. Explore five superimposed temples built over 600 years, see views of the massive Huaca del Sol pyramid, and visit the excellent on-site museum. This tour brings to life one of Peru\'s most sophisticated pre-Columbian civilizations through their stunning religious artwork and architecture.',
+    descriptionEs: 'Descubre los espectaculares templos Moche en este tour de medio día a la Huaca de la Luna, donde murales policromados notablemente preservados representan al feroz dios Ai Apaec. Explora cinco templos superpuestos construidos durante 600 años, ve vistas de la masiva pirámide Huaca del Sol y visita el excelente museo del sitio. Este tour da vida a una de las civilizaciones precolombinas más sofisticadas del Perú a través de su impresionante arte religioso y arquitectura.',
+    whatToExpect: 'Hotel pickup in Trujillo followed by a short drive to the archaeological complex. Mandatory guided tour of Huaca de la Luna reveals colorful murals and explains Moche rituals. Visit the modern museum with artifacts and reconstructions. View the massive Huaca del Sol from a distance. Return to hotel or continue to Huanchaco Beach.',
+    whatToExpectEs: 'Recojo del hotel en Trujillo seguido de un corto viaje al complejo arqueológico. Tour guiado obligatorio de la Huaca de la Luna revela murales coloridos y explica los rituales Moche. Visita el museo moderno con artefactos y reconstrucciones. Ve la masiva Huaca del Sol desde la distancia. Retorno al hotel o continúa a la Playa Huanchaco.',
+    highlights: [
+      'Vivid 1,500-year-old polychrome murals',
+      'Expert guide explaining Moche civilization',
+      'Five superimposed temple structures',
+      'Excellent on-site museum',
+      'Views of Huaca del Sol pyramid'
+    ],
+    highlightsEs: [
+      'Vívidos murales policromados de 1,500 años',
+      'Guía experto explicando la civilización Moche',
+      'Cinco estructuras de templo superpuestas',
+      'Excelente museo en el sitio',
+      'Vistas de la pirámide Huaca del Sol'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Morning tours avoid the afternoon heat. Year-round destination.',
+    bestTimeEs: 'Tours matutinos evitan el calor de la tarde. Destino de todo el año.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Transportation',
+      'Professional bilingual guide',
+      'Site and museum entrance fees',
+      'Mandatory guided tour'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte',
+      'Guía profesional bilingüe',
+      'Entradas al sitio y museo',
+      'Tour guiado obligatorio'
+    ],
+    tips: [
+      'Photography allowed without flash',
+      'Bring sunscreen and a hat - limited shade',
+      'The murals captivate children with their colors',
+      'Combine with Chan Chan for a full day of archaeology',
+      'End at Huanchaco Beach for seafood lunch'
+    ],
+    tipsEs: [
+      'Fotografía permitida sin flash',
+      'Trae protector solar y sombrero - sombra limitada',
+      'Los murales cautivan a los niños con sus colores',
+      'Combina con Chan Chan para un día completo de arqueología',
+      'Termina en Playa Huanchaco para almuerzo de mariscos'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot climate - stay hydrated',
+      'Wear comfortable walking shoes',
+      'Sun protection essential',
+      'Stay with your guide on marked paths'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima caliente - mantente hidratado',
+      'Usa zapatos cómodos para caminar',
+      'Protección solar esencial',
+      'Permanece con tu guía en senderos marcados'
+    ],
+    relatedActivities: ['trujillo-archaeological-tour', 'huanchaco-beach-day', 'sipan-lord-tour'],
+    providers: [
+      { name: 'Trujillo Tours', familyFriendly: true },
+      { name: 'Moche Tours', familyFriendly: true },
+      { name: 'Colonial Tours Trujillo', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'south-valley-tour',
+    name: 'Cusco South Valley Tour',
+    nameEs: 'Tour Valle Sur de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the lesser-known treasures south of Cusco on this half-day tour featuring Tipón\'s remarkable Inca water gardens, the pre-Inca Wari city of Pikillacta, and the stunning Andahuaylillas church known as the "Sistine Chapel of the Americas." This tour offers a refreshing alternative to the crowded Sacred Valley, with fewer tourists and equally impressive sites spanning Wari, Inca, and colonial periods.',
+    descriptionEs: 'Explora los tesoros menos conocidos al sur de Cusco en este tour de medio día que presenta los notables jardines de agua Inca de Tipón, la ciudad Wari pre-Inca de Pikillacta y la impresionante iglesia de Andahuaylillas conocida como la "Capilla Sixtina de las Américas". Este tour ofrece una alternativa refrescante al concurrido Valle Sagrado, con menos turistas y sitios igualmente impresionantes que abarcan los períodos Wari, Inca y colonial.',
+    whatToExpect: 'Morning hotel pickup followed by drive to Tipón to explore terraced Inca water gardens still functioning after 500 years. Continue to Pikillacta, the vast pre-Inca Wari city with over 700 buildings. End at Andahuaylillas to admire the ornate baroque church interior. Return to Cusco by early afternoon.',
+    whatToExpectEs: 'Recojo matutino del hotel seguido de viaje a Tipón para explorar jardines de agua Inca en terrazas que aún funcionan después de 500 años. Continúa a Pikillacta, la vasta ciudad Wari pre-Inca con más de 700 edificios. Termina en Andahuaylillas para admirar el ornamentado interior barroco de la iglesia. Retorno a Cusco a primera hora de la tarde.',
+    highlights: [
+      'Tipón\'s functioning Inca water channels',
+      'Pre-Inca Wari architecture at Pikillacta',
+      'Andahuaylillas "Sistine Chapel of the Americas"',
+      'Three distinct historical periods in one tour',
+      'Fewer crowds than Sacred Valley'
+    ],
+    highlightsEs: [
+      'Canales de agua Inca funcionando en Tipón',
+      'Arquitectura Wari pre-Inca en Pikillacta',
+      'Andahuaylillas "Capilla Sixtina de las Américas"',
+      'Tres períodos históricos distintos en un tour',
+      'Menos multitudes que el Valle Sagrado'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$35-55 USD per person',
+    priceRangeEs: '$35-55 USD por persona',
+    bestTime: 'Morning tours recommended. Dry season (May-October) for best weather.',
+    bestTimeEs: 'Se recomiendan tours matutinos. Temporada seca (mayo-octubre) para mejor clima.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Entrance fees NOT included (Boleto Turístico + church fee)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional bilingüe',
+      'Entradas NO incluidas (Boleto Turístico + tarifa iglesia)'
+    ],
+    tips: [
+      'Buy the Boleto Turístico for Tipón and Pikillacta',
+      'Church fee (10 soles) paid separately at door',
+      'Great alternative when Sacred Valley feels too crowded',
+      'Explains pre-Inca history often missed by visitors',
+      'Dress modestly for the church visit'
+    ],
+    tipsEs: [
+      'Compra el Boleto Turístico para Tipón y Pikillacta',
+      'Tarifa de iglesia (10 soles) se paga separadamente en la puerta',
+      'Gran alternativa cuando el Valle Sagrado se siente muy concurrido',
+      'Explica historia pre-Inca a menudo perdida por visitantes',
+      'Vístete modestamente para la visita a la iglesia'
+    ],
+    safetyNotes: [
+      'Lower altitude than Cusco (3,100-3,400m)',
+      'Easy walking on mostly flat terrain',
+      'Bring layers - temperatures vary',
+      'Stay on marked paths at archaeological sites',
+      'Church photography may be restricted'
+    ],
+    safetyNotesEs: [
+      'Altitud más baja que Cusco (3,100-3,400m)',
+      'Caminar fácil en terreno mayormente plano',
+      'Trae capas - las temperaturas varían',
+      'Permanece en senderos marcados en sitios arqueológicos',
+      'La fotografía en la iglesia puede estar restringida'
+    ],
+    relatedActivities: ['cusco-archaeological-circuit', 'sacred-valley-tour', 'baroque-route-tour'],
+    providers: [
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Andean Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'laguna-69-trek',
+    name: 'Laguna 69 Day Trek',
+    nameEs: 'Trekking Laguna 69',
+    type: 'adventure',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Challenge yourself with one of Peru\'s most rewarding day hikes to the stunning turquoise waters of Laguna 69. This demanding 14km round-trip trek takes you through Huascarán National Park, climbing from 3,900m to 4,600m beneath the towering peaks of Chacraraju and Huascarán. The reward is one of the most photogenic alpine lakes in South America, its intense blue-green color caused by glacial minerals. This adventure is for fit, acclimatized families with older children.',
+    descriptionEs: 'Desafíate con una de las caminatas de día más gratificantes del Perú hacia las impresionantes aguas turquesas de Laguna 69. Este exigente trekking de 14km ida y vuelta te lleva a través del Parque Nacional Huascarán, subiendo de 3,900m a 4,600m bajo los imponentes picos de Chacraraju y Huascarán. La recompensa es uno de los lagos alpinos más fotogénicos de Sudamérica, su intenso color azul-verde causado por minerales glaciares. Esta aventura es para familias en forma y aclimatadas con niños mayores.',
+    whatToExpect: 'Very early departure from Huaraz (5am) for 3-hour drive through Llanganuco valley. Begin hiking at Cebollapampa (3,900m) through queñual forests, alpine meadows, and rocky moraines. Steep final ascent rewards with breathtaking lake views. Time for photos and snacks at the lake before descending. Return to Huaraz by late afternoon.',
+    whatToExpectEs: 'Salida muy temprana desde Huaraz (5am) para viaje de 3 horas por el valle de Llanganuco. Comienza la caminata en Cebollapampa (3,900m) a través de bosques de queñual, praderas alpinas y morrenas rocosas. La empinada ascensión final recompensa con impresionantes vistas del lago. Tiempo para fotos y bocadillos en el lago antes de descender. Retorno a Huaraz al final de la tarde.',
+    highlights: [
+      'Spectacular turquoise glacial lake',
+      'Views of Chacraraju (6,112m) and Huascarán',
+      'Diverse high-altitude ecosystems',
+      'Challenging but achievable adventure',
+      'One of Peru\'s most iconic treks'
+    ],
+    highlightsEs: [
+      'Espectacular lago glaciar turquesa',
+      'Vistas de Chacraraju (6,112m) y Huascarán',
+      'Diversos ecosistemas de gran altitud',
+      'Aventura desafiante pero alcanzable',
+      'Uno de los trekkings más icónicos del Perú'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: 'Full day (10-12 hours total)',
+    durationEs: 'Día completo (10-12 horas total)',
+    difficulty: 'challenging',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Dry season only (May-September). Clear mornings essential for views.',
+    bestTimeEs: 'Solo temporada seca (mayo-septiembre). Mañanas despejadas esenciales para vistas.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Transportation to trailhead',
+      'Professional guide',
+      'Park entrance fees',
+      'Breakfast and lunch (on most tours)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte al inicio del sendero',
+      'Guía profesional',
+      'Entradas al parque',
+      'Desayuno y almuerzo (en la mayoría de tours)'
+    ],
+    tips: [
+      'Acclimatize in Huaraz for minimum 3 days before attempting',
+      'Bring warm layers, rain gear, sunscreen, and 2+ liters of water',
+      'Trekking poles highly recommended',
+      'Start early - afternoon clouds and weather common',
+      'Not suitable for children under 10 or those not fully acclimatized'
+    ],
+    tipsEs: [
+      'Aclimátate en Huaraz por mínimo 3 días antes de intentarlo',
+      'Trae capas abrigadas, ropa de lluvia, protector solar y 2+ litros de agua',
+      'Bastones de trekking muy recomendados',
+      'Comienza temprano - nubes y clima de tarde común',
+      'No apto para niños menores de 10 años o quienes no estén completamente aclimatados'
+    ],
+    safetyNotes: [
+      'Extreme altitude (4,600m) - acclimatization critical',
+      'Weather changes rapidly - be prepared',
+      'Steep sections require careful footing',
+      'No facilities at the lake - carry everything needed',
+      'Emergency evacuation is difficult - assess fitness honestly'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (4,600m) - aclimatación crítica',
+      'El clima cambia rápidamente - estate preparado',
+      'Secciones empinadas requieren pasos cuidadosos',
+      'Sin instalaciones en el lago - carga todo lo necesario',
+      'La evacuación de emergencia es difícil - evalúa tu estado físico honestamente'
+    ],
+    relatedActivities: ['llanganuco-lakes-tour', 'chavin-tour', 'pastoruri-glacier-tour'],
+    providers: [
+      { name: 'Huaraz Expeditions', familyFriendly: true },
+      { name: 'Cordillera Blanca Adventures', familyFriendly: true },
+      { name: 'Mountain Kingdom Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chavin-tour',
+    name: 'Chavín de Huántar Archaeological Tour',
+    nameEs: 'Tour Arqueológico Chavín de Huántar',
+    type: 'cultural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Journey to one of Peru\'s most mysterious archaeological sites, the UNESCO World Heritage Site of Chavín de Huántar. This full-day tour takes you through stunning mountain scenery to explore underground galleries, see the famous Lanzón monolith in its original chamber, and discover intricate stone carvings from a civilization that predates the Incas by over 2,000 years. The flashlight exploration of dark passages creates an Indiana Jones-style adventure that captivates children and adults alike.',
+    descriptionEs: 'Viaja a uno de los sitios arqueológicos más misteriosos del Perú, el Patrimonio de la Humanidad UNESCO de Chavín de Huántar. Este tour de día completo te lleva a través de impresionantes paisajes de montaña para explorar galerías subterráneas, ver el famoso monolito Lanzón en su cámara original y descubrir intrincados grabados en piedra de una civilización que precede a los Incas por más de 2,000 años. La exploración con linterna de pasajes oscuros crea una aventura estilo Indiana Jones que cautiva a niños y adultos por igual.',
+    whatToExpect: 'Early morning departure from Huaraz for scenic 3-hour drive through Huascarán National Park, passing Querococha Lake and the Kawish tunnel. Explore Chavín\'s underground galleries with flashlights, see the Lanzón monolith, and visit the excellent museum. Lunch in Chavín village before return journey. Arrive back in Huaraz by late afternoon.',
+    whatToExpectEs: 'Salida temprana desde Huaraz para viaje escénico de 3 horas a través del Parque Nacional Huascarán, pasando el Lago Querococha y el túnel Kawish. Explora las galerías subterráneas de Chavín con linternas, ve el monolito Lanzón y visita el excelente museo. Almuerzo en el pueblo de Chavín antes del viaje de regreso. Llegada a Huaraz al final de la tarde.',
+    highlights: [
+      'UNESCO World Heritage archaeological site',
+      'Explore underground galleries with flashlights',
+      'See the Lanzón monolith in original location',
+      'Scenic drive through Huascarán National Park',
+      'Pre-Inca history spanning 3,000 years'
+    ],
+    highlightsEs: [
+      'Sitio arqueológico Patrimonio de la Humanidad UNESCO',
+      'Explora galerías subterráneas con linternas',
+      'Ve el monolito Lanzón en ubicación original',
+      'Viaje escénico a través del Parque Nacional Huascarán',
+      'Historia pre-Inca que abarca 3,000 años'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (9-10 hours)',
+    durationEs: 'Día completo (9-10 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-65 USD per person',
+    priceRangeEs: '$40-65 USD por persona',
+    bestTime: 'Dry season (May-October) for best road conditions and views.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejores condiciones de carretera y vistas.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Transportation through scenic route',
+      'Professional bilingual guide',
+      'Site and museum entrance fees',
+      'Lunch in Chavín (most tours)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte por ruta escénica',
+      'Guía profesional bilingüe',
+      'Entradas al sitio y museo',
+      'Almuerzo en Chavín (mayoría de tours)'
+    ],
+    tips: [
+      'Bring your own flashlight for the tunnels',
+      'Prepare children for dark, narrow passages',
+      'Visit the museum first to understand what you\'ll see',
+      'Lower altitude (3,177m) than Huaraz - easier breathing',
+      'The scenic drive is half the experience'
+    ],
+    tipsEs: [
+      'Trae tu propia linterna para los túneles',
+      'Prepara a los niños para pasajes oscuros y estrechos',
+      'Visita el museo primero para entender lo que verás',
+      'Altitud más baja (3,177m) que Huaraz - respiración más fácil',
+      'El viaje escénico es la mitad de la experiencia'
+    ],
+    safetyNotes: [
+      'Tunnels can feel claustrophobic',
+      'Watch your head in low passages',
+      'Stay with your guide at all times',
+      'Road has some steep sections',
+      'Dress in layers for temperature changes'
+    ],
+    safetyNotesEs: [
+      'Los túneles pueden sentirse claustrofóbicos',
+      'Cuida tu cabeza en pasajes bajos',
+      'Permanece con tu guía en todo momento',
+      'La carretera tiene algunas secciones empinadas',
+      'Vístete en capas para cambios de temperatura'
+    ],
+    relatedActivities: ['laguna-69-trek', 'llanganuco-lakes-tour', 'pastoruri-glacier-tour'],
+    providers: [
+      { name: 'Chavín Tours', familyFriendly: true },
+      { name: 'Huaraz Expeditions', familyFriendly: true },
+      { name: 'Andean Kingdom', familyFriendly: true }
+    ]
   }
 ];
 
