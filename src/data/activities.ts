@@ -8005,6 +8005,352 @@ export const activities: Activity[] = [
       { name: 'Cusco Local Tours', familyFriendly: true },
       { name: 'Andean Pottery Experience', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'nazca-lines-flight',
+    name: 'Nazca Lines Scenic Flight',
+    nameEs: 'Vuelo Escénico sobre Líneas de Nazca',
+    type: 'adventure',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Soar above one of the world\'s greatest archaeological mysteries in a small aircraft. See giant geoglyphs of hummingbirds, monkeys, spiders, and geometric shapes etched into the desert 2,000 years ago by the ancient Nazca civilization.',
+    descriptionEs: 'Vuela sobre uno de los mayores misterios arqueológicos del mundo en una avioneta. Observa geoglifos gigantes de colibríes, monos, arañas y formas geométricas grabadas en el desierto hace 2,000 años por la antigua civilización Nazca.',
+    whatToExpect: 'After a safety briefing at Nazca\'s small airport, board a Cessna aircraft with large windows on both sides. The pilot flies a figure-eight pattern over major figures, banking to give passengers on each side optimal views. Spot the whale, astronaut, hands, tree, and famous hummingbird among dozens of figures. The flight reveals how these massive drawings, some over 200 meters long, could only be planned and appreciated from above.',
+    whatToExpectEs: 'Después de una charla de seguridad en el pequeño aeropuerto de Nazca, aborda una avioneta Cessna con grandes ventanas a ambos lados. El piloto vuela en patrón de ocho sobre las figuras principales, inclinándose para dar a los pasajeros de cada lado vistas óptimas. Observa la ballena, el astronauta, las manos, el árbol y el famoso colibrí entre docenas de figuras. El vuelo revela cómo estos dibujos masivos, algunos de más de 200 metros de largo, solo podían ser planificados y apreciados desde arriba.',
+    highlights: [
+      'See mysterious ancient geoglyphs',
+      'Views of hummingbird, monkey, spider',
+      'UNESCO World Heritage Site from above',
+      'Unique archaeological perspective',
+      'Thrilling small plane experience'
+    ],
+    highlightsEs: [
+      'Ve misteriosos geoglifos antiguos',
+      'Vistas del colibrí, mono, araña',
+      'Sitio Patrimonio UNESCO desde arriba',
+      'Perspectiva arqueológica única',
+      'Emocionante experiencia en avioneta'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '30-35 minutes flight time',
+    durationEs: '30-35 minutos de vuelo',
+    difficulty: 'easy',
+    priceRange: '$80-120 USD per person',
+    priceRangeEs: '$80-120 USD por persona',
+    bestTime: 'Year-round, early morning flights smoothest',
+    bestTimeEs: 'Todo el año, vuelos temprano en la mañana más suaves',
+    includes: [
+      'Round-trip flight over lines',
+      'Bilingual pilot narration',
+      'Certificate of flight',
+      'Airport taxes',
+      'Hotel pickup in Nazca available'
+    ],
+    includesEs: [
+      'Vuelo ida y vuelta sobre las líneas',
+      'Narración del piloto bilingüe',
+      'Certificado de vuelo',
+      'Impuestos de aeropuerto',
+      'Recogida en hotel en Nazca disponible'
+    ],
+    tips: [
+      'Book morning flights for less turbulence',
+      'Eat light breakfast',
+      'Take motion sickness medicine if prone',
+      'Sit on right side going out',
+      'Window seats on both sides',
+      'Bring camera but expect some blur'
+    ],
+    tipsEs: [
+      'Reserva vuelos matutinos para menos turbulencia',
+      'Desayuna ligero',
+      'Toma medicamento para mareos si eres propenso',
+      'Siéntate en el lado derecho a la ida',
+      'Asientos de ventana en ambos lados',
+      'Lleva cámara pero espera algo de desenfoque'
+    ],
+    safetyNotes: [
+      'Only fly with certified operators',
+      'Flight may be bumpy - normal',
+      'Not recommended if severe motion sickness',
+      'Listen to pilot safety instructions',
+      'Seatbelt required throughout'
+    ],
+    safetyNotesEs: [
+      'Solo vuela con operadores certificados',
+      'El vuelo puede ser turbulento - normal',
+      'No recomendado si tienes mareos severos',
+      'Escucha instrucciones de seguridad del piloto',
+      'Cinturón de seguridad requerido durante todo el vuelo'
+    ],
+    relatedActivities: ['huacachina-sandboarding', 'paracas-islands-tour', 'nazca-culture-tour'],
+    providers: [
+      { name: 'Aeroparacas', familyFriendly: true },
+      { name: 'AeroNasca', familyFriendly: true },
+      { name: 'Movil Air', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'baroque-route-tour',
+    name: 'Cusco Baroque Route Tour',
+    nameEs: 'Tour Ruta del Barroco Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover South America\'s finest colonial art on a journey through four spectacular baroque churches in the villages south of Cusco. Each church reveals treasures of gold-leaf altars, murals, and the fascinating blend of indigenous and Spanish religious art.',
+    descriptionEs: 'Descubre el mejor arte colonial de Sudamérica en un recorrido por cuatro espectaculares iglesias barrocas en los pueblos al sur de Cusco. Cada iglesia revela tesoros de altares con pan de oro, murales y la fascinante mezcla de arte religioso indígena y español.',
+    whatToExpect: 'Begin at the San Juan Bautista Church in Huaro with its vivid murals of heaven and hell. Continue to Canincunca\'s intimate chapel before reaching the crown jewel - Andahuaylillas\' "Sistine Chapel of the Americas" with its breathtaking golden interior. End at Checacupe\'s beautiful church. Expert guides explain the iconography, history, and how indigenous artists incorporated Andean symbolism into Catholic imagery.',
+    whatToExpectEs: 'Comienza en la Iglesia de San Juan Bautista en Huaro con sus vívidos murales del cielo y el infierno. Continúa a la íntima capilla de Canincunca antes de llegar a la joya de la corona - la "Capilla Sixtina de las Américas" de Andahuaylillas con su impresionante interior dorado. Termina en la hermosa iglesia de Checacupe. Guías expertos explican la iconografía, historia y cómo los artistas indígenas incorporaron simbolismo andino en imaginería católica.',
+    highlights: [
+      'Four stunning baroque churches',
+      'Sistine Chapel of the Americas',
+      'Colonial art masterpieces',
+      'Gold-leaf altars and murals',
+      'Indigenous-Spanish artistic fusion'
+    ],
+    highlightsEs: [
+      'Cuatro impresionantes iglesias barrocas',
+      'Capilla Sixtina de las Américas',
+      'Obras maestras del arte colonial',
+      'Altares con pan de oro y murales',
+      'Fusión artística indígena-española'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$60-90 per person with transport',
+    priceRangeEs: '$60-90 por persona con transporte',
+    bestTime: 'Year-round, morning tours have best light',
+    bestTimeEs: 'Todo el año, tours matutinos tienen mejor luz',
+    includes: [
+      'Private transportation',
+      'Expert bilingual guide',
+      'All church entrance fees',
+      'Baroque Route ticket',
+      'Snacks or light lunch'
+    ],
+    includesEs: [
+      'Transporte privado',
+      'Guía experto bilingüe',
+      'Todas las entradas a iglesias',
+      'Boleto Ruta del Barroco',
+      'Bocadillos o almuerzo ligero'
+    ],
+    tips: [
+      'No photography inside churches',
+      'Dress respectfully - cover shoulders',
+      'Can combine with Raqchi',
+      'Morning light best for interiors',
+      'Local guides add great context',
+      'Good alternative to crowded sites'
+    ],
+    tipsEs: [
+      'Sin fotografía dentro de las iglesias',
+      'Viste respetuosamente - cubre hombros',
+      'Se puede combinar con Raqchi',
+      'Luz matutina mejor para interiores',
+      'Guías locales añaden gran contexto',
+      'Buena alternativa a sitios concurridos'
+    ],
+    safetyNotes: [
+      'Easy walking on flat surfaces',
+      'Churches can be cold - bring layers',
+      'Some steps at entrances',
+      'Keep voices low inside',
+      'Watch children near altars'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies planas',
+      'Iglesias pueden ser frías - lleva capas',
+      'Algunos escalones en entradas',
+      'Mantén voz baja adentro',
+      'Vigila niños cerca de altares'
+    ],
+    relatedActivities: ['cusco-walking-tour', 'raqchi-pottery-workshop', 'tipon-ruins-visit'],
+    providers: [
+      { name: 'Cusco Baroque Tours', familyFriendly: true },
+      { name: 'Andean Routes', familyFriendly: true },
+      { name: 'Peru Cultural Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pacaya-samiria-expedition',
+    name: 'Pacaya-Samiria Wildlife Expedition',
+    nameEs: 'Expedición de Fauna en Pacaya-Samiria',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Explore Peru\'s largest protected area by boat, kayak, and foot through flooded Amazon forests. Search for pink dolphins, giant otters, and hundreds of bird species while staying with local communities who have called this wilderness home for generations.',
+    descriptionEs: 'Explora el área protegida más grande del Perú en bote, kayak y a pie a través de bosques amazónicos inundados. Busca delfines rosados, nutrias gigantes y cientos de especies de aves mientras te quedas con comunidades locales que han llamado hogar a esta naturaleza por generaciones.',
+    whatToExpect: 'Journey by boat from Iquitos into the reserve, entering a world of flooded forests and mirror-like lakes. Paddle kayaks through submerged trees looking for monkeys, sloths, and macaws. Search for pink dolphins at river confluences and giant otters at oxbow lakes. Night excursions reveal caiman, frogs, and nocturnal creatures. Visit ribereño communities to learn traditional fishing and forest knowledge.',
+    whatToExpectEs: 'Viaja en bote desde Iquitos hacia la reserva, entrando a un mundo de bosques inundados y lagos como espejos. Rema en kayaks entre árboles sumergidos buscando monos, perezosos y guacamayos. Busca delfines rosados en confluencias de ríos y nutrias gigantes en cochas. Excursiones nocturnas revelan caimanes, ranas y criaturas nocturnas. Visita comunidades ribereñas para aprender pesca tradicional y conocimiento del bosque.',
+    highlights: [
+      'Pink river dolphin encounters',
+      'Giant otter family groups',
+      'Flooded forest kayaking',
+      'Community-based ecotourism',
+      'Spectacular bird diversity'
+    ],
+    highlightsEs: [
+      'Encuentros con delfines rosados de río',
+      'Grupos familiares de nutrias gigantes',
+      'Kayak en bosque inundado',
+      'Ecoturismo comunitario',
+      'Espectacular diversidad de aves'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '4-7 days',
+    durationEs: '4-7 días',
+    difficulty: 'moderate',
+    priceRange: '$800-1800 per person all-inclusive',
+    priceRangeEs: '$800-1800 por persona todo incluido',
+    bestTime: 'High water (Feb-May) for kayaking; low water (Jun-Nov) for wildlife',
+    bestTimeEs: 'Agua alta (Feb-May) para kayak; agua baja (Jun-Nov) para fauna',
+    includes: [
+      'All transportation from Iquitos',
+      'Camping or lodge accommodations',
+      'All meals',
+      'Expert naturalist guides',
+      'Kayaks and equipment',
+      'Reserve entrance fees'
+    ],
+    includesEs: [
+      'Todo el transporte desde Iquitos',
+      'Alojamiento en camping o lodge',
+      'Todas las comidas',
+      'Guías naturalistas expertos',
+      'Kayaks y equipo',
+      'Tarifas de entrada a la reserva'
+    ],
+    tips: [
+      'Longer trips maximize wildlife sightings',
+      'Choose community-based operators',
+      'Bring quality binoculars',
+      'Pack light, quick-dry clothing',
+      'Insect repellent essential',
+      'Patience rewarded with rare sightings'
+    ],
+    tipsEs: [
+      'Viajes más largos maximizan avistamientos',
+      'Elige operadores comunitarios',
+      'Lleva binoculares de calidad',
+      'Empaca ropa ligera de secado rápido',
+      'Repelente de insectos esencial',
+      'La paciencia es recompensada con avistamientos raros'
+    ],
+    safetyNotes: [
+      'Remote area - basic medical only',
+      'Life jackets required on boats',
+      'Follow guide instructions always',
+      'Protect from sun and insects',
+      'Drink only purified water'
+    ],
+    safetyNotesEs: [
+      'Área remota - solo atención médica básica',
+      'Chalecos salvavidas requeridos en botes',
+      'Sigue instrucciones del guía siempre',
+      'Protégete del sol e insectos',
+      'Bebe solo agua purificada'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'pink-river-dolphin-watching', 'piranha-fishing'],
+    providers: [
+      { name: 'Pacaya Samiria Amazon Lodge', familyFriendly: true },
+      { name: 'Jungle Experiences', familyFriendly: true },
+      { name: 'Amazonia Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'caral-ancient-civilization-tour',
+    name: 'Caral Ancient Civilization Tour',
+    nameEs: 'Tour Civilización Antigua de Caral',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Step back 5,000 years to the oldest city in the Americas, as old as the Egyptian pyramids. Explore monumental temples, circular plazas, and learn about a sophisticated civilization that developed without war, pottery, or writing.',
+    descriptionEs: 'Retrocede 5,000 años a la ciudad más antigua de las Américas, tan antigua como las pirámides egipcias. Explora templos monumentales, plazas circulares y aprende sobre una civilización sofisticada que se desarrolló sin guerra, cerámica o escritura.',
+    whatToExpect: 'Depart Lima early for the drive through coastal desert and green river valleys to the Supe Valley. Visit the site museum to understand Caral\'s significance before walking among pyramids that predate the Incas by 4,000 years. See the main temple pyramid, sunken circular plazas for ceremonies, residential areas, and learn about their advanced knowledge of astronomy, architecture, and agriculture. The peaceful civilization traded fish for inland goods rather than making war.',
+    whatToExpectEs: 'Parte temprano de Lima para el viaje a través del desierto costero y valles verdes de ríos hacia el Valle de Supe. Visita el museo del sitio para entender la importancia de Caral antes de caminar entre pirámides que preceden a los Incas por 4,000 años. Ve la pirámide del templo principal, plazas circulares hundidas para ceremonias, áreas residenciales y aprende sobre su conocimiento avanzado de astronomía, arquitectura y agricultura. La civilización pacífica comerciaba pescado por bienes del interior en lugar de hacer guerra.',
+    highlights: [
+      'Americas\' oldest known city',
+      'UNESCO World Heritage Site',
+      '5,000-year-old pyramids',
+      'Peaceful civilization story',
+      'On-site museum included'
+    ],
+    highlightsEs: [
+      'Ciudad conocida más antigua de América',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Pirámides de 5,000 años',
+      'Historia de civilización pacífica',
+      'Museo en sitio incluido'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (8-10 hours from Lima)',
+    durationEs: 'Día completo (8-10 horas desde Lima)',
+    difficulty: 'easy',
+    priceRange: '$80-150 per person from Lima',
+    priceRangeEs: '$80-150 por persona desde Lima',
+    bestTime: 'Year-round, avoid midday heat',
+    bestTimeEs: 'Todo el año, evita calor del mediodía',
+    includes: [
+      'Round-trip transportation from Lima',
+      'Professional bilingual guide',
+      'Site and museum entrance',
+      'Lunch at local restaurant',
+      'Water and snacks'
+    ],
+    includesEs: [
+      'Transporte ida y vuelta desde Lima',
+      'Guía profesional bilingüe',
+      'Entrada al sitio y museo',
+      'Almuerzo en restaurante local',
+      'Agua y bocadillos'
+    ],
+    tips: [
+      'Start very early from Lima',
+      'Bring sun protection - little shade',
+      'Comfortable walking shoes essential',
+      'Visit museum first for context',
+      'Can add Supe beach time',
+      'Great educational experience for kids'
+    ],
+    tipsEs: [
+      'Parte muy temprano desde Lima',
+      'Lleva protección solar - poca sombra',
+      'Zapatos cómodos para caminar esenciales',
+      'Visita museo primero para contexto',
+      'Puede añadir tiempo en playa de Supe',
+      'Gran experiencia educativa para niños'
+    ],
+    safetyNotes: [
+      'Sun exposure intense - protect skin',
+      'Bring plenty of water',
+      'Some uneven terrain',
+      'Stay on marked paths',
+      'Long drive - bring entertainment'
+    ],
+    safetyNotesEs: [
+      'Exposición al sol intensa - protege la piel',
+      'Lleva suficiente agua',
+      'Algo de terreno irregular',
+      'Permanece en senderos marcados',
+      'Viaje largo - lleva entretenimiento'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-history-tour', 'huaca-pucllana-night-tour'],
+    providers: [
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Caral Tours', familyFriendly: true },
+      { name: 'Peru Cultural Journeys', familyFriendly: true }
+    ]
   }
 ];
 

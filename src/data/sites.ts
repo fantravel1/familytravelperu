@@ -7206,6 +7206,298 @@ export const sites: Site[] = [
       'Pequeños restaurantes en el pueblo',
       'Estacionamiento disponible'
     ]
+  },
+  {
+    slug: 'andahuaylillas-church',
+    name: 'Andahuaylillas Church',
+    nameEs: 'Iglesia de Andahuaylillas',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3122,
+    description: 'Known as the "Sistine Chapel of the Americas," this modest exterior hides one of South America\'s most stunning colonial church interiors. Baroque murals, gold-leaf altars, and painted ceilings create an unforgettable visual experience.',
+    descriptionEs: 'Conocida como la "Capilla Sixtina de las Américas", este modesto exterior esconde uno de los interiores de iglesia colonial más impresionantes de Sudamérica. Murales barrocos, altares con pan de oro y techos pintados crean una experiencia visual inolvidable.',
+    history: 'Built by Jesuits in the late 16th century on Inca foundations, San Pedro Apóstol de Andahuaylillas was decorated over centuries by indigenous and Spanish artists. The baroque interior features paintings by Luis de Riaño and murals depicting heaven, hell, and the path to salvation. The church was restored in recent years to preserve its masterpiece art.',
+    historyEs: 'Construida por jesuitas a finales del siglo XVI sobre cimientos Incas, San Pedro Apóstol de Andahuaylillas fue decorada durante siglos por artistas indígenas y españoles. El interior barroco presenta pinturas de Luis de Riaño y murales que representan el cielo, el infierno y el camino a la salvación. La iglesia fue restaurada en años recientes para preservar su arte obra maestra.',
+    highlights: [
+      'Stunning baroque interior',
+      'Gold-leaf covered altars',
+      'Painted ceiling murals',
+      'Sistine Chapel of the Americas',
+      'Blend of indigenous and Spanish art'
+    ],
+    highlightsEs: [
+      'Impresionante interior barroco',
+      'Altares cubiertos con pan de oro',
+      'Murales de techo pintados',
+      'Capilla Sixtina de las Américas',
+      'Mezcla de arte indígena y español'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: '15 soles or Baroque Route ticket (40 soles)',
+    entranceFeeEs: '15 soles o boleto Ruta Barroca (40 soles)',
+    bestTime: 'Year-round. Morning light best for interior viewing.',
+    bestTimeEs: 'Todo el año. Luz matutina mejor para ver el interior.',
+    tips: [
+      'No photography inside church',
+      'Combine with Raqchi on Cusco-Puno route',
+      'Part of Baroque Route with other churches',
+      'Respectful dress required',
+      'Local guides explain iconography',
+      'Small but worth the stop'
+    ],
+    tipsEs: [
+      'Sin fotografía dentro de la iglesia',
+      'Combina con Raqchi en ruta Cusco-Puno',
+      'Parte de la Ruta Barroca con otras iglesias',
+      'Se requiere vestimenta respetuosa',
+      'Guías locales explican iconografía',
+      'Pequeña pero vale la pena la parada'
+    ],
+    nearbyAttractions: ['raqchi', 'cusco', 'tipon'],
+    relatedSites: ['cusco-cathedral', 'raqchi', 'pikillacta'],
+    gettingThere: '40km southeast of Cusco, about 45 minutes by car on the road to Puno.',
+    gettingThereEs: '40km al sureste de Cusco, aproximadamente 45 minutos en auto en la carretera a Puno.',
+    facilities: [
+      'Ticket booth at entrance',
+      'Guided tours available',
+      'Small plaza outside',
+      'Restrooms nearby',
+      'Local vendors',
+      'Parking on plaza'
+    ],
+    facilitiesEs: [
+      'Boletería en la entrada',
+      'Tours guiados disponibles',
+      'Pequeña plaza afuera',
+      'Baños cercanos',
+      'Vendedores locales',
+      'Estacionamiento en la plaza'
+    ]
+  },
+  {
+    slug: 'nazca-lines',
+    name: 'Nazca Lines',
+    nameEs: 'Líneas de Nazca',
+    type: 'archaeological',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 500,
+    description: 'Enormous ancient geoglyphs etched into the desert floor depict animals, plants, and geometric shapes visible only from the air. These mysterious UNESCO World Heritage lines created by the Nazca culture remain one of archaeology\'s greatest enigmas.',
+    descriptionEs: 'Enormes geoglifos antiguos grabados en el suelo del desierto representan animales, plantas y formas geométricas visibles solo desde el aire. Estas misteriosas líneas Patrimonio de la Humanidad UNESCO creadas por la cultura Nazca siguen siendo uno de los mayores enigmas de la arqueología.',
+    history: 'Created between 500 BCE and 500 CE by the Nazca people, these lines were made by removing reddish pebbles to reveal lighter ground beneath. Theories about their purpose range from astronomical calendars to ritual pathways to messages for sky gods. The dry, windless climate preserved them for over 1,500 years. Maria Reiche dedicated her life to studying and protecting the lines.',
+    historyEs: 'Creadas entre 500 a.C. y 500 d.C. por el pueblo Nazca, estas líneas fueron hechas removiendo guijarros rojizos para revelar el suelo más claro debajo. Las teorías sobre su propósito van desde calendarios astronómicos hasta caminos rituales o mensajes para dioses del cielo. El clima seco y sin viento los preservó por más de 1,500 años. María Reiche dedicó su vida a estudiar y proteger las líneas.',
+    highlights: [
+      'UNESCO World Heritage Site',
+      'Giant hummingbird, spider, monkey figures',
+      'One of world\'s greatest mysteries',
+      'Best seen by small plane flight',
+      'Over 800 straight lines and 300 figures'
+    ],
+    highlightsEs: [
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Figuras gigantes de colibrí, araña, mono',
+      'Uno de los mayores misterios del mundo',
+      'Mejor visto en vuelo de avioneta',
+      'Más de 800 líneas rectas y 300 figuras'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '30-35 minutes (flight)',
+    durationEs: '30-35 minutos (vuelo)',
+    difficulty: 'easy',
+    entranceFee: 'Flights $80-120 USD per person, observation tower 3 soles',
+    entranceFeeEs: 'Vuelos $80-120 USD por persona, torre de observación 3 soles',
+    bestTime: 'Year-round. Early morning flights have clearest air.',
+    bestTimeEs: 'Todo el año. Vuelos temprano en la mañana tienen aire más claro.',
+    tips: [
+      'Book flights in advance during peak season',
+      'Eat light breakfast - turbulence common',
+      'Motion sickness medication helpful',
+      'Morning flights less bumpy',
+      'Observation tower shows some figures',
+      'Museum explains Nazca culture'
+    ],
+    tipsEs: [
+      'Reserva vuelos con anticipación en temporada alta',
+      'Desayuno ligero - turbulencia común',
+      'Medicamento para mareos útil',
+      'Vuelos matutinos menos turbulentos',
+      'Torre de observación muestra algunas figuras',
+      'Museo explica cultura Nazca'
+    ],
+    nearbyAttractions: ['chauchilla-cemetery', 'cantalloc-aqueducts', 'nazca-museum'],
+    relatedSites: ['paracas', 'chauchilla', 'cahuachi'],
+    gettingThere: 'Nazca is 450km south of Lima (6-7 hours by bus) or domestic flight to regional airport.',
+    gettingThereEs: 'Nazca está a 450km al sur de Lima (6-7 horas en bus) o vuelo doméstico al aeropuerto regional.',
+    facilities: [
+      'Nazca airport for flights',
+      'Multiple flight operators',
+      'Observation tower on highway',
+      'Maria Reiche Museum nearby',
+      'Town services in Nazca',
+      'Various tour options'
+    ],
+    facilitiesEs: [
+      'Aeropuerto de Nazca para vuelos',
+      'Múltiples operadores de vuelos',
+      'Torre de observación en la carretera',
+      'Museo María Reiche cercano',
+      'Servicios de pueblo en Nazca',
+      'Varias opciones de tour'
+    ]
+  },
+  {
+    slug: 'pacaya-samiria',
+    name: 'Pacaya-Samiria National Reserve',
+    nameEs: 'Reserva Nacional Pacaya-Samiria',
+    type: 'natural',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    altitude: 100,
+    description: 'Peru\'s largest protected area encompasses flooded Amazon rainforest where rivers create a maze of waterways perfect for wildlife viewing. Pink dolphins, giant river otters, countless bird species, and traditional ribereño communities await adventurous families.',
+    descriptionEs: 'El área protegida más grande del Perú abarca selva amazónica inundada donde los ríos crean un laberinto de vías fluviales perfectas para observación de vida silvestre. Delfines rosados, nutrias gigantes de río, innumerables especies de aves y comunidades ribereñas tradicionales esperan a familias aventureras.',
+    history: 'Established in 1982, Pacaya-Samiria protects over 2 million hectares of seasonally flooded forest at the confluence of the Ucayali and Marañón rivers. Local communities have lived sustainably here for generations and now participate in conservation tourism. The reserve harbors endangered species including giant otters, manatees, and black caiman.',
+    historyEs: 'Establecida en 1982, Pacaya-Samiria protege más de 2 millones de hectáreas de bosque estacionalmente inundado en la confluencia de los ríos Ucayali y Marañón. Las comunidades locales han vivido sustentablemente aquí por generaciones y ahora participan en turismo de conservación. La reserva alberga especies en peligro incluyendo nutrias gigantes, manatíes y caimán negro.',
+    highlights: [
+      'Peru\'s largest protected area',
+      'Pink and gray river dolphins',
+      'Giant river otter colonies',
+      'Flooded forest kayaking',
+      'Traditional fishing communities'
+    ],
+    highlightsEs: [
+      'Área protegida más grande del Perú',
+      'Delfines rosados y grises de río',
+      'Colonias de nutrias gigantes de río',
+      'Kayak en bosque inundado',
+      'Comunidades pesqueras tradicionales'
+    ],
+    familyRating: 3,
+    minAge: 7,
+    duration: '3-7 days recommended',
+    durationEs: '3-7 días recomendados',
+    difficulty: 'moderate',
+    entranceFee: 'Included in tour packages ($600-1500)',
+    entranceFeeEs: 'Incluido en paquetes turísticos ($600-1500)',
+    bestTime: 'High water (Feb-May) for flooded forest; low water (June-Nov) for wildlife concentration.',
+    bestTimeEs: 'Agua alta (Feb-May) para bosque inundado; agua baja (Jun-Nov) para concentración de fauna.',
+    tips: [
+      'Book with licensed operators only',
+      'Longer trips see more wildlife',
+      'Rubber boots essential',
+      'Bring quality rain gear',
+      'Community-based tourism supports locals',
+      'Patience rewarded with sightings'
+    ],
+    tipsEs: [
+      'Reserva solo con operadores autorizados',
+      'Viajes más largos ven más fauna',
+      'Botas de goma esenciales',
+      'Lleva equipo de lluvia de calidad',
+      'Turismo comunitario apoya a locales',
+      'La paciencia es recompensada con avistamientos'
+    ],
+    nearbyAttractions: ['iquitos', 'amazon-river', 'belen-market'],
+    relatedSites: ['tambopata-reserve', 'manu-biosphere-reserve', 'lake-sandoval'],
+    gettingThere: 'Fly to Iquitos, then 2-4 hour boat ride to reserve entrances. All visits via tour operators.',
+    gettingThereEs: 'Vuela a Iquitos, luego 2-4 horas en bote a las entradas de la reserva. Todas las visitas vía operadores turísticos.',
+    facilities: [
+      'Rustic jungle lodges',
+      'Community-run camps',
+      'Ranger stations',
+      'Canoe transportation',
+      'Basic camping areas',
+      'Limited electricity'
+    ],
+    facilitiesEs: [
+      'Lodges rústicos de selva',
+      'Campamentos manejados por comunidades',
+      'Estaciones de guardaparques',
+      'Transporte en canoa',
+      'Áreas de camping básicas',
+      'Electricidad limitada'
+    ]
+  },
+  {
+    slug: 'caral',
+    name: 'Caral Archaeological Site',
+    nameEs: 'Sitio Arqueológico de Caral',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 350,
+    description: 'The oldest city in the Americas dates back 5,000 years, contemporary with Egyptian pyramids. This UNESCO World Heritage Site reveals a sophisticated civilization with monumental pyramids, sunken plazas, and advanced knowledge of astronomy and agriculture.',
+    descriptionEs: 'La ciudad más antigua de las Américas data de hace 5,000 años, contemporánea con las pirámides egipcias. Este Sitio Patrimonio de la Humanidad UNESCO revela una civilización sofisticada con pirámides monumentales, plazas hundidas y conocimiento avanzado de astronomía y agricultura.',
+    history: 'Caral flourished between 3000-1800 BCE, making it the oldest known urban center in the Americas. The civilization developed without pottery, writing, or warfare - instead thriving on fishing, agriculture, and trade. Six pyramids, residential areas, and ceremonial spaces housed up to 3,000 people. Archaeologist Ruth Shady has led excavations since 1994.',
+    historyEs: 'Caral floreció entre 3000-1800 a.C., haciéndola el centro urbano más antiguo conocido de las Américas. La civilización se desarrolló sin cerámica, escritura o guerra - en su lugar prosperando con pesca, agricultura y comercio. Seis pirámides, áreas residenciales y espacios ceremoniales albergaron hasta 3,000 personas. La arqueóloga Ruth Shady ha liderado excavaciones desde 1994.',
+    highlights: [
+      'Oldest city in the Americas',
+      'UNESCO World Heritage Site',
+      'Contemporary with Egyptian pyramids',
+      'Six monumental pyramids',
+      'Peaceful civilization - no weapons found'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Contemporánea con pirámides egipcias',
+      'Seis pirámides monumentales',
+      'Civilización pacífica - sin armas encontradas'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '11 soles adults, 4 soles children',
+    entranceFeeEs: '11 soles adultos, 4 soles niños',
+    bestTime: 'Year-round. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Visitas matutinas evitan calor de la tarde.',
+    tips: [
+      'Guided tours highly recommended',
+      'Bring sun protection - no shade',
+      'Visit museum first for context',
+      'Long day trip from Lima',
+      'Can combine with beach at Supe',
+      'Wear comfortable walking shoes'
+    ],
+    tipsEs: [
+      'Tours guiados altamente recomendados',
+      'Lleva protección solar - sin sombra',
+      'Visita museo primero para contexto',
+      'Excursión larga de un día desde Lima',
+      'Puede combinar con playa en Supe',
+      'Usa zapatos cómodos para caminar'
+    ],
+    nearbyAttractions: ['supe-beach', 'bandurria', 'huacho'],
+    relatedSites: ['pachacamac', 'sechin', 'chavin-de-huantar'],
+    gettingThere: '180km north of Lima (3-4 hours by car). Tours available or public bus to Supe then taxi.',
+    gettingThereEs: '180km al norte de Lima (3-4 horas en auto). Tours disponibles o bus público a Supe y luego taxi.',
+    facilities: [
+      'Visitor center and museum',
+      'Guided tours included',
+      'Restrooms at entrance',
+      'Shaded rest areas',
+      'Parking available',
+      'Basic snack shop'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes y museo',
+      'Tours guiados incluidos',
+      'Baños en la entrada',
+      'Áreas de descanso con sombra',
+      'Estacionamiento disponible',
+      'Tienda de bocadillos básica'
+    ]
   }
 ];
 
