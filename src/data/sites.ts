@@ -10384,6 +10384,306 @@ export const sites: Site[] = [
       'Botes y kayaks para exploración',
       'Algunos lodges tienen piscinas'
     ]
+  },
+  {
+    slug: 'santa-catalina-monastery',
+    name: 'Santa Catalina Monastery',
+    nameEs: 'Monasterio de Santa Catalina',
+    type: 'cultural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    altitude: 2335,
+    description: 'The Santa Catalina Monastery is a stunning "city within a city" - a 20,000 square meter complex of vibrant cobblestone streets, plazas, cloisters, and colonial architecture hidden behind high walls in central Arequipa. Founded in 1579 and home to cloistered Dominican nuns for over 400 years, this remarkably preserved monastery showcases religious life across centuries with its brightly painted walls of blue, red, and orange. One of Peru\'s most photogenic and atmospheric historic sites.',
+    descriptionEs: 'El Monasterio de Santa Catalina es una impresionante "ciudad dentro de una ciudad" - un complejo de 20,000 metros cuadrados de vibrantes calles empedradas, plazas, claustros y arquitectura colonial oculto tras altos muros en el centro de Arequipa. Fundado en 1579 y hogar de monjas dominicas de clausura por más de 400 años, este monasterio notablemente preservado muestra la vida religiosa a través de los siglos con sus paredes pintadas brillantemente de azul, rojo y naranja. Uno de los sitios históricos más fotogénicos y atmosféricos de Perú.',
+    history: 'Santa Catalina was founded in 1579 by a wealthy widow, Doña María de Guzmán. The monastery accepted only women from wealthy Spanish families, each bringing a dowry. At its peak, it housed nearly 500 nuns and servants who lived in surprising luxury, with their own slaves and fine furnishings. Following an earthquake in 1868 and a strict reform by Dominican Sister Josefa Cadena in the late 1800s, the monastery returned to simple religious life. In 1970, the monastery opened to the public for the first time, revealing its remarkably preserved colonial streets and buildings. Today, about 20 nuns still live in a private section, continuing the contemplative tradition while visitors explore the historic areas.',
+    historyEs: 'Santa Catalina fue fundado en 1579 por una viuda adinerada, Doña María de Guzmán. El monasterio aceptaba solo mujeres de familias españolas adineradas, cada una trayendo una dote. En su apogeo, albergaba casi 500 monjas y sirvientas que vivían con sorprendente lujo, con sus propios esclavos y muebles finos. Después de un terremoto en 1868 y una estricta reforma por la Hermana Dominica Josefa Cadena a finales de 1800, el monasterio regresó a la vida religiosa simple. En 1970, el monasterio abrió al público por primera vez, revelando sus calles y edificios coloniales notablemente preservados. Hoy, aproximadamente 20 monjas aún viven en una sección privada, continuando la tradición contemplativa mientras visitantes exploran las áreas históricas.',
+    highlights: [
+      'Vibrant painted walls in blue, red, and orange',
+      'Colonial streets and plazas',
+      'Original furniture and kitchens preserved',
+      'Extensive art collection',
+      'Beautiful cloisters and gardens',
+      'Night tours with candles available',
+      'Active monastery still home to nuns'
+    ],
+    highlightsEs: [
+      'Vibrantes paredes pintadas en azul, rojo y naranja',
+      'Calles y plazas coloniales',
+      'Muebles y cocinas originales preservados',
+      'Extensa colección de arte',
+      'Hermosos claustros y jardines',
+      'Tours nocturnos con velas disponibles',
+      'Monasterio activo aún hogar de monjas'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/45 adults, S/20 students, free under 7',
+    entranceFeeEs: 'S/45 adultos, S/20 estudiantes, gratis menores de 7',
+    bestTime: 'Year-round. Morning for best light. Tuesday night candlelit tours are magical.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz. Tours de velas los martes por la noche son mágicos.',
+    tips: [
+      'Allow at least 2 hours to explore fully',
+      'Tuesday and Friday night candlelit tours are special',
+      'On-site café serves excellent pastries made by nuns',
+      'Audio guides available in multiple languages',
+      'Photography permitted throughout'
+    ],
+    tipsEs: [
+      'Permite al menos 2 horas para explorar completamente',
+      'Tours con velas los martes y viernes por la noche son especiales',
+      'Cafetería en el sitio sirve excelentes pasteles hechos por monjas',
+      'Audio guías disponibles en múltiples idiomas',
+      'Fotografía permitida en todo el recorrido'
+    ],
+    nearbyAttractions: ['Plaza de Armas Arequipa', 'Cathedral of Arequipa', 'Juanita Museum', 'San Camilo Market'],
+    relatedSites: ['colca-canyon', 'arequipa-cathedral', 'yanahuara-viewpoint'],
+    gettingThere: 'Located in central Arequipa, 2 blocks from Plaza de Armas. Easy walk from any downtown hotel. Taxis from airport cost about S/25.',
+    gettingThereEs: 'Ubicado en el centro de Arequipa, a 2 cuadras de la Plaza de Armas. Caminata fácil desde cualquier hotel del centro. Taxis desde el aeropuerto cuestan aproximadamente S/25.',
+    facilities: [
+      'Clean restrooms',
+      'On-site café',
+      'Gift shop',
+      'Audio guides available',
+      'Wheelchair accessible areas',
+      'Benches throughout for resting'
+    ],
+    facilitiesEs: [
+      'Baños limpios',
+      'Cafetería en el sitio',
+      'Tienda de regalos',
+      'Audio guías disponibles',
+      'Áreas accesibles para sillas de ruedas',
+      'Bancas en todo el recorrido para descansar'
+    ]
+  },
+  {
+    slug: 'iquitos-amazon',
+    name: 'Iquitos & Northern Amazon',
+    nameEs: 'Iquitos y la Amazonía Norte',
+    type: 'natural',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    altitude: 106,
+    description: 'Iquitos is the world\'s largest city unreachable by road, serving as the gateway to Peru\'s vast northern Amazon basin where the Marañón, Ucayali, and Nanay rivers converge to form the mighty Amazon. This remote jungle metropolis offers families access to flooded forest ecosystems, pink river dolphin encounters, indigenous communities, and multi-day river adventures. The unique experience of arriving by air to a major city surrounded entirely by rainforest sets the stage for extraordinary Amazon exploration.',
+    descriptionEs: 'Iquitos es la ciudad más grande del mundo inaccesible por carretera, sirviendo como puerta de entrada a la vasta cuenca amazónica norte de Perú donde los ríos Marañón, Ucayali y Nanay convergen para formar el poderoso Amazonas. Esta remota metrópolis selvática ofrece a las familias acceso a ecosistemas de bosque inundado, encuentros con delfines rosados de río, comunidades indígenas y aventuras fluviales de varios días. La experiencia única de llegar por aire a una ciudad importante rodeada completamente de selva prepara el escenario para una exploración amazónica extraordinaria.',
+    history: 'Iquitos rose to prominence during the rubber boom of the late 1800s, when it became one of the wealthiest cities in South America. European traders built grand mansions decorated with Portuguese tiles, and the city\'s famous Iron House was designed by Gustave Eiffel. The rubber boom collapsed in 1912 when seeds smuggled to Asia created competing plantations. Today, Iquitos has over 400,000 residents who depend on the river for transportation and commerce. The city is the natural staging point for exploring the vast Pacaya-Samiria National Reserve, one of Peru\'s largest protected areas. The unique flooded forest (várzea) ecosystem supports different wildlife than the Tambopata region, including the famous pink river dolphins.',
+    historyEs: 'Iquitos se elevó a la prominencia durante el boom del caucho de finales de 1800, cuando se convirtió en una de las ciudades más ricas de Sudamérica. Comerciantes europeos construyeron grandes mansiones decoradas con azulejos portugueses, y la famosa Casa de Fierro de la ciudad fue diseñada por Gustave Eiffel. El boom del caucho colapsó en 1912 cuando semillas contrabandeadas a Asia crearon plantaciones competidoras. Hoy, Iquitos tiene más de 400,000 residentes que dependen del río para transporte y comercio. La ciudad es el punto de partida natural para explorar la vasta Reserva Nacional Pacaya-Samiria, una de las áreas protegidas más grandes de Perú. El ecosistema único de bosque inundado (várzea) sustenta fauna diferente a la región de Tambopata, incluyendo los famosos delfines rosados de río.',
+    highlights: [
+      'World\'s largest city unreachable by road',
+      'Pink river dolphin encounters',
+      'Flooded forest (várzea) ecosystem',
+      'Historic rubber boom architecture',
+      'Gateway to Pacaya-Samiria Reserve',
+      'Indigenous community visits',
+      'Multi-day river expeditions'
+    ],
+    highlightsEs: [
+      'Ciudad más grande del mundo inaccesible por carretera',
+      'Encuentros con delfines rosados de río',
+      'Ecosistema de bosque inundado (várzea)',
+      'Arquitectura histórica del boom del caucho',
+      'Puerta de entrada a Reserva Pacaya-Samiria',
+      'Visitas a comunidades indígenas',
+      'Expediciones fluviales de varios días'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-5 days recommended',
+    durationEs: '3-5 días recomendados',
+    difficulty: 'moderate',
+    entranceFee: 'Varies by lodge/tour (typically $300-700 for 3-4 days all-inclusive)',
+    entranceFeeEs: 'Varía por lodge/tour (típicamente $300-700 por 3-4 días todo incluido)',
+    bestTime: 'Year-round. High water (December-May) best for flooded forest navigation. Low water sees more wildlife concentration.',
+    bestTimeEs: 'Todo el año. Agua alta (diciembre-mayo) mejor para navegación de bosque inundado. Agua baja ve más concentración de fauna.',
+    tips: [
+      'Book jungle lodges or river cruises in advance',
+      'High water season allows kayaking through forest canopy',
+      'Visit the Belén floating market in Iquitos',
+      'Pink dolphins most active at dawn and dusk',
+      'Bring binoculars and waterproof bags'
+    ],
+    tipsEs: [
+      'Reserva lodges de selva o cruceros fluviales con anticipación',
+      'Temporada de agua alta permite kayak a través del dosel del bosque',
+      'Visita el mercado flotante de Belén en Iquitos',
+      'Delfines rosados más activos al amanecer y atardecer',
+      'Trae binoculares y bolsas impermeables'
+    ],
+    nearbyAttractions: ['Pacaya-Samiria Reserve', 'Pilpintuwasi Butterfly Farm', 'Belén Floating Market', 'Manatee Rescue Center'],
+    relatedSites: ['tambopata-reserve', 'manu-national-park', 'pacaya-samiria'],
+    gettingThere: 'Fly from Lima (1.5 hours direct). No road access to Iquitos. Local transport is by motorcycle taxi (mototaxi), boat, or on foot.',
+    gettingThereEs: 'Vuela desde Lima (1.5 horas directo). Sin acceso por carretera a Iquitos. Transporte local es por mototaxi, bote o a pie.',
+    facilities: [
+      'Range of jungle lodges and river cruises',
+      'Hotels in Iquitos city',
+      'Airport with regular flights',
+      'Tour operators in city center',
+      'Restaurants and markets',
+      'Hospital and medical services'
+    ],
+    facilitiesEs: [
+      'Variedad de lodges de selva y cruceros fluviales',
+      'Hoteles en la ciudad de Iquitos',
+      'Aeropuerto con vuelos regulares',
+      'Operadores de tours en el centro de la ciudad',
+      'Restaurantes y mercados',
+      'Hospital y servicios médicos'
+    ]
+  },
+  {
+    slug: 'salinas-aguada-blanca',
+    name: 'Salinas y Aguada Blanca National Reserve',
+    nameEs: 'Reserva Nacional Salinas y Aguada Blanca',
+    type: 'natural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    altitude: 4300,
+    description: 'The Salinas y Aguada Blanca National Reserve protects a stunning high-altitude ecosystem between Arequipa and Colca Canyon, where vast puna grasslands support South America\'s largest concentration of vicuñas. This often-overlooked reserve offers families the chance to see these elegant wild camelids up close, along with flamingos on high-altitude lagoons, Andean condors, and dramatic volcanic landscapes. An excellent stop en route to Colca Canyon or as a day trip from Arequipa.',
+    descriptionEs: 'La Reserva Nacional Salinas y Aguada Blanca protege un impresionante ecosistema de alta altitud entre Arequipa y el Cañón del Colca, donde vastos pastizales de puna sustentan la mayor concentración de vicuñas de Sudamérica. Esta reserva frecuentemente pasada por alto ofrece a las familias la oportunidad de ver estos elegantes camélidos salvajes de cerca, junto con flamencos en lagunas de alta altitud, cóndores andinos y dramáticos paisajes volcánicos. Una excelente parada en camino al Cañón del Colca o como excursión de un día desde Arequipa.',
+    history: 'The reserve was established in 1979 to protect vicuña populations that had been hunted nearly to extinction for their extraordinarily fine wool. Once the Incas protected vicuñas as royal property with death penalties for poaching, but colonial and republican era hunting decimated populations. Conservation efforts succeeded dramatically - the reserve now hosts over 10,000 vicuñas, the largest wild population in Peru. The area also protects high-altitude wetlands (bofedales) crucial for water supply to Arequipa below. Traditional alpaca and llama herding communities continue ancestral practices within the reserve.',
+    historyEs: 'La reserva fue establecida en 1979 para proteger poblaciones de vicuñas que habían sido cazadas casi hasta la extinción por su lana extraordinariamente fina. Una vez los Incas protegieron las vicuñas como propiedad real con penas de muerte por caza furtiva, pero la caza en las eras colonial y republicana diezmó las poblaciones. Los esfuerzos de conservación tuvieron éxito dramático - la reserva ahora alberga más de 10,000 vicuñas, la población salvaje más grande de Perú. El área también protege humedales de alta altitud (bofedales) cruciales para el suministro de agua a Arequipa abajo. Las comunidades tradicionales de pastoreo de alpacas y llamas continúan prácticas ancestrales dentro de la reserva.',
+    highlights: [
+      'South America\'s largest vicuña concentration',
+      'High-altitude flamingo lagoons',
+      'Dramatic volcanic landscapes',
+      'Andean condor sightings',
+      'Traditional herding communities',
+      'Stunning photography opportunities',
+      'En route to Colca Canyon'
+    ],
+    highlightsEs: [
+      'Mayor concentración de vicuñas de Sudamérica',
+      'Lagunas de flamencos de alta altitud',
+      'Dramáticos paisajes volcánicos',
+      'Avistamientos de cóndores andinos',
+      'Comunidades de pastoreo tradicional',
+      'Impresionantes oportunidades fotográficas',
+      'En camino al Cañón del Colca'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours (en route stop) or full day',
+    durationEs: '2-3 horas (parada en ruta) o día completo',
+    difficulty: 'easy',
+    entranceFee: 'S/5 per person',
+    entranceFeeEs: 'S/5 por persona',
+    bestTime: 'Year-round. June-September dry season has clearest skies. Dawn and dusk best for wildlife.',
+    bestTimeEs: 'Todo el año. Temporada seca junio-septiembre tiene cielos más claros. Amanecer y atardecer mejor para fauna.',
+    tips: [
+      'Most Colca Canyon tours stop here',
+      'Bring warm layers - temperatures can drop quickly',
+      'Best wildlife viewing at dawn or late afternoon',
+      'Binoculars essential for flamingo viewing',
+      'Altitude can affect some visitors - acclimatize first'
+    ],
+    tipsEs: [
+      'La mayoría de tours al Cañón del Colca paran aquí',
+      'Trae capas abrigadas - las temperaturas pueden bajar rápidamente',
+      'Mejor observación de fauna al amanecer o tarde',
+      'Binoculares esenciales para ver flamencos',
+      'La altitud puede afectar a algunos visitantes - aclimatarse primero'
+    ],
+    nearbyAttractions: ['Colca Canyon', 'Pampa Cañahuas viewpoint', 'Chivay', 'Misti Volcano'],
+    relatedSites: ['colca-canyon', 'arequipa-cathedral', 'misti-volcano'],
+    gettingThere: 'Located on the road from Arequipa to Colca Canyon (about 2 hours from Arequipa). All Colca Canyon tours pass through the reserve.',
+    gettingThereEs: 'Ubicado en la carretera de Arequipa al Cañón del Colca (aproximadamente 2 horas desde Arequipa). Todos los tours al Cañón del Colca pasan por la reserva.',
+    facilities: [
+      'Basic visitor center at Pampa Cañahuas',
+      'Viewing platforms',
+      'Basic restrooms',
+      'Local vendors sell snacks and crafts',
+      'Interpretation signs',
+      'Parking areas'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes básico en Pampa Cañahuas',
+      'Plataformas de observación',
+      'Baños básicos',
+      'Vendedores locales venden snacks y artesanías',
+      'Letreros de interpretación',
+      'Áreas de estacionamiento'
+    ]
+  },
+  {
+    slug: 'punta-sal-beach',
+    name: 'Punta Sal Beach',
+    nameEs: 'Playa Punta Sal',
+    type: 'natural',
+    city: 'tumbes',
+    region: 'Tumbes Region',
+    regionEs: 'Región Tumbes',
+    altitude: 0,
+    description: 'Punta Sal is Peru\'s premier tropical beach destination, where warm turquoise waters meet pristine white sand along the northern coast near the Ecuador border. Unlike the cold Humboldt Current beaches further south, Punta Sal enjoys warm Caribbean-like conditions year-round, making it perfect for swimming, snorkeling, and beach relaxation. This laid-back coastal paradise offers families an ideal beach escape after exploring Peru\'s archaeological and mountain destinations.',
+    descriptionEs: 'Punta Sal es el destino de playa tropical premier de Perú, donde cálidas aguas turquesas se encuentran con arena blanca prístina a lo largo de la costa norte cerca de la frontera con Ecuador. A diferencia de las playas de la fría Corriente de Humboldt más al sur, Punta Sal disfruta de condiciones cálidas tipo Caribe durante todo el año, haciéndola perfecta para nadar, hacer snorkel y relajarse en la playa. Este relajado paraíso costero ofrece a las familias un escape de playa ideal después de explorar los destinos arqueológicos y de montaña de Perú.',
+    history: 'Punta Sal remained a quiet fishing village until the 1980s when Peru\'s beach-seeking elite discovered its exceptional warm waters. Unlike the surfing beaches of Máncora to the south, Punta Sal developed as a more exclusive, family-oriented destination with calm protected waters. The area\'s indigenous Tallán people once fished these waters using balsas similar to those still made at Huanchaco. Today, sustainable tourism has become the main economic activity, with local families running guesthouses and offering fishing trips. The region is also important for sea turtle conservation, with several species nesting on nearby beaches.',
+    historyEs: 'Punta Sal permaneció como un tranquilo pueblo pesquero hasta los años 1980 cuando la élite buscadora de playas de Perú descubrió sus excepcionales aguas cálidas. A diferencia de las playas de surf de Máncora al sur, Punta Sal se desarrolló como un destino más exclusivo y orientado a familias con aguas tranquilas y protegidas. El pueblo indígena Tallán del área una vez pescó estas aguas usando balsas similares a las que aún se hacen en Huanchaco. Hoy, el turismo sustentable se ha convertido en la principal actividad económica, con familias locales manejando casas de huéspedes y ofreciendo viajes de pesca. La región también es importante para la conservación de tortugas marinas, con varias especies anidando en playas cercanas.',
+    highlights: [
+      'Peru\'s warmest ocean waters',
+      'White sand tropical beaches',
+      'Calm waters perfect for families',
+      'Excellent snorkeling',
+      'Fresh seafood dining',
+      'Whale watching (July-October)',
+      'Sea turtle conservation areas'
+    ],
+    highlightsEs: [
+      'Las aguas oceánicas más cálidas de Perú',
+      'Playas tropicales de arena blanca',
+      'Aguas tranquilas perfectas para familias',
+      'Excelente snorkel',
+      'Comida de mariscos frescos',
+      'Avistamiento de ballenas (julio-octubre)',
+      'Áreas de conservación de tortugas marinas'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '2-4 days recommended',
+    durationEs: '2-4 días recomendados',
+    difficulty: 'easy',
+    entranceFee: 'Free (beach access)',
+    entranceFeeEs: 'Gratis (acceso a la playa)',
+    bestTime: 'Year-round warm. December-April hottest. July-October for whale watching.',
+    bestTimeEs: 'Cálido todo el año. Diciembre-abril más caliente. Julio-octubre para avistamiento de ballenas.',
+    tips: [
+      'Water is warm year-round (24-28°C)',
+      'July-October offers humpback whale watching',
+      'Book beachfront accommodations in advance',
+      'Fresh ceviche at beachfront restaurants is exceptional',
+      'Combine with Máncora for more variety'
+    ],
+    tipsEs: [
+      'El agua es cálida todo el año (24-28°C)',
+      'Julio-octubre ofrece avistamiento de ballenas jorobadas',
+      'Reserva alojamiento frente al mar con anticipación',
+      'El ceviche fresco en restaurantes frente al mar es excepcional',
+      'Combina con Máncora para más variedad'
+    ],
+    nearbyAttractions: ['Máncora', 'Tumbes Mangroves', 'Puerto Pizarro', 'Los Órganos'],
+    relatedSites: ['mancora-beach', 'huanchaco', 'paracas-national-reserve'],
+    gettingThere: 'Fly to Tumbes (1.5 hours from Lima) or Piura (1.5 hours), then 1-2 hour drive. Direct buses from Lima take 18-20 hours.',
+    gettingThereEs: 'Vuela a Tumbes (1.5 horas desde Lima) o Piura (1.5 horas), luego 1-2 horas en auto. Buses directos desde Lima toman 18-20 horas.',
+    facilities: [
+      'Range of beachfront hotels and resorts',
+      'Restaurants serving fresh seafood',
+      'Beach umbrellas and chairs for rent',
+      'Kayak and paddleboard rentals',
+      'Fishing boat excursions',
+      'Spa services at resorts'
+    ],
+    facilitiesEs: [
+      'Variedad de hoteles y resorts frente al mar',
+      'Restaurantes sirviendo mariscos frescos',
+      'Sombrillas y sillas de playa para alquilar',
+      'Alquiler de kayaks y paddleboards',
+      'Excursiones en bote de pesca',
+      'Servicios de spa en resorts'
+    ]
   }
 ];
 

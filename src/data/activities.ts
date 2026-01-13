@@ -11821,6 +11821,362 @@ export const activities: Activity[] = [
       { name: 'All Ways Travel', familyFriendly: true },
       { name: 'Local Puno Guides', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'santa-catalina-monastery-tour',
+    name: 'Santa Catalina Monastery Guided Tour',
+    nameEs: 'Tour Guiado por el Monasterio de Santa Catalina',
+    type: 'cultural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Step into a preserved 16th-century city-within-a-city at the stunning Santa Catalina Monastery, one of Peru\'s most important colonial religious sites. This UNESCO-caliber complex covers 20,000 square meters of winding streets, plazas, and beautifully restored cloisters painted in vivid terracotta, blue, and white. For over 400 years, Dominican nuns lived in complete seclusion here, creating a unique world that families can now explore with expert guides.',
+    descriptionEs: 'Entra en una ciudad dentro de una ciudad preservada del siglo XVI en el impresionante Monasterio de Santa Catalina, uno de los sitios religiosos coloniales más importantes de Perú. Este complejo de calibre UNESCO cubre 20,000 metros cuadrados de calles sinuosas, plazas y claustros bellamente restaurados pintados en vivos colores terracota, azul y blanco. Por más de 400 años, monjas dominicas vivieron aquí en completa reclusión, creando un mundo único que las familias ahora pueden explorar con guías expertos.',
+    whatToExpect: 'Enter through the main portal into a world frozen in time. Your guide leads you through narrow cobblestone streets named after Spanish cities, explaining how wealthy Spanish families sent their second daughters here with rich dowries. Visit the Orange Tree Cloister, the first area novices experienced, with its peaceful garden and ancient trees. Explore the communal kitchen with original clay ovens and copper pots that fed hundreds of nuns. Walk through the Large Cloister with its distinctive terracotta walls and see the communal laundry area with stone channels. Visit a restored cell showing how nuns lived with their servants and fine furnishings. See the art gallery with colonial religious paintings. Climb to rooftop terraces for stunning views of the monastery\'s colorful domes against the backdrop of snow-capped Misti volcano. Children love the maze-like layout and vibrant colors.',
+    whatToExpectEs: 'Entra por el portal principal a un mundo congelado en el tiempo. Tu guía te lleva por estrechas calles empedradas con nombres de ciudades españolas, explicando cómo familias españolas adineradas enviaban a sus segundas hijas aquí con ricas dotes. Visita el Claustro de los Naranjos, la primera área que experimentaban las novicias, con su jardín pacífico y árboles antiguos. Explora la cocina comunal con hornos de arcilla originales y ollas de cobre que alimentaban a cientos de monjas. Camina por el Claustro Grande con sus distintivas paredes terracota y ve el área de lavandería comunal con canales de piedra. Visita una celda restaurada mostrando cómo vivían las monjas con sus sirvientas y finos muebles. Ve la galería de arte con pinturas religiosas coloniales. Sube a terrazas en la azotea para vistas impresionantes de las coloridas cúpulas del monasterio contra el fondo del volcán nevado Misti. A los niños les encanta el diseño laberíntico y los colores vibrantes.',
+    highlights: [
+      'Vivid terracotta and blue streets',
+      'Orange Tree Cloister gardens',
+      'Original colonial kitchens',
+      'Restored nun cells with furnishings',
+      'Colonial religious art gallery',
+      'Rooftop volcano views',
+      'Maze-like exploration for children'
+    ],
+    highlightsEs: [
+      'Calles de vivos colores terracota y azul',
+      'Jardines del Claustro de los Naranjos',
+      'Cocinas coloniales originales',
+      'Celdas de monjas restauradas con muebles',
+      'Galería de arte religioso colonial',
+      'Vistas de volcanes desde la azotea',
+      'Exploración laberíntica para niños'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$15-35 per person',
+    priceRangeEs: '$15-35 por persona',
+    bestTime: 'Year-round. Morning light best for photography. Evening tours available with atmospheric lighting.',
+    bestTimeEs: 'Todo el año. Luz matutina mejor para fotografía. Tours nocturnos disponibles con iluminación atmosférica.',
+    includes: [
+      'Professional bilingual guide',
+      'Entrance fees',
+      'Access to all open areas',
+      'Art gallery visit',
+      'Photo opportunities'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Entradas incluidas',
+      'Acceso a todas las áreas abiertas',
+      'Visita a galería de arte',
+      'Oportunidades fotográficas'
+    ],
+    tips: [
+      'Book evening tours for magical lighting',
+      'Comfortable walking shoes essential',
+      'Photography allowed throughout',
+      'Small café inside for refreshments',
+      'Adjacent gift shop has quality crafts'
+    ],
+    tipsEs: [
+      'Reserva tours nocturnos para iluminación mágica',
+      'Zapatos cómodos para caminar esenciales',
+      'Fotografía permitida en todo el lugar',
+      'Pequeño café adentro para refrigerios',
+      'Tienda de regalos adyacente tiene artesanías de calidad'
+    ],
+    safetyNotes: [
+      'Flat, easy walking on cobblestones',
+      'Some narrow passages - watch small children',
+      'Moderate altitude (2,335m) - minimal impact',
+      'Shaded areas available for rest',
+      'Accessible routes available'
+    ],
+    safetyNotesEs: [
+      'Caminata plana y fácil sobre adoquines',
+      'Algunos pasajes estrechos - vigilar niños pequeños',
+      'Altitud moderada (2,335m) - impacto mínimo',
+      'Áreas sombreadas disponibles para descanso',
+      'Rutas accesibles disponibles'
+    ],
+    relatedActivities: ['arequipa-city-tour', 'colca-canyon-tour', 'sillar-quarries-tour'],
+    providers: [
+      { name: 'Santa Catalina Official Tours', familyFriendly: true },
+      { name: 'Arequipa Walking Tours', familyFriendly: true },
+      { name: 'Peru Traditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'iquitos-amazon-adventure',
+    name: 'Iquitos Amazon Rainforest Family Adventure',
+    nameEs: 'Aventura Familiar en la Selva Amazónica de Iquitos',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Experience the world\'s largest rainforest from Peru\'s Amazon gateway city of Iquitos, the largest city on Earth unreachable by road. This unique adventure combines wildlife watching, indigenous community visits, and river exploration in the Northern Amazon, where the biodiversity differs from the southern Tambopata region. Pink river dolphins, giant water lilies, and exotic birds await families ready for an unforgettable jungle experience.',
+    descriptionEs: 'Experimenta la selva tropical más grande del mundo desde la ciudad puerta de entrada al Amazonas de Perú, Iquitos, la ciudad más grande de la Tierra inalcanzable por carretera. Esta aventura única combina observación de fauna, visitas a comunidades indígenas y exploración fluvial en el Amazonas Norte, donde la biodiversidad difiere de la región sureña de Tambopata. Delfines rosados de río, nenúfares gigantes y aves exóticas esperan a las familias listas para una experiencia selvática inolvidable.',
+    whatToExpect: 'Arrive in Iquitos by air and transfer by boat to your jungle lodge along the Amazon or its tributaries. Settle into comfortable accommodations designed for families with screened rooms and river views. Take your first canoe excursion at sunset when wildlife is most active, watching for pink and grey dolphins playing in the river. The next morning, wake early for birdwatching - the Northern Amazon hosts different species than the south, including unique tanagers and antbirds. Visit a local village to learn how indigenous communities live sustainably in the forest, with children participating in traditional crafts. Navigate through flooded forest during high-water season or walk jungle trails during low water. Fish for piranha (catch and release for families) and learn about medicinal plants used for centuries by shamans. Night excursions reveal caimans, tarantulas, and nocturnal monkeys. Visit the famous Victoria Regia giant water lily ponds.',
+    whatToExpectEs: 'Llega a Iquitos por aire y traslado en bote a tu lodge en la selva a lo largo del Amazonas o sus tributarios. Instálate en alojamientos cómodos diseñados para familias con habitaciones con mallas y vistas al río. Toma tu primera excursión en canoa al atardecer cuando la fauna está más activa, observando delfines rosados y grises jugando en el río. A la mañana siguiente, despierta temprano para observación de aves - el Amazonas Norte alberga especies diferentes al sur, incluyendo tangaras y hormigueros únicos. Visita un pueblo local para aprender cómo las comunidades indígenas viven sustentablemente en el bosque, con niños participando en artesanías tradicionales. Navega por el bosque inundado durante temporada de aguas altas o camina senderos de la selva durante aguas bajas. Pesca pirañas (atrapar y liberar para familias) y aprende sobre plantas medicinales usadas por siglos por chamanes. Excursiones nocturnas revelan caimanes, tarántulas y monos nocturnos. Visita los famosos estanques de nenúfares gigantes Victoria Regia.',
+    highlights: [
+      'Pink river dolphin watching',
+      'Giant Victoria Regia water lilies',
+      'Indigenous community cultural visit',
+      'Piranha fishing experience',
+      'Night wildlife excursions',
+      'Unique Northern Amazon species',
+      'Canoe through flooded forest'
+    ],
+    highlightsEs: [
+      'Observación de delfines rosados de río',
+      'Nenúfares gigantes Victoria Regia',
+      'Visita cultural a comunidad indígena',
+      'Experiencia de pesca de pirañas',
+      'Excursiones nocturnas de fauna',
+      'Especies únicas del Amazonas Norte',
+      'Canoa por bosque inundado'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-5 days',
+    durationEs: '3-5 días',
+    difficulty: 'moderate',
+    priceRange: '$400-800 per person multi-day',
+    priceRangeEs: '$400-800 por persona multi-día',
+    bestTime: 'Year-round. December-May high water for flooded forest. June-November low water for trails.',
+    bestTimeEs: 'Todo el año. Diciembre-mayo aguas altas para bosque inundado. Junio-noviembre aguas bajas para senderos.',
+    includes: [
+      'Round-trip boat transfers from Iquitos',
+      'Lodge accommodation',
+      'All meals',
+      'Expert naturalist guides',
+      'All excursions and activities',
+      'Rubber boots and rain ponchos'
+    ],
+    includesEs: [
+      'Traslados en bote ida y vuelta desde Iquitos',
+      'Alojamiento en lodge',
+      'Todas las comidas',
+      'Guías naturalistas expertos',
+      'Todas las excursiones y actividades',
+      'Botas de goma y ponchos de lluvia'
+    ],
+    tips: [
+      'Fly from Lima - no roads to Iquitos',
+      'Pack light, breathable, long clothing',
+      'Insect repellent with DEET essential',
+      'Binoculars greatly enhance wildlife viewing',
+      'High-water season best for dolphin encounters'
+    ],
+    tipsEs: [
+      'Vuela desde Lima - no hay carreteras a Iquitos',
+      'Empaca ropa ligera, transpirable y larga',
+      'Repelente de insectos con DEET esencial',
+      'Binoculares mejoran mucho la observación de fauna',
+      'Temporada de aguas altas mejor para encuentros con delfines'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Lodges have medical supplies and radios',
+      'Always follow guide instructions',
+      'Insect-borne disease prophylaxis recommended',
+      'Safe swimming areas designated by guides'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Lodges tienen suministros médicos y radios',
+      'Siempre seguir instrucciones del guía',
+      'Profilaxis para enfermedades transmitidas por insectos recomendada',
+      'Áreas de nado seguras designadas por guías'
+    ],
+    relatedActivities: ['tambopata-amazon-adventure', 'amazon-canopy-walk', 'pacaya-samiria-expedition'],
+    providers: [
+      { name: 'Ceiba Tops Lodge', familyFriendly: true },
+      { name: 'Explorama Lodges', familyFriendly: true },
+      { name: 'Amazon Yarapa River Lodge', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'salinas-aguada-blanca-safari',
+    name: 'Salinas y Aguada Blanca Vicuña Safari',
+    nameEs: 'Safari de Vicuñas en Salinas y Aguada Blanca',
+    type: 'nature',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Embark on an unforgettable wildlife safari through Peru\'s stunning Salinas y Aguada Blanca National Reserve, home to the highest concentration of wild vicuñas in the country. This high-altitude adventure traverses otherworldly volcanic landscapes, pristine salt flats, and altiplano grasslands where herds of these elegant camelids roam freely alongside Andean flamingos, giant coots, and soaring condors.',
+    descriptionEs: 'Emprende un safari de fauna inolvidable a través de la impresionante Reserva Nacional Salinas y Aguada Blanca de Perú, hogar de la mayor concentración de vicuñas salvajes del país. Esta aventura de alta altitud atraviesa paisajes volcánicos de otro mundo, salares prístinos y pastizales del altiplano donde manadas de estos elegantes camélidos deambulan libremente junto a flamencos andinos, gallaretas gigantes y cóndores sobrevolando.',
+    whatToExpect: 'Depart Arequipa early morning, ascending through terraced farmland as the imposing Misti volcano dominates the horizon. Enter the reserve through Pampa Cañahuas, where your first vicuña sightings occur - these golden-fleeced wild relatives of the llama graze in herds, their wool once reserved exclusively for Inca royalty. Stop at designated viewpoints where vicuñas have grown accustomed to vehicles, allowing excellent photography opportunities. Continue to the Tocra wetlands, a high-altitude lagoon system where three species of flamingo feed in the shallow waters alongside rare Andean avocets and puna ibis. Watch for Andean condors soaring above the volcanic peaks. Drive through landscapes of pumice stone formations and volcanic cones before reaching Salinas Lagoon at 4,300 meters, its white salt-encrusted shores contrasting with flamingo pink reflections. Visit the vicuña counting stations and learn about conservation efforts. Optional stop at El Misti or Chachani volcano viewpoints for the adventurous.',
+    whatToExpectEs: 'Parte de Arequipa temprano en la mañana, ascendiendo por tierras de cultivo en terrazas mientras el imponente volcán Misti domina el horizonte. Entra a la reserva por Pampa Cañahuas, donde ocurren tus primeros avistamientos de vicuñas - estos parientes salvajes de la llama con vellón dorado pastan en manadas, su lana una vez reservada exclusivamente para la realeza Inca. Para en miradores designados donde las vicuñas se han acostumbrado a los vehículos, permitiendo excelentes oportunidades fotográficas. Continúa a los humedales de Tocra, un sistema de lagunas de alta altitud donde tres especies de flamencos se alimentan en aguas poco profundas junto a raras avocetas andinas e ibis de la puna. Observa cóndores andinos sobrevolando los picos volcánicos. Conduce a través de paisajes de formaciones de piedra pómez y conos volcánicos antes de llegar a la Laguna de Salinas a 4,300 metros, sus orillas blancas incrustadas de sal contrastando con reflejos rosados de flamencos. Visita las estaciones de conteo de vicuñas y aprende sobre esfuerzos de conservación. Parada opcional en miradores de El Misti o Chachani para los aventureros.',
+    highlights: [
+      'Wild vicuña herds up close',
+      'Three flamingo species at Tocra',
+      'Volcanic landscapes and salt flats',
+      'Andean condor sightings',
+      'Salinas Lagoon reflections',
+      'Conservation station visits',
+      'Photography paradise'
+    ],
+    highlightsEs: [
+      'Manadas de vicuñas salvajes de cerca',
+      'Tres especies de flamencos en Tocra',
+      'Paisajes volcánicos y salares',
+      'Avistamientos de cóndores andinos',
+      'Reflejos de la Laguna de Salinas',
+      'Visitas a estaciones de conservación',
+      'Paraíso fotográfico'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'moderate',
+    priceRange: '$60-120 per person',
+    priceRangeEs: '$60-120 por persona',
+    bestTime: 'Year-round. April-November dry season best. Early mornings for best wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-noviembre mejor. Temprano en la mañana para mejor actividad de fauna.',
+    includes: [
+      'Transportation from Arequipa',
+      'Professional naturalist guide',
+      'Reserve entrance fees',
+      'Binoculars for wildlife viewing',
+      'Box lunch and hot drinks',
+      'Oxygen for emergencies'
+    ],
+    includesEs: [
+      'Transporte desde Arequipa',
+      'Guía naturalista profesional',
+      'Entradas a la reserva',
+      'Binoculares para observación de fauna',
+      'Almuerzo empacado y bebidas calientes',
+      'Oxígeno para emergencias'
+    ],
+    tips: [
+      'Acclimatize in Arequipa 1-2 days first',
+      'Dress in layers - temperatures vary greatly',
+      'Bring warm hat, gloves, sunscreen',
+      'Telephoto lens recommended',
+      'Coca tea/candy helps with altitude'
+    ],
+    tipsEs: [
+      'Aclimatarse en Arequipa 1-2 días primero',
+      'Vestirse en capas - temperaturas varían mucho',
+      'Trae gorro cálido, guantes, protector solar',
+      'Lente telefoto recomendado',
+      'Té/caramelos de coca ayudan con la altitud'
+    ],
+    safetyNotes: [
+      'Very high altitude (3,900-4,500m) - acclimatize first',
+      'Stay with vehicle - wild terrain',
+      'Weather changes rapidly - be prepared',
+      'Limited facilities - use restrooms in Arequipa',
+      'Children under 6 may struggle with altitude'
+    ],
+    safetyNotesEs: [
+      'Altitud muy alta (3,900-4,500m) - aclimatarse primero',
+      'Quedarse con el vehículo - terreno salvaje',
+      'Clima cambia rápidamente - estar preparado',
+      'Instalaciones limitadas - usar baños en Arequipa',
+      'Niños menores de 6 pueden tener dificultad con la altitud'
+    ],
+    relatedActivities: ['colca-canyon-tour', 'arequipa-city-tour', 'misti-volcano-hike'],
+    providers: [
+      { name: 'Colca Trek', familyFriendly: true },
+      { name: 'Pablo Tour', familyFriendly: true },
+      { name: 'Naturaleza Arequipa', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'punta-sal-beach-experience',
+    name: 'Punta Sal Beach Family Relaxation',
+    nameEs: 'Relajación Familiar en Playa Punta Sal',
+    type: 'relaxation',
+    city: 'tumbes',
+    region: 'Tumbes Region',
+    regionEs: 'Región Tumbes',
+    description: 'Discover Peru\'s finest tropical beach destination at Punta Sal, where warm Pacific waters, golden sands, and year-round sunshine create the perfect family beach escape. Located in Peru\'s northernmost region near the Ecuador border, Punta Sal offers Caribbean-like conditions without leaving Peru - calm turquoise waters ideal for children, excellent seafood, and a relaxed atmosphere that lets families unwind after adventure-filled Peru travels.',
+    descriptionEs: 'Descubre el mejor destino de playa tropical de Perú en Punta Sal, donde aguas cálidas del Pacífico, arenas doradas y sol durante todo el año crean el escape de playa familiar perfecto. Ubicado en la región más norteña de Perú cerca de la frontera con Ecuador, Punta Sal ofrece condiciones similares al Caribe sin salir de Perú - aguas turquesas tranquilas ideales para niños, excelente mariscos y un ambiente relajado que permite a las familias descansar después de viajes llenos de aventura por Perú.',
+    whatToExpect: 'Arrive at your beachfront resort and settle into accommodations steps from the sand. The beach stretches for kilometers with consistently calm, warm waters perfect for swimming and playing. Children can safely wade in shallow areas while parents relax on loungers under palapas. Morning activities might include kayaking, paddleboarding, or snorkeling around rocky points where tropical fish gather. Book a morning boat trip to swim with sea turtles and spot rays gliding through crystal waters. Afternoons are for building sandcastles, beach games, and enjoying fresh ceviche at oceanfront restaurants. During whale season (July-October), take excursions to witness humpback whales breaching offshore - an unforgettable family experience. Sunset brings spectacular colors over the Pacific. Evening dining features the freshest seafood in Peru - langoustines, black clam ceviche, and grilled catch of the day. The warm evenings allow beach bonfires and stargazing far from city lights.',
+    whatToExpectEs: 'Llega a tu resort frente al mar e instálate en alojamientos a pasos de la arena. La playa se extiende por kilómetros con aguas consistentemente tranquilas y cálidas perfectas para nadar y jugar. Los niños pueden vadear con seguridad en áreas poco profundas mientras los padres se relajan en tumbonas bajo palapas. Las actividades matutinas pueden incluir kayak, paddleboard o snorkel alrededor de puntas rocosas donde se reúnen peces tropicales. Reserva un viaje en bote por la mañana para nadar con tortugas marinas y ver rayas deslizándose por aguas cristalinas. Las tardes son para construir castillos de arena, juegos de playa y disfrutar ceviche fresco en restaurantes frente al mar. Durante la temporada de ballenas (julio-octubre), toma excursiones para presenciar ballenas jorobadas saltando mar adentro - una experiencia familiar inolvidable. El atardecer trae colores espectaculares sobre el Pacífico. La cena nocturna presenta los mariscos más frescos de Perú - langostinos, ceviche de conchas negras y pescado a la parrilla del día. Las noches cálidas permiten fogatas en la playa y observación de estrellas lejos de las luces de la ciudad.',
+    highlights: [
+      'Warm, calm swimming waters year-round',
+      'Sea turtle swimming encounters',
+      'Whale watching (July-October)',
+      'Fresh seafood dining',
+      'Kayaking and paddleboarding',
+      'Beach bonfires and stargazing',
+      'Perfect family beach conditions'
+    ],
+    highlightsEs: [
+      'Aguas cálidas y tranquilas para nadar todo el año',
+      'Encuentros nadando con tortugas marinas',
+      'Avistamiento de ballenas (julio-octubre)',
+      'Cenas de mariscos frescos',
+      'Kayak y paddleboard',
+      'Fogatas en la playa y observación de estrellas',
+      'Condiciones de playa perfectas para familias'
+    ],
+    familyRating: 5,
+    minAge: 0,
+    duration: '2-5 days',
+    durationEs: '2-5 días',
+    difficulty: 'easy',
+    priceRange: '$150-400 per night resort',
+    priceRangeEs: '$150-400 por noche resort',
+    bestTime: 'Year-round warm. December-April warmest water. July-October whale season. Avoid January-March occasional rain.',
+    bestTimeEs: 'Cálido todo el año. Diciembre-abril agua más cálida. Julio-octubre temporada de ballenas. Evitar enero-marzo lluvia ocasional.',
+    includes: [
+      'Beach access and loungers',
+      'Non-motorized water sports',
+      'Resort pools and facilities',
+      'Activities vary by resort',
+      'Most include breakfast'
+    ],
+    includesEs: [
+      'Acceso a playa y tumbonas',
+      'Deportes acuáticos no motorizados',
+      'Piscinas e instalaciones del resort',
+      'Actividades varían por resort',
+      'La mayoría incluye desayuno'
+    ],
+    tips: [
+      'Fly to Tumbes, transfer 1 hour south',
+      'Book whale watching in advance July-October',
+      'Bring reef-safe sunscreen',
+      'Exchange money in Tumbes - limited ATMs',
+      'Reserve resorts well ahead for holidays'
+    ],
+    tipsEs: [
+      'Vuela a Tumbes, traslado 1 hora al sur',
+      'Reserva avistamiento de ballenas con anticipación julio-octubre',
+      'Trae protector solar seguro para arrecifes',
+      'Cambia dinero en Tumbes - cajeros limitados',
+      'Reserva resorts con anticipación para feriados'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Calm waters - still supervise children',
+      'Strong sun - reapply sunscreen frequently',
+      'Jellyfish occasionally present - ask locals',
+      'Resort areas very safe'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Aguas tranquilas - aún supervisar niños',
+      'Sol fuerte - reaplicar protector solar frecuentemente',
+      'Medusas ocasionalmente presentes - preguntar a locales',
+      'Áreas de resort muy seguras'
+    ],
+    relatedActivities: ['mancora-beach-surf', 'tumbes-mangroves-tour', 'cabo-blanco-fishing'],
+    providers: [
+      { name: 'DCO Suites Lounge & Spa', familyFriendly: true },
+      { name: 'Punta Sal Suites & Bungalows', familyFriendly: true },
+      { name: 'Hotel Caballito de Mar', familyFriendly: true }
+    ]
   }
 ];
 
