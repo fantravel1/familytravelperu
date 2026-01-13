@@ -7790,6 +7790,298 @@ export const sites: Site[] = [
       'Cajeros automáticos en ciudad de Ica',
       'Servicios médicos básicos en Ica'
     ]
+  },
+  {
+    slug: 'arequipa-historic-center',
+    name: 'Arequipa Historic Center',
+    nameEs: 'Centro Histórico de Arequipa',
+    type: 'cultural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    altitude: 2335,
+    description: 'Peru\'s stunning "White City" features colonial architecture built from sillar volcanic stone, crowned by the magnificent Santa Catalina Monastery. This UNESCO World Heritage city combines Spanish colonial grandeur with dramatic volcanic mountain backdrops.',
+    descriptionEs: 'La impresionante "Ciudad Blanca" del Perú presenta arquitectura colonial construida con piedra volcánica sillar, coronada por el magnífico Monasterio de Santa Catalina. Esta ciudad Patrimonio de la Humanidad UNESCO combina grandeza colonial española con dramáticos telones de fondo de montañas volcánicas.',
+    history: 'Founded by Spanish conquistadors in 1540, Arequipa was built using white sillar stone from nearby volcanoes. The city became a wealthy trading center and developed its distinct architectural style. Earthquakes have repeatedly damaged the city, but meticulous reconstruction preserved its colonial character. The Santa Catalina Monastery, founded in 1579, is a city within a city.',
+    historyEs: 'Fundada por conquistadores españoles en 1540, Arequipa fue construida usando piedra sillar blanca de volcanes cercanos. La ciudad se convirtió en un próspero centro comercial y desarrolló su distintivo estilo arquitectónico. Los terremotos han dañado repetidamente la ciudad, pero la meticulosa reconstrucción preservó su carácter colonial. El Monasterio de Santa Catalina, fundado en 1579, es una ciudad dentro de la ciudad.',
+    highlights: [
+      'UNESCO World Heritage Site',
+      'Santa Catalina Monastery',
+      'White sillar stone architecture',
+      'Plaza de Armas and Cathedral',
+      'Volcano views (Misti, Chachani)'
+    ],
+    highlightsEs: [
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Monasterio de Santa Catalina',
+      'Arquitectura de piedra sillar blanca',
+      'Plaza de Armas y Catedral',
+      'Vistas de volcanes (Misti, Chachani)'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '1-2 days',
+    durationEs: '1-2 días',
+    difficulty: 'easy',
+    entranceFee: 'Santa Catalina 40 soles; other sites vary',
+    entranceFeeEs: 'Santa Catalina 40 soles; otros sitios varían',
+    bestTime: 'Year-round. April-December driest months.',
+    bestTimeEs: 'Todo el año. Abril-Diciembre meses más secos.',
+    tips: [
+      'Santa Catalina needs 2-3 hours minimum',
+      'Try rocoto relleno local dish',
+      'Walk the historic center easily',
+      'Great base for Colca Canyon trips',
+      'Lower altitude than Cusco - easier adjustment',
+      'Sunset from Yanahuara viewpoint stunning'
+    ],
+    tipsEs: [
+      'Santa Catalina necesita mínimo 2-3 horas',
+      'Prueba el plato local rocoto relleno',
+      'Camina el centro histórico fácilmente',
+      'Gran base para viajes al Cañón del Colca',
+      'Menor altitud que Cusco - ajuste más fácil',
+      'Atardecer desde mirador de Yanahuara impresionante'
+    ],
+    nearbyAttractions: ['colca-canyon', 'misti-volcano', 'yanahuara'],
+    relatedSites: ['colca-canyon', 'cusco', 'lake-titicaca'],
+    gettingThere: 'Domestic flights from Lima (1.5 hours) or overnight bus. International airport.',
+    gettingThereEs: 'Vuelos domésticos desde Lima (1.5 horas) o bus nocturno. Aeropuerto internacional.',
+    facilities: [
+      'Full city services',
+      'Wide range of hotels',
+      'Excellent restaurants',
+      'Tour agencies',
+      'Museums and galleries',
+      'Modern medical facilities'
+    ],
+    facilitiesEs: [
+      'Servicios completos de ciudad',
+      'Amplia gama de hoteles',
+      'Excelentes restaurantes',
+      'Agencias de turismo',
+      'Museos y galerías',
+      'Instalaciones médicas modernas'
+    ]
+  },
+  {
+    slug: 'kuelap-fortress',
+    name: 'Kuelap Fortress',
+    nameEs: 'Fortaleza de Kuélap',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 3000,
+    description: 'This massive stone citadel of the Chachapoya "Cloud Warriors" rivals Machu Picchu in scale but predates it by 600 years. Perched on a mountain ridge, the fortress features 20-meter walls, circular buildings, and intricate stone friezes.',
+    descriptionEs: 'Esta masiva ciudadela de piedra de los "Guerreros de las Nubes" Chachapoya rivaliza con Machu Picchu en escala pero es 600 años más antigua. Ubicada en una cresta montañosa, la fortaleza presenta muros de 20 metros, edificios circulares y frisos de piedra intrincados.',
+    history: 'Built by the Chachapoya civilization between 500-1500 AD, Kuelap was a fortified city housing up to 3,000 people. The Chachapoya resisted Inca conquest until the 1470s, and Kuelap may have been their final stronghold. The site was rediscovered in 1843 and is still being excavated, revealing the sophistication of this "lost" civilization.',
+    historyEs: 'Construida por la civilización Chachapoya entre 500-1500 d.C., Kuélap fue una ciudad fortificada que albergó hasta 3,000 personas. Los Chachapoya resistieron la conquista Inca hasta la década de 1470, y Kuélap pudo haber sido su último bastión. El sitio fue redescubierto en 1843 y todavía se está excavando, revelando la sofisticación de esta civilización "perdida".',
+    highlights: [
+      'Pre-Inca citadel older than Machu Picchu',
+      'Massive 20-meter defensive walls',
+      'Over 400 circular buildings',
+      'Unique zigzag frieze decorations',
+      'Cable car access with stunning views'
+    ],
+    highlightsEs: [
+      'Ciudadela pre-Inca más antigua que Machu Picchu',
+      'Masivos muros defensivos de 20 metros',
+      'Más de 400 edificios circulares',
+      'Decoraciones de frisos en zigzag únicos',
+      'Acceso en teleférico con vistas impresionantes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'moderate',
+    entranceFee: 'Site 20 soles; cable car 20 soles round trip',
+    entranceFeeEs: 'Sitio 20 soles; teleférico 20 soles ida y vuelta',
+    bestTime: 'May-September (dry season). Can be foggy year-round.',
+    bestTimeEs: 'Mayo-Septiembre (temporada seca). Puede estar nublado todo el año.',
+    tips: [
+      'Book cable car tickets in advance',
+      'Arrive early for clearest weather',
+      'Bring warm layers - often misty',
+      'Walking shoes with good grip essential',
+      'Allow 2-3 hours exploring the ruins',
+      'Combine with Gocta Falls trip'
+    ],
+    tipsEs: [
+      'Reserva boletos de teleférico con anticipación',
+      'Llega temprano para clima más claro',
+      'Lleva capas abrigadas - frecuentemente brumoso',
+      'Zapatos para caminar con buen agarre esenciales',
+      'Dedica 2-3 horas explorando las ruinas',
+      'Combina con viaje a Cataratas de Gocta'
+    ],
+    nearbyAttractions: ['gocta-falls', 'chachapoyas', 'karajia'],
+    relatedSites: ['machu-picchu', 'choquequirao', 'gran-vilaya'],
+    gettingThere: 'Cable car from Nuevo Tingo (1.5 hours from Chachapoyas). Flights to Jaén then drive.',
+    gettingThereEs: 'Teleférico desde Nuevo Tingo (1.5 horas desde Chachapoyas). Vuelos a Jaén y luego manejar.',
+    facilities: [
+      'Cable car station with facilities',
+      'Restrooms at site entrance',
+      'Local guides available',
+      'Small museum',
+      'Snack vendors',
+      'Parking at cable car base'
+    ],
+    facilitiesEs: [
+      'Estación de teleférico con instalaciones',
+      'Baños en entrada del sitio',
+      'Guías locales disponibles',
+      'Pequeño museo',
+      'Vendedores de bocadillos',
+      'Estacionamiento en base del teleférico'
+    ]
+  },
+  {
+    slug: 'mancora-beach',
+    name: 'Máncora Beach',
+    nameEs: 'Playa de Máncora',
+    type: 'natural',
+    city: 'piura',
+    region: 'Piura Region',
+    regionEs: 'Región Piura',
+    altitude: 0,
+    description: 'Peru\'s premier beach destination offers warm waters year-round, excellent surfing, and a laid-back tropical vibe. This northern coastal town has transformed from fishing village to family-friendly resort with whale watching, sea turtle encounters, and stunning sunsets.',
+    descriptionEs: 'El principal destino de playa del Perú ofrece aguas cálidas todo el año, excelente surf y un ambiente tropical relajado. Este pueblo costero del norte se ha transformado de aldea pesquera a resort familiar con avistamiento de ballenas, encuentros con tortugas marinas y atardeceres impresionantes.',
+    history: 'Máncora was a small fishing village until surfers discovered its consistent waves in the 1970s. The town developed gradually into Peru\'s most popular beach destination while maintaining its relaxed atmosphere. The warm Equatorial Counter-Current keeps waters warm year-round, unlike Peru\'s cold central coast.',
+    historyEs: 'Máncora era una pequeña aldea pesquera hasta que los surfistas descubrieron sus olas consistentes en los años 1970. El pueblo se desarrolló gradualmente hasta convertirse en el destino de playa más popular del Perú mientras mantenía su atmósfera relajada. La cálida Contracorriente Ecuatorial mantiene las aguas cálidas todo el año, a diferencia de la fría costa central del Perú.',
+    highlights: [
+      'Warm water year-round',
+      'Excellent surf breaks',
+      'Whale watching (July-October)',
+      'Sea turtle conservation',
+      'Beautiful Pacific sunsets'
+    ],
+    highlightsEs: [
+      'Agua cálida todo el año',
+      'Excelentes olas para surf',
+      'Avistamiento de ballenas (Julio-Octubre)',
+      'Conservación de tortugas marinas',
+      'Hermosos atardeceres del Pacífico'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '2-5 days',
+    durationEs: '2-5 días',
+    difficulty: 'easy',
+    entranceFee: 'Free beach access',
+    entranceFeeEs: 'Acceso gratuito a la playa',
+    bestTime: 'Year-round warm. December-April hottest. July-October for whales.',
+    bestTimeEs: 'Cálido todo el año. Diciembre-Abril más caliente. Julio-Octubre para ballenas.',
+    tips: [
+      'Book accommodations in advance (peak season)',
+      'Surf lessons available for beginners',
+      'Visit Los Órganos for sea turtles',
+      'Whale watching boats from nearby ports',
+      'Sunsets best from beach restaurants',
+      'Mosquitoes at dusk - bring repellent'
+    ],
+    tipsEs: [
+      'Reserva alojamiento con anticipación (temporada alta)',
+      'Clases de surf disponibles para principiantes',
+      'Visita Los Órganos para tortugas marinas',
+      'Botes de avistamiento de ballenas desde puertos cercanos',
+      'Atardeceres mejores desde restaurantes de playa',
+      'Mosquitos al atardecer - lleva repelente'
+    ],
+    nearbyAttractions: ['los-organos', 'punta-sal', 'vichayito'],
+    relatedSites: ['los-organos', 'cabo-blanco', 'tumbes'],
+    gettingThere: 'Flights to Piura or Tumbes then 2-3 hour drive. Overnight buses from Lima.',
+    gettingThereEs: 'Vuelos a Piura o Tumbes y luego 2-3 horas en auto. Buses nocturnos desde Lima.',
+    facilities: [
+      'Beach hotels and hostels',
+      'Surf schools and rentals',
+      'Restaurants and beach bars',
+      'ATMs available',
+      'Basic medical services',
+      'Tour operators for excursions'
+    ],
+    facilitiesEs: [
+      'Hoteles y hostales de playa',
+      'Escuelas de surf y alquiler',
+      'Restaurantes y bares de playa',
+      'Cajeros automáticos disponibles',
+      'Servicios médicos básicos',
+      'Operadores turísticos para excursiones'
+    ]
+  },
+  {
+    slug: 'ica-pisco-vineyards',
+    name: 'Ica Valley Pisco Vineyards',
+    nameEs: 'Viñedos de Pisco del Valle de Ica',
+    type: 'cultural',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 400,
+    description: 'Explore the sun-drenched vineyards where Peru\'s national spirit is born. Family-friendly winery tours reveal the centuries-old tradition of pisco production, from grape to glass, with tastings of wines and the famous grape brandy.',
+    descriptionEs: 'Explora los viñedos bañados por el sol donde nace el espíritu nacional del Perú. Tours familiares de bodegas revelan la tradición centenaria de producción de pisco, desde la uva hasta la copa, con degustaciones de vinos y el famoso aguardiente de uva.',
+    history: 'Spanish conquistadors planted the first grapevines in Ica in the 1540s. By the 1600s, the region was producing pisco for export throughout the Americas. Traditional bodegas still use copper pot stills and clay tinajas (vessels) for fermentation. The warm desert climate and cool Pacific breezes create ideal grape-growing conditions.',
+    historyEs: 'Los conquistadores españoles plantaron las primeras vides en Ica en la década de 1540. Para los 1600, la región producía pisco para exportación por toda América. Las bodegas tradicionales todavía usan alambiques de cobre y tinajas de arcilla para fermentación. El clima cálido del desierto y las brisas frescas del Pacífico crean condiciones ideales para el cultivo de uvas.',
+    highlights: [
+      'Traditional pisco distilleries',
+      'Wine and pisco tastings',
+      'Historic hacienda bodegas',
+      'Grape harvest festivals (March)',
+      'Learn pisco cocktail making'
+    ],
+    highlightsEs: [
+      'Destilerías tradicionales de pisco',
+      'Degustaciones de vino y pisco',
+      'Bodegas de haciendas históricas',
+      'Festivales de vendimia (Marzo)',
+      'Aprende a preparar cócteles de pisco'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    entranceFee: 'Most bodegas free entry; tastings included',
+    entranceFeeEs: 'Mayoría de bodegas entrada gratuita; degustaciones incluidas',
+    bestTime: 'Year-round. March harvest festival most festive.',
+    bestTimeEs: 'Todo el año. Festival de vendimia de Marzo más festivo.',
+    tips: [
+      'Visit multiple bodegas for variety',
+      'Designated driver needed if tasting',
+      'Kids enjoy grape juice and grounds',
+      'March harvest festival is spectacular',
+      'Buy pisco directly - best prices',
+      'Combine with Huacachina visit'
+    ],
+    tipsEs: [
+      'Visita múltiples bodegas para variedad',
+      'Conductor designado necesario si degustas',
+      'Niños disfrutan jugo de uva y jardines',
+      'Festival de vendimia de Marzo es espectacular',
+      'Compra pisco directamente - mejores precios',
+      'Combina con visita a Huacachina'
+    ],
+    nearbyAttractions: ['huacachina', 'nazca-lines', 'paracas'],
+    relatedSites: ['huacachina-oasis', 'nazca-lines', 'ballestas-islands'],
+    gettingThere: 'Ica is 4-5 hours from Lima by bus or car. Vineyards throughout the valley.',
+    gettingThereEs: 'Ica está a 4-5 horas de Lima en bus o auto. Viñedos por todo el valle.',
+    facilities: [
+      'Winery tasting rooms',
+      'Restaurant at some bodegas',
+      'Gift shops',
+      'Parking available',
+      'Guided tours',
+      'Restrooms on site'
+    ],
+    facilitiesEs: [
+      'Salas de degustación en bodegas',
+      'Restaurante en algunas bodegas',
+      'Tiendas de regalos',
+      'Estacionamiento disponible',
+      'Tours guiados',
+      'Baños en el sitio'
+    ]
   }
 ];
 

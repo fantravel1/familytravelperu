@@ -8697,6 +8697,356 @@ export const activities: Activity[] = [
       { name: 'Colca Lodge Spa', familyFriendly: true },
       { name: 'Hotel Eco Inn', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'arequipa-santa-catalina-tour',
+    name: 'Arequipa & Santa Catalina Tour',
+    nameEs: 'Tour Arequipa y Santa Catalina',
+    type: 'cultural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Discover the White City\'s colonial splendor including the stunning Santa Catalina Monastery, a colorful city-within-a-city where cloistered nuns lived for centuries. Walk the historic streets of this UNESCO World Heritage Site.',
+    descriptionEs: 'Descubre el esplendor colonial de la Ciudad Blanca incluyendo el impresionante Monasterio de Santa Catalina, una colorida ciudad-dentro-de-la-ciudad donde monjas de clausura vivieron por siglos. Camina las calles históricas de este Sitio Patrimonio de la Humanidad UNESCO.',
+    whatToExpect: 'Begin at Arequipa\'s magnificent Plaza de Armas surrounded by sillar stone buildings and the imposing Cathedral. The highlight is Santa Catalina Monastery - spend 2 hours wandering its maze of cobblestone streets, brightly painted walls, and tranquil cloisters. See original kitchens, cells, and art collections. Continue to the Yanahuara viewpoint for volcano vistas, then explore local markets and sample traditional picanterías.',
+    whatToExpectEs: 'Comienza en la magnífica Plaza de Armas de Arequipa rodeada de edificios de piedra sillar y la imponente Catedral. Lo más destacado es el Monasterio de Santa Catalina - pasa 2 horas vagando por su laberinto de calles empedradas, paredes de colores brillantes y claustros tranquilos. Ve cocinas originales, celdas y colecciones de arte. Continúa al mirador de Yanahuara para vistas de volcanes, luego explora mercados locales y prueba picanterías tradicionales.',
+    highlights: [
+      'Santa Catalina Monastery exploration',
+      'UNESCO Historic Center',
+      'White sillar architecture',
+      'Volcano viewpoints',
+      'Traditional Arequipeño cuisine'
+    ],
+    highlightsEs: [
+      'Exploración del Monasterio de Santa Catalina',
+      'Centro Histórico UNESCO',
+      'Arquitectura de sillar blanco',
+      'Miradores de volcanes',
+      'Cocina tradicional arequipeña'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person including entrances',
+    priceRangeEs: '$40-70 por persona incluyendo entradas',
+    bestTime: 'Year-round, morning tours have best light',
+    bestTimeEs: 'Todo el año, tours matutinos tienen mejor luz',
+    includes: [
+      'Professional bilingual guide',
+      'Santa Catalina entrance',
+      'Cathedral visit',
+      'Yanahuara viewpoint',
+      'Market visit',
+      'Transportation if needed'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Entrada a Santa Catalina',
+      'Visita a la Catedral',
+      'Mirador de Yanahuara',
+      'Visita al mercado',
+      'Transporte si es necesario'
+    ],
+    tips: [
+      'Wear comfortable walking shoes',
+      'Santa Catalina best in morning light',
+      'Try rocoto relleno for lunch',
+      'Photography allowed at monastery',
+      'Lower altitude than Cusco - easier',
+      'Great prep day before Colca trip'
+    ],
+    tipsEs: [
+      'Usa zapatos cómodos para caminar',
+      'Santa Catalina mejor con luz matutina',
+      'Prueba rocoto relleno para almuerzo',
+      'Fotografía permitida en el monasterio',
+      'Menor altitud que Cusco - más fácil',
+      'Gran día de preparación antes de viaje a Colca'
+    ],
+    safetyNotes: [
+      'Easy walking on flat terrain',
+      'Sun protection recommended',
+      'Stay with group in markets',
+      'Watch valuables in crowded areas',
+      'Altitude 2,335m - manageable for most'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en terreno plano',
+      'Se recomienda protección solar',
+      'Permanece con el grupo en mercados',
+      'Cuida tus objetos de valor en áreas concurridas',
+      'Altitud 2,335m - manejable para la mayoría'
+    ],
+    relatedActivities: ['colca-condor-watching', 'arequipa-food-tour', 'juanita-mummy-visit'],
+    providers: [
+      { name: 'Free Walking Tour Arequipa', familyFriendly: true },
+      { name: 'Arequipa Tours', familyFriendly: true },
+      { name: 'Colonial Tours Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'mancora-surf-lessons',
+    name: 'Máncora Surf Lessons',
+    nameEs: 'Clases de Surf en Máncora',
+    type: 'adventure',
+    city: 'piura',
+    region: 'Piura Region',
+    regionEs: 'Región Piura',
+    description: 'Learn to surf in Peru\'s warmest waters with patient instructors and gentle waves perfect for beginners. Máncora\'s consistent swells and year-round warm temperatures make it the ideal place for families to catch their first waves.',
+    descriptionEs: 'Aprende a surfear en las aguas más cálidas del Perú con instructores pacientes y olas suaves perfectas para principiantes. Las olas consistentes de Máncora y temperaturas cálidas todo el año lo hacen el lugar ideal para que las familias atrapen sus primeras olas.',
+    whatToExpect: 'Meet your instructor on the beach for a land-based introduction covering safety, paddling technique, and how to pop up on the board. Enter the warm water (no wetsuit needed!) and practice on gentle whitewash waves. Instructors stay in the water providing hands-on guidance, helping you catch waves and stand up. Most beginners are riding waves within the first lesson. Multiple sessions available for progression.',
+    whatToExpectEs: 'Conoce a tu instructor en la playa para una introducción en tierra cubriendo seguridad, técnica de remado y cómo pararte en la tabla. Entra al agua cálida (¡no se necesita traje de neopreno!) y practica en olas suaves de espuma. Los instructores permanecen en el agua proporcionando guía práctica, ayudándote a atrapar olas y pararte. La mayoría de principiantes están surfeando olas en la primera lección. Múltiples sesiones disponibles para progresión.',
+    highlights: [
+      'Warm water - no wetsuit needed',
+      'Patient, certified instructors',
+      'Gentle beginner-friendly waves',
+      'All equipment provided',
+      'Year-round consistent conditions'
+    ],
+    highlightsEs: [
+      'Agua cálida - no se necesita traje de neopreno',
+      'Instructores certificados y pacientes',
+      'Olas suaves amigables para principiantes',
+      'Todo el equipo proporcionado',
+      'Condiciones consistentes todo el año'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '1.5-2 hours per lesson',
+    durationEs: '1.5-2 horas por lección',
+    difficulty: 'easy',
+    priceRange: '$25-45 per person per lesson',
+    priceRangeEs: '$25-45 por persona por lección',
+    bestTime: 'Year-round, morning sessions have smaller crowds',
+    bestTimeEs: 'Todo el año, sesiones matutinas tienen menos gente',
+    includes: [
+      'Certified surf instructor',
+      'Surfboard and leash',
+      'Rash guard if needed',
+      'Beach instruction',
+      'In-water coaching',
+      'Photos sometimes available'
+    ],
+    includesEs: [
+      'Instructor de surf certificado',
+      'Tabla de surf y leash',
+      'Licra si es necesario',
+      'Instrucción en la playa',
+      'Coaching en el agua',
+      'Fotos a veces disponibles'
+    ],
+    tips: [
+      'Morning lessons less crowded',
+      'Apply reef-safe sunscreen before',
+      'Eat light breakfast beforehand',
+      'Bring water to stay hydrated',
+      'Book multiple lessons to progress',
+      'Ask about family group rates'
+    ],
+    tipsEs: [
+      'Lecciones matutinas menos concurridas',
+      'Aplica protector solar seguro para arrecifes antes',
+      'Desayuna ligero antes',
+      'Lleva agua para mantenerte hidratado',
+      'Reserva múltiples lecciones para progresar',
+      'Pregunta por tarifas de grupo familiar'
+    ],
+    safetyNotes: [
+      'Stay in designated lesson area',
+      'Listen to instructor at all times',
+      'Waves can be stronger than expected',
+      'Protect eyes from sun glare',
+      'Rest if fatigued'
+    ],
+    safetyNotesEs: [
+      'Permanece en área designada de lección',
+      'Escucha al instructor en todo momento',
+      'Las olas pueden ser más fuertes de lo esperado',
+      'Protege los ojos del resplandor del sol',
+      'Descansa si estás fatigado'
+    ],
+    relatedActivities: ['whale-watching-mancora', 'sea-turtle-snorkeling', 'mancora-beach-day'],
+    providers: [
+      { name: 'Máncora Surf School', familyFriendly: true },
+      { name: 'Laguna Surf Camp', familyFriendly: true },
+      { name: 'Wave Hunters Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ica-pisco-tasting-tour',
+    name: 'Ica Pisco & Wine Tasting Tour',
+    nameEs: 'Tour de Degustación de Pisco y Vino en Ica',
+    type: 'culinary',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Visit traditional bodegas in Peru\'s wine country to discover how pisco, the national spirit, is crafted from grape to glass. Tour historic haciendas, see copper pot stills, and taste award-winning piscos and wines.',
+    descriptionEs: 'Visita bodegas tradicionales en la región vinícola del Perú para descubrir cómo el pisco, el espíritu nacional, se elabora desde la uva hasta la copa. Recorre haciendas históricas, ve alambiques de cobre y degusta piscos y vinos premiados.',
+    whatToExpect: 'Visit 2-3 traditional bodegas in the Ica Valley, starting with historic haciendas that have produced pisco for centuries. Walk through vineyards, see the old copper pot stills and clay fermentation vessels called tinajas. Learn about different grape varieties and pisco styles (puro, acholado, mosto verde). Taste multiple piscos and wines at each bodega. Kids enjoy fresh grape juice and exploring the beautiful grounds.',
+    whatToExpectEs: 'Visita 2-3 bodegas tradicionales en el Valle de Ica, comenzando con haciendas históricas que han producido pisco por siglos. Camina por viñedos, ve los viejos alambiques de cobre y vasijas de arcilla para fermentación llamadas tinajas. Aprende sobre diferentes variedades de uva y estilos de pisco (puro, acholado, mosto verde). Degusta múltiples piscos y vinos en cada bodega. Los niños disfrutan jugo de uva fresco y explorar los hermosos jardines.',
+    highlights: [
+      'Visit historic pisco bodegas',
+      'See traditional distillation process',
+      'Taste premium piscos and wines',
+      'Learn pisco cocktail making',
+      'Beautiful hacienda settings'
+    ],
+    highlightsEs: [
+      'Visita bodegas históricas de pisco',
+      'Ve el proceso de destilación tradicional',
+      'Degusta piscos y vinos premium',
+      'Aprende a preparar cócteles de pisco',
+      'Hermosos entornos de hacienda'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round, March harvest festival most festive',
+    bestTimeEs: 'Todo el año, festival de vendimia de Marzo más festivo',
+    includes: [
+      'Transportation to bodegas',
+      'Bilingual guide',
+      'Bodega entrance fees',
+      'Multiple tastings',
+      'Pisco sour demonstration',
+      'Grape juice for children'
+    ],
+    includesEs: [
+      'Transporte a bodegas',
+      'Guía bilingüe',
+      'Entradas a bodegas',
+      'Múltiples degustaciones',
+      'Demostración de pisco sour',
+      'Jugo de uva para niños'
+    ],
+    tips: [
+      'Designate a non-drinking driver',
+      'Eat before tasting sessions',
+      'Buy pisco directly - best prices',
+      'March harvest festival spectacular',
+      'Combine with Huacachina same day',
+      'Ask about shipping bottles home'
+    ],
+    tipsEs: [
+      'Designa un conductor que no beba',
+      'Come antes de las sesiones de degustación',
+      'Compra pisco directamente - mejores precios',
+      'Festival de vendimia de Marzo espectacular',
+      'Combina con Huacachina el mismo día',
+      'Pregunta sobre envío de botellas a casa'
+    ],
+    safetyNotes: [
+      'Drink responsibly',
+      'Designated driver essential',
+      'Sun protection at vineyards',
+      'Some uneven walking surfaces',
+      'Stay hydrated between tastings'
+    ],
+    safetyNotesEs: [
+      'Bebe responsablemente',
+      'Conductor designado esencial',
+      'Protección solar en viñedos',
+      'Algunas superficies irregulares para caminar',
+      'Mantente hidratado entre degustaciones'
+    ],
+    relatedActivities: ['huacachina-sandboarding-buggy', 'nazca-lines-flight', 'lima-pisco-tour'],
+    providers: [
+      { name: 'Ica Wine Tours', familyFriendly: true },
+      { name: 'Tacama Bodega', familyFriendly: true },
+      { name: 'Vista Alegre Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sea-turtle-snorkeling-organos',
+    name: 'Sea Turtle Snorkeling Los Órganos',
+    nameEs: 'Snorkel con Tortugas Marinas en Los Órganos',
+    type: 'nature',
+    city: 'piura',
+    region: 'Piura Region',
+    regionEs: 'Región Piura',
+    description: 'Swim alongside gentle green sea turtles in the warm waters near Máncora. This magical snorkeling experience at El Ñuro pier offers close encounters with resident turtles in their natural habitat.',
+    descriptionEs: 'Nada junto a gentiles tortugas marinas verdes en las cálidas aguas cerca de Máncora. Esta mágica experiencia de snorkel en el muelle de El Ñuro ofrece encuentros cercanos con tortugas residentes en su hábitat natural.',
+    whatToExpect: 'Travel to the fishing village of El Ñuro, where green sea turtles congregate around the pier attracted by fish scraps from local fishermen. Don snorkel gear and enter the warm water where turtles swim lazily beneath the surface. Watch them gracefully glide past, surfacing to breathe. The turtles are accustomed to snorkelers and often approach curiously. Some tours include boat trips to see more turtles and marine life.',
+    whatToExpectEs: 'Viaja al pueblo pesquero de El Ñuro, donde las tortugas marinas verdes se congregan alrededor del muelle atraídas por restos de pescado de los pescadores locales. Ponte equipo de snorkel y entra al agua cálida donde las tortugas nadan perezosamente bajo la superficie. Obsérvalas deslizarse graciosamente, subiendo a respirar. Las tortugas están acostumbradas a los snorkelers y frecuentemente se acercan curiosamente. Algunos tours incluyen paseos en bote para ver más tortugas y vida marina.',
+    highlights: [
+      'Swim with wild sea turtles',
+      'Warm water - no wetsuit needed',
+      'Close-up turtle encounters',
+      'Easy for all skill levels',
+      'Marine conservation experience'
+    ],
+    highlightsEs: [
+      'Nada con tortugas marinas salvajes',
+      'Agua cálida - no se necesita traje de neopreno',
+      'Encuentros cercanos con tortugas',
+      'Fácil para todos los niveles',
+      'Experiencia de conservación marina'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$20-40 per person',
+    priceRangeEs: '$20-40 por persona',
+    bestTime: 'Year-round, morning for calmer waters',
+    bestTimeEs: 'Todo el año, mañana para aguas más calmadas',
+    includes: [
+      'Transportation from Máncora',
+      'Snorkel equipment',
+      'Life jacket if needed',
+      'Guide supervision',
+      'Towels sometimes provided'
+    ],
+    includesEs: [
+      'Transporte desde Máncora',
+      'Equipo de snorkel',
+      'Chaleco salvavidas si es necesario',
+      'Supervisión de guía',
+      'Toallas a veces proporcionadas'
+    ],
+    tips: [
+      'Don\'t touch the turtles',
+      'Reef-safe sunscreen only',
+      'Bring underwater camera',
+      'Life jackets available for kids',
+      'Morning visits less crowded',
+      'Respect the wildlife'
+    ],
+    tipsEs: [
+      'No toques las tortugas',
+      'Solo protector solar seguro para arrecifes',
+      'Lleva cámara subacuática',
+      'Chalecos salvavidas disponibles para niños',
+      'Visitas matutinas menos concurridas',
+      'Respeta la vida silvestre'
+    ],
+    safetyNotes: [
+      'Stay near the pier area',
+      'Never touch or chase turtles',
+      'Watch for boat traffic',
+      'Use life jacket if not confident swimmer',
+      'Follow guide instructions'
+    ],
+    safetyNotesEs: [
+      'Permanece cerca del área del muelle',
+      'Nunca toques o persigas a las tortugas',
+      'Cuidado con el tráfico de botes',
+      'Usa chaleco salvavidas si no eres nadador seguro',
+      'Sigue instrucciones del guía'
+    ],
+    relatedActivities: ['mancora-surf-lessons', 'whale-watching-mancora', 'mancora-beach-day'],
+    providers: [
+      { name: 'Pacifico Adventures', familyFriendly: true },
+      { name: 'El Ñuro Tours', familyFriendly: true },
+      { name: 'Máncora Sea Tours', familyFriendly: true }
+    ]
   }
 ];
 
