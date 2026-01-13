@@ -10084,6 +10084,306 @@ export const sites: Site[] = [
       'Áreas de descanso con sombra',
       'Pequeño museo'
     ]
+  },
+  {
+    slug: 'sillustani',
+    name: 'Sillustani Burial Towers',
+    nameEs: 'Torres Funerarias de Sillustani',
+    type: 'archaeological',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3840,
+    description: 'Sillustani is one of Peru\'s most visually striking archaeological sites, featuring remarkable circular stone towers called chullpas rising against the dramatic backdrop of Lake Umayo. Built by the Colla people and later the Incas, these funerary towers held the remains of nobility and showcase extraordinary pre-Columbian engineering. The windswept peninsula setting provides unforgettable photo opportunities and a powerful connection to ancient Andean burial traditions.',
+    descriptionEs: 'Sillustani es uno de los sitios arqueológicos más visualmente impactantes de Perú, presentando notables torres circulares de piedra llamadas chullpas alzándose contra el dramático telón de fondo del Lago Umayo. Construidas por el pueblo Colla y más tarde los Incas, estas torres funerarias contenían los restos de la nobleza y muestran extraordinaria ingeniería precolombina. El entorno de península azotada por el viento proporciona oportunidades fotográficas inolvidables y una poderosa conexión con las antiguas tradiciones funerarias andinas.',
+    history: 'Sillustani\'s chullpas were built primarily by the Colla people between 1200-1450 CE, with additional construction after Inca conquest. The towers were built wider at the top than at the base, defying gravity through masterful stone fitting. Each chullpa held the mummified remains of noble families, positioned facing the rising sun with grave goods for the afterlife. The largest tower rises 12 meters and contains stones weighing several tons. Spanish chronicles describe how some towers were looted during colonial times, but many still stand. The site\'s position on a peninsula jutting into Lake Umayo was chosen for its spiritual significance - water was considered a portal to the underworld. Today Sillustani offers rare insight into pre-Inca and Inca death rituals.',
+    historyEs: 'Las chullpas de Sillustani fueron construidas principalmente por el pueblo Colla entre 1200-1450 EC, con construcción adicional después de la conquista Inca. Las torres fueron construidas más anchas en la parte superior que en la base, desafiando la gravedad mediante maestría en el ajuste de piedras. Cada chullpa contenía los restos momificados de familias nobles, posicionados mirando hacia el sol naciente con objetos funerarios para la otra vida. La torre más grande se eleva 12 metros y contiene piedras de varias toneladas. Las crónicas españolas describen cómo algunas torres fueron saqueadas durante tiempos coloniales, pero muchas aún permanecen. La posición del sitio en una península que se adentra en el Lago Umayo fue elegida por su significado espiritual - el agua era considerada un portal al inframundo. Hoy Sillustani ofrece una visión rara de los rituales de muerte pre-Incas e Incas.',
+    highlights: [
+      'Dramatic circular burial towers (chullpas)',
+      'Stunning Lake Umayo backdrop',
+      'Pre-Inca and Inca engineering',
+      'Incredible photo opportunities',
+      'Less crowded than major sites',
+      'Wild vicuñas often visible',
+      'Traditional Aymara communities nearby'
+    ],
+    highlightsEs: [
+      'Dramáticas torres funerarias circulares (chullpas)',
+      'Impresionante telón de fondo del Lago Umayo',
+      'Ingeniería pre-Inca e Inca',
+      'Increíbles oportunidades fotográficas',
+      'Menos concurrido que sitios principales',
+      'Vicuñas salvajes frecuentemente visibles',
+      'Comunidades Aymara tradicionales cercanas'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 adults, S/8 students (Boleto Turístico)',
+    entranceFeeEs: 'S/15 adultos, S/8 estudiantes (Boleto Turístico)',
+    bestTime: 'Year-round. April-October dry season best. Late afternoon for golden light on towers.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre mejor. Tarde para luz dorada en las torres.',
+    tips: [
+      'Late afternoon visits have best photography light',
+      'Combine with Lake Titicaca islands day tour',
+      'Dress warmly - the site is very windy',
+      'Look for wild vicuñas on the peninsula',
+      'Local families sell handicrafts at entrance'
+    ],
+    tipsEs: [
+      'Visitas por la tarde tienen mejor luz para fotografía',
+      'Combina con tour de día a islas del Lago Titicaca',
+      'Vístete abrigado - el sitio es muy ventoso',
+      'Busca vicuñas salvajes en la península',
+      'Familias locales venden artesanías en la entrada'
+    ],
+    nearbyAttractions: ['Lake Umayo', 'Puno', 'Lake Titicaca', 'Uros Islands'],
+    relatedSites: ['uros-floating-islands', 'taquile-island', 'puno-cathedral'],
+    gettingThere: 'Located 34km northwest of Puno (45 minutes). Easily combined with afternoon tours after Lake Titicaca morning trip. Taxi costs about S/60-80 round trip.',
+    gettingThereEs: 'Ubicado a 34km al noroeste de Puno (45 minutos). Fácilmente combinable con tours de la tarde después de viaje matutino al Lago Titicaca. Taxi cuesta aproximadamente S/60-80 ida y vuelta.',
+    facilities: [
+      'Small entrance building',
+      'Basic restrooms',
+      'Local handicraft vendors',
+      'Informal guides available',
+      'Parking area',
+      'No food services - bring snacks'
+    ],
+    facilitiesEs: [
+      'Pequeño edificio de entrada',
+      'Baños básicos',
+      'Vendedores locales de artesanías',
+      'Guías informales disponibles',
+      'Área de estacionamiento',
+      'Sin servicios de comida - trae snacks'
+    ]
+  },
+  {
+    slug: 'amantani-island',
+    name: 'Amantaní Island',
+    nameEs: 'Isla Amantaní',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3817,
+    description: 'Amantaní Island rises from Lake Titicaca\'s deep blue waters, offering an even more authentic and untouched experience than neighboring Taquile. This circular island is home to approximately 4,000 Quechua-speaking inhabitants who maintain pre-Columbian agricultural terraces and host visitors through a unique community homestay rotation system. With two sacred peaks, ancient temple ruins, and traditional evening festivities, Amantaní provides families with a profound cultural immersion into Andean island life.',
+    descriptionEs: 'Isla Amantaní se eleva de las aguas azul profundo del Lago Titicaca, ofreciendo una experiencia aún más auténtica e intacta que la vecina Taquile. Esta isla circular es hogar de aproximadamente 4,000 habitantes de habla quechua que mantienen terrazas agrícolas precolombinas y reciben visitantes a través de un sistema único de rotación de homestay comunitario. Con dos picos sagrados, ruinas de templos antiguos y festividades nocturnas tradicionales, Amantaní proporciona a las familias una inmersión cultural profunda en la vida isleña andina.',
+    history: 'Amantaní has been continuously inhabited for thousands of years, with terraces dating to pre-Inca times still in agricultural use today. The island\'s two peaks, Pachatata (Father Earth) and Pachamama (Mother Earth), host ancient temple ruins and remain sacred to islanders. Unlike Taquile, Amantaní has no tourist-built infrastructure - all tourism operates through community-organized homestay families who rotate hosting duties to ensure fair distribution of income. The community voted in the 1970s to develop tourism on their own terms, maintaining traditional dress, language, and customs. No vehicles exist on the island, and electricity arrived only recently. This preservation of traditional life makes Amantaní increasingly valuable for cultural tourism.',
+    historyEs: 'Amantaní ha sido continuamente habitada por miles de años, con terrazas que datan de tiempos pre-Incas aún en uso agrícola hoy. Los dos picos de la isla, Pachatata (Padre Tierra) y Pachamama (Madre Tierra), albergan ruinas de templos antiguos y siguen siendo sagrados para los isleños. A diferencia de Taquile, Amantaní no tiene infraestructura construida para turistas - todo el turismo opera a través de familias de homestay organizadas comunitariamente que rotan los deberes de hospedaje para asegurar distribución justa de ingresos. La comunidad votó en los años 1970 para desarrollar turismo en sus propios términos, manteniendo vestimenta tradicional, idioma y costumbres. No existen vehículos en la isla, y la electricidad llegó solo recientemente. Esta preservación de la vida tradicional hace a Amantaní cada vez más valiosa para el turismo cultural.',
+    highlights: [
+      'Most authentic Lake Titicaca island experience',
+      'Community homestay program',
+      'Two sacred peaks with temple ruins',
+      'Traditional evening music and dance',
+      'Pre-Columbian agricultural terraces',
+      'No vehicles or tourist infrastructure',
+      'Spectacular sunrise and sunset views'
+    ],
+    highlightsEs: [
+      'Experiencia de isla más auténtica del Lago Titicaca',
+      'Programa de homestay comunitario',
+      'Dos picos sagrados con ruinas de templos',
+      'Música y baile tradicional nocturno',
+      'Terrazas agrícolas precolombinas',
+      'Sin vehículos ni infraestructura turística',
+      'Vistas espectaculares de amanecer y atardecer'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Overnight stay recommended',
+    durationEs: 'Estadía de una noche recomendada',
+    difficulty: 'moderate',
+    entranceFee: 'S/8 per person community fee',
+    entranceFeeEs: 'S/8 por persona tarifa comunitaria',
+    bestTime: 'Year-round. April-October dry season for clearest skies. Full moon nights are spectacular.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre para cielos más claros. Noches de luna llena son espectaculares.',
+    tips: [
+      'Overnight stays essential to experience island life',
+      'Bring warm clothes - nights are very cold',
+      'Pack flashlight - limited electricity',
+      'Small gifts for host families appreciated',
+      'Climb to temple peaks for sunrise/sunset'
+    ],
+    tipsEs: [
+      'Estadías de noche esenciales para experimentar vida isleña',
+      'Trae ropa abrigada - las noches son muy frías',
+      'Empaca linterna - electricidad limitada',
+      'Pequeños regalos para familias anfitrionas apreciados',
+      'Sube a los picos del templo para amanecer/atardecer'
+    ],
+    nearbyAttractions: ['Taquile Island', 'Uros Floating Islands', 'Lake Titicaca', 'Puno'],
+    relatedSites: ['taquile-island', 'uros-floating-islands', 'sillustani'],
+    gettingThere: 'Four-hour boat ride from Puno port. Most overnight tours stop at Uros and Taquile en route. Boats depart Puno around 7-8am.',
+    gettingThereEs: 'Cuatro horas en bote desde el puerto de Puno. La mayoría de tours de noche paran en Uros y Taquile en el camino. Los botes salen de Puno alrededor de 7-8am.',
+    facilities: [
+      'Basic homestay accommodations',
+      'Community hall for evening activities',
+      'Simple pit toilets in homes',
+      'No restaurants - meals with families',
+      'No ATMs or shops',
+      'Temple sites on hilltops'
+    ],
+    facilitiesEs: [
+      'Alojamiento básico en homestay',
+      'Salón comunitario para actividades nocturnas',
+      'Baños simples de pozo en casas',
+      'Sin restaurantes - comidas con familias',
+      'Sin cajeros ni tiendas',
+      'Sitios de templos en cimas de colinas'
+    ]
+  },
+  {
+    slug: 'pachacamac',
+    name: 'Pachacamac Archaeological Site',
+    nameEs: 'Sitio Arqueológico de Pachacamac',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 75,
+    description: 'Pachacamac was the most important pilgrimage center on the central Peruvian coast for nearly 2,000 years, revered as the home of the creator god Pachacamac. This expansive archaeological complex features pyramids, temples, and palaces from multiple civilizations - Lima, Wari, Ychsma, and Inca - making it a fascinating window into Peru\'s multi-layered history. Located just 40 minutes from Lima, it offers families an easy day trip to explore massive adobe structures, visit an excellent museum, and understand pre-Columbian coastal civilizations.',
+    descriptionEs: 'Pachacamac fue el centro de peregrinación más importante de la costa central peruana por casi 2,000 años, venerado como el hogar del dios creador Pachacamac. Este extenso complejo arqueológico presenta pirámides, templos y palacios de múltiples civilizaciones - Lima, Wari, Ychsma e Inca - haciéndolo una ventana fascinante a la historia multicapa de Perú. Ubicado a solo 40 minutos de Lima, ofrece a las familias una excursión fácil de un día para explorar masivas estructuras de adobe, visitar un excelente museo y entender las civilizaciones costeras precolombinas.',
+    history: 'Pachacamac\'s history spans from around 200 CE to the Spanish conquest. Originally a Lima culture ceremonial center, it grew in importance under the Wari Empire (600-1000 CE) before becoming the capital of the Ychsma confederation. When the Incas conquered the coast around 1470, they didn\'t destroy the site but added their own Temple of the Sun and Acllawasi (house of chosen women), recognizing Pachacamac\'s spiritual power. The site was so revered that pilgrims came from throughout the Andes, making offerings and seeking prophecies from the oracle. Spanish conquistadors seized enormous treasures from the temples in 1533. Today, the site covers over 600 hectares with the excellent Pachacamac Museum showcasing artifacts including the famous Pachacamac Idol.',
+    historyEs: 'La historia de Pachacamac abarca desde aproximadamente 200 EC hasta la conquista española. Originalmente un centro ceremonial de la cultura Lima, creció en importancia bajo el Imperio Wari (600-1000 EC) antes de convertirse en la capital de la confederación Ychsma. Cuando los Incas conquistaron la costa alrededor de 1470, no destruyeron el sitio sino añadieron su propio Templo del Sol y Acllawasi (casa de mujeres escogidas), reconociendo el poder espiritual de Pachacamac. El sitio era tan venerado que peregrinos venían de todo los Andes, haciendo ofrendas y buscando profecías del oráculo. Los conquistadores españoles incautaron enormes tesoros de los templos en 1533. Hoy, el sitio cubre más de 600 hectáreas con el excelente Museo de Pachacamac exhibiendo artefactos incluyendo el famoso Ídolo de Pachacamac.',
+    highlights: [
+      'Major pilgrimage site for nearly 2,000 years',
+      'Multiple civilizations represented',
+      'Excellent on-site museum',
+      'Inca Temple of the Sun',
+      'Views across to the Pacific Ocean',
+      'Only 40 minutes from central Lima',
+      'Less crowded than Cusco sites'
+    ],
+    highlightsEs: [
+      'Importante sitio de peregrinación por casi 2,000 años',
+      'Múltiples civilizaciones representadas',
+      'Excelente museo en el sitio',
+      'Templo del Sol Inca',
+      'Vistas hacia el Océano Pacífico',
+      'Solo 40 minutos del centro de Lima',
+      'Menos concurrido que sitios de Cusco'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 adults, S/5 students, includes museum',
+    entranceFeeEs: 'S/15 adultos, S/5 estudiantes, incluye museo',
+    bestTime: 'Year-round. Lima coastal climate. Winter (June-September) often overcast. Summer has clearer skies.',
+    bestTimeEs: 'Todo el año. Clima costero de Lima. Invierno (junio-septiembre) frecuentemente nublado. Verano tiene cielos más claros.',
+    tips: [
+      'Start with the museum for context',
+      'Bring sun protection - limited shade',
+      'Rent bicycles to cover the large site',
+      'Combine with southern Lima beaches',
+      'Guided tours highly recommended'
+    ],
+    tipsEs: [
+      'Comienza con el museo para contexto',
+      'Trae protección solar - sombra limitada',
+      'Alquila bicicletas para cubrir el gran sitio',
+      'Combina con playas del sur de Lima',
+      'Tours guiados muy recomendados'
+    ],
+    nearbyAttractions: ['Lurin Valley', 'Mamacona', 'Southern Lima beaches', 'Pantanos de Villa'],
+    relatedSites: ['huaca-pucllana', 'museo-larco', 'caral'],
+    gettingThere: 'Located 31km south of central Lima (40-60 minutes by car). Take the Panamericana Sur highway. Tours available from Lima, or taxi/Uber from Miraflores.',
+    gettingThereEs: 'Ubicado a 31km al sur del centro de Lima (40-60 minutos en auto). Toma la carretera Panamericana Sur. Tours disponibles desde Lima, o taxi/Uber desde Miraflores.',
+    facilities: [
+      'Excellent modern museum',
+      'Clean restrooms',
+      'Small cafeteria',
+      'Gift shop',
+      'Bicycle rentals',
+      'Guide services available'
+    ],
+    facilitiesEs: [
+      'Excelente museo moderno',
+      'Baños limpios',
+      'Pequeña cafetería',
+      'Tienda de regalos',
+      'Alquiler de bicicletas',
+      'Servicios de guía disponibles'
+    ]
+  },
+  {
+    slug: 'tambopata-reserve',
+    name: 'Tambopata National Reserve',
+    nameEs: 'Reserva Nacional Tambopata',
+    type: 'natural',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    altitude: 260,
+    description: 'Tambopata National Reserve protects one of the most biodiverse regions on Earth, where the Peruvian Amazon teems with jaguars, giant otters, macaws, and thousands of other species. This pristine rainforest offers families incredible wildlife encounters, from world-famous clay licks where hundreds of macaws gather, to night walks spotting caimans, to canopy walkways high above the forest floor. An unforgettable jungle adventure that combines education, conservation, and genuine wilderness experience.',
+    descriptionEs: 'La Reserva Nacional Tambopata protege una de las regiones más biodiversas de la Tierra, donde la Amazonía peruana rebosa de jaguares, nutrias gigantes, guacamayos y miles de otras especies. Esta selva prístina ofrece a las familias increíbles encuentros con vida silvestre, desde colpas mundialmente famosas donde cientos de guacamayos se reúnen, hasta caminatas nocturnas avistando caimanes, hasta pasarelas de dosel muy arriba del suelo del bosque. Una aventura en la selva inolvidable que combina educación, conservación y genuina experiencia de naturaleza salvaje.',
+    history: 'Tambopata was established as a National Reserve in 1990 and expanded in 2000, protecting over 274,000 hectares of lowland Amazonian rainforest and the Tambopata and Heath river systems. The region gained scientific fame through the work of the Tambopata Research Center, which documented extraordinary biodiversity including world-record numbers of bird species. The reserve\'s famous clay licks (collpas) attract researchers studying why parrots and macaws consume clay (likely to neutralize plant toxins). Indigenous Ese\'Eja communities have lived in the region for generations and now participate in ecotourism. Today, sustainable jungle lodges provide economic alternatives to gold mining and deforestation while offering visitors access to one of Earth\'s most pristine ecosystems.',
+    historyEs: 'Tambopata fue establecida como Reserva Nacional en 1990 y expandida en 2000, protegiendo más de 274,000 hectáreas de selva amazónica de tierras bajas y los sistemas de ríos Tambopata y Heath. La región ganó fama científica a través del trabajo del Centro de Investigación Tambopata, que documentó extraordinaria biodiversidad incluyendo números récord mundiales de especies de aves. Las famosas colpas de la reserva atraen investigadores estudiando por qué loros y guacamayos consumen arcilla (probablemente para neutralizar toxinas de plantas). Las comunidades indígenas Ese\'Eja han vivido en la región por generaciones y ahora participan en ecoturismo. Hoy, lodges de selva sustentables proporcionan alternativas económicas a la minería de oro y deforestación mientras ofrecen a visitantes acceso a uno de los ecosistemas más prístinos de la Tierra.',
+    highlights: [
+      'World-famous macaw clay licks',
+      'Giant river otter sightings',
+      'Canopy walkways and platforms',
+      'Night walks to spot wildlife',
+      'Piranha fishing excursions',
+      'Indigenous community visits',
+      'One of Earth\'s most biodiverse places'
+    ],
+    highlightsEs: [
+      'Colpas de guacamayos mundialmente famosas',
+      'Avistamientos de nutrias gigantes de río',
+      'Pasarelas y plataformas de dosel',
+      'Caminatas nocturnas para avistar fauna',
+      'Excursiones de pesca de pirañas',
+      'Visitas a comunidades indígenas',
+      'Uno de los lugares más biodiversos de la Tierra'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-5 days recommended',
+    durationEs: '3-5 días recomendados',
+    difficulty: 'moderate',
+    entranceFee: 'Included in lodge packages (typically $400-800 for 3-4 days all-inclusive)',
+    entranceFeeEs: 'Incluido en paquetes de lodge (típicamente $400-800 por 3-4 días todo incluido)',
+    bestTime: 'Year-round. Dry season (May-October) easier travel, less rain. Wet season has more wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) viaje más fácil, menos lluvia. Temporada húmeda tiene más actividad de fauna.',
+    tips: [
+      'Book lodges well in advance for dry season',
+      'Deeper rainforest lodges see more wildlife',
+      'Bring binoculars and camera with good zoom',
+      'Light, breathable clothing and insect protection',
+      'Pack rain gear regardless of season'
+    ],
+    tipsEs: [
+      'Reserva lodges con anticipación para temporada seca',
+      'Lodges más profundos en la selva ven más fauna',
+      'Trae binoculares y cámara con buen zoom',
+      'Ropa ligera, transpirable y protección contra insectos',
+      'Empaca ropa impermeable sin importar la temporada'
+    ],
+    nearbyAttractions: ['Sandoval Lake', 'Chuncho Clay Lick', 'Puerto Maldonado', 'Collpa de Guacamayos'],
+    relatedSites: ['manu-national-park', 'iquitos-amazon', 'pacaya-samiria'],
+    gettingThere: 'Fly from Lima or Cusco to Puerto Maldonado (1-1.5 hours). Lodge transport (boat + truck) included in packages, ranging from 1-5 hours depending on lodge location.',
+    gettingThereEs: 'Vuela desde Lima o Cusco a Puerto Maldonado (1-1.5 horas). Transporte del lodge (bote + camión) incluido en paquetes, variando de 1-5 horas dependiendo de ubicación del lodge.',
+    facilities: [
+      'Range of jungle lodges from basic to luxury',
+      'Meals included at all lodges',
+      'Expert naturalist guides',
+      'Canopy walkways at some lodges',
+      'Boats and kayaks for exploration',
+      'Some lodges have pools'
+    ],
+    facilitiesEs: [
+      'Variedad de lodges de selva desde básicos hasta de lujo',
+      'Comidas incluidas en todos los lodges',
+      'Guías naturalistas expertos',
+      'Pasarelas de dosel en algunos lodges',
+      'Botes y kayaks para exploración',
+      'Algunos lodges tienen piscinas'
+    ]
   }
 ];
 

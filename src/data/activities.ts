@@ -11467,6 +11467,360 @@ export const activities: Activity[] = [
       { name: 'Lima Discovery', familyFriendly: true },
       { name: 'Ancient Peru Expeditions', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'sillustani-tour',
+    name: 'Sillustani Burial Towers Tour',
+    nameEs: 'Tour a las Torres Funerarias de Sillustani',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Visit one of Peru\'s most photogenic archaeological sites on this half-day tour to Sillustani, where mysterious circular burial towers called chullpas rise against the dramatic backdrop of Lake Umayo. Learn about pre-Inca and Inca funerary traditions, spot wild vicuñas on the windswept peninsula, and capture stunning photographs of these engineering marvels. Perfect for combining with a Lake Titicaca islands tour for a full day of Puno region highlights.',
+    descriptionEs: 'Visita uno de los sitios arqueológicos más fotogénicos de Perú en este tour de medio día a Sillustani, donde misteriosas torres funerarias circulares llamadas chullpas se alzan contra el dramático telón de fondo del Lago Umayo. Aprende sobre tradiciones funerarias pre-Incas e Incas, avista vicuñas salvajes en la península azotada por el viento y captura fotografías impresionantes de estas maravillas de la ingeniería. Perfecto para combinar con un tour a las islas del Lago Titicaca para un día completo de lo mejor de la región de Puno.',
+    whatToExpect: 'Depart Puno in the early afternoon for the scenic 45-minute drive through the altiplano, passing traditional Aymara communities and grazing alpacas. Arrive at Sillustani as the afternoon light begins to warm the ancient stone towers. Your guide explains how the Colla people built these remarkable structures wider at the top than the base, defying conventional engineering. Explore the various chullpas, learning how they housed mummified nobility with their grave goods for the afterlife. Watch for wild vicuñas that often graze near the towers. Walk the peninsula trail for spectacular views across Lake Umayo. Visit the small museum displaying artifacts and learn about the Spanish looting that occurred in colonial times. Return to Puno as the golden hour light creates magical photo opportunities with the towers silhouetted against the lake.',
+    whatToExpectEs: 'Sal de Puno temprano por la tarde para el viaje escénico de 45 minutos a través del altiplano, pasando comunidades tradicionales Aymara y alpacas pastando. Llega a Sillustani cuando la luz de la tarde comienza a calentar las antiguas torres de piedra. Tu guía explica cómo el pueblo Colla construyó estas notables estructuras más anchas en la parte superior que en la base, desafiando la ingeniería convencional. Explora las varias chullpas, aprendiendo cómo albergaban a la nobleza momificada con sus objetos funerarios para la otra vida. Busca vicuñas salvajes que frecuentemente pastan cerca de las torres. Camina por el sendero de la península para vistas espectaculares del Lago Umayo. Visita el pequeño museo que exhibe artefactos y aprende sobre el saqueo español que ocurrió en tiempos coloniales. Regresa a Puno mientras la luz de la hora dorada crea oportunidades fotográficas mágicas con las torres silueteadas contra el lago.',
+    highlights: [
+      'See dramatic pre-Inca burial towers',
+      'Stunning Lake Umayo backdrop',
+      'Spot wild vicuñas grazing',
+      'Golden hour photography opportunities',
+      'Learn about ancient burial practices',
+      'Visit local Aymara communities',
+      'Small museum with artifacts'
+    ],
+    highlightsEs: [
+      'Ver dramáticas torres funerarias pre-Incas',
+      'Impresionante telón de fondo del Lago Umayo',
+      'Avistar vicuñas salvajes pastando',
+      'Oportunidades de fotografía de hora dorada',
+      'Aprender sobre prácticas funerarias antiguas',
+      'Visitar comunidades locales Aymara',
+      'Pequeño museo con artefactos'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 per person',
+    priceRangeEs: '$25-45 por persona',
+    bestTime: 'Year-round. Afternoon tours (2-3pm departure) have best photography light.',
+    bestTimeEs: 'Todo el año. Tours de tarde (salida 2-3pm) tienen mejor luz para fotografía.',
+    includes: [
+      'Hotel pickup and dropoff',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Site entrance fee',
+      'Museum visit'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Transporte privado',
+      'Guía bilingüe profesional',
+      'Entrada al sitio',
+      'Visita al museo'
+    ],
+    tips: [
+      'Afternoon tours have best light for photos',
+      'Dress in warm layers - site is very windy',
+      'Combine with morning Lake Titicaca tour',
+      'Bring snacks - no food services at site',
+      'Local families sell handicrafts at entrance'
+    ],
+    tipsEs: [
+      'Tours de tarde tienen mejor luz para fotos',
+      'Vístete en capas abrigadas - el sitio es muy ventoso',
+      'Combina con tour matutino del Lago Titicaca',
+      'Trae snacks - sin servicios de comida en el sitio',
+      'Familias locales venden artesanías en la entrada'
+    ],
+    safetyNotes: [
+      'High altitude (3,840m) - acclimatize first',
+      'Very windy conditions common',
+      'Uneven terrain - sturdy footwear recommended',
+      'No railings near cliff edges - supervise children',
+      'Sun protection essential at altitude'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,840m) - aclimatarse primero',
+      'Condiciones muy ventosas comunes',
+      'Terreno irregular - calzado resistente recomendado',
+      'Sin barandas cerca de bordes de acantilados - supervisar niños',
+      'Protección solar esencial a esta altitud'
+    ],
+    relatedActivities: ['lake-titicaca-islands-tour', 'titicaca-homestay', 'puno-cultural-tour'],
+    providers: [
+      { name: 'Puno Travel Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Titicaca Explorer', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pachacamac-tour',
+    name: 'Pachacamac Archaeological Tour',
+    nameEs: 'Tour Arqueológico a Pachacamac',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Explore Lima\'s most important archaeological site on this half-day tour to Pachacamac, the ancient pilgrimage center that drew worshippers for nearly 2,000 years. Walk among massive adobe pyramids, visit the excellent on-site museum, and learn how multiple civilizations - Lima, Wari, Ychsma, and Inca - left their mark on this sacred site. An easy escape from Lima\'s bustle that reveals Peru\'s rich pre-Columbian coastal heritage.',
+    descriptionEs: 'Explora el sitio arqueológico más importante de Lima en este tour de medio día a Pachacamac, el antiguo centro de peregrinación que atrajo adoradores por casi 2,000 años. Camina entre masivas pirámides de adobe, visita el excelente museo en el sitio y aprende cómo múltiples civilizaciones - Lima, Wari, Ychsma e Inca - dejaron su marca en este sitio sagrado. Un escape fácil del bullicio de Lima que revela el rico patrimonio costero precolombino de Perú.',
+    whatToExpect: 'Your guide picks you up from your Lima hotel for the 40-minute drive south through coastal desert landscapes. Begin at the modern Pachacamac Museum, where exhibits introduce the site\'s fascinating multi-layered history and display remarkable artifacts including the famous Pachacamac Idol. Continue into the 600-hectare archaeological complex, visiting the Inca Temple of the Sun with its commanding views to the Pacific Ocean. Explore the Acllawasi (house of chosen women) and Painted Temple with its colorful murals. Walk through the main plaza where pilgrims once gathered seeking prophecies from the oracle. Your guide brings the site to life with stories of its various occupations and the Spanish conquistadors who arrived in 1533. Optionally rent bicycles to cover more ground. Return to Lima with a deeper understanding of Peru\'s coastal civilizations.',
+    whatToExpectEs: 'Tu guía te recoge de tu hotel en Lima para el viaje de 40 minutos al sur a través de paisajes de desierto costero. Comienza en el moderno Museo Pachacamac, donde exhibiciones introducen la fascinante historia multicapa del sitio y exhiben notables artefactos incluyendo el famoso Ídolo de Pachacamac. Continúa al complejo arqueológico de 600 hectáreas, visitando el Templo del Sol Inca con sus vistas dominantes al Océano Pacífico. Explora el Acllawasi (casa de mujeres escogidas) y el Templo Pintado con sus murales coloridos. Camina por la plaza principal donde peregrinos una vez se reunían buscando profecías del oráculo. Tu guía da vida al sitio con historias de sus varias ocupaciones y los conquistadores españoles que llegaron en 1533. Opcionalmente alquila bicicletas para cubrir más terreno. Regresa a Lima con una comprensión más profunda de las civilizaciones costeras de Perú.',
+    highlights: [
+      'Major pilgrimage site for 2,000 years',
+      'Excellent modern museum',
+      'Multiple civilizations represented',
+      'Inca Temple of the Sun',
+      'Pacific Ocean views',
+      'Only 40 minutes from Lima',
+      'Optional bicycle exploration'
+    ],
+    highlightsEs: [
+      'Importante sitio de peregrinación por 2,000 años',
+      'Excelente museo moderno',
+      'Múltiples civilizaciones representadas',
+      'Templo del Sol Inca',
+      'Vistas al Océano Pacífico',
+      'Solo 40 minutos de Lima',
+      'Exploración opcional en bicicleta'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$45-70 per person',
+    priceRangeEs: '$45-70 por persona',
+    bestTime: 'Year-round. Summer (December-March) has clearer skies. Morning tours avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Verano (diciembre-marzo) tiene cielos más claros. Tours matutinos evitan calor de la tarde.',
+    includes: [
+      'Hotel pickup and dropoff',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Site and museum entrance',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Transporte privado',
+      'Guía bilingüe profesional',
+      'Entrada al sitio y museo',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Start with museum for context before exploring',
+      'Bring sun protection - limited shade at site',
+      'Comfortable walking shoes essential',
+      'Bicycle rental available for covering large site',
+      'Combine with southern Lima beaches afterward'
+    ],
+    tipsEs: [
+      'Comienza con museo para contexto antes de explorar',
+      'Trae protección solar - sombra limitada en el sitio',
+      'Zapatos cómodos para caminar esenciales',
+      'Alquiler de bicicletas disponible para cubrir gran sitio',
+      'Combina con playas del sur de Lima después'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Hot in summer - hydration important',
+      'Easy flat walking throughout',
+      'Stay on designated paths',
+      'Some areas still under excavation'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Caliente en verano - hidratación importante',
+      'Caminata fácil y plana en todo el recorrido',
+      'Permanecer en senderos designados',
+      'Algunas áreas aún bajo excavación'
+    ],
+    relatedActivities: ['caral-archaeology-tour', 'lima-museum-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Peru Archaeological Tours', familyFriendly: true },
+      { name: 'Lima Day Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tambopata-amazon-adventure',
+    name: 'Tambopata Amazon Family Adventure',
+    nameEs: 'Aventura Amazónica Familiar en Tambopata',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Immerse your family in one of Earth\'s most biodiverse ecosystems on this unforgettable Tambopata rainforest adventure. From watching hundreds of macaws gather at clay licks to spotting giant river otters on oxbow lakes, from piranha fishing to night walks searching for caimans, this jungle experience delivers once-in-a-lifetime wildlife encounters. Based at comfortable eco-lodges deep in the reserve, families discover the magic of the Amazon guided by expert naturalists.',
+    descriptionEs: 'Sumerge a tu familia en uno de los ecosistemas más biodiversos de la Tierra en esta inolvidable aventura en la selva de Tambopata. Desde observar cientos de guacamayos reunirse en colpas hasta avistar nutrias gigantes de río en lagos de herradura, desde pescar pirañas hasta caminatas nocturnas buscando caimanes, esta experiencia en la selva ofrece encuentros con vida silvestre únicos en la vida. Basados en cómodos eco-lodges en lo profundo de la reserva, las familias descubren la magia de la Amazonía guiados por naturalistas expertos.',
+    whatToExpect: 'Fly into Puerto Maldonado and transfer by motorized canoe deep into the Tambopata Reserve (1-5 hours depending on lodge location). Settle into your comfortable jungle lodge, elevated on stilts with screened rooms and rainforest views. Each day brings new adventures: Early morning macaw clay lick excursions reveal hundreds of colorful parrots gathering to eat mineral-rich clay. Canoe to oxbow lakes searching for giant river otters, the world\'s largest otter species. Walk canopy bridges and platforms high above the forest floor for a bird\'s-eye view. Try piranha fishing (catch and release) - kids love the excitement. Night walks with spotlights reveal caimans, frogs, spiders, and nocturnal mammals. Visit indigenous communities to learn traditional jungle skills. Between excursions, relax at the lodge, spot monkeys from the hammock deck, and listen to the symphony of the rainforest.',
+    whatToExpectEs: 'Vuela a Puerto Maldonado y transfiere en canoa motorizada profundamente en la Reserva Tambopata (1-5 horas dependiendo de la ubicación del lodge). Instálate en tu cómodo lodge de selva, elevado sobre pilotes con habitaciones con mallas y vistas a la selva. Cada día trae nuevas aventuras: Excursiones matutinas a colpas de guacamayos revelan cientos de coloridos loros reuniéndose para comer arcilla rica en minerales. Navega en canoa a lagos de herradura buscando nutrias gigantes de río, la especie de nutria más grande del mundo. Camina por puentes y plataformas de dosel muy arriba del suelo del bosque para una vista a ojo de pájaro. Prueba pescar pirañas (captura y suelta) - a los niños les encanta la emoción. Caminatas nocturnas con linternas revelan caimanes, ranas, arañas y mamíferos nocturnos. Visita comunidades indígenas para aprender habilidades tradicionales de la selva. Entre excursiones, relájate en el lodge, avista monos desde la terraza de hamacas y escucha la sinfonía de la selva.',
+    highlights: [
+      'World-famous macaw clay licks',
+      'Giant river otter sightings',
+      'Piranha fishing excursions',
+      'Canopy walkways and platforms',
+      'Night wildlife walks',
+      'Indigenous community visits',
+      'Expert naturalist guides'
+    ],
+    highlightsEs: [
+      'Colpas de guacamayos mundialmente famosas',
+      'Avistamientos de nutrias gigantes de río',
+      'Excursiones de pesca de pirañas',
+      'Pasarelas y plataformas de dosel',
+      'Caminatas nocturnas de fauna',
+      'Visitas a comunidades indígenas',
+      'Guías naturalistas expertos'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-5 days recommended',
+    durationEs: '3-5 días recomendados',
+    difficulty: 'moderate',
+    priceRange: '$400-800 per person (3-4 day all-inclusive)',
+    priceRangeEs: '$400-800 por persona (3-4 días todo incluido)',
+    bestTime: 'Year-round. Dry season (May-October) easier travel. Wet season sees more wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) viaje más fácil. Temporada húmeda tiene más actividad de fauna.',
+    includes: [
+      'Puerto Maldonado transfers',
+      'Jungle lodge accommodation',
+      'All meals and water',
+      'Expert naturalist guides',
+      'All excursions and activities',
+      'Rubber boots and rain ponchos'
+    ],
+    includesEs: [
+      'Traslados en Puerto Maldonado',
+      'Alojamiento en lodge de selva',
+      'Todas las comidas y agua',
+      'Guías naturalistas expertos',
+      'Todas las excursiones y actividades',
+      'Botas de goma y ponchos de lluvia'
+    ],
+    tips: [
+      'Book well in advance for dry season',
+      'Pack light, breathable clothing',
+      'Bring binoculars and camera with good zoom',
+      'Insect repellent with DEET essential',
+      'Deeper lodges see more wildlife'
+    ],
+    tipsEs: [
+      'Reserva con anticipación para temporada seca',
+      'Empaca ropa ligera y transpirable',
+      'Trae binoculares y cámara con buen zoom',
+      'Repelente de insectos con DEET esencial',
+      'Lodges más profundos ven más fauna'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Lodges have basic medical supplies',
+      'Always follow guide instructions',
+      'Insect-borne diseases - prophylaxis recommended',
+      'Wildlife is wild - maintain safe distances'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Lodges tienen suministros médicos básicos',
+      'Siempre seguir instrucciones del guía',
+      'Enfermedades transmitidas por insectos - profilaxis recomendada',
+      'La fauna es salvaje - mantener distancias seguras'
+    ],
+    relatedActivities: ['sandoval-lake-tour', 'amazon-canopy-walk', 'indigenous-community-visit'],
+    providers: [
+      { name: 'Inkaterra Reserva Amazonica', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true },
+      { name: 'Tambopata Research Center', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'puno-cultural-tour',
+    name: 'Puno City Cultural Walking Tour',
+    nameEs: 'Tour Cultural a Pie por la Ciudad de Puno',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Discover the vibrant cultural capital of Peru\'s altiplano on this walking tour through Puno\'s colonial streets and bustling markets. Known as the "Folklore Capital of Peru," Puno maintains rich traditions of music, dance, and costume that come alive during numerous festivals throughout the year. This introduction to high-altitude Andean life prepares families for deeper exploration of the Lake Titicaca region.',
+    descriptionEs: 'Descubre la vibrante capital cultural del altiplano peruano en este tour a pie por las calles coloniales y mercados bulliciosos de Puno. Conocida como la "Capital del Folklore de Perú," Puno mantiene ricas tradiciones de música, baile y vestimenta que cobran vida durante numerosos festivales a lo largo del año. Esta introducción a la vida andina de alta altitud prepara a las familias para una exploración más profunda de la región del Lago Titicaca.',
+    whatToExpect: 'Meet your guide at the central Plaza de Armas, dominated by the baroque Cathedral of Puno with its ornate stone facade. Learn about Puno\'s history as a silver mining center and its evolution into Peru\'s folklore capital. Walk through colonial streets admiring traditional architecture and hearing stories of the city\'s festivals - particularly the famous Virgen de la Candelaria celebration. Visit the Carlos Dreyer Museum to see pre-Columbian artifacts from the Lake Titicaca region. Explore the colorful Central Market where vendors sell everything from medicinal herbs to traditional clothing. Watch artisans at work in nearby workshops. Stop at a local coffee shop to try coca tea and learn how locals manage the altitude. End at the Mirador Condor with panoramic views over the city and glimpses of Lake Titicaca in the distance. Your guide shares tips for your upcoming Lake Titicaca adventures.',
+    whatToExpectEs: 'Encuentra a tu guía en la Plaza de Armas central, dominada por la barroca Catedral de Puno con su ornamentada fachada de piedra. Aprende sobre la historia de Puno como centro minero de plata y su evolución a capital del folklore de Perú. Camina por calles coloniales admirando arquitectura tradicional y escuchando historias de los festivales de la ciudad - particularmente la famosa celebración de la Virgen de la Candelaria. Visita el Museo Carlos Dreyer para ver artefactos precolombinos de la región del Lago Titicaca. Explora el colorido Mercado Central donde vendedores venden desde hierbas medicinales hasta ropa tradicional. Observa artesanos trabajando en talleres cercanos. Para en una cafetería local para probar té de coca y aprende cómo los locales manejan la altitud. Termina en el Mirador Cóndor con vistas panorámicas de la ciudad y vistazos del Lago Titicaca en la distancia. Tu guía comparte consejos para tus próximas aventuras en el Lago Titicaca.',
+    highlights: [
+      'Baroque Cathedral of Puno',
+      'Carlos Dreyer Museum',
+      'Colorful central market',
+      'Traditional artisan workshops',
+      'Learn about folklore traditions',
+      'Panoramic city viewpoint',
+      'Coca tea experience'
+    ],
+    highlightsEs: [
+      'Catedral barroca de Puno',
+      'Museo Carlos Dreyer',
+      'Colorido mercado central',
+      'Talleres artesanales tradicionales',
+      'Aprender sobre tradiciones folklóricas',
+      'Mirador panorámico de la ciudad',
+      'Experiencia de té de coca'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 per person',
+    priceRangeEs: '$25-45 por persona',
+    bestTime: 'Year-round. February for Candelaria Festival. April-October dry season best.',
+    bestTimeEs: 'Todo el año. Febrero para Festival de la Candelaria. Temporada seca abril-octubre mejor.',
+    includes: [
+      'Professional local guide',
+      'Museum entrance fees',
+      'Coca tea',
+      'Small snack',
+      'Market tastings'
+    ],
+    includesEs: [
+      'Guía local profesional',
+      'Entradas a museos',
+      'Té de coca',
+      'Pequeño snack',
+      'Degustaciones en el mercado'
+    ],
+    tips: [
+      'Schedule for first day to acclimatize gently',
+      'Walk slowly - altitude is challenging',
+      'Coca tea helps with altitude symptoms',
+      'Mornings less crowded at market',
+      'February Candelaria Festival is spectacular'
+    ],
+    tipsEs: [
+      'Programa para el primer día para aclimatarte gentilmente',
+      'Camina despacio - la altitud es desafiante',
+      'Té de coca ayuda con síntomas de altitud',
+      'Mañanas menos concurridas en el mercado',
+      'Festival de la Candelaria en febrero es espectacular'
+    ],
+    safetyNotes: [
+      'Very high altitude (3,830m) - acclimatize slowly',
+      'Take breaks as needed',
+      'Stay hydrated',
+      'Watch belongings in market crowds',
+      'Easy flat walking throughout'
+    ],
+    safetyNotesEs: [
+      'Altitud muy alta (3,830m) - aclimatarse lentamente',
+      'Toma descansos según necesidad',
+      'Mantente hidratado',
+      'Cuida pertenencias en multitudes del mercado',
+      'Caminata fácil y plana en todo el recorrido'
+    ],
+    relatedActivities: ['lake-titicaca-islands-tour', 'sillustani-tour', 'titicaca-homestay'],
+    providers: [
+      { name: 'Puno City Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Local Puno Guides', familyFriendly: true }
+    ]
   }
 ];
 
