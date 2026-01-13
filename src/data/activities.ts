@@ -11109,6 +11109,364 @@ export const activities: Activity[] = [
       { name: 'Lima Wildlife Adventures', familyFriendly: true },
       { name: 'Callao Sea Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'lake-titicaca-islands-tour',
+    name: 'Lake Titicaca Islands Full Day Tour',
+    nameEs: 'Tour de Día Completo a las Islas del Lago Titicaca',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Experience the world\'s highest navigable lake and its remarkable island communities on this full-day adventure from Puno. Visit the extraordinary Uros Floating Islands, built entirely from totora reeds, then continue to Taquile Island where UNESCO-recognized textile traditions have been preserved for generations. This tour combines unique cultural encounters, stunning Andean lake scenery, and a traditional island lunch for an unforgettable family experience.',
+    descriptionEs: 'Experimenta el lago navegable más alto del mundo y sus notables comunidades isleñas en esta aventura de día completo desde Puno. Visita las extraordinarias Islas Flotantes de los Uros, construidas enteramente de cañas de totora, luego continúa a la Isla Taquile donde tradiciones textiles reconocidas por UNESCO han sido preservadas por generaciones. Este tour combina encuentros culturales únicos, impresionantes paisajes del lago andino y un almuerzo tradicional isleño para una experiencia familiar inolvidable.',
+    whatToExpect: 'Board a comfortable boat at Puno port for the journey across Lake Titicaca\'s startlingly blue waters. Your first stop is the Uros Floating Islands, where children are amazed to walk on spongy reed surfaces that give slightly underfoot. A Uros family demonstrates how they build and maintain their islands from totora reeds, and kids can help add new layers. Optional short rides on traditional reed boats are available. Continue across the lake to Taquile Island - the approach reveals dramatic terraced hillsides rising from the water. Climb the 533 stone steps (take your time at this altitude) to the charming village plaza. Watch men skillfully knitting traditional chullos and women weaving colorful textiles. Enjoy a simple but delicious traditional lunch of quinoa soup and lake trout. Browse the textile cooperative for authentic handmade goods before the return journey as the afternoon light turns the mountains gold.',
+    whatToExpectEs: 'Aborda un bote cómodo en el puerto de Puno para el viaje a través de las aguas sorprendentemente azules del Lago Titicaca. Tu primera parada son las Islas Flotantes de los Uros, donde los niños se asombran de caminar sobre superficies de caña esponjosas que ceden ligeramente bajo los pies. Una familia Uros demuestra cómo construyen y mantienen sus islas de cañas de totora, y los niños pueden ayudar a añadir nuevas capas. Paseos cortos opcionales en botes tradicionales de caña están disponibles. Continúa a través del lago a la Isla Taquile - la aproximación revela dramáticas laderas en terrazas elevándose desde el agua. Sube los 533 escalones de piedra (tómate tu tiempo a esta altitud) hasta la encantadora plaza del pueblo. Observa a hombres tejiendo hábilmente chullos tradicionales y mujeres tejiendo textiles coloridos. Disfruta un almuerzo tradicional simple pero delicioso de sopa de quinoa y trucha del lago. Explora la cooperativa textil para artículos auténticos hechos a mano antes del viaje de regreso mientras la luz de la tarde tiñe las montañas de oro.',
+    highlights: [
+      'Walk on unique floating reed islands',
+      'Learn how Uros families build island homes',
+      'See UNESCO-recognized textile traditions',
+      'Traditional Taquileña lunch included',
+      'Stunning Lake Titicaca panoramas',
+      'Ride traditional totora reed boats',
+      'Support local island communities'
+    ],
+    highlightsEs: [
+      'Caminar sobre islas flotantes de caña únicas',
+      'Aprender cómo las familias Uros construyen hogares en la isla',
+      'Ver tradiciones textiles reconocidas por UNESCO',
+      'Almuerzo tradicional Taquileño incluido',
+      'Impresionantes panoramas del Lago Titicaca',
+      'Navegar en botes tradicionales de caña de totora',
+      'Apoyar comunidades isleñas locales'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'moderate',
+    priceRange: '$35-60 per person',
+    priceRangeEs: '$35-60 por persona',
+    bestTime: 'Year-round. April-October dry season has clearest weather. Morning departures have calmest waters.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre tiene clima más despejado. Salidas matutinas tienen aguas más tranquilas.',
+    includes: [
+      'Round-trip boat transport',
+      'Bilingual guide',
+      'Uros community fee',
+      'Taquile entrance fee',
+      'Traditional lunch on Taquile',
+      'Hotel pickup (most tours)'
+    ],
+    includesEs: [
+      'Transporte en bote ida y vuelta',
+      'Guía bilingüe',
+      'Tarifa comunitaria Uros',
+      'Entrada a Taquile',
+      'Almuerzo tradicional en Taquile',
+      'Recogida del hotel (mayoría de tours)'
+    ],
+    tips: [
+      'Acclimatize in Puno at least one day before',
+      'Bring warm layers - lake winds can be cold',
+      'Take the Taquile climb slowly at 3,950m altitude',
+      'Cash for handicrafts and optional reed boat rides',
+      'Sun protection essential at this altitude'
+    ],
+    tipsEs: [
+      'Aclimatarse en Puno al menos un día antes',
+      'Trae capas abrigadas - los vientos del lago pueden ser fríos',
+      'Sube a Taquile lentamente a 3,950m de altitud',
+      'Efectivo para artesanías y paseos opcionales en bote de caña',
+      'Protección solar esencial a esta altitud'
+    ],
+    safetyNotes: [
+      'High altitude (3,812-3,950m) - acclimatization essential',
+      'Boats have life jackets and safety equipment',
+      'Taquile climb is steep but well-maintained steps',
+      'Sun exposure intense - UV protection needed',
+      'Cold water - no swimming recommended'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,812-3,950m) - aclimatación esencial',
+      'Botes tienen chalecos salvavidas y equipo de seguridad',
+      'Subida a Taquile es empinada pero escalones bien mantenidos',
+      'Exposición solar intensa - protección UV necesaria',
+      'Agua fría - no se recomienda nadar'
+    ],
+    relatedActivities: ['puno-cultural-tour', 'sillustani-tour', 'titicaca-homestay'],
+    providers: [
+      { name: 'Titicaca Explorer', familyFriendly: true },
+      { name: 'Puno Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'nazca-lines-flight',
+    name: 'Nazca Lines Overflight Experience',
+    nameEs: 'Experiencia de Sobrevuelo de las Líneas de Nazca',
+    type: 'adventure',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Soar above one of archaeology\'s greatest mysteries on this thrilling flight over the Nazca Lines. These enormous ancient geoglyphs - some over 300 meters across - can only be truly appreciated from the air, where the famous hummingbird, monkey, spider, and dozens of other designs reveal themselves across the desert canvas. A bucket-list experience that combines aerial adventure with ancient archaeological wonder.',
+    descriptionEs: 'Sobrevuela uno de los mayores misterios de la arqueología en este emocionante vuelo sobre las Líneas de Nazca. Estos enormes geoglifos antiguos - algunos de más de 300 metros de ancho - solo pueden apreciarse verdaderamente desde el aire, donde el famoso colibrí, mono, araña y docenas de otros diseños se revelan a través del lienzo del desierto. Una experiencia de lista de deseos que combina aventura aérea con maravilla arqueológica antigua.',
+    whatToExpect: 'Arrive at Nazca Airport for your pre-flight briefing, where pilots explain the route and which figures you\'ll see from each side of the aircraft. Board a small Cessna aircraft (typically 6-12 passengers) and take off over the coastal desert. The pilot banks the aircraft left and right to give passengers on both sides clear views of each figure. Watch for the famous hummingbird, with its perfectly proportioned beak and wings. Marvel at the monkey with its curled tail, the spider, the whale, and the mysterious astronaut. Your pilot and guide point out each figure as it appears below. After viewing 12-14 major geoglyphs over 30-35 minutes, return to the airport buzzing with excitement over what you\'ve witnessed. Consider visiting the Maria Reiche museum and observation tower afterward to understand the woman who dedicated her life to protecting these lines.',
+    whatToExpectEs: 'Llega al Aeropuerto de Nazca para tu charla pre-vuelo, donde los pilotos explican la ruta y qué figuras verás desde cada lado de la aeronave. Aborda una pequeña aeronave Cessna (típicamente 6-12 pasajeros) y despega sobre el desierto costero. El piloto inclina la aeronave a izquierda y derecha para dar a los pasajeros de ambos lados vistas claras de cada figura. Busca el famoso colibrí, con su pico y alas perfectamente proporcionados. Maravíllate con el mono de cola enroscada, la araña, la ballena y el misterioso astronauta. Tu piloto y guía señalan cada figura mientras aparece abajo. Después de ver 12-14 geoglifos principales durante 30-35 minutos, regresa al aeropuerto emocionado por lo que has presenciado. Considera visitar el museo Maria Reiche y la torre de observación después para entender a la mujer que dedicó su vida a proteger estas líneas.',
+    highlights: [
+      'See 12-14 major Nazca Line figures',
+      'Famous hummingbird, monkey, and spider',
+      'UNESCO World Heritage Site',
+      'Unique aerial perspective',
+      'Professional experienced pilots',
+      'One of world\'s great archaeological mysteries',
+      'Certificate of flight completion'
+    ],
+    highlightsEs: [
+      'Ver 12-14 figuras principales de las Líneas de Nazca',
+      'Famoso colibrí, mono y araña',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Perspectiva aérea única',
+      'Pilotos profesionales experimentados',
+      'Uno de los grandes misterios arqueológicos del mundo',
+      'Certificado de finalización de vuelo'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '30-35 minutes flight (2-3 hours total experience)',
+    durationEs: '30-35 minutos de vuelo (2-3 horas experiencia total)',
+    difficulty: 'easy',
+    priceRange: '$80-120 per person',
+    priceRangeEs: '$80-120 por persona',
+    bestTime: 'Year-round. Morning flights (8-10am) have least turbulence. Avoid midday heat.',
+    bestTimeEs: 'Todo el año. Vuelos matutinos (8-10am) tienen menos turbulencia. Evitar calor del mediodía.',
+    includes: [
+      'Nazca Lines overflight',
+      'Pre-flight safety briefing',
+      'Airport taxes and fees',
+      'Certificate of completion',
+      'Some tours include hotel pickup'
+    ],
+    includesEs: [
+      'Sobrevuelo de las Líneas de Nazca',
+      'Charla de seguridad pre-vuelo',
+      'Impuestos y tarifas de aeropuerto',
+      'Certificado de finalización',
+      'Algunos tours incluyen recogida del hotel'
+    ],
+    tips: [
+      'Take motion sickness medication 30 minutes before flight',
+      'Avoid large meals before flying',
+      'Window seats standard on small aircraft',
+      'Morning flights have smoother conditions',
+      'Bring camera with good zoom lens'
+    ],
+    tipsEs: [
+      'Toma medicamento para mareo 30 minutos antes del vuelo',
+      'Evita comidas grandes antes de volar',
+      'Asientos de ventana estándar en aeronaves pequeñas',
+      'Vuelos matutinos tienen condiciones más suaves',
+      'Trae cámara con buena lente zoom'
+    ],
+    safetyNotes: [
+      'All flights operated by certified pilots',
+      'Aircraft undergo regular safety inspections',
+      'Motion sickness common due to banking turns',
+      'Weather conditions checked before all flights',
+      'Weight limits apply for aircraft balance'
+    ],
+    safetyNotesEs: [
+      'Todos los vuelos operados por pilotos certificados',
+      'Aeronaves se someten a inspecciones de seguridad regulares',
+      'Mareo común debido a giros inclinados',
+      'Condiciones climáticas verificadas antes de todos los vuelos',
+      'Límites de peso aplican para balance de aeronave'
+    ],
+    relatedActivities: ['nazca-archaeology-tour', 'huacachina-adventure', 'paracas-reserve-tour'],
+    providers: [
+      { name: 'Aero Nazca', familyFriendly: true },
+      { name: 'Nazca Flights', familyFriendly: true },
+      { name: 'AeroParacas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'titicaca-homestay',
+    name: 'Lake Titicaca Overnight Homestay Experience',
+    nameEs: 'Experiencia de Homestay en el Lago Titicaca',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Go beyond day tourism with an overnight homestay on Amantaní or Taquile Island, experiencing authentic Andean island life with a local family. Share traditional meals, learn about ancient customs, participate in evening activities, and witness spectacular sunsets and sunrises over Lake Titicaca. This immersive experience offers families a profound connection with indigenous culture and the chance to support sustainable community tourism.',
+    descriptionEs: 'Ve más allá del turismo de día con un homestay de una noche en la Isla Amantaní o Taquile, experimentando vida isleña andina auténtica con una familia local. Comparte comidas tradicionales, aprende sobre costumbres antiguas, participa en actividades nocturnas y presencia espectaculares atardeceres y amaneceres sobre el Lago Titicaca. Esta experiencia inmersiva ofrece a las familias una conexión profunda con la cultura indígena y la oportunidad de apoyar turismo comunitario sustentable.',
+    whatToExpect: 'Travel by boat across Lake Titicaca, visiting the Uros Floating Islands en route before continuing to Amantaní or Taquile Island. Upon arrival, meet your host family who will welcome you into their adobe home. The community assigns families on a rotating basis to ensure fair distribution of tourism benefits. Settle into your simple but clean room and join your family for lunch featuring local potatoes, quinoa, and lake fish. Spend the afternoon exploring the island, visiting pre-Inca temple sites, or learning traditional activities from your hosts. Watch the sunset from a hilltop temple with fellow travelers. Evening brings traditional music and dancing in the community hall - families often dress guests in traditional clothing to join the festivities. After a home-cooked dinner by candlelight (electricity is limited), sleep under brilliantly clear Andean skies. Wake to sunrise over the lake before breakfast and the journey home.',
+    whatToExpectEs: 'Viaja en bote a través del Lago Titicaca, visitando las Islas Flotantes de los Uros en el camino antes de continuar a la Isla Amantaní o Taquile. Al llegar, conoce a tu familia anfitriona que te dará la bienvenida a su hogar de adobe. La comunidad asigna familias en rotación para asegurar distribución justa de beneficios del turismo. Instálate en tu habitación simple pero limpia y únete a tu familia para el almuerzo con papas locales, quinoa y pescado del lago. Pasa la tarde explorando la isla, visitando sitios de templos pre-Incas, o aprendiendo actividades tradicionales de tus anfitriones. Observa el atardecer desde un templo en la colina con otros viajeros. La noche trae música y baile tradicional en el salón comunitario - las familias a menudo visten a los huéspedes con ropa tradicional para unirse a las festividades. Después de una cena casera a la luz de las velas (la electricidad es limitada), duerme bajo cielos andinos brillantemente claros. Despierta al amanecer sobre el lago antes del desayuno y el viaje de regreso.',
+    highlights: [
+      'Stay overnight with indigenous island family',
+      'Experience authentic Andean island life',
+      'Spectacular sunset and sunrise over the lake',
+      'Traditional music and dance evening',
+      'Learn local customs and traditions',
+      'Home-cooked traditional meals',
+      'Support sustainable community tourism'
+    ],
+    highlightsEs: [
+      'Quedarse una noche con familia isleña indígena',
+      'Experimentar vida isleña andina auténtica',
+      'Espectacular atardecer y amanecer sobre el lago',
+      'Noche de música y baile tradicional',
+      'Aprender costumbres y tradiciones locales',
+      'Comidas tradicionales caseras',
+      'Apoyar turismo comunitario sustentable'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2 days / 1 night',
+    durationEs: '2 días / 1 noche',
+    difficulty: 'moderate',
+    priceRange: '$55-90 per person',
+    priceRangeEs: '$55-90 por persona',
+    bestTime: 'Year-round. April-October dry season for clearest skies and sunsets.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre para cielos más claros y atardeceres.',
+    includes: [
+      'Boat transport both days',
+      'Homestay accommodation',
+      'All meals (lunch, dinner, breakfast)',
+      'Community fees',
+      'Traditional evening activities',
+      'Guide services'
+    ],
+    includesEs: [
+      'Transporte en bote ambos días',
+      'Alojamiento en homestay',
+      'Todas las comidas (almuerzo, cena, desayuno)',
+      'Tarifas comunitarias',
+      'Actividades tradicionales nocturnas',
+      'Servicios de guía'
+    ],
+    tips: [
+      'Bring warm clothes - island nights are cold',
+      'Pack flashlight for evening walks',
+      'Basic accommodations - sleeping bags available',
+      'Bring small gifts for host family children',
+      'Cash for handicrafts - no ATMs on islands'
+    ],
+    tipsEs: [
+      'Trae ropa abrigada - las noches en la isla son frías',
+      'Empaca linterna para caminatas nocturnas',
+      'Alojamiento básico - bolsas de dormir disponibles',
+      'Trae pequeños regalos para niños de la familia anfitriona',
+      'Efectivo para artesanías - sin cajeros en las islas'
+    ],
+    safetyNotes: [
+      'High altitude (3,900m) - acclimatize before',
+      'Basic but safe accommodations',
+      'Cold nights - extra blankets provided',
+      'Limited electricity and modern amenities',
+      'Boat travel supervised by experienced crews'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,900m) - aclimatarse antes',
+      'Alojamiento básico pero seguro',
+      'Noches frías - mantas extra proporcionadas',
+      'Electricidad y amenidades modernas limitadas',
+      'Viaje en bote supervisado por tripulaciones experimentadas'
+    ],
+    relatedActivities: ['lake-titicaca-islands-tour', 'sillustani-tour', 'puno-cultural-tour'],
+    providers: [
+      { name: 'Titicaca Responsible Tourism', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Puno Homestay Network', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'caral-archaeology-tour',
+    name: 'Caral Ancient City Archaeological Tour',
+    nameEs: 'Tour Arqueológico a la Ciudad Antigua de Caral',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Journey to the oldest city in the Americas on this educational day trip from Lima. Caral\'s 5,000-year-old pyramids are contemporary with ancient Egypt, yet remained unknown until 1996. This UNESCO World Heritage Site offers families a mind-expanding experience exploring a sophisticated civilization that developed peacefully, without evidence of warfare. Walk among massive pyramids, sunken plazas, and ongoing archaeological excavations that continue to rewrite the history of the New World.',
+    descriptionEs: 'Viaja a la ciudad más antigua de las Américas en esta excursión educativa de un día desde Lima. Las pirámides de 5,000 años de Caral son contemporáneas con el antiguo Egipto, pero permanecieron desconocidas hasta 1996. Este Sitio Patrimonio de la Humanidad UNESCO ofrece a las familias una experiencia que expande la mente explorando una civilización sofisticada que se desarrolló pacíficamente, sin evidencia de guerra. Camina entre pirámides masivas, plazas hundidas y excavaciones arqueológicas en curso que continúan reescribiendo la historia del Nuevo Mundo.',
+    whatToExpect: 'Depart Lima early morning for the scenic 3-4 hour drive north through coastal desert landscapes. Stop at Supe valley viewpoints overlooking the Pacific Ocean. Arrive at Caral Visitor Center for a brief museum visit introducing the Norte Chico civilization. Join a mandatory guided tour (included) through the 66-hectare site. Your expert guide explains how this 5,000-year-old city predates even the invention of pottery. Marvel at the Pyramid Mayor rising 18 meters, one of six major pyramid complexes. Descend into sunken circular plazas used for ceremonies. See the Altar of Sacred Fire and evidence of sophisticated astronomical observation. Learn about the peaceful society that developed here without weapons or defensive walls. Enjoy lunch at the on-site cafeteria or local restaurant before the return journey. Optional stop at Supe beach for a dip in the Pacific.',
+    whatToExpectEs: 'Sal de Lima temprano en la mañana para el viaje escénico de 3-4 horas al norte a través de paisajes de desierto costero. Para en miradores del valle de Supe con vista al Océano Pacífico. Llega al Centro de Visitantes de Caral para una breve visita al museo introduciendo la civilización Norte Chico. Únete a un tour guiado obligatorio (incluido) a través del sitio de 66 hectáreas. Tu guía experto explica cómo esta ciudad de 5,000 años es anterior incluso a la invención de la cerámica. Maravíllate con la Pirámide Mayor de 18 metros, uno de seis complejos piramidales mayores. Desciende a plazas circulares hundidas usadas para ceremonias. Ve el Altar del Fuego Sagrado y evidencia de observación astronómica sofisticada. Aprende sobre la sociedad pacífica que se desarrolló aquí sin armas ni muros defensivos. Disfruta el almuerzo en la cafetería del sitio o restaurante local antes del viaje de regreso. Parada opcional en la playa de Supe para un chapuzón en el Pacífico.',
+    highlights: [
+      'Oldest city in the Americas (5,000 years old)',
+      'Contemporary with Egyptian pyramids',
+      'UNESCO World Heritage Site',
+      'Six major pyramid complexes',
+      'Evidence of peaceful ancient civilization',
+      'Ongoing archaeological discoveries',
+      'Expert guided tour included'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas (5,000 años)',
+      'Contemporánea con las pirámides egipcias',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Seis complejos piramidales mayores',
+      'Evidencia de civilización antigua pacífica',
+      'Descubrimientos arqueológicos en curso',
+      'Tour guiado experto incluido'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (10-12 hours from Lima)',
+    durationEs: 'Día completo (10-12 horas desde Lima)',
+    difficulty: 'easy',
+    priceRange: '$85-130 per person',
+    priceRangeEs: '$85-130 por persona',
+    bestTime: 'Year-round. Coastal desert climate. Morning arrivals avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero. Llegadas matutinas evitan calor de la tarde.',
+    includes: [
+      'Round-trip transport from Lima',
+      'Professional bilingual guide',
+      'Caral entrance fee',
+      'Mandatory site guided tour',
+      'Lunch (most tours)',
+      'Water and snacks'
+    ],
+    includesEs: [
+      'Transporte ida y vuelta desde Lima',
+      'Guía bilingüe profesional',
+      'Entrada a Caral',
+      'Tour guiado obligatorio del sitio',
+      'Almuerzo (mayoría de tours)',
+      'Agua y snacks'
+    ],
+    tips: [
+      'Bring sun protection - no shade at the site',
+      'Comfortable walking shoes essential',
+      'Excellent educational experience for school-age kids',
+      'Combine with Supe beach for afternoon swim',
+      'Bring cash for optional purchases'
+    ],
+    tipsEs: [
+      'Trae protección solar - sin sombra en el sitio',
+      'Zapatos cómodos para caminar esenciales',
+      'Excelente experiencia educativa para niños en edad escolar',
+      'Combina con playa de Supe para nado en la tarde',
+      'Trae efectivo para compras opcionales'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot desert climate - hydration essential',
+      'Easy flat walking throughout site',
+      'Stay on designated paths',
+      'Guided tours ensure safe exploration'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima de desierto caliente - hidratación esencial',
+      'Caminata fácil y plana en todo el sitio',
+      'Permanecer en senderos designados',
+      'Tours guiados aseguran exploración segura'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-museum-tour', 'lima-archaeological-sites'],
+    providers: [
+      { name: 'Peru Archaeological Tours', familyFriendly: true },
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Ancient Peru Expeditions', familyFriendly: true }
+    ]
   }
 ];
 

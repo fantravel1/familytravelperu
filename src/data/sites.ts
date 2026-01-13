@@ -9786,6 +9786,304 @@ export const sites: Site[] = [
       'Charlas de seguridad',
       'Bebidas calientes en viaje de regreso'
     ]
+  },
+  {
+    slug: 'uros-floating-islands',
+    name: 'Uros Floating Islands',
+    nameEs: 'Islas Flotantes de los Uros',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3812,
+    description: 'The Uros Floating Islands are one of the world\'s most unique human habitations - entirely artificial islands built from totora reeds on Lake Titicaca. For centuries, the Uros people have lived on these remarkable floating platforms, maintaining a lifestyle that combines ancient traditions with modern tourism. Visiting the islands offers families an incredible opportunity to learn about indigenous engineering, walk on bouncy reed surfaces, and experience a way of life found nowhere else on Earth.',
+    descriptionEs: 'Las Islas Flotantes de los Uros son una de las habitaciones humanas más únicas del mundo - islas enteramente artificiales construidas de cañas de totora en el Lago Titicaca. Por siglos, el pueblo Uros ha vivido en estas notables plataformas flotantes, manteniendo un estilo de vida que combina tradiciones antiguas con turismo moderno. Visitar las islas ofrece a las familias una increíble oportunidad de aprender sobre ingeniería indígena, caminar sobre superficies de caña que rebotan, y experimentar un modo de vida que no se encuentra en ningún otro lugar de la Tierra.',
+    history: 'The Uros people originally built floating islands to escape conflicts with the Collas and later the Incas. By living on the water, they could simply float away from danger. The islands are constructed from dense totora reed roots that form the base, topped with layers of dried reeds that must be constantly renewed. A large island can support several families, a watchtower, and even livestock. While the original Uros ethnic group has largely intermarried with Aymara people, the unique lifestyle continues, now supported primarily by tourism rather than fishing. Today about 1,200 people live on roughly 70 islands, preserving their distinctive culture for future generations.',
+    historyEs: 'El pueblo Uros originalmente construyó islas flotantes para escapar de conflictos con los Collas y más tarde los Incas. Al vivir en el agua, simplemente podían flotar lejos del peligro. Las islas están construidas de densas raíces de caña de totora que forman la base, cubiertas con capas de cañas secas que deben renovarse constantemente. Una isla grande puede soportar varias familias, una torre de vigilancia e incluso ganado. Mientras el grupo étnico Uros original se ha mezclado en gran parte con los Aymara, el estilo de vida único continúa, ahora apoyado principalmente por el turismo en lugar de la pesca. Hoy aproximadamente 1,200 personas viven en aproximadamente 70 islas, preservando su cultura distintiva para las generaciones futuras.',
+    highlights: [
+      'Walk on unique floating reed islands',
+      'Learn traditional island construction techniques',
+      'Ride in traditional reed boats (balsas)',
+      'Meet Uros families in their island homes',
+      'See handicrafts made from totora reeds',
+      'Stunning Lake Titicaca views',
+      'One of world\'s most unique human settlements'
+    ],
+    highlightsEs: [
+      'Caminar sobre islas únicas de caña flotantes',
+      'Aprender técnicas tradicionales de construcción de islas',
+      'Navegar en balsas tradicionales de caña',
+      'Conocer familias Uros en sus hogares de la isla',
+      'Ver artesanías hechas de cañas de totora',
+      'Impresionantes vistas del Lago Titicaca',
+      'Uno de los asentamientos humanos más únicos del mundo'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2-3 hours (half-day tour from Puno)',
+    durationEs: '2-3 horas (tour de medio día desde Puno)',
+    difficulty: 'easy',
+    entranceFee: 'S/10 per person community fee',
+    entranceFeeEs: 'S/10 por persona tarifa comunitaria',
+    bestTime: 'Year-round. April-October dry season has clearest skies. Mornings are calmest on the lake.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre tiene cielos más claros. Las mañanas son más tranquilas en el lago.',
+    tips: [
+      'Book community-focused tours that benefit islanders directly',
+      'Bring small items for children (crayons, notebooks)',
+      'Photos with families often expect small tips',
+      'Combine with Taquile Island for full day experience',
+      'Dress warmly - lake winds can be cold'
+    ],
+    tipsEs: [
+      'Reserva tours enfocados en la comunidad que beneficien directamente a los isleños',
+      'Trae pequeños artículos para niños (crayones, cuadernos)',
+      'Las fotos con familias a menudo esperan pequeñas propinas',
+      'Combina con Isla Taquile para experiencia de día completo',
+      'Vístete abrigado - los vientos del lago pueden ser fríos'
+    ],
+    nearbyAttractions: ['Taquile Island', 'Amantaní Island', 'Puno Cathedral', 'Sillustani'],
+    relatedSites: ['taquile-island', 'sillustani', 'puno-cathedral'],
+    gettingThere: 'Boats depart from Puno port (short taxi ride from center). Tours include transport or you can hire boats directly at the dock (negotiate price first).',
+    gettingThereEs: 'Los botes salen del puerto de Puno (corto viaje en taxi desde el centro). Los tours incluyen transporte o puedes contratar botes directamente en el muelle (negocia el precio primero).',
+    facilities: [
+      'Basic restrooms on some islands',
+      'Small shops selling handicrafts',
+      'Covered boat transport',
+      'Some islands have restaurants',
+      'Watchtower viewpoints'
+    ],
+    facilitiesEs: [
+      'Baños básicos en algunas islas',
+      'Pequeñas tiendas vendiendo artesanías',
+      'Transporte en bote cubierto',
+      'Algunas islas tienen restaurantes',
+      'Miradores en torres de vigilancia'
+    ]
+  },
+  {
+    slug: 'taquile-island',
+    name: 'Taquile Island',
+    nameEs: 'Isla Taquile',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3950,
+    description: 'Taquile Island rises dramatically from Lake Titicaca\'s deep blue waters, home to a Quechua-speaking community renowned worldwide for their exceptional textile traditions. UNESCO recognized Taquile\'s knitting traditions as an Intangible Cultural Heritage for their quality and cultural significance. Unlike the tourist-oriented Uros Islands, Taquile offers an authentic glimpse into traditional Andean island life, with stunning terraced landscapes, pre-Inca ruins, and one of Peru\'s most spectacular lake viewpoints.',
+    descriptionEs: 'Isla Taquile se eleva dramáticamente de las aguas azul profundo del Lago Titicaca, hogar de una comunidad de habla quechua mundialmente reconocida por sus excepcionales tradiciones textiles. UNESCO reconoció las tradiciones de tejido de Taquile como Patrimonio Cultural Inmaterial por su calidad y significancia cultural. A diferencia de las orientadas al turismo Islas Uros, Taquile ofrece un vistazo auténtico a la vida tradicional isleña andina, con impresionantes paisajes de terrazas, ruinas pre-Incas y uno de los miradores más espectaculares del lago en Perú.',
+    history: 'Taquile has been inhabited for over 10,000 years, with pre-Inca terraces still visible across the hillsides. The island served as a prison during Spanish colonial times and early republican Peru, isolating it from outside influence and helping preserve traditional culture. The Taquileños purchased their island back in 1970 and have since developed community-based tourism on their own terms. Men are taught to knit from age eight and create the distinctive chullo hats whose patterns indicate marital status and community role. Women weave the elaborate belts and textiles. This textile tradition earned UNESCO recognition in 2008.',
+    historyEs: 'Taquile ha sido habitada por más de 10,000 años, con terrazas pre-Incas aún visibles en las laderas. La isla sirvió como prisión durante tiempos coloniales españoles y los primeros años del Perú republicano, aislándola de influencia externa y ayudando a preservar la cultura tradicional. Los Taquileños compraron de vuelta su isla en 1970 y desde entonces han desarrollado turismo comunitario en sus propios términos. A los hombres se les enseña a tejer desde los ocho años y crean los distintivos chullos cuyos patrones indican estado civil y rol comunitario. Las mujeres tejen los elaborados cinturones y textiles. Esta tradición textil ganó reconocimiento UNESCO en 2008.',
+    highlights: [
+      'UNESCO-recognized textile traditions',
+      'Authentic Andean island community',
+      'Spectacular Lake Titicaca panoramas',
+      'See men knitting traditional chullos',
+      'Pre-Inca terraces and ruins',
+      'Delicious traditional Taquileña lunch',
+      'Car-free peaceful island atmosphere'
+    ],
+    highlightsEs: [
+      'Tradiciones textiles reconocidas por UNESCO',
+      'Comunidad isleña andina auténtica',
+      'Espectaculares panoramas del Lago Titicaca',
+      'Ver hombres tejiendo chullos tradicionales',
+      'Terrazas y ruinas pre-Incas',
+      'Delicioso almuerzo tradicional Taquileño',
+      'Atmósfera de isla pacífica sin autos'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day tour from Puno',
+    durationEs: 'Tour de día completo desde Puno',
+    difficulty: 'moderate',
+    entranceFee: 'S/8 per person island entrance',
+    entranceFeeEs: 'S/8 por persona entrada a la isla',
+    bestTime: 'Year-round. April-October dry season best. Mornings have calmest waters.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre mejor. Las mañanas tienen aguas más tranquilas.',
+    tips: [
+      'Steep 533-step climb from dock to village - take it slow',
+      'Altitude makes climbing more challenging - acclimatize first',
+      'Buy textiles directly from community cooperative',
+      'Traditional lunch is simple but authentic - try quinoa soup',
+      'Allow time to explore the main plaza and viewpoints'
+    ],
+    tipsEs: [
+      'Subida empinada de 533 escalones desde el muelle al pueblo - tómalo con calma',
+      'La altitud hace la subida más desafiante - aclimatarse primero',
+      'Compra textiles directamente de la cooperativa comunitaria',
+      'El almuerzo tradicional es simple pero auténtico - prueba sopa de quinoa',
+      'Permite tiempo para explorar la plaza principal y miradores'
+    ],
+    nearbyAttractions: ['Uros Floating Islands', 'Amantaní Island', 'Puno', 'Sillustani'],
+    relatedSites: ['uros-floating-islands', 'sillustani', 'puno-cathedral'],
+    gettingThere: 'Three-hour boat ride from Puno port. Most tours combine with Uros Islands visit. Return boats depart mid-afternoon.',
+    gettingThereEs: 'Tres horas en bote desde el puerto de Puno. La mayoría de tours combinan con visita a Islas Uros. Botes de regreso salen a media tarde.',
+    facilities: [
+      'Basic restrooms on island',
+      'Community restaurants',
+      'Textile cooperative shop',
+      'No motorized vehicles',
+      'Sheltered viewpoint areas',
+      'Guest houses for overnight stays'
+    ],
+    facilitiesEs: [
+      'Baños básicos en la isla',
+      'Restaurantes comunitarios',
+      'Tienda de cooperativa textil',
+      'Sin vehículos motorizados',
+      'Áreas de miradores protegidas',
+      'Casas de huéspedes para estadías nocturnas'
+    ]
+  },
+  {
+    slug: 'nazca-lines',
+    name: 'Nazca Lines',
+    nameEs: 'Líneas de Nazca',
+    type: 'archaeological',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 520,
+    description: 'The Nazca Lines are one of archaeology\'s greatest mysteries - enormous geoglyphs etched into the desert floor depicting animals, plants, and geometric shapes, some spanning over 300 meters. Created by the Nazca culture between 500 BCE and 500 CE, these UNESCO World Heritage sites can only be fully appreciated from the air, offering one of the world\'s most unique sightseeing experiences. From the famous hummingbird and monkey to the mysterious astronaut figure, the lines continue to inspire wonder and debate about their purpose.',
+    descriptionEs: 'Las Líneas de Nazca son uno de los mayores misterios de la arqueología - enormes geoglifos grabados en el piso del desierto representando animales, plantas y formas geométricas, algunos abarcando más de 300 metros. Creados por la cultura Nazca entre 500 AEC y 500 EC, estos sitios Patrimonio de la Humanidad UNESCO solo pueden apreciarse completamente desde el aire, ofreciendo una de las experiencias turísticas más únicas del mundo. Desde el famoso colibrí y mono hasta la misteriosa figura del astronauta, las líneas continúan inspirando asombro y debate sobre su propósito.',
+    history: 'The Nazca Lines were created by removing the reddish iron-oxide pebbles covering the desert surface to reveal the lighter ground beneath. The extremely dry, windless climate has preserved these massive designs for over 2,000 years. German mathematician Maria Reiche dedicated her life to studying and protecting the lines, theorizing they formed an astronomical calendar. Other theories suggest they were ritual pathways, water-finding maps, or ceremonial offerings to sky gods. There are over 800 straight lines, 300 geometric figures, and 70 animal and plant designs. Designated a UNESCO World Heritage Site in 1994, the lines remain one of the world\'s most intriguing archaeological puzzles.',
+    historyEs: 'Las Líneas de Nazca fueron creadas removiendo los guijarros de óxido de hierro rojizo que cubren la superficie del desierto para revelar el suelo más claro debajo. El clima extremadamente seco y sin viento ha preservado estos diseños masivos por más de 2,000 años. La matemática alemana Maria Reiche dedicó su vida a estudiar y proteger las líneas, teorizando que formaban un calendario astronómico. Otras teorías sugieren que eran caminos rituales, mapas para encontrar agua u ofrendas ceremoniales a dioses del cielo. Hay más de 800 líneas rectas, 300 figuras geométricas y 70 diseños de animales y plantas. Designado Sitio Patrimonio de la Humanidad UNESCO en 1994, las líneas siguen siendo uno de los rompecabezas arqueológicos más intrigantes del mundo.',
+    highlights: [
+      'View massive ancient geoglyphs from the air',
+      'See the famous hummingbird, monkey, and spider',
+      'UNESCO World Heritage Site',
+      'One of archaeology\'s greatest mysteries',
+      'Incredible engineering and artistic achievement',
+      'Maria Reiche museum and observation tower',
+      'Unique flight experience over the desert'
+    ],
+    highlightsEs: [
+      'Ver masivos geoglifos antiguos desde el aire',
+      'Ver el famoso colibrí, mono y araña',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Uno de los mayores misterios de la arqueología',
+      'Increíble logro de ingeniería y artístico',
+      'Museo Maria Reiche y torre de observación',
+      'Experiencia única de vuelo sobre el desierto'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Flight: 30-35 minutes. Full visit: 3-4 hours',
+    durationEs: 'Vuelo: 30-35 minutos. Visita completa: 3-4 horas',
+    difficulty: 'easy',
+    entranceFee: 'Flights cost $80-120 per person. Tower: S/3',
+    entranceFeeEs: 'Vuelos cuestan $80-120 por persona. Torre: S/3',
+    bestTime: 'Year-round. Morning flights (8-10am) have less turbulence. Avoid midday heat.',
+    bestTimeEs: 'Todo el año. Vuelos matutinos (8-10am) tienen menos turbulencia. Evitar calor del mediodía.',
+    tips: [
+      'Book flights in advance during high season',
+      'Take motion sickness medication before flying',
+      'Smaller planes (Cessna) bank steeply for better views',
+      'Visit observation tower for ground-level perspective',
+      'Maria Reiche museum provides excellent context',
+      'Avoid large meals before flight'
+    ],
+    tipsEs: [
+      'Reserva vuelos con anticipación durante temporada alta',
+      'Toma medicamento para mareo antes de volar',
+      'Aviones más pequeños (Cessna) giran pronunciadamente para mejores vistas',
+      'Visita torre de observación para perspectiva a nivel del suelo',
+      'Museo Maria Reiche proporciona excelente contexto',
+      'Evita comidas grandes antes del vuelo'
+    ],
+    nearbyAttractions: ['Chauchilla Cemetery', 'Cahuachi Pyramids', 'Cantalloc Aqueducts', 'Maria Reiche Museum'],
+    relatedSites: ['chauchilla-cemetery', 'huacachina', 'paracas-national-reserve'],
+    gettingThere: 'Nazca is 450km south of Lima on the Pan-American Highway. Buses take 7-8 hours. Flights depart from Nazca airport or Pisco for northern approach.',
+    gettingThereEs: 'Nazca está a 450km al sur de Lima en la Carretera Panamericana. Los buses toman 7-8 horas. Los vuelos salen del aeropuerto de Nazca o Pisco para aproximación norte.',
+    facilities: [
+      'Multiple flight operators at airport',
+      'Observation tower with basic facilities',
+      'Maria Reiche museum',
+      'Hotels and restaurants in Nazca town',
+      'Tourist information center'
+    ],
+    facilitiesEs: [
+      'Múltiples operadores de vuelo en el aeropuerto',
+      'Torre de observación con instalaciones básicas',
+      'Museo Maria Reiche',
+      'Hoteles y restaurantes en la ciudad de Nazca',
+      'Centro de información turística'
+    ]
+  },
+  {
+    slug: 'caral',
+    name: 'Caral (Sacred City)',
+    nameEs: 'Caral (Ciudad Sagrada)',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 350,
+    description: 'Caral is the oldest city in the Americas, a remarkable 5,000-year-old archaeological site that rewrites the history of civilization in the New World. Contemporary with ancient Egypt\'s pyramids, this UNESCO World Heritage Site features six monumental pyramids, sunken circular plazas, and evidence of a sophisticated society that developed without warfare or fortification. For families interested in ancient history, Caral offers an awe-inspiring journey to the very dawn of American civilization.',
+    descriptionEs: 'Caral es la ciudad más antigua de las Américas, un notable sitio arqueológico de 5,000 años que reescribe la historia de la civilización en el Nuevo Mundo. Contemporáneo con las pirámides del antiguo Egipto, este Sitio Patrimonio de la Humanidad UNESCO presenta seis pirámides monumentales, plazas circulares hundidas y evidencia de una sociedad sofisticada que se desarrolló sin guerra ni fortificación. Para familias interesadas en historia antigua, Caral ofrece un viaje impresionante al mismo amanecer de la civilización americana.',
+    history: 'Caral flourished as the capital of the Norte Chico civilization from approximately 2600 BCE to 2000 BCE, making it contemporary with the Egyptian pyramids and older than any other known city in the Americas by at least 1,500 years. Archaeologist Ruth Shady began excavations in 1996, revealing a sophisticated society of perhaps 3,000 people. Remarkably, no evidence of warfare, weapons, or defensive structures has been found. The civilization appears to have been based on peaceful trade, agriculture, and fishing. Caral\'s inhabitants developed an early form of quipu record-keeping, astronomical observation, and complex irrigation systems. Designated a UNESCO World Heritage Site in 2009, Caral challenges previous assumptions about early American civilizations.',
+    historyEs: 'Caral floreció como capital de la civilización Norte Chico desde aproximadamente 2600 AEC hasta 2000 AEC, haciéndola contemporánea con las pirámides egipcias y más antigua que cualquier otra ciudad conocida en las Américas por al menos 1,500 años. La arqueóloga Ruth Shady comenzó excavaciones en 1996, revelando una sociedad sofisticada de quizás 3,000 personas. Notablemente, no se ha encontrado evidencia de guerra, armas o estructuras defensivas. La civilización parece haber estado basada en comercio pacífico, agricultura y pesca. Los habitantes de Caral desarrollaron una forma temprana de registro con quipu, observación astronómica y sistemas de irrigación complejos. Designado Sitio Patrimonio de la Humanidad UNESCO en 2009, Caral desafía suposiciones previas sobre civilizaciones americanas tempranas.',
+    highlights: [
+      'Oldest city in the Americas (5,000 years)',
+      'Contemporary with Egyptian pyramids',
+      'Six major pyramid complexes',
+      'Evidence of peaceful civilization',
+      'UNESCO World Heritage Site',
+      'Sunken circular ceremonial plazas',
+      'Ongoing archaeological discoveries'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas (5,000 años)',
+      'Contemporánea con las pirámides egipcias',
+      'Seis complejos piramidales mayores',
+      'Evidencia de civilización pacífica',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Plazas ceremoniales circulares hundidas',
+      'Descubrimientos arqueológicos en curso'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (3-4 hours at site)',
+    durationEs: 'Medio día (3-4 horas en el sitio)',
+    difficulty: 'easy',
+    entranceFee: 'S/11 adults, S/4 children (guided tour required)',
+    entranceFeeEs: 'S/11 adultos, S/4 niños (tour guiado requerido)',
+    bestTime: 'Year-round coastal desert climate. Morning visits avoid afternoon heat. April-November slightly cooler.',
+    bestTimeEs: 'Clima de desierto costero todo el año. Visitas matutinas evitan calor de la tarde. Abril-noviembre ligeramente más fresco.',
+    tips: [
+      'Guided tours are mandatory and included in entrance fee',
+      'Bring sun protection - no shade at site',
+      'Wear comfortable walking shoes',
+      'Combine with coastal beach visit at Supe',
+      'Educational site excellent for school-age children'
+    ],
+    tipsEs: [
+      'Tours guiados son obligatorios e incluidos en la entrada',
+      'Trae protección solar - sin sombra en el sitio',
+      'Usa zapatos cómodos para caminar',
+      'Combina con visita a playa costera en Supe',
+      'Sitio educativo excelente para niños en edad escolar'
+    ],
+    nearbyAttractions: ['Supe Beach', 'Bandurria', 'Paramonga', 'Huacho'],
+    relatedSites: ['chavin-de-huantar', 'sechin', 'pachacamac'],
+    gettingThere: 'Caral is 182km north of Lima (3-4 hour drive). Day tours from Lima available, or base yourself in Huacho. The final 23km is unpaved but accessible.',
+    gettingThereEs: 'Caral está a 182km al norte de Lima (3-4 horas en auto). Tours de día desde Lima disponibles, o ubícate en Huacho. Los últimos 23km no están pavimentados pero son accesibles.',
+    facilities: [
+      'Modern visitor center with exhibits',
+      'Restrooms at entrance',
+      'Small cafeteria',
+      'Site guides available',
+      'Shaded rest areas',
+      'Small museum'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes moderno con exhibiciones',
+      'Baños en la entrada',
+      'Pequeña cafetería',
+      'Guías de sitio disponibles',
+      'Áreas de descanso con sombra',
+      'Pequeño museo'
+    ]
   }
 ];
 
