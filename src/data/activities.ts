@@ -15601,6 +15601,440 @@ export const activities: Activity[] = [
       { name: 'Cloud Forest Trek', familyFriendly: true },
       { name: 'Turismo Explorer Chachapoyas', familyFriendly: true }
     ]
+  },
+
+  // Batch 16 Activities
+  {
+    slug: 'leymebamba-revash-combined-tour',
+    name: 'Leymebamba Museum & Revash Mausoleums Tour',
+    nameEs: 'Tour Combinado Museo Leymebamba y Mausoleos de Revash',
+    type: 'educational',
+    city: 'chachapoyas',
+    region: 'Amazonas',
+    regionEs: 'Amazonas',
+    description: 'Experience the two most impressive remnants of Chachapoya funerary culture on a combined day tour from Chachapoyas. Visit the world-renowned Leymebamba Museum housing over 200 mummies recovered from the cliff tombs of Laguna de los Cóndores, then continue to the strikingly colorful Revash Mausoleums—painted red and cream cliff-side burial structures that resemble miniature houses perched impossibly on mountain ledges. This full-day exploration reveals the sophisticated funerary practices of Peru\'s mysterious "Warriors of the Clouds" through both museum exhibits and in-situ archaeological remains.',
+    descriptionEs: 'Experimenta los dos vestigios más impresionantes de la cultura funeraria Chachapoya en un tour combinado de día completo desde Chachapoyas. Visita el mundialmente renombrado Museo Leymebamba que alberga más de 200 momias recuperadas de las tumbas de acantilado de Laguna de los Cóndores, luego continúa a los llamativamente coloridos Mausoleos de Revash—estructuras funerarias de ladera de acantilado pintadas de rojo y crema que parecen casas miniatura posadas imposiblemente en cornisas de montaña. Esta exploración de día completo revela las sofisticadas prácticas funerarias de los misteriosos "Guerreros de las Nubes" de Perú a través tanto de exhibiciones de museo como restos arqueológicos in-situ.',
+    whatToExpect: 'Your Chachapoya funerary culture immersion begins with early morning departure from Chachapoyas, driving through stunning mountain scenery along winding roads toward the charming cloud forest town of Leymebamba. The 2.5-hour drive passes through traditional villages and dramatic landscapes that haven\'t changed much in centuries. At the Leymebamba Museum, spend 2 hours exploring one of the world\'s most significant mummy collections. Behind climate-controlled glass, over 200 remarkably preserved mummies sit in positions replicating their original tomb arrangement. Your guide explains the dramatic 1997 discovery at Laguna de los Cóndores and the fascinating cultural practices revealed by analysis of the remains and accompanying artifacts including textiles, ceramics, and quipus. Children are captivated by the well-designed exhibits explaining Chachapoya daily life. After lunch in Leymebamba\'s pleasant plaza, continue 45 minutes to the village of Santo Tomás and begin the moderate 30-minute uphill walk to the Revash viewpoint. As you round the final bend, the painted mausoleums come into view—bright red and cream structures that look like tiny houses with doors and windows, perched on narrow cliff ledges 200 meters above the valley. Binoculars reveal original paint and architectural details. Your guide explains how these collective family tombs differed from the individual sarcophagi at Karajía, and the incredible engineering required to place them on such inaccessible ledges. The return to Chachapoyas takes approximately 2 hours, arriving by late afternoon.',
+    whatToExpectEs: 'Tu inmersión en la cultura funeraria Chachapoya comienza con salida temprano en la mañana desde Chachapoyas, conduciendo a través de impresionante paisaje montañoso a lo largo de caminos sinuosos hacia el encantador pueblo de bosque nublado de Leymebamba. El viaje de 2.5 horas pasa por pueblos tradicionales y paisajes dramáticos que no han cambiado mucho en siglos. En el Museo Leymebamba, pasa 2 horas explorando una de las colecciones de momias más significativas del mundo. Detrás de vidrio con clima controlado, más de 200 momias notablemente preservadas se sientan en posiciones que replican su arreglo original en las tumbas. Tu guía explica el dramático descubrimiento de 1997 en Laguna de los Cóndores y las fascinantes prácticas culturales reveladas por análisis de los restos y artefactos acompañantes incluyendo textiles, cerámicas y quipus. Los niños quedan cautivados por las exhibiciones bien diseñadas explicando la vida diaria Chachapoya. Después del almuerzo en la agradable plaza de Leymebamba, continúa 45 minutos al pueblo de Santo Tomás y comienza la caminata moderada de 30 minutos cuesta arriba al mirador de Revash. Al doblar la última curva, los mausoleos pintados aparecen a la vista—estructuras rojo brillante y crema que parecen casitas con puertas y ventanas, posadas en estrechas cornisas de acantilado 200 metros sobre el valle. Binoculares revelan pintura original y detalles arquitectónicos. Tu guía explica cómo estas tumbas familiares colectivas diferían de los sarcófagos individuales en Karajía, y la increíble ingeniería requerida para colocarlos en cornisas tan inaccesibles. El regreso a Chachapoyas toma aproximadamente 2 horas, llegando por la tarde.',
+    highlights: [
+      'Over 200 Chachapoya mummies in museum',
+      'Dramatically painted cliff-side mausoleums',
+      'Complete picture of Chachapoya funerary culture',
+      'World-class archaeological collection',
+      'Charming cloud forest town of Leymebamba',
+      'Moderate hike to spectacular viewpoint',
+      'Original paint still visible on tombs',
+      'Expert guides explain cultural significance',
+      'Scenic mountain drive through villages',
+      'Off-the-beaten-path adventure',
+      'Lunch in traditional town plaza',
+      'Far fewer tourists than southern Peru'
+    ],
+    highlightsEs: [
+      'Más de 200 momias Chachapoya en museo',
+      'Dramáticamente pintados mausoleos de ladera de acantilado',
+      'Imagen completa de cultura funeraria Chachapoya',
+      'Colección arqueológica de clase mundial',
+      'Encantador pueblo de bosque nublado de Leymebamba',
+      'Caminata moderada a mirador espectacular',
+      'Pintura original aún visible en tumbas',
+      'Guías expertos explican significado cultural',
+      'Viaje escénico en montaña a través de pueblos',
+      'Aventura fuera del camino trillado',
+      'Almuerzo en plaza de pueblo tradicional',
+      'Muchos menos turistas que sur de Perú'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (9-10 hours)',
+    durationEs: 'Día completo (9-10 horas)',
+    difficulty: 'moderate',
+    priceRange: 'S/150-250 per person depending on group size',
+    priceRangeEs: 'S/150-250 por persona dependiendo del tamaño del grupo',
+    bestTime: 'May-October dry season best. Year-round accessible.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Accesible todo el año.',
+    includes: [
+      'Hotel pickup/drop-off in Chachapoyas',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Leymebamba Museum entrance',
+      'Revash entrance fee',
+      'Lunch in Leymebamba',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel en Chachapoyas',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entrada al Museo Leymebamba',
+      'Entrada a Revash',
+      'Almuerzo en Leymebamba',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Bring binoculars for Revash details',
+      'Photography prohibited of mummies',
+      'Wear sturdy walking shoes for Revash',
+      'Morning light best at Revash',
+      'Town orchid festival in November',
+      'Allow 2+ hours for museum',
+      'Leymebamba worth extra exploration'
+    ],
+    tipsEs: [
+      'Trae binoculares para detalles de Revash',
+      'Fotografía de momias prohibida',
+      'Usa zapatos resistentes para caminar en Revash',
+      'Luz de mañana mejor en Revash',
+      'Festival de orquídeas del pueblo en noviembre',
+      'Permite 2+ horas para museo',
+      'Leymebamba vale exploración extra'
+    ],
+    safetyNotes: [
+      'Long but scenic drive',
+      'Moderate uphill walk at Revash',
+      'Lower altitude than Cusco—easier',
+      'Museum fully accessible',
+      'Safe, friendly communities',
+      'Rain can make trails slippery'
+    ],
+    safetyNotesEs: [
+      'Viaje largo pero escénico',
+      'Caminata moderada cuesta arriba en Revash',
+      'Altitud más baja que Cusco—más fácil',
+      'Museo completamente accesible',
+      'Comunidades seguras y amigables',
+      'Lluvia puede hacer senderos resbaladizos'
+    ],
+    relatedActivities: ['karajia-chachapoya-tour', 'kuelap-fortress-tour', 'gocta-waterfall-trek'],
+    providers: [
+      { name: 'Chachapoyas Explorer', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Amazon Adventures Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'moray-maras-sacred-valley-tour',
+    name: 'Moray & Maras Sacred Valley Tour',
+    nameEs: 'Tour Valle Sagrado Moray y Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover two of the Sacred Valley\'s most visually stunning and family-friendly sites on this half-day tour combining the remarkable Moray circular terraces and the ancient Salinas de Maras salt mines. The Inca\'s ingenious agricultural laboratory at Moray amazes with its concentric circles creating distinct microclimates, while the 3,000+ cascading white salt ponds at Maras provide one of Peru\'s most photogenic experiences. This perfect introduction to Inca engineering brilliance and living heritage offers incredible photo opportunities, fascinating science, and the chance to purchase famous pink salt directly from local families.',
+    descriptionEs: 'Descubre dos de los sitios más visualmente impresionantes y familiares del Valle Sagrado en este tour de medio día combinando las notables terrazas circulares de Moray y las antiguas minas de sal de Salinas de Maras. El ingenioso laboratorio agrícola de los Incas en Moray asombra con sus círculos concéntricos creando microclimas distintos, mientras los 3,000+ estanques de sal blanca en cascada en Maras proporcionan una de las experiencias más fotogénicas de Perú. Esta perfecta introducción al brillante ingenio Inca y patrimonio vivo ofrece increíbles oportunidades de fotos, ciencia fascinante, y la oportunidad de comprar famosa sal rosada directamente de familias locales.',
+    whatToExpect: 'Your Sacred Valley morning begins with hotel pickup in Cusco or Ollantaytambo, driving through high plateau landscapes toward the farming community of Maras. First stop is the extraordinary Moray site—three major circular depressions containing concentric agricultural terraces that seem to descend into the earth like ancient amphitheaters. Your guide explains how the Inca engineers created temperature differences of up to 15°C between top and bottom terraces, essentially recreating multiple ecological zones in one location for crop experimentation. Walk down into the largest depression for a truly immersive experience—standing at the bottom looking up at the perfect circles is unforgettable. Children love running up and down the terrace steps. From Moray, continue to the Salinas de Maras, where over 3,000 salt evaporation ponds cascade down a steep mountainside in brilliant white terraces. A natural salt spring at the top feeds ancient channels that fill individual family-owned pools, where the intense highland sun evaporates water leaving crystallized salt. Local families have harvested salt here using the same methods for over 1,000 years, predating the Inca. Walk along designated paths through the terraces, watching workers rake crystallized salt and learning how white, pink, and brown varieties differ in mineral content. Purchase authentic Maras pink salt—prized by chefs worldwide—directly from harvesters. The tour can be extended to include the traditional weaving village of Chinchero, or combined with an afternoon in Ollantaytambo.',
+    whatToExpectEs: 'Tu mañana en el Valle Sagrado comienza con recogida en el hotel en Cusco o Ollantaytambo, conduciendo a través de paisajes de meseta alta hacia la comunidad agrícola de Maras. La primera parada es el extraordinario sitio de Moray—tres depresiones circulares principales que contienen terrazas agrícolas concéntricas que parecen descender hacia la tierra como anfiteatros antiguos. Tu guía explica cómo los ingenieros Incas crearon diferencias de temperatura de hasta 15°C entre las terrazas superior e inferior, esencialmente recreando múltiples zonas ecológicas en una ubicación para experimentación de cultivos. Camina hacia abajo en la depresión más grande para una experiencia verdaderamente inmersiva—pararse en el fondo mirando hacia arriba a los círculos perfectos es inolvidable. Los niños aman correr arriba y abajo por los escalones de las terrazas. Desde Moray, continúa a las Salinas de Maras, donde más de 3,000 estanques de evaporación de sal caen en cascada por una empinada ladera de montaña en terrazas blancas brillantes. Un manantial de sal natural en la cima alimenta canales antiguos que llenan estanques individuales propiedad de familias, donde el intenso sol de altura evapora el agua dejando sal cristalizada. Las familias locales han cosechado sal aquí usando los mismos métodos por más de 1,000 años, antes de los Incas. Camina por senderos designados a través de las terrazas, viendo trabajadores rastrillar sal cristalizada y aprendiendo cómo las variedades blanca, rosada y marrón difieren en contenido mineral. Compra auténtica sal rosada de Maras—apreciada por chefs mundialmente—directamente de cosechadores. El tour puede extenderse para incluir el pueblo de tejido tradicional de Chinchero, o combinarse con una tarde en Ollantaytambo.',
+    highlights: [
+      'Spectacular concentric circular terraces at Moray',
+      'Inca agricultural laboratory with 15°C variation',
+      'Walk down into the terrace amphitheaters',
+      'Over 3,000 cascading white salt ponds',
+      'Pre-Inca salt harvesting still active',
+      'Purchase famous Maras pink salt',
+      'Incredible photo opportunities at both sites',
+      'Fascinating Inca engineering and science',
+      'Living heritage at Maras',
+      'Beautiful altiplano scenery',
+      'Supports local salt-harvesting families',
+      'Flexible morning or afternoon timing'
+    ],
+    highlightsEs: [
+      'Espectaculares terrazas circulares concéntricas en Moray',
+      'Laboratorio agrícola Inca con variación de 15°C',
+      'Camina hacia abajo en los anfiteatros de terrazas',
+      'Más de 3,000 estanques de sal blanca en cascada',
+      'Cosecha de sal pre-Inca aún activa',
+      'Compra famosa sal rosada de Maras',
+      'Increíbles oportunidades de fotos en ambos sitios',
+      'Fascinante ingeniería y ciencia Inca',
+      'Patrimonio vivo en Maras',
+      'Hermoso paisaje del altiplano',
+      'Apoya a familias cosechadoras de sal locales',
+      'Horario flexible mañana o tarde'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-70 USD per person',
+    priceRangeEs: '$40-70 USD por persona',
+    bestTime: 'Year-round. Dry season (May-October) best for photos. Morning light ideal.',
+    bestTimeEs: 'Todo el año. Temporada seca (Mayo-Octubre) mejor para fotos. Luz de mañana ideal.',
+    includes: [
+      'Hotel pickup/drop-off in Cusco or Sacred Valley',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Maras entrance fee (S/10)',
+      'Moray requires Boleto Turístico (not included)'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel en Cusco o Valle Sagrado',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entrada a Maras (S/10)',
+      'Moray requiere Boleto Turístico (no incluido)'
+    ],
+    tips: [
+      'Buy Boleto Turístico in Cusco for Moray',
+      'Combine with Chinchero for full day',
+      'Morning light best for both sites',
+      'Buy pink salt directly from workers',
+      'Wear sturdy shoes—uneven paths',
+      'Bring sun protection—high altitude',
+      'Less crowded late morning'
+    ],
+    tipsEs: [
+      'Compra Boleto Turístico en Cusco para Moray',
+      'Combina con Chinchero para día completo',
+      'Luz de mañana mejor para ambos sitios',
+      'Compra sal rosada directamente de trabajadores',
+      'Usa zapatos resistentes—senderos irregulares',
+      'Trae protección solar—alta altitud',
+      'Menos concurrido a media mañana'
+    ],
+    safetyNotes: [
+      'High altitude (3,400-3,500m)—acclimatize first',
+      'Walking on uneven surfaces at both sites',
+      'Steps at Moray require care',
+      'Sun exposure at altitude—protection essential',
+      'Stay on marked paths at Maras',
+      'Both sites well-maintained and safe'
+    ],
+    safetyNotesEs: [
+      'Altitud elevada (3,400-3,500m)—aclimatarse primero',
+      'Caminata en superficies irregulares en ambos sitios',
+      'Escalones en Moray requieren cuidado',
+      'Exposición solar en altitud—protección esencial',
+      'Permanece en senderos marcados en Maras',
+      'Ambos sitios bien mantenidos y seguros'
+    ],
+    relatedActivities: ['sacred-valley-full-day', 'chinchero-weaving-experience', 'ollantaytambo-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Peru Sacred Travel', familyFriendly: true },
+      { name: 'Cusco Family Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'maras-salt-culinary-experience',
+    name: 'Maras Salt Harvest & Culinary Experience',
+    nameEs: 'Experiencia Culinaria y Cosecha de Sal de Maras',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Go beyond a typical visit to the Maras salt mines with this hands-on culinary experience that connects families directly with salt-harvesting traditions and Andean cuisine. Learn about the thousand-year history of salt production from local families who still work their ancestral pools, try your hand at raking crystallized salt, and understand the differences between white, pink, and brown varieties. The experience culminates with a cooking class using Maras salt in traditional Peruvian dishes, giving families both cultural immersion and delicious memories to take home.',
+    descriptionEs: 'Ve más allá de una visita típica a las minas de sal de Maras con esta experiencia culinaria práctica que conecta a las familias directamente con tradiciones de cosecha de sal y cocina andina. Aprende sobre la historia de mil años de producción de sal de familias locales que aún trabajan sus estanques ancestrales, prueba a rastrillar sal cristalizada, y entiende las diferencias entre variedades blanca, rosada y marrón. La experiencia culmina con una clase de cocina usando sal de Maras en platos peruanos tradicionales, dando a las familias tanto inmersión cultural como deliciosos recuerdos para llevar a casa.',
+    whatToExpect: 'Your salt culinary journey begins with pickup in Cusco or the Sacred Valley, driving through scenic highlands to the community of Maras. At the salt mines, you\'re welcomed not by a standard guide but by a member of one of the salt-harvesting families who has worked these terraces for generations. Walk through the 3,000+ white terraced pools as your host explains how a natural salt spring feeds ancient channels, how families maintain and pass down individual pools, and how the crystallization process works. Then comes the hands-on experience—donning rubber boots, you enter a pool with your host family and learn to rake the crystallized salt, understanding the techniques that produce different salt varieties. Children particularly love this tactile experience, scraping salt crystals into piles and learning to identify the different colors. After purchasing salt direct from the source, continue to a nearby traditional home or restaurant for a cooking class. Using the salt you\'ve just helped harvest, learn to prepare classic Peruvian dishes such as papa a la huancaína, lomo saltado, or quinoa-based recipes. The chef explains how Maras salt\'s mineral content affects flavor compared to industrial salt. Enjoy your creations for lunch, taking home recipes and a bag of Maras salt as souvenirs. This immersive experience supports local families directly while creating meaningful connections to Andean food traditions.',
+    whatToExpectEs: 'Tu viaje culinario de sal comienza con recogida en Cusco o el Valle Sagrado, conduciendo a través de tierras altas escénicas a la comunidad de Maras. En las minas de sal, eres recibido no por un guía estándar sino por un miembro de una de las familias cosechadoras de sal que ha trabajado estas terrazas por generaciones. Camina a través de los 3,000+ estanques blancos en terrazas mientras tu anfitrión explica cómo un manantial natural de sal alimenta canales antiguos, cómo las familias mantienen y pasan estanques individuales, y cómo funciona el proceso de cristalización. Luego viene la experiencia práctica—poniéndote botas de goma, entras en un estanque con tu familia anfitriona y aprendes a rastrillar la sal cristalizada, entendiendo las técnicas que producen diferentes variedades de sal. Los niños particularmente aman esta experiencia táctil, raspando cristales de sal en pilas y aprendiendo a identificar los diferentes colores. Después de comprar sal directamente de la fuente, continúa a un hogar tradicional cercano o restaurante para una clase de cocina. Usando la sal que acabas de ayudar a cosechar, aprende a preparar platos peruanos clásicos como papa a la huancaína, lomo saltado, o recetas basadas en quinua. El chef explica cómo el contenido mineral de la sal de Maras afecta el sabor comparado con sal industrial. Disfruta tus creaciones para el almuerzo, llevando a casa recetas y una bolsa de sal de Maras como souvenirs. Esta experiencia inmersiva apoya a familias locales directamente mientras crea conexiones significativas con tradiciones culinarias andinas.',
+    highlights: [
+      'Hands-on salt harvesting experience',
+      'Learn from actual salt-harvesting families',
+      'Rake crystallized salt in working pool',
+      'Understand white/pink/brown salt differences',
+      'Cooking class with Maras salt',
+      'Prepare traditional Peruvian dishes',
+      'Direct support for local families',
+      'Take home recipes and salt souvenirs',
+      'Lunch featuring your creations',
+      'Deeper cultural connection than typical visit',
+      'Tactile experience kids love',
+      'Combines food, culture, and landscape'
+    ],
+    highlightsEs: [
+      'Experiencia práctica de cosecha de sal',
+      'Aprende de familias cosechadoras de sal reales',
+      'Rastrilla sal cristalizada en estanque en uso',
+      'Entiende diferencias de sal blanca/rosada/marrón',
+      'Clase de cocina con sal de Maras',
+      'Prepara platos peruanos tradicionales',
+      'Apoyo directo para familias locales',
+      'Lleva a casa recetas y souvenirs de sal',
+      'Almuerzo presentando tus creaciones',
+      'Conexión cultural más profunda que visita típica',
+      'Experiencia táctil que niños aman',
+      'Combina comida, cultura y paisaje'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '5-6 hours',
+    durationEs: '5-6 horas',
+    difficulty: 'easy',
+    priceRange: '$80-130 USD per person',
+    priceRangeEs: '$80-130 USD por persona',
+    bestTime: 'Year-round. Dry season (May-October) best for salt harvesting.',
+    bestTimeEs: 'Todo el año. Temporada seca (Mayo-Octubre) mejor para cosecha de sal.',
+    includes: [
+      'Hotel pickup/drop-off',
+      'Private transportation',
+      'Salt mine entrance fee',
+      'Hands-on harvesting experience',
+      'Cooking class with chef',
+      'All ingredients',
+      'Lunch with your dishes',
+      'Maras salt to take home',
+      'Recipe cards'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel',
+      'Transporte privado',
+      'Entrada a minas de sal',
+      'Experiencia práctica de cosecha',
+      'Clase de cocina con chef',
+      'Todos los ingredientes',
+      'Almuerzo con tus platos',
+      'Sal de Maras para llevar a casa',
+      'Tarjetas de recetas'
+    ],
+    tips: [
+      'Wear clothes that can get dusty',
+      'Rubber boots provided for pools',
+      'Mention dietary restrictions in advance',
+      'Children love the hands-on elements',
+      'Combine with Moray in morning',
+      'Bring camera for great photos',
+      'Salt makes excellent gifts'
+    ],
+    tipsEs: [
+      'Usa ropa que pueda ensuciarse',
+      'Botas de goma proporcionadas para estanques',
+      'Menciona restricciones dietéticas con anticipación',
+      'Niños aman los elementos prácticos',
+      'Combina con Moray en la mañana',
+      'Trae cámara para excelentes fotos',
+      'Sal es excelente regalo'
+    ],
+    safetyNotes: [
+      'High altitude (3,380m)—acclimatize first',
+      'Walking on uneven salt terraces',
+      'Rubber boots prevent slipping',
+      'Cooking class in safe kitchen environment',
+      'No swimming in salt pools',
+      'Stay on marked paths'
+    ],
+    safetyNotesEs: [
+      'Altitud elevada (3,380m)—aclimatarse primero',
+      'Caminata en terrazas de sal irregulares',
+      'Botas de goma previenen resbalones',
+      'Clase de cocina en ambiente de cocina seguro',
+      'No nadar en estanques de sal',
+      'Permanece en senderos marcados'
+    ],
+    relatedActivities: ['moray-maras-sacred-valley-tour', 'cusco-cooking-class', 'peruvian-food-tour'],
+    providers: [
+      { name: 'Maras Salt Community', familyFriendly: true },
+      { name: 'Cusco Culinary Tours', familyFriendly: true },
+      { name: 'Peru Food Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chachapoyas-explorer-adventure',
+    name: 'Chachapoyas Explorer Family Adventure',
+    nameEs: 'Aventura Familiar Explorador de Chachapoyas',
+    type: 'adventure',
+    city: 'chachapoyas',
+    region: 'Amazonas',
+    regionEs: 'Amazonas',
+    description: 'Discover Peru\'s most mysterious ancient culture on a multi-day family adventure exploring the cloud forest kingdom of the Chachapoya—the "Warriors of the Clouds." This comprehensive expedition combines the mighty Kuelap fortress, the haunting Karajía sarcophagi, the world-class Leymebamba mummy museum, the colorful Revash mausoleums, and the thundering Gocta waterfall into an unforgettable journey through one of Peru\'s least-visited but most fascinating regions. Far from the crowds of southern Peru, families experience authentic cloud forest landscapes, traditional communities, and archaeological wonders that rival—some say surpass—the famous Inca sites.',
+    descriptionEs: 'Descubre la cultura antigua más misteriosa de Perú en una aventura familiar de varios días explorando el reino de bosque nublado de los Chachapoya—los "Guerreros de las Nubes." Esta expedición integral combina la poderosa fortaleza de Kuelap, los inquietantes sarcófagos de Karajía, el museo de momias de clase mundial de Leymebamba, los coloridos mausoleos de Revash, y la atronadora cascada de Gocta en un viaje inolvidable a través de una de las regiones menos visitadas pero más fascinantes de Perú. Lejos de las multitudes del sur de Perú, las familias experimentan auténticos paisajes de bosque nublado, comunidades tradicionales, y maravillas arqueológicas que rivalizan—algunos dicen superan—los famosos sitios Incas.',
+    whatToExpect: 'Your Chachapoyas adventure spans 4-5 days exploring the most impressive sites of this remote region. Day one typically begins with the thundering Gocta Falls, one of the world\'s tallest waterfalls, reached via a scenic 2-hour hike through cloud forest alive with hummingbirds and orchids. Day two features the mighty Kuelap fortress, the largest stone structure in the Americas after Machu Picchu, accessed by spectacular cable car across a misty valley. Spend hours exploring the circular stone houses, massive walls, and mysterious friezes of this mountaintop citadel that resisted Inca conquest. Day three ventures to Karajía to witness the haunting cliff-side sarcophagi—towering clay figures perched impossibly on narrow ledges—combined with exploration of stalactite-filled Quiocta Cave. Day four continues to Leymebamba for the remarkable mummy museum housing over 200 remarkably preserved remains, followed by the colorful Revash mausoleums with their distinctive painted house-shaped tombs. Throughout the adventure, expert local guides share the fascinating history of the Chachapoya people—fierce warriors who built their civilization in these remote cloud forests, resisted Inca conquest for generations, and were ultimately devastated by Spanish diseases before chroniclers could record their history. Comfortable hotels in Chachapoyas provide a restful base, while traditional meals introduce families to northern Peruvian cuisine. This expedition offers the adventure of discovery without the crowds, revealing a Peru few travelers ever experience.',
+    whatToExpectEs: 'Tu aventura en Chachapoyas abarca 4-5 días explorando los sitios más impresionantes de esta región remota. El primer día típicamente comienza con las atronadores Cataratas de Gocta, una de las cascadas más altas del mundo, alcanzada vía una caminata escénica de 2 horas a través del bosque nublado lleno de colibríes y orquídeas. El segundo día presenta la poderosa fortaleza de Kuelap, la estructura de piedra más grande en las Américas después de Machu Picchu, accesible por espectacular teleférico a través de un valle brumoso. Pasa horas explorando las casas circulares de piedra, muros masivos, y misteriosos frisos de esta ciudadela en la cima de la montaña que resistió la conquista Inca. El tercer día se aventura a Karajía para presenciar los inquietantes sarcófagos de ladera de acantilado—figuras de arcilla imponentes posadas imposiblemente en estrechas cornisas—combinado con exploración de la Cueva Quiocta llena de estalactitas. El cuarto día continúa a Leymebamba para el notable museo de momias que alberga más de 200 restos notablemente preservados, seguido de los coloridos mausoleos de Revash con sus distintivas tumbas pintadas con forma de casa. A través de la aventura, guías locales expertos comparten la fascinante historia del pueblo Chachapoya—feroces guerreros que construyeron su civilización en estos bosques nublados remotos, resistieron la conquista Inca por generaciones, y fueron ultimadamente devastados por enfermedades españolas antes de que cronistas pudieran registrar su historia. Hoteles cómodos en Chachapoyas proporcionan una base de descanso, mientras comidas tradicionales introducen a las familias a la cocina del norte de Perú. Esta expedición ofrece la aventura del descubrimiento sin las multitudes, revelando un Perú que pocos viajeros experimentan.',
+    highlights: [
+      'Kuelap fortress—largest stone structure in Americas',
+      'Spectacular cable car across misty valley',
+      'Gocta Falls—one of world\'s tallest waterfalls',
+      'Haunting Karajía cliff-side sarcophagi',
+      'Over 200 mummies at Leymebamba Museum',
+      'Colorful Revash painted mausoleums',
+      'Stalactite-filled Quiocta Cave',
+      'Far fewer tourists than southern Peru',
+      'Authentic cloud forest landscapes',
+      'Traditional northern communities',
+      'Expert guides on Chachapoya history',
+      'Comfortable base in charming Chachapoyas'
+    ],
+    highlightsEs: [
+      'Fortaleza de Kuelap—estructura de piedra más grande en Américas',
+      'Espectacular teleférico a través de valle brumoso',
+      'Cataratas de Gocta—una de las cascadas más altas del mundo',
+      'Inquietantes sarcófagos de ladera de acantilado de Karajía',
+      'Más de 200 momias en Museo Leymebamba',
+      'Coloridos mausoleos pintados de Revash',
+      'Cueva Quiocta llena de estalactitas',
+      'Muchos menos turistas que sur de Perú',
+      'Auténticos paisajes de bosque nublado',
+      'Comunidades tradicionales del norte',
+      'Guías expertos en historia Chachapoya',
+      'Base cómoda en encantador Chachapoyas'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-5 days',
+    durationEs: '4-5 días',
+    difficulty: 'moderate',
+    priceRange: '$600-1,000 USD per person depending on group size',
+    priceRangeEs: '$600-1,000 USD por persona dependiendo del tamaño del grupo',
+    bestTime: 'May-October dry season best. Year-round possible with rain gear.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Todo el año posible con ropa de lluvia.',
+    includes: [
+      '3-4 nights accommodation in Chachapoyas',
+      'All breakfasts',
+      'All transportation and entrance fees',
+      'Kuelap cable car tickets',
+      'Professional English-speaking guide throughout',
+      'All site entrances',
+      'Some lunches on touring days'
+    ],
+    includesEs: [
+      '3-4 noches alojamiento en Chachapoyas',
+      'Todos los desayunos',
+      'Todo transporte y entradas',
+      'Boletos de teleférico de Kuelap',
+      'Guía profesional de habla inglesa durante todo',
+      'Todas las entradas a sitios',
+      'Algunos almuerzos en días de tour'
+    ],
+    tips: [
+      'Fly Jaén or Chachapoyas to save time',
+      'Bring layers—cloud forest weather varies',
+      'Pack rain gear even in dry season',
+      'Binoculars essential for Karajía',
+      'Comfortable walking shoes required',
+      'Gocta hike is longest—pace accordingly',
+      'Lower altitude than Cusco—easier breathing'
+    ],
+    tipsEs: [
+      'Vuela a Jaén o Chachapoyas para ahorrar tiempo',
+      'Trae capas—clima de bosque nublado varía',
+      'Empaca ropa de lluvia incluso en temporada seca',
+      'Binoculares esenciales para Karajía',
+      'Zapatos cómodos para caminar requeridos',
+      'Caminata de Gocta es la más larga—mide ritmo',
+      'Altitud más baja que Cusco—respirar más fácil'
+    ],
+    safetyNotes: [
+      'Moderate hiking on some days',
+      'Cable car modern and safe',
+      'Lower altitude than southern Peru',
+      'Expert guides manage all activities',
+      'Safe, friendly region',
+      'Rain can make trails slippery'
+    ],
+    safetyNotesEs: [
+      'Caminata moderada en algunos días',
+      'Teleférico moderno y seguro',
+      'Altitud más baja que sur de Perú',
+      'Guías expertos manejan todas las actividades',
+      'Región segura y amigable',
+      'Lluvia puede hacer senderos resbaladizos'
+    ],
+    relatedActivities: ['karajia-chachapoya-tour', 'leymebamba-revash-combined-tour', 'gocta-waterfall-trek'],
+    providers: [
+      { name: 'Chachapoyas Explorer', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Peru North Trek', familyFriendly: true }
+    ]
   }
 ];
 
