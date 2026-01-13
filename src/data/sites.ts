@@ -11584,6 +11584,306 @@ export const sites: Site[] = [
       'Senderos alrededor y dentro de terrazas',
       'Letreros informativos'
     ]
+  },
+  {
+    slug: 'cajamarca-ransom-room',
+    name: 'Cajamarca Ransom Room (Cuarto del Rescate)',
+    nameEs: 'Cuarto del Rescate de Cajamarca',
+    type: 'cultural',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 2750,
+    description: 'The Ransom Room is one of South America\'s most historically significant sites - the chamber where Inca emperor Atahualpa was imprisoned by Spanish conquistador Francisco Pizarro in 1532 and promised to fill with gold and silver to secure his freedom. A red line on the walls still marks the height to which Atahualpa pledged to fill the room. Despite paying the ransom, Atahualpa was executed, marking the beginning of the end for the Inca Empire.',
+    descriptionEs: 'El Cuarto del Rescate es uno de los sitios más históricamente significativos de Sudamérica - la cámara donde el emperador Inca Atahualpa fue encarcelado por el conquistador español Francisco Pizarro en 1532 y prometió llenar con oro y plata para asegurar su libertad. Una línea roja en las paredes aún marca la altura hasta la cual Atahualpa prometió llenar la habitación. A pesar de pagar el rescate, Atahualpa fue ejecutado, marcando el principio del fin para el Imperio Inca.',
+    history: 'In November 1532, Pizarro and his small force of 168 Spanish soldiers captured Atahualpa, ruler of the vast Inca Empire, through a combination of subterfuge and surprise attack in Cajamarca\'s main plaza. Imprisoned in this small room, Atahualpa made a remarkable offer: he would fill the room once with gold and twice with silver in exchange for his freedom. Over the following months, treasures arrived from across the empire, totaling over 6,000 kilograms of gold and 12,000 kilograms of silver - the largest ransom ever paid in history. Despite fulfilling his promise, Atahualpa was tried for treason against the Spanish crown and executed on July 26, 1533. The room remains today as a sobering monument to the conquest.',
+    historyEs: 'En noviembre de 1532, Pizarro y su pequeña fuerza de 168 soldados españoles capturaron a Atahualpa, gobernante del vasto Imperio Inca, mediante una combinación de subterfugio y ataque sorpresa en la plaza principal de Cajamarca. Encarcelado en esta pequeña habitación, Atahualpa hizo una oferta notable: llenaría la habitación una vez con oro y dos veces con plata a cambio de su libertad. Durante los meses siguientes, tesoros llegaron de todo el imperio, totalizando más de 6,000 kilogramos de oro y 12,000 kilogramos de plata - el rescate más grande jamás pagado en la historia. A pesar de cumplir su promesa, Atahualpa fue juzgado por traición contra la corona española y ejecutado el 26 de julio de 1533. La habitación permanece hoy como un sobrio monumento a la conquista.',
+    highlights: [
+      'Actual room where Atahualpa was held',
+      'Red line marking ransom height',
+      'Turning point in American history',
+      'Original Inca stonework',
+      'Largest ransom in history site',
+      'Colonial Cajamarca context',
+      'Moving historical experience'
+    ],
+    highlightsEs: [
+      'Habitación real donde Atahualpa fue retenido',
+      'Línea roja marcando altura del rescate',
+      'Punto de inflexión en historia americana',
+      'Mampostería Inca original',
+      'Sitio del rescate más grande de la historia',
+      'Contexto colonial de Cajamarca',
+      'Experiencia histórica conmovedora'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: 'S/5 per person',
+    entranceFeeEs: 'S/5 por persona',
+    bestTime: 'Year-round. Morning visits less crowded. Combine with Cajamarca city tour.',
+    bestTimeEs: 'Todo el año. Visitas matutinas menos concurridas. Combina con tour de la ciudad de Cajamarca.',
+    tips: [
+      'Part of Cajamarca city walking tour',
+      'Guide essential for historical context',
+      'Photography allowed inside',
+      'Moving experience - prepare children',
+      'Combine with Plaza de Armas'
+    ],
+    tipsEs: [
+      'Parte del tour a pie de la ciudad de Cajamarca',
+      'Guía esencial para contexto histórico',
+      'Fotografía permitida adentro',
+      'Experiencia conmovedora - preparar a los niños',
+      'Combina con Plaza de Armas'
+    ],
+    nearbyAttractions: ['Cajamarca Plaza de Armas', 'Santa Apolonia Hill', 'Ventanillas de Otuzco', 'Baños del Inca'],
+    relatedSites: ['cusco-plaza', 'sacsayhuaman', 'ollantaytambo'],
+    gettingThere: 'Located in Cajamarca city center, one block from Plaza de Armas. Walk from any central hotel.',
+    gettingThereEs: 'Ubicado en el centro de la ciudad de Cajamarca, a una cuadra de la Plaza de Armas. Camina desde cualquier hotel céntrico.',
+    facilities: [
+      'Small interpretive displays',
+      'Restrooms nearby',
+      'Part of colonial city center',
+      'Walking distance to restaurants',
+      'Local guides available',
+      'Gift shop'
+    ],
+    facilitiesEs: [
+      'Pequeñas exhibiciones interpretativas',
+      'Baños cercanos',
+      'Parte del centro colonial de la ciudad',
+      'Distancia caminable a restaurantes',
+      'Guías locales disponibles',
+      'Tienda de regalos'
+    ]
+  },
+  {
+    slug: 'quinua-pampa-ayacucho',
+    name: 'Quinua & Pampa de Ayacucho',
+    nameEs: 'Quinua y Pampa de Ayacucho',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho Region',
+    regionEs: 'Región Ayacucho',
+    altitude: 3350,
+    description: 'The Pampa de Quinua and its imposing obelisk mark the site where South American independence was finally won on December 9, 1824. Here, patriot forces under Antonio José de Sucre defeated the Spanish royalist army in the Battle of Ayacucho, ending three centuries of colonial rule across the continent. The traditional village of Quinua, famous for its distinctive ceramics, sits nearby. Together they offer a profound connection to liberation history.',
+    descriptionEs: 'La Pampa de Quinua y su imponente obelisco marcan el sitio donde la independencia sudamericana fue finalmente ganada el 9 de diciembre de 1824. Aquí, las fuerzas patriotas bajo Antonio José de Sucre derrotaron al ejército realista español en la Batalla de Ayacucho, terminando tres siglos de dominio colonial en todo el continente. El pueblo tradicional de Quinua, famoso por sus distintivas cerámicas, se encuentra cerca. Juntos ofrecen una profunda conexión con la historia de la liberación.',
+    history: 'The Battle of Ayacucho on December 9, 1824, was the decisive confrontation that ended Spanish colonial rule in South America. Simón Bolívar\'s general Antonio José de Sucre led 5,780 patriot soldiers against 9,300 royalist troops in the highlands of Quinua. Despite being outnumbered, the patriots achieved a decisive victory, and Spanish Viceroy José de la Serna was captured. The subsequent capitulation freed Peru, Bolivia, and the remaining Spanish territories. The 44-meter obelisk, inaugurated in 1974 for the battle\'s 150th anniversary, dominates the pampa. The nearby village of Quinua has produced distinctive pottery for centuries - the traditional ceramic churches on rooftops throughout Peru originate here.',
+    historyEs: 'La Batalla de Ayacucho el 9 de diciembre de 1824 fue la confrontación decisiva que terminó el dominio colonial español en Sudamérica. El general de Simón Bolívar, Antonio José de Sucre, lideró 5,780 soldados patriotas contra 9,300 tropas realistas en las tierras altas de Quinua. A pesar de estar en desventaja numérica, los patriotas lograron una victoria decisiva, y el virrey español José de la Serna fue capturado. La capitulación subsecuente liberó Perú, Bolivia y los territorios españoles restantes. El obelisco de 44 metros, inaugurado en 1974 para el 150 aniversario de la batalla, domina la pampa. El pueblo cercano de Quinua ha producido cerámica distintiva por siglos - las tradicionales iglesias de cerámica en techos a lo largo de Perú se originan aquí.',
+    highlights: [
+      '44-meter independence obelisk',
+      'Site of decisive battle for South American freedom',
+      'Traditional Quinua ceramics village',
+      'Museum with battle artifacts',
+      'Panoramic highland views',
+      'Living artisan traditions',
+      'Profound historical significance'
+    ],
+    highlightsEs: [
+      'Obelisco de independencia de 44 metros',
+      'Sitio de batalla decisiva por la libertad sudamericana',
+      'Pueblo de cerámicas tradicionales de Quinua',
+      'Museo con artefactos de la batalla',
+      'Vistas panorámicas de tierras altas',
+      'Tradiciones artesanales vivas',
+      'Profunda significancia histórica'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/5 per person (obelisk area)',
+    entranceFeeEs: 'S/5 por persona (área del obelisco)',
+    bestTime: 'Year-round. December 9th features patriotic celebrations. April-October dry season best.',
+    bestTimeEs: 'Todo el año. 9 de diciembre presenta celebraciones patrióticas. Temporada seca abril-octubre mejor.',
+    tips: [
+      'Combine with Ayacucho city tour',
+      'Buy ceramics directly from artisans',
+      'Small museum has battle exhibits',
+      'December 9th celebrations impressive',
+      'Traditional chicha drink available'
+    ],
+    tipsEs: [
+      'Combina con tour de la ciudad de Ayacucho',
+      'Compra cerámicas directamente de artesanos',
+      'Pequeño museo tiene exhibiciones de la batalla',
+      'Celebraciones del 9 de diciembre impresionantes',
+      'Bebida tradicional de chicha disponible'
+    ],
+    nearbyAttractions: ['Ayacucho', 'Wari Archaeological Site', 'Vilcashuamán', 'Huanta'],
+    relatedSites: ['ayacucho-churches', 'wari-ruins', 'vilcashuaman'],
+    gettingThere: 'From Ayacucho: 37km (1 hour) northeast. Colectivos and tours available. Well-paved road.',
+    gettingThereEs: 'Desde Ayacucho: 37km (1 hora) al noreste. Colectivos y tours disponibles. Carretera bien pavimentada.',
+    facilities: [
+      'Small battle museum',
+      'Obelisk viewing area',
+      'Restrooms',
+      'Artisan workshops open to visitors',
+      'Local restaurants',
+      'Craft market'
+    ],
+    facilitiesEs: [
+      'Pequeño museo de la batalla',
+      'Área de observación del obelisco',
+      'Baños',
+      'Talleres artesanales abiertos a visitantes',
+      'Restaurantes locales',
+      'Mercado de artesanías'
+    ]
+  },
+  {
+    slug: 'manu-biosphere',
+    name: 'Manú Biosphere Reserve',
+    nameEs: 'Reserva de Biósfera del Manú',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    altitude: 300,
+    description: 'Manú is one of the most biodiverse places on Earth - a UNESCO Biosphere Reserve protecting an extraordinary gradient from Andean cloud forest down through lowland Amazon rainforest. This remote wilderness harbors more bird species than any other protected area on the planet, along with jaguars, giant otters, tapirs, and uncontacted indigenous tribes. Multi-day expeditions into Manú offer families the ultimate Amazon adventure.',
+    descriptionEs: 'Manú es uno de los lugares más biodiversos de la Tierra - una Reserva de Biósfera UNESCO protegiendo un gradiente extraordinario desde bosque nublado andino hasta selva tropical amazónica de tierras bajas. Esta remota naturaleza salvaje alberga más especies de aves que cualquier otra área protegida del planeta, junto con jaguares, nutrias gigantes, tapires y tribus indígenas no contactadas. Expediciones de varios días al Manú ofrecen a las familias la aventura amazónica definitiva.',
+    history: 'Manú was declared a National Park in 1973 and a UNESCO Biosphere Reserve in 1977, protecting 1.8 million hectares of continuous forest from high Andes to lowland Amazon. This elevational gradient from 4,000 meters down to 200 meters creates an unparalleled range of habitats, explaining why Manú harbors more than 1,000 bird species, 200+ mammals, and countless reptiles, amphibians, and insects. The reserve also protects indigenous communities including groups that remain voluntarily isolated from outside contact. Scientific research continues to discover new species here regularly. The challenging access - requiring multi-day boat journeys - has helped preserve Manú\'s pristine character.',
+    historyEs: 'Manú fue declarado Parque Nacional en 1973 y Reserva de Biósfera UNESCO en 1977, protegiendo 1.8 millones de hectáreas de bosque continuo desde los Andes altos hasta el Amazonas de tierras bajas. Este gradiente altitudinal desde 4,000 metros hasta 200 metros crea un rango incomparable de hábitats, explicando por qué Manú alberga más de 1,000 especies de aves, 200+ mamíferos, y reptiles, anfibios e insectos incontables. La reserva también protege comunidades indígenas incluyendo grupos que permanecen voluntariamente aislados del contacto exterior. La investigación científica continúa descubriendo nuevas especies aquí regularmente. El acceso desafiante - requiriendo viajes de varios días en bote - ha ayudado a preservar el carácter prístino del Manú.',
+    highlights: [
+      'UNESCO Biosphere Reserve',
+      'Most biodiverse protected area on Earth',
+      '1,000+ bird species',
+      'Giant otter and jaguar habitat',
+      'Cloud forest to lowland rainforest',
+      'Indigenous community territories',
+      'True wilderness experience'
+    ],
+    highlightsEs: [
+      'Reserva de Biósfera UNESCO',
+      'Área protegida más biodiversa de la Tierra',
+      '1,000+ especies de aves',
+      'Hábitat de nutrias gigantes y jaguares',
+      'Bosque nublado a selva tropical de tierras bajas',
+      'Territorios de comunidades indígenas',
+      'Experiencia de naturaleza verdadera'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '5-8 days minimum',
+    durationEs: '5-8 días mínimo',
+    difficulty: 'challenging',
+    entranceFee: 'Included in tour packages (permits required)',
+    entranceFeeEs: 'Incluido en paquetes de tour (permisos requeridos)',
+    bestTime: 'May-October dry season. June-August best wildlife viewing. November-April access limited by rain.',
+    bestTimeEs: 'Temporada seca mayo-octubre. Junio-agosto mejor observación de fauna. Noviembre-abril acceso limitado por lluvia.',
+    tips: [
+      'Book well in advance - permits limited',
+      'Choose licensed operators only',
+      'Pack light - canoes have limits',
+      'Excellent birding - bring binoculars',
+      'Disconnection opportunity - limited contact'
+    ],
+    tipsEs: [
+      'Reserva con anticipación - permisos limitados',
+      'Elige solo operadores autorizados',
+      'Empaca ligero - canoas tienen límites',
+      'Excelente para aves - trae binoculares',
+      'Oportunidad de desconexión - contacto limitado'
+    ],
+    nearbyAttractions: ['Atalaya', 'Cloud Forest Lodge', 'Cock-of-the-Rock Lek', 'Cocha Salvador'],
+    relatedSites: ['tambopata-reserve', 'lago-sandoval', 'iquitos-amazon'],
+    gettingThere: 'From Cusco: 1-day drive to park border, then multi-day boat journey. All visits require licensed tour operators.',
+    gettingThereEs: 'Desde Cusco: 1 día en auto hasta borde del parque, luego viaje de varios días en bote. Todas las visitas requieren operadores de tour autorizados.',
+    facilities: [
+      'Rustic jungle lodges',
+      'Camping sites',
+      'All food provided by operators',
+      'Expert naturalist guides required',
+      'No cell service or internet',
+      'Basic medical supplies with guides'
+    ],
+    facilitiesEs: [
+      'Lodges rústicos de selva',
+      'Sitios de camping',
+      'Toda la comida proporcionada por operadores',
+      'Guías naturalistas expertos requeridos',
+      'Sin servicio de celular ni internet',
+      'Suministros médicos básicos con guías'
+    ]
+  },
+  {
+    slug: 'ayacucho-churches',
+    name: 'Ayacucho\'s 33 Colonial Churches',
+    nameEs: 'Las 33 Iglesias Coloniales de Ayacucho',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho Region',
+    regionEs: 'Región Ayacucho',
+    altitude: 2746,
+    description: 'Ayacucho is known as the "City of 33 Churches" - legend says one for each year of Christ\'s life. This highland city, far from the main tourist trail, preserves some of Peru\'s finest colonial religious architecture and hosts the country\'s most elaborate Semana Santa (Holy Week) celebrations. For families interested in colonial art, architecture, and living religious traditions, Ayacucho offers an authentic experience unavailable elsewhere.',
+    descriptionEs: 'Ayacucho es conocida como la "Ciudad de las 33 Iglesias" - la leyenda dice una por cada año de la vida de Cristo. Esta ciudad de tierras altas, lejos de la ruta turística principal, preserva algo de la mejor arquitectura religiosa colonial de Perú y alberga las celebraciones de Semana Santa más elaboradas del país. Para familias interesadas en arte colonial, arquitectura y tradiciones religiosas vivas, Ayacucho ofrece una experiencia auténtica no disponible en otro lugar.',
+    history: 'Ayacucho was founded by the Spanish in 1540 as San Juan de la Frontera de Huamanga, becoming an important center of colonial administration and religious activity. The wealth from regional mining funded elaborate churches decorated by the renowned Huamanga School of artists, who developed distinctive styles in painting, sculpture, and metalwork. The city\'s remoteness from Lima helped preserve these colonial treasures. Today, 33 churches survive, each with unique artistic patrimony. Semana Santa celebrations, dating to the colonial era, continue with ten days of processions involving massive floats carried by hundreds of devotees - considered Peru\'s most impressive religious festival.',
+    historyEs: 'Ayacucho fue fundada por los españoles en 1540 como San Juan de la Frontera de Huamanga, convirtiéndose en un importante centro de administración colonial y actividad religiosa. La riqueza de la minería regional financió iglesias elaboradas decoradas por la renombrada Escuela Huamanga de artistas, quienes desarrollaron estilos distintivos en pintura, escultura y metalurgia. La lejanía de la ciudad de Lima ayudó a preservar estos tesoros coloniales. Hoy, 33 iglesias sobreviven, cada una con patrimonio artístico único. Las celebraciones de Semana Santa, que datan de la era colonial, continúan con diez días de procesiones involucrando enormes carros llevados por cientos de devotos - considerado el festival religioso más impresionante de Perú.',
+    highlights: [
+      '33 colonial churches to explore',
+      'Huamanga School religious art',
+      'Peru\'s finest Semana Santa',
+      'Plaza de Armas colonial architecture',
+      'Traditional alabaster crafts',
+      'Off-the-beaten-path authenticity',
+      'Living religious traditions'
+    ],
+    highlightsEs: [
+      '33 iglesias coloniales para explorar',
+      'Arte religioso de la Escuela Huamanga',
+      'La mejor Semana Santa de Perú',
+      'Arquitectura colonial de Plaza de Armas',
+      'Artesanías tradicionales de alabastro',
+      'Autenticidad fuera de lo común',
+      'Tradiciones religiosas vivas'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1-2 days',
+    durationEs: '1-2 días',
+    difficulty: 'easy',
+    entranceFee: 'Most churches free (small donation appreciated)',
+    entranceFeeEs: 'La mayoría de iglesias gratis (pequeña donación apreciada)',
+    bestTime: 'Year-round. Semana Santa (March/April) is spectacular but crowded. April-October dry season.',
+    bestTimeEs: 'Todo el año. Semana Santa (marzo/abril) es espectacular pero concurrida. Temporada seca abril-octubre.',
+    tips: [
+      'Hire local guide for church history',
+      'Dress respectfully for church visits',
+      'Book far ahead for Semana Santa',
+      'Try traditional Ayacucho cuisine',
+      'Visit alabaster workshops in Santa Ana'
+    ],
+    tipsEs: [
+      'Contrata guía local para historia de iglesias',
+      'Vestir respetuosamente para visitas a iglesias',
+      'Reserva con mucha anticipación para Semana Santa',
+      'Prueba cocina tradicional de Ayacucho',
+      'Visita talleres de alabastro en Santa Ana'
+    ],
+    nearbyAttractions: ['Wari Archaeological Site', 'Quinua', 'Vilcashuamán', 'Pampa Galeras'],
+    relatedSites: ['quinua-pampa-ayacucho', 'cusco-cathedral', 'arequipa-cathedral'],
+    gettingThere: 'From Lima: 1-hour flight or 9-hour bus via Ica. From Cusco: 12 hours by road. Churches all within walking distance of Plaza de Armas.',
+    gettingThereEs: 'Desde Lima: 1 hora de vuelo o 9 horas en bus vía Ica. Desde Cusco: 12 horas por carretera. Todas las iglesias a distancia caminable de la Plaza de Armas.',
+    facilities: [
+      'Hotels near Plaza de Armas',
+      'Walking distance between churches',
+      'Restaurants serving regional cuisine',
+      'Craft markets and workshops',
+      'Museum of colonial art',
+      'Tourist information office'
+    ],
+    facilitiesEs: [
+      'Hoteles cerca de Plaza de Armas',
+      'Distancia caminable entre iglesias',
+      'Restaurantes sirviendo cocina regional',
+      'Mercados de artesanías y talleres',
+      'Museo de arte colonial',
+      'Oficina de información turística'
+    ]
   }
 ];
 

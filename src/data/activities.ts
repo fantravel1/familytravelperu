@@ -13245,6 +13245,392 @@ export const activities: Activity[] = [
       { name: 'Peru North Adventures', familyFriendly: true },
       { name: 'Moche Route Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'cajamarca-ransom-room-tour',
+    name: 'Cajamarca Ransom Room & Inca Baths Tour',
+    nameEs: 'Tour Cuarto del Rescate y Baños del Inca de Cajamarca',
+    type: 'cultural',
+    city: 'cajamarca',
+    region: 'Cajamarca',
+    regionEs: 'Cajamarca',
+    description: 'Walk through one of history\'s most dramatic moments at the Ransom Room where Atahualpa was imprisoned, then relax in the ancient thermal baths used by Inca royalty. This tour brings Peru\'s Spanish conquest history to life while ending with a soothing thermal bath experience the whole family will enjoy.',
+    descriptionEs: 'Camina a través de uno de los momentos más dramáticos de la historia en el Cuarto del Rescate donde Atahualpa fue prisionero, luego relájate en los antiguos baños termales utilizados por la realeza inca. Este tour trae a la vida la historia de la conquista española del Perú mientras termina con una experiencia relajante de baños termales que toda la familia disfrutará.',
+    whatToExpect: 'Your morning begins at the Plaza de Armas, where guides explain the fateful meeting between Atahualpa and Pizarro in 1532. Visit the Ransom Room, the only surviving Inca structure in Cajamarca, where children can see the famous line marking how high Atahualpa promised to fill the room with gold. The stone chamber creates powerful discussions about history and ethics. Continue to the Church of San Francisco where Atahualpa was baptized before his execution. After lunch featuring local specialties like cuy and humitas, drive to the Inca Baths where natural thermal pools maintain perfect temperatures for family soaking. Separate pools accommodate different temperatures, and the facility includes changing rooms and snacks. The warm mineral waters have been attracting visitors for over 500 years.',
+    whatToExpectEs: 'Tu mañana comienza en la Plaza de Armas, donde los guías explican el fatídico encuentro entre Atahualpa y Pizarro en 1532. Visita el Cuarto del Rescate, la única estructura inca sobreviviente en Cajamarca, donde los niños pueden ver la famosa línea marcando cuán alto Atahualpa prometió llenar el cuarto con oro. La cámara de piedra crea poderosas discusiones sobre historia y ética. Continúa a la Iglesia de San Francisco donde Atahualpa fue bautizado antes de su ejecución. Después del almuerzo con especialidades locales como cuy y humitas, viaja a los Baños del Inca donde las piscinas termales naturales mantienen temperaturas perfectas para el baño familiar. Piscinas separadas acomodan diferentes temperaturas, y las instalaciones incluyen vestidores y snacks. Las cálidas aguas minerales han atraído visitantes por más de 500 años.',
+    highlights: [
+      'Stand inside the actual Ransom Room where Atahualpa was imprisoned',
+      'See the line marking the ransom level - powerful visual for children',
+      'Visit the church where the last Inca emperor was baptized',
+      'Soak in thermal baths used by Inca royalty for centuries',
+      'Learn about the Spanish conquest in its actual location',
+      'Experience Cajamarca\'s unique northern highland culture',
+      'Family-friendly thermal pools with different temperatures',
+      'Taste authentic Cajamarca cuisine including fresh cheese'
+    ],
+    highlightsEs: [
+      'Párate dentro del verdadero Cuarto del Rescate donde Atahualpa fue prisionero',
+      'Ve la línea marcando el nivel del rescate - visual poderoso para niños',
+      'Visita la iglesia donde el último emperador inca fue bautizado',
+      'Sumérgete en baños termales usados por realeza inca por siglos',
+      'Aprende sobre la conquista española en su ubicación real',
+      'Experimenta la cultura única del altiplano norte de Cajamarca',
+      'Piscinas termales familiares con diferentes temperaturas',
+      'Prueba la auténtica cocina de Cajamarca incluyendo queso fresco'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$45-75 USD per person',
+    priceRangeEs: '$45-75 USD por persona',
+    bestTime: 'Year-round, May-October for dry season',
+    bestTimeEs: 'Todo el año, mayo-octubre para temporada seca',
+    includes: [
+      'Hotel pickup and drop-off in Cajamarca',
+      'Professional bilingual guide',
+      'All entrance fees',
+      'Traditional lunch',
+      'Thermal bath admission',
+      'Private transportation',
+      'Towel rental at baths'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cajamarca',
+      'Guía profesional bilingüe',
+      'Todas las entradas',
+      'Almuerzo tradicional',
+      'Admisión a baños termales',
+      'Transporte privado',
+      'Alquiler de toallas en baños'
+    ],
+    tips: [
+      'Bring swimsuits and flip-flops for thermal baths',
+      'The Ransom Room is small - morning visits less crowded',
+      'Try local manjar blanco (caramel) - famous from Cajamarca',
+      'Thermal baths can be busy on weekends - weekday preferred',
+      'Children find the ransom story fascinating',
+      'Altitude is moderate (2,750m) - usually no issues'
+    ],
+    tipsEs: [
+      'Trae trajes de baño y sandalias para los baños termales',
+      'El Cuarto del Rescate es pequeño - visitas matutinas menos concurridas',
+      'Prueba el manjar blanco local - famoso de Cajamarca',
+      'Baños termales pueden estar llenos los fines de semana - prefiere días de semana',
+      'Los niños encuentran la historia del rescate fascinante',
+      'Altitud es moderada (2,750m) - usualmente sin problemas'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,750m) - milder than Cusco',
+      'Thermal bath temperatures vary by pool',
+      'Supervise children in water always',
+      'Walking surfaces in historic center can be uneven',
+      'Safe, tourist-friendly city'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,750m) - más suave que Cusco',
+      'Temperaturas de baños termales varían por piscina',
+      'Supervisa niños en el agua siempre',
+      'Superficies de caminata en centro histórico pueden ser irregulares',
+      'Ciudad segura y amigable para turistas'
+    ],
+    relatedActivities: ['ventanillas-otuzco-tour', 'cumbe-mayo-adventure'],
+    providers: [
+      { name: 'Cajamarca Tours', familyFriendly: true },
+      { name: 'Northern Peru Expeditions', familyFriendly: true },
+      { name: 'Inca Heritage Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'quinua-ayacucho-independence-tour',
+    name: 'Quinua & Battle of Ayacucho Independence Tour',
+    nameEs: 'Tour de Independencia Quinua y Batalla de Ayacucho',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho',
+    regionEs: 'Ayacucho',
+    description: 'Visit the site where South American independence was won at the Battle of Ayacucho in 1824, then explore the charming artisan village of Quinua famous for its distinctive ceramics. This powerful historical tour connects children to the broader story of Latin American liberation while experiencing living craft traditions.',
+    descriptionEs: 'Visita el sitio donde se ganó la independencia sudamericana en la Batalla de Ayacucho en 1824, luego explora el encantador pueblo artesanal de Quinua famoso por su cerámica distintiva. Este poderoso tour histórico conecta a los niños con la historia más amplia de la liberación latinoamericana mientras experimenta tradiciones artesanales vivas.',
+    whatToExpect: 'The morning drive from Ayacucho climbs through beautiful Andean countryside to the Pampa de Ayacucho at 3,400 meters. At the battlefield, the 44-meter obelisk commemorates where independence forces defeated the Spanish on December 9, 1824 - the battle that effectively ended Spanish rule in South America. Guides explain the military strategy and the significance for all Spanish American nations. Children enjoy exploring the expansive pampa and visiting the small museum. Continue to Quinua village where families of ceramicists have worked for generations. Watch artisans create the distinctive church-topped houses, bulls, and nativity scenes that grace rooftops throughout the region. Children often get to try their hand at clay shaping. Lunch features Ayacucho specialties like puca picante before browsing workshops where you can purchase unique handmade ceramics.',
+    whatToExpectEs: 'El viaje matutino desde Ayacucho asciende por el hermoso campo andino hasta la Pampa de Ayacucho a 3,400 metros. En el campo de batalla, el obelisco de 44 metros conmemora donde las fuerzas independentistas derrotaron a los españoles el 9 de diciembre de 1824 - la batalla que efectivamente terminó el dominio español en Sudamérica. Los guías explican la estrategia militar y la significancia para todas las naciones hispanoamericanas. Los niños disfrutan explorar la amplia pampa y visitar el pequeño museo. Continúa al pueblo de Quinua donde familias de ceramistas han trabajado por generaciones. Observa artesanos crear las distintivas casas con iglesias en el techo, toros y nacimientos que adornan los techos de toda la región. Los niños a menudo pueden probar dar forma a la arcilla. El almuerzo presenta especialidades de Ayacucho como puca picante antes de explorar talleres donde puedes comprar cerámicas únicas hechas a mano.',
+    highlights: [
+      'Stand at the battlefield where South American independence was won',
+      'See the 44-meter obelisk commemorating the historic victory',
+      'Understand the significance for all Latin American nations',
+      'Visit Quinua\'s traditional ceramic workshops',
+      'Watch artisans create distinctive rooftop churches and bulls',
+      'Children can try making clay figures',
+      'Purchase authentic handmade ceramics',
+      'Experience authentic Andean village life'
+    ],
+    highlightsEs: [
+      'Párate en el campo de batalla donde se ganó la independencia sudamericana',
+      'Ve el obelisco de 44 metros conmemorando la victoria histórica',
+      'Entiende la significancia para todas las naciones latinoamericanas',
+      'Visita los talleres de cerámica tradicionales de Quinua',
+      'Observa artesanos crear distintivas iglesias de techo y toros',
+      'Los niños pueden intentar hacer figuras de arcilla',
+      'Compra cerámicas auténticas hechas a mano',
+      'Experimenta la auténtica vida de pueblo andino'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Half day (5-6 hours)',
+    durationEs: 'Medio día (5-6 horas)',
+    difficulty: 'easy',
+    priceRange: '$35-55 USD per person',
+    priceRangeEs: '$35-55 USD por persona',
+    bestTime: 'Year-round, April-November for dry season',
+    bestTimeEs: 'Todo el año, abril-noviembre para temporada seca',
+    includes: [
+      'Hotel pickup and drop-off in Ayacucho',
+      'Bilingual guide specializing in history',
+      'Entrance to battlefield monument',
+      'Ceramic workshop visits',
+      'Traditional lunch',
+      'Private transportation'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Ayacucho',
+      'Guía bilingüe especializado en historia',
+      'Entrada al monumento del campo de batalla',
+      'Visitas a talleres de cerámica',
+      'Almuerzo tradicional',
+      'Transporte privado'
+    ],
+    tips: [
+      'December 9 sees major celebrations but huge crowds',
+      'Bring warm layers - pampa is windswept at 3,400m',
+      'Cash needed for ceramic purchases in Quinua',
+      'Small ceramics make excellent souvenirs',
+      'Ask about the meaning of roof decorations',
+      'The history connects to independence across South America'
+    ],
+    tipsEs: [
+      '9 de diciembre tiene grandes celebraciones pero enormes multitudes',
+      'Trae capas abrigadas - pampa tiene viento a 3,400m',
+      'Efectivo necesario para compras de cerámica en Quinua',
+      'Pequeñas cerámicas son excelentes souvenirs',
+      'Pregunta sobre el significado de las decoraciones de techo',
+      'La historia conecta con la independencia en toda Sudamérica'
+    ],
+    safetyNotes: [
+      'High altitude (3,400m) - acclimate in Ayacucho first',
+      'Wind can be strong on the pampa',
+      'Ceramic workshops have hot kilns - supervise children',
+      'Walking on uneven ground at battlefield',
+      'Safe rural area'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,400m) - aclimatarse en Ayacucho primero',
+      'Viento puede ser fuerte en la pampa',
+      'Talleres de cerámica tienen hornos calientes - supervisar niños',
+      'Caminata en terreno irregular en campo de batalla',
+      'Área rural segura'
+    ],
+    relatedActivities: ['ayacucho-churches-circuit', 'wari-ruins-tour', 'vilcashuaman-tour'],
+    providers: [
+      { name: 'Ayacucho Tours', familyFriendly: true },
+      { name: 'Peru Independence Tours', familyFriendly: true },
+      { name: 'Wari Heritage Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'manu-biosphere-family-expedition',
+    name: 'Manú Biosphere Family Expedition',
+    nameEs: 'Expedición Familiar a la Biosfera del Manú',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Madre de Dios / Cusco',
+    regionEs: 'Madre de Dios / Cusco',
+    description: 'Experience the world\'s most biodiverse protected area on a family-adapted expedition through Manú Biosphere Reserve. Descend from Andean cloud forests through multiple ecosystems to pristine Amazon rainforest, spotting incredible wildlife including giant otters, macaws, and monkeys on this once-in-a-lifetime adventure.',
+    descriptionEs: 'Experimenta el área protegida más biodiversa del mundo en una expedición adaptada para familias a través de la Reserva de la Biosfera del Manú. Desciende desde bosques nublados andinos a través de múltiples ecosistemas hasta la selva amazónica prístina, avistando increíble vida silvestre incluyendo nutrias gigantes, guacamayos y monos en esta aventura única en la vida.',
+    whatToExpect: 'This multi-day expedition begins with a spectacular drive from Cusco over the Andes and down into cloud forest. The first nights are spent at comfortable lodges in the Cultural Zone, with nature walks, birdwatching, and nocturnal excursions to spot owls and night monkeys. Each day brings new ecosystems as you descend in elevation. By boat, penetrate deeper into the reserve to oxbow lakes where giant otters hunt and macaws gather at clay licks. Family-appropriate versions focus on the accessible Cultural Zone and Reserved Zone rather than the remote core area. Children are mesmerized by spider monkeys, capybaras, caimans, and the incredible variety of birds. Evening programs include flashlight walks and listening for jungle sounds. The combination of comfortable lodges, experienced naturalist guides, and pristine wilderness creates a transformative family experience.',
+    whatToExpectEs: 'Esta expedición de varios días comienza con un viaje espectacular desde Cusco sobre los Andes y descendiendo al bosque nublado. Las primeras noches se pasan en cómodas albergues en la Zona Cultural, con caminatas de naturaleza, observación de aves y excursiones nocturnas para avistar búhos y monos nocturnos. Cada día trae nuevos ecosistemas mientras desciendes en elevación. En bote, penetra más profundo en la reserva a lagos de herradura donde nutrias gigantes cazan y guacamayos se reúnen en colpas de arcilla. Las versiones apropiadas para familias se enfocan en la accesible Zona Cultural y Zona Reservada en lugar del área núcleo remota. Los niños quedan fascinados por monos araña, capibaras, caimanes y la increíble variedad de aves. Los programas nocturnos incluyen caminatas con linterna y escuchar sonidos de la selva. La combinación de albergues cómodos, guías naturalistas experimentados y naturaleza prístina crea una experiencia familiar transformadora.',
+    highlights: [
+      'Traverse multiple ecosystems from Andes to Amazon',
+      'Spot giant otters - Manú has the best population',
+      'Visit macaw clay licks at dawn',
+      'See spider monkeys, capybaras, and caimans',
+      'Sleep in comfortable jungle lodges',
+      'Nighttime expeditions for nocturnal wildlife',
+      'World-class birdwatching - 1,000+ species recorded',
+      'Learn from expert naturalist guides'
+    ],
+    highlightsEs: [
+      'Atraviesa múltiples ecosistemas desde los Andes hasta el Amazonas',
+      'Avista nutrias gigantes - Manú tiene la mejor población',
+      'Visita colpas de guacamayos al amanecer',
+      'Ve monos araña, capibaras y caimanes',
+      'Duerme en cómodas albergues de selva',
+      'Expediciones nocturnas para vida silvestre nocturna',
+      'Observación de aves de clase mundial - 1,000+ especies registradas',
+      'Aprende de guías naturalistas expertos'
+    ],
+    familyRating: 5,
+    minAge: 7,
+    duration: '4-7 days',
+    durationEs: '4-7 días',
+    difficulty: 'moderate',
+    priceRange: '$500-1,500 USD per person',
+    priceRangeEs: '$500-1,500 USD por persona',
+    bestTime: 'May-October (dry season), avoid January-March',
+    bestTimeEs: 'Mayo-octubre (temporada seca), evitar enero-marzo',
+    includes: [
+      'All transportation from Cusco',
+      'All meals during expedition',
+      'Lodge accommodations',
+      'Expert naturalist guides',
+      'All park entrance fees',
+      'Boat transportation',
+      'Rubber boots and rain ponchos',
+      'Binoculars available for use'
+    ],
+    includesEs: [
+      'Todo el transporte desde Cusco',
+      'Todas las comidas durante la expedición',
+      'Alojamiento en albergues',
+      'Guías naturalistas expertos',
+      'Todas las entradas al parque',
+      'Transporte en bote',
+      'Botas de goma y ponchos de lluvia',
+      'Binoculares disponibles para uso'
+    ],
+    tips: [
+      'Book months in advance - lodges have limited capacity',
+      'Bring binoculars and camera with good zoom',
+      'Pack light - luggage limits on boats',
+      'Children should be comfortable with nature and early mornings',
+      'Anti-malaria medication required',
+      'Prepare kids for limited electricity/connectivity',
+      'Worth the investment - truly pristine wilderness'
+    ],
+    tipsEs: [
+      'Reserva con meses de anticipación - albergues tienen capacidad limitada',
+      'Trae binoculares y cámara con buen zoom',
+      'Empaca ligero - límites de equipaje en botes',
+      'Los niños deben estar cómodos con la naturaleza y madrugadas',
+      'Medicación anti-malaria requerida',
+      'Prepara a los niños para electricidad/conectividad limitada',
+      'Vale la inversión - naturaleza verdaderamente prístina'
+    ],
+    safetyNotes: [
+      'Experienced guides essential for Manú',
+      'Yellow fever vaccination required',
+      'Anti-malaria medication recommended',
+      'Follow all guide instructions for wildlife',
+      'Some walking required on forest trails',
+      'Lodges are safe and well-maintained',
+      'Travel with licensed Manú operators only'
+    ],
+    safetyNotesEs: [
+      'Guías experimentados esenciales para Manú',
+      'Vacuna de fiebre amarilla requerida',
+      'Medicación anti-malaria recomendada',
+      'Sigue todas las instrucciones del guía sobre vida silvestre',
+      'Algo de caminata requerida en senderos del bosque',
+      'Albergues son seguros y bien mantenidos',
+      'Viaja solo con operadores de Manú autorizados'
+    ],
+    relatedActivities: ['tambopata-jungle-adventure', 'lago-sandoval-expedition', 'amazon-canopy-walk'],
+    providers: [
+      { name: 'Manú Nature Tours', familyFriendly: true },
+      { name: 'Pantiacolla Tours', familyFriendly: true },
+      { name: 'InkaNatura Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ayacucho-colonial-churches-circuit',
+    name: 'Ayacucho 33 Colonial Churches Circuit',
+    nameEs: 'Circuito de las 33 Iglesias Coloniales de Ayacucho',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho',
+    regionEs: 'Ayacucho',
+    description: 'Explore Ayacucho\'s stunning collection of 33 colonial churches, each with unique Baroque architecture, gold-leaf altars, and fascinating histories. This walking tour through Peru\'s most religiously significant city reveals masterpieces of colonial art while teaching children about Spanish colonial influence and indigenous artistic contributions.',
+    descriptionEs: 'Explora la impresionante colección de 33 iglesias coloniales de Ayacucho, cada una con arquitectura barroca única, altares de pan de oro e historias fascinantes. Este tour a pie por la ciudad más religiosamente significativa del Perú revela obras maestras del arte colonial mientras enseña a los niños sobre la influencia colonial española y las contribuciones artísticas indígenas.',
+    whatToExpect: 'Begin at the impressive Cathedral on the Plaza de Armas, where guides explain the unique \"Ayacucho Baroque\" style that blends Spanish and indigenous artistic traditions. You\'ll visit a carefully selected circuit of the most impressive and family-interesting churches, including Santo Domingo with its underground crypts, La Compañía de Jesús with its ornate gilded altars, and Santa Clara with its stunning tile work. Each church reveals different aspects of colonial art - carved wooden ceilings, silver processional items, and paintings from the Cusco School. Children enjoy treasure hunts looking for hidden indigenous symbols mixed into Christian artwork. The tour includes stories of miracles, saints, and the city\'s famous Semana Santa celebrations. Between churches, explore the charming historic center with its colonial mansions and artisan markets selling Ayacucho\'s famous textiles and retablos.',
+    whatToExpectEs: 'Comienza en la impresionante Catedral en la Plaza de Armas, donde los guías explican el único estilo \"Barroco Ayacuchano\" que mezcla tradiciones artísticas españolas e indígenas. Visitarás un circuito cuidadosamente seleccionado de las iglesias más impresionantes e interesantes para familias, incluyendo Santo Domingo con sus criptas subterráneas, La Compañía de Jesús con sus ornamentados altares dorados, y Santa Clara con su impresionante trabajo de azulejos. Cada iglesia revela diferentes aspectos del arte colonial - techos de madera tallada, objetos procesionales de plata y pinturas de la Escuela Cusqueña. Los niños disfrutan búsquedas del tesoro buscando símbolos indígenas ocultos mezclados en el arte cristiano. El tour incluye historias de milagros, santos y las famosas celebraciones de Semana Santa de la ciudad. Entre iglesias, explora el encantador centro histórico con sus casonas coloniales y mercados artesanales vendiendo los famosos textiles y retablos de Ayacucho.',
+    highlights: [
+      'Visit the most impressive of Ayacucho\'s 33 churches',
+      'See gold-leaf Baroque altars and religious art',
+      'Learn about unique Ayacucho Baroque style',
+      'Discover indigenous symbols hidden in colonial art',
+      'Explore underground crypts and ancient relics',
+      'Understand Peru\'s Semana Santa traditions',
+      'Walk through beautiful colonial historic center',
+      'Shop for famous Ayacucho retablos and textiles'
+    ],
+    highlightsEs: [
+      'Visita las más impresionantes de las 33 iglesias de Ayacucho',
+      'Ve altares barrocos de pan de oro y arte religioso',
+      'Aprende sobre el único estilo Barroco Ayacuchano',
+      'Descubre símbolos indígenas ocultos en el arte colonial',
+      'Explora criptas subterráneas y reliquias antiguas',
+      'Entiende las tradiciones de Semana Santa del Perú',
+      'Camina por el hermoso centro histórico colonial',
+      'Compra los famosos retablos y textiles de Ayacucho'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round, Semana Santa for full experience',
+    bestTimeEs: 'Todo el año, Semana Santa para experiencia completa',
+    includes: [
+      'Professional bilingual guide',
+      'Church entrance fees where applicable',
+      'Guided walking tour of historic center',
+      'Refreshment stop included',
+      'Map of all 33 churches'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Entradas a iglesias donde aplique',
+      'Tour guiado a pie del centro histórico',
+      'Parada de refrigerio incluida',
+      'Mapa de las 33 iglesias'
+    ],
+    tips: [
+      'Dress modestly for church visits',
+      'Churches close for afternoon siesta (1-3pm)',
+      'Semana Santa is spectacular but very crowded',
+      'Many churches are locked - guide has access',
+      'Photography often prohibited inside churches',
+      'Some children find gold altars overwhelming - pace visits'
+    ],
+    tipsEs: [
+      'Viste modestamente para visitas a iglesias',
+      'Iglesias cierran para siesta de tarde (1-3pm)',
+      'Semana Santa es espectacular pero muy concurrida',
+      'Muchas iglesias están cerradas - guía tiene acceso',
+      'Fotografía a menudo prohibida dentro de iglesias',
+      'Algunos niños encuentran altares de oro abrumadores - marca el ritmo'
+    ],
+    safetyNotes: [
+      'Easy walking on paved streets',
+      'Some churches have steep stairs',
+      'Altitude is moderate (2,760m)',
+      'Safe historic center',
+      'Stay with guide in crypts/underground areas'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en calles pavimentadas',
+      'Algunas iglesias tienen escaleras empinadas',
+      'Altitud es moderada (2,760m)',
+      'Centro histórico seguro',
+      'Permanece con el guía en criptas/áreas subterráneas'
+    ],
+    relatedActivities: ['quinua-ayacucho-independence-tour', 'wari-ruins-tour', 'ayacucho-retablo-workshop'],
+    providers: [
+      { name: 'Ayacucho Tours', familyFriendly: true },
+      { name: 'Cultural Heritage Tours', familyFriendly: true },
+      { name: 'Peru Sacred Tours', familyFriendly: true }
+    ]
   }
 ];
 
