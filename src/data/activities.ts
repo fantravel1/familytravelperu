@@ -16844,6 +16844,405 @@ export const activities: Activity[] = [
       { name: 'KB Tours', familyFriendly: true },
       { name: 'Alpaca Expeditions', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'chinchero-weaving-workshop',
+    name: 'Chinchero Traditional Weaving Workshop',
+    nameEs: 'Taller de Tejido Tradicional de Chinchero',
+    type: 'cultural',
+    city: 'chinchero',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Immerse your family in the ancient art of Andean textile making with a hands-on weaving workshop in Chinchero, where master weavers have passed techniques through generations for over 2,000 years. Learn to create natural dyes from local plants, spin alpaca wool, and try weaving on traditional backstrap looms while surrounded by spectacular mountain scenery.',
+    descriptionEs: 'Sumerge a tu familia en el arte ancestral de la fabricación textil andina con un taller práctico de tejido en Chinchero, donde tejedoras maestras han transmitido técnicas a través de generaciones por más de 2,000 años. Aprende a crear tintes naturales de plantas locales, hilar lana de alpaca, y prueba tejer en telares de cintura tradicionales rodeado de espectacular paisaje montañoso.',
+    whatToExpect: 'Arrive at a family-run weaving cooperative where women in traditional dress welcome you with coca tea. Watch as they demonstrate the entire textile process - from washing raw alpaca fleece to creating vibrant colors using local plants like cochineal, chilca, and ch\'illca. Children can participate in grinding plants to extract dyes and helping stir the dye baths. Learn basic weaving techniques on a backstrap loom and understand the symbolic meanings behind traditional patterns. Many families leave with small woven souvenirs they created themselves.',
+    whatToExpectEs: 'Llega a una cooperativa de tejido familiar donde mujeres en vestimenta tradicional te dan la bienvenida con té de coca. Observa mientras demuestran todo el proceso textil - desde lavar vellón de alpaca crudo hasta crear colores vibrantes usando plantas locales como cochinilla, chilca, y ch\'illca. Los niños pueden participar moliendo plantas para extraer tintes y ayudando a mezclar los baños de tinte. Aprende técnicas básicas de tejido en un telar de cintura y entiende los significados simbólicos detrás de los patrones tradicionales. Muchas familias se van con pequeños recuerdos tejidos que crearon ellos mismos.',
+    highlights: [
+      'Hands-on natural dye creation',
+      'Traditional backstrap loom weaving',
+      'Alpaca wool spinning',
+      'Learn symbolic pattern meanings',
+      'Meet master weaver families',
+      'Create your own small textile',
+      'Stunning mountain backdrop',
+      'Support women cooperatives'
+    ],
+    highlightsEs: [
+      'Creación práctica de tintes naturales',
+      'Tejido en telar de cintura tradicional',
+      'Hilado de lana de alpaca',
+      'Aprende significados de patrones simbólicos',
+      'Conoce familias de tejedoras maestras',
+      'Crea tu propio textil pequeño',
+      'Impresionante fondo montañoso',
+      'Apoya cooperativas de mujeres'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: 'Free with textile purchase or small tip ($5-10). Private workshops $20-40 per family.',
+    priceRangeEs: 'Gratis con compra de textil o pequeña propina ($5-10). Talleres privados $20-40 por familia.',
+    bestTime: 'Year-round. Sunday for market day combination. Morning for best light.',
+    bestTimeEs: 'Todo el año. Domingo para combinación con día de mercado. Mañana para mejor luz.',
+    includes: [
+      'Weaving demonstration',
+      'Natural dye explanation',
+      'Hands-on participation',
+      'Coca tea welcome',
+      'Photo opportunities',
+      'Direct purchase from weavers'
+    ],
+    includesEs: [
+      'Demostración de tejido',
+      'Explicación de tintes naturales',
+      'Participación práctica',
+      'Bienvenida con té de coca',
+      'Oportunidades de fotos',
+      'Compra directa de tejedoras'
+    ],
+    tips: [
+      'Kids love the colorful dye process',
+      'No obligation to buy but support appreciated',
+      'Combine with Chinchero ruins visit',
+      'Cash only for purchases',
+      'Quality textiles are investment pieces',
+      'Ask permission before photographing',
+      'Part of most Sacred Valley tours',
+      'Smaller cooperatives more intimate'
+    ],
+    tipsEs: [
+      'Niños aman el proceso colorido de teñido',
+      'Sin obligación de comprar pero apoyo apreciado',
+      'Combina con visita a ruinas de Chinchero',
+      'Solo efectivo para compras',
+      'Textiles de calidad son piezas de inversión',
+      'Pide permiso antes de fotografiar',
+      'Parte de mayoría de tours del Valle Sagrado',
+      'Cooperativas más pequeñas más íntimas'
+    ],
+    safetyNotes: [
+      'Indoor/outdoor activity - safe environment',
+      'Natural dyes safe but can stain',
+      'Supervise children with dye baths',
+      'Altitude 3,762m - pace yourself',
+      'Support legitimate cooperatives'
+    ],
+    safetyNotesEs: [
+      'Actividad bajo techo/exterior - ambiente seguro',
+      'Tintes naturales seguros pero pueden manchar',
+      'Supervisa niños con baños de tinte',
+      'Altitud 3,762m - ve a tu ritmo',
+      'Apoya cooperativas legítimas'
+    ],
+    relatedActivities: ['sacred-valley-family-tour', 'ollantaytambo-fortress-tour', 'moray-maras-tour'],
+    providers: [
+      { name: 'Centro de Textiles Tradicionales', familyFriendly: true },
+      { name: 'Chinchero Weaving Cooperative', familyFriendly: true },
+      { name: 'Away from the Crowds', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huayna-picchu-climb',
+    name: 'Huayna Picchu Summit & Temple of the Moon',
+    nameEs: 'Cumbre de Huayna Picchu y Templo de la Luna',
+    type: 'adventure',
+    city: 'machu-picchu',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Challenge your family with the iconic climb to Huayna Picchu summit, the steep peak rising behind Machu Picchu in every classic photograph. This thrilling adventure rewards fit families with older children with unparalleled bird-eye views of the citadel below and access to the mysterious Temple of the Moon hidden in a cave.',
+    descriptionEs: 'Desafía a tu familia con la icónica escalada a la cumbre de Huayna Picchu, el pico empinado que se eleva detrás de Machu Picchu en cada fotografía clásica. Esta emocionante aventura recompensa a familias en forma con niños mayores con incomparables vistas de pájaro de la ciudadela abajo y acceso al misterioso Templo de la Luna escondido en una cueva.',
+    whatToExpect: 'After entering Machu Picchu, proceed to the Huayna Picchu checkpoint where you sign in for your designated time slot. The climb begins on ancient Inca stone steps that grow increasingly steep and narrow as you ascend. Steel cables provide handholds on the most exposed sections. The final approach involves climbing through a rock tunnel. At the summit (2,693m), take in breathtaking views of Machu Picchu far below and the Urubamba River winding through the valley. Optional descent to Temple of the Moon adds 45 minutes via a separate trail through caves with fine stonework.',
+    whatToExpectEs: 'Después de entrar a Machu Picchu, procede al punto de control de Huayna Picchu donde te registras para tu horario designado. La escalada comienza en antiguos escalones de piedra inca que se vuelven cada vez más empinados y estrechos mientras asciendes. Cables de acero proporcionan agarres en las secciones más expuestas. El acercamiento final implica escalar a través de un túnel de roca. En la cumbre (2,693m), disfruta vistas impresionantes de Machu Picchu muy abajo y el Río Urubamba serpenteando por el valle. El descenso opcional al Templo de la Luna añade 45 minutos por un sendero separado a través de cuevas con fino trabajo de piedra.',
+    highlights: [
+      'Iconic summit views of Machu Picchu',
+      'Thrilling steep Inca stairway',
+      'Temple of the Moon cave complex',
+      'Sense of major accomplishment',
+      'Limited access exclusivity',
+      'Ancient Inca engineering',
+      'Photography from above',
+      'Wildlife encounters possible'
+    ],
+    highlightsEs: [
+      'Vistas icónicas de la cumbre de Machu Picchu',
+      'Emocionante escalera inca empinada',
+      'Complejo de cuevas del Templo de la Luna',
+      'Sentido de gran logro',
+      'Exclusividad de acceso limitado',
+      'Ingeniería inca antigua',
+      'Fotografía desde arriba',
+      'Posibles encuentros con vida silvestre'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: '2-3 hours (climb and descent)',
+    durationEs: '2-3 horas (subida y bajada)',
+    difficulty: 'challenging',
+    priceRange: 'Additional S/75-100 on top of Machu Picchu entry. Must book 2-3 months in advance.',
+    priceRangeEs: 'S/75-100 adicionales sobre entrada a Machu Picchu. Debe reservar 2-3 meses de anticipación.',
+    bestTime: 'Dry season (May-October). First entry group (7-8am) for clearest views before clouds.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Primer grupo de entrada (7-8am) para vistas más claras antes de nubes.',
+    includes: [
+      'Huayna Picchu permit',
+      'Checkpoint sign-in/out',
+      'Trail access',
+      'Temple of the Moon access'
+    ],
+    includesEs: [
+      'Permiso de Huayna Picchu',
+      'Registro de entrada/salida',
+      'Acceso al sendero',
+      'Acceso al Templo de la Luna'
+    ],
+    tips: [
+      'Book permits months in advance',
+      'Not suitable for fear of heights',
+      'Sturdy hiking shoes essential',
+      'Bring gloves for cable sections',
+      'Go early before clouds roll in',
+      'Start Machu Picchu visit after',
+      'Rain makes trail dangerous',
+      'Physical fitness required'
+    ],
+    tipsEs: [
+      'Reserva permisos meses por adelantado',
+      'No apto para miedo a las alturas',
+      'Zapatos de senderismo resistentes esenciales',
+      'Trae guantes para secciones con cable',
+      'Ve temprano antes de que lleguen nubes',
+      'Comienza visita a Machu Picchu después',
+      'Lluvia hace sendero peligroso',
+      'Condición física requerida'
+    ],
+    safetyNotes: [
+      'Not recommended for children under 12',
+      'Steep exposed drops - no rails',
+      'Follow one-way trail rules',
+      'Turn back if weather changes',
+      'Stay on marked trail only',
+      'Sign out at checkpoint required',
+      'No running on descent'
+    ],
+    safetyNotesEs: [
+      'No recomendado para niños menores de 12',
+      'Caídas empinadas expuestas - sin barandas',
+      'Sigue reglas del sendero de una vía',
+      'Regresa si el clima cambia',
+      'Permanece solo en sendero marcado',
+      'Registro de salida requerido',
+      'No correr en el descenso'
+    ],
+    relatedActivities: ['machu-picchu-guided-tour', 'inca-trail-trek', 'sacred-valley-family-tour'],
+    providers: [
+      { name: 'Self-guided with permit', familyFriendly: true },
+      { name: 'Machu Picchu official guides', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'palcoyo-rainbow-mountain-tour',
+    name: 'Palcoyo Rainbow Mountain Family Adventure',
+    nameEs: 'Aventura Familiar a Montaña de Colores Palcoyo',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Experience the wonder of rainbow-striped mountains on this family-friendly alternative to the crowded Vinicunca, featuring three colorful peaks, ancient stone forests, and spectacular views of Ausangate - all on an easier trail accessible to families with children as young as 7. The vibrant mineral bands create a surreal landscape perfect for photography and adventure.',
+    descriptionEs: 'Experimenta la maravilla de montañas con franjas arcoíris en esta alternativa apta para familias a la concurrida Vinicunca, presentando tres picos coloridos, bosques de piedra antiguos, y vistas espectaculares del Ausangate - todo en un sendero más fácil accesible a familias con niños desde los 7 años. Las vibrantes bandas minerales crean un paisaje surrealista perfecto para fotografía y aventura.',
+    whatToExpect: 'Depart Cusco very early (around 4am) for the 3-hour drive through the highlands, watching sunrise over the Andes. Enjoy a traditional breakfast at a local restaurant before continuing to the trailhead at 4,700m. The walk to the viewpoints takes about 1 hour over relatively flat terrain. Three distinct rainbow mountains come into view, each with different color patterns created by iron, copper, sulfur, and other minerals. Explore the mysterious stone forest with its ancient rock formations. Llamas and alpacas graze freely in the area. After photos and exploration, return to Cusco by mid-afternoon.',
+    whatToExpectEs: 'Parte de Cusco muy temprano (alrededor de 4am) para el viaje de 3 horas por las tierras altas, observando el amanecer sobre los Andes. Disfruta un desayuno tradicional en un restaurante local antes de continuar al inicio del sendero a 4,700m. La caminata a los miradores toma aproximadamente 1 hora sobre terreno relativamente plano. Tres montañas arcoíris distintas aparecen a la vista, cada una con diferentes patrones de color creados por hierro, cobre, azufre, y otros minerales. Explora el misterioso bosque de piedra con sus formaciones rocosas antiguas. Llamas y alpacas pastan libremente en el área. Después de fotos y exploración, regresa a Cusco a media tarde.',
+    highlights: [
+      'Three rainbow mountains visible',
+      'Much easier than Vinicunca',
+      'Ancient stone forest',
+      'Ausangate glacier views',
+      'Alpaca and llama encounters',
+      'Fewer tourists',
+      'Spectacular photography',
+      'Traditional highland breakfast'
+    ],
+    highlightsEs: [
+      'Tres montañas arcoíris visibles',
+      'Mucho más fácil que Vinicunca',
+      'Bosque de piedra antiguo',
+      'Vistas del glaciar Ausangate',
+      'Encuentros con alpacas y llamas',
+      'Menos turistas',
+      'Fotografía espectacular',
+      'Desayuno tradicional de tierras altas'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '10-12 hours from Cusco',
+    durationEs: '10-12 horas desde Cusco',
+    difficulty: 'moderate',
+    priceRange: '$35-60 per person including transport, breakfast, and guide',
+    priceRangeEs: '$35-60 por persona incluyendo transporte, desayuno, y guía',
+    bestTime: 'Dry season (May-October) for clearest skies. Best colors appear mid-morning.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para cielos más claros. Mejores colores aparecen a media mañana.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional guide',
+      'Traditional breakfast',
+      'Walking sticks available',
+      'Oxygen if needed'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional',
+      'Desayuno tradicional',
+      'Bastones de caminata disponibles',
+      'Oxígeno si es necesario'
+    ],
+    tips: [
+      'Acclimatize in Cusco 2-3 days first',
+      'Dress in very warm layers',
+      'Walk slowly at altitude',
+      'Bring snacks and water',
+      'Horse rental available ($15-20)',
+      'Best colors before noon',
+      'Cash for community fee and horse',
+      'Much less crowded than Vinicunca'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco 2-3 días primero',
+      'Vístete con capas muy abrigadas',
+      'Camina despacio en altitud',
+      'Trae snacks y agua',
+      'Alquiler de caballo disponible ($15-20)',
+      'Mejores colores antes del mediodía',
+      'Efectivo para tarifa comunitaria y caballo',
+      'Mucho menos concurrido que Vinicunca'
+    ],
+    safetyNotes: [
+      'Altitude 4,900m - acclimatize first',
+      'Watch for altitude sickness symptoms',
+      'Walk slowly and rest frequently',
+      'Turn back if anyone feels unwell',
+      'Warm clothing essential',
+      'Sun protection critical',
+      'Horse option reduces walking'
+    ],
+    safetyNotesEs: [
+      'Altitud 4,900m - aclimátate primero',
+      'Observa síntomas de mal de altura',
+      'Camina despacio y descansa frecuentemente',
+      'Regresa si alguien se siente mal',
+      'Ropa abrigada esencial',
+      'Protección solar crítica',
+      'Opción de caballo reduce caminata'
+    ],
+    relatedActivities: ['rainbow-mountain-trek', 'humantay-lake-hike', 'ausangate-trek'],
+    providers: [
+      { name: 'Cusco Day Tours', familyFriendly: true },
+      { name: 'Palcoyo Adventures', familyFriendly: true },
+      { name: 'Rainbow Mountain Experts', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'waqrapukara-trek',
+    name: 'Waqrapukara Horn Fortress Trek',
+    nameEs: 'Caminata a Fortaleza de Cuerno Waqrapukara',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover one of Peru most spectacular and least-visited archaeological sites on this challenging trek to Waqrapukara, the "horn fortress" perched dramatically atop twin-peaked rock formations above a deep canyon. This adventure rewards fit families with breathtaking scenery, authentic Inca ruins, and an experience far from tourist crowds.',
+    descriptionEs: 'Descubre uno de los sitios arqueológicos más espectaculares y menos visitados del Perú en esta desafiante caminata a Waqrapukara, la "fortaleza de cuerno" posada dramáticamente sobre formaciones rocosas de picos gemelos sobre un cañón profundo. Esta aventura recompensa a familias en forma con paisajes impresionantes, ruinas incas auténticas, y una experiencia lejos de multitudes turísticas.',
+    whatToExpect: 'The journey begins with a 3-hour drive from Cusco through stunning highland scenery to the village of Acomayo. Continue by vehicle to the trailhead where the trek begins. The one-day option involves 3-4 hours of hiking each way through Andean grasslands with panoramic mountain views. As you approach, the distinctive horn-shaped rock formation comes into view - an unforgettable sight. Explore the pre-Inca and Inca ruins perched impossibly on the twin peaks, including temples, terraces, and astronomical observation points. The 2-day option includes camping under stars near the site for sunrise photos.',
+    whatToExpectEs: 'El viaje comienza con un viaje de 3 horas desde Cusco a través de impresionante paisaje de tierras altas hasta el pueblo de Acomayo. Continúa en vehículo hasta el inicio del sendero donde comienza la caminata. La opción de un día implica 3-4 horas de senderismo en cada dirección a través de pastizales andinos con vistas panorámicas de montañas. Al acercarte, la distintiva formación rocosa en forma de cuerno aparece a la vista - una vista inolvidable. Explora las ruinas preincas e incas posadas imposiblemente en los picos gemelos, incluyendo templos, terrazas, y puntos de observación astronómica. La opción de 2 días incluye campamento bajo las estrellas cerca del sitio para fotos del amanecer.',
+    highlights: [
+      'Dramatic horn-shaped rock fortress',
+      'Off-the-beaten-path experience',
+      'Pre-Inca and Inca ruins',
+      'Minimal tourist presence',
+      'Canyon and mountain views',
+      'Authentic adventure',
+      'Camping under stars (2-day)',
+      'Incredible sunrise photos'
+    ],
+    highlightsEs: [
+      'Dramática fortaleza de roca en forma de cuerno',
+      'Experiencia fuera de los caminos trillados',
+      'Ruinas preincas e incas',
+      'Presencia turística mínima',
+      'Vistas de cañones y montañas',
+      'Aventura auténtica',
+      'Campamento bajo las estrellas (2 días)',
+      'Increíbles fotos del amanecer'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: '12-14 hours (1-day) or 2 days with camping',
+    durationEs: '12-14 horas (1 día) o 2 días con campamento',
+    difficulty: 'challenging',
+    priceRange: '$60-100 (1-day) or $150-200 (2-day with camping)',
+    priceRangeEs: '$60-100 (1 día) o $150-200 (2 días con campamento)',
+    bestTime: 'Dry season (May-October) essential for safety. Clear weather for best views.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) esencial para seguridad. Clima claro para mejores vistas.',
+    includes: [
+      'Transportation from Cusco',
+      'Professional guide',
+      'Entrance fees',
+      'Box lunch',
+      'Camping equipment (2-day)',
+      'Meals (2-day option)'
+    ],
+    includesEs: [
+      'Transporte desde Cusco',
+      'Guía profesional',
+      'Tarifas de entrada',
+      'Almuerzo tipo lonchera',
+      'Equipo de campamento (2 días)',
+      'Comidas (opción de 2 días)'
+    ],
+    tips: [
+      'Suitable only for fit families',
+      'Acclimatize thoroughly in Cusco first',
+      'Bring all food and water',
+      'Trekking poles highly recommended',
+      '2-day option much more comfortable',
+      'Best photos at sunrise',
+      'Hire local guide from Acomayo',
+      'No facilities - pack out all trash'
+    ],
+    tipsEs: [
+      'Apto solo para familias en forma',
+      'Aclimátate completamente en Cusco primero',
+      'Trae toda la comida y agua',
+      'Bastones de trekking muy recomendados',
+      'Opción de 2 días mucho más cómoda',
+      'Mejores fotos al amanecer',
+      'Contrata guía local de Acomayo',
+      'Sin instalaciones - llévate toda la basura'
+    ],
+    safetyNotes: [
+      'High altitude 4,300m - serious acclimatization needed',
+      'Challenging terrain with steep sections',
+      'No rescue services nearby',
+      'Weather can change rapidly',
+      'Physical fitness essential',
+      'Turn back if anyone feels unwell',
+      'Proper hiking gear required'
+    ],
+    safetyNotesEs: [
+      'Alta altitud 4,300m - aclimatación seria necesaria',
+      'Terreno desafiante con secciones empinadas',
+      'Sin servicios de rescate cerca',
+      'Clima puede cambiar rápidamente',
+      'Condición física esencial',
+      'Regresa si alguien se siente mal',
+      'Equipo de senderismo apropiado requerido'
+    ],
+    relatedActivities: ['choquequirao-trek', 'ausangate-trek', 'inca-trail-trek'],
+    providers: [
+      { name: 'Waqrapukara Expeditions', familyFriendly: true },
+      { name: 'Cusco Adventure Tours', familyFriendly: true },
+      { name: 'Acomayo Local Guides', familyFriendly: true }
+    ]
   }
 ];
 
