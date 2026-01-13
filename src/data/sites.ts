@@ -11284,6 +11284,306 @@ export const sites: Site[] = [
       'Alquiler de equipo de snorkel',
       'Horas limitadas de electricidad'
     ]
+  },
+  {
+    slug: 'puruchuco-museum',
+    name: 'Puruchuco Site Museum',
+    nameEs: 'Museo de Sitio de Puruchuco',
+    type: 'museum',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 300,
+    description: 'Puruchuco is one of Lima\'s most significant yet least-visited archaeological sites - an excellently restored Inca palace complex with an outstanding site museum displaying thousands of artifacts recovered from one of the largest pre-Columbian cemeteries ever discovered. Just 30 minutes from Lima\'s center, this hidden gem offers families an authentic archaeological experience without the tourist crowds, providing remarkable insights into how Inca administrators and common people actually lived.',
+    descriptionEs: 'Puruchuco es uno de los sitios arqueológicos más significativos pero menos visitados de Lima - un complejo de palacio Inca excelentemente restaurado con un museo de sitio sobresaliente que exhibe miles de artefactos recuperados de uno de los cementerios precolombinos más grandes jamás descubiertos. A solo 30 minutos del centro de Lima, esta joya escondida ofrece a las familias una experiencia arqueológica auténtica sin las multitudes turísticas, proporcionando notables perspectivas de cómo realmente vivían los administradores y personas comunes Incas.',
+    history: 'Puruchuco served as the residence of a local curaca (Inca administrator) who governed the Rímac Valley on behalf of the Inca Empire. The well-preserved palace complex shows how regional lords lived during Inca times. In 2002, archaeologists discovered an adjacent cemetery containing over 2,200 mummy bundles - one of the largest pre-Columbian burial sites ever found in the Americas. The cemetery yielded extraordinary artifacts including textiles, ceramics, tools, and food offerings that provide unparalleled insights into daily life across all social classes. The site museum now houses many of these remarkable finds, including preserved fardo (mummy bundles) with their original wrappings and grave goods.',
+    historyEs: 'Puruchuco sirvió como residencia de un curaca local (administrador Inca) que gobernaba el Valle del Rímac en nombre del Imperio Inca. El bien preservado complejo de palacio muestra cómo vivían los señores regionales durante tiempos Incas. En 2002, arqueólogos descubrieron un cementerio adyacente conteniendo más de 2,200 fardos de momias - uno de los sitios de entierro precolombinos más grandes jamás encontrados en las Américas. El cementerio produjo artefactos extraordinarios incluyendo textiles, cerámicas, herramientas y ofrendas de comida que proporcionan perspectivas sin igual de la vida diaria a través de todas las clases sociales. El museo de sitio ahora alberga muchos de estos notables hallazgos, incluyendo fardos preservados (fardos de momias) con sus envolturas originales y ajuares funerarios.',
+    highlights: [
+      'Restored Inca palace complex',
+      'One of Peru\'s best site museums',
+      'Over 2,200 mummy bundles discovered',
+      'Preserved textiles and grave goods',
+      'Uncrowded authentic experience',
+      'Easy access from Lima',
+      'Bilingual guided tours'
+    ],
+    highlightsEs: [
+      'Complejo de palacio Inca restaurado',
+      'Uno de los mejores museos de sitio de Perú',
+      'Más de 2,200 fardos de momias descubiertos',
+      'Textiles preservados y ajuares funerarios',
+      'Experiencia auténtica sin multitudes',
+      'Fácil acceso desde Lima',
+      'Tours guiados bilingües'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10 adults, S/5 children',
+    entranceFeeEs: 'S/10 adultos, S/5 niños',
+    bestTime: 'Year-round. Morning visits avoid afternoon heat. Closed Mondays.',
+    bestTimeEs: 'Todo el año. Visitas matutinas evitan calor de la tarde. Cerrado los lunes.',
+    tips: [
+      'Much less crowded than Pachacamac',
+      'Guided tours highly recommended',
+      'Combine with Cajamarquilla ruins nearby',
+      'Museum has excellent displays',
+      'Photography allowed in most areas'
+    ],
+    tipsEs: [
+      'Mucho menos concurrido que Pachacamac',
+      'Tours guiados altamente recomendados',
+      'Combina con ruinas de Cajamarquilla cercanas',
+      'Museo tiene excelentes exhibiciones',
+      'Fotografía permitida en la mayoría de áreas'
+    ],
+    nearbyAttractions: ['Cajamarquilla', 'Santa Clara Ceramics', 'Ate District', 'Lima Historic Center'],
+    relatedSites: ['pachacamac', 'huaca-pucllana', 'museo-larco'],
+    gettingThere: 'From Lima center: 30-40 minutes by taxi or Uber to Ate district. Public transport available but complex.',
+    gettingThereEs: 'Desde centro de Lima: 30-40 minutos en taxi o Uber al distrito de Ate. Transporte público disponible pero complejo.',
+    facilities: [
+      'Modern site museum',
+      'Air-conditioned galleries',
+      'Restrooms',
+      'Parking area',
+      'Bilingual guides available',
+      'Small gift shop'
+    ],
+    facilitiesEs: [
+      'Museo de sitio moderno',
+      'Galerías con aire acondicionado',
+      'Baños',
+      'Área de estacionamiento',
+      'Guías bilingües disponibles',
+      'Pequeña tienda de regalos'
+    ]
+  },
+  {
+    slug: 'tucume-pyramids',
+    name: 'Túcume Valley of the Pyramids',
+    nameEs: 'Valle de las Pirámides de Túcume',
+    type: 'archaeological',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    altitude: 50,
+    description: 'Túcume is one of South America\'s most impressive and least-known archaeological sites - a valley containing 26 massive adobe pyramids built by the Sicán (Lambayeque) culture and later expanded by the Chimú and Inca. Covering over 220 hectares, this monumental complex rivals Egypt\'s Giza in scale yet receives only a fraction of the visitors. Families can climb viewing platforms for panoramic views over this ancient city and explore one of Peru\'s best site museums.',
+    descriptionEs: 'Túcume es uno de los sitios arqueológicos más impresionantes y menos conocidos de Sudamérica - un valle conteniendo 26 pirámides masivas de adobe construidas por la cultura Sicán (Lambayeque) y posteriormente expandidas por los Chimú e Incas. Cubriendo más de 220 hectáreas, este complejo monumental rivaliza con Giza de Egipto en escala pero recibe solo una fracción de los visitantes. Las familias pueden subir a plataformas de observación para vistas panorámicas de esta ciudad antigua y explorar uno de los mejores museos de sitio de Perú.',
+    history: 'Túcume was founded around 1050 CE when the Sicán (Lambayeque) people relocated their capital after Batán Grande was devastated by floods. For the next 500 years, successive cultures - Sicán, Chimú, and finally Inca - built and expanded the massive pyramids, with Huaca Larga stretching 700 meters long. The site served as an administrative and ceremonial center, with evidence of workshops, elite residences, and elaborate burial grounds. Spanish chronicles describe temples topped with gold plates. Thor Heyerdahl, famous for the Kon-Tiki expedition, excavated here in the 1990s. Today\'s excellent museum displays remarkable finds including the famous "Tumi" ceremonial knife.',
+    historyEs: 'Túcume fue fundado alrededor de 1050 EC cuando el pueblo Sicán (Lambayeque) reubicó su capital después de que Batán Grande fue devastada por inundaciones. Durante los siguientes 500 años, culturas sucesivas - Sicán, Chimú, y finalmente Inca - construyeron y expandieron las pirámides masivas, con Huaca Larga extendiéndose 700 metros de largo. El sitio sirvió como centro administrativo y ceremonial, con evidencia de talleres, residencias de élite y elaborados terrenos de entierro. Crónicas españolas describen templos coronados con placas de oro. Thor Heyerdahl, famoso por la expedición Kon-Tiki, excavó aquí en los años 1990. El excelente museo de hoy exhibe hallazgos notables incluyendo el famoso cuchillo ceremonial "Tumi".',
+    highlights: [
+      '26 massive adobe pyramids',
+      'Huaca Larga - 700 meters long',
+      'Panoramic viewing platform',
+      'Excellent site museum',
+      'Three cultures in one site',
+      'Uncrowded experience',
+      'Thor Heyerdahl excavations'
+    ],
+    highlightsEs: [
+      '26 pirámides masivas de adobe',
+      'Huaca Larga - 700 metros de largo',
+      'Plataforma de observación panorámica',
+      'Excelente museo de sitio',
+      'Tres culturas en un sitio',
+      'Experiencia sin multitudes',
+      'Excavaciones de Thor Heyerdahl'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10 adults, S/5 children',
+    entranceFeeEs: 'S/10 adultos, S/5 niños',
+    bestTime: 'Year-round. Coastal desert climate mild. Morning visits avoid midday heat.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero templado. Visitas matutinas evitan calor del mediodía.',
+    tips: [
+      'Combine with Sipán and Sicán museums',
+      'Climb Cerro Purgatorio for best views',
+      'Guide essential for understanding layers',
+      'Museum displays remarkable textiles',
+      'Least visited major site in Peru'
+    ],
+    tipsEs: [
+      'Combina con museos de Sipán y Sicán',
+      'Sube al Cerro Purgatorio para mejores vistas',
+      'Guía esencial para entender las capas',
+      'Museo exhibe textiles notables',
+      'Sitio principal menos visitado de Perú'
+    ],
+    nearbyAttractions: ['Sipán', 'Sicán National Museum', 'Chiclayo', 'Batán Grande'],
+    relatedSites: ['sipan-museum', 'chan-chan', 'sechin-archaeological-site'],
+    gettingThere: 'From Chiclayo: 33km (45 minutes) north. Taxis and colectivos available. Most Chiclayo tours include Túcume.',
+    gettingThereEs: 'Desde Chiclayo: 33km (45 minutos) al norte. Taxis y colectivos disponibles. La mayoría de tours de Chiclayo incluyen Túcume.',
+    facilities: [
+      'Modern site museum',
+      'Viewing platforms',
+      'Restrooms',
+      'Parking area',
+      'Local guides available',
+      'Small café'
+    ],
+    facilitiesEs: [
+      'Museo de sitio moderno',
+      'Plataformas de observación',
+      'Baños',
+      'Área de estacionamiento',
+      'Guías locales disponibles',
+      'Pequeño café'
+    ]
+  },
+  {
+    slug: 'maras-salt-mines',
+    name: 'Maras Salt Mines (Salineras)',
+    nameEs: 'Salineras de Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3380,
+    description: 'The Maras Salt Mines are one of the Sacred Valley\'s most visually stunning attractions - thousands of terraced pools cascading down a steep mountainside, each filled with pink-tinged salt water from an ancient underground spring. Families have harvested salt here since pre-Inca times, creating a living cultural landscape that gleams white against the red mountain. This working salt extraction operation offers a unique glimpse into traditional Andean practices still used today.',
+    descriptionEs: 'Las Salineras de Maras son una de las atracciones más visualmente impresionantes del Valle Sagrado - miles de pozas en terrazas descendiendo por una empinada ladera de montaña, cada una llena de agua salada con tintes rosados de un antiguo manantial subterráneo. Las familias han cosechado sal aquí desde tiempos pre-Incas, creando un paisaje cultural vivo que brilla blanco contra la montaña roja. Esta operación de extracción de sal en funcionamiento ofrece un vistazo único a las prácticas andinas tradicionales aún usadas hoy.',
+    history: 'Salt extraction at Maras predates the Inca Empire by centuries, with evidence suggesting use since at least the 10th century. A natural underground spring emerges saturated with salt from ancient geological deposits, and local families channel this water into over 3,000 shallow pools carved into the mountainside. As water evaporates under the intense Andean sun, crystallized salt remains. Each of the roughly 400 local families owns and maintains their own pools, passing them down through generations. The distinctive pink color comes from mineral traces. Today\'s salt is harvested, processed, and sold as gourmet "pink salt" to restaurants worldwide, with families continuing traditional methods essentially unchanged for a millennium.',
+    historyEs: 'La extracción de sal en Maras precede al Imperio Inca por siglos, con evidencia sugiriendo uso desde al menos el siglo X. Un manantial subterráneo natural emerge saturado con sal de depósitos geológicos antiguos, y las familias locales canalizan esta agua a más de 3,000 pozas poco profundas talladas en la ladera de la montaña. A medida que el agua se evapora bajo el intenso sol andino, la sal cristalizada permanece. Cada una de las aproximadamente 400 familias locales posee y mantiene sus propias pozas, pasándolas de generación en generación. El distintivo color rosa proviene de trazas minerales. La sal de hoy se cosecha, procesa y vende como "sal rosa" gourmet a restaurantes en todo el mundo, con familias continuando métodos tradicionales esencialmente sin cambios por un milenio.',
+    highlights: [
+      'Over 3,000 terraced salt pools',
+      'Pre-Inca salt mining tradition',
+      'Stunning white terraces on red mountain',
+      'Working family operations',
+      'Pink gourmet salt production',
+      'Dramatic Sacred Valley views',
+      'Living cultural heritage'
+    ],
+    highlightsEs: [
+      'Más de 3,000 pozas de sal en terrazas',
+      'Tradición de minería de sal pre-Inca',
+      'Impresionantes terrazas blancas en montaña roja',
+      'Operaciones familiares en funcionamiento',
+      'Producción de sal rosa gourmet',
+      'Dramáticas vistas del Valle Sagrado',
+      'Patrimonio cultural vivo'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10 per person',
+    entranceFeeEs: 'S/10 por persona',
+    bestTime: 'Year-round. May-October dry season for brightest whites. Morning light best for photography.',
+    bestTimeEs: 'Todo el año. Temporada seca mayo-octubre para blancos más brillantes. Luz matutina mejor para fotografía.',
+    tips: [
+      'Combine with Moray for full day trip',
+      'Buy pink salt directly from families',
+      'Stay on marked paths - pools fragile',
+      'Wear sunglasses - bright reflections',
+      'Best photos in morning or late afternoon'
+    ],
+    tipsEs: [
+      'Combina con Moray para excursión de día completo',
+      'Compra sal rosa directamente de las familias',
+      'Quédate en senderos marcados - pozas frágiles',
+      'Usa gafas de sol - reflejos brillantes',
+      'Mejores fotos en la mañana o tarde'
+    ],
+    nearbyAttractions: ['Moray', 'Chinchero', 'Ollantaytambo', 'Urubamba'],
+    relatedSites: ['moray-terraces', 'ollantaytambo', 'sacred-valley'],
+    gettingThere: 'From Cusco: 40km (1 hour) via Chinchero. From Ollantaytambo: 25km (30 minutes). Taxi or Sacred Valley tour.',
+    gettingThereEs: 'Desde Cusco: 40km (1 hora) vía Chinchero. Desde Ollantaytambo: 25km (30 minutos). Taxi o tour del Valle Sagrado.',
+    facilities: [
+      'Entrance and ticket booth',
+      'Viewing platforms',
+      'Basic restrooms',
+      'Parking area',
+      'Local salt vendors',
+      'Restaurant at entrance'
+    ],
+    facilitiesEs: [
+      'Entrada y taquilla',
+      'Plataformas de observación',
+      'Baños básicos',
+      'Área de estacionamiento',
+      'Vendedores locales de sal',
+      'Restaurante en la entrada'
+    ]
+  },
+  {
+    slug: 'moray-terraces',
+    name: 'Moray Circular Terraces',
+    nameEs: 'Terrazas Circulares de Moray',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3500,
+    description: 'Moray is one of the Inca Empire\'s most mysterious and visually striking sites - massive circular terraces carved into bowl-shaped depressions that look like ancient amphitheaters dropped into the Andean highlands. Archaeologists believe these concentric rings served as an agricultural laboratory where the Incas experimented with crops at different altitudes, with temperature variations of up to 15°C between the top and bottom terraces. This unique site fascinates both children and adults.',
+    descriptionEs: 'Moray es uno de los sitios más misteriosos y visualmente impactantes del Imperio Inca - terrazas circulares masivas talladas en depresiones en forma de cuenco que parecen antiguos anfiteatros caídos en las tierras altas andinas. Los arqueólogos creen que estos anillos concéntricos sirvieron como laboratorio agrícola donde los Incas experimentaban con cultivos a diferentes altitudes, con variaciones de temperatura de hasta 15°C entre las terrazas superior e inferior. Este sitio único fascina tanto a niños como adultos.',
+    history: 'Moray\'s precise purpose remains debated, but most archaeologists agree it functioned as an Inca agricultural research station. The three main circular depressions, with their concentric terraces, create distinct microclimates at each level - the temperature difference between top and bottom can exceed 15°C. This allowed the Incas to simulate growing conditions from sea level to high Andes in a single location. Seeds and farming techniques developed here could then be distributed throughout the empire. Some researchers suggest the site also had ceremonial significance, possibly related to water and fertility rituals. The engineering precision - with sophisticated irrigation and drainage systems - demonstrates the Incas\' advanced understanding of agriculture and climate.',
+    historyEs: 'El propósito preciso de Moray permanece debatido, pero la mayoría de arqueólogos concuerdan en que funcionó como estación de investigación agrícola Inca. Las tres depresiones circulares principales, con sus terrazas concéntricas, crean microclimas distintos en cada nivel - la diferencia de temperatura entre arriba y abajo puede exceder 15°C. Esto permitió a los Incas simular condiciones de cultivo desde el nivel del mar hasta los Andes altos en una sola ubicación. Semillas y técnicas de cultivo desarrolladas aquí podían luego distribuirse por todo el imperio. Algunos investigadores sugieren que el sitio también tenía significado ceremonial, posiblemente relacionado con rituales de agua y fertilidad. La precisión de ingeniería - con sistemas sofisticados de irrigación y drenaje - demuestra el avanzado entendimiento de los Incas de agricultura y clima.',
+    highlights: [
+      'Three massive circular depressions',
+      'Inca agricultural laboratory',
+      '15°C temperature difference top to bottom',
+      'Sophisticated engineering',
+      'Unique among Inca sites',
+      'Dramatic visual impact',
+      'Sacred Valley setting'
+    ],
+    highlightsEs: [
+      'Tres depresiones circulares masivas',
+      'Laboratorio agrícola Inca',
+      '15°C de diferencia de temperatura de arriba a abajo',
+      'Ingeniería sofisticada',
+      'Único entre sitios Incas',
+      'Impacto visual dramático',
+      'Entorno del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/70 Boleto Turístico (includes multiple sites) or S/10 single entry',
+    entranceFeeEs: 'S/70 Boleto Turístico (incluye múltiples sitios) o S/10 entrada individual',
+    bestTime: 'Year-round. May-October dry season best. Morning visits for best light.',
+    bestTimeEs: 'Todo el año. Temporada seca mayo-octubre mejor. Visitas matutinas para mejor luz.',
+    tips: [
+      'Combine with Maras Salt Mines nearby',
+      'Part of Sacred Valley circuit',
+      'Boleto Turístico covers admission',
+      'Walk down into terraces for full experience',
+      'Great for teaching kids about Inca science'
+    ],
+    tipsEs: [
+      'Combina con Salineras de Maras cercanas',
+      'Parte del circuito del Valle Sagrado',
+      'Boleto Turístico cubre admisión',
+      'Camina hacia abajo en las terrazas para experiencia completa',
+      'Genial para enseñar a niños sobre ciencia Inca'
+    ],
+    nearbyAttractions: ['Maras Salt Mines', 'Chinchero', 'Ollantaytambo', 'Urubamba'],
+    relatedSites: ['maras-salt-mines', 'ollantaytambo', 'sacred-valley'],
+    gettingThere: 'From Cusco: 50km (1.5 hours) via Chinchero. From Maras Salt Mines: 7km (15 minutes). Taxi or Sacred Valley tour.',
+    gettingThereEs: 'Desde Cusco: 50km (1.5 horas) vía Chinchero. Desde Salineras de Maras: 7km (15 minutos). Taxi o tour del Valle Sagrado.',
+    facilities: [
+      'Entrance and ticket booth',
+      'Basic restrooms',
+      'Parking area',
+      'Local vendors',
+      'Paths around and into terraces',
+      'Information signs'
+    ],
+    facilitiesEs: [
+      'Entrada y taquilla',
+      'Baños básicos',
+      'Área de estacionamiento',
+      'Vendedores locales',
+      'Senderos alrededor y dentro de terrazas',
+      'Letreros informativos'
+    ]
   }
 ];
 

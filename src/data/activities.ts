@@ -12891,6 +12891,360 @@ export const activities: Activity[] = [
       { name: 'Peru Coastal Adventures', familyFriendly: true },
       { name: 'Hotel Puerto Inca', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'puruchuco-mummy-discovery-tour',
+    name: 'Puruchuco Inca Palace & Mummy Discovery Tour',
+    nameEs: 'Tour de Descubrimiento de Momias y Palacio Inca de Puruchuco',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Explore one of Lima\'s most significant yet uncrowded archaeological sites, where an Inca palace complex and one of the Americas\' largest pre-Columbian cemeteries reveal how ordinary people and nobles lived before the Spanish conquest. This hidden gem just 30 minutes from central Lima offers an authentic experience without tourist crowds, featuring over 2,200 mummy bundles discovered in 2002 and a beautifully restored curaca (administrator) residence.',
+    descriptionEs: 'Explora uno de los sitios arqueológicos más significativos pero sin multitudes de Lima, donde un complejo de palacio Inca y uno de los cementerios precolombinos más grandes de las Américas revelan cómo vivían las personas comunes y nobles antes de la conquista española. Esta joya escondida a solo 30 minutos del centro de Lima ofrece una experiencia auténtica sin multitudes turísticas, presentando más de 2,200 fardos de momias descubiertos en 2002 y una bellamente restaurada residencia de curaca (administrador).',
+    whatToExpect: 'Meet your guide in Lima\'s Ate district and enter the reconstructed Inca palace complex of Puruchuco. Walk through the curaca\'s residence, seeing how Inca regional administrators lived - with private apartments, ceremonial spaces, and storage rooms for tribute goods. Your guide explains the social structure of Inca society and how the curaca served as intermediary between the emperor and local populations. Continue to the outstanding site museum to see artifacts from the 2002 cemetery discovery - one of archaeology\'s most significant finds. View remarkably preserved mummy bundles (fardos) with original textiles and grave goods that reveal details about diet, disease, occupation, and social status across all classes. Children are fascinated by the detective work archaeologists use to understand these ancient lives. See ceramics, tools, and food offerings that accompanied the dead. The uncrowded setting allows close examination of displays impossible at busier sites.',
+    whatToExpectEs: 'Encuentra a tu guía en el distrito de Ate de Lima y entra al complejo de palacio Inca reconstruido de Puruchuco. Camina por la residencia del curaca, viendo cómo vivían los administradores regionales Incas - con apartamentos privados, espacios ceremoniales y habitaciones de almacenamiento para bienes de tributo. Tu guía explica la estructura social de la sociedad Inca y cómo el curaca servía como intermediario entre el emperador y las poblaciones locales. Continúa al sobresaliente museo de sitio para ver artefactos del descubrimiento del cementerio de 2002 - uno de los hallazgos más significativos de la arqueología. Ve fardos de momias notablemente preservados con textiles originales y ajuares funerarios que revelan detalles sobre dieta, enfermedad, ocupación y estatus social a través de todas las clases. Los niños se fascinan con el trabajo de detective que los arqueólogos usan para entender estas vidas antiguas. Ve cerámicas, herramientas y ofrendas de comida que acompañaban a los muertos. El entorno sin multitudes permite examen cercano de exhibiciones imposible en sitios más concurridos.',
+    highlights: [
+      'Restored Inca curaca palace',
+      'Over 2,200 mummies discovered',
+      'Outstanding site museum',
+      'Preserved textiles and grave goods',
+      'Uncrowded experience',
+      'Understanding Inca society',
+      'Easy access from Lima'
+    ],
+    highlightsEs: [
+      'Palacio de curaca Inca restaurado',
+      'Más de 2,200 momias descubiertas',
+      'Sobresaliente museo de sitio',
+      'Textiles preservados y ajuares funerarios',
+      'Experiencia sin multitudes',
+      'Entendiendo la sociedad Inca',
+      'Fácil acceso desde Lima'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. Morning visits recommended. Closed Mondays.',
+    bestTimeEs: 'Todo el año. Visitas matutinas recomendadas. Cerrado los lunes.',
+    includes: [
+      'Hotel pickup from Lima center',
+      'Professional bilingual guide',
+      'Site and museum entrance fees',
+      'Bottled water',
+      'Transport return'
+    ],
+    includesEs: [
+      'Recogida en hotel desde centro de Lima',
+      'Guía profesional bilingüe',
+      'Entradas al sitio y museo',
+      'Agua embotellada',
+      'Transporte de regreso'
+    ],
+    tips: [
+      'Much quieter than Pachacamac',
+      'Prepare children for seeing mummies',
+      'Museum air-conditioned - pleasant',
+      'Photography allowed most areas',
+      'Combine with Cajamarquilla nearby'
+    ],
+    tipsEs: [
+      'Mucho más tranquilo que Pachacamac',
+      'Preparar a los niños para ver momias',
+      'Museo con aire acondicionado - agradable',
+      'Fotografía permitida en la mayoría de áreas',
+      'Combina con Cajamarquilla cercano'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Air-conditioned museum',
+      'Easy flat walking',
+      'Safe urban area',
+      'Modern facilities'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Museo con aire acondicionado',
+      'Caminata fácil y plana',
+      'Área urbana segura',
+      'Instalaciones modernas'
+    ],
+    relatedActivities: ['pachacamac-tour', 'museo-larco-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Peru Archaeology Tours', familyFriendly: true },
+      { name: 'Lima Off the Beaten Path', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tucume-pyramids-tour',
+    name: 'Túcume Pyramids Archaeological Adventure',
+    nameEs: 'Aventura Arqueológica a las Pirámides de Túcume',
+    type: 'cultural',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'Discover 26 massive adobe pyramids at one of South America\'s most impressive yet least-visited archaeological sites. Túcume rivals Egypt\'s Giza in scale but receives a fraction of visitors, offering families an uncrowded exploration of a monumental city built by the Sicán, expanded by the Chimú, and conquered by the Incas. Climb to panoramic viewpoints and explore an excellent site museum with remarkable artifacts.',
+    descriptionEs: 'Descubre 26 pirámides masivas de adobe en uno de los sitios arqueológicos más impresionantes pero menos visitados de Sudamérica. Túcume rivaliza con Giza de Egipto en escala pero recibe una fracción de visitantes, ofreciendo a las familias una exploración sin multitudes de una ciudad monumental construida por los Sicán, expandida por los Chimú, y conquistada por los Incas. Sube a miradores panorámicos y explora un excelente museo de sitio con artefactos notables.',
+    whatToExpect: 'Depart Chiclayo for the 45-minute drive north through the Lambayeque Valley to this remarkable site. Begin at the viewing platform on Cerro Purgatorio for breathtaking panoramic views over 26 adobe pyramids sprawling across the valley - Huaca Larga alone stretches 700 meters. Your guide explains how three cultures - Sicán, Chimú, and Inca - successively built and expanded this ceremonial center over 500 years. Descend to explore excavated areas where archaeologists have uncovered workshops, elite residences, and elaborate burial chambers. Learn about Thor Heyerdahl\'s excavations in the 1990s and the remarkable discoveries made here. Visit the excellent site museum to see artifacts including the famous Tumi ceremonial knife, gold masks, and exquisite textiles. Children are fascinated by the scale and the mysteries still being uncovered. Return via traditional villages where you can see local craftwork.',
+    whatToExpectEs: 'Parte de Chiclayo para el viaje de 45 minutos al norte a través del Valle de Lambayeque a este notable sitio. Comienza en la plataforma de observación en Cerro Purgatorio para vistas panorámicas impresionantes de 26 pirámides de adobe extendiéndose por el valle - solo Huaca Larga se extiende 700 metros. Tu guía explica cómo tres culturas - Sicán, Chimú e Inca - sucesivamente construyeron y expandieron este centro ceremonial durante 500 años. Desciende para explorar áreas excavadas donde arqueólogos han descubierto talleres, residencias de élite y elaboradas cámaras funerarias. Aprende sobre las excavaciones de Thor Heyerdahl en los años 1990 y los notables descubrimientos hechos aquí. Visita el excelente museo de sitio para ver artefactos incluyendo el famoso cuchillo ceremonial Tumi, máscaras de oro y exquisitos textiles. Los niños se fascinan con la escala y los misterios aún siendo descubiertos. Regresa vía pueblos tradicionales donde puedes ver artesanías locales.',
+    highlights: [
+      '26 massive adobe pyramids',
+      'Huaca Larga - 700 meters long',
+      'Cerro Purgatorio viewpoint',
+      'Three cultures in one site',
+      'Outstanding site museum',
+      'Thor Heyerdahl excavation site',
+      'Uncrowded exploration'
+    ],
+    highlightsEs: [
+      '26 pirámides masivas de adobe',
+      'Huaca Larga - 700 metros de largo',
+      'Mirador Cerro Purgatorio',
+      'Tres culturas en un sitio',
+      'Sobresaliente museo de sitio',
+      'Sitio de excavación de Thor Heyerdahl',
+      'Exploración sin multitudes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$50-80 per person',
+    priceRangeEs: '$50-80 por persona',
+    bestTime: 'Year-round. Coastal desert climate mild. Morning visits avoid midday heat.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero templado. Visitas matutinas evitan calor del mediodía.',
+    includes: [
+      'Hotel pickup from Chiclayo',
+      'Professional guide',
+      'Site and museum entrance',
+      'Bottled water',
+      'Transport return'
+    ],
+    includesEs: [
+      'Recogida en hotel desde Chiclayo',
+      'Guía profesional',
+      'Entrada al sitio y museo',
+      'Agua embotellada',
+      'Transporte de regreso'
+    ],
+    tips: [
+      'Combine with Sipán and Sicán museums',
+      'Wear comfortable walking shoes',
+      'Hat and sunscreen essential',
+      'Museum offers shade relief',
+      'Photography allowed throughout'
+    ],
+    tipsEs: [
+      'Combina con museos de Sipán y Sicán',
+      'Usa zapatos cómodos para caminar',
+      'Sombrero y protector solar esenciales',
+      'Museo ofrece alivio de la sombra',
+      'Fotografía permitida en todo el lugar'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Some climbing for viewpoint',
+      'Hot coastal desert - stay hydrated',
+      'Modern museum facilities',
+      'Safe tourist area'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Algo de subida para el mirador',
+      'Desierto costero caliente - mantente hidratado',
+      'Instalaciones de museo modernas',
+      'Área turística segura'
+    ],
+    relatedActivities: ['sipan-tomb-tour', 'chan-chan-tour', 'chiclayo-cultural-circuit'],
+    providers: [
+      { name: 'Chiclayo Tours', familyFriendly: true },
+      { name: 'Northern Peru Archaeology', familyFriendly: true },
+      { name: 'Lambayeque Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'maras-moray-tour',
+    name: 'Maras Salt Mines & Moray Terraces Tour',
+    nameEs: 'Tour a Salineras de Maras y Terrazas de Moray',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore two of the Sacred Valley\'s most unique and photogenic sites on this popular half-day excursion. At Maras, thousands of terraced salt pools cascade down a mountainside where families have harvested pink salt since pre-Inca times. At Moray, mysterious concentric terraces descend into bowl-shaped depressions - an ancient Inca agricultural laboratory. Together, these sites reveal the ingenuity and beauty of Andean civilization.',
+    descriptionEs: 'Explora dos de los sitios más únicos y fotogénicos del Valle Sagrado en esta popular excursión de medio día. En Maras, miles de pozas de sal en terrazas descienden por una ladera de montaña donde las familias han cosechado sal rosa desde tiempos pre-Incas. En Moray, misteriosas terrazas concéntricas descienden en depresiones en forma de cuenco - un antiguo laboratorio agrícola Inca. Juntos, estos sitios revelan el ingenio y belleza de la civilización andina.',
+    whatToExpect: 'Depart Cusco or the Sacred Valley for the scenic drive through traditional villages to the Maras Salt Mines. Walk among thousands of white terraced pools gleaming against the red mountainside, learning how families have channeled mineral-rich spring water into evaporation pools for over a millennium. Watch workers harvesting crystallized pink salt using methods unchanged for centuries. Purchase gourmet pink salt directly from local families. Continue to Moray where three massive circular depressions drop into the plateau like ancient amphitheaters. Your guide explains how the Incas used these concentric terraces as an agricultural laboratory, with temperature differences of up to 15°C between levels allowing crop experimentation. Descend into the largest bowl for a unique perspective. Children love running the terraces and imagining Inca scientists at work. Return via the colonial town of Chinchero if time allows.',
+    whatToExpectEs: 'Parte de Cusco o el Valle Sagrado para el viaje escénico a través de pueblos tradicionales a las Salineras de Maras. Camina entre miles de pozas en terrazas blancas brillando contra la ladera de montaña roja, aprendiendo cómo las familias han canalizado agua de manantial rica en minerales a pozas de evaporación por más de un milenio. Observa trabajadores cosechando sal rosa cristalizada usando métodos sin cambios por siglos. Compra sal rosa gourmet directamente de familias locales. Continúa a Moray donde tres depresiones circulares masivas caen en la meseta como antiguos anfiteatros. Tu guía explica cómo los Incas usaron estas terrazas concéntricas como laboratorio agrícola, con diferencias de temperatura de hasta 15°C entre niveles permitiendo experimentación de cultivos. Desciende al cuenco más grande para una perspectiva única. A los niños les encanta correr las terrazas e imaginar científicos Incas trabajando. Regresa vía el pueblo colonial de Chinchero si el tiempo lo permite.',
+    highlights: [
+      'Thousands of terraced salt pools',
+      'Living pre-Inca salt mining tradition',
+      'Pink gourmet salt purchases',
+      'Mysterious Moray circular terraces',
+      'Inca agricultural laboratory',
+      'Stunning Sacred Valley scenery',
+      'Two unique sites in one trip'
+    ],
+    highlightsEs: [
+      'Miles de pozas de sal en terrazas',
+      'Tradición viva de minería de sal pre-Inca',
+      'Compras de sal rosa gourmet',
+      'Misteriosas terrazas circulares de Moray',
+      'Laboratorio agrícola Inca',
+      'Impresionante paisaje del Valle Sagrado',
+      'Dos sitios únicos en un viaje'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. May-October dry season best. Morning light ideal for salt mines photos.',
+    bestTimeEs: 'Todo el año. Temporada seca mayo-octubre mejor. Luz matutina ideal para fotos de las salineras.',
+    includes: [
+      'Hotel pickup from Cusco or Sacred Valley',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Site entrance fees',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida en hotel desde Cusco o Valle Sagrado',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Entradas a los sitios',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Wear sunglasses - salt pools are bright',
+      'Stay on marked paths at Maras',
+      'Boleto Turístico covers Moray admission',
+      'Buy salt directly from families',
+      'Best photos morning or late afternoon'
+    ],
+    tipsEs: [
+      'Usa gafas de sol - pozas de sal son brillantes',
+      'Quédate en senderos marcados en Maras',
+      'Boleto Turístico cubre admisión a Moray',
+      'Compra sal directamente de familias',
+      'Mejores fotos mañana o tarde'
+    ],
+    safetyNotes: [
+      'Moderate altitude (3,400-3,500m)',
+      'Acclimatize in Cusco first',
+      'Easy walking at both sites',
+      'Some sun exposure - bring protection',
+      'Paths at Maras can be slippery'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (3,400-3,500m)',
+      'Aclimatarse en Cusco primero',
+      'Caminata fácil en ambos sitios',
+      'Algo de exposición solar - traer protección',
+      'Senderos en Maras pueden ser resbalosos'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'ollantaytambo-tour', 'chinchero-weaving-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Cusco Expeditions', familyFriendly: true },
+      { name: 'Peru Family Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'northern-peru-archaeology-circuit',
+    name: 'Northern Peru Archaeological Circuit',
+    nameEs: 'Circuito Arqueológico del Norte de Perú',
+    type: 'cultural',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'Discover pre-Inca civilizations that rival the Incas in sophistication and artistry on this comprehensive tour of northern Peru\'s extraordinary archaeological heritage. Visit the Lord of Sipán\'s tomb (Peru\'s "King Tut"), the golden treasures of the Sicán Museum, and the 26 pyramids of Túcume. This full-day circuit reveals cultures that flourished long before the Incas and created some of the Americas\' finest metalwork and ceramics.',
+    descriptionEs: 'Descubre civilizaciones pre-Incas que rivalizan con los Incas en sofisticación y arte en este tour completo del extraordinario patrimonio arqueológico del norte de Perú. Visita la tumba del Señor de Sipán (el "Rey Tut" de Perú), los tesoros dorados del Museo Sicán y las 26 pirámides de Túcume. Este circuito de día completo revela culturas que florecieron mucho antes de los Incas y crearon algunos de los mejores trabajos en metal y cerámicas de las Américas.',
+    whatToExpect: 'Begin at the Royal Tombs of Sipán Museum in Lambayeque, housing the extraordinary burial treasures of the Lord of Sipán - the richest unlooted tomb ever discovered in the Americas. Marvel at gold crowns, turquoise ear ornaments, and ceremonial regalia that rival Egyptian pharaohs. Continue to Huaca Rajada, the actual pyramid where this warrior-priest was buried 1,700 years ago, and see where archaeologists made their groundbreaking discovery in 1987. After lunch featuring northern Peruvian specialties, visit the Sicán National Museum with its remarkable collection of gold masks and ceremonial objects from an even earlier culture. Finally, explore the 26 massive pyramids of Túcume, climbing to panoramic viewpoints over this vast ceremonial complex. Your guide explains how the Moche, Sicán, Chimú, and finally Inca cultures each left their mark on this region. Return to Chiclayo with a new appreciation for Peru beyond the Incas.',
+    whatToExpectEs: 'Comienza en el Museo de Tumbas Reales de Sipán en Lambayeque, albergando los extraordinarios tesoros funerarios del Señor de Sipán - la tumba más rica nunca saqueada jamás descubierta en las Américas. Maravíllate con coronas de oro, ornamentos de oreja de turquesa y regalia ceremonial que rivaliza con faraones egipcios. Continúa a Huaca Rajada, la pirámide real donde este guerrero-sacerdote fue enterrado hace 1,700 años, y ve donde arqueólogos hicieron su descubrimiento revolucionario en 1987. Después del almuerzo presentando especialidades del norte de Perú, visita el Museo Nacional Sicán con su notable colección de máscaras de oro y objetos ceremoniales de una cultura aún más antigua. Finalmente, explora las 26 pirámides masivas de Túcume, subiendo a miradores panorámicos sobre este vasto complejo ceremonial. Tu guía explica cómo las culturas Moche, Sicán, Chimú, y finalmente Inca cada una dejó su marca en esta región. Regresa a Chiclayo con una nueva apreciación por Perú más allá de los Incas.',
+    highlights: [
+      'Lord of Sipán\'s golden burial treasures',
+      'Huaca Rajada discovery site',
+      'Sicán Museum gold masks',
+      '26 pyramids of Túcume',
+      'Three major museums in one day',
+      'Pre-Inca cultures explained',
+      'Northern Peruvian cuisine'
+    ],
+    highlightsEs: [
+      'Tesoros funerarios dorados del Señor de Sipán',
+      'Sitio de descubrimiento Huaca Rajada',
+      'Máscaras de oro del Museo Sicán',
+      '26 pirámides de Túcume',
+      'Tres museos principales en un día',
+      'Culturas pre-Incas explicadas',
+      'Cocina del norte de Perú'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'easy',
+    priceRange: '$100-150 per person',
+    priceRangeEs: '$100-150 por persona',
+    bestTime: 'Year-round. Coastal desert climate mild. Avoid occasional El Niño flooding.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero templado. Evitar inundaciones ocasionales de El Niño.',
+    includes: [
+      'Hotel pickup from Chiclayo',
+      'Professional bilingual guide',
+      'Private transportation',
+      'All museum entrance fees',
+      'Traditional lunch',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida en hotel desde Chiclayo',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Todas las entradas a museos',
+      'Almuerzo tradicional',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Photography prohibited in Sipán Museum',
+      'Museums are air-conditioned',
+      'Wear comfortable walking shoes',
+      'Long day - pace yourselves',
+      'Northern food is distinctive - try ceviche'
+    ],
+    tipsEs: [
+      'Fotografía prohibida en Museo de Sipán',
+      'Museos tienen aire acondicionado',
+      'Usa zapatos cómodos para caminar',
+      'Día largo - márcate tu ritmo',
+      'Comida norteña es distintiva - prueba ceviche'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Air-conditioned museums',
+      'Some walking at pyramid site',
+      'Stay hydrated in desert climate',
+      'Safe tourist circuit'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Museos con aire acondicionado',
+      'Algo de caminata en sitio de pirámides',
+      'Mantente hidratado en clima desértico',
+      'Circuito turístico seguro'
+    ],
+    relatedActivities: ['chan-chan-tour', 'trujillo-moche-route', 'chiclayo-markets-tour'],
+    providers: [
+      { name: 'Chiclayo Tours', familyFriendly: true },
+      { name: 'Peru North Adventures', familyFriendly: true },
+      { name: 'Moche Route Tours', familyFriendly: true }
+    ]
   }
 ];
 
