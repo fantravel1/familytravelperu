@@ -14739,6 +14739,440 @@ export const activities: Activity[] = [
       { name: 'South Valley Expeditions', familyFriendly: true },
       { name: 'Andean Art Tours', familyFriendly: true }
     ]
+  },
+
+  // Batch 14 Activities
+  {
+    slug: 'amantani-island-homestay-experience',
+    name: 'Amantaní Island Homestay Experience',
+    nameEs: 'Experiencia de Hospedaje en Isla Amantaní',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno',
+    regionEs: 'Puno',
+    description: 'Experience authentic Quechua culture through an overnight homestay on Amantaní Island in Lake Titicaca. This 2-day experience immerses families in traditional island life where there are no cars, no hotels, and no restaurants—just warm hospitality from indigenous families who have maintained their ancestral ways for centuries. Participate in farming activities, learn traditional weaving, dress in local costumes for evening celebrations, and witness spectacular sunsets from sacred hilltop temples. This transformative experience creates profound connections between families and one of Peru\'s most traditional communities.',
+    descriptionEs: 'Experimenta la auténtica cultura quechua a través de una estadía de una noche con familias en la Isla Amantaní en el Lago Titicaca. Esta experiencia de 2 días sumerge a las familias en la vida tradicional de la isla donde no hay autos, no hay hoteles y no hay restaurantes—solo la cálida hospitalidad de familias indígenas que han mantenido sus formas ancestrales por siglos. Participa en actividades agrícolas, aprende tejido tradicional, viste trajes locales para celebraciones nocturnas y presencia espectaculares atardeceres desde templos sagrados en las cimas de cerros. Esta experiencia transformadora crea conexiones profundas entre familias y una de las comunidades más tradicionales de Perú.',
+    whatToExpect: 'Your adventure begins with a scenic 4-hour boat journey across Lake Titicaca\'s deep blue waters from Puno, often stopping at Uros Floating Islands en route. Arriving at Amantaní, you\'re welcomed by host families at the port and walk 30-45 minutes uphill through terraced farms to their homes. The island rises to 4,150 meters, so the walk is gentle-paced to allow acclimatization. At your host family\'s traditional stone house, you receive a warm welcome with mate de muña (local herb tea). Afternoons include participating in daily activities—perhaps harvesting quinoa, feeding guinea pigs, or learning to weave on backstrap looms. Children particularly enjoy helping in the fields and playing with local children despite language barriers. Before sunset, families hike to Pachatata or Pachamama temples at the island\'s summit for breathtaking 360-degree views of the lake and surrounding peaks. Evening brings the magical peña folklorica—a community celebration where visitors dress in traditional clothing and dance with islanders. The simple dinner of lake fish, quinoa soup, and potatoes cooked by your host family feels incredibly special. Sleeping in basic but clean rooms under thick wool blankets with no electricity creates a true digital detox. Morning brings breakfast and a walk to the port, often with emotional farewells from host families who treat guests like extended family members.',
+    whatToExpectEs: 'Tu aventura comienza con un viaje escénico de 4 horas en bote a través de las aguas azul profundo del Lago Titicaca desde Puno, a menudo parando en las Islas Flotantes de los Uros en camino. Al llegar a Amantaní, eres recibido por familias anfitrionas en el puerto y caminas 30-45 minutos cuesta arriba a través de granjas en terrazas hasta sus hogares. La isla se eleva a 4,150 metros, así que la caminata es a paso suave para permitir aclimatación. En la casa tradicional de piedra de tu familia anfitriona, recibes una cálida bienvenida con mate de muña (té de hierba local). Las tardes incluyen participar en actividades diarias—quizás cosechando quinua, alimentando cuyes, o aprendiendo a tejer en telares de cintura. Los niños particularmente disfrutan ayudando en los campos y jugando con niños locales a pesar de barreras de idioma. Antes del atardecer, las familias caminan a los templos de Pachatata o Pachamama en la cima de la isla para vistas impresionantes de 360 grados del lago y picos circundantes. La noche trae la mágica peña folklórica—una celebración comunitaria donde visitantes visten ropa tradicional y bailan con isleños. La cena simple de pescado del lago, sopa de quinua y papas cocinada por tu familia anfitriona se siente increíblemente especial. Dormir en habitaciones básicas pero limpias bajo gruesas mantas de lana sin electricidad crea una verdadera desintoxicación digital. La mañana trae desayuno y caminata al puerto, a menudo con despedidas emotivas de familias anfitrionas que tratan a huéspedes como miembros de familia extendida.',
+    highlights: [
+      'Authentic overnight homestay with indigenous family',
+      'No roads, cars, hotels, or restaurants—total immersion',
+      'Participate in traditional farming and weaving activities',
+      'Evening folklore celebration in traditional dress',
+      'Sunset hike to pre-Inca Pachatata and Pachamama temples',
+      '360-degree views of Lake Titicaca from 4,150m summit',
+      'Learn about Quechua traditions directly from families',
+      'Complete digital detox—no electricity in homes',
+      'Traditional meals prepared by host family',
+      'Combined with Uros Floating Islands visit',
+      'Meaningful cultural exchange that benefits community',
+      'Children play with local kids across language barriers'
+    ],
+    highlightsEs: [
+      'Auténtica estadía de noche con familia indígena',
+      'Sin caminos, autos, hoteles o restaurantes—inmersión total',
+      'Participa en actividades tradicionales de agricultura y tejido',
+      'Celebración de folklore nocturna en traje tradicional',
+      'Caminata al atardecer a templos pre-Incas Pachatata y Pachamama',
+      'Vistas de 360 grados del Lago Titicaca desde cumbre de 4,150m',
+      'Aprende sobre tradiciones quechua directamente de familias',
+      'Desintoxicación digital completa—sin electricidad en hogares',
+      'Comidas tradicionales preparadas por familia anfitriona',
+      'Combinado con visita a Islas Flotantes de los Uros',
+      'Intercambio cultural significativo que beneficia comunidad',
+      'Niños juegan con niños locales cruzando barreras de idioma'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '2 days, 1 night',
+    durationEs: '2 días, 1 noche',
+    difficulty: 'moderate',
+    priceRange: '$80-150 USD per person',
+    priceRangeEs: '$80-150 USD por persona',
+    bestTime: 'April-November',
+    bestTimeEs: 'Abril-Noviembre',
+    includes: [
+      'Round-trip boat transport from Puno',
+      'Stop at Uros Floating Islands',
+      'One night homestay accommodation',
+      'All meals with host family',
+      'Traditional costume rental for celebration',
+      'Community contribution fee',
+      'English/Spanish speaking guide',
+      'Temple entrance fees'
+    ],
+    includesEs: [
+      'Transporte en bote ida y vuelta desde Puno',
+      'Parada en Islas Flotantes de los Uros',
+      'Alojamiento de una noche con familia',
+      'Todas las comidas con familia anfitriona',
+      'Alquiler de traje tradicional para celebración',
+      'Cuota de contribución comunitaria',
+      'Guía de habla inglés/español',
+      'Entradas a templos'
+    ],
+    tips: [
+      'Bring warm clothes—temperatures drop at night',
+      'Bring headlamp/flashlight—no electricity',
+      'Pack light as you carry bags uphill',
+      'Bring small gifts for host family children',
+      'Cash for handicraft purchases—no ATMs',
+      'Altitude medication if sensitive',
+      'Respectful modest dress appreciated',
+      'Sleeping bags useful for extra warmth'
+    ],
+    tipsEs: [
+      'Trae ropa abrigada—temperaturas bajan de noche',
+      'Trae linterna—no hay electricidad',
+      'Empaca ligero porque cargas maletas cuesta arriba',
+      'Trae pequeños regalos para niños de familia anfitriona',
+      'Efectivo para compras de artesanías—no hay cajeros',
+      'Medicación para altitud si eres sensible',
+      'Vestimenta modesta respetuosa apreciada',
+      'Sacos de dormir útiles para calor extra'
+    ],
+    safetyNotes: [
+      'High altitude (4,150m)—acclimatize in Puno first',
+      'Moderate uphill walking required',
+      'Basic facilities—no running hot water',
+      'Boats have life jackets',
+      'Island extremely safe—tight-knit community',
+      'No medical facilities on island'
+    ],
+    safetyNotesEs: [
+      'Altitud elevada (4,150m)—aclimatarse en Puno primero',
+      'Caminata moderada cuesta arriba requerida',
+      'Instalaciones básicas—sin agua caliente corriente',
+      'Botes tienen chalecos salvavidas',
+      'Isla extremadamente segura—comunidad muy unida',
+      'Sin instalaciones médicas en la isla'
+    ],
+    relatedActivities: ['taquile-island-cultural-immersion', 'uros-floating-islands-visit', 'lake-titicaca-kayaking'],
+    providers: [
+      { name: 'Amantaní Community Tourism', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true },
+      { name: 'All Ways Travel Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'museo-de-la-nacion-tour',
+    name: 'Museo de la Nación Educational Tour',
+    nameEs: 'Tour Educativo al Museo de la Nación',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima',
+    regionEs: 'Lima',
+    description: 'Explore Peru\'s largest museum housing the most comprehensive collection of pre-Columbian artifacts in the country. The Museo de la Nación presents the complete arc of Peruvian civilization from the earliest hunter-gatherers through all major ancient cultures to the Inca Empire and colonial period. With kid-friendly exhibits, interactive displays, scale models of archaeological sites, and air-conditioned galleries, this educational experience provides essential context before visiting Peru\'s archaeological destinations. The museum\'s chronological layout and English signage make complex history accessible to families, while the Yuyanapaq photographic exhibit offers important perspectives on modern Peru.',
+    descriptionEs: 'Explora el museo más grande de Perú que alberga la colección más completa de artefactos precolombinos del país. El Museo de la Nación presenta el arco completo de la civilización peruana desde los primeros cazadores-recolectores a través de todas las principales culturas antiguas hasta el Imperio Inca y período colonial. Con exhibiciones amigables para niños, displays interactivos, maquetas de sitios arqueológicos y galerías con aire acondicionado, esta experiencia educativa proporciona contexto esencial antes de visitar destinos arqueológicos de Perú. El diseño cronológico del museo y señalización en inglés hacen la historia compleja accesible para familias, mientras la exhibición fotográfica Yuyanapaq ofrece perspectivas importantes sobre el Perú moderno.',
+    whatToExpect: 'Your museum visit begins at Lima\'s largest cultural complex in the San Borja district. The massive modernist building houses six floors of exhibits spanning 10,000+ years of Peruvian history. Expert guides lead families through chronologically arranged galleries, starting with the Lithic Period and Peru\'s first inhabitants, then progressing through Chavín, Moche, Wari, Chimú, and finally the Inca Empire. Children are captivated by the elaborate gold artifacts, colorful textiles, realistic Moche portrait vessels, and intricate Paracas mummies. The museum features excellent scale models of major archaeological sites including Machu Picchu, Chan Chan, Chavín de Huántar, and the Nazca Lines, which provide crucial context if you\'re planning to visit these sites later. The Moche gallery particularly impresses with its recreation of the Lord of Sipán\'s burial chamber. Allow 2-3 hours for a comprehensive tour, or longer if children engage deeply with the interactive elements. The museum includes comfortable rest areas and a cafeteria for breaks. The Yuyanapaq exhibit documenting Peru\'s internal conflict is profound but may be intense for younger children—discuss with your guide about age-appropriateness. Air conditioning throughout makes this an excellent rainy-day activity or respite from Lima\'s heat.',
+    whatToExpectEs: 'Tu visita al museo comienza en el complejo cultural más grande de Lima en el distrito de San Borja. El masivo edificio modernista alberga seis pisos de exhibiciones que abarcan 10,000+ años de historia peruana. Guías expertos llevan a familias a través de galerías ordenadas cronológicamente, comenzando con el Período Lítico y los primeros habitantes de Perú, luego progresando a través de Chavín, Moche, Wari, Chimú, y finalmente el Imperio Inca. Los niños quedan cautivados por los elaborados artefactos de oro, textiles coloridos, vasijas retrato realistas Moche, e intrincadas momias Paracas. El museo presenta excelentes maquetas de principales sitios arqueológicos incluyendo Machu Picchu, Chan Chan, Chavín de Huántar, y las Líneas de Nazca, que proporcionan contexto crucial si planeas visitar estos sitios después. La galería Moche particularmente impresiona con su recreación de la cámara funeraria del Señor de Sipán. Permite 2-3 horas para un tour completo, o más si los niños se involucran profundamente con elementos interactivos. El museo incluye áreas de descanso cómodas y cafetería para pausas. La exhibición Yuyanapaq documentando el conflicto interno de Perú es profunda pero puede ser intensa para niños menores—discute con tu guía sobre apropiabilidad según edad. Aire acondicionado en todo hace esto una excelente actividad para días lluviosos o respiro del calor de Lima.',
+    highlights: [
+      'Peru\'s largest museum with most comprehensive collection',
+      'Complete chronological journey through 10,000 years',
+      'Excellent scale models of Machu Picchu, Chan Chan, Nazca Lines',
+      'Lord of Sipán burial chamber recreation',
+      'Original Moche, Chimú, and Paracas artifacts',
+      'Air-conditioned galleries—ideal any weather',
+      'Kid-friendly interactive displays',
+      'Yuyanapaq photo exhibit on modern Peru',
+      'Essential preparation before archaeological sites',
+      'English signage and audio guides available',
+      'Less crowded than other Lima museums',
+      'Cafeteria and rest areas for families'
+    ],
+    highlightsEs: [
+      'Museo más grande de Perú con colección más completa',
+      'Viaje cronológico completo a través de 10,000 años',
+      'Excelentes maquetas de Machu Picchu, Chan Chan, Líneas de Nazca',
+      'Recreación de cámara funeraria del Señor de Sipán',
+      'Artefactos originales Moche, Chimú y Paracas',
+      'Galerías con aire acondicionado—ideal cualquier clima',
+      'Displays interactivos amigables para niños',
+      'Exhibición fotográfica Yuyanapaq sobre Perú moderno',
+      'Preparación esencial antes de sitios arqueológicos',
+      'Señalización en inglés y audioguías disponibles',
+      'Menos concurrido que otros museos de Lima',
+      'Cafetería y áreas de descanso para familias'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$20-40 USD per person (guided)',
+    priceRangeEs: '$20-40 USD por persona (guiado)',
+    bestTime: 'Year-round',
+    bestTimeEs: 'Todo el año',
+    includes: [
+      'Museum entrance fees',
+      'Professional English-speaking guide',
+      'All gallery access',
+      'Interactive activity booklet for children',
+      'Hotel pickup/drop-off (optional)',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Entradas al museo',
+      'Guía profesional de habla inglesa',
+      'Acceso a todas las galerías',
+      'Cuadernillo de actividades interactivas para niños',
+      'Recogida/retorno al hotel (opcional)',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Visit before Machu Picchu or Nazca for context',
+      'Morning visits less crowded',
+      'Allow at least 2 hours for meaningful visit',
+      'Scale models excellent for photo opportunities',
+      'Bring notebook for kids to sketch artifacts',
+      'Cafeteria has kid-friendly options',
+      'Combine with nearby Huaca Huallamarca'
+    ],
+    tipsEs: [
+      'Visita antes de Machu Picchu o Nazca para contexto',
+      'Visitas matutinas menos concurridas',
+      'Permite al menos 2 horas para visita significativa',
+      'Maquetas excelentes para oportunidades de fotos',
+      'Trae cuaderno para que niños dibujen artefactos',
+      'Cafetería tiene opciones amigables para niños',
+      'Combina con cercana Huaca Huallamarca'
+    ],
+    safetyNotes: [
+      'Fully accessible and air-conditioned',
+      'Elevators available for all floors',
+      'Clean restrooms throughout',
+      'Security guards on each level',
+      'Safe San Borja neighborhood',
+      'Supervised parking available'
+    ],
+    safetyNotesEs: [
+      'Completamente accesible y climatizado',
+      'Ascensores disponibles para todos los pisos',
+      'Baños limpios en todo el edificio',
+      'Guardias de seguridad en cada nivel',
+      'Vecindario seguro de San Borja',
+      'Estacionamiento vigilado disponible'
+    ],
+    relatedActivities: ['larco-museum-tour', 'lima-walking-tour', 'pachacamac-archaeological-tour'],
+    providers: [
+      { name: 'Lima Museums Tours', familyFriendly: true },
+      { name: 'Peru Educational Travel', familyFriendly: true },
+      { name: 'Context Travel Lima', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'maria-reiche-nazca-ground-tour',
+    name: 'María Reiche Museum & Nazca Lines Ground Tour',
+    nameEs: 'Museo María Reiche y Tour Terrestre Líneas de Nazca',
+    type: 'educational',
+    city: 'nazca',
+    region: 'Ica',
+    regionEs: 'Ica',
+    description: 'Discover the fascinating story of María Reiche, the German mathematician who devoted her life to studying and protecting the Nazca Lines, followed by ground-level visits to these mysterious geoglyphs. This family-friendly alternative to scenic flights offers an intimate, educational experience exploring the Nazca Lines from observation towers and the mirador, combined with a visit to Reiche\'s preserved home-turned-museum where her tools, maps, and personal belongings tell the story of her 50-year dedication. Perfect for families with young children or anyone preferring to stay on solid ground while still experiencing these UNESCO World Heritage wonders.',
+    descriptionEs: 'Descubre la fascinante historia de María Reiche, la matemática alemana que dedicó su vida a estudiar y proteger las Líneas de Nazca, seguido de visitas a nivel de tierra a estos misteriosos geoglifos. Esta alternativa amigable para familias a los vuelos escénicos ofrece una experiencia íntima y educativa explorando las Líneas de Nazca desde torres de observación y el mirador, combinado con una visita a la casa preservada de Reiche convertida en museo donde sus herramientas, mapas y pertenencias personales cuentan la historia de sus 50 años de dedicación. Perfecto para familias con niños pequeños o cualquiera que prefiera quedarse en tierra firme mientras experimenta estas maravillas del Patrimonio Mundial de la UNESCO.',
+    whatToExpect: 'Your ground-level Nazca experience begins at the María Reiche Museum, located at Km 421 of the Pan-American Highway where Reiche lived for decades in a humble adobe house. The small but poignant museum displays her original surveying equipment, hand-drawn maps of geoglyph measurements, photographs spanning decades, and her iconic broom used to sweep the desert to reveal lines. Reiche\'s preserved bedroom and simple living quarters show her austere dedication to protecting these ancient mysteries. She is buried on the grounds beneath a tree she planted. From there, continue to the modern Mirador (observation tower) along the highway, where a 13-meter metal tower provides views of three figures: the Hands, Tree, and Lizard geoglyphs. A second tower at Km 424 offers views of additional figures. Your guide explains the theories behind the lines—astronomical calendar, ceremonial pathways, water cult symbols—and how Reiche spent decades documenting over 70 figures and 900 geometric designs. The experience includes visiting the ancient Cantalloc Aqueducts, an ingenious underground water system still functioning after 1,500 years. Children can actually walk into these spiral-shaped aqueducts, making this a hands-on archaeological experience. The tour provides essential context about Nazca culture and the remarkable woman who saved these lines from destruction by highway development.',
+    whatToExpectEs: 'Tu experiencia de Nazca a nivel de tierra comienza en el Museo María Reiche, ubicado en el Km 421 de la Carretera Panamericana donde Reiche vivió por décadas en una humilde casa de adobe. El pequeño pero conmovedor museo exhibe su equipo original de topografía, mapas dibujados a mano de mediciones de geoglifos, fotografías de décadas, y su icónica escoba usada para barrer el desierto y revelar líneas. El dormitorio preservado de Reiche y sus simples habitaciones muestran su dedicación austera a proteger estos antiguos misterios. Está enterrada en los terrenos bajo un árbol que plantó. Desde allí, continúa al moderno Mirador (torre de observación) a lo largo de la carretera, donde una torre metálica de 13 metros proporciona vistas de tres figuras: los geoglifos de las Manos, Árbol y Lagarto. Una segunda torre en el Km 424 ofrece vistas de figuras adicionales. Tu guía explica las teorías detrás de las líneas—calendario astronómico, caminos ceremoniales, símbolos de culto al agua—y cómo Reiche pasó décadas documentando más de 70 figuras y 900 diseños geométricos. La experiencia incluye visitar los antiguos Acueductos de Cantalloc, un ingenioso sistema de agua subterráneo aún funcionando después de 1,500 años. Los niños pueden realmente caminar dentro de estos acueductos en forma de espiral, haciendo esto una experiencia arqueológica práctica. El tour proporciona contexto esencial sobre la cultura Nazca y la notable mujer que salvó estas líneas de la destrucción por desarrollo de carreteras.',
+    highlights: [
+      'María Reiche\'s preserved home and museum',
+      'See her original surveying tools and hand-drawn maps',
+      'Ground-level views from 13-meter observation tower',
+      'See Hands, Tree, Lizard, and other geoglyphs',
+      'No flying—perfect for families with young children',
+      'Visit functioning 1,500-year-old Cantalloc Aqueducts',
+      'Walk inside ancient spiral water tunnels',
+      'Learn theories about Nazca Line meanings',
+      'Reiche\'s gravesite beneath her planted tree',
+      'Ideal complement to or substitute for flight',
+      'Budget-friendly alternative to scenic flights',
+      'Hands-on archaeological experiences for kids'
+    ],
+    highlightsEs: [
+      'Casa preservada y museo de María Reiche',
+      'Ve sus herramientas originales de topografía y mapas dibujados a mano',
+      'Vistas a nivel de tierra desde torre de observación de 13 metros',
+      'Ve las Manos, Árbol, Lagarto y otros geoglifos',
+      'Sin volar—perfecto para familias con niños pequeños',
+      'Visita los Acueductos de Cantalloc funcionando por 1,500 años',
+      'Camina dentro de antiguos túneles de agua en espiral',
+      'Aprende teorías sobre significados de Líneas de Nazca',
+      'Tumba de Reiche bajo su árbol plantado',
+      'Complemento o sustituto ideal para vuelo',
+      'Alternativa económica a vuelos escénicos',
+      'Experiencias arqueológicas prácticas para niños'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 USD per person',
+    priceRangeEs: '$30-50 USD por persona',
+    bestTime: 'Year-round, morning for cooler temperatures',
+    bestTimeEs: 'Todo el año, mañana para temperaturas más frescas',
+    includes: [
+      'Private transportation',
+      'María Reiche Museum entrance',
+      'Observation tower fees',
+      'Cantalloc Aqueducts visit',
+      'Professional English-speaking guide',
+      'Bottled water',
+      'Hotel pickup/drop-off in Nazca'
+    ],
+    includesEs: [
+      'Transporte privado',
+      'Entrada al Museo María Reiche',
+      'Tarifas de torre de observación',
+      'Visita a Acueductos de Cantalloc',
+      'Guía profesional de habla inglesa',
+      'Agua embotellada',
+      'Recogida/retorno al hotel en Nazca'
+    ],
+    tips: [
+      'Visit early morning to avoid desert heat',
+      'Bring binoculars for better geoglyph viewing',
+      'Wear sun protection—no shade at towers',
+      'Combine with flight for complete experience',
+      'Children love walking in aqueduct tunnels',
+      'Museum is small but deeply moving',
+      'Best ground views around 9-10am for light'
+    ],
+    tipsEs: [
+      'Visita temprano en la mañana para evitar calor del desierto',
+      'Trae binoculares para mejor visualización de geoglifos',
+      'Usa protección solar—sin sombra en torres',
+      'Combina con vuelo para experiencia completa',
+      'Niños aman caminar en túneles de acueductos',
+      'Museo es pequeño pero profundamente conmovedor',
+      'Mejores vistas terrestres alrededor de 9-10am por luz'
+    ],
+    safetyNotes: [
+      'Easy walking on flat surfaces',
+      'Tower has stairs—supervise children',
+      'Stay on marked paths at all sites',
+      'Desert heat—bring water and sun protection',
+      'Aqueduct tunnels are shallow and safe',
+      'Low altitude—no altitude concerns'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies planas',
+      'Torre tiene escaleras—supervisa niños',
+      'Permanece en caminos marcados en todos los sitios',
+      'Calor del desierto—trae agua y protección solar',
+      'Túneles de acueductos son poco profundos y seguros',
+      'Altitud baja—sin preocupaciones de altitud'
+    ],
+    relatedActivities: ['nazca-lines-flight', 'chauchilla-cemetery-tour', 'nazca-pottery-workshop'],
+    providers: [
+      { name: 'Nazca Trails', familyFriendly: true },
+      { name: 'Mystery Peru Tours', familyFriendly: true },
+      { name: 'Alegria Tours Nazca', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'trujillo-colonial-walking-tour',
+    name: 'Trujillo Colonial Walking Tour',
+    nameEs: 'Tour a Pie Colonial de Trujillo',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad',
+    regionEs: 'La Libertad',
+    description: 'Stroll through Trujillo\'s magnificent colonial center, one of Peru\'s best-preserved historic districts where colorful republican mansions, ornate churches, and elegant wrought-iron window grilles create a living museum of Spanish colonial architecture. This family-friendly walking tour explores the "City of Eternal Spring" from its grand Plaza de Armas through narrow streets lined with pastel-colored casas coloniales to impressive churches and historic mansions open for visits. Learn about Trujillo\'s role in Peru\'s independence, admire the intricate wooden balconies unique to this region, and experience the warm hospitality of norteño culture in this fascinating alternative to Cusco\'s crowds.',
+    descriptionEs: 'Pasea por el magnífico centro colonial de Trujillo, uno de los distritos históricos mejor preservados de Perú donde coloridas mansiones republicanas, iglesias ornamentadas y elegantes rejas de ventanas de hierro forjado crean un museo vivo de arquitectura colonial española. Este tour a pie amigable para familias explora la "Ciudad de la Eterna Primavera" desde su gran Plaza de Armas a través de calles estrechas bordeadas de casas coloniales color pastel hasta impresionantes iglesias y mansiones históricas abiertas a visitas. Aprende sobre el rol de Trujillo en la independencia de Perú, admira los intrincados balcones de madera únicos de esta región, y experimenta la cálida hospitalidad de la cultura norteña en esta fascinante alternativa a las multitudes de Cusco.',
+    whatToExpect: 'Your walking tour begins at Trujillo\'s spectacular Plaza de Armas, considered one of Peru\'s most beautiful central squares. The 17th-century cathedral dominates one side, while colorful colonial buildings with signature window grilles surround the palm-lined plaza and its striking Freedom Monument commemorating Peru\'s independence. Your guide shares how Trujillo was the first city to declare independence from Spain in 1820. Walking through pedestrian streets, you admire the distinctive colonial architecture—bright yellow, blue, and terracotta facades, carved wooden balconies, and elaborate window grilles that define northern Peruvian style. Visit Casa Urquiaga (also called Casa Calonge), where Simón Bolívar planned liberation campaigns, now a museum with colonial furniture and pre-Columbian gold artifacts. Continue to Casa de la Emancipación, where Peruvian independence was proclaimed, featuring gorgeous courtyards and rotating art exhibitions. The Iglesia de La Merced impresses with its baroque altar, while smaller churches reveal hidden colonial treasures. Along the way, stop at traditional picanterías to taste northern specialties like shambar soup and ceviche. The walk covers approximately 2 kilometers through flat, shaded streets at sea level—comfortable for all ages. Children enjoy the colorful buildings, counting window grilles, and feeding pigeons in plazas. The tour provides wonderful context before visiting nearby Chan Chan and Moche pyramids.',
+    whatToExpectEs: 'Tu tour a pie comienza en la espectacular Plaza de Armas de Trujillo, considerada una de las plazas centrales más hermosas de Perú. La catedral del siglo XVII domina un lado, mientras coloridos edificios coloniales con distintivas rejas de ventanas rodean la plaza bordeada de palmeras y su llamativo Monumento a la Libertad conmemorando la independencia de Perú. Tu guía comparte cómo Trujillo fue la primera ciudad en declarar independencia de España en 1820. Caminando por calles peatonales, admiras la distintiva arquitectura colonial—fachadas de amarillo brillante, azul y terracota, balcones tallados de madera, y elaboradas rejas de ventanas que definen el estilo norteño peruano. Visita Casa Urquiaga (también llamada Casa Calonge), donde Simón Bolívar planeó campañas de liberación, ahora un museo con muebles coloniales y artefactos de oro precolombinos. Continúa a Casa de la Emancipación, donde se proclamó la independencia peruana, con hermosos patios y exhibiciones de arte rotativas. La Iglesia de La Merced impresiona con su altar barroco, mientras iglesias más pequeñas revelan tesoros coloniales escondidos. En el camino, para en picanterías tradicionales para probar especialidades norteñas como sopa shambar y ceviche. La caminata cubre aproximadamente 2 kilómetros por calles planas y sombreadas a nivel del mar—cómodo para todas las edades. Los niños disfrutan los edificios coloridos, contando rejas de ventanas y alimentando palomas en plazas. El tour proporciona contexto maravilloso antes de visitar el cercano Chan Chan y pirámides Moche.',
+    highlights: [
+      'One of Peru\'s best-preserved colonial centers',
+      'Grand Plaza de Armas with Freedom Monument',
+      '17th-century cathedral and baroque churches',
+      'Distinctive northern-style wooden balconies',
+      'Elaborate wrought-iron window grilles',
+      'Casa Urquiaga—Bolívar\'s independence headquarters',
+      'Casa de la Emancipación museum',
+      'First city to declare Peruvian independence',
+      'Colorful pastel colonial architecture',
+      'Northern cuisine tasting at picanterías',
+      'Sea-level—no altitude concerns',
+      'Perfect preparation for Chan Chan and Moche visits'
+    ],
+    highlightsEs: [
+      'Uno de los centros coloniales mejor preservados de Perú',
+      'Gran Plaza de Armas con Monumento a la Libertad',
+      'Catedral del siglo XVII e iglesias barrocas',
+      'Distintivos balcones de madera estilo norteño',
+      'Elaboradas rejas de ventanas de hierro forjado',
+      'Casa Urquiaga—cuartel de independencia de Bolívar',
+      'Museo Casa de la Emancipación',
+      'Primera ciudad en declarar independencia peruana',
+      'Colorida arquitectura colonial pastel',
+      'Degustación de cocina norteña en picanterías',
+      'Nivel del mar—sin preocupaciones de altitud',
+      'Preparación perfecta para visitas a Chan Chan y Moche'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round',
+    bestTimeEs: 'Todo el año',
+    includes: [
+      'Professional English-speaking guide',
+      'All museum entrance fees',
+      'Church entrance fees',
+      'Traditional snack tasting',
+      'Bottled water',
+      'Hotel pickup in Trujillo center (optional)'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Todas las entradas a museos',
+      'Entradas a iglesias',
+      'Degustación de snack tradicional',
+      'Agua embotellada',
+      'Recogida en hotel en centro de Trujillo (opcional)'
+    ],
+    tips: [
+      'Morning tours avoid midday heat',
+      'Wear comfortable walking shoes',
+      'Some churches closed during siesta',
+      'Best combined with Chan Chan same day',
+      'Trujillo marinera festival in January spectacular',
+      'Sunday mornings quieter in historic center',
+      'Try king kong (giant alfajor) as souvenir'
+    ],
+    tipsEs: [
+      'Tours matutinos evitan calor del mediodía',
+      'Usa zapatos cómodos para caminar',
+      'Algunas iglesias cerradas durante siesta',
+      'Mejor combinado con Chan Chan mismo día',
+      'Festival de marinera de Trujillo en enero espectacular',
+      'Domingos por la mañana más tranquilos en centro histórico',
+      'Prueba king kong (alfajor gigante) como souvenir'
+    ],
+    safetyNotes: [
+      'Flat walking at sea level—very easy',
+      'Safe, well-patrolled historic center',
+      'Pedestrian streets in main areas',
+      'Watch for traffic on cross streets',
+      'Pleasant year-round temperatures',
+      'Clean restrooms at museums and restaurants'
+    ],
+    safetyNotesEs: [
+      'Caminata plana a nivel del mar—muy fácil',
+      'Centro histórico seguro y bien patrullado',
+      'Calles peatonales en áreas principales',
+      'Cuidado con tráfico en calles transversales',
+      'Temperaturas agradables todo el año',
+      'Baños limpios en museos y restaurantes'
+    ],
+    relatedActivities: ['chan-chan-archaeological-tour', 'huacas-moche-tour', 'huanchaco-surf-lesson'],
+    providers: [
+      { name: 'Trujillo Walking Tours', familyFriendly: true },
+      { name: 'Northern Peru Expeditions', familyFriendly: true },
+      { name: 'Colonial Trujillo Tours', familyFriendly: true }
+    ]
   }
 ];
 
