@@ -10684,6 +10684,306 @@ export const sites: Site[] = [
       'Excursiones en bote de pesca',
       'Servicios de spa en resorts'
     ]
+  },
+  {
+    slug: 'leymebamba-museum',
+    name: 'Leymebamba Museum (Museo Mallqui)',
+    nameEs: 'Museo Leymebamba (Museo Mallqui)',
+    type: 'museum',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2200,
+    description: 'The Leymebamba Museum houses one of Peru\'s most extraordinary archaeological collections - over 200 mummies and thousands of artifacts rescued from the cliff-side mausoleum at Laguna de los Cóndores. This modern museum in a cloud forest valley brings families face-to-face with the ancient Chachapoya civilization, known as the "Warriors of the Clouds." The remarkably preserved mummies, quipus (knotted record strings), and textiles offer unique insights into pre-Columbian Andean life.',
+    descriptionEs: 'El Museo Leymebamba alberga una de las colecciones arqueológicas más extraordinarias de Perú - más de 200 momias y miles de artefactos rescatados del mausoleo en el acantilado de la Laguna de los Cóndores. Este museo moderno en un valle de bosque nublado acerca a las familias a la antigua civilización Chachapoya, conocida como los "Guerreros de las Nubes." Las momias notablemente preservadas, quipus (cuerdas con nudos para registros) y textiles ofrecen perspectivas únicas de la vida andina precolombina.',
+    history: 'In 1997, local farmers discovered an untouched Chachapoya burial site hidden in cliff tombs above the remote Laguna de los Cóndores. Archaeologists found over 200 mummy bundles, many wrapped in intricate textiles with wooden face markers, alongside ceramics, quipus, and offerings. The Chachapoya were conquered by the Incas around 1470 but maintained distinct burial practices. The mummies remained remarkably preserved in the humid cloud forest due to the sealed tombs. To protect the finds from grave robbers and environmental damage, they were carefully transported to this purpose-built museum. The collection represents one of the most significant Chachapoya discoveries ever made.',
+    historyEs: 'En 1997, agricultores locales descubrieron un sitio de entierro Chachapoya intacto escondido en tumbas en acantilados sobre la remota Laguna de los Cóndores. Los arqueólogos encontraron más de 200 fardos de momias, muchos envueltos en textiles intrincados con marcadores faciales de madera, junto con cerámicas, quipus y ofrendas. Los Chachapoya fueron conquistados por los Incas alrededor de 1470 pero mantuvieron prácticas de entierro distintivas. Las momias permanecieron notablemente preservadas en el húmedo bosque nublado debido a las tumbas selladas. Para proteger los hallazgos de saqueadores de tumbas y daño ambiental, fueron cuidadosamente transportados a este museo construido para ese propósito. La colección representa uno de los descubrimientos Chachapoya más significativos jamás hechos.',
+    highlights: [
+      'Over 200 Chachapoya mummies',
+      'Pre-Columbian quipus collection',
+      'Ancient textiles remarkably preserved',
+      'Wooden mummy face markers',
+      'Ceramic artifacts and offerings',
+      'Botanical gardens with orchids',
+      'Cloud forest valley setting'
+    ],
+    highlightsEs: [
+      'Más de 200 momias Chachapoyas',
+      'Colección de quipus precolombinos',
+      'Textiles antiguos notablemente preservados',
+      'Marcadores faciales de madera de momias',
+      'Artefactos cerámicos y ofrendas',
+      'Jardines botánicos con orquídeas',
+      'Ubicación en valle de bosque nublado'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 adults, S/5 children',
+    entranceFeeEs: 'S/15 adultos, S/5 niños',
+    bestTime: 'Year-round. May-September drier. Morning visits less crowded.',
+    bestTimeEs: 'Todo el año. Mayo-septiembre más seco. Visitas matutinas menos concurridas.',
+    tips: [
+      'Combine with Kuelap for full Chachapoya experience',
+      'Photography allowed without flash',
+      'Allow time for botanical gardens',
+      'Consider multi-day Laguna de los Cóndores trek',
+      'Small café on site for refreshments'
+    ],
+    tipsEs: [
+      'Combina con Kuelap para experiencia Chachapoya completa',
+      'Fotografía permitida sin flash',
+      'Deja tiempo para los jardines botánicos',
+      'Considera trekking de varios días a Laguna de los Cóndores',
+      'Pequeño café en sitio para refrigerios'
+    ],
+    nearbyAttractions: ['Kuelap', 'Gocta Waterfall', 'Karajia Sarcophagi', 'La Jalca Grande'],
+    relatedSites: ['kuelap', 'gocta-waterfall', 'karajia-sarcophagi'],
+    gettingThere: 'From Chachapoyas (80km, 3 hours by road). Part of most Kuelap/Gocta tour circuits. Colectivos available from Chachapoyas.',
+    gettingThereEs: 'Desde Chachapoyas (80km, 3 horas por carretera). Parte de la mayoría de circuitos de tours a Kuelap/Gocta. Colectivos disponibles desde Chachapoyas.',
+    facilities: [
+      'Modern climate-controlled galleries',
+      'Bilingual exhibit information',
+      'Gift shop with local crafts',
+      'Botanical gardens',
+      'On-site café',
+      'Accessible facilities'
+    ],
+    facilitiesEs: [
+      'Galerías modernas con clima controlado',
+      'Información de exhibición bilingüe',
+      'Tienda de regalos con artesanías locales',
+      'Jardines botánicos',
+      'Café en sitio',
+      'Instalaciones accesibles'
+    ]
+  },
+  {
+    slug: 'huayhuash-circuit',
+    name: 'Cordillera Huayhuash',
+    nameEs: 'Cordillera Huayhuash',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Ancash',
+    altitude: 4750,
+    description: 'The Cordillera Huayhuash is one of the world\'s most spectacular mountain ranges, a compact chain of jagged ice peaks that includes Peru\'s second-highest mountain, Yerupajá (6,634m). While the famous multi-day circuit trek is for experienced adventurers, families can access stunning viewpoints and day hikes around this dramatic range. The area\'s pristine alpine lakes, towering glaciers, and traditional Quechua communities offer unparalleled Andean scenery.',
+    descriptionEs: 'La Cordillera Huayhuash es una de las cadenas montañosas más espectaculares del mundo, una compacta cadena de picos de hielo irregulares que incluye la segunda montaña más alta de Perú, Yerupajá (6,634m). Mientras el famoso trekking del circuito de varios días es para aventureros experimentados, las familias pueden acceder a miradores impresionantes y caminatas de día alrededor de esta dramática cordillera. Los lagos alpinos prístinos del área, glaciares imponentes y comunidades Quechua tradicionales ofrecen paisajes andinos incomparables.',
+    history: 'The Cordillera Huayhuash remained largely unknown outside Peru until Joe Simpson\'s survival epic "Touching the Void" (1988) brought international attention to this savage range. The Quechua-speaking communities have herded llamas and alpacas in these high valleys for millennia. Unlike the more touristy Cordillera Blanca, Huayhuash has retained its wild character and traditional culture. Community-based tourism now provides sustainable income while protecting this pristine environment. The range includes six peaks over 6,000 meters and some of the most technical climbing in the Andes.',
+    historyEs: 'La Cordillera Huayhuash permaneció mayormente desconocida fuera de Perú hasta que la épica de supervivencia de Joe Simpson "Tocando el Vacío" (1988) trajo atención internacional a esta salvaje cordillera. Las comunidades de habla Quechua han pastoreado llamas y alpacas en estos valles altos por milenios. A diferencia de la más turística Cordillera Blanca, Huayhuash ha retenido su carácter salvaje y cultura tradicional. El turismo comunitario ahora provee ingresos sustentables mientras protege este ambiente prístino. La cordillera incluye seis picos sobre 6,000 metros y algo del montañismo más técnico de los Andes.',
+    highlights: [
+      'Yerupajá - Peru\'s second-highest peak',
+      'Pristine turquoise alpine lakes',
+      'Dramatic glaciated peaks',
+      'Traditional Quechua communities',
+      'World-class trekking circuit',
+      'Wildlife including vicuñas',
+      'Less crowded than Cordillera Blanca'
+    ],
+    highlightsEs: [
+      'Yerupajá - segundo pico más alto de Perú',
+      'Lagos alpinos turquesa prístinos',
+      'Dramáticos picos glaciados',
+      'Comunidades Quechua tradicionales',
+      'Circuito de trekking de clase mundial',
+      'Fauna incluyendo vicuñas',
+      'Menos concurrido que Cordillera Blanca'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Day trips to 2 weeks (full circuit)',
+    durationEs: 'Excursiones de día a 2 semanas (circuito completo)',
+    difficulty: 'challenging',
+    entranceFee: 'S/30 per day (community fees)',
+    entranceFeeEs: 'S/30 por día (tarifas comunitarias)',
+    bestTime: 'May-September dry season. June-August best weather. Rainy season trails impassable.',
+    bestTimeEs: 'Temporada seca mayo-septiembre. Junio-agosto mejor clima. Senderos de temporada de lluvias intransitables.',
+    tips: [
+      'Acclimatize thoroughly in Huaraz first',
+      'Day trips possible to Carhuacocha Lake',
+      'Full circuit requires camping equipment',
+      'Hire local arrieros (muleteers) for treks',
+      'Bring all supplies - no stores on trail'
+    ],
+    tipsEs: [
+      'Aclimatarse completamente en Huaraz primero',
+      'Excursiones de día posibles al Lago Carhuacocha',
+      'Circuito completo requiere equipo de camping',
+      'Contrata arrieros locales para trekkings',
+      'Trae todos los suministros - no hay tiendas en el sendero'
+    ],
+    nearbyAttractions: ['Laguna Carhuacocha', 'Jahuacocha Lake', 'Queropalca', 'Llamac'],
+    relatedSites: ['laguna-69', 'llanganuco-lakes', 'chavin-de-huantar'],
+    gettingThere: 'Access from Huaraz (170km). Main trailheads at Llamac or Quartelhuain. 4-5 hours by road. Tours arranged from Huaraz.',
+    gettingThereEs: 'Acceso desde Huaraz (170km). Principales puntos de inicio de senderos en Llamac o Quartelhuain. 4-5 horas por carretera. Tours organizados desde Huaraz.',
+    facilities: [
+      'Basic lodging in gateway villages',
+      'Local guides and arrieros available',
+      'Community campsites with fees',
+      'No facilities on circuit itself',
+      'Huaraz has full services',
+      'Emergency evacuation difficult'
+    ],
+    facilitiesEs: [
+      'Alojamiento básico en pueblos de entrada',
+      'Guías locales y arrieros disponibles',
+      'Campamentos comunitarios con tarifas',
+      'Sin instalaciones en el circuito mismo',
+      'Huaraz tiene servicios completos',
+      'Evacuación de emergencia difícil'
+    ]
+  },
+  {
+    slug: 'marcahuasi',
+    name: 'Marcahuasi Stone Forest',
+    nameEs: 'Bosque de Piedras de Marcahuasi',
+    type: 'natural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 4000,
+    description: 'Marcahuasi is a mysterious granite plateau high above Lima\'s eastern mountains, famous for its bizarre rock formations that resemble human faces, animals, and monuments. Whether carved by ancient civilizations or sculpted by wind and water over millennia, these enigmatic stones spark imagination and wonder. At 4,000 meters elevation with 360-degree views of snow-capped peaks, Marcahuasi offers families an otherworldly adventure just a few hours from Lima.',
+    descriptionEs: 'Marcahuasi es una misteriosa meseta de granito alta sobre las montañas orientales de Lima, famosa por sus bizarras formaciones rocosas que se asemejan a rostros humanos, animales y monumentos. Ya sea talladas por civilizaciones antiguas o esculpidas por viento y agua durante milenios, estas piedras enigmáticas despiertan imaginación y asombro. A 4,000 metros de elevación con vistas de 360 grados de picos nevados, Marcahuasi ofrece a las familias una aventura de otro mundo a solo pocas horas de Lima.',
+    history: 'Marcahuasi gained fame in 1952 when Peruvian explorer Daniel Ruzo claimed the stone formations were sculptures from a lost proto-historic civilization he called "Masma." While geologists explain the shapes as natural erosion of volcanic rock, the site has attracted mystics, UFO enthusiasts, and adventure seekers ever since. Pre-Inca peoples did inhabit the plateau, leaving behind small agricultural terraces and stone structures. The nearby village of San Pedro de Casta maintains traditional festivals and provides local guides. Regardless of origin, the formations genuinely resemble faces and figures, creating a natural sculpture garden that captivates visitors.',
+    historyEs: 'Marcahuasi ganó fama en 1952 cuando el explorador peruano Daniel Ruzo afirmó que las formaciones de piedra eran esculturas de una civilización proto-histórica perdida que llamó "Masma." Mientras los geólogos explican las formas como erosión natural de roca volcánica, el sitio ha atraído místicos, entusiastas de OVNIs y buscadores de aventura desde entonces. Pueblos pre-Incas sí habitaron la meseta, dejando pequeñas terrazas agrícolas y estructuras de piedra. El pueblo cercano de San Pedro de Casta mantiene festivales tradicionales y provee guías locales. Sin importar el origen, las formaciones genuinamente se asemejan a rostros y figuras, creando un jardín de esculturas naturales que cautiva a los visitantes.',
+    highlights: [
+      'Mysterious face-shaped rock formations',
+      'Monument to Humanity stone',
+      'Panoramic Andean views',
+      'Pre-Inca ruins and terraces',
+      'Excellent stargazing',
+      'Unique camping experience',
+      'Easy access from Lima'
+    ],
+    highlightsEs: [
+      'Misteriosas formaciones rocosas con forma de rostros',
+      'Piedra Monumento a la Humanidad',
+      'Vistas panorámicas andinas',
+      'Ruinas y terrazas pre-Incas',
+      'Excelente observación de estrellas',
+      'Experiencia de camping única',
+      'Fácil acceso desde Lima'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1-2 days (overnight recommended)',
+    durationEs: '1-2 días (pernoctar recomendado)',
+    difficulty: 'moderate',
+    entranceFee: 'S/10 per person (village fee)',
+    entranceFeeEs: 'S/10 por persona (tarifa del pueblo)',
+    bestTime: 'April-November dry season. Full moon nights spectacular for formations.',
+    bestTimeEs: 'Temporada seca abril-noviembre. Noches de luna llena espectaculares para formaciones.',
+    tips: [
+      'Hire a local guide from San Pedro de Casta',
+      'Bring warm clothes - freezing at night',
+      'Overnight camping allows full exploration',
+      'Full moon visits reveal "hidden" formations',
+      'Pack all food and water from Lima'
+    ],
+    tipsEs: [
+      'Contrata guía local de San Pedro de Casta',
+      'Trae ropa abrigada - helado en la noche',
+      'Camping nocturno permite exploración completa',
+      'Visitas en luna llena revelan formaciones "escondidas"',
+      'Empaca toda la comida y agua desde Lima'
+    ],
+    nearbyAttractions: ['San Pedro de Casta village', 'Huayllay Stone Forest', 'Chosica', 'Santa Eulalia Valley'],
+    relatedSites: ['pachacamac', 'caral', 'huayllay-stone-forest'],
+    gettingThere: 'From Lima: bus to Chosica (1.5 hours), then colectivo to San Pedro de Casta (2 hours), then 3-hour hike or mule ride to plateau.',
+    gettingThereEs: 'Desde Lima: bus a Chosica (1.5 horas), luego colectivo a San Pedro de Casta (2 horas), luego caminata de 3 horas o paseo en mula a la meseta.',
+    facilities: [
+      'Basic accommodations in San Pedro de Casta',
+      'Camping on plateau (bring all equipment)',
+      'Local guides and mule transport available',
+      'No facilities on plateau itself',
+      'Restaurants in village',
+      'No cell service on plateau'
+    ],
+    facilitiesEs: [
+      'Alojamiento básico en San Pedro de Casta',
+      'Camping en la meseta (trae todo el equipo)',
+      'Guías locales y transporte en mula disponible',
+      'Sin instalaciones en la meseta misma',
+      'Restaurantes en el pueblo',
+      'Sin señal de celular en la meseta'
+    ]
+  },
+  {
+    slug: 'lago-sandoval',
+    name: 'Lake Sandoval',
+    nameEs: 'Lago Sandoval',
+    type: 'natural',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    altitude: 200,
+    description: 'Lake Sandoval is a pristine oxbow lake in the Tambopata National Reserve, famous for its resident giant river otter families - one of the world\'s most endangered and charismatic species. This accessible Amazon destination allows families to paddle through flooded forest, spot caimans and hoatzins, and potentially witness the playful antics of these remarkable otters. Located just 30 minutes from Puerto Maldonado, it\'s the easiest introduction to Peru\'s Amazon wildlife.',
+    descriptionEs: 'Lago Sandoval es un lago de meandro prístino en la Reserva Nacional Tambopata, famoso por sus familias residentes de nutrias gigantes de río - una de las especies más amenazadas y carismáticas del mundo. Este destino amazónico accesible permite a las familias remar a través del bosque inundado, avistar caimanes y hoatzines, y potencialmente presenciar las travesuras juguetonas de estas notables nutrias. Ubicado a solo 30 minutos de Puerto Maldonado, es la introducción más fácil a la fauna amazónica de Perú.',
+    history: 'Lake Sandoval formed thousands of years ago when a meander of the Madre de Dios River was cut off, creating a crescent-shaped oxbow lake surrounded by palm swamps and flooded forest. The lake gained protection as part of the Tambopata National Reserve in 1990, preserving its unique ecosystem from logging and hunting. The resident giant river otter population became a flagship for conservation - these highly social animals were nearly extinct in Peru due to fur hunting until protection allowed recovery. Today, several family groups thrive in the lake, making Sandoval one of the best places in South America to observe these magnificent animals.',
+    historyEs: 'Lago Sandoval se formó hace miles de años cuando un meandro del Río Madre de Dios fue cortado, creando un lago de meandro en forma de media luna rodeado de pantanos de palmeras y bosque inundado. El lago ganó protección como parte de la Reserva Nacional Tambopata en 1990, preservando su ecosistema único de la tala y caza. La población residente de nutrias gigantes de río se convirtió en emblema de conservación - estos animales altamente sociales estaban casi extintos en Perú debido a la caza por su piel hasta que la protección permitió la recuperación. Hoy, varios grupos familiares prosperan en el lago, haciendo de Sandoval uno de los mejores lugares en Sudamérica para observar estos magníficos animales.',
+    highlights: [
+      'Giant river otter families',
+      'Canoe through flooded forest',
+      'Caiman spotting',
+      'Hoatzin prehistoric birds',
+      'Black spider monkeys',
+      'Stunning palm-fringed lake',
+      'Easy Amazon access'
+    ],
+    highlightsEs: [
+      'Familias de nutrias gigantes de río',
+      'Canoa a través del bosque inundado',
+      'Avistamiento de caimanes',
+      'Aves prehistóricas hoatzin',
+      'Monos araña negros',
+      'Impresionante lago bordeado de palmeras',
+      'Acceso fácil al Amazonas'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Half day to overnight',
+    durationEs: 'Medio día a pernocta',
+    difficulty: 'easy',
+    entranceFee: 'S/10 reserve fee plus tour costs',
+    entranceFeeEs: 'S/10 tarifa de reserva más costos de tour',
+    bestTime: 'Year-round. Dry season (May-October) lower water levels concentrate wildlife. Rainy season (November-April) allows deeper forest exploration.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) niveles de agua más bajos concentran fauna. Temporada de lluvias (noviembre-abril) permite exploración más profunda del bosque.',
+    tips: [
+      'Early morning best for otter sightings',
+      'Be quiet on canoes - otters are sensitive',
+      'Bring binoculars for birdwatching',
+      'Rubber boots needed for trail',
+      'Book with licensed operators only'
+    ],
+    tipsEs: [
+      'Temprano en la mañana mejor para avistamiento de nutrias',
+      'Guardar silencio en canoas - nutrias son sensibles',
+      'Trae binoculares para observación de aves',
+      'Botas de goma necesarias para el sendero',
+      'Reserva solo con operadores autorizados'
+    ],
+    nearbyAttractions: ['Tambopata Research Center', 'Monkey Island', 'Clay Licks', 'Chuncho Macaw Clay Lick'],
+    relatedSites: ['tambopata-reserve', 'manu-national-park', 'iquitos-amazon'],
+    gettingThere: 'From Puerto Maldonado: 30-minute boat ride plus 3km forest trail walk to lake. All visits require licensed guide.',
+    gettingThereEs: 'Desde Puerto Maldonado: 30 minutos en bote más caminata de 3km por sendero del bosque al lago. Todas las visitas requieren guía autorizado.',
+    facilities: [
+      'Basic observation tower at lake',
+      'Trail with boardwalks in wet areas',
+      'Canoes provided by tour operators',
+      'Rustic lodge option nearby',
+      'No facilities at lake itself',
+      'Full services in Puerto Maldonado'
+    ],
+    facilitiesEs: [
+      'Torre de observación básica en el lago',
+      'Sendero con pasarelas en áreas húmedas',
+      'Canoas proporcionadas por operadores de tours',
+      'Opción de lodge rústico cercano',
+      'Sin instalaciones en el lago mismo',
+      'Servicios completos en Puerto Maldonado'
+    ]
   }
 ];
 

@@ -12177,6 +12177,364 @@ export const activities: Activity[] = [
       { name: 'Punta Sal Suites & Bungalows', familyFriendly: true },
       { name: 'Hotel Caballito de Mar', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'leymebamba-mummies-tour',
+    name: 'Leymebamba Mummies Museum Tour',
+    nameEs: 'Tour al Museo de Momias de Leymebamba',
+    type: 'cultural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Journey deep into the cloud forest to discover one of Peru\'s most remarkable archaeological treasures - over 200 Chachapoya mummies preserved for 500 years in cliff tombs above the remote Laguna de los Cóndores. The Leymebamba Museum (Museo Mallqui) houses these extraordinary finds in a modern facility that brings children face-to-face with the ancient "Warriors of the Clouds" civilization.',
+    descriptionEs: 'Viaja profundo en el bosque nublado para descubrir uno de los tesoros arqueológicos más notables de Perú - más de 200 momias Chachapoya preservadas por 500 años en tumbas en acantilados sobre la remota Laguna de los Cóndores. El Museo Leymebamba (Museo Mallqui) alberga estos extraordinarios hallazgos en una instalación moderna que acerca a los niños a la antigua civilización de los "Guerreros de las Nubes".',
+    whatToExpect: 'Depart Chachapoyas on a scenic three-hour drive through cloud forest valleys and traditional villages. Arrive at the modern museum built specifically to house the remarkable Laguna de los Cóndores finds. Your guide explains the dramatic 1997 discovery when farmers found untouched cliff tombs containing over 200 mummy bundles wrapped in intricate textiles. View the mummies in climate-controlled galleries - many still wrapped in colorful fabrics with wooden face masks. See the collection of quipus (knotted record-keeping cords), ceramics, and offerings that accompanied the dead. Children are fascinated by the wooden face markers and the stories of how the Chachapoya prepared their dead for the afterlife. Explore the botanical gardens featuring cloud forest orchids and local plants. Enjoy lunch in the charming village of Leymebamba before returning. Optional extension to visit nearby colonial churches or traditional weaving workshops.',
+    whatToExpectEs: 'Parte de Chachapoyas en un viaje escénico de tres horas a través de valles de bosque nublado y pueblos tradicionales. Llega al moderno museo construido específicamente para albergar los notables hallazgos de Laguna de los Cóndores. Tu guía explica el dramático descubrimiento de 1997 cuando agricultores encontraron tumbas en acantilados intactas conteniendo más de 200 fardos de momias envueltos en textiles intrincados. Ve las momias en galerías con clima controlado - muchas aún envueltas en telas coloridas con máscaras faciales de madera. Ve la colección de quipus (cuerdas con nudos para registros), cerámicas y ofrendas que acompañaban a los muertos. Los niños se fascinan con los marcadores faciales de madera y las historias de cómo los Chachapoya preparaban a sus muertos para la otra vida. Explora los jardines botánicos con orquídeas del bosque nublado y plantas locales. Disfruta almuerzo en el encantador pueblo de Leymebamba antes de regresar. Extensión opcional para visitar iglesias coloniales cercanas o talleres de tejido tradicional.',
+    highlights: [
+      'Over 200 preserved Chachapoya mummies',
+      'Quipus and textile collection',
+      'Modern climate-controlled museum',
+      'Wooden mummy face masks',
+      'Cloud forest botanical gardens',
+      'Scenic valley drive',
+      'Traditional village visit'
+    ],
+    highlightsEs: [
+      'Más de 200 momias Chachapoya preservadas',
+      'Colección de quipus y textiles',
+      'Museo moderno con clima controlado',
+      'Máscaras faciales de madera de momias',
+      'Jardines botánicos del bosque nublado',
+      'Viaje escénico por el valle',
+      'Visita a pueblo tradicional'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'easy',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'Year-round. May-September drier but accessible all year. Mornings best for photography.',
+    bestTimeEs: 'Todo el año. Mayo-septiembre más seco pero accesible todo el año. Mañanas mejor para fotografía.',
+    includes: [
+      'Transportation from Chachapoyas',
+      'Professional bilingual guide',
+      'Museum entrance fees',
+      'Botanical garden access',
+      'Lunch in Leymebamba'
+    ],
+    includesEs: [
+      'Transporte desde Chachapoyas',
+      'Guía profesional bilingüe',
+      'Entradas al museo',
+      'Acceso a jardines botánicos',
+      'Almuerzo en Leymebamba'
+    ],
+    tips: [
+      'Combine with Kuelap visit for full Chachapoya experience',
+      'Photography allowed without flash',
+      'Prepare children for seeing mummies',
+      'Bring layers - cloud forest can be cool',
+      'Village market has local crafts'
+    ],
+    tipsEs: [
+      'Combina con visita a Kuelap para experiencia Chachapoya completa',
+      'Fotografía permitida sin flash',
+      'Prepara a los niños para ver momias',
+      'Trae capas - bosque nublado puede ser fresco',
+      'Mercado del pueblo tiene artesanías locales'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,200m) - minimal impact',
+      'Well-paved road journey',
+      'Modern safe museum facilities',
+      'Some content may be intense for young children',
+      'Easy walking throughout'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,200m) - impacto mínimo',
+      'Viaje por carretera bien pavimentada',
+      'Instalaciones de museo modernas y seguras',
+      'Algún contenido puede ser intenso para niños pequeños',
+      'Caminata fácil en todo el recorrido'
+    ],
+    relatedActivities: ['kuelap-fortress-tour', 'gocta-waterfall-hike', 'karajia-sarcophagi-tour'],
+    providers: [
+      { name: 'Turismo Explorer Chachapoyas', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Chachapoyas Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huayhuash-viewpoint-trek',
+    name: 'Cordillera Huayhuash Viewpoint Day Trek',
+    nameEs: 'Trekking de Día a Miradores de la Cordillera Huayhuash',
+    type: 'adventure',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Ancash',
+    description: 'Experience one of the world\'s most dramatic mountain ranges on this accessible day trek to viewpoints overlooking the Cordillera Huayhuash. While the famous multi-week circuit is for seasoned adventurers, families can witness the jaw-dropping beauty of Peru\'s second-highest peak, Yerupajá (6,634m), and a parade of glaciated giants on this day excursion. Traditional Quechua communities, alpine lakes, and vicuñas complete an unforgettable Andean experience.',
+    descriptionEs: 'Experimenta una de las cadenas montañosas más dramáticas del mundo en este trekking de día accesible a miradores con vista a la Cordillera Huayhuash. Mientras el famoso circuito de varias semanas es para aventureros experimentados, las familias pueden presenciar la impresionante belleza del segundo pico más alto de Perú, Yerupajá (6,634m), y un desfile de gigantes glaciados en esta excursión de día. Comunidades Quechua tradicionales, lagos alpinos y vicuñas completan una experiencia andina inolvidable.',
+    whatToExpect: 'Depart Huaraz before dawn for the 4-5 hour drive through the Cordillera Negra, crossing high passes with stunning views of the Cordillera Blanca behind you. Enter traditional Quechua villages where life has changed little in centuries - adobe homes, grazing llamas, and farmers in traditional dress. Arrive at the trailhead and begin a moderate 2-3 hour hike to viewpoints overlooking Yerupajá and the Huayhuash range. The jagged ice peaks rise like shark teeth from turquoise lakes below. Enjoy a packed lunch at the viewpoint with time for photography. Watch for vicuñas grazing on the high puna grasslands and Andean condors riding thermal currents. Descend and visit a local community for hot drinks before the return journey. Optional upgrades include overnight camping at Carhuacocha Lake or multi-day treks for experienced families.',
+    whatToExpectEs: 'Parte de Huaraz antes del amanecer para el viaje de 4-5 horas a través de la Cordillera Negra, cruzando pasos altos con vistas impresionantes de la Cordillera Blanca detrás de ti. Entra en pueblos Quechua tradicionales donde la vida ha cambiado poco en siglos - casas de adobe, llamas pastando y agricultores en vestimenta tradicional. Llega al inicio del sendero y comienza una caminata moderada de 2-3 horas a miradores con vista a Yerupajá y la cordillera Huayhuash. Los picos de hielo irregulares se elevan como dientes de tiburón desde lagos turquesa abajo. Disfruta un almuerzo empacado en el mirador con tiempo para fotografía. Observa vicuñas pastando en los pastizales de puna alta y cóndores andinos cabalgando corrientes térmicas. Desciende y visita una comunidad local para bebidas calientes antes del viaje de regreso. Mejoras opcionales incluyen camping nocturno en Lago Carhuacocha o trekkings de varios días para familias experimentadas.',
+    highlights: [
+      'Views of Yerupajá - Peru\'s second-highest peak',
+      'Jagged ice peaks rising from turquoise lakes',
+      'Traditional Quechua village visits',
+      'Vicuña wildlife viewing',
+      'Possible condor sightings',
+      'High-altitude puna landscapes',
+      'Less crowded than Cordillera Blanca'
+    ],
+    highlightsEs: [
+      'Vistas de Yerupajá - segundo pico más alto de Perú',
+      'Picos de hielo irregulares elevándose de lagos turquesa',
+      'Visitas a pueblos Quechua tradicionales',
+      'Observación de fauna vicuñas',
+      'Posibles avistamientos de cóndores',
+      'Paisajes de puna de alta altitud',
+      'Menos concurrido que Cordillera Blanca'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (12-14 hours)',
+    durationEs: 'Día completo (12-14 horas)',
+    difficulty: 'challenging',
+    priceRange: '$80-150 per person',
+    priceRangeEs: '$80-150 por persona',
+    bestTime: 'May-September dry season only. June-August optimal. Closed during rainy season.',
+    bestTimeEs: 'Solo temporada seca mayo-septiembre. Junio-agosto óptimo. Cerrado durante temporada de lluvias.',
+    includes: [
+      '4x4 transportation from Huaraz',
+      'Professional mountain guide',
+      'Community entrance fees',
+      'Packed lunch and snacks',
+      'Emergency oxygen',
+      'Binoculars for wildlife'
+    ],
+    includesEs: [
+      'Transporte 4x4 desde Huaraz',
+      'Guía de montaña profesional',
+      'Tarifas de entrada comunitarias',
+      'Almuerzo empacado y snacks',
+      'Oxígeno de emergencia',
+      'Binoculares para fauna'
+    ],
+    tips: [
+      'Must acclimatize 3-4 days in Huaraz first',
+      'Trek reaches 4,500m+ - altitude is serious',
+      'Start very early to return before dark',
+      'Bring warm windproof layers',
+      'Not suitable for children under 10'
+    ],
+    tipsEs: [
+      'Debe aclimatarse 3-4 días en Huaraz primero',
+      'Trekking alcanza 4,500m+ - altitud es seria',
+      'Empezar muy temprano para regresar antes del anochecer',
+      'Trae capas abrigadas y cortaviento',
+      'No apto para niños menores de 10'
+    ],
+    safetyNotes: [
+      'Very high altitude (4,500m+) - proper acclimatization essential',
+      'Remote area - satellite phone with guide',
+      'Weather can change rapidly',
+      'Emergency evacuation challenging',
+      'Physical fitness required'
+    ],
+    safetyNotesEs: [
+      'Altitud muy alta (4,500m+) - aclimatación adecuada esencial',
+      'Área remota - teléfono satelital con guía',
+      'Clima puede cambiar rápidamente',
+      'Evacuación de emergencia desafiante',
+      'Condición física requerida'
+    ],
+    relatedActivities: ['laguna-69-trek', 'pastoruri-glacier-tour', 'santa-cruz-trek'],
+    providers: [
+      { name: 'Huascarán Adventures', familyFriendly: true },
+      { name: 'Peruvian Andes Adventures', familyFriendly: true },
+      { name: 'Quechuandes', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'marcahuasi-stone-adventure',
+    name: 'Marcahuasi Stone Forest Overnight Adventure',
+    nameEs: 'Aventura Nocturna al Bosque de Piedras de Marcahuasi',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Escape Lima for an otherworldly adventure at Marcahuasi, a mysterious high-altitude plateau famous for its bizarre rock formations resembling human faces, animals, and monuments. Whether ancient sculptures or natural erosion, these enigmatic stones have captivated explorers for decades. Camping under brilliant stars at 4,000 meters, families discover a hidden world just hours from the capital.',
+    descriptionEs: 'Escapa de Lima para una aventura de otro mundo en Marcahuasi, una misteriosa meseta de alta altitud famosa por sus bizarras formaciones rocosas que se asemejan a rostros humanos, animales y monumentos. Ya sean esculturas antiguas o erosión natural, estas piedras enigmáticas han cautivado a exploradores por décadas. Acampando bajo estrellas brillantes a 4,000 metros, las familias descubren un mundo escondido a solo horas de la capital.',
+    whatToExpect: 'Depart Lima early morning, driving through the Santa Eulalia Valley as it climbs from coastal desert into green irrigated farmland. Stop in Chosica for breakfast before continuing to San Pedro de Casta, a traditional highland village at 3,200 meters. Meet your local guide and begin the 3-hour hike (or mule ride for children) up to the 4,000-meter plateau. As you climb, the landscape transforms from eucalyptus groves to high-altitude grassland. Arrive at the plateau and set up camp near the famous formations. Spend the afternoon exploring - find the "Monument to Humanity," the "Face," and dozens of other formations. Some appear clearly human-made; others could be nature\'s sculptures. Evening brings spectacular sunset colors over the Andes and one of Peru\'s best stargazing experiences - no light pollution here. Share stories around the campfire before sleeping under brilliant southern stars. Wake for sunrise illuminating the formations before hiking down for breakfast in the village.',
+    whatToExpectEs: 'Parte de Lima temprano en la mañana, conduciendo a través del Valle de Santa Eulalia mientras asciende del desierto costero a tierras de cultivo verdes irrigadas. Para en Chosica para desayunar antes de continuar a San Pedro de Casta, un pueblo tradicional de tierras altas a 3,200 metros. Conoce a tu guía local y comienza la caminata de 3 horas (o paseo en mula para niños) hasta la meseta de 4,000 metros. Mientras subes, el paisaje se transforma de bosques de eucalipto a pastizales de alta altitud. Llega a la meseta y arma el campamento cerca de las famosas formaciones. Pasa la tarde explorando - encuentra el "Monumento a la Humanidad," la "Cara," y docenas de otras formaciones. Algunas parecen claramente hechas por humanos; otras podrían ser esculturas de la naturaleza. La tarde trae espectaculares colores de atardecer sobre los Andes y una de las mejores experiencias de observación de estrellas de Perú - sin contaminación lumínica aquí. Comparte historias alrededor de la fogata antes de dormir bajo brillantes estrellas del sur. Despierta para el amanecer iluminando las formaciones antes de bajar caminando para desayunar en el pueblo.',
+    highlights: [
+      'Mysterious face-shaped rock formations',
+      'Monument to Humanity and other famous stones',
+      'Incredible stargazing at 4,000m',
+      'Camping adventure experience',
+      'Traditional highland village visit',
+      'Mule ride option for children',
+      '360-degree Andean panoramas'
+    ],
+    highlightsEs: [
+      'Misteriosas formaciones rocosas con forma de rostros',
+      'Monumento a la Humanidad y otras piedras famosas',
+      'Increíble observación de estrellas a 4,000m',
+      'Experiencia de aventura de camping',
+      'Visita a pueblo tradicional de tierras altas',
+      'Opción de paseo en mula para niños',
+      'Panoramas andinos de 360 grados'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2 days / 1 night',
+    durationEs: '2 días / 1 noche',
+    difficulty: 'moderate',
+    priceRange: '$100-180 per person',
+    priceRangeEs: '$100-180 por persona',
+    bestTime: 'April-November dry season. Full moon weekends spectacular. Avoid rainy season.',
+    bestTimeEs: 'Temporada seca abril-noviembre. Fines de semana de luna llena espectaculares. Evitar temporada de lluvias.',
+    includes: [
+      'Transportation from Lima',
+      'Local guide from San Pedro de Casta',
+      'Camping equipment (tents, sleeping bags)',
+      'All meals',
+      'Mule transport option',
+      'Flashlights and emergency gear'
+    ],
+    includesEs: [
+      'Transporte desde Lima',
+      'Guía local de San Pedro de Casta',
+      'Equipo de camping (carpas, bolsas de dormir)',
+      'Todas las comidas',
+      'Opción de transporte en mula',
+      'Linternas y equipo de emergencia'
+    ],
+    tips: [
+      'Full moon nights reveal hidden formations',
+      'Bring very warm clothes - freezing at night',
+      'Pack snacks and water from Lima',
+      'Mules available for children or those preferring not to hike',
+      'Stargazing app enhances night experience'
+    ],
+    tipsEs: [
+      'Noches de luna llena revelan formaciones escondidas',
+      'Trae ropa muy abrigada - helado en la noche',
+      'Empaca snacks y agua desde Lima',
+      'Mulas disponibles para niños o quienes prefieran no caminar',
+      'App de observación de estrellas mejora experiencia nocturna'
+    ],
+    safetyNotes: [
+      'High altitude (4,000m) - acclimatize if sensitive',
+      'Freezing temperatures at night',
+      'Rough terrain - sturdy footwear essential',
+      'No phone signal on plateau',
+      'Guides carry emergency equipment'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (4,000m) - aclimatarse si es sensible',
+      'Temperaturas bajo cero en la noche',
+      'Terreno accidentado - calzado resistente esencial',
+      'Sin señal de teléfono en la meseta',
+      'Guías llevan equipo de emergencia'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-food-tour', 'caral-archaeology-tour'],
+    providers: [
+      { name: 'Marcahuasi Tours', familyFriendly: true },
+      { name: 'Peru Mystical', familyFriendly: true },
+      { name: 'Andean Summits', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lago-sandoval-otter-expedition',
+    name: 'Lake Sandoval Giant Otter Expedition',
+    nameEs: 'Expedición de Nutrias Gigantes en Lago Sandoval',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Paddle into a pristine Amazon oxbow lake to encounter one of the world\'s most endangered and charismatic animals - the giant river otter. Lake Sandoval\'s resident otter families have made this the premier destination in Peru to observe these remarkable social hunters fishing, playing, and communicating with their distinctive whistles. Caimans, hoatzins, and monkeys complete this accessible Amazon adventure.',
+    descriptionEs: 'Rema hacia un prístino lago de meandro amazónico para encontrar uno de los animales más amenazados y carismáticos del mundo - la nutria gigante de río. Las familias de nutrias residentes de Lago Sandoval han hecho de este el destino premier en Perú para observar estos notables cazadores sociales pescando, jugando y comunicándose con sus distintivos silbidos. Caimanes, hoatzines y monos completan esta aventura amazónica accesible.',
+    whatToExpect: 'Depart Puerto Maldonado by boat at dawn when wildlife is most active. Cruise along the Madre de Dios River watching for macaws, kingfishers, and capybaras on the banks. Disembark and walk 3 kilometers through flooded palm forest on a boardwalk trail - your guide points out poison dart frogs, tarantulas, and medicinal plants. Reach Lake Sandoval\'s edge and board canoes, paddling silently into this mirror-calm oxbow lake surrounded by towering palms. Listen for the distinctive whistles and chirps of giant river otters - families of up to 15 individuals hunt together, coordinating their fishing with complex vocalizations. Watch these 1.8-meter social hunters chase fish, play-fight with siblings, and rest on fallen logs grooming each other. Your guide helps identify hoatzins (prehistoric-looking birds), caimans basking on logs, and troops of squirrel monkeys in the canopy. Paddle to the observation tower for panoramic lake views. Return before the afternoon heat, stopping at the forest trail to search for more wildlife.',
+    whatToExpectEs: 'Parte de Puerto Maldonado en bote al amanecer cuando la fauna está más activa. Navega por el Río Madre de Dios observando guacamayos, martín pescadores y capibaras en las orillas. Desembarca y camina 3 kilómetros a través del bosque inundado de palmeras en un sendero con pasarelas - tu guía señala ranas dardo venenosas, tarántulas y plantas medicinales. Llega al borde de Lago Sandoval y aborda canoas, remando silenciosamente hacia este lago de meandro de aguas calmas como espejo rodeado de palmeras imponentes. Escucha los distintivos silbidos y chirridos de nutrias gigantes de río - familias de hasta 15 individuos cazan juntos, coordinando su pesca con vocalizaciones complejas. Observa estos cazadores sociales de 1.8 metros persiguiendo peces, peleando juguetonamente con hermanos y descansando en troncos caídos acicalándose mutuamente. Tu guía ayuda a identificar hoatzines (aves de aspecto prehistórico), caimanes tomando sol en troncos y tropas de monos ardilla en el dosel. Rema a la torre de observación para vistas panorámicas del lago. Regresa antes del calor de la tarde, parando en el sendero del bosque para buscar más fauna.',
+    highlights: [
+      'Giant river otter family encounters',
+      'Paddle canoes through oxbow lake',
+      'Prehistoric hoatzin birds',
+      'Caiman spotting',
+      'Flooded forest boardwalk trail',
+      'Observation tower panoramas',
+      'Most accessible Amazon experience'
+    ],
+    highlightsEs: [
+      'Encuentros con familias de nutrias gigantes de río',
+      'Remar canoas por lago de meandro',
+      'Aves prehistóricas hoatzin',
+      'Avistamiento de caimanes',
+      'Sendero con pasarelas por bosque inundado',
+      'Panoramas desde torre de observación',
+      'Experiencia amazónica más accesible'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Half day (5-6 hours)',
+    durationEs: 'Medio día (5-6 horas)',
+    difficulty: 'easy',
+    priceRange: '$50-90 per person',
+    priceRangeEs: '$50-90 por persona',
+    bestTime: 'Year-round. Dry season (May-October) concentrates wildlife. Early morning departures essential.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) concentra fauna. Salidas temprano en la mañana esenciales.',
+    includes: [
+      'Boat transportation to lake access',
+      'Professional naturalist guide',
+      'Canoe paddling on lake',
+      'Reserve entrance fees',
+      'Rubber boots for trail',
+      'Binoculars'
+    ],
+    includesEs: [
+      'Transporte en bote al acceso del lago',
+      'Guía naturalista profesional',
+      'Remo en canoa por el lago',
+      'Entradas a la reserva',
+      'Botas de goma para el sendero',
+      'Binoculares'
+    ],
+    tips: [
+      'Dawn departure crucial for otter activity',
+      'Be quiet on canoes - otters are sensitive',
+      'Telephoto lens or binoculars essential',
+      'Dry season has more concentrated sightings',
+      'Combine with overnight lodge for multiple visits'
+    ],
+    tipsEs: [
+      'Partida al amanecer crucial para actividad de nutrias',
+      'Guardar silencio en canoas - nutrias son sensibles',
+      'Lente telefoto o binoculares esenciales',
+      'Temporada seca tiene avistamientos más concentrados',
+      'Combina con lodge nocturno para múltiples visitas'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Stable canoes suitable for families',
+      'Boardwalk trail prevents falls',
+      'Guide carries first aid kit',
+      'Life jackets provided for children'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Canoas estables aptas para familias',
+      'Sendero con pasarelas previene caídas',
+      'Guía lleva botiquín de primeros auxilios',
+      'Chalecos salvavidas proporcionados para niños'
+    ],
+    relatedActivities: ['tambopata-amazon-adventure', 'amazon-canopy-walk', 'macaw-clay-lick-tour'],
+    providers: [
+      { name: 'Rainforest Expeditions', familyFriendly: true },
+      { name: 'Wasai Lodge', familyFriendly: true },
+      { name: 'Corto Maltes Amazonia', familyFriendly: true }
+    ]
   }
 ];
 
