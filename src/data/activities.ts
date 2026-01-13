@@ -17243,6 +17243,396 @@ export const activities: Activity[] = [
       { name: 'Cusco Adventure Tours', familyFriendly: true },
       { name: 'Acomayo Local Guides', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'sillustani-tour',
+    name: 'Sillustani Funerary Towers & Lake Umayo Tour',
+    nameEs: 'Tour Torres Funerarias de Sillustani y Lago Umayo',
+    type: 'educational',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Explore the mysterious pre-Inca burial towers of Sillustani, standing dramatically on a peninsula overlooking Lake Umayo. This educational tour reveals the fascinating burial practices of the Colla people, the engineering marvel of towers wider at the top than base, and the stunning highland lake landscape perfect for photography and birdwatching.',
+    descriptionEs: 'Explora las misteriosas torres funerarias preincas de Sillustani, posadas dramáticamente en una península con vista al Lago Umayo. Este tour educativo revela las fascinantes prácticas funerarias del pueblo Colla, la maravilla de ingeniería de torres más anchas arriba que en la base, y el impresionante paisaje del lago de tierras altas perfecto para fotografía y avistamiento de aves.',
+    whatToExpect: 'Depart Puno in the afternoon for the scenic 30-minute drive through the altiplano to Sillustani. Your guide explains the Colla civilization and their unique burial customs as you approach the site. Walk among the chullpas (funerary towers) learning how nobility were mummified and placed inside with offerings for the afterlife. The tallest towers reach 12 meters and demonstrate sophisticated engineering. Explore the site museum before enjoying the golden sunset light over Lake Umayo. Watch for Andean birds including flamingos that sometimes gather on the lake. Return to Puno by evening.',
+    whatToExpectEs: 'Parte de Puno en la tarde para el viaje escénico de 30 minutos a través del altiplano hasta Sillustani. Tu guía explica la civilización Colla y sus únicas costumbres funerarias mientras te acercas al sitio. Camina entre las chullpas (torres funerarias) aprendiendo cómo la nobleza era momificada y colocada adentro con ofrendas para la otra vida. Las torres más altas alcanzan 12 metros y demuestran ingeniería sofisticada. Explora el museo del sitio antes de disfrutar la luz dorada del atardecer sobre el Lago Umayo. Observa aves andinas incluyendo flamencos que a veces se reúnen en el lago. Regresa a Puno por la noche.',
+    highlights: [
+      'Pre-Inca funerary towers up to 12m high',
+      'Ancient burial practices explained',
+      'Lake Umayo panoramic views',
+      'Sunset golden hour photography',
+      'Andean birdwatching opportunities',
+      'Site museum visit',
+      'Colla civilization history',
+      'Easy family-friendly walking'
+    ],
+    highlightsEs: [
+      'Torres funerarias preincas hasta 12m de alto',
+      'Prácticas funerarias antiguas explicadas',
+      'Vistas panorámicas del Lago Umayo',
+      'Fotografía de hora dorada al atardecer',
+      'Oportunidades de avistamiento de aves andinas',
+      'Visita al museo del sitio',
+      'Historia de la civilización Colla',
+      'Caminata fácil apta para familias'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$20-35 per person including transport, guide, and entrance fees',
+    priceRangeEs: '$20-35 por persona incluyendo transporte, guía, y entradas',
+    bestTime: 'Year-round. Afternoon tours for golden sunset light. Clear days for best lake views.',
+    bestTimeEs: 'Todo el año. Tours de tarde para luz dorada del atardecer. Días claros para mejores vistas del lago.',
+    includes: [
+      'Hotel pickup and drop-off in Puno',
+      'Transportation',
+      'Professional bilingual guide',
+      'Site entrance fees',
+      'Museum visit'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel en Puno',
+      'Transporte',
+      'Guía profesional bilingüe',
+      'Entradas al sitio',
+      'Visita al museo'
+    ],
+    tips: [
+      'Great half-day activity from Puno',
+      'Afternoon light best for photos',
+      'Bring warm layers - wind off lake',
+      'Flat terrain easy for kids',
+      'Less crowded than Lake Titicaca islands',
+      'Combine with Puno city tour',
+      'Binoculars useful for bird watching',
+      'Ask about mummy burial practices'
+    ],
+    tipsEs: [
+      'Gran actividad de medio día desde Puno',
+      'Luz de tarde mejor para fotos',
+      'Trae capas abrigadas - viento del lago',
+      'Terreno plano fácil para niños',
+      'Menos concurrido que islas del Titicaca',
+      'Combina con tour de ciudad de Puno',
+      'Binoculares útiles para ver aves',
+      'Pregunta sobre prácticas funerarias de momias'
+    ],
+    safetyNotes: [
+      'Altitude 3,840m - stay hydrated',
+      'Walking paths are flat and safe',
+      'Wind can be strong - dress warmly',
+      'Stay on marked paths',
+      'Supervise children near towers'
+    ],
+    safetyNotesEs: [
+      'Altitud 3,840m - mantente hidratado',
+      'Senderos peatonales son planos y seguros',
+      'Viento puede ser fuerte - vístete abrigado',
+      'Permanece en senderos marcados',
+      'Supervisa niños cerca de torres'
+    ],
+    relatedActivities: ['uros-islands-tour', 'taquile-island-tour', 'lake-titicaca-cruise'],
+    providers: [
+      { name: 'Puno Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'uros-islands-tour',
+    name: 'Uros Floating Islands Family Adventure',
+    nameEs: 'Aventura Familiar a Islas Flotantes de los Uros',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Step onto islands made entirely of floating reeds on this magical family excursion to the Uros Islands of Lake Titicaca. Children are amazed to learn that the houses, boats, and even the ground beneath their feet are all constructed from golden totora reeds by people who have lived this unique way for centuries on the world highest navigable lake.',
+    descriptionEs: 'Pisa islas hechas enteramente de juncos flotantes en esta mágica excursión familiar a las Islas Uros del Lago Titicaca. Los niños quedan asombrados al aprender que las casas, botes, e incluso el suelo bajo sus pies están todos construidos de juncos totora dorados por personas que han vivido de esta manera única por siglos en el lago navegable más alto del mundo.',
+    whatToExpect: 'Depart from Puno harbor by motorboat for the 30-minute cruise across Lake Titicaca, the highest navigable lake in the world at 3,812m. Arrive at one of over 60 floating islands, feeling the springy reed surface beneath your feet. Uros families in traditional dress demonstrate how they build and maintain their islands, adding fresh reeds as the lower layers decompose. Kids can try their hand at working with reeds. Take a ride on a traditional reed boat (balsa) shaped like a mythical puma or serpent. Browse handmade crafts created by the families. Return to Puno by midday.',
+    whatToExpectEs: 'Parte del puerto de Puno en lancha para el crucero de 30 minutos a través del Lago Titicaca, el lago navegable más alto del mundo a 3,812m. Llega a una de más de 60 islas flotantes, sintiendo la superficie esponjosa de juncos bajo tus pies. Familias Uros en vestimenta tradicional demuestran cómo construyen y mantienen sus islas, añadiendo juncos frescos mientras las capas inferiores se descomponen. Los niños pueden probar trabajar con juncos. Toma un paseo en un bote de junco tradicional (balsa) con forma de puma o serpiente mítica. Explora artesanías hechas a mano creadas por las familias. Regresa a Puno al mediodía.',
+    highlights: [
+      'Walk on floating reed islands',
+      'Traditional reed boat ride',
+      'Meet Uros families',
+      'Learn island construction',
+      'Purchase handmade crafts',
+      'Lake Titicaca boat cruise',
+      'Unique cultural experience',
+      'Perfect for all ages'
+    ],
+    highlightsEs: [
+      'Camina sobre islas de juncos flotantes',
+      'Paseo en bote de junco tradicional',
+      'Conoce familias Uros',
+      'Aprende construcción de islas',
+      'Compra artesanías hechas a mano',
+      'Crucero en bote por Lago Titicaca',
+      'Experiencia cultural única',
+      'Perfecto para todas las edades'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$20-35 per person including boat transport, guide, and island entrance',
+    priceRangeEs: '$20-35 por persona incluyendo transporte en bote, guía, y entrada a islas',
+    bestTime: 'Year-round. Morning for calmer lake conditions. Dry season (May-October) for best weather.',
+    bestTimeEs: 'Todo el año. Mañana para condiciones del lago más calmadas. Temporada seca (mayo-octubre) para mejor clima.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Motorboat transport',
+      'Bilingual guide',
+      'Island entrance fees',
+      'Reed boat ride',
+      'Cultural demonstration'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte en lancha',
+      'Guía bilingüe',
+      'Entradas a islas',
+      'Paseo en bote de junco',
+      'Demostración cultural'
+    ],
+    tips: [
+      'Kids love the spongy reed ground',
+      'Bring small bills for craft purchases',
+      'Support families by buying crafts',
+      'Ask before photographing',
+      'Dress warmly for lake wind',
+      'Combine with Taquile for full day',
+      'Morning tours have calmer waters',
+      'Motion sickness rare but possible'
+    ],
+    tipsEs: [
+      'Niños aman el suelo esponjoso de juncos',
+      'Trae billetes pequeños para comprar artesanías',
+      'Apoya familias comprando artesanías',
+      'Pregunta antes de fotografiar',
+      'Vístete abrigado por viento del lago',
+      'Combina con Taquile para día completo',
+      'Tours de mañana tienen aguas más calmadas',
+      'Mareo raro pero posible'
+    ],
+    safetyNotes: [
+      'Life jackets provided on boats',
+      'Islands are stable - safe for all ages',
+      'Watch children near water edges',
+      'Altitude 3,812m - stay hydrated',
+      'Sun protection essential on lake'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas proporcionados en botes',
+      'Islas son estables - seguras para todas las edades',
+      'Vigila niños cerca de bordes del agua',
+      'Altitud 3,812m - mantente hidratado',
+      'Protección solar esencial en el lago'
+    ],
+    relatedActivities: ['taquile-island-tour', 'sillustani-tour', 'lake-titicaca-cruise'],
+    providers: [
+      { name: 'Puno Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Titicaca Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'taquile-island-tour',
+    name: 'Taquile Island Cultural Immersion',
+    nameEs: 'Inmersión Cultural en Isla Taquile',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Experience authentic Andean island culture on Taquile, where UNESCO-recognized textile traditions have been preserved for generations. This immersive day trip takes you beyond the tourist trail to a community where men knit intricate caps signifying marital status and women weave elaborate textiles using techniques unchanged since pre-Inca times.',
+    descriptionEs: 'Experimenta cultura de isla andina auténtica en Taquile, donde tradiciones textiles reconocidas por UNESCO han sido preservadas por generaciones. Este viaje de día inmersivo te lleva más allá del camino turístico a una comunidad donde hombres tejen intrincados gorros significando estado civil y mujeres tejen elaborados textiles usando técnicas sin cambios desde tiempos preincas.',
+    whatToExpect: 'Begin with a 2.5-hour scenic boat ride across Lake Titicaca to Taquile Island. Disembark at the port and climb the 533 stone steps (take it slow at altitude) to the main plaza. Watch islanders weaving and knitting - remarkably, all men on Taquile learn to knit as children. Visit the community textile cooperative to learn the symbolic meanings behind the vibrant patterns. Enjoy a traditional lunch prepared by local families featuring fresh lake trout. Free time to explore the pre-Inca terraces and enjoy panoramic lake views before returning to Puno by late afternoon.',
+    whatToExpectEs: 'Comienza con un viaje escénico en bote de 2.5 horas a través del Lago Titicaca hasta la Isla Taquile. Desembarca en el puerto y sube los 533 escalones de piedra (hazlo despacio por la altitud) hasta la plaza principal. Observa isleños tejiendo - notablemente, todos los hombres en Taquile aprenden a tejer de niños. Visita la cooperativa textil comunitaria para aprender los significados simbólicos detrás de los vibrantes patrones. Disfruta un almuerzo tradicional preparado por familias locales con trucha fresca del lago. Tiempo libre para explorar las terrazas preincas y disfrutar vistas panorámicas del lago antes de regresar a Puno al final de la tarde.',
+    highlights: [
+      'UNESCO Intangible Cultural Heritage',
+      'Watch men knitting traditional caps',
+      'Traditional community lunch',
+      'Textile cooperative visit',
+      'Lake Titicaca scenic cruise',
+      'Pre-Inca terraces',
+      'Authentic Quechua community',
+      'Panoramic lake views'
+    ],
+    highlightsEs: [
+      'Patrimonio Cultural Inmaterial UNESCO',
+      'Observa hombres tejiendo gorros tradicionales',
+      'Almuerzo tradicional comunitario',
+      'Visita a cooperativa textil',
+      'Crucero escénico por Lago Titicaca',
+      'Terrazas preincas',
+      'Comunidad quechua auténtica',
+      'Vistas panorámicas del lago'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'moderate',
+    priceRange: '$30-50 per person including transport, guide, and lunch',
+    priceRangeEs: '$30-50 por persona incluyendo transporte, guía, y almuerzo',
+    bestTime: 'Year-round. Dry season (May-October) for calmest lake and best weather.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) para lago más calmado y mejor clima.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Round-trip boat transport',
+      'Bilingual guide',
+      'Traditional lunch',
+      'Textile demonstration',
+      'Island entrance fee'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte en bote ida y vuelta',
+      'Guía bilingüe',
+      'Almuerzo tradicional',
+      'Demostración textil',
+      'Entrada a la isla'
+    ],
+    tips: [
+      '533 steps - take them slowly at altitude',
+      'More authentic than Uros islands',
+      'Buy textiles directly from weavers',
+      'Learn the meaning of cap colors',
+      'Bring sun protection for boat ride',
+      'Overnight homestays available',
+      'Support community restaurants',
+      'Often combined with Uros visit'
+    ],
+    tipsEs: [
+      '533 escalones - hazlos despacio por altitud',
+      'Más auténtico que islas Uros',
+      'Compra textiles directamente de tejedores',
+      'Aprende el significado de colores de gorros',
+      'Trae protección solar para viaje en bote',
+      'Estadías en casas de familia disponibles',
+      'Apoya restaurantes comunitarios',
+      'A menudo combinado con visita a Uros'
+    ],
+    safetyNotes: [
+      'Take stairs slowly - altitude 3,950m',
+      'Stay hydrated throughout',
+      'Life jackets on boats',
+      'Sun protection essential',
+      'Allow time for rest breaks',
+      'Comfortable walking shoes needed'
+    ],
+    safetyNotesEs: [
+      'Sube escaleras despacio - altitud 3,950m',
+      'Mantente hidratado durante todo',
+      'Chalecos salvavidas en botes',
+      'Protección solar esencial',
+      'Permite tiempo para descansos',
+      'Zapatos cómodos para caminar necesarios'
+    ],
+    relatedActivities: ['uros-islands-tour', 'sillustani-tour', 'lake-titicaca-homestay'],
+    providers: [
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true },
+      { name: 'Titicaca Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'santa-catalina-monastery-tour',
+    name: 'Santa Catalina Monastery Night Tour',
+    nameEs: 'Tour Nocturno del Monasterio de Santa Catalina',
+    type: 'cultural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Discover the magical city-within-a-city of Santa Catalina Monastery by candlelight, when the vibrant terracotta and indigo blue streets glow with an otherworldly atmosphere. This enchanting evening tour transports families through 400 years of cloistered life in one of the most impressive colonial monuments in South America, perfect for older children who love mysteries and exploration.',
+    descriptionEs: 'Descubre la mágica ciudad dentro de una ciudad del Monasterio de Santa Catalina a la luz de las velas, cuando las vibrantes calles terracota y azul índigo brillan con una atmósfera de otro mundo. Este encantador tour nocturno transporta familias a través de 400 años de vida claustrada en uno de los monumentos coloniales más impresionantes de Sudamérica, perfecto para niños mayores que aman los misterios y la exploración.',
+    whatToExpect: 'Enter the monastery as darkness falls and candlelight illuminates the cobblestone streets. Your guide leads you through a maze of narrow lanes, past terracotta walls and indigo blue archways, telling stories of the cloistered nuns who lived here in complete isolation from 1579 until 1970. Visit the original kitchens with colonial-era equipment, the private cells of wealthy nuns, and peaceful courtyards with fountains. Learn about the strict routines, the dowries required, and the surprising luxuries some nuns enjoyed. The night lighting creates a mystical atmosphere perfect for photography and imagination.',
+    whatToExpectEs: 'Entra al monasterio mientras cae la oscuridad y la luz de velas ilumina las calles empedradas. Tu guía te lleva a través de un laberinto de callejones estrechos, pasando paredes terracota y arcos azul índigo, contando historias de las monjas enclaustradas que vivieron aquí en completo aislamiento desde 1579 hasta 1970. Visita las cocinas originales con equipo de la era colonial, las celdas privadas de monjas adineradas, y patios pacíficos con fuentes. Aprende sobre las rutinas estrictas, las dotes requeridas, y los sorprendentes lujos que algunas monjas disfrutaban. La iluminación nocturna crea una atmósfera mística perfecta para fotografía e imaginación.',
+    highlights: [
+      'Candlelit cobblestone streets',
+      'Vibrant colonial architecture',
+      'Original nun quarters',
+      'Historical stories and mysteries',
+      'Beautiful courtyard gardens',
+      'Colonial-era kitchens',
+      'Atmospheric night photography',
+      'City-within-a-city experience'
+    ],
+    highlightsEs: [
+      'Calles empedradas iluminadas con velas',
+      'Vibrante arquitectura colonial',
+      'Cuartos de monjas originales',
+      'Historias y misterios históricos',
+      'Hermosos jardines de patio',
+      'Cocinas de era colonial',
+      'Fotografía atmosférica nocturna',
+      'Experiencia de ciudad dentro de ciudad'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: 'S/50 per person including guide',
+    priceRangeEs: 'S/50 por persona incluyendo guía',
+    bestTime: 'Year-round. Night tours available Tuesday-Sunday. Clear evenings best.',
+    bestTimeEs: 'Todo el año. Tours nocturnos disponibles martes-domingo. Noches claras mejor.',
+    includes: [
+      'Night entrance to monastery',
+      'Professional guide',
+      'Candlelit tour experience',
+      'Access to all public areas',
+      'Historical commentary'
+    ],
+    includesEs: [
+      'Entrada nocturna al monasterio',
+      'Guía profesional',
+      'Experiencia de tour con velas',
+      'Acceso a todas las áreas públicas',
+      'Comentario histórico'
+    ],
+    tips: [
+      'Kids love the maze-like streets',
+      'Bring camera for night photography',
+      'Wear comfortable walking shoes',
+      'Cooler in evening - bring layer',
+      'Day tour also worthwhile',
+      'Cafe inside open for day visits',
+      'Allow 2 hours minimum',
+      'Walking is on cobblestones'
+    ],
+    tipsEs: [
+      'Niños aman las calles como laberinto',
+      'Trae cámara para fotografía nocturna',
+      'Usa zapatos cómodos para caminar',
+      'Más fresco de noche - trae capa',
+      'Tour de día también vale la pena',
+      'Café adentro abierto para visitas de día',
+      'Permite 2 horas mínimo',
+      'Caminata es sobre adoquines'
+    ],
+    safetyNotes: [
+      'Well-lit paths throughout',
+      'Cobblestones - wear appropriate shoes',
+      'Stay with guide group',
+      'Watch children on uneven surfaces',
+      'Safe indoor environment'
+    ],
+    safetyNotesEs: [
+      'Senderos bien iluminados en todo',
+      'Adoquines - usa zapatos apropiados',
+      'Permanece con grupo del guía',
+      'Vigila niños en superficies irregulares',
+      'Ambiente interior seguro'
+    ],
+    relatedActivities: ['arequipa-city-tour', 'colca-canyon-tour', 'arequipa-food-tour'],
+    providers: [
+      { name: 'Santa Catalina Monastery', familyFriendly: true },
+      { name: 'Arequipa Walking Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Arequipa', familyFriendly: true }
+    ]
   }
 ];
 
