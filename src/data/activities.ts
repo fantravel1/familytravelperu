@@ -14365,6 +14365,380 @@ export const activities: Activity[] = [
       { name: 'Cusco to Puno Tours', familyFriendly: true },
       { name: 'Andean Transit', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'taquile-island-full-day',
+    name: 'Taquile Island Cultural Immersion',
+    nameEs: 'Inmersión Cultural en Isla Taquile',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Lake Titicaca',
+    regionEs: 'Lago Titicaca',
+    description: 'Experience authentic Lake Titicaca culture on Taquile Island, where men knit and women weave UNESCO-recognized textiles, and ancient Quechua traditions remain alive. Unlike the touristy Uros, Taquile offers genuine cultural immersion with community-controlled tourism and stunning high-altitude scenery.',
+    descriptionEs: 'Experimenta la auténtica cultura del Lago Titicaca en la Isla Taquile, donde los hombres tejen con agujas y las mujeres hacen telar con textiles reconocidos por la UNESCO, y las antiguas tradiciones quechuas permanecen vivas. A diferencia de los turísticos Uros, Taquile ofrece inmersión cultural genuina con turismo controlado por la comunidad y impresionante paisaje de alta altitud.',
+    whatToExpect: 'Depart Puno by boat in the morning, stopping briefly at the Uros Floating Islands before the 3-hour journey across Lake Titicaca to Taquile. Upon arrival, climb the 530 stone steps from the dock to the village center - take this slowly at 3,950 meters altitude. At the top, the main plaza offers breathtaking 360-degree views of the lake and distant Bolivian peaks. Visit the textile cooperative where islanders demonstrate their UNESCO-recognized craft: men knit colorful caps (their design indicates marital status!) while women work intricate patterns on backstrap looms. Share a traditional lunch of fresh lake trout with a local family, learning about their sustainable, community-based lifestyle. Explore pre-Inca terraces and ruins, then descend to the dock for the return journey, arriving in Puno as the sun sets over the lake.',
+    whatToExpectEs: 'Sal de Puno en bote por la mañana, parando brevemente en las Islas Flotantes de los Uros antes del viaje de 3 horas a través del Lago Titicaca hasta Taquile. Al llegar, sube los 530 escalones de piedra desde el muelle hasta el centro del pueblo - hazlo lentamente a 3,950 metros de altitud. En la cima, la plaza principal ofrece impresionantes vistas de 360 grados del lago y picos bolivianos distantes. Visita la cooperativa textil donde los isleños demuestran su arte reconocido por la UNESCO: los hombres tejen gorros coloridos (¡su diseño indica estado civil!) mientras las mujeres trabajan patrones intrincados en telares de cintura. Comparte un almuerzo tradicional de trucha fresca del lago con una familia local, aprendiendo sobre su estilo de vida sostenible basado en la comunidad. Explora terrazas y ruinas pre-Incas, luego desciende al muelle para el viaje de regreso, llegando a Puno mientras el sol se pone sobre el lago.',
+    highlights: [
+      'UNESCO-recognized textile traditions',
+      'Men knit, women weave - unique culture',
+      'Traditional lunch with local family',
+      'Stunning Lake Titicaca panoramas',
+      'Community-controlled responsible tourism',
+      'Pre-Inca terraces and ruins',
+      'More authentic than Uros Islands'
+    ],
+    highlightsEs: [
+      'Tradiciones textiles reconocidas por la UNESCO',
+      'Hombres tejen, mujeres hacen telar - cultura única',
+      'Almuerzo tradicional con familia local',
+      'Impresionantes panoramas del Lago Titicaca',
+      'Turismo responsable controlado por la comunidad',
+      'Terrazas y ruinas pre-Incas',
+      'Más auténtico que las Islas de los Uros'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-70 USD per person',
+    priceRangeEs: '$40-70 USD por persona',
+    bestTime: 'Year-round, dry season May-October',
+    bestTimeEs: 'Todo el año, temporada seca mayo-octubre',
+    includes: [
+      'Hotel pickup and drop-off in Puno',
+      'Boat transportation',
+      'English-speaking guide',
+      'Uros Islands visit',
+      'Traditional lunch on Taquile',
+      'All community and entrance fees'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Puno',
+      'Transporte en bote',
+      'Guía de habla inglesa',
+      'Visita a Islas de los Uros',
+      'Almuerzo tradicional en Taquile',
+      'Todas las tarifas comunitarias y de entrada'
+    ],
+    tips: [
+      '530 steps up - take slowly at altitude',
+      'Bring cash for textile purchases',
+      'Textiles are exceptional quality and value',
+      'Knitted caps make meaningful souvenirs',
+      'Children enjoy meeting local kids',
+      'Overnight homestay option available'
+    ],
+    tipsEs: [
+      '530 escalones de subida - ve despacio en altitud',
+      'Trae efectivo para compras de textiles',
+      'Textiles son de calidad y valor excepcionales',
+      'Gorros tejidos son recuerdos significativos',
+      'Los niños disfrutan conocer niños locales',
+      'Opción de estadía nocturna con familia disponible'
+    ],
+    safetyNotes: [
+      'High altitude (3,950m) - acclimate first',
+      '530 steep steps - pace yourself',
+      'Boat journey can be cold - bring layers',
+      'No medical facilities on island',
+      'Cash only - no ATMs on island'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,950m) - aclimatarse primero',
+      '530 escalones empinados - mantén tu ritmo',
+      'Viaje en bote puede ser frío - trae capas',
+      'Sin instalaciones médicas en la isla',
+      'Solo efectivo - sin cajeros en la isla'
+    ],
+    relatedActivities: ['uros-islands-tour', 'lake-titicaca-full-day', 'sillustani-burial-towers-tour'],
+    providers: [
+      { name: 'Titicaca Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'palccoyo-rainbow-mountain-trek',
+    name: 'Palccoyo Rainbow Mountain Family Trek',
+    nameEs: 'Trekking Familiar a la Montaña de Colores Palccoyo',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Experience Peru\'s spectacular rainbow mountains on a family-friendly trek to Palccoyo - the easier, less crowded alternative to famous Vinicunca. Three colorful striped mountains, unique stone forest formations, and grazing alpacas await on a gentle walk accessible to older children well-acclimated to altitude.',
+    descriptionEs: 'Experimenta las espectaculares montañas de colores de Perú en una caminata familiar a Palccoyo - la alternativa más fácil y menos concurrida a la famosa Vinicunca. Tres coloridas montañas rayadas, formaciones únicas de bosque de piedra, y alpacas pastando esperan en una caminata suave accesible para niños mayores bien aclimatados a la altitud.',
+    whatToExpect: 'Depart Cusco very early (around 4am) for the 3-hour drive through the Andean highlands toward the Ausangate region. Watch the sunrise over the mountains as you climb. After breakfast at a local village, continue to the Palccoyo trailhead. Unlike Vinicunca\'s strenuous 3-hour climb, Palccoyo requires only a gentle 30-45 minute walk to reach multiple viewpoints. From the main mirador, see three rainbow-striped mountains at once - the colorful layers of red, yellow, green, and turquoise are created by ancient mineral deposits. Children love exploring the unique "stone forest" of eroded rock formations nearby. Alpacas and vicuñas graze in the high grasslands. After time for photos and exploration, return to the vehicle for a packed lunch before the drive back to Cusco, arriving mid-afternoon.',
+    whatToExpectEs: 'Sal de Cusco muy temprano (alrededor de las 4am) para el viaje de 3 horas por las tierras altas andinas hacia la región de Ausangate. Observa el amanecer sobre las montañas mientras subes. Después del desayuno en un pueblo local, continúa al inicio del sendero de Palccoyo. A diferencia de la extenuante subida de 3 horas de Vinicunca, Palccoyo requiere solo una caminata suave de 30-45 minutos para llegar a múltiples miradores. Desde el mirador principal, ve tres montañas rayadas de arcoíris a la vez - las coloridas capas de rojo, amarillo, verde y turquesa son creadas por antiguos depósitos minerales. Los niños aman explorar el único "bosque de piedra" de formaciones rocosas erosionadas cercano. Alpacas y vicuñas pastan en los pastizales altos. Después de tiempo para fotos y exploración, regresa al vehículo para un almuerzo empacado antes del viaje de regreso a Cusco, llegando a media tarde.',
+    highlights: [
+      'Three rainbow mountains in one view',
+      'Much easier than Vinicunca',
+      'Far fewer crowds',
+      'Unique stone forest formations',
+      'Alpacas and vicuñas grazing',
+      'Spectacular high-altitude scenery',
+      'Family-accessible extreme altitude'
+    ],
+    highlightsEs: [
+      'Tres montañas arcoíris en una vista',
+      'Mucho más fácil que Vinicunca',
+      'Muchas menos multitudes',
+      'Formaciones únicas de bosque de piedra',
+      'Alpacas y vicuñas pastando',
+      'Espectacular paisaje de alta altitud',
+      'Altitud extrema accesible para familias'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: 'Full day (12-14 hours)',
+    durationEs: 'Día completo (12-14 horas)',
+    difficulty: 'moderate',
+    priceRange: '$50-90 USD per person',
+    priceRangeEs: '$50-90 USD por persona',
+    bestTime: 'April-November dry season',
+    bestTimeEs: 'Temporada seca abril-noviembre',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Breakfast and lunch',
+      'Private transportation',
+      'Community entrance fee',
+      'Oxygen bottle (emergency)',
+      'Walking poles available'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Desayuno y almuerzo',
+      'Transporte privado',
+      'Tarifa de entrada comunitaria',
+      'Botella de oxígeno (emergencia)',
+      'Bastones de caminata disponibles'
+    ],
+    tips: [
+      'Acclimate in Cusco at least 2-3 days first',
+      'Wear warm layers - 4,900m is cold',
+      'Coca tea helps with altitude',
+      'Horse rental available for struggling',
+      'Best colors in early morning',
+      'Less crowded weekdays'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco al menos 2-3 días primero',
+      'Usa capas abrigadas - 4,900m es frío',
+      'Té de coca ayuda con la altitud',
+      'Alquiler de caballos disponible para quienes batallan',
+      'Mejores colores temprano en la mañana',
+      'Menos concurrido días de semana'
+    ],
+    safetyNotes: [
+      'Extreme altitude (4,900m) - acclimate well',
+      'Weather changes rapidly - bring layers',
+      'Easy walking but altitude affects everyone',
+      'Horse rental for those struggling',
+      'Oxygen available for emergencies',
+      'Not suitable for heart/respiratory conditions'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (4,900m) - aclimatarse bien',
+      'Clima cambia rápidamente - trae capas',
+      'Caminata fácil pero la altitud afecta a todos',
+      'Alquiler de caballos para quienes batallan',
+      'Oxígeno disponible para emergencias',
+      'No apto para condiciones cardíacas/respiratorias'
+    ],
+    relatedActivities: ['vinicunca-rainbow-mountain-trek', 'ausangate-circuit', 'sacred-valley-full-day'],
+    providers: [
+      { name: 'Rainbow Mountain Experts', familyFriendly: true },
+      { name: 'Cusco Adventure Tours', familyFriendly: true },
+      { name: 'Alpaca Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'inca-trail-family-trek',
+    name: 'Classic Inca Trail 4-Day Family Trek',
+    nameEs: 'Trekking Familiar de 4 Días por el Camino Inca Clásico',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'The world\'s most iconic trek reimagined for families with older, adventure-ready children. Trek original Inca stone pathways through cloud forest and over high mountain passes to arrive at Machu Picchu through the Sun Gate at sunrise - transforming a tourist visit into a hard-won achievement the whole family will treasure forever.',
+    descriptionEs: 'La caminata más icónica del mundo reimaginada para familias con niños mayores listos para la aventura. Camina por senderos de piedra incas originales a través de bosque nublado y sobre pasos de montaña altos para llegar a Machu Picchu por la Puerta del Sol al amanecer - transformando una visita turística en un logro duramente ganado que toda la familia atesorará para siempre.',
+    whatToExpect: 'Day 1: Begin at km82, hiking 13km through the Urubamba valley to the first camp at Wayllabamba, passing through rural communities and the ruins of Llactapata. Day 2: The most challenging day - climb to Dead Woman\'s Pass at 4,215m, the trek\'s highest point. Descend to Pacaymayu camp. Day 3: Pass through two more mountain passes and multiple Inca ruins including Runkurakay, Sayacmarca, and Phuyupatamarca. Camp near the stunning ruins of Wiñay Wayna. Day 4: Wake at 3:30am for the final push to Intipunku (Sun Gate) to watch sunrise over Machu Picchu below - an emotional moment that rewards all the effort. Spend the morning exploring Machu Picchu before taking the train back to Cusco. Family-focused operators provide extra support, slower pacing, and experienced guides who engage children throughout.',
+    whatToExpectEs: 'Día 1: Comienza en el km82, caminando 13km por el valle del Urubamba hasta el primer campamento en Wayllabamba, pasando por comunidades rurales y las ruinas de Llactapata. Día 2: El día más desafiante - sube al Paso de la Mujer Muerta a 4,215m, el punto más alto del trek. Desciende al campamento de Pacaymayu. Día 3: Pasa por dos pasos de montaña más y múltiples ruinas incas incluyendo Runkurakay, Sayacmarca, y Phuyupatamarca. Acampa cerca de las impresionantes ruinas de Wiñay Wayna. Día 4: Despierta a las 3:30am para el empuje final a Intipunku (Puerta del Sol) para ver el amanecer sobre Machu Picchu abajo - un momento emotivo que recompensa todo el esfuerzo. Pasa la mañana explorando Machu Picchu antes de tomar el tren de regreso a Cusco. Operadores enfocados en familias proporcionan apoyo extra, ritmo más lento, y guías experimentados que involucran a los niños durante todo el recorrido.',
+    highlights: [
+      'World\'s most famous trek',
+      'Original Inca stone pathways',
+      'Dead Woman\'s Pass at 4,215m',
+      'Multiple Inca archaeological sites',
+      'Sunrise arrival at Machu Picchu',
+      'Cloud forest and Andean scenery',
+      'Life-changing family achievement'
+    ],
+    highlightsEs: [
+      'La caminata más famosa del mundo',
+      'Senderos de piedra incas originales',
+      'Paso de la Mujer Muerta a 4,215m',
+      'Múltiples sitios arqueológicos incas',
+      'Llegada al amanecer a Machu Picchu',
+      'Bosque nublado y paisaje andino',
+      'Logro familiar que cambia la vida'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: '4 days / 3 nights',
+    durationEs: '4 días / 3 noches',
+    difficulty: 'challenging',
+    priceRange: '$700-1,500 USD per person',
+    priceRangeEs: '$700-1,500 USD por persona',
+    bestTime: 'April-October, closed February',
+    bestTimeEs: 'Abril-octubre, cerrado febrero',
+    includes: [
+      'All permits and entrance fees',
+      'Professional bilingual guides',
+      'Porters to carry equipment',
+      'All camping equipment',
+      'All meals during trek',
+      'Machu Picchu guided tour',
+      'Train return to Cusco'
+    ],
+    includesEs: [
+      'Todos los permisos y entradas',
+      'Guías profesionales bilingües',
+      'Porteadores para cargar equipo',
+      'Todo el equipo de camping',
+      'Todas las comidas durante el trek',
+      'Tour guiado de Machu Picchu',
+      'Tren de regreso a Cusco'
+    ],
+    tips: [
+      'Book 6+ months ahead - permits limited',
+      'Train extensively before the trip',
+      'Children must hike 8-12km daily',
+      'Acclimate in Cusco 3+ days',
+      'Choose family-experienced operator',
+      'Budget for porter tips'
+    ],
+    tipsEs: [
+      'Reserva 6+ meses antes - permisos limitados',
+      'Entrena extensamente antes del viaje',
+      'Los niños deben caminar 8-12km diarios',
+      'Aclimátate en Cusco 3+ días',
+      'Elige operador con experiencia familiar',
+      'Presupuesta propinas para porteadores'
+    ],
+    safetyNotes: [
+      'High altitude throughout (2,700-4,215m)',
+      'Challenging terrain and long days',
+      'Weather unpredictable - rain possible',
+      'Basic camping conditions',
+      'Emergency evacuation available',
+      'Not suitable for respiratory conditions'
+    ],
+    safetyNotesEs: [
+      'Alta altitud en todo el recorrido (2,700-4,215m)',
+      'Terreno desafiante y días largos',
+      'Clima impredecible - lluvia posible',
+      'Condiciones básicas de camping',
+      'Evacuación de emergencia disponible',
+      'No apto para condiciones respiratorias'
+    ],
+    relatedActivities: ['machu-picchu-guided-tour', 'sacred-valley-full-day', 'salkantay-trek'],
+    providers: [
+      { name: 'Alpaca Expeditions', familyFriendly: true },
+      { name: 'Peru Treks', familyFriendly: true },
+      { name: 'Llama Path', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'baroque-route-south-valley',
+    name: 'Andahuaylillas Baroque Route & South Valley',
+    nameEs: 'Ruta Barroca de Andahuaylillas y Valle Sur',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover the "Sistine Chapel of the Americas" at Andahuaylillas and other colonial masterpieces on this art and history tour along the South Valley Baroque Route. A perfect half-day alternative to the Sacred Valley, this tour combines stunning religious art with pre-Columbian sites.',
+    descriptionEs: 'Descubre la "Capilla Sixtina de las Américas" en Andahuaylillas y otras obras maestras coloniales en este tour de arte e historia por la Ruta Barroca del Valle Sur. Una alternativa perfecta de medio día al Valle Sagrado, este tour combina impresionante arte religioso con sitios precolombinos.',
+    whatToExpect: 'Depart Cusco heading southeast through the beautiful Huatanay Valley. Your first stop is the charming village of Oropesa, famous throughout Peru for its bread - sample fresh chiuta and buy some for the journey. Continue to Andahuaylillas to visit the Church of San Pedro Apóstol, known as the "Sistine Chapel of the Americas." Behind its modest adobe exterior lies one of Peru\'s most spectacular interiors: gilded mudéjar ceilings, massive colonial canvases, and wall-to-wall murals by Cusco School masters. Children are amazed when they step from the simple outside to the overwhelming gold-covered interior. Continue to the nearby churches of Huaro and Canincunca on the Baroque Route ticket, each with distinctive colonial art. If time permits, visit the pre-Inca ruins of Pikillacta for archaeological contrast. Return to Cusco by early afternoon with a new appreciation for colonial Andean art.',
+    whatToExpectEs: 'Sal de Cusco hacia el sureste por el hermoso Valle de Huatanay. Tu primera parada es el encantador pueblo de Oropesa, famoso en todo Perú por su pan - prueba chiuta fresca y compra algo para el viaje. Continúa a Andahuaylillas para visitar la Iglesia de San Pedro Apóstol, conocida como la "Capilla Sixtina de las Américas." Detrás de su modesto exterior de adobe yace uno de los interiores más espectaculares de Perú: techos mudéjares dorados, enormes lienzos coloniales, y murales de pared a pared de maestros de la Escuela Cusqueña. Los niños quedan asombrados cuando pasan del exterior simple al abrumador interior cubierto de oro. Continúa a las iglesias cercanas de Huaro y Canincunca en el boleto de la Ruta Barroca, cada una con arte colonial distintivo. Si el tiempo lo permite, visita las ruinas pre-Incas de Pikillacta para contraste arqueológico. Regresa a Cusco a primera hora de la tarde con una nueva apreciación por el arte andino colonial.',
+    highlights: [
+      'Andahuaylillas "Sistine Chapel of Americas"',
+      'Extraordinary gold-leaf ceilings and murals',
+      'Cusco School colonial masterpieces',
+      'Huaro and Canincunca churches',
+      'Oropesa famous bread village',
+      'Optional Pikillacta pre-Inca ruins',
+      'Less crowded than Sacred Valley'
+    ],
+    highlightsEs: [
+      'Andahuaylillas "Capilla Sixtina de las Américas"',
+      'Extraordinarios techos de pan de oro y murales',
+      'Obras maestras coloniales de la Escuela Cusqueña',
+      'Iglesias de Huaro y Canincunca',
+      'Famoso pueblo panadero de Oropesa',
+      'Ruinas pre-Incas de Pikillacta opcionales',
+      'Menos concurrido que el Valle Sagrado'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Year-round, morning light best',
+    bestTimeEs: 'Todo el año, luz de mañana mejor',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Baroque Route church entrance fees',
+      'Private transportation',
+      'Bread tasting in Oropesa'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Entradas a iglesias de la Ruta Barroca',
+      'Transporte privado',
+      'Degustación de pan en Oropesa'
+    ],
+    tips: [
+      'Photography prohibited inside churches',
+      'Dress modestly - shoulders/knees covered',
+      'Morning light best for church interiors',
+      'Oropesa bread makes great gifts',
+      'Children surprised by gold interiors',
+      'Combine with Tipon for full day'
+    ],
+    tipsEs: [
+      'Fotografía prohibida dentro de iglesias',
+      'Viste modestamente - hombros/rodillas cubiertos',
+      'Luz de mañana mejor para interiores de iglesias',
+      'Pan de Oropesa son grandes regalos',
+      'Niños sorprendidos por interiores de oro',
+      'Combina con Tipón para día completo'
+    ],
+    safetyNotes: [
+      'Easy walking on paved surfaces',
+      'Moderate altitude (3,100-3,400m)',
+      'Some stairs in churches',
+      'Safe well-visited route',
+      'Air-conditioned transportation'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies pavimentadas',
+      'Altitud moderada (3,100-3,400m)',
+      'Algunas escaleras en iglesias',
+      'Ruta segura y bien visitada',
+      'Transporte con aire acondicionado'
+    ],
+    relatedActivities: ['tipon-water-engineering-tour', 'cusco-walking-tour', 'sacred-valley-full-day'],
+    providers: [
+      { name: 'Cusco Baroque Tours', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Andean Art Tours', familyFriendly: true }
+    ]
   }
 ];
 
