@@ -6955,6 +6955,366 @@ export const activities: Activity[] = [
       { name: 'Explorama Lodges', familyFriendly: true },
       { name: 'Heliconia Lodge', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'caiman-night-spotting',
+    name: 'Caiman Night Spotting',
+    nameEs: 'Avistamiento Nocturno de Caimanes',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Glide through the Amazon waterways at night searching for caimans by flashlight. Watch their eyes glow red in the darkness as expert guides spot and sometimes carefully catch small caimans for an up-close encounter before releasing them.',
+    descriptionEs: 'Deslízate por las vías fluviales del Amazonas de noche buscando caimanes con linterna. Observa sus ojos brillar rojos en la oscuridad mientras guías expertos avistan y a veces atrapan cuidadosamente pequeños caimanes para un encuentro cercano antes de liberarlos.',
+    whatToExpect: 'Depart after dark by boat with powerful flashlights. Guides scan the water for the telltale red eye-shine of caimans. When spotted, approach quietly. Guides may catch small caimans for photos and education before releasing. Often see other nocturnal wildlife.',
+    whatToExpectEs: 'Sal después del anochecer en bote con linternas potentes. Los guías escanean el agua buscando el característico brillo rojo de los ojos de caimanes. Cuando se avistan, se acercan silenciosamente. Los guías pueden atrapar pequeños caimanes para fotos y educación antes de liberarlos. A menudo ven otra vida silvestre nocturna.',
+    highlights: [
+      'See caiman eyes glow in dark',
+      'Hold small caimans (optional)',
+      'Magical night boat ride',
+      'See nocturnal wildlife',
+      'Exciting adventure for kids',
+      'Learn about Amazon predators'
+    ],
+    highlightsEs: [
+      'Ve los ojos de caimanes brillar en la oscuridad',
+      'Sostén pequeños caimanes (opcional)',
+      'Mágico paseo nocturno en bote',
+      'Ve vida silvestre nocturna',
+      'Aventura emocionante para niños',
+      'Aprende sobre depredadores amazónicos'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: 'Usually included in lodge stay',
+    priceRangeEs: 'Usualmente incluido en estadía en lodge',
+    bestTime: 'Year-round. Dry season may have more concentrated wildlife.',
+    bestTimeEs: 'Todo el año. Temporada seca puede tener vida silvestre más concentrada.',
+    includes: [
+      'Boat and driver',
+      'Expert guide',
+      'Flashlights/spotlights',
+      'Life jackets',
+      'Usually part of lodge package',
+      'Insect repellent'
+    ],
+    includesEs: [
+      'Bote y conductor',
+      'Guía experto',
+      'Linternas/reflectores',
+      'Chalecos salvavidas',
+      'Usualmente parte del paquete de lodge',
+      'Repelente de insectos'
+    ],
+    tips: [
+      'Kids absolutely love this activity',
+      'Wear long sleeves for mosquitoes',
+      'Bring camera with flash capability',
+      'Stay quiet for best sightings',
+      'Small caimans are safe to hold',
+      'Magical experience for all ages'
+    ],
+    tipsEs: [
+      'A los niños les encanta esta actividad',
+      'Usa mangas largas para los mosquitos',
+      'Trae cámara con capacidad de flash',
+      'Mantén silencio para mejores avistamientos',
+      'Los caimanes pequeños son seguros para sostener',
+      'Experiencia mágica para todas las edades'
+    ],
+    safetyNotes: [
+      'Only small caimans are handled',
+      'Guides are trained professionals',
+      'Life jackets provided',
+      'Stay seated in boat',
+      'Follow guide instructions'
+    ],
+    safetyNotesEs: [
+      'Solo se manejan caimanes pequeños',
+      'Los guías son profesionales entrenados',
+      'Chalecos salvavidas proporcionados',
+      'Permanece sentado en el bote',
+      'Sigue las instrucciones del guía'
+    ],
+    relatedActivities: ['piranha-fishing-amazon', 'amazon-jungle-tour', 'amazon-canopy-walkway'],
+    providers: [
+      { name: 'Explorama Lodges', familyFriendly: true },
+      { name: 'Amazon Yarapa River Lodge', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chocolate-making-cusco',
+    name: 'Chocolate Making Workshop',
+    nameEs: 'Taller de Elaboración de Chocolate',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover the journey from cacao bean to chocolate bar in hands-on workshops using Peru\'s renowned cacao. Learn about Peru\'s chocolate heritage, roast and grind cacao beans, and create your own chocolate to take home.',
+    descriptionEs: 'Descubre el viaje del grano de cacao a la barra de chocolate en talleres prácticos usando el reconocido cacao del Perú. Aprende sobre la herencia chocolatera del Perú, tuesta y muele granos de cacao, y crea tu propio chocolate para llevar a casa.',
+    whatToExpect: 'Start by learning about Peru\'s cacao-growing regions. Handle raw cacao pods and beans. Roast, peel, and grind beans using traditional methods. Add sugar and flavors to create your own chocolate. Mold and wrap your creations to take home.',
+    whatToExpectEs: 'Comienza aprendiendo sobre las regiones productoras de cacao del Perú. Manipula vainas y granos de cacao crudo. Tuesta, pela y muele los granos usando métodos tradicionales. Agrega azúcar y sabores para crear tu propio chocolate. Moldea y envuelve tus creaciones para llevar a casa.',
+    highlights: [
+      'Bean-to-bar experience',
+      'Use traditional grinding methods',
+      'Create your own chocolate',
+      'Learn about Peruvian cacao',
+      'Take home your creations',
+      'Great activity for kids'
+    ],
+    highlightsEs: [
+      'Experiencia del grano a la barra',
+      'Usa métodos tradicionales de molienda',
+      'Crea tu propio chocolate',
+      'Aprende sobre el cacao peruano',
+      'Llévate tus creaciones a casa',
+      'Gran actividad para niños'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Year-round indoor activity.',
+    bestTimeEs: 'Actividad interior todo el año.',
+    includes: [
+      'All materials and cacao',
+      'Expert instruction',
+      'Chocolate tasting',
+      'Your chocolate creations',
+      'Cacao history lesson',
+      'Recipes (some workshops)'
+    ],
+    includesEs: [
+      'Todos los materiales y cacao',
+      'Instrucción experta',
+      'Degustación de chocolate',
+      'Tus creaciones de chocolate',
+      'Lección de historia del cacao',
+      'Recetas (algunos talleres)'
+    ],
+    tips: [
+      'Kids love grinding the beans',
+      'Perfect rainy day activity',
+      'Book ahead in peak season',
+      'Wear clothes that can get messy',
+      'Buy extra chocolate to take home',
+      'Great for all ages'
+    ],
+    tipsEs: [
+      'A los niños les encanta moler los granos',
+      'Perfecta actividad para días lluviosos',
+      'Reserva con anticipación en temporada alta',
+      'Usa ropa que pueda ensuciarse',
+      'Compra chocolate extra para llevar a casa',
+      'Genial para todas las edades'
+    ],
+    safetyNotes: [
+      'Nut-free options usually available',
+      'Age-appropriate tasks',
+      'Supervised grinding activities',
+      'Inform of allergies beforehand',
+      'Safe, clean environment'
+    ],
+    safetyNotesEs: [
+      'Opciones sin nueces usualmente disponibles',
+      'Tareas apropiadas para la edad',
+      'Actividades de molienda supervisadas',
+      'Informa de alergias con anticipación',
+      'Ambiente seguro y limpio'
+    ],
+    relatedActivities: ['kids-cooking-class', 'peruvian-cooking-class', 'coffee-farm-tour'],
+    providers: [
+      { name: 'ChocoMuseo Cusco', familyFriendly: true },
+      { name: 'Cusco Chocolate Workshop', familyFriendly: true },
+      { name: 'Museo del Cacao', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ballestas-islands-tour',
+    name: 'Ballestas Islands Boat Tour',
+    nameEs: 'Tour en Bote a las Islas Ballestas',
+    type: 'nature',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Cruise to the "Galapagos of Peru" to see thousands of sea lions, Humboldt penguins, and seabirds on dramatic rocky islands. This accessible wildlife adventure offers incredible close encounters with marine life just off the Paracas coast.',
+    descriptionEs: 'Navega a las "Galápagos del Perú" para ver miles de lobos marinos, pingüinos de Humboldt, y aves marinas en dramáticas islas rocosas. Esta aventura de vida silvestre accesible ofrece increíbles encuentros cercanos con vida marina justo frente a la costa de Paracas.',
+    whatToExpect: 'Board speedboats in Paracas harbor for a 2-hour tour. Pass the mysterious Candelabra geoglyph on the peninsula. Circle the islands viewing sea lions, penguins, boobies, pelicans, and cormorants. Boats get close but don\'t land on protected islands.',
+    whatToExpectEs: 'Aborda lanchas rápidas en el puerto de Paracas para un tour de 2 horas. Pasa el misterioso geoglifo del Candelabro en la península. Rodea las islas viendo lobos marinos, pingüinos, piqueros, pelícanos, y cormoranes. Los botes se acercan pero no desembarcan en las islas protegidas.',
+    highlights: [
+      'Thousands of sea lions',
+      'Humboldt penguins',
+      'Massive seabird colonies',
+      'Candelabra geoglyph',
+      'Dramatic rock formations',
+      'Accessible wildlife experience'
+    ],
+    highlightsEs: [
+      'Miles de lobos marinos',
+      'Pingüinos de Humboldt',
+      'Masivas colonias de aves marinas',
+      'Geoglifo del Candelabro',
+      'Dramáticas formaciones rocosas',
+      'Experiencia de vida silvestre accesible'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2 hours',
+    durationEs: '2 horas',
+    difficulty: 'easy',
+    priceRange: '$15-30 per person',
+    priceRangeEs: '$15-30 por persona',
+    bestTime: 'Year-round. Morning tours have calmer seas. Best wildlife Apr-Nov.',
+    bestTimeEs: 'Todo el año. Tours matutinos tienen mar más tranquilo. Mejor vida silvestre abr-nov.',
+    includes: [
+      'Speedboat tour',
+      'Life jacket',
+      'Guide narration',
+      'Views of Candelabra',
+      'Island circuit',
+      'Wildlife viewing'
+    ],
+    includesEs: [
+      'Tour en lancha rápida',
+      'Chaleco salvavidas',
+      'Narración del guía',
+      'Vistas del Candelabro',
+      'Circuito de las islas',
+      'Avistamiento de vida silvestre'
+    ],
+    tips: [
+      'Book 8am tour for calmest water',
+      'Bring jacket - wind is cold on boat',
+      'Motion sickness pills if prone',
+      'Sit in back of boat for less spray',
+      'Combine with Paracas Reserve',
+      'Smell can be strong - normal!'
+    ],
+    tipsEs: [
+      'Reserva tour de 8am para agua más tranquila',
+      'Trae chaqueta - el viento es frío en el bote',
+      'Pastillas para mareo si eres propenso',
+      'Siéntate atrás del bote para menos salpicaduras',
+      'Combina con Reserva de Paracas',
+      '¡El olor puede ser fuerte - es normal!'
+    ],
+    safetyNotes: [
+      'Life jackets mandatory',
+      'Stay seated while moving',
+      'Boats are inspected regularly',
+      'Rough seas may cancel tours',
+      'Sun protection essential'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas obligatorios',
+      'Permanece sentado mientras se mueve',
+      'Los botes son inspeccionados regularmente',
+      'Mar agitado puede cancelar tours',
+      'Protección solar esencial'
+    ],
+    relatedActivities: ['paracas-reserve-tour', 'whale-watching', 'huacachina-tour'],
+    providers: [
+      { name: 'Paracas Explorer', familyFriendly: true },
+      { name: 'Ballestas Travel', familyFriendly: true },
+      { name: 'Paracas Connections', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'night-jungle-walk',
+    name: 'Night Jungle Walk',
+    nameEs: 'Caminata Nocturna en la Selva',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Experience the Amazon rainforest after dark when a whole different world comes alive. Armed with flashlights, walk jungle trails to discover tarantulas, tree frogs, insects, and nocturnal mammals that hide during the day.',
+    descriptionEs: 'Experimenta la selva amazónica después del anochecer cuando un mundo completamente diferente cobra vida. Armados con linternas, camina por senderos de la selva para descubrir tarántulas, ranas arbóreas, insectos, y mamíferos nocturnos que se esconden durante el día.',
+    whatToExpect: 'After dark, follow expert guides on jungle trails near your lodge. Use flashlights to spot wildlife - tarantulas in burrows, tree frogs on leaves, sleeping birds, and if lucky, nocturnal mammals. Hear the symphony of jungle sounds.',
+    whatToExpectEs: 'Después del anochecer, sigue a guías expertos por senderos de la selva cerca de tu lodge. Usa linternas para avistar vida silvestre - tarántulas en madrigueras, ranas arbóreas en hojas, aves durmiendo, y con suerte, mamíferos nocturnos. Escucha la sinfonía de sonidos de la selva.',
+    highlights: [
+      'See tarantulas up close',
+      'Find colorful tree frogs',
+      'Hear jungle night sounds',
+      'Spot sleeping birds',
+      'Discover nocturnal insects',
+      'Thrilling family adventure'
+    ],
+    highlightsEs: [
+      'Ve tarántulas de cerca',
+      'Encuentra ranas arbóreas coloridas',
+      'Escucha sonidos nocturnos de la selva',
+      'Avista aves durmiendo',
+      'Descubre insectos nocturnos',
+      'Emocionante aventura familiar'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'moderate',
+    priceRange: 'Usually included in lodge stay',
+    priceRangeEs: 'Usualmente incluido en estadía en lodge',
+    bestTime: 'Year-round. Rainy season may have more frogs.',
+    bestTimeEs: 'Todo el año. Temporada de lluvias puede tener más ranas.',
+    includes: [
+      'Expert naturalist guide',
+      'Flashlight/headlamp',
+      'Rubber boots',
+      'Insect repellent',
+      'Wildlife spotting',
+      'Usually part of lodge package'
+    ],
+    includesEs: [
+      'Guía naturalista experto',
+      'Linterna/lámpara de cabeza',
+      'Botas de goma',
+      'Repelente de insectos',
+      'Avistamiento de vida silvestre',
+      'Usualmente parte del paquete de lodge'
+    ],
+    tips: [
+      'Wear long pants and closed shoes',
+      'Apply insect repellent liberally',
+      'Stay close to your guide',
+      'Tarantulas are harmless if not touched',
+      'Kids find it thrilling not scary',
+      'Camera with good flash helpful'
+    ],
+    tipsEs: [
+      'Usa pantalones largos y zapatos cerrados',
+      'Aplica repelente de insectos generosamente',
+      'Permanece cerca de tu guía',
+      'Las tarántulas son inofensivas si no se tocan',
+      'Los niños lo encuentran emocionante, no aterrador',
+      'Cámara con buen flash útil'
+    ],
+    safetyNotes: [
+      'Stay on marked trails',
+      'Follow guide at all times',
+      'Don\'t touch wildlife',
+      'Watch your footing',
+      'Guides carry first aid'
+    ],
+    safetyNotesEs: [
+      'Permanece en senderos marcados',
+      'Sigue al guía en todo momento',
+      'No toques la vida silvestre',
+      'Cuida tus pasos',
+      'Los guías llevan primeros auxilios'
+    ],
+    relatedActivities: ['caiman-night-spotting', 'amazon-jungle-tour', 'amazon-canopy-walkway'],
+    providers: [
+      { name: 'Explorama Lodges', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true },
+      { name: 'Inkaterra Reserva', familyFriendly: true }
+    ]
   }
 ];
 

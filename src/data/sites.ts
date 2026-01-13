@@ -6314,6 +6314,306 @@ export const sites: Site[] = [
       'Galerías con clima controlado',
       'Café cercano'
     ]
+  },
+  {
+    slug: 'tres-cruces-sunrise',
+    name: 'Tres Cruces de Oro Viewpoint',
+    nameEs: 'Mirador Tres Cruces de Oro',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3700,
+    description: 'One of the world\'s most spectacular sunrise viewpoints, where the sun appears to dance, split, and multiply as it rises over the Amazon basin. This phenomenon, caused by atmospheric conditions at the cloud forest edge, creates an unforgettable natural light show.',
+    descriptionEs: 'Uno de los miradores de amanecer más espectaculares del mundo, donde el sol parece bailar, dividirse y multiplicarse mientras sale sobre la cuenca amazónica. Este fenómeno, causado por condiciones atmosféricas al borde del bosque nublado, crea un espectáculo de luz natural inolvidable.',
+    history: 'The Tres Cruces viewpoint sits at the edge of Manu National Park where the Andes dramatically drop into the Amazon rainforest. The optical phenomenon occurs mainly during the dry season when temperature inversions and atmospheric layers create the dancing sun effect that has awed observers for centuries.',
+    historyEs: 'El mirador Tres Cruces se ubica en el borde del Parque Nacional Manu donde los Andes caen dramáticamente hacia la selva amazónica. El fenómeno óptico ocurre principalmente durante la temporada seca cuando inversiones de temperatura y capas atmosféricas crean el efecto del sol bailando que ha asombrado a observadores por siglos.',
+    highlights: [
+      'Spectacular dancing sunrise',
+      'Sun appears to multiply',
+      'Cloud forest views',
+      'Amazon basin panorama',
+      'Unique atmospheric phenomenon',
+      'Unforgettable natural spectacle'
+    ],
+    highlightsEs: [
+      'Espectacular amanecer bailando',
+      'El sol parece multiplicarse',
+      'Vistas del bosque nublado',
+      'Panorama de la cuenca amazónica',
+      'Fenómeno atmosférico único',
+      'Espectáculo natural inolvidable'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-day trip (overnight required)',
+    durationEs: 'Viaje de 2 días (pernocte requerido)',
+    difficulty: 'moderate',
+    entranceFee: 'Free (road access)',
+    entranceFeeEs: 'Gratis (acceso por carretera)',
+    bestTime: 'May-July for best phenomenon. Must arrive before 5am.',
+    bestTimeEs: 'Mayo-julio para mejor fenómeno. Debes llegar antes de las 5am.',
+    tips: [
+      'Leave Cusco by 1-2am to arrive before dawn',
+      'Or stay overnight at nearby lodge',
+      'Phenomenon strongest May-July',
+      'Bring warm clothes - very cold at dawn',
+      'Coffee and snacks at viewpoint vendors',
+      'Can combine with Manu road trip'
+    ],
+    tipsEs: [
+      'Sal de Cusco a la 1-2am para llegar antes del amanecer',
+      'O quédate la noche en un lodge cercano',
+      'Fenómeno más fuerte mayo-julio',
+      'Trae ropa abrigada - muy frío al amanecer',
+      'Café y snacks en vendedores del mirador',
+      'Puedes combinar con viaje por carretera a Manu'
+    ],
+    nearbyAttractions: ['manu-road', 'paucartambo', 'cloud-forest'],
+    relatedSites: ['rainbow-mountain', 'machu-picchu', 'sacred-valley'],
+    gettingThere: '4-5 hours from Cusco via Paucartambo. Night departure required.',
+    gettingThereEs: '4-5 horas desde Cusco vía Paucartambo. Salida nocturna requerida.',
+    facilities: [
+      'Basic viewpoint area',
+      'Local vendors at dawn',
+      'No restrooms at site',
+      'Parking available',
+      'Lodges nearby for overnight',
+      'Very basic infrastructure'
+    ],
+    facilitiesEs: [
+      'Área de mirador básica',
+      'Vendedores locales al amanecer',
+      'Sin baños en el sitio',
+      'Estacionamiento disponible',
+      'Lodges cercanos para pernocte',
+      'Infraestructura muy básica'
+    ]
+  },
+  {
+    slug: 'tambopata-reserve',
+    name: 'Tambopata National Reserve',
+    nameEs: 'Reserva Nacional Tambopata',
+    type: 'natural',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    altitude: 300,
+    description: 'One of the most biodiverse places on Earth, Tambopata protects pristine Amazon rainforest teeming with wildlife. Home to giant otters, macaw clay licks, jaguars, and countless species, it offers accessible jungle experiences for adventurous families.',
+    descriptionEs: 'Uno de los lugares más biodiversos de la Tierra, Tambopata protege selva amazónica prístina repleta de vida silvestre. Hogar de nutrias gigantes, colpas de guacamayas, jaguares, e incontables especies, ofrece experiencias de selva accesibles para familias aventureras.',
+    history: 'Established as a reserve in 1990 and expanded in 2000, Tambopata protects 274,690 hectares of Amazon rainforest. The reserve is part of the larger Tambopata-Candamo Reserved Zone, creating one of the most important protected areas in the Amazon basin.',
+    historyEs: 'Establecida como reserva en 1990 y expandida en 2000, Tambopata protege 274,690 hectáreas de selva amazónica. La reserva es parte de la más grande Zona Reservada Tambopata-Candamo, creando una de las áreas protegidas más importantes de la cuenca amazónica.',
+    highlights: [
+      'Giant river otters',
+      'Macaw clay licks',
+      'Incredible biodiversity',
+      'Jungle lodges',
+      'Canopy towers',
+      'Night jungle walks'
+    ],
+    highlightsEs: [
+      'Nutrias gigantes de río',
+      'Colpas de guacamayas',
+      'Increíble biodiversidad',
+      'Lodges de selva',
+      'Torres de dosel',
+      'Caminatas nocturnas en la selva'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '3-5 days recommended',
+    durationEs: '3-5 días recomendados',
+    difficulty: 'moderate',
+    entranceFee: 'Included in lodge packages',
+    entranceFeeEs: 'Incluido en paquetes de lodge',
+    bestTime: 'Dry season (May-October) for easier access. Year-round wildlife.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para acceso más fácil. Vida silvestre todo el año.',
+    tips: [
+      'Book lodge packages - includes everything',
+      'Minimum 3 nights recommended',
+      'Bring insect repellent and long sleeves',
+      'Waterproof bags essential',
+      'Early mornings best for wildlife',
+      'Rubber boots provided by lodges'
+    ],
+    tipsEs: [
+      'Reserva paquetes de lodge - incluye todo',
+      'Mínimo 3 noches recomendadas',
+      'Trae repelente de insectos y mangas largas',
+      'Bolsas impermeables esenciales',
+      'Madrugadas mejor para vida silvestre',
+      'Botas de goma proporcionadas por lodges'
+    ],
+    nearbyAttractions: ['lake-sandoval', 'puerto-maldonado', 'clay-licks'],
+    relatedSites: ['manu-park', 'pacaya-samiria', 'amazon-basin'],
+    gettingThere: 'Fly to Puerto Maldonado (30 min from Cusco), then boat to lodge.',
+    gettingThereEs: 'Vuela a Puerto Maldonado (30 min desde Cusco), luego bote al lodge.',
+    facilities: [
+      'Jungle lodges (various levels)',
+      'All meals included',
+      'Guided excursions',
+      'Canopy walkways',
+      'Observation towers',
+      'Research stations'
+    ],
+    facilitiesEs: [
+      'Lodges de selva (varios niveles)',
+      'Todas las comidas incluidas',
+      'Excursiones guiadas',
+      'Pasarelas de dosel',
+      'Torres de observación',
+      'Estaciones de investigación'
+    ]
+  },
+  {
+    slug: 'lake-sandoval',
+    name: 'Lake Sandoval',
+    nameEs: 'Lago Sandoval',
+    type: 'natural',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    altitude: 250,
+    description: 'A pristine oxbow lake in the Tambopata Reserve famous for its giant river otter population. Paddle canoes through flooded forest past monkeys, caimans, and colorful birds to reach this Amazon gem, one of the best places to see otters in the wild.',
+    descriptionEs: 'Un lago de meandro prístino en la Reserva Tambopata famoso por su población de nutrias gigantes de río. Rema en canoas a través del bosque inundado pasando monos, caimanes, y aves coloridas para llegar a esta joya amazónica, uno de los mejores lugares para ver nutrias en estado salvaje.',
+    history: 'Lake Sandoval was formed as an oxbow lake when the Madre de Dios River changed course, leaving behind this crescent-shaped lake. It became a protected area within Tambopata and is now one of the most popular and accessible Amazon destinations for day trips from Puerto Maldonado.',
+    historyEs: 'El Lago Sandoval se formó como un lago de meandro cuando el Río Madre de Dios cambió de curso, dejando atrás este lago en forma de media luna. Se convirtió en área protegida dentro de Tambopata y ahora es uno de los destinos amazónicos más populares y accesibles para excursiones de día desde Puerto Maldonado.',
+    highlights: [
+      'Giant river otters',
+      'Black caimans',
+      'Canoe paddling experience',
+      'Howler monkeys',
+      'Flooded forest walk',
+      'Accessible Amazon experience'
+    ],
+    highlightsEs: [
+      'Nutrias gigantes de río',
+      'Caimanes negros',
+      'Experiencia de remar en canoa',
+      'Monos aulladores',
+      'Caminata por bosque inundado',
+      'Experiencia amazónica accesible'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Full day (6-8 hours)',
+    durationEs: 'Día completo (6-8 horas)',
+    difficulty: 'moderate',
+    entranceFee: 'S/30 reserve fee + tour',
+    entranceFeeEs: 'S/30 tarifa de reserva + tour',
+    bestTime: 'Early morning for otters. Dry season (May-Oct) has lower water levels.',
+    bestTimeEs: 'Temprano en la mañana para nutrias. Temporada seca (mayo-oct) tiene niveles de agua más bajos.',
+    tips: [
+      'Go early morning for giant otters',
+      'Bring binoculars',
+      'Waterproof bags for cameras',
+      'Light, long-sleeved clothing',
+      'Insect repellent essential',
+      'Keep quiet to see more wildlife'
+    ],
+    tipsEs: [
+      'Ve temprano en la mañana para nutrias gigantes',
+      'Trae binoculares',
+      'Bolsas impermeables para cámaras',
+      'Ropa ligera de mangas largas',
+      'Repelente de insectos esencial',
+      'Mantén silencio para ver más vida silvestre'
+    ],
+    nearbyAttractions: ['tambopata-reserve', 'puerto-maldonado', 'monkey-island'],
+    relatedSites: ['tambopata-reserve', 'manu-park', 'pacaya-samiria'],
+    gettingThere: '25 min boat from Puerto Maldonado, then 3km forest walk, then canoe.',
+    gettingThereEs: '25 min en bote desde Puerto Maldonado, luego caminata de 3km por el bosque, luego canoa.',
+    facilities: [
+      'Marked trail through forest',
+      'Canoes at lake',
+      'Observation platform',
+      'Basic restrooms at trailhead',
+      'Guides required',
+      'No food facilities'
+    ],
+    facilitiesEs: [
+      'Sendero marcado por el bosque',
+      'Canoas en el lago',
+      'Plataforma de observación',
+      'Baños básicos al inicio del sendero',
+      'Guías requeridos',
+      'Sin instalaciones de comida'
+    ]
+  },
+  {
+    slug: 'paracas-reserve',
+    name: 'Paracas National Reserve',
+    nameEs: 'Reserva Nacional de Paracas',
+    type: 'natural',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 0,
+    description: 'A stunning coastal desert reserve where the Peruvian desert meets the Pacific Ocean. Dramatic red cliffs, secluded beaches, abundant marine life, and the famous Candelabra geoglyph make this an essential stop between Lima and Nazca.',
+    descriptionEs: 'Una impresionante reserva de desierto costero donde el desierto peruano se encuentra con el Océano Pacífico. Dramáticos acantilados rojos, playas aisladas, abundante vida marina, y el famoso geoglifo del Candelabro hacen de este una parada esencial entre Lima y Nazca.',
+    history: 'Peru\'s first marine reserve, established in 1975, Paracas protects 335,000 hectares of ocean and coastal desert. The area was home to the ancient Paracas culture (800 BCE - 100 CE), famous for their intricate textiles and the mysterious Candelabra geoglyph visible from the sea.',
+    historyEs: 'La primera reserva marina del Perú, establecida en 1975, Paracas protege 335,000 hectáreas de océano y desierto costero. El área fue hogar de la antigua cultura Paracas (800 AEC - 100 EC), famosa por sus intrincados textiles y el misterioso geoglifo del Candelabro visible desde el mar.',
+    highlights: [
+      'Dramatic coastal cliffs',
+      'Candelabra geoglyph',
+      'Red Beach (Playa Roja)',
+      'Sea lions and marine birds',
+      'Cathedral rock formation',
+      'Gateway to Ballestas Islands'
+    ],
+    highlightsEs: [
+      'Dramáticos acantilados costeros',
+      'Geoglifo del Candelabro',
+      'Playa Roja',
+      'Lobos marinos y aves marinas',
+      'Formación rocosa La Catedral',
+      'Puerta de entrada a las Islas Ballestas'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours (reserve tour)',
+    durationEs: '3-4 horas (tour de la reserva)',
+    difficulty: 'easy',
+    entranceFee: 'S/11 (adults), S/1 (children)',
+    entranceFeeEs: 'S/11 (adultos), S/1 (niños)',
+    bestTime: 'Year-round. Summer (Dec-Mar) warmer but windier.',
+    bestTimeEs: 'Todo el año. Verano (dic-mar) más cálido pero más ventoso.',
+    tips: [
+      'Combine with Ballestas Islands boat trip',
+      'Rent buggies or bikes to explore',
+      'Bring sunscreen - no shade',
+      'Wind can be strong - secure hats',
+      'Visit Lagunillas beach for swimming',
+      'Great en route to Nazca or Huacachina'
+    ],
+    tipsEs: [
+      'Combina con viaje en bote a Islas Ballestas',
+      'Alquila buggies o bicicletas para explorar',
+      'Trae protector solar - no hay sombra',
+      'El viento puede ser fuerte - asegura los sombreros',
+      'Visita la playa Lagunillas para nadar',
+      'Excelente en ruta a Nazca o Huacachina'
+    ],
+    nearbyAttractions: ['ballestas-islands', 'huacachina', 'nazca-lines'],
+    relatedSites: ['ballestas-islands', 'nazca-lines', 'huacachina-oasis'],
+    gettingThere: '3.5 hours south of Lima by car. Tours from Paracas town.',
+    gettingThereEs: '3.5 horas al sur de Lima en carro. Tours desde el pueblo de Paracas.',
+    facilities: [
+      'Visitor center',
+      'Restrooms at key points',
+      'Restaurant at Lagunillas',
+      'Vehicle rental available',
+      'Guides available',
+      'Parking areas'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes',
+      'Baños en puntos clave',
+      'Restaurante en Lagunillas',
+      'Alquiler de vehículos disponible',
+      'Guías disponibles',
+      'Áreas de estacionamiento'
+    ]
   }
 ];
 
