@@ -8082,6 +8082,298 @@ export const sites: Site[] = [
       'Tours guiados',
       'Baños en el sitio'
     ]
+  },
+  {
+    slug: 'gocta-falls',
+    name: 'Gocta Falls',
+    nameEs: 'Catarata de Gocta',
+    type: 'natural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 1770,
+    description: 'One of the world\'s tallest waterfalls plunges 771 meters in two dramatic tiers through lush cloud forest. Hidden from the outside world until 2005, Gocta offers a spectacular trek through pristine wilderness with hummingbirds, orchids, and the thundering cascade.',
+    descriptionEs: 'Una de las cataratas más altas del mundo se precipita 771 metros en dos dramáticos niveles a través de exuberante bosque nublado. Oculta del mundo exterior hasta 2005, Gocta ofrece una espectacular caminata a través de naturaleza prístina con colibríes, orquídeas y la estruendosa cascada.',
+    history: 'Local villagers knew of Gocta for centuries but kept it secret, believing a golden-haired mermaid lived in its waters. German researcher Stefan Ziemendorff measured the falls in 2005 and announced it to the world as one of the tallest waterfalls. The discovery put Chachapoyas on the tourist map and brought development to surrounding villages.',
+    historyEs: 'Los aldeanos locales conocían Gocta por siglos pero lo mantuvieron en secreto, creyendo que una sirena de cabello dorado vivía en sus aguas. El investigador alemán Stefan Ziemendorff midió las cataratas en 2005 y las anunció al mundo como una de las más altas. El descubrimiento puso a Chachapoyas en el mapa turístico y trajo desarrollo a los pueblos circundantes.',
+    highlights: [
+      'One of world\'s tallest waterfalls',
+      'Two-tiered 771-meter cascade',
+      'Cloud forest biodiversity',
+      'Hummingbirds and orchids en route',
+      'Pristine natural setting'
+    ],
+    highlightsEs: [
+      'Una de las cataratas más altas del mundo',
+      'Cascada de dos niveles de 771 metros',
+      'Biodiversidad del bosque nublado',
+      'Colibríes y orquídeas en el camino',
+      'Entorno natural prístino'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '5-6 hours round trip hike',
+    durationEs: '5-6 horas caminata ida y vuelta',
+    difficulty: 'moderate',
+    entranceFee: '10 soles adults, 5 soles children',
+    entranceFeeEs: '10 soles adultos, 5 soles niños',
+    bestTime: 'May-October (dry season). Waterfall fullest after rains.',
+    bestTimeEs: 'Mayo-Octubre (temporada seca). Catarata más llena después de lluvias.',
+    tips: [
+      'Start early to avoid afternoon clouds',
+      'Hire local guide from Cocachimba',
+      'Waterproof jacket essential',
+      'Good hiking shoes required',
+      'Bring plenty of water and snacks',
+      'Can ride horses part way'
+    ],
+    tipsEs: [
+      'Comienza temprano para evitar nubes de la tarde',
+      'Contrata guía local de Cocachimba',
+      'Chaqueta impermeable esencial',
+      'Buenos zapatos de trekking requeridos',
+      'Lleva suficiente agua y bocadillos',
+      'Puede ir a caballo parte del camino'
+    ],
+    nearbyAttractions: ['kuelap', 'chachapoyas', 'cocachimba'],
+    relatedSites: ['kuelap-fortress', 'yumbilla-falls', 'revash'],
+    gettingThere: 'Trailhead at Cocachimba village, 45 minutes from Chachapoyas. Local guides required.',
+    gettingThereEs: 'Inicio del sendero en pueblo Cocachimba, 45 minutos desde Chachapoyas. Guías locales requeridos.',
+    facilities: [
+      'Local guides in Cocachimba',
+      'Horse rental available',
+      'Basic lodging in village',
+      'Small restaurants',
+      'Trail is well-marked',
+      'No facilities at waterfall'
+    ],
+    facilitiesEs: [
+      'Guías locales en Cocachimba',
+      'Alquiler de caballos disponible',
+      'Alojamiento básico en el pueblo',
+      'Pequeños restaurantes',
+      'Sendero bien marcado',
+      'Sin instalaciones en la catarata'
+    ]
+  },
+  {
+    slug: 'paracas-national-reserve',
+    name: 'Paracas National Reserve',
+    nameEs: 'Reserva Nacional de Paracas',
+    type: 'natural',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 0,
+    description: 'Dramatic desert landscapes meet the Pacific Ocean in Peru\'s only coastal protected area. Red cliffs, hidden beaches, flamingo lagoons, and abundant marine wildlife create otherworldly scenery just hours from Lima.',
+    descriptionEs: 'Dramáticos paisajes desérticos se encuentran con el Océano Pacífico en la única área protegida costera del Perú. Acantilados rojos, playas ocultas, lagunas con flamencos y abundante vida marina crean paisajes de otro mundo a solo horas de Lima.',
+    history: 'The Paracas culture flourished here from 800 BCE to 100 CE, known for intricate textiles and cranial modification practices. The reserve was established in 1975 to protect marine ecosystems and the Paracas Peninsula. The 2007 earthquake devastated the famous Cathedral rock formation but the reserve\'s wild beauty endures.',
+    historyEs: 'La cultura Paracas floreció aquí desde 800 a.C. hasta 100 d.C., conocida por textiles intrincados y prácticas de modificación craneal. La reserva fue establecida en 1975 para proteger ecosistemas marinos y la Península de Paracas. El terremoto de 2007 devastó la famosa formación rocosa La Catedral pero la belleza salvaje de la reserva perdura.',
+    highlights: [
+      'Dramatic red cliff coastline',
+      'Secluded beaches',
+      'Flamingo lagoons',
+      'Marine wildlife viewing',
+      'Spectacular desert-ocean scenery'
+    ],
+    highlightsEs: [
+      'Dramática costa de acantilados rojos',
+      'Playas aisladas',
+      'Lagunas con flamencos',
+      'Observación de vida marina',
+      'Espectacular paisaje desierto-océano'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours driving tour',
+    durationEs: '3-4 horas tour en auto',
+    difficulty: 'easy',
+    entranceFee: '11 soles adults, 1 sol children',
+    entranceFeeEs: '11 soles adultos, 1 sol niños',
+    bestTime: 'Year-round. Best wildlife viewing June-September.',
+    bestTimeEs: 'Todo el año. Mejor observación de fauna Junio-Septiembre.',
+    tips: [
+      'Rent a car or join a tour',
+      'Combine with Ballestas boat trip',
+      'Bring sunscreen and hat - no shade',
+      'Wind can be strong - secure belongings',
+      'Visit Lagunillas beach for lunch',
+      'Watch for sea lions at viewpoints'
+    ],
+    tipsEs: [
+      'Alquila auto o únete a un tour',
+      'Combina con paseo en bote a Ballestas',
+      'Lleva protector solar y sombrero - sin sombra',
+      'El viento puede ser fuerte - asegura pertenencias',
+      'Visita playa Lagunillas para almuerzo',
+      'Busca lobos marinos en los miradores'
+    ],
+    nearbyAttractions: ['ballestas-islands', 'el-chaco', 'ica'],
+    relatedSites: ['ballestas-islands', 'huacachina-oasis', 'nazca-lines'],
+    gettingThere: '250km south of Lima (3-4 hours). Car rental or tours from Paracas town.',
+    gettingThereEs: '250km al sur de Lima (3-4 horas). Alquiler de auto o tours desde pueblo de Paracas.',
+    facilities: [
+      'Visitor center at entrance',
+      'Viewpoints with parking',
+      'Restaurants at Lagunillas',
+      'Restrooms at key points',
+      'Interpretive signs',
+      'Emergency services limited'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes en la entrada',
+      'Miradores con estacionamiento',
+      'Restaurantes en Lagunillas',
+      'Baños en puntos clave',
+      'Señales interpretativas',
+      'Servicios de emergencia limitados'
+    ]
+  },
+  {
+    slug: 'museo-larco',
+    name: 'Museo Larco',
+    nameEs: 'Museo Larco',
+    type: 'museum',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 150,
+    description: 'Peru\'s most celebrated private museum showcases 5,000 years of pre-Columbian art in a beautifully restored 18th-century mansion. Gold treasures, intricate textiles, and the famous erotic pottery collection make this essential Lima viewing.',
+    descriptionEs: 'El museo privado más célebre del Perú exhibe 5,000 años de arte precolombino en una mansión del siglo XVIII bellamente restaurada. Tesoros de oro, textiles intrincados y la famosa colección de cerámica erótica hacen de este una visita esencial en Lima.',
+    history: 'Founded in 1926 by Rafael Larco Hoyle, the museum occupies a vice-royal mansion built on a 7th-century pre-Columbian pyramid. The collection spans every major Peruvian civilization from Chavín to Inca. Larco pioneered the chronological study of Moche ceramics, and the museum\'s open storage lets visitors see 45,000 catalogued pieces.',
+    historyEs: 'Fundado en 1926 por Rafael Larco Hoyle, el museo ocupa una mansión virreinal construida sobre una pirámide precolombina del siglo VII. La colección abarca toda civilización peruana importante desde Chavín hasta Inca. Larco fue pionero en el estudio cronológico de cerámicas Moche, y el almacenamiento abierto del museo permite a los visitantes ver 45,000 piezas catalogadas.',
+    highlights: [
+      'Pre-Columbian gold treasures',
+      'Moche portrait ceramics',
+      'Famous erotic pottery gallery',
+      'Open storage with 45,000 pieces',
+      'Beautiful colonial gardens'
+    ],
+    highlightsEs: [
+      'Tesoros de oro precolombinos',
+      'Cerámicas retrato Moche',
+      'Famosa galería de cerámica erótica',
+      'Almacenamiento abierto con 45,000 piezas',
+      'Hermosos jardines coloniales'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '35 soles adults, free for children under 8',
+    entranceFeeEs: '35 soles adultos, gratis para niños menores de 8',
+    bestTime: 'Year-round. Evening visits for garden-lit dinner.',
+    bestTimeEs: 'Todo el año. Visitas nocturnas para cena con jardines iluminados.',
+    tips: [
+      'Allow 2-3 hours minimum',
+      'Kids love the portrait ceramics',
+      'Erotic gallery can be skipped with kids',
+      'On-site restaurant excellent',
+      'Gardens beautiful at sunset',
+      'Audio guides available'
+    ],
+    tipsEs: [
+      'Dedica mínimo 2-3 horas',
+      'A los niños les encantan las cerámicas retrato',
+      'Galería erótica se puede omitir con niños',
+      'Restaurante en sitio excelente',
+      'Jardines hermosos al atardecer',
+      'Audioguías disponibles'
+    ],
+    nearbyAttractions: ['pueblo-libre', 'huaca-pucllana', 'miraflores'],
+    relatedSites: ['huaca-pucllana', 'pachacamac', 'museo-de-oro'],
+    gettingThere: 'Located in Pueblo Libre district, 30 minutes from Miraflores by taxi.',
+    gettingThereEs: 'Ubicado en distrito de Pueblo Libre, 30 minutos de Miraflores en taxi.',
+    facilities: [
+      'Excellent on-site restaurant',
+      'Beautiful garden cafe',
+      'Gift shop',
+      'Audio guides in multiple languages',
+      'Wheelchair accessible',
+      'Clean restrooms'
+    ],
+    facilitiesEs: [
+      'Excelente restaurante en sitio',
+      'Hermoso café en el jardín',
+      'Tienda de regalos',
+      'Audioguías en múltiples idiomas',
+      'Accesible para sillas de ruedas',
+      'Baños limpios'
+    ]
+  },
+  {
+    slug: 'chan-chan',
+    name: 'Chan Chan Archaeological Zone',
+    nameEs: 'Zona Arqueológica de Chan Chan',
+    type: 'archaeological',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    altitude: 20,
+    description: 'The largest adobe city in the ancient world was capital of the Chimú Empire. This UNESCO World Heritage Site features intricate wall friezes, vast palace compounds, and ceremonial plazas revealing a sophisticated coastal civilization that rivaled the Incas.',
+    descriptionEs: 'La ciudad de adobe más grande del mundo antiguo fue capital del Imperio Chimú. Este Sitio Patrimonio de la Humanidad UNESCO presenta frisos de pared intrincados, vastos complejos de palacios y plazas ceremoniales que revelan una sofisticada civilización costera que rivalizó con los Incas.',
+    history: 'Chan Chan was built around 850 AD and served as the Chimú capital until Inca conquest in 1470. At its peak, the city covered 20 square kilometers and housed 60,000 people. Nine royal compounds contained treasure, administrative buildings, and burial platforms. The Incas stripped much wealth, and erosion threatens the fragile adobe structures today.',
+    historyEs: 'Chan Chan fue construida alrededor del 850 d.C. y sirvió como capital Chimú hasta la conquista Inca en 1470. En su apogeo, la ciudad cubría 20 kilómetros cuadrados y albergaba 60,000 personas. Nueve complejos reales contenían tesoros, edificios administrativos y plataformas de entierro. Los Incas despojaron gran parte de la riqueza, y la erosión amenaza las frágiles estructuras de adobe hoy.',
+    highlights: [
+      'UNESCO World Heritage Site',
+      'Largest adobe city ever built',
+      'Intricate geometric wall friezes',
+      'Nik An palace compound open to visitors',
+      'Chimú civilization insights'
+    ],
+    highlightsEs: [
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Ciudad de adobe más grande jamás construida',
+      'Frisos de pared geométricos intrincados',
+      'Complejo de palacio Nik An abierto a visitantes',
+      'Conocimientos de civilización Chimú'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '10 soles or combined ticket with other Trujillo sites',
+    entranceFeeEs: '10 soles o boleto combinado con otros sitios de Trujillo',
+    bestTime: 'Year-round. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Visitas matutinas evitan calor de la tarde.',
+    tips: [
+      'Hire a guide - essential for understanding',
+      'Bring sun protection - no shade',
+      'Morning visits coolest',
+      'Combine with Huacas del Sol y Luna',
+      'Site museum worth visiting first',
+      'Photography allowed'
+    ],
+    tipsEs: [
+      'Contrata un guía - esencial para entender',
+      'Lleva protección solar - sin sombra',
+      'Visitas matutinas más frescas',
+      'Combina con Huacas del Sol y Luna',
+      'Museo del sitio vale la pena visitar primero',
+      'Fotografía permitida'
+    ],
+    nearbyAttractions: ['trujillo', 'huacas-moche', 'huanchaco'],
+    relatedSites: ['huaca-sol-luna', 'sipan', 'tucume'],
+    gettingThere: '5km from Trujillo center. Taxis or organized tours available.',
+    gettingThereEs: '5km del centro de Trujillo. Taxis o tours organizados disponibles.',
+    facilities: [
+      'Site museum',
+      'Visitor center',
+      'Restrooms at entrance',
+      'Local guides',
+      'Parking available',
+      'Handicraft vendors'
+    ],
+    facilitiesEs: [
+      'Museo del sitio',
+      'Centro de visitantes',
+      'Baños en la entrada',
+      'Guías locales',
+      'Estacionamiento disponible',
+      'Vendedores de artesanías'
+    ]
   }
 ];
 

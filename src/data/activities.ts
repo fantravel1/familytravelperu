@@ -9047,6 +9047,352 @@ export const activities: Activity[] = [
       { name: 'El Ñuro Tours', familyFriendly: true },
       { name: 'Máncora Sea Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'gocta-falls-hike',
+    name: 'Gocta Falls Hiking Adventure',
+    nameEs: 'Aventura de Senderismo a Gocta',
+    type: 'adventure',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Trek through cloud forest to one of the world\'s tallest waterfalls. This moderate hike rewards families with stunning views of the 771-meter cascade, hummingbirds, orchids, and the untouched beauty of northern Peru.',
+    descriptionEs: 'Camina a través del bosque nublado hasta una de las cataratas más altas del mundo. Esta caminata moderada recompensa a las familias con impresionantes vistas de la cascada de 771 metros, colibríes, orquídeas y la belleza intacta del norte del Perú.',
+    whatToExpect: 'Start from Cocachimba village with a local guide who knows the trails and wildlife. Hike through farmland before entering lush cloud forest alive with bird calls and butterflies. The trail crosses streams and climbs gradually, with viewpoints revealing the massive waterfall ahead. Reach the base of Gocta where mist from the thundering cascade creates rainbows on sunny days. Optional horse rental for part of the trail.',
+    whatToExpectEs: 'Comienza desde el pueblo de Cocachimba con un guía local que conoce los senderos y la vida silvestre. Camina a través de tierras de cultivo antes de entrar al exuberante bosque nublado lleno de cantos de aves y mariposas. El sendero cruza arroyos y sube gradualmente, con miradores que revelan la masiva cascada adelante. Llega a la base de Gocta donde la neblina de la estruendosa cascada crea arcoíris en días soleados. Alquiler opcional de caballos para parte del sendero.',
+    highlights: [
+      'One of world\'s tallest waterfalls',
+      'Cloud forest biodiversity',
+      'Hummingbirds and orchids',
+      'Local community guides',
+      'Pristine natural setting'
+    ],
+    highlightsEs: [
+      'Una de las cataratas más altas del mundo',
+      'Biodiversidad del bosque nublado',
+      'Colibríes y orquídeas',
+      'Guías de la comunidad local',
+      'Entorno natural prístino'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '5-6 hours round trip',
+    durationEs: '5-6 horas ida y vuelta',
+    difficulty: 'moderate',
+    priceRange: '$30-60 per person with guide',
+    priceRangeEs: '$30-60 por persona con guía',
+    bestTime: 'May-October (dry season)',
+    bestTimeEs: 'Mayo-Octubre (temporada seca)',
+    includes: [
+      'Local community guide',
+      'Trail entrance fees',
+      'Horse rental optional extra',
+      'Lunch sometimes included',
+      'Transportation from Chachapoyas optional'
+    ],
+    includesEs: [
+      'Guía de la comunidad local',
+      'Tarifas de entrada al sendero',
+      'Alquiler de caballos extra opcional',
+      'Almuerzo a veces incluido',
+      'Transporte desde Chachapoyas opcional'
+    ],
+    tips: [
+      'Start early for best weather',
+      'Waterproof jacket essential',
+      'Good hiking shoes required',
+      'Bring plenty of water',
+      'Binoculars for birdwatching',
+      'Can combine upper and lower falls'
+    ],
+    tipsEs: [
+      'Comienza temprano para mejor clima',
+      'Chaqueta impermeable esencial',
+      'Buenos zapatos de trekking requeridos',
+      'Lleva suficiente agua',
+      'Binoculares para observación de aves',
+      'Puede combinar cataratas superior e inferior'
+    ],
+    safetyNotes: [
+      'Trail can be slippery when wet',
+      'Moderate fitness required',
+      'Stay on marked trails',
+      'Don\'t approach waterfall base in heavy rain',
+      'Leeches possible in wet season'
+    ],
+    safetyNotesEs: [
+      'El sendero puede ser resbaloso cuando está mojado',
+      'Se requiere condición física moderada',
+      'Permanece en senderos marcados',
+      'No te acerques a la base de la cascada en lluvia fuerte',
+      'Sanguijuelas posibles en temporada de lluvias'
+    ],
+    relatedActivities: ['kuelap-fortress-tour', 'yumbilla-waterfall-trek', 'chachapoyas-tour'],
+    providers: [
+      { name: 'Cocachimba Community Guides', familyFriendly: true },
+      { name: 'Gocta Andes Lodge', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'paracas-reserve-tour',
+    name: 'Paracas National Reserve Tour',
+    nameEs: 'Tour Reserva Nacional de Paracas',
+    type: 'nature',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Explore Peru\'s only coastal protected area where desert cliffs meet the Pacific Ocean. Drive past flamingo lagoons, dramatic viewpoints, and secluded beaches in this otherworldly landscape.',
+    descriptionEs: 'Explora la única área protegida costera del Perú donde acantilados desérticos se encuentran con el Océano Pacífico. Conduce junto a lagunas de flamencos, miradores dramáticos y playas aisladas en este paisaje de otro mundo.',
+    whatToExpect: 'Tour the Paracas Peninsula by vehicle, stopping at spectacular viewpoints overlooking the Pacific. See the rugged red cliffs at La Catedral (though the rock formation collapsed in 2007). Visit flamingo lagoons where pink birds wade in shallow waters. Stop at Lagunillas beach for fresh seafood lunch with sea lion viewing. Marvel at the contrast of Mars-like desert meeting turquoise ocean.',
+    whatToExpectEs: 'Recorre la Península de Paracas en vehículo, deteniéndote en espectaculares miradores sobre el Pacífico. Ve los escarpados acantilados rojos en La Catedral (aunque la formación rocosa colapsó en 2007). Visita lagunas de flamencos donde aves rosadas vadean en aguas poco profundas. Para en playa Lagunillas para almuerzo de mariscos frescos con vista de lobos marinos. Maravíllate con el contraste del desierto como Marte encontrándose con el océano turquesa.',
+    highlights: [
+      'Dramatic desert-ocean scenery',
+      'Flamingo lagoon visits',
+      'Sea lion sightings',
+      'Fresh seafood lunch option',
+      'Spectacular photography'
+    ],
+    highlightsEs: [
+      'Dramático paisaje desierto-océano',
+      'Visitas a lagunas de flamencos',
+      'Avistamientos de lobos marinos',
+      'Opción de almuerzo de mariscos frescos',
+      'Fotografía espectacular'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 per person',
+    priceRangeEs: '$30-50 por persona',
+    bestTime: 'Year-round, best wildlife June-September',
+    bestTimeEs: 'Todo el año, mejor fauna Junio-Septiembre',
+    includes: [
+      'Transportation in reserve',
+      'Guide or driver',
+      'Reserve entrance fee',
+      'Multiple viewpoint stops',
+      'Beach time at Lagunillas'
+    ],
+    includesEs: [
+      'Transporte en la reserva',
+      'Guía o conductor',
+      'Tarifa de entrada a la reserva',
+      'Múltiples paradas en miradores',
+      'Tiempo en playa Lagunillas'
+    ],
+    tips: [
+      'Combine with Ballestas morning tour',
+      'Bring strong sunscreen - no shade',
+      'Wind can be intense - secure hats',
+      'Best light for photos late afternoon',
+      'Bring cash for lunch at beach',
+      'Wear layers - coastal winds cool'
+    ],
+    tipsEs: [
+      'Combina con tour matutino a Ballestas',
+      'Lleva protector solar fuerte - sin sombra',
+      'El viento puede ser intenso - asegura sombreros',
+      'Mejor luz para fotos tarde en la tarde',
+      'Lleva efectivo para almuerzo en playa',
+      'Usa capas - vientos costeros frescos'
+    ],
+    safetyNotes: [
+      'Stay on marked paths at viewpoints',
+      'Cliff edges can be dangerous',
+      'Strong sun exposure',
+      'Don\'t swim in rough areas',
+      'Watch for sea lion areas'
+    ],
+    safetyNotesEs: [
+      'Permanece en senderos marcados en miradores',
+      'Bordes de acantilados pueden ser peligrosos',
+      'Fuerte exposición al sol',
+      'No nades en áreas con oleaje fuerte',
+      'Cuidado con áreas de lobos marinos'
+    ],
+    relatedActivities: ['ballestas-islands-boat-tour', 'huacachina-sandboarding-buggy', 'ica-pisco-tasting-tour'],
+    providers: [
+      { name: 'Paracas Explorer', familyFriendly: true },
+      { name: 'Peru Hop', familyFriendly: true },
+      { name: 'Paracas Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'museo-larco-visit',
+    name: 'Museo Larco Cultural Visit',
+    nameEs: 'Visita Cultural al Museo Larco',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Explore Peru\'s finest museum of pre-Columbian art housed in an 18th-century mansion. Discover gold treasures, intricate textiles, and 5,000 years of ancient civilizations followed by dinner in the beautiful garden restaurant.',
+    descriptionEs: 'Explora el mejor museo de arte precolombino del Perú alojado en una mansión del siglo XVIII. Descubre tesoros de oro, textiles intrincados y 5,000 años de civilizaciones antiguas seguido de cena en el hermoso restaurante del jardín.',
+    whatToExpect: 'Enter through beautiful colonial gardens into a world of ancient Peruvian civilizations. Chronologically organized galleries trace cultures from Chavín to Inca. Marvel at gold ceremonial objects, intricate Moche portrait pottery, and elaborate textiles. The famous open storage area reveals 45,000 catalogued pieces. Kids love finding animal motifs and expressive faces in the ceramics. Finish with dinner in the magical garden surrounded by flowering plants.',
+    whatToExpectEs: 'Entra a través de hermosos jardines coloniales a un mundo de antiguas civilizaciones peruanas. Galerías organizadas cronológicamente trazan culturas desde Chavín hasta Inca. Maravíllate con objetos ceremoniales de oro, intrincadas cerámicas retrato Moche y elaborados textiles. El famoso área de almacenamiento abierto revela 45,000 piezas catalogadas. A los niños les encanta encontrar motivos de animales y caras expresivas en las cerámicas. Termina con cena en el mágico jardín rodeado de plantas con flores.',
+    highlights: [
+      '5,000 years of Peruvian history',
+      'Gold treasures and textiles',
+      'Moche portrait ceramics',
+      'Beautiful garden setting',
+      'Excellent on-site restaurant'
+    ],
+    highlightsEs: [
+      '5,000 años de historia peruana',
+      'Tesoros de oro y textiles',
+      'Cerámicas retrato Moche',
+      'Hermoso entorno de jardín',
+      'Excelente restaurante en sitio'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours (museum), +1-2 hours for dinner',
+    durationEs: '2-3 horas (museo), +1-2 horas para cena',
+    difficulty: 'easy',
+    priceRange: '35 soles museum entry, dinner extra',
+    priceRangeEs: '35 soles entrada al museo, cena aparte',
+    bestTime: 'Year-round, evening visits magical',
+    bestTimeEs: 'Todo el año, visitas nocturnas mágicas',
+    includes: [
+      'Museum entrance',
+      'Audio guide available',
+      'Access to all galleries',
+      'Open storage viewing',
+      'Garden access'
+    ],
+    includesEs: [
+      'Entrada al museo',
+      'Audioguía disponible',
+      'Acceso a todas las galerías',
+      'Vista del almacenamiento abierto',
+      'Acceso al jardín'
+    ],
+    tips: [
+      'Book dinner reservation in advance',
+      'Audio guide highly recommended',
+      'Allow 2-3 hours minimum',
+      'Erotic gallery can be skipped with kids',
+      'Evening garden is magical',
+      'Gift shop has quality replicas'
+    ],
+    tipsEs: [
+      'Reserva cena con anticipación',
+      'Audioguía altamente recomendada',
+      'Dedica mínimo 2-3 horas',
+      'Galería erótica se puede omitir con niños',
+      'Jardín nocturno es mágico',
+      'Tienda tiene réplicas de calidad'
+    ],
+    safetyNotes: [
+      'Wheelchair accessible',
+      'Easy walking throughout',
+      'Air conditioned galleries',
+      'Secure bag storage available',
+      'Safe neighborhood'
+    ],
+    safetyNotesEs: [
+      'Accesible para sillas de ruedas',
+      'Caminata fácil en todo el lugar',
+      'Galerías con aire acondicionado',
+      'Almacenamiento seguro de bolsas disponible',
+      'Vecindario seguro'
+    ],
+    relatedActivities: ['huaca-pucllana-night-tour', 'lima-food-tour', 'miraflores-walking-tour'],
+    providers: [
+      { name: 'Museo Larco Direct', familyFriendly: true },
+      { name: 'Lima Cultural Tours', familyFriendly: true },
+      { name: 'Peru Hop', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'trujillo-archaeological-tour',
+    name: 'Trujillo Archaeological Circuit',
+    nameEs: 'Circuito Arqueológico de Trujillo',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Discover the Moche and Chimú civilizations at Chan Chan, the world\'s largest adobe city, and the impressive Huacas del Sol y la Luna with their vivid murals. Northern Peru\'s archaeological treasures rival those of Cusco.',
+    descriptionEs: 'Descubre las civilizaciones Moche y Chimú en Chan Chan, la ciudad de adobe más grande del mundo, y las impresionantes Huacas del Sol y la Luna con sus vívidos murales. Los tesoros arqueológicos del norte del Perú rivalizan con los de Cusco.',
+    whatToExpect: 'Begin at Chan Chan, walking through the Nik An palace complex with its intricate geometric friezes depicting sea life and mythical figures. Continue to the Huaca de la Luna where vibrant multicolored murals of the Moche god Ai Apaec survive on temple walls. Learn about human sacrifice rituals and sophisticated engineering. End in charming Huanchaco village for fresh ceviche watching traditional reed fishing boats.',
+    whatToExpectEs: 'Comienza en Chan Chan, caminando por el complejo de palacio Nik An con sus intrincados frisos geométricos que representan vida marina y figuras míticas. Continúa a la Huaca de la Luna donde vibrantes murales multicolores del dios Moche Ai Apaec sobreviven en las paredes del templo. Aprende sobre rituales de sacrificio humano e ingeniería sofisticada. Termina en el encantador pueblo de Huanchaco con ceviche fresco observando tradicionales botes de pesca de totora.',
+    highlights: [
+      'Chan Chan UNESCO site',
+      'Huaca de la Luna murals',
+      'Two ancient civilizations',
+      'Huanchaco beach village',
+      'Traditional reed boats'
+    ],
+    highlightsEs: [
+      'Sitio UNESCO Chan Chan',
+      'Murales de Huaca de la Luna',
+      'Dos civilizaciones antiguas',
+      'Pueblo de playa Huanchaco',
+      'Tradicionales botes de totora'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Full day (6-8 hours)',
+    durationEs: 'Día completo (6-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$50-80 per person',
+    priceRangeEs: '$50-80 por persona',
+    bestTime: 'Year-round, December-April warmest',
+    bestTimeEs: 'Todo el año, Diciembre-Abril más cálido',
+    includes: [
+      'Private transportation',
+      'Professional guide',
+      'Chan Chan entrance',
+      'Huaca de la Luna entrance',
+      'Site museum visits',
+      'Huanchaco beach time'
+    ],
+    includesEs: [
+      'Transporte privado',
+      'Guía profesional',
+      'Entrada a Chan Chan',
+      'Entrada a Huaca de la Luna',
+      'Visitas a museos del sitio',
+      'Tiempo en playa Huanchaco'
+    ],
+    tips: [
+      'Morning visits avoid heat',
+      'Bring sun protection - little shade',
+      'Hire guide for full understanding',
+      'Try ceviche in Huanchaco',
+      'Less crowded than southern sites',
+      'Great photography opportunities'
+    ],
+    tipsEs: [
+      'Visitas matutinas evitan el calor',
+      'Lleva protección solar - poca sombra',
+      'Contrata guía para entendimiento completo',
+      'Prueba ceviche en Huanchaco',
+      'Menos concurrido que sitios del sur',
+      'Grandes oportunidades de fotografía'
+    ],
+    safetyNotes: [
+      'Sun exposure intense - protect skin',
+      'Easy walking on flat terrain',
+      'Bring plenty of water',
+      'Watch for uneven surfaces',
+      'Stay on marked paths'
+    ],
+    safetyNotesEs: [
+      'Exposición al sol intensa - protege la piel',
+      'Caminata fácil en terreno plano',
+      'Lleva suficiente agua',
+      'Cuidado con superficies irregulares',
+      'Permanece en senderos marcados'
+    ],
+    relatedActivities: ['sipan-lord-tour', 'tucume-pyramids', 'chiclayo-museums'],
+    providers: [
+      { name: 'Trujillo Tours', familyFriendly: true },
+      { name: 'Chan Chan Tours', familyFriendly: true },
+      { name: 'Moche Route', familyFriendly: true }
+    ]
   }
 ];
 
