@@ -10395,6 +10395,360 @@ export const activities: Activity[] = [
       { name: 'Casma Tours', familyFriendly: true },
       { name: 'Ancient Peru Expeditions', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'tipon-water-engineering-tour',
+    name: 'Tipón Water Engineering Tour',
+    nameEs: 'Tour de Ingeniería Hidráulica de Tipón',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover the engineering genius of the Incas at Tipón, one of the most impressive hydraulic complexes in South America. This educational tour focuses on understanding how the Incas mastered water management, creating sophisticated irrigation systems, fountains, and aqueducts that continue to function perfectly after 500+ years. An excellent STEM-focused experience for curious families.',
+    descriptionEs: 'Descubre el genio de la ingeniería de los Incas en Tipón, uno de los complejos hidráulicos más impresionantes de Sudamérica. Este tour educativo se enfoca en entender cómo los Incas dominaron el manejo del agua, creando sistemas de irrigación sofisticados, fuentes y acueductos que continúan funcionando perfectamente después de más de 500 años. Una excelente experiencia enfocada en STEM para familias curiosas.',
+    whatToExpect: 'Your expert guide will meet you at the site entrance, beginning with an overview of Inca engineering principles. Walk through the terraced complex as your guide demonstrates how water flows through precisely calculated channels. Children can participate in interactive experiments measuring water flow rates and observing pressure dynamics. Visit the ceremonial fountains where water still cascades exactly as the Incas designed. Your guide explains how they achieved perfect water distribution without modern tools. Explore the agricultural terraces and learn how micro-climates were created for different crops. The tour includes time for hands-on exploration with water channels and optional sketching activities for young engineers. End at the upper viewpoint overlooking the entire hydraulic system.',
+    whatToExpectEs: 'Tu guía experto te encontrará en la entrada del sitio, comenzando con una visión general de los principios de ingeniería Inca. Camina por el complejo de terrazas mientras tu guía demuestra cómo el agua fluye a través de canales calculados con precisión. Los niños pueden participar en experimentos interactivos midiendo tasas de flujo de agua y observando dinámicas de presión. Visita las fuentes ceremoniales donde el agua aún cae exactamente como los Incas lo diseñaron. Tu guía explica cómo lograron una distribución perfecta del agua sin herramientas modernas. Explora las terrazas agrícolas y aprende cómo se crearon microclimas para diferentes cultivos. El tour incluye tiempo para exploración práctica con canales de agua y actividades opcionales de dibujo para jóvenes ingenieros. Termina en el mirador superior con vista a todo el sistema hidráulico.',
+    highlights: [
+      'See 500-year-old water systems still functioning perfectly',
+      'Interactive STEM activities for children',
+      'Learn ancient engineering principles',
+      'Walk through spectacular terraced gardens',
+      'Visit ceremonial fountains',
+      'Understand Inca agricultural innovation',
+      'Fewer crowds than main Cusco sites'
+    ],
+    highlightsEs: [
+      'Ver sistemas de agua de 500 años aún funcionando perfectamente',
+      'Actividades STEM interactivas para niños',
+      'Aprender principios de ingeniería antigua',
+      'Caminar por espectaculares jardines en terrazas',
+      'Visitar fuentes ceremoniales',
+      'Entender la innovación agrícola Inca',
+      'Menos multitudes que los sitios principales de Cusco'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. Morning visits have best light for photography. Avoid rainy season afternoons.',
+    bestTimeEs: 'Todo el año. Visitas matutinas tienen mejor luz para fotografía. Evitar tardes en temporada de lluvias.',
+    includes: [
+      'Site entrance fee',
+      'Specialized engineering-focused guide',
+      'Transportation from Cusco',
+      'Interactive activity materials',
+      'Water and snacks'
+    ],
+    includesEs: [
+      'Entrada al sitio',
+      'Guía especializado enfocado en ingeniería',
+      'Transporte desde Cusco',
+      'Materiales para actividades interactivas',
+      'Agua y snacks'
+    ],
+    tips: [
+      'Ask for guides who specialize in engineering explanations',
+      'Bring a notebook for children to sketch the water systems',
+      'Combine with Pikillacta for a full South Valley day',
+      'The local restaurant serves excellent cuy (guinea pig)',
+      'Less crowded in afternoons but morning light is better'
+    ],
+    tipsEs: [
+      'Pide guías especializados en explicaciones de ingeniería',
+      'Trae un cuaderno para que los niños dibujen los sistemas de agua',
+      'Combina con Pikillacta para un día completo del Valle Sur',
+      'El restaurante local sirve excelente cuy',
+      'Menos concurrido en las tardes pero la luz matutina es mejor'
+    ],
+    safetyNotes: [
+      'Altitude 3,500m - acclimatize in Cusco first',
+      'Paths can be slippery when wet',
+      'Stay on designated walkways',
+      'Sun protection essential',
+      'Water channels are shallow but supervise young children'
+    ],
+    safetyNotesEs: [
+      'Altitud 3,500m - aclimatarse en Cusco primero',
+      'Caminos pueden ser resbaladizos cuando están mojados',
+      'Permanecer en senderos designados',
+      'Protección solar esencial',
+      'Canales de agua son poco profundos pero supervisar niños pequeños'
+    ],
+    relatedActivities: ['south-valley-tour', 'cusco-archaeological-circuit', 'moray-maras-tour'],
+    providers: [
+      { name: 'Cusco Engineering Tours', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Educational Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-temples-circuit',
+    name: 'Cusco Temples & Ceremonial Sites Circuit',
+    nameEs: 'Circuito de Templos y Sitios Ceremoniales de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the mysterious ceremonial sites surrounding Cusco on this half-day tour visiting Qenqo, Puca Pucara, and Tambomachay. These sites reveal the spiritual world of the Incas, from underground ritual chambers to fortress lookouts and sacred bathing temples. Perfect for families who want to understand Inca cosmology and spirituality beyond the major archaeological sites.',
+    descriptionEs: 'Explora los misteriosos sitios ceremoniales que rodean Cusco en este tour de medio día visitando Qenqo, Puca Pucara y Tambomachay. Estos sitios revelan el mundo espiritual de los Incas, desde cámaras rituales subterráneas hasta miradores de fortalezas y templos de baño sagrados. Perfecto para familias que quieren entender la cosmología y espiritualidad Inca más allá de los principales sitios arqueológicos.',
+    whatToExpect: 'Begin at Qenqo, where your guide leads you through the carved limestone labyrinth. Descend into the underground chamber where Inca priests performed mummification ceremonies - a fascinating but not scary experience for children. Marvel at the zigzag channels carved into rock for chicha offerings. Continue to Puca Pucara, the Red Fortress, which served as a checkpoint and tambo (rest stop) on Inca roads. Climb to the watchtower for panoramic views of the valley. Children enjoy exploring the multiple levels and imagining themselves as Inca lookouts. End at Tambomachay, the bath of the Inca, where crystal-clear water still flows through perfectly engineered channels into ceremonial bathing pools. Learn about ritual purification and the sacred importance of water in Inca religion.',
+    whatToExpectEs: 'Comienza en Qenqo, donde tu guía te lleva a través del laberinto de piedra caliza tallada. Desciende a la cámara subterránea donde los sacerdotes Incas realizaban ceremonias de momificación - una experiencia fascinante pero no aterradora para niños. Maravíllate con los canales en zigzag tallados en roca para ofrendas de chicha. Continúa a Puca Pucara, la Fortaleza Roja, que servía como punto de control y tambo (lugar de descanso) en los caminos Incas. Sube a la torre de vigilancia para vistas panorámicas del valle. Los niños disfrutan explorando los múltiples niveles e imaginándose como vigías Incas. Termina en Tambomachay, el baño del Inca, donde agua cristalina aún fluye a través de canales perfectamente diseñados hacia piscinas de baño ceremoniales. Aprende sobre purificación ritual y la importancia sagrada del agua en la religión Inca.',
+    highlights: [
+      'Explore underground ritual chambers at Qenqo',
+      'Climb the Red Fortress watchtower',
+      'See sacred bathing pools still flowing',
+      'Learn about Inca mummification practices',
+      'Panoramic valley views from Puca Pucara',
+      'Understand Inca religious beliefs',
+      'Less crowded than Sacsayhuaman'
+    ],
+    highlightsEs: [
+      'Explorar cámaras rituales subterráneas en Qenqo',
+      'Subir la torre de vigilancia de la Fortaleza Roja',
+      'Ver piscinas de baño sagradas aún fluyendo',
+      'Aprender sobre prácticas de momificación Inca',
+      'Vistas panorámicas del valle desde Puca Pucara',
+      'Entender creencias religiosas Incas',
+      'Menos concurrido que Sacsayhuaman'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$50-80 per person',
+    priceRangeEs: '$50-80 por persona',
+    bestTime: 'Year-round. Morning starts recommended. April-October dry season ideal.',
+    bestTimeEs: 'Todo el año. Se recomiendan salidas matutinas. Temporada seca abril-octubre ideal.',
+    includes: [
+      'All site entrance fees',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Water and snacks',
+      'Hotel pickup and dropoff'
+    ],
+    includesEs: [
+      'Todas las entradas a sitios',
+      'Guía bilingüe profesional',
+      'Transporte privado',
+      'Agua y snacks',
+      'Recogida y regreso al hotel'
+    ],
+    tips: [
+      'Can combine with Sacsayhuaman for full-day circuit',
+      'Bring flashlight for underground chamber at Qenqo',
+      'These sites are covered by Boleto Turístico',
+      'Morning light best for photography',
+      'Dress in layers - weather changes quickly'
+    ],
+    tipsEs: [
+      'Puede combinarse con Sacsayhuaman para circuito de día completo',
+      'Trae linterna para cámara subterránea en Qenqo',
+      'Estos sitios están cubiertos por el Boleto Turístico',
+      'Luz matutina mejor para fotografía',
+      'Vístete en capas - el clima cambia rápidamente'
+    ],
+    safetyNotes: [
+      'Altitude 3,700m - acclimatize first',
+      'Underground chamber at Qenqo has low ceilings',
+      'Some climbing required at Puca Pucara',
+      'Supervise children on fortress walls',
+      'Sturdy footwear recommended'
+    ],
+    safetyNotesEs: [
+      'Altitud 3,700m - aclimatarse primero',
+      'Cámara subterránea en Qenqo tiene techos bajos',
+      'Se requiere algo de escalada en Puca Pucara',
+      'Supervisar niños en muros de fortaleza',
+      'Calzado resistente recomendado'
+    ],
+    relatedActivities: ['cusco-archaeological-circuit', 'sacsayhuaman-tour', 'cusco-city-tour'],
+    providers: [
+      { name: 'Cusco Sacred Sites', familyFriendly: true },
+      { name: 'Inca Ceremonial Tours', familyFriendly: true },
+      { name: 'Andean Mysticism Explorers', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huanchaco-surf-totora',
+    name: 'Huanchaco Surf & Caballitos de Totora Experience',
+    nameEs: 'Experiencia de Surf y Caballitos de Totora en Huanchaco',
+    type: 'adventure',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Experience the unique maritime culture of Huanchaco, where fishermen have paddled reed boats called caballitos de totora for over 3,000 years. This family-friendly beach day combines ancient traditions with modern surfing, offering caballito rides, surf lessons, and coastal exploration. The perfect blend of cultural immersion and beach fun on Peru\'s sunny northern coast.',
+    descriptionEs: 'Experimenta la cultura marítima única de Huanchaco, donde los pescadores han remado botes de caña llamados caballitos de totora por más de 3,000 años. Este día de playa familiar combina tradiciones antiguas con surf moderno, ofreciendo paseos en caballito, clases de surf y exploración costera. La combinación perfecta de inmersión cultural y diversión playera en la soleada costa norte de Perú.',
+    whatToExpect: 'Arrive at Huanchaco pier where local fishermen demonstrate caballito de totora construction and paddling techniques. Children and adults can try balancing on these remarkable reed boats, learning how fishermen have used them since pre-Inca times. After the caballito experience, move to the beach for family surf lessons. Huanchaco\'s gentle waves are ideal for beginners of all ages. Professional instructors provide boards, wetsuits, and patient guidance. Break for fresh ceviche at a beachfront restaurant, watching fishermen return with their catch. Spend the afternoon exploring the pier, visiting the totora reed beds where boats are still made traditionally, or relaxing on the beach. Watch the spectacular sunset as fishermen paddle their caballitos across golden waters.',
+    whatToExpectEs: 'Llega al muelle de Huanchaco donde pescadores locales demuestran la construcción y técnicas de remo de caballitos de totora. Niños y adultos pueden intentar balancearse en estos notables botes de caña, aprendiendo cómo los pescadores los han usado desde tiempos pre-Incas. Después de la experiencia del caballito, muévete a la playa para clases de surf familiar. Las olas suaves de Huanchaco son ideales para principiantes de todas las edades. Instructores profesionales proporcionan tablas, trajes de neopreno y guía paciente. Descansa con ceviche fresco en un restaurante frente al mar, observando a los pescadores regresar con su captura. Pasa la tarde explorando el muelle, visitando los juncales de totora donde los botes aún se hacen tradicionalmente, o relajándote en la playa. Observa el espectacular atardecer mientras los pescadores reman sus caballitos sobre aguas doradas.',
+    highlights: [
+      'Ride authentic 3,000-year-old reed boats',
+      'Learn to surf on beginner-friendly waves',
+      'Meet local fishermen preserving ancient traditions',
+      'Fresh seafood lunch at beachfront restaurants',
+      'Watch traditional totora boat-building',
+      'Spectacular Pacific Ocean sunsets',
+      'UNESCO-recognized cultural heritage'
+    ],
+    highlightsEs: [
+      'Montar auténticos botes de caña de 3,000 años',
+      'Aprender a surfear en olas amigables para principiantes',
+      'Conocer pescadores locales que preservan tradiciones antiguas',
+      'Almuerzo de mariscos frescos en restaurantes frente al mar',
+      'Observar construcción tradicional de botes de totora',
+      'Espectaculares atardeceres sobre el Océano Pacífico',
+      'Patrimonio cultural reconocido por UNESCO'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Full day (6-8 hours)',
+    durationEs: 'Día completo (6-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'Year-round. December-March warmest for swimming. Mornings best for calm seas.',
+    bestTimeEs: 'Todo el año. Diciembre-marzo más cálido para nadar. Mañanas mejores para mar tranquilo.',
+    includes: [
+      'Caballito de totora experience',
+      'Surf lesson with equipment',
+      'Wetsuit rental',
+      'Fresh seafood lunch',
+      'Transportation from Trujillo'
+    ],
+    includesEs: [
+      'Experiencia de caballito de totora',
+      'Clase de surf con equipo',
+      'Alquiler de traje de neopreno',
+      'Almuerzo de mariscos frescos',
+      'Transporte desde Trujillo'
+    ],
+    tips: [
+      'Bring swimsuit, towel, and change of clothes',
+      'Apply reef-safe sunscreen before activities',
+      'Morning surf lessons have smaller crowds',
+      'Try the ceviche at Restaurant Big Ben',
+      'Sunset caballito rides are magical'
+    ],
+    tipsEs: [
+      'Trae traje de baño, toalla y ropa de cambio',
+      'Aplica protector solar amigable con arrecifes antes de las actividades',
+      'Clases de surf matutinas tienen menos multitudes',
+      'Prueba el ceviche en Restaurant Big Ben',
+      'Paseos en caballito al atardecer son mágicos'
+    ],
+    safetyNotes: [
+      'Professional surf instructors supervise all water activities',
+      'Life jackets available for caballito rides',
+      'Calm waves ideal for beginners',
+      'Stay in designated swimming areas',
+      'Rip currents rare but heed lifeguard warnings'
+    ],
+    safetyNotesEs: [
+      'Instructores de surf profesionales supervisan todas las actividades acuáticas',
+      'Chalecos salvavidas disponibles para paseos en caballito',
+      'Olas tranquilas ideales para principiantes',
+      'Permanecer en áreas de natación designadas',
+      'Corrientes de resaca raras pero atender advertencias de salvavidas'
+    ],
+    relatedActivities: ['trujillo-archaeological-tour', 'huacas-moche-tour', 'chiclayo-heritage-tour'],
+    providers: [
+      { name: 'Huanchaco Surf School', familyFriendly: true },
+      { name: 'Caballitos de Totora Tours', familyFriendly: true },
+      { name: 'North Peru Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lima-craft-beer-tour',
+    name: 'Lima Craft Beer & Artisan Food Tour',
+    nameEs: 'Tour de Cerveza Artesanal y Comida Artesana de Lima',
+    type: 'culinary',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Discover Lima\'s booming craft beer scene on this family-friendly culinary adventure through the trendy neighborhoods of Barranco and Miraflores. While adults sample Peru\'s best microbrews, kids enjoy artisan sodas, fresh juices, and Peruvian street snacks. Visit local breweries, learn about the brewing process, and pair craft beers with innovative Peruvian cuisine. A unique urban food experience showcasing Lima\'s modern gastronomic revolution.',
+    descriptionEs: 'Descubre la floreciente escena de cerveza artesanal de Lima en esta aventura culinaria familiar por los barrios de moda de Barranco y Miraflores. Mientras los adultos prueban las mejores microcervecerías de Perú, los niños disfrutan de sodas artesanales, jugos frescos y snacks callejeros peruanos. Visita cervecerías locales, aprende sobre el proceso de elaboración y maridaje de cervezas artesanales con cocina peruana innovadora. Una experiencia urbana de comida única que muestra la revolución gastronómica moderna de Lima.',
+    whatToExpect: 'Meet your foodie guide in Barranco\'s bohemian plaza, beginning with an overview of Peru\'s craft beer revolution. Walk through colorful streets to the first microbrewery, where the brewmaster explains the process while adults taste and kids get house-made ginger ale or chicha morada. Continue through street art-lined alleys to a gastropub famous for pairing local beers with Peruvian fusion tapas - anticuchos, causa, and ceviche bites. Kids have their own menu of mini portions and fresh fruit smoothies. Visit a bottle shop showcasing Peru\'s best labels, with educational displays about ingredients including native Peruvian grains. Take the scenic walk along the oceanfront to Miraflores, stopping at an artisan market for churros and picarones. End at a rooftop brewpub overlooking the Pacific, where adults enjoy sunset beers while kids play in the family area with ocean views.',
+    whatToExpectEs: 'Encuentra a tu guía gastronómico en la plaza bohemia de Barranco, comenzando con una visión general de la revolución de la cerveza artesanal de Perú. Camina por calles coloridas a la primera microcervecería, donde el maestro cervecero explica el proceso mientras los adultos prueban y los niños reciben ginger ale casero o chicha morada. Continúa por callejones llenos de arte callejero a un gastropub famoso por maridar cervezas locales con tapas de fusión peruana - anticuchos, causa y bocados de ceviche. Los niños tienen su propio menú de porciones mini y smoothies de fruta fresca. Visita una tienda de botellas que muestra las mejores etiquetas de Perú, con exhibiciones educativas sobre ingredientes incluyendo granos nativos peruanos. Haz la caminata escénica por el frente oceánico a Miraflores, parando en un mercado artesanal para churros y picarones. Termina en un brewpub en azotea con vista al Pacífico, donde los adultos disfrutan cervezas al atardecer mientras los niños juegan en el área familiar con vistas al océano.',
+    highlights: [
+      'Visit 3-4 craft breweries and brewpubs',
+      'Learn the brewing process from brewmasters',
+      'Pair craft beers with Peruvian fusion cuisine',
+      'Kids enjoy artisan sodas and fresh juices',
+      'Walk through Barranco\'s street art scene',
+      'Scenic oceanfront walk to Miraflores',
+      'Rooftop sunset views over the Pacific'
+    ],
+    highlightsEs: [
+      'Visitar 3-4 cervecerías artesanales y brewpubs',
+      'Aprender el proceso de elaboración de maestros cerveceros',
+      'Maridar cervezas artesanales con cocina de fusión peruana',
+      'Niños disfrutan sodas artesanales y jugos frescos',
+      'Caminar por la escena de arte callejero de Barranco',
+      'Caminata escénica por el frente oceánico a Miraflores',
+      'Vistas del atardecer desde azotea sobre el Pacífico'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$75-120 per person',
+    priceRangeEs: '$75-120 por persona',
+    bestTime: 'Year-round. Evening tours best for sunset rooftop finale. Fridays and Saturdays most lively.',
+    bestTimeEs: 'Todo el año. Tours vespertinos mejores para final en azotea al atardecer. Viernes y sábados más animados.',
+    includes: [
+      'Professional foodie guide',
+      'All food tastings (6-8 stops)',
+      'Beer flights for adults (4-5 breweries)',
+      'Artisan drinks for children',
+      'Brewery tour and education',
+      'Churros and picarones dessert'
+    ],
+    includesEs: [
+      'Guía gastronómico profesional',
+      'Todas las degustaciones de comida (6-8 paradas)',
+      'Vuelos de cerveza para adultos (4-5 cervecerías)',
+      'Bebidas artesanales para niños',
+      'Tour de cervecería y educación',
+      'Postre de churros y picarones'
+    ],
+    tips: [
+      'Wear comfortable walking shoes',
+      'Evening tours have best atmosphere',
+      'Ask about quinoa and amaranth-based beers',
+      'Book Fridays for live music in Barranco',
+      'Designate a photographer - the street art is amazing'
+    ],
+    tipsEs: [
+      'Usa zapatos cómodos para caminar',
+      'Tours vespertinos tienen mejor ambiente',
+      'Pregunta por cervezas a base de quinoa y amaranto',
+      'Reserva viernes para música en vivo en Barranco',
+      'Designa un fotógrafo - el arte callejero es increíble'
+    ],
+    safetyNotes: [
+      'Easy flat walking throughout',
+      'Supervised brewery tours',
+      'Coastal walk has guardrails',
+      'Stay with group in busy areas',
+      'Responsible drinking encouraged'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil y plana en todo el recorrido',
+      'Tours de cervecería supervisados',
+      'Caminata costera tiene barandas',
+      'Permanecer con el grupo en áreas concurridas',
+      'Se fomenta el consumo responsable'
+    ],
+    relatedActivities: ['lima-food-tour', 'lima-cooking-class', 'miraflores-street-food'],
+    providers: [
+      { name: 'Lima Craft Beer Tours', familyFriendly: true },
+      { name: 'Urban Food Adventures', familyFriendly: true },
+      { name: 'Barranco Gastro Tours', familyFriendly: true }
+    ]
   }
 ];
 

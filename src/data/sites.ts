@@ -9214,6 +9214,284 @@ export const sites: Site[] = [
       'Estacionamiento arriba',
       'Vendedores básicos de comida'
     ]
+  },
+  {
+    slug: 'tipon',
+    name: 'Tipón',
+    nameEs: 'Tipón',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3560,
+    description: 'Tipón is an extraordinary example of Inca hydraulic engineering, featuring terraced gardens watered by elaborately carved stone channels and fountains that still function perfectly after 500 years. Unlike the crowded main Cusco sites, Tipón offers a peaceful setting where families can explore extensive agricultural terraces, ceremonial plazas, and the remarkable water features that earned it the nickname "Garden of the Inca." The sophisticated irrigation system demonstrates the Incas\' mastery of water management, with channels that split, reunite, and cascade in precisely controlled flows.',
+    descriptionEs: 'Tipón es un extraordinario ejemplo de ingeniería hidráulica Inca, presentando jardines en terrazas regados por canales y fuentes de piedra elaboradamente tallados que aún funcionan perfectamente después de 500 años. A diferencia de los concurridos sitios principales de Cusco, Tipón ofrece un entorno tranquilo donde las familias pueden explorar extensas terrazas agrícolas, plazas ceremoniales y las notables características del agua que le valieron el apodo de "Jardín del Inca". El sofisticado sistema de irrigación demuestra el dominio Inca del manejo del agua, con canales que se dividen, reúnen y caen en flujos precisamente controlados.',
+    history: 'Tipón was likely a royal garden and agricultural estate, possibly dedicated to Inca Viracocha. The site was constructed in the 15th century and represents the pinnacle of Inca water engineering. Archaeological evidence suggests it served as both a practical agricultural center and a sacred space for water worship. The Spanish chronicler Garcilaso de la Vega described royal gardens in this area. Today, Tipón remains one of the best-preserved examples of Inca hydraulic technology, with water still flowing through original channels.',
+    historyEs: 'Tipón fue probablemente un jardín real y hacienda agrícola, posiblemente dedicada al Inca Viracocha. El sitio fue construido en el siglo XV y representa la cúspide de la ingeniería del agua Inca. La evidencia arqueológica sugiere que sirvió tanto como centro agrícola práctico como espacio sagrado para el culto al agua. El cronista español Garcilaso de la Vega describió jardines reales en esta área. Hoy, Tipón sigue siendo uno de los ejemplos mejor preservados de tecnología hidráulica Inca, con agua aún fluyendo por canales originales.',
+    highlights: [
+      'Functioning 500-year-old water channels',
+      'Spectacular terraced gardens',
+      'Peaceful alternative to crowded sites',
+      'Masterpiece of Inca hydraulic engineering',
+      'Beautiful mountain setting'
+    ],
+    highlightsEs: [
+      'Canales de agua de 500 años funcionando',
+      'Espectaculares jardines en terrazas',
+      'Alternativa tranquila a sitios concurridos',
+      'Obra maestra de ingeniería hidráulica Inca',
+      'Hermoso entorno de montaña'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'moderate',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Dry season (May-October) recommended. Morning visits are quietest.',
+    bestTimeEs: 'Se recomienda temporada seca (mayo-octubre). Las visitas matutinas son las más tranquilas.',
+    tips: [
+      'Combine with Pikillacta and Andahuaylillas on South Valley tour',
+      'Much less crowded than Sacred Valley sites',
+      'Kids love following the water channels',
+      'Bring snacks - limited food options',
+      'Try the local cuy (guinea pig) at roadside restaurants'
+    ],
+    tipsEs: [
+      'Combina con Pikillacta y Andahuaylillas en el tour del Valle Sur',
+      'Mucho menos concurrido que los sitios del Valle Sagrado',
+      'A los niños les encanta seguir los canales de agua',
+      'Trae bocadillos - opciones de comida limitadas',
+      'Prueba el cuy local en restaurantes al lado de la carretera'
+    ],
+    nearbyAttractions: ['Pikillacta', 'Andahuaylillas', 'Cusco', 'Oropesa'],
+    relatedSites: ['pikillacta', 'andahuaylillas-church', 'moray', 'ollantaytambo'],
+    gettingThere: 'Located 23km southeast of Cusco on the road to Puno. Most visitors come on South Valley tours. Colectivos to Urcos pass the turnoff. Taxis from Cusco cost around 80-100 soles round trip.',
+    gettingThereEs: 'Ubicado a 23km al sureste de Cusco en la carretera a Puno. La mayoría de visitantes vienen en tours del Valle Sur. Los colectivos a Urcos pasan el desvío. Los taxis desde Cusco cuestan alrededor de 80-100 soles ida y vuelta.',
+    facilities: [
+      'Parking area',
+      'Basic restrooms at entrance',
+      'Information panels',
+      'Local guides available',
+      'Cuy restaurants nearby'
+    ],
+    facilitiesEs: [
+      'Área de estacionamiento',
+      'Baños básicos en la entrada',
+      'Paneles informativos',
+      'Guías locales disponibles',
+      'Restaurantes de cuy cercanos'
+    ]
+  },
+  {
+    slug: 'qenqo',
+    name: 'Qenqo',
+    nameEs: 'Qenqo',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3600,
+    description: 'Qenqo (meaning "labyrinth" or "zigzag" in Quechua) is a fascinating ceremonial site carved from a massive limestone outcrop on the outskirts of Cusco. This mysterious complex features zigzagging channels carved into the rock (possibly for chicha or blood offerings), a subterranean chamber that may have been used for mummy preparation, and altars carved into the living stone. For families, exploring the dark cave passages and discovering carved niches and altars creates an atmosphere of ancient mystery that captivates children\'s imaginations.',
+    descriptionEs: 'Qenqo (que significa "laberinto" o "zigzag" en quechua) es un fascinante sitio ceremonial tallado en un masivo afloramiento de piedra caliza en las afueras de Cusco. Este misterioso complejo presenta canales en zigzag tallados en la roca (posiblemente para ofrendas de chicha o sangre), una cámara subterránea que pudo usarse para preparación de momias, y altares tallados en la piedra viva. Para las familias, explorar los oscuros pasajes de la cueva y descubrir nichos y altares tallados crea una atmósfera de misterio antiguo que cautiva la imaginación de los niños.',
+    history: 'Qenqo was an important huaca (sacred site) in Inca religion, likely used for ceremonies related to death, agriculture, and astronomy. The zigzag channels may have been used for divination - liquids poured at the top would flow in unpredictable patterns to determine omens. The underground chamber with its carved altar suggests funerary rituals, possibly the preparation of noble mummies. The site dates to the 15th century during the height of the Inca Empire. The Spanish tried to destroy it but the solid rock proved too difficult to demolish.',
+    historyEs: 'Qenqo fue una importante huaca (sitio sagrado) en la religión Inca, probablemente usada para ceremonias relacionadas con la muerte, agricultura y astronomía. Los canales en zigzag pudieron usarse para adivinación - los líquidos vertidos en la parte superior fluían en patrones impredecibles para determinar presagios. La cámara subterránea con su altar tallado sugiere rituales funerarios, posiblemente la preparación de momias nobles. El sitio data del siglo XV durante el apogeo del Imperio Inca. Los españoles intentaron destruirlo pero la roca sólida resultó demasiado difícil de demoler.',
+    highlights: [
+      'Mysterious zigzag channels carved in rock',
+      'Underground chamber with carved altar',
+      'Ancient sacrificial table',
+      'Carved amphitheater for ceremonies',
+      'Fascinating dark cave passages'
+    ],
+    highlightsEs: [
+      'Misteriosos canales en zigzag tallados en roca',
+      'Cámara subterránea con altar tallado',
+      'Antigua mesa de sacrificios',
+      'Anfiteatro tallado para ceremonias',
+      'Fascinantes pasajes oscuros de cueva'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '45 minutes to 1 hour',
+    durationEs: '45 minutos a 1 hora',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Morning visits offer best light for photography. Year-round destination.',
+    bestTimeEs: 'Las visitas matutinas ofrecen mejor luz para fotografía. Destino de todo el año.',
+    tips: [
+      'Bring a flashlight for the underground chamber',
+      'Usually visited with Sacsayhuaman and Tambomachay',
+      'The cave exploration excites children',
+      'Watch your head in low passages',
+      'A guide helps explain the mysterious carvings'
+    ],
+    tipsEs: [
+      'Trae una linterna para la cámara subterránea',
+      'Usualmente visitado con Sacsayhuaman y Tambomachay',
+      'La exploración de la cueva emociona a los niños',
+      'Cuida tu cabeza en pasajes bajos',
+      'Un guía ayuda a explicar los misteriosos grabados'
+    ],
+    nearbyAttractions: ['Sacsayhuaman', 'Tambomachay', 'Puca Pucara', 'Cristo Blanco'],
+    relatedSites: ['sacsayhuaman', 'tambomachay', 'puca-pucara', 'cusco-cathedral'],
+    gettingThere: 'Located 4km from Cusco\'s main plaza on the road to Sacsayhuaman. Usually visited as part of the Cusco Archaeological Circuit. Taxis from Cusco cost about 30-40 soles. Walking is possible but uphill.',
+    gettingThereEs: 'Ubicado a 4km de la plaza principal de Cusco en la carretera a Sacsayhuaman. Usualmente visitado como parte del Circuito Arqueológico de Cusco. Los taxis desde Cusco cuestan aproximadamente 30-40 soles. Caminar es posible pero cuesta arriba.',
+    facilities: [
+      'Small parking area',
+      'Artisan vendors',
+      'No restrooms on-site',
+      'Guides available at entrance',
+      'Llamas for photos'
+    ],
+    facilitiesEs: [
+      'Pequeña área de estacionamiento',
+      'Vendedores artesanales',
+      'Sin baños en el sitio',
+      'Guías disponibles en la entrada',
+      'Llamas para fotos'
+    ]
+  },
+  {
+    slug: 'puca-pucara',
+    name: 'Puca Pucara',
+    nameEs: 'Puca Pucara',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3700,
+    description: 'Puca Pucara (meaning "Red Fortress" in Quechua) is a military-style complex of towers, terraces, and plazas that glows pink at sunset. While some archaeologists believe it was a military garrison, others suggest it served as a tambo (rest stop) for travelers or a hunting lodge for Inca nobility. The strategic hilltop position offers panoramic views of the surrounding valley and mountains. For families, Puca Pucara provides an uncrowded opportunity to explore Inca architecture and enjoy sweeping vistas without the intensity of larger sites.',
+    descriptionEs: 'Puca Pucara (que significa "Fortaleza Roja" en quechua) es un complejo de estilo militar de torres, terrazas y plazas que brilla rosa al atardecer. Mientras algunos arqueólogos creen que fue una guarnición militar, otros sugieren que sirvió como tambo (lugar de descanso) para viajeros o un pabellón de caza para la nobleza Inca. La posición estratégica en la cima de la colina ofrece vistas panorámicas del valle circundante y las montañas. Para las familias, Puca Pucara proporciona una oportunidad sin multitudes de explorar arquitectura Inca y disfrutar de vistas amplias sin la intensidad de sitios más grandes.',
+    history: 'Puca Pucara was built during the reign of Inca Pachacuti in the 15th century. Its name comes from the reddish color the stones take on at dusk. The complex may have served multiple purposes: as a checkpoint on the road to the Antisuyo (jungle region), as quarters for soldiers guarding the nearby Tambomachay water temple, or as a rest stop for royal entourages. The site includes storerooms, barracks-like quarters, and lookout towers. Its proximity to Tambomachay suggests the two sites were functionally connected.',
+    historyEs: 'Puca Pucara fue construida durante el reinado del Inca Pachacuti en el siglo XV. Su nombre proviene del color rojizo que las piedras toman al atardecer. El complejo pudo haber servido múltiples propósitos: como punto de control en el camino al Antisuyo (región selvática), como cuarteles para soldados que guardaban el cercano templo de agua Tambomachay, o como lugar de descanso para séquitos reales. El sitio incluye almacenes, cuarteles tipo barracas y torres de vigilancia. Su proximidad a Tambomachay sugiere que los dos sitios estaban funcionalmente conectados.',
+    highlights: [
+      'Glows pink/red at sunset',
+      'Panoramic valley views',
+      'Less crowded than major sites',
+      'Tower and terrace exploration',
+      'Walking distance to Tambomachay'
+    ],
+    highlightsEs: [
+      'Brilla rosa/rojo al atardecer',
+      'Vistas panorámicas del valle',
+      'Menos concurrido que sitios principales',
+      'Exploración de torre y terraza',
+      'A distancia caminando de Tambomachay'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '30-45 minutes',
+    durationEs: '30-45 minutos',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Late afternoon for the famous red glow at sunset.',
+    bestTimeEs: 'Tarde para el famoso brillo rojo al atardecer.',
+    tips: [
+      'Visit at sunset for the famous red color',
+      'Walk to Tambomachay (10 minutes) to combine visits',
+      'Smaller site - good for tired kids',
+      'Great photo opportunities from the towers',
+      'Usually the quietest stop on the circuit'
+    ],
+    tipsEs: [
+      'Visita al atardecer para el famoso color rojo',
+      'Camina a Tambomachay (10 minutos) para combinar visitas',
+      'Sitio más pequeño - bueno para niños cansados',
+      'Grandes oportunidades de fotos desde las torres',
+      'Usualmente la parada más tranquila del circuito'
+    ],
+    nearbyAttractions: ['Tambomachay', 'Qenqo', 'Sacsayhuaman', 'Cristo Blanco'],
+    relatedSites: ['tambomachay', 'qenqo', 'sacsayhuaman', 'cusco-cathedral'],
+    gettingThere: 'Located 7km from Cusco on the road to Pisac, just across from Tambomachay. Visited as part of the Cusco Archaeological Circuit. Taxis available from Cusco or walk from Tambomachay.',
+    gettingThereEs: 'Ubicado a 7km de Cusco en la carretera a Pisac, justo enfrente de Tambomachay. Visitado como parte del Circuito Arqueológico de Cusco. Taxis disponibles desde Cusco o caminar desde Tambomachay.',
+    facilities: [
+      'Small parking area',
+      'Vendors selling snacks',
+      'No restrooms',
+      'Guides available',
+      'Photo opportunity with llamas'
+    ],
+    facilitiesEs: [
+      'Pequeña área de estacionamiento',
+      'Vendedores de bocadillos',
+      'Sin baños',
+      'Guías disponibles',
+      'Oportunidad de fotos con llamas'
+    ]
+  },
+  {
+    slug: 'huanchaco',
+    name: 'Huanchaco Beach',
+    nameEs: 'Playa Huanchaco',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    altitude: 0,
+    description: 'Huanchaco is a charming fishing village famous for its caballitos de totora - traditional reed fishing boats that have been used here for over 3,000 years and remain in daily use by local fishermen. Watching fishermen ride these unique vessels through the waves is a living connection to pre-Columbian coastal cultures. Beyond the beach, Huanchaco offers excellent seafood restaurants, a relaxed atmosphere perfect for families, and makes an ideal base for visiting Chan Chan and the Moche temples. Children love watching the fishermen and the opportunity to try surfing.',
+    descriptionEs: 'Huanchaco es un encantador pueblo pesquero famoso por sus caballitos de totora - botes de pesca tradicionales de totora que se han usado aquí por más de 3,000 años y siguen en uso diario por pescadores locales. Ver a los pescadores montar estas embarcaciones únicas a través de las olas es una conexión viva con las culturas costeras precolombinas. Más allá de la playa, Huanchaco ofrece excelentes restaurantes de mariscos, una atmósfera relajada perfecta para familias, y es una base ideal para visitar Chan Chan y los templos Moche. A los niños les encanta ver a los pescadores y la oportunidad de probar el surf.',
+    history: 'The caballitos de totora of Huanchaco date back over 3,000 years to the Moche and Chimú civilizations. These reed boats, depicted in ancient ceramics, are made from bundled totora reeds harvested from nearby wetlands. The Spanish attempted to ban them, but the tradition survived. Today, about 80 families still fish using these traditional vessels, making Huanchaco one of the few places in the world where pre-Columbian fishing traditions continue unchanged. The village itself developed as a fishing port for Chan Chan.',
+    historyEs: 'Los caballitos de totora de Huanchaco datan de más de 3,000 años a las civilizaciones Moche y Chimú. Estos botes de totora, representados en cerámicas antiguas, están hechos de manojos de totora cosechados de humedales cercanos. Los españoles intentaron prohibirlos, pero la tradición sobrevivió. Hoy, aproximadamente 80 familias aún pescan usando estas embarcaciones tradicionales, haciendo de Huanchaco uno de los pocos lugares en el mundo donde las tradiciones pesqueras precolombinas continúan sin cambios. El pueblo mismo se desarrolló como puerto pesquero para Chan Chan.',
+    highlights: [
+      '3,000-year-old reed boat fishing tradition',
+      'Watch fishermen ride caballitos de totora',
+      'Excellent fresh seafood restaurants',
+      'Relaxed beach atmosphere',
+      'Beginner-friendly surfing'
+    ],
+    highlightsEs: [
+      'Tradición de pesca en botes de totora de 3,000 años',
+      'Ve pescadores montar caballitos de totora',
+      'Excelentes restaurantes de mariscos frescos',
+      'Atmósfera relajada de playa',
+      'Surf amigable para principiantes'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: 'Half day to full day',
+    durationEs: 'Medio día a día completo',
+    difficulty: 'easy',
+    entranceFee: 'Free (beach access)',
+    entranceFeeEs: 'Gratis (acceso a la playa)',
+    bestTime: 'Year-round. December-March is warmest. Fishermen return 8-10am.',
+    bestTimeEs: 'Todo el año. Diciembre-marzo es más cálido. Los pescadores regresan 8-10am.',
+    tips: [
+      'Watch fishermen return with catches between 8-10am',
+      'Try the ceviche at beachfront restaurants',
+      'Surf lessons available for beginners',
+      'Great base for visiting Chan Chan and Huacas',
+      'The pier offers good views of caballitos'
+    ],
+    tipsEs: [
+      'Ve a los pescadores regresar con sus capturas entre 8-10am',
+      'Prueba el ceviche en restaurantes frente al mar',
+      'Clases de surf disponibles para principiantes',
+      'Gran base para visitar Chan Chan y Huacas',
+      'El muelle ofrece buenas vistas de los caballitos'
+    ],
+    nearbyAttractions: ['Chan Chan', 'Huaca de la Luna', 'Huaca del Sol', 'Trujillo Historic Center'],
+    relatedSites: ['chan-chan', 'huaca-de-la-luna', 'sipan-royal-tombs-museum'],
+    gettingThere: 'Located 12km northwest of Trujillo. Frequent colectivos from Trujillo cost 2 soles. Taxis cost about 15-20 soles. Many Trujillo hotels offer shuttle services.',
+    gettingThereEs: 'Ubicado a 12km al noroeste de Trujillo. Colectivos frecuentes desde Trujillo cuestan 2 soles. Los taxis cuestan aproximadamente 15-20 soles. Muchos hoteles de Trujillo ofrecen servicios de transporte.',
+    facilities: [
+      'Beachfront restaurants and cafes',
+      'Surf rental and lessons',
+      'Hotels and hostels',
+      'Public restrooms',
+      'Artisan markets',
+      'Pier with viewpoints'
+    ],
+    facilitiesEs: [
+      'Restaurantes y cafés frente al mar',
+      'Alquiler de surf y clases',
+      'Hoteles y hostales',
+      'Baños públicos',
+      'Mercados artesanales',
+      'Muelle con miradores'
+    ]
   }
 ];
 
