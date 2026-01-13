@@ -16035,6 +16035,424 @@ export const activities: Activity[] = [
       { name: 'Vilaya Tours', familyFriendly: true },
       { name: 'Peru North Trek', familyFriendly: true }
     ]
+  },
+
+  // Batch 17 Activities
+  {
+    slug: 'san-blas-artisan-tour',
+    name: 'San Blas Artisan Walking Tour',
+    nameEs: 'Tour a Pie Artesanal de San Blas',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover Cusco\'s most charming neighborhood and its centuries-old artisan traditions on a walking tour through San Blas, the "barrio de los artesanos." This family-friendly exploration takes you through narrow cobblestone streets lined with traditional houses with blue doors, visiting workshops where multi-generational families continue ancient crafts in woodcarving, ceramics, jewelry, and textiles. Watch master craftsmen at work, learn about techniques passed down through centuries, and understand how indigenous traditions merged with Spanish colonial demands to create Cusco\'s distinctive artistic heritage.',
+    descriptionEs: 'Descubre el barrio más encantador de Cusco y sus tradiciones artesanales centenarias en un tour a pie por San Blas, el "barrio de los artesanos." Esta exploración amigable para familias te lleva a través de estrechas calles empedradas bordeadas de casas tradicionales con puertas azules, visitando talleres donde familias multigeneracionales continúan oficios antiguos en tallado de madera, cerámica, joyería y textiles. Ve maestros artesanos trabajando, aprende sobre técnicas transmitidas a través de siglos, y entiende cómo las tradiciones indígenas se fusionaron con demandas coloniales españolas para crear el distintivo patrimonio artístico de Cusco.',
+    whatToExpect: 'Your artisan tour begins at the San Blas plaza, the heart of Cusco\'s bohemian district, where your guide provides context on the neighborhood\'s history as an Inca craftsmen\'s quarter that evolved into the colonial center of religious art production. Walking through steep, winding streets, you visit several family workshops where artisans welcome visitors to observe their work. At the famous Mendívil workshop, see the creation of distinctive long-necked religious figures that have made this family famous for generations—learn how this unique style emerged and the symbolism behind the elongated forms. At a ceramics studio, watch potters shape clay using techniques dating back centuries, creating the distinctive Pucará bulls and other traditional pieces. Visit a silver workshop where craftsmen demonstrate filigree techniques brought from Spain but adapted to Andean designs. Your guide points out architectural details throughout—Inca stone foundations beneath colonial buildings, traditional carved doorways, and the evolution of styles visible in buildings from different centuries. The tour includes a stop at San Blas Church to see its extraordinary carved wooden pulpit, considered one of the finest examples of colonial woodcarving in the Americas. End at a mirador (viewpoint) with stunning sunset views over Cusco\'s terracotta rooftops, the perfect conclusion to an afternoon of discovery. Throughout, children enjoy watching craftsmen work and understanding how art connects past and present.',
+    whatToExpectEs: 'Tu tour artesanal comienza en la plaza de San Blas, el corazón del distrito bohemio de Cusco, donde tu guía proporciona contexto sobre la historia del barrio como un barrio de artesanos Incas que evolucionó al centro colonial de producción de arte religioso. Caminando por calles empinadas y serpenteantes, visitas varios talleres familiares donde artesanos dan la bienvenida a visitantes para observar su trabajo. En el famoso taller Mendívil, ve la creación de distintivas figuras religiosas de cuello largo que han hecho famosa a esta familia por generaciones—aprende cómo surgió este estilo único y el simbolismo detrás de las formas elongadas. En un estudio de cerámica, ve alfareros moldear arcilla usando técnicas que datan de siglos, creando los distintivos toritos de Pucará y otras piezas tradicionales. Visita un taller de plata donde artesanos demuestran técnicas de filigrana traídas de España pero adaptadas a diseños andinos. Tu guía señala detalles arquitectónicos a lo largo del recorrido—cimientos de piedra Inca bajo edificios coloniales, puertas talladas tradicionales, y la evolución de estilos visible en edificios de diferentes siglos. El tour incluye una parada en la Iglesia de San Blas para ver su extraordinario púlpito de madera tallada, considerado uno de los mejores ejemplos de tallado colonial en las Américas. Termina en un mirador con impresionantes vistas del atardecer sobre los techos de terracota de Cusco, la conclusión perfecta para una tarde de descubrimiento. A lo largo del recorrido, los niños disfrutan viendo artesanos trabajar y entendiendo cómo el arte conecta pasado y presente.',
+    highlights: [
+      'Visit multi-generational artisan workshops',
+      'Watch master craftsmen at work',
+      'Famous Mendívil family workshop',
+      'Ceramics, woodcarving, silver, textiles',
+      'Centuries-old techniques demonstrated',
+      'San Blas Church and famous pulpit',
+      'Stunning sunset viewpoint',
+      'Narrow cobblestone streets',
+      'Traditional blue-door houses',
+      'Understand mestizo artistic heritage',
+      'Purchase directly from artisans',
+      'Charming bohemian atmosphere'
+    ],
+    highlightsEs: [
+      'Visita talleres artesanales multigeneracionales',
+      'Ve maestros artesanos trabajando',
+      'Famoso taller de familia Mendívil',
+      'Cerámica, tallado de madera, plata, textiles',
+      'Técnicas centenarias demostradas',
+      'Iglesia San Blas y famoso púlpito',
+      'Impresionante mirador al atardecer',
+      'Estrechas calles empedradas',
+      'Casas tradicionales con puertas azules',
+      'Entiende patrimonio artístico mestizo',
+      'Compra directamente de artesanos',
+      'Encantador ambiente bohemio'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2.5-3 hours',
+    durationEs: '2.5-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round. Afternoon for best light and sunset. Morning for open workshops.',
+    bestTimeEs: 'Todo el año. Tarde para mejor luz y atardecer. Mañana para talleres abiertos.',
+    includes: [
+      'Professional English-speaking guide',
+      'Visits to 3-4 artisan workshops',
+      'San Blas Church entrance',
+      'Cultural and historical commentary',
+      'Sunset viewpoint visit'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Visitas a 3-4 talleres artesanales',
+      'Entrada a Iglesia San Blas',
+      'Comentario cultural e histórico',
+      'Visita a mirador al atardecer'
+    ],
+    tips: [
+      'Steep streets—wear comfortable shoes',
+      'Afternoon tours include sunset',
+      'Budget extra for artisan purchases',
+      'Some workshops closed Sundays',
+      'Take it slow due to altitude',
+      'Combine with Plaza de Armas tour',
+      'Saturday market adds interest'
+    ],
+    tipsEs: [
+      'Calles empinadas—usa zapatos cómodos',
+      'Tours de tarde incluyen atardecer',
+      'Presupuesta extra para compras artesanales',
+      'Algunos talleres cerrados los domingos',
+      'Ve despacio debido a la altitud',
+      'Combina con tour de Plaza de Armas',
+      'Mercado del sábado añade interés'
+    ],
+    safetyNotes: [
+      'Steep cobblestone streets require care',
+      'High altitude—acclimatize first',
+      'Safe neighborhood with tourist police',
+      'Take slow pace for altitude',
+      'Workshops safe for children',
+      'Evening tours end before dark'
+    ],
+    safetyNotesEs: [
+      'Calles empedradas empinadas requieren cuidado',
+      'Alta altitud—aclimatarse primero',
+      'Barrio seguro con policía turística',
+      'Toma paso lento por la altitud',
+      'Talleres seguros para niños',
+      'Tours nocturnos terminan antes de oscurecer'
+    ],
+    relatedActivities: ['cusco-walking-tour', 'cusco-cathedral-colonial-art-tour', 'peruvian-textile-workshop'],
+    providers: [
+      { name: 'Cusco Art Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Cusco', familyFriendly: true },
+      { name: 'Peru Art Walks', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-plaza-walking-tour',
+    name: 'Cusco Plaza de Armas & Historic Center Walking Tour',
+    nameEs: 'Tour a Pie Plaza de Armas y Centro Histórico de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Explore the heart of the ancient Inca Empire and its Spanish colonial transformation on a walking tour through Cusco\'s magnificent Plaza de Armas and historic center. This essential introduction to Peru\'s most storied city reveals how Inca temples became colonial churches, royal palaces were rebuilt as monasteries, and two civilizations merged to create the unique mestizo culture visible in every stone. Perfect for families beginning their Cusco adventure, this tour provides context for understanding all the sites you\'ll visit in the region.',
+    descriptionEs: 'Explora el corazón del antiguo Imperio Inca y su transformación colonial española en un tour a pie por la magnífica Plaza de Armas y el centro histórico de Cusco. Esta introducción esencial a la ciudad más legendaria de Perú revela cómo templos Incas se convirtieron en iglesias coloniales, palacios reales fueron reconstruidos como monasterios, y dos civilizaciones se fusionaron para crear la única cultura mestiza visible en cada piedra. Perfecto para familias comenzando su aventura en Cusco, este tour proporciona contexto para entender todos los sitios que visitarás en la región.',
+    whatToExpect: 'Your walking tour begins in the grand Plaza de Armas, where your guide explains how this space—once called Huacaypata—served as the sacred ceremonial center of the Inca Empire, the navel of the world from which the four quarters of Tawantinsuyu radiated. Learn how the Spanish deliberately built their colonial power center atop the Inca one, with the massive Cathedral constructed using stones from the nearby Sacsayhuamán fortress. View the Cathedral\'s impressive façade (interior tour optional separately) and the ornate La Compañía de Jesús church, whose baroque grandeur famously rivaled the Cathedral. Walking through the arcaded colonial streets, discover Inca stonework foundations incorporated into Spanish buildings, marvel at perfectly fitted megalithic walls, and find the famous Twelve-Angled Stone that demonstrates Inca masonry perfection. Your guide shares stories of Inca emperors, Spanish conquistadors, and the complex history that shaped this UNESCO World Heritage city. Continue to lesser-known gems: hidden plazas, colonial mansions with stunning courtyards, and streets where Inca and Spanish architecture merge seamlessly. Learn about daily life in both eras—how water was channeled, how markets functioned, how the two cultures gradually merged over centuries. The tour provides essential context for understanding Peru\'s complex identity, preparing families for deeper exploration of archaeological sites and helping children see how history comes alive in modern Cusco.',
+    whatToExpectEs: 'Tu tour a pie comienza en la gran Plaza de Armas, donde tu guía explica cómo este espacio—una vez llamado Huacaypata—sirvió como el centro ceremonial sagrado del Imperio Inca, el ombligo del mundo desde el cual los cuatro suyos del Tawantinsuyu irradiaban. Aprende cómo los españoles deliberadamente construyeron su centro de poder colonial sobre el Inca, con la masiva Catedral construida usando piedras de la cercana fortaleza de Sacsayhuamán. Ve la impresionante fachada de la Catedral (tour interior opcional por separado) y la ornamentada iglesia de La Compañía de Jesús, cuya grandeza barroca famosamente rivalizó con la Catedral. Caminando por las calles coloniales con arcadas, descubre cimientos de piedra Inca incorporados en edificios españoles, maravíllate con muros megalíticos perfectamente encajados, y encuentra la famosa Piedra de los Doce Ángulos que demuestra la perfección de albañilería Inca. Tu guía comparte historias de emperadores Incas, conquistadores españoles, y la compleja historia que dio forma a esta ciudad Patrimonio de la Humanidad de la UNESCO. Continúa a joyas menos conocidas: plazas escondidas, mansiones coloniales con impresionantes patios, y calles donde la arquitectura Inca y española se fusionan sin problema. Aprende sobre la vida diaria en ambas eras—cómo se canalizaba el agua, cómo funcionaban los mercados, cómo las dos culturas gradualmente se fusionaron durante siglos. El tour proporciona contexto esencial para entender la compleja identidad de Perú, preparando a las familias para exploración más profunda de sitios arqueológicos y ayudando a los niños a ver cómo la historia cobra vida en el Cusco moderno.',
+    highlights: [
+      'Plaza de Armas—heart of Inca Empire',
+      'UNESCO World Heritage historic center',
+      'Cathedral and La Compañía façades',
+      'Famous Twelve-Angled Stone',
+      'Inca walls beneath colonial buildings',
+      'Stories of emperors and conquistadors',
+      'Hidden plazas and courtyards',
+      'Understand mestizo culture origins',
+      'Perfect introduction to Cusco',
+      'Context for all regional sites',
+      'Free walking tour option available',
+      'Manageable length for families'
+    ],
+    highlightsEs: [
+      'Plaza de Armas—corazón del Imperio Inca',
+      'Centro histórico Patrimonio de la Humanidad UNESCO',
+      'Fachadas de Catedral y La Compañía',
+      'Famosa Piedra de los Doce Ángulos',
+      'Muros Incas bajo edificios coloniales',
+      'Historias de emperadores y conquistadores',
+      'Plazas y patios escondidos',
+      'Entiende orígenes de cultura mestiza',
+      'Perfecta introducción a Cusco',
+      'Contexto para todos los sitios regionales',
+      'Opción de tour a pie gratis disponible',
+      'Duración manejable para familias'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: 'Free-$40 USD (free tours available, private tours $30-40)',
+    priceRangeEs: 'Gratis-$40 USD (tours gratis disponibles, tours privados $30-40)',
+    bestTime: 'Year-round. Morning for fewer crowds. Avoid midday heat. Evening for illuminated plaza.',
+    bestTimeEs: 'Todo el año. Mañana para menos multitudes. Evita calor del mediodía. Noche para plaza iluminada.',
+    includes: [
+      'Professional English-speaking guide',
+      'Historical and cultural commentary',
+      'Visit to major landmarks',
+      'Twelve-Angled Stone stop',
+      'Hidden gems off main routes'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Comentario histórico y cultural',
+      'Visita a principales monumentos',
+      'Parada en Piedra de los Doce Ángulos',
+      'Joyas escondidas fuera de rutas principales'
+    ],
+    tips: [
+      'Take first day slowly for altitude',
+      'Free tours appreciate tips',
+      'Morning or evening best',
+      'Combine with Cathedral tour',
+      'Hydrate well due to altitude',
+      'Watch for pickpockets in crowds',
+      'Great first activity in Cusco'
+    ],
+    tipsEs: [
+      'Toma el primer día despacio por la altitud',
+      'Tours gratis aprecian propinas',
+      'Mañana o noche mejor',
+      'Combina con tour de Catedral',
+      'Hidrátate bien debido a la altitud',
+      'Cuidado con carteristas en multitudes',
+      'Gran primera actividad en Cusco'
+    ],
+    safetyNotes: [
+      'High altitude (3,400m)—take it slow',
+      'Safe, well-patrolled historic center',
+      'Be aware of pickpockets',
+      'Flat walking on cobblestones',
+      'Many rest spots available',
+      'Tourist police throughout'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,400m)—ve despacio',
+      'Centro histórico seguro y bien patrullado',
+      'Estate atento a carteristas',
+      'Caminata plana en adoquines',
+      'Muchos puntos de descanso disponibles',
+      'Policía turística en todo el centro'
+    ],
+    relatedActivities: ['san-blas-artisan-tour', 'cusco-cathedral-colonial-art-tour', 'qorikancha-tour'],
+    providers: [
+      { name: 'Free Walking Tour Cusco', familyFriendly: true },
+      { name: 'Cusco Local Friend', familyFriendly: true },
+      { name: 'Context Travel Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-archaeological-circuit',
+    name: 'Cusco Archaeological Sites Half-Day Tour',
+    nameEs: 'Tour de Medio Día Sitios Arqueológicos de Cusco',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Explore four remarkable Inca sites surrounding Cusco on this classic half-day archaeological circuit that reveals different aspects of Inca civilization—from the massive fortress of Sacsayhuamán to the mysterious carved rock shrine of Qenqo, the sacred water temple of Tambomachay, and the strategic military outpost of Puka Pukara. This essential tour, included in the Boleto Turístico, provides families with an excellent introduction to Inca engineering, religious practices, and military architecture, all within easy reach of Cusco and suitable for visitors acclimatizing to the altitude.',
+    descriptionEs: 'Explora cuatro notables sitios Incas que rodean Cusco en este clásico circuito arqueológico de medio día que revela diferentes aspectos de la civilización Inca—desde la masiva fortaleza de Sacsayhuamán hasta el misterioso santuario de roca tallada de Qenqo, el templo sagrado del agua de Tambomachay, y el estratégico puesto militar de Puka Pukara. Este tour esencial, incluido en el Boleto Turístico, proporciona a las familias una excelente introducción a la ingeniería, prácticas religiosas y arquitectura militar Inca, todo al fácil alcance de Cusco y adecuado para visitantes aclimatándose a la altitud.',
+    whatToExpect: 'Your archaeological circuit typically begins with Sacsayhuamán, the massive fortress overlooking Cusco whose zigzag walls of megalithic stones—some weighing over 100 tons—represent the pinnacle of Inca construction. Spend an hour exploring the three tiers of massive walls, ceremonial plaza, and carved rock formations while your guide explains theories about its construction and role in defending the Inca capital. Next, visit Qenqo, a mysterious limestone outcrop honeycombed with carved channels, underground chambers, and altar-like spaces that likely served as an important ceremonial center—children love exploring the dark tunnels and imagining ancient rituals. Continue to Puka Pukara, the "Red Fortress" whose stones glow at sunset, a compact military outpost and checkpoint on the road to the Sacred Valley. Finally, explore Tambomachay, often called the "Bath of the Inca," where sophisticated water channels and fountains demonstrate Inca hydraulic engineering and their reverence for water as a sacred element. Your guide provides context connecting these sites to the broader Inca empire, explaining religious practices, military strategy, and construction techniques. The half-day tour is perfect for families still acclimatizing, allowing afternoon rest before exploring Cusco\'s center. The circuit can be walked between sites (downhill from Tambomachay to Cusco) for active families, or done entirely by vehicle.',
+    whatToExpectEs: 'Tu circuito arqueológico típicamente comienza con Sacsayhuamán, la masiva fortaleza con vista a Cusco cuyos muros en zigzag de piedras megalíticas—algunas pesando más de 100 toneladas—representan la cima de la construcción Inca. Pasa una hora explorando los tres niveles de muros masivos, plaza ceremonial, y formaciones rocosas talladas mientras tu guía explica teorías sobre su construcción y rol en defender la capital Inca. Luego, visita Qenqo, un misterioso afloramiento de piedra caliza lleno de canales tallados, cámaras subterráneas, y espacios tipo altar que probablemente sirvió como importante centro ceremonial—los niños aman explorar los túneles oscuros e imaginar rituales antiguos. Continúa a Puka Pukara, la "Fortaleza Roja" cuyas piedras brillan al atardecer, un compacto puesto militar y punto de control en el camino al Valle Sagrado. Finalmente, explora Tambomachay, a menudo llamado el "Baño del Inca," donde sofisticados canales de agua y fuentes demuestran la ingeniería hidráulica Inca y su reverencia por el agua como elemento sagrado. Tu guía proporciona contexto conectando estos sitios al imperio Inca más amplio, explicando prácticas religiosas, estrategia militar, y técnicas de construcción. El tour de medio día es perfecto para familias aún aclimatándose, permitiendo descanso por la tarde antes de explorar el centro de Cusco. El circuito puede caminarse entre sitios (cuesta abajo desde Tambomachay a Cusco) para familias activas, o hacerse enteramente en vehículo.',
+    highlights: [
+      'Four Inca sites in one tour',
+      'Massive Sacsayhuamán fortress',
+      'Mysterious Qenqo underground chambers',
+      'Tambomachay sacred water channels',
+      'Puka Pukara strategic viewpoint',
+      'Inca engineering and construction',
+      'Religious and military sites',
+      'Close to Cusco—ideal for acclimatizing',
+      'Boleto Turístico required (one ticket)',
+      'Option to walk between sites',
+      'Half-day allows afternoon rest',
+      'Essential introduction to Inca culture'
+    ],
+    highlightsEs: [
+      'Cuatro sitios Incas en un tour',
+      'Masiva fortaleza de Sacsayhuamán',
+      'Misteriosas cámaras subterráneas de Qenqo',
+      'Canales de agua sagrada de Tambomachay',
+      'Mirador estratégico de Puka Pukara',
+      'Ingeniería y construcción Inca',
+      'Sitios religiosos y militares',
+      'Cerca de Cusco—ideal para aclimatarse',
+      'Boleto Turístico requerido (un boleto)',
+      'Opción de caminar entre sitios',
+      'Medio día permite descanso por la tarde',
+      'Introducción esencial a cultura Inca'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'moderate',
+    priceRange: '$30-50 USD per person (plus Boleto Turístico S/130)',
+    priceRangeEs: '$30-50 USD por persona (más Boleto Turístico S/130)',
+    bestTime: 'Year-round. Morning for best light. Afternoon for red glow at Puka Pukara.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz. Tarde para brillo rojo en Puka Pukara.',
+    includes: [
+      'Hotel pickup/drop-off',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Visits to all four sites',
+      'Walking option available'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Visitas a los cuatro sitios',
+      'Opción de caminata disponible'
+    ],
+    tips: [
+      'Buy Boleto Turístico before (S/130)',
+      'Morning tour best for photos',
+      'Bring warm layers—higher altitude',
+      'Walk downhill option saves energy',
+      'Flashlight useful for Qenqo tunnels',
+      'Sacsayhuamán alone needs 1+ hour',
+      'Ideal first or second day activity'
+    ],
+    tipsEs: [
+      'Compra Boleto Turístico antes (S/130)',
+      'Tour de mañana mejor para fotos',
+      'Trae capas abrigadas—altitud más alta',
+      'Opción de caminar cuesta abajo ahorra energía',
+      'Linterna útil para túneles de Qenqo',
+      'Sacsayhuamán solo necesita 1+ hora',
+      'Ideal como actividad del primer o segundo día'
+    ],
+    safetyNotes: [
+      'Higher altitude than Cusco (3,600-3,700m)',
+      'Take it slow—altitude affects everyone',
+      'Supervise children at Qenqo tunnels',
+      'Some uneven walking surfaces',
+      'Stay on marked paths',
+      'Bring water and sun protection'
+    ],
+    safetyNotesEs: [
+      'Altitud más alta que Cusco (3,600-3,700m)',
+      'Ve despacio—la altitud afecta a todos',
+      'Supervisa niños en túneles de Qenqo',
+      'Algunas superficies irregulares para caminar',
+      'Permanece en senderos marcados',
+      'Trae agua y protección solar'
+    ],
+    relatedActivities: ['cusco-plaza-walking-tour', 'sacred-valley-full-day', 'machu-picchu-tour'],
+    providers: [
+      { name: 'Cusco Explorer', familyFriendly: true },
+      { name: 'Peru Sacred Travel', familyFriendly: true },
+      { name: 'Llama Path Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-evening-tour',
+    name: 'Cusco Evening & Night Walking Tour',
+    nameEs: 'Tour Nocturno a Pie de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Experience Cusco\'s magical transformation after dark on an evening walking tour through the illuminated historic center. As the sun sets and lights illuminate the ancient stones, the city takes on a romantic, atmospheric quality that reveals a different side of its character. This family-friendly tour explores the Plaza de Armas and surrounding streets when evening light casts dramatic shadows on Inca walls, colonial façades glow golden, and the pace slows from daytime bustle. Perfect for families arriving mid-day who need an activity after acclimatizing, or as a complement to daytime archaeological visits.',
+    descriptionEs: 'Experimenta la mágica transformación de Cusco después del anochecer en un tour nocturno a pie por el centro histórico iluminado. Mientras el sol se pone y las luces iluminan las piedras antiguas, la ciudad adquiere una calidad romántica y atmosférica que revela un lado diferente de su carácter. Este tour amigable para familias explora la Plaza de Armas y calles circundantes cuando la luz nocturna proyecta sombras dramáticas sobre muros Incas, las fachadas coloniales brillan doradas, y el ritmo se calma del ajetreo diurno. Perfecto para familias que llegan a mediodía y necesitan una actividad después de aclimatarse, o como complemento a visitas arqueológicas de día.',
+    whatToExpect: 'Your evening tour begins as the sun approaches the horizon, meeting at the Plaza de Armas to watch the transition from day to night. As golden hour light bathes the Cathedral and La Compañía, your guide shares evening stories of the city—tales of colonial intrigue, earthquake destruction and rebuilding, and traditions that come alive at night. Watch as the plaza fills with locals gathering for the evening, street performers appear, and the energy shifts from tourists to residents. Walking through quieter streets as darkness falls, see how artfully placed lighting reveals details invisible during the day—the texture of Inca stonework, the depth of colonial carved doorways, the glow of traditional windows. Your guide points out restaurants and bars beloved by locals, explains evening traditions, and shares recommendations for continuing the evening on your own. Visit a traditional pisco bar or chocolate café (optional purchases) to understand local flavors while resting your feet. Learn about contemporary Cusco life—how residents navigate their ancient city, what festivals transform the streets, and how traditions continue in modern times. The tour ends with the plaza fully illuminated, its beauty at night rivaling any daytime view. For families with children, this tour offers a gentle introduction to Cusco that works well with jet lag and altitude adjustment, providing meaningful engagement without exhausting physical activity.',
+    whatToExpectEs: 'Tu tour nocturno comienza mientras el sol se acerca al horizonte, encontrándose en la Plaza de Armas para ver la transición del día a la noche. Mientras la luz de hora dorada baña la Catedral y La Compañía, tu guía comparte historias nocturnas de la ciudad—cuentos de intriga colonial, destrucción y reconstrucción por terremotos, y tradiciones que cobran vida por la noche. Ve cómo la plaza se llena de locales reuniéndose para la noche, artistas callejeros aparecen, y la energía cambia de turistas a residentes. Caminando por calles más tranquilas al caer la oscuridad, ve cómo la iluminación artísticamente colocada revela detalles invisibles durante el día—la textura de la mampostería Inca, la profundidad de puertas coloniales talladas, el brillo de ventanas tradicionales. Tu guía señala restaurantes y bares amados por locales, explica tradiciones nocturnas, y comparte recomendaciones para continuar la noche por tu cuenta. Visita un bar tradicional de pisco o café de chocolate (compras opcionales) para entender sabores locales mientras descansas tus pies. Aprende sobre la vida contemporánea de Cusco—cómo los residentes navegan su ciudad antigua, qué festivales transforman las calles, y cómo las tradiciones continúan en tiempos modernos. El tour termina con la plaza completamente iluminada, su belleza nocturna rivalizando cualquier vista de día. Para familias con niños, este tour ofrece una suave introducción a Cusco que funciona bien con jet lag y ajuste de altitud, proporcionando compromiso significativo sin actividad física agotadora.',
+    highlights: [
+      'Magical illuminated historic center',
+      'Golden hour and evening light',
+      'Quieter streets than daytime',
+      'Atmospheric shadows on Inca walls',
+      'Plaza de Armas at night',
+      'Local evening life and traditions',
+      'Restaurant recommendations',
+      'Optional pisco or chocolate tasting',
+      'Perfect for jet lag adjustment',
+      'Gentle activity for acclimatizing',
+      'Different perspective than day tours',
+      'Romantic, atmospheric experience'
+    ],
+    highlightsEs: [
+      'Mágico centro histórico iluminado',
+      'Luz de hora dorada y nocturna',
+      'Calles más tranquilas que de día',
+      'Sombras atmosféricas en muros Incas',
+      'Plaza de Armas de noche',
+      'Vida nocturna local y tradiciones',
+      'Recomendaciones de restaurantes',
+      'Degustación opcional de pisco o chocolate',
+      'Perfecto para ajuste de jet lag',
+      'Actividad suave para aclimatarse',
+      'Perspectiva diferente a tours de día',
+      'Experiencia romántica y atmosférica'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-2.5 hours',
+    durationEs: '2-2.5 horas',
+    difficulty: 'easy',
+    priceRange: '$25-40 USD per person',
+    priceRangeEs: '$25-40 USD por persona',
+    bestTime: 'Year-round. Tours start 5-6pm depending on sunset.',
+    bestTimeEs: 'Todo el año. Tours comienzan 5-6pm dependiendo del atardecer.',
+    includes: [
+      'Professional English-speaking guide',
+      'Evening historical commentary',
+      'Restaurant/bar recommendations',
+      'Local tips for evening activities',
+      'Walking route through lit streets'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Comentario histórico nocturno',
+      'Recomendaciones de restaurantes/bares',
+      'Tips locales para actividades nocturnas',
+      'Ruta a pie por calles iluminadas'
+    ],
+    tips: [
+      'Bring warm layer for evening cool',
+      'Great arrival day activity',
+      'Comfortable shoes for cobblestones',
+      'Camera with low-light capability',
+      'Budget for optional tastings',
+      'Ends near good dinner options',
+      'Slower pace than day tours'
+    ],
+    tipsEs: [
+      'Trae capa abrigada para frescura nocturna',
+      'Gran actividad para día de llegada',
+      'Zapatos cómodos para adoquines',
+      'Cámara con capacidad de poca luz',
+      'Presupuesta para degustaciones opcionales',
+      'Termina cerca de buenas opciones de cena',
+      'Paso más lento que tours de día'
+    ],
+    safetyNotes: [
+      'Stay with guide at all times',
+      'Historic center well-lit and safe',
+      'Tourist police patrol at night',
+      'Be aware of cobblestone surfaces',
+      'Keep valuables secure',
+      'Tour ends in busy, safe area'
+    ],
+    safetyNotesEs: [
+      'Permanece con el guía todo el tiempo',
+      'Centro histórico bien iluminado y seguro',
+      'Policía turística patrulla de noche',
+      'Estate atento a superficies de adoquín',
+      'Mantén objetos de valor seguros',
+      'Tour termina en área concurrida y segura'
+    ],
+    relatedActivities: ['cusco-plaza-walking-tour', 'san-blas-artisan-tour', 'cusco-food-tour'],
+    providers: [
+      { name: 'Cusco Night Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Cusco', familyFriendly: true },
+      { name: 'Cusco Local Friend', familyFriendly: true }
+    ]
   }
 ];
 
