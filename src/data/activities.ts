@@ -16453,6 +16453,397 @@ export const activities: Activity[] = [
       { name: 'Free Walking Tour Cusco', familyFriendly: true },
       { name: 'Cusco Local Friend', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'ollantaytambo-fortress-tour',
+    name: 'Ollantaytambo Fortress & Living Inca Town Tour',
+    nameEs: 'Tour Fortaleza de Ollantaytambo y Pueblo Inca Vivo',
+    type: 'cultural',
+    city: 'ollantaytambo',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the magnificent Ollantaytambo fortress with its massive terraces and the Wall of Six Monoliths while learning about Inca military strategy and sacred architecture. This guided tour combines the archaeological site with a walking tour through the only living Inca town, where families still inhabit original Inca foundations and ancient water channels flow through the streets.',
+    descriptionEs: 'Explora la magnífica fortaleza de Ollantaytambo con sus masivas terrazas y el Muro de Seis Monolitos mientras aprendes sobre estrategia militar inca y arquitectura sagrada. Este tour guiado combina el sitio arqueológico con una caminata por el único pueblo inca vivo, donde familias aún habitan cimientos incas originales y antiguos canales de agua fluyen por las calles.',
+    whatToExpect: 'Begin at the main entrance where your guide explains the strategic importance of this fortress, the last stronghold where the Inca successfully defended against Spanish forces. Climb the terraces to reach the Temple of the Sun and marvel at the six massive monoliths transported from quarries across the valley. Learn about Inca engineering as you see evidence of the unfinished construction. Descend and walk through the living Inca town, entering traditional homes, seeing functioning water channels, and understanding how modern Ollantaytambo preserves its ancient heritage.',
+    whatToExpectEs: 'Comienza en la entrada principal donde tu guía explica la importancia estratégica de esta fortaleza, el último bastión donde los incas se defendieron exitosamente contra fuerzas españolas. Sube las terrazas para alcanzar el Templo del Sol y maravíllate con los seis monolitos masivos transportados desde canteras al otro lado del valle. Aprende sobre ingeniería inca al ver evidencia de la construcción inconclusa. Desciende y camina por el pueblo inca vivo, entrando a casas tradicionales, viendo canales de agua funcionando, y entendiendo cómo el Ollantaytambo moderno preserva su herencia antigua.',
+    highlights: [
+      'Climb to Temple of the Sun',
+      'See Wall of Six Monoliths',
+      'Walk through living Inca town',
+      'Visit traditional Inca homes',
+      'Learn about 1537 battle victory',
+      'See functioning Inca water channels',
+      'View Pinkuylluna granaries',
+      'Panoramic Sacred Valley views'
+    ],
+    highlightsEs: [
+      'Sube al Templo del Sol',
+      'Ve el Muro de Seis Monolitos',
+      'Camina por pueblo inca vivo',
+      'Visita casas incas tradicionales',
+      'Aprende sobre victoria de batalla de 1537',
+      'Ve canales de agua incas funcionando',
+      'Observa graneros de Pinkuylluna',
+      'Vistas panorámicas del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$30-50 per person with guide, or included in Sacred Valley tours',
+    priceRangeEs: '$30-50 por persona con guía, o incluido en tours del Valle Sagrado',
+    bestTime: 'Year-round. Early morning (7-8am) before train crowds. Afternoon for golden light.',
+    bestTimeEs: 'Todo el año. Temprano (7-8am) antes de multitudes del tren. Tarde para luz dorada.',
+    includes: [
+      'Professional bilingual guide',
+      'Fortress and town tour',
+      'Historical and cultural commentary',
+      'Entry to traditional homes',
+      'Photo stops at scenic viewpoints'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Tour de fortaleza y pueblo',
+      'Comentario histórico y cultural',
+      'Entrada a casas tradicionales',
+      'Paradas fotográficas en miradores'
+    ],
+    tips: [
+      'Bring water - climb is demanding',
+      'Start early to avoid train passenger crowds',
+      'Many families stay overnight here',
+      'Town restaurants are family-friendly',
+      'Boleto Turístico required for entry',
+      'Take breaks on terrace levels',
+      'Optional climb to Pinkuylluna opposite'
+    ],
+    tipsEs: [
+      'Trae agua - subida es demandante',
+      'Comienza temprano para evitar multitudes del tren',
+      'Muchas familias pasan la noche aquí',
+      'Restaurantes del pueblo son aptos para familias',
+      'Boleto Turístico requerido para entrada',
+      'Toma descansos en niveles de terraza',
+      'Subida opcional a Pinkuylluna enfrente'
+    ],
+    safetyNotes: [
+      'Steep stone steps - watch children',
+      'Altitude 2,792m - pace yourself',
+      'Sturdy shoes required',
+      'No rails on terraces',
+      'Stay on marked paths',
+      'Sun protection essential'
+    ],
+    safetyNotesEs: [
+      'Escalones de piedra empinados - vigila niños',
+      'Altitud 2,792m - ve a tu ritmo',
+      'Zapatos resistentes requeridos',
+      'Sin barandas en terrazas',
+      'Permanece en senderos marcados',
+      'Protección solar esencial'
+    ],
+    relatedActivities: ['sacred-valley-family-tour', 'moray-maras-tour', 'cusco-archaeological-circuit'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Ollantaytambo Guides Association', familyFriendly: true },
+      { name: 'KB Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'andean-baroque-route-tour',
+    name: 'Andean Baroque Route Churches Tour',
+    nameEs: 'Tour Ruta del Barroco Andino - Iglesias',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover the spectacular colonial churches south of Cusco on the Ruta del Barroco Andino, culminating in the "Sistine Chapel of the Americas" at Andahuaylillas. This tour showcases three extraordinary churches with gold-leaf interiors, Renaissance and Baroque murals, and fascinating blend of Spanish and Andean religious imagery that tells the story of colonial Peru cultural fusion.',
+    descriptionEs: 'Descubre las espectaculares iglesias coloniales al sur de Cusco en la Ruta del Barroco Andino, culminando en la "Capilla Sixtina de América" en Andahuaylillas. Este tour muestra tres extraordinarias iglesias con interiores de pan de oro, murales renacentistas y barrocos, y fascinante mezcla de imaginería religiosa española y andina que cuenta la historia de la fusión cultural del Perú colonial.',
+    whatToExpect: 'Depart Cusco and travel through the scenic countryside toward the village of Andahuaylillas, approximately 40km south. Visit the Church of San Pedro Apóstol, nicknamed the Sistine Chapel of the Americas for its breathtaking gilded interior covered floor to ceiling with religious art. Continue to the churches of Huaro and Canincunca, each with unique murals and colonial treasures. Guides explain the Cusqueña School art style and how indigenous artists incorporated Andean symbols into Christian imagery. Return to Cusco with optional stops at Tipon or Pikillacta.',
+    whatToExpectEs: 'Parte de Cusco y viaja por el pintoresco campo hacia el pueblo de Andahuaylillas, aproximadamente 40km al sur. Visita la Iglesia de San Pedro Apóstol, apodada la Capilla Sixtina de América por su impresionante interior dorado cubierto de piso a techo con arte religioso. Continúa a las iglesias de Huaro y Canincunca, cada una con murales únicos y tesoros coloniales. Los guías explican el estilo artístico de la Escuela Cusqueña y cómo artistas indígenas incorporaron símbolos andinos en imaginería cristiana. Regresa a Cusco con paradas opcionales en Tipon o Pikillacta.',
+    highlights: [
+      'Andahuaylillas "Sistine Chapel" interior',
+      'Gold-leaf covered baroque altars',
+      '"Road to Heaven and Hell" mural',
+      'Original 17th-century pipe organ',
+      'Cusqueña School masterpiece paintings',
+      'Three unique colonial churches',
+      'Indigenous-Christian art fusion',
+      'Scenic countryside drive'
+    ],
+    highlightsEs: [
+      'Interior de "Capilla Sixtina" de Andahuaylillas',
+      'Altares barrocos cubiertos de pan de oro',
+      'Mural "Camino al Cielo y al Infierno"',
+      'Órgano de tubos original del siglo XVII',
+      'Pinturas maestras de la Escuela Cusqueña',
+      'Tres iglesias coloniales únicas',
+      'Fusión de arte indígena-cristiano',
+      'Viaje escénico por el campo'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person including transport, guide, and entrance fees',
+    priceRangeEs: '$40-70 por persona incluyendo transporte, guía, y entradas',
+    bestTime: 'Year-round. Morning light best for church interiors. Avoid Sundays during mass.',
+    bestTimeEs: 'Todo el año. Luz de mañana mejor para interiores de iglesia. Evita domingos durante misa.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Baroque Route entrance fees',
+      'Church visits with guided commentary'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entradas de Ruta Barroca',
+      'Visitas a iglesias con comentario guiado'
+    ],
+    tips: [
+      'No photography inside churches',
+      'Wear respectful clothing (no shorts)',
+      'Kids love the gold and colorful murals',
+      'Visit on weekday to avoid services',
+      'Combine with Tipon for full day',
+      'Bring light jacket for church interiors',
+      'Local ice cream in Andahuaylillas plaza'
+    ],
+    tipsEs: [
+      'No fotografía dentro de iglesias',
+      'Usa ropa respetuosa (no shorts)',
+      'Niños aman el oro y murales coloridos',
+      'Visita en día de semana para evitar servicios',
+      'Combina con Tipon para día completo',
+      'Trae chaqueta ligera para interiores de iglesia',
+      'Helado local en plaza de Andahuaylillas'
+    ],
+    safetyNotes: [
+      'Indoor activity - very safe',
+      'Watch children near altars',
+      'Respectful behavior required',
+      'Stay with tour group',
+      'Roads are paved and safe'
+    ],
+    safetyNotesEs: [
+      'Actividad bajo techo - muy segura',
+      'Vigila niños cerca de altares',
+      'Comportamiento respetuoso requerido',
+      'Permanece con grupo de tour',
+      'Carreteras son pavimentadas y seguras'
+    ],
+    relatedActivities: ['tipon-waterworks-tour', 'cusco-cathedral-art-tour', 'cusco-colonial-walking-tour'],
+    providers: [
+      { name: 'Cusco Culinary Tours', familyFriendly: true },
+      { name: 'Andean Baroque Experience', familyFriendly: true },
+      { name: 'Peru Sacred Journeys', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tipon-waterworks-tour',
+    name: 'Tipon Inca Waterworks & Engineering Tour',
+    nameEs: 'Tour de Obras Hidráulicas e Ingeniería Inca de Tipon',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Marvel at the most sophisticated example of Inca hydraulic engineering at Tipon, where 600-year-old water channels, fountains, and irrigation systems still function perfectly. This educational tour reveals how the Inca mastered water control for both ceremonial and agricultural purposes, offering hands-on learning about ancient engineering that continues to inspire modern hydraulic scientists.',
+    descriptionEs: 'Maravíllate con el ejemplo más sofisticado de ingeniería hidráulica inca en Tipon, donde canales de agua, fuentes, y sistemas de irrigación de 600 años aún funcionan perfectamente. Este tour educativo revela cómo los incas dominaron el control del agua para propósitos ceremoniales y agrícolas, ofreciendo aprendizaje práctico sobre ingeniería antigua que continúa inspirando a científicos hidráulicos modernos.',
+    whatToExpect: 'Travel 25km southeast of Cusco to the hidden gem of Tipon, entering through the lower terraces where perfectly carved stone channels direct water from mountain springs. Watch as your guide demonstrates how the Inca calculated water pressure and flow rates without modern instruments. Climb through the agricultural terraces, each level with its own microclimate for crop experimentation. Reach the upper ceremonial fountains where water cascades in carefully designed patterns. Kids can safely touch the flowing water and observe the engineering principles in action. The tour includes optional extension to upper ruins with panoramic views.',
+    whatToExpectEs: 'Viaja 25km al sureste de Cusco a la gema escondida de Tipon, entrando por las terrazas inferiores donde canales de piedra perfectamente tallados dirigen agua de manantiales de montaña. Observa cómo tu guía demuestra cómo los incas calculaban presión y tasas de flujo de agua sin instrumentos modernos. Sube por las terrazas agrícolas, cada nivel con su propio microclima para experimentación de cultivos. Alcanza las fuentes ceremoniales superiores donde el agua cae en cascada en patrones cuidadosamente diseñados. Niños pueden tocar el agua fluyendo con seguridad y observar principios de ingeniería en acción. El tour incluye extensión opcional a ruinas superiores con vistas panorámicas.',
+    highlights: [
+      'See 600-year-old functioning water channels',
+      'Learn Inca hydraulic engineering',
+      'Hands-on water interaction for kids',
+      'Cascading ceremonial fountains',
+      'Agricultural terrace microclimates',
+      'Underground aqueduct systems',
+      'Stone-carved precision channels',
+      'Panoramic valley views'
+    ],
+    highlightsEs: [
+      'Ve canales de agua de 600 años funcionando',
+      'Aprende ingeniería hidráulica inca',
+      'Interacción con agua para niños',
+      'Fuentes ceremoniales en cascada',
+      'Microclimas de terrazas agrícolas',
+      'Sistemas de acueductos subterráneos',
+      'Canales de precisión tallados en piedra',
+      'Vistas panorámicas del valle'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours at site, 4 hours total',
+    durationEs: '2-3 horas en sitio, 4 horas total',
+    difficulty: 'moderate',
+    priceRange: '$35-55 per person including transport and guide',
+    priceRangeEs: '$35-55 por persona incluyendo transporte y guía',
+    bestTime: 'Year-round. Morning for best light on water features. Dry season for clearer views.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz en elementos de agua. Temporada seca para vistas más claras.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Expert guide with engineering knowledge',
+      'Boleto Turístico entrance',
+      'Stop at Oropesa for bread tasting'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía experto con conocimiento de ingeniería',
+      'Entrada del Boleto Turístico',
+      'Parada en Oropesa para degustación de pan'
+    ],
+    tips: [
+      'Kids love touching the running water',
+      'Less crowded than Sacred Valley sites',
+      'Bring water for upper ruins climb',
+      'Stop in Oropesa for famous bread',
+      'Combine with Pikillacta or Baroque Route',
+      'Morning light best for photography',
+      'Wear sturdy shoes for steep paths'
+    ],
+    tipsEs: [
+      'Niños aman tocar el agua corriente',
+      'Menos concurrido que sitios del Valle Sagrado',
+      'Trae agua para subida a ruinas superiores',
+      'Para en Oropesa por pan famoso',
+      'Combina con Pikillacta o Ruta Barroca',
+      'Luz de mañana mejor para fotografía',
+      'Usa zapatos resistentes para senderos empinados'
+    ],
+    safetyNotes: [
+      'Water channels can be slippery',
+      'Steep paths to upper sections',
+      'Watch children near water features',
+      'Altitude 3,560m - pace yourself',
+      'Sturdy footwear essential',
+      'Sun protection needed'
+    ],
+    safetyNotesEs: [
+      'Canales de agua pueden ser resbalosos',
+      'Senderos empinados a secciones superiores',
+      'Vigila niños cerca de elementos de agua',
+      'Altitud 3,560m - ve a tu ritmo',
+      'Calzado resistente esencial',
+      'Protección solar necesaria'
+    ],
+    relatedActivities: ['andean-baroque-route-tour', 'pikillacta-tour', 'moray-maras-tour'],
+    providers: [
+      { name: 'Cusco Engineering Tours', familyFriendly: true },
+      { name: 'Peru Water Heritage', familyFriendly: true },
+      { name: 'Andean Discovery', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sacred-valley-family-tour',
+    name: 'Sacred Valley Complete Family Day Tour',
+    nameEs: 'Tour Familiar Completo del Valle Sagrado',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Experience the Sacred Valley of the Incas on this comprehensive family-friendly day tour covering the major archaeological sites of Pisac, Ollantaytambo, and Chinchero. This carefully paced itinerary includes market visits, hands-on weaving demonstrations, and interactive experiences designed to engage children while parents enjoy the stunning Andean scenery and Inca history.',
+    descriptionEs: 'Experimenta el Valle Sagrado de los Incas en este tour de día completo familiar que cubre los principales sitios arqueológicos de Pisac, Ollantaytambo y Chinchero. Este itinerario cuidadosamente programado incluye visitas a mercados, demostraciones prácticas de tejido, y experiencias interactivas diseñadas para involucrar a niños mientras los padres disfrutan el impresionante paisaje andino y la historia inca.',
+    whatToExpect: 'Depart from your Cusco hotel for a scenic drive through the Sacred Valley, stopping first at Pisac for the famous market and archaeological site with its impressive agricultural terraces. Continue to a traditional weaving community where families can try dyeing wool with natural plants and weaving on backstrap looms. Enjoy a buffet lunch with valley views, then explore the magnificent fortress of Ollantaytambo, climbing the terraces at a family-friendly pace. End at Chinchero to see the colonial church built on Inca foundations and watch master weavers demonstrate ancient techniques. Return to Cusco as the sun sets over the mountains.',
+    whatToExpectEs: 'Parte de tu hotel en Cusco para un viaje escénico por el Valle Sagrado, parando primero en Pisac por el famoso mercado y sitio arqueológico con sus impresionantes terrazas agrícolas. Continúa a una comunidad de tejido tradicional donde familias pueden intentar teñir lana con plantas naturales y tejer en telares de cintura. Disfruta un almuerzo buffet con vistas del valle, luego explora la magnífica fortaleza de Ollantaytambo, subiendo las terrazas a un ritmo familiar. Termina en Chinchero para ver la iglesia colonial construida sobre cimientos incas y observar tejedores maestros demostrar técnicas antiguas. Regresa a Cusco mientras el sol se pone sobre las montañas.',
+    highlights: [
+      'Pisac archaeological site and market',
+      'Hands-on weaving demonstration',
+      'Ollantaytambo fortress exploration',
+      'Chinchero colonial church and weavers',
+      'Buffet lunch with valley views',
+      'Child-friendly pace and activities',
+      'Multiple photo opportunities',
+      'Panoramic Sacred Valley scenery'
+    ],
+    highlightsEs: [
+      'Sitio arqueológico y mercado de Pisac',
+      'Demostración práctica de tejido',
+      'Exploración de fortaleza de Ollantaytambo',
+      'Iglesia colonial de Chinchero y tejedores',
+      'Almuerzo buffet con vistas del valle',
+      'Ritmo y actividades aptas para niños',
+      'Múltiples oportunidades de fotos',
+      'Paisaje panorámico del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '10-12 hours',
+    durationEs: '10-12 horas',
+    difficulty: 'moderate',
+    priceRange: '$80-150 per person including all entrances, lunch, and transport',
+    priceRangeEs: '$80-150 por persona incluyendo todas las entradas, almuerzo, y transporte',
+    bestTime: 'Year-round. Tuesday/Thursday/Sunday for Pisac market. Dry season (May-Oct) for best weather.',
+    bestTimeEs: 'Todo el año. Martes/Jueves/Domingo para mercado de Pisac. Temporada seca (mayo-oct) para mejor clima.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private or small group transport',
+      'Professional bilingual guide',
+      'Boleto Turístico entries',
+      'Buffet lunch',
+      'Weaving demonstration',
+      'All activities as listed'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado o grupo pequeño',
+      'Guía profesional bilingüe',
+      'Entradas del Boleto Turístico',
+      'Almuerzo buffet',
+      'Demostración de tejido',
+      'Todas las actividades listadas'
+    ],
+    tips: [
+      'Bring layers - weather varies in valley',
+      'Cash for market souvenirs',
+      'Start early to maximize time',
+      'Snacks for kids between stops',
+      'Camera with charged battery',
+      'Comfortable walking shoes essential',
+      'Kids love the market and alpacas',
+      'Take it slow - long but rewarding day'
+    ],
+    tipsEs: [
+      'Trae capas - clima varía en el valle',
+      'Efectivo para recuerdos del mercado',
+      'Comienza temprano para maximizar tiempo',
+      'Snacks para niños entre paradas',
+      'Cámara con batería cargada',
+      'Zapatos cómodos para caminar esenciales',
+      'Niños aman el mercado y alpacas',
+      'Ve despacio - día largo pero gratificante'
+    ],
+    safetyNotes: [
+      'Long day - pace activities appropriately',
+      'Altitude varies 2,800-3,800m',
+      'Watch children on terraces',
+      'Stay hydrated throughout',
+      'Sun protection essential',
+      'Keep belongings secure in markets',
+      'Vetted family-friendly restaurants'
+    ],
+    safetyNotesEs: [
+      'Día largo - programa actividades apropiadamente',
+      'Altitud varía 2,800-3,800m',
+      'Vigila niños en terrazas',
+      'Mantente hidratado durante todo',
+      'Protección solar esencial',
+      'Mantén pertenencias seguras en mercados',
+      'Restaurantes aptos para familias verificados'
+    ],
+    relatedActivities: ['ollantaytambo-fortress-tour', 'moray-maras-tour', 'cusco-archaeological-circuit'],
+    providers: [
+      { name: 'Sacred Valley Family Tours', familyFriendly: true },
+      { name: 'Cusco For Kids', familyFriendly: true },
+      { name: 'KB Tours', familyFriendly: true },
+      { name: 'Alpaca Expeditions', familyFriendly: true }
+    ]
   }
 ];
 
