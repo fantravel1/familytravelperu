@@ -13631,6 +13631,372 @@ export const activities: Activity[] = [
       { name: 'Cultural Heritage Tours', familyFriendly: true },
       { name: 'Peru Sacred Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'pachacamac-tour',
+    name: 'Pachacámac Archaeological & Museum Tour',
+    nameEs: 'Tour Arqueológico y Museo de Pachacámac',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima',
+    regionEs: 'Lima',
+    description: 'Explore Peru\'s largest coastal archaeological site just 45 minutes from Lima\'s hotel districts. This half-day tour visits pyramids, temples, and the fascinating site museum housing the original Pachacámac Idol - a perfect introduction to pre-Columbian Peru for families with limited time in Lima.',
+    descriptionEs: 'Explora el sitio arqueológico costero más grande de Perú a solo 45 minutos de los distritos hoteleros de Lima. Este tour de medio día visita pirámides, templos y el fascinante museo del sitio que alberga el Ídolo de Pachacámac original - una introducción perfecta al Perú precolombino para familias con tiempo limitado en Lima.',
+    whatToExpect: 'Your tour begins with hotel pickup in Miraflores or San Isidro and a 45-minute drive south along the Pacific coast to this ancient pilgrimage center. Start at the excellent modern museum where the carved wooden Pachacámac Idol, textiles, and artifacts provide context for what you\'ll see outside. Then explore the massive adobe complex: walk to the Temple of the Sun for spectacular Pacific views, see the Painted Temple with original murals, and visit the Acllahuasi where chosen women lived. Guides explain how multiple cultures - Lima, Wari, Ichma, and Inca - built and expanded this religious center over 1,000 years. Children enjoy the open spaces, ocean views, and finding the different architectural styles. The tour includes time for the gift shop before returning to Lima.',
+    whatToExpectEs: 'Tu tour comienza con recogida en el hotel en Miraflores o San Isidro y un viaje de 45 minutos al sur por la costa del Pacífico hasta este antiguo centro de peregrinación. Comienza en el excelente museo moderno donde el tallado Ídolo de Pachacámac de madera, textiles y artefactos proporcionan contexto para lo que verás afuera. Luego explora el masivo complejo de adobe: camina al Templo del Sol para espectaculares vistas del Pacífico, ve el Templo Pintado con murales originales, y visita el Acllahuasi donde vivían las mujeres elegidas. Los guías explican cómo múltiples culturas - Lima, Wari, Ichma e Inca - construyeron y expandieron este centro religioso durante 1,000 años. Los niños disfrutan los espacios abiertos, vistas al océano y encontrar los diferentes estilos arquitectónicos. El tour incluye tiempo para la tienda de regalos antes de regresar a Lima.',
+    highlights: [
+      'See the original Pachacámac Idol in the museum',
+      'Temple of the Sun with Pacific Ocean views',
+      'Original painted murals at Painted Temple',
+      'Learn about 1,000+ years of religious history',
+      'Easy half-day excursion from Lima hotels',
+      'World-class archaeological museum',
+      'Multiple pre-Columbian cultures in one site'
+    ],
+    highlightsEs: [
+      'Ve el Ídolo de Pachacámac original en el museo',
+      'Templo del Sol con vistas al Océano Pacífico',
+      'Murales pintados originales en el Templo Pintado',
+      'Aprende sobre 1,000+ años de historia religiosa',
+      'Fácil excursión de medio día desde hoteles de Lima',
+      'Museo arqueológico de clase mundial',
+      'Múltiples culturas precolombinas en un sitio'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Year-round, mornings cooler',
+    bestTimeEs: 'Todo el año, mañanas más frescas',
+    includes: [
+      'Hotel pickup and drop-off in Lima',
+      'Professional bilingual guide',
+      'All entrance fees including museum',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Lima',
+      'Guía profesional bilingüe',
+      'Todas las entradas incluyendo museo',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Book morning tours for cooler temperatures',
+      'Start with museum for historical context',
+      'Bring sunscreen and hat - limited shade',
+      'Good walking shoes for sandy paths',
+      'Combine with Pantanos de Villa for full day',
+      'Photography allowed throughout'
+    ],
+    tipsEs: [
+      'Reserva tours matutinos para temperaturas más frescas',
+      'Comienza con el museo para contexto histórico',
+      'Trae protector solar y sombrero - sombra limitada',
+      'Buenos zapatos para caminos arenosos',
+      'Combina con Pantanos de Villa para día completo',
+      'Fotografía permitida en todo el lugar'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Some walking on uneven surfaces',
+      'Sun exposure - bring protection',
+      'Stay on marked paths',
+      'Safe tourist site with security'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Algo de caminata en superficies irregulares',
+      'Exposición al sol - trae protección',
+      'Mantente en caminos marcados',
+      'Sitio turístico seguro con vigilancia'
+    ],
+    relatedActivities: ['lima-huacas-tour', 'lima-food-tour', 'barranco-walking-tour'],
+    providers: [
+      { name: 'Lima Tours', familyFriendly: true },
+      { name: 'Peru Adventures', familyFriendly: true },
+      { name: 'Andean Discovery', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'wari-capital-tour',
+    name: 'Wari Empire Capital Archaeological Tour',
+    nameEs: 'Tour Arqueológico a la Capital del Imperio Wari',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho',
+    regionEs: 'Ayacucho',
+    description: 'Discover the capital of Peru\'s first empire - the Wari civilization that unified the Andes 500 years before the Incas. This educational tour helps children understand that the Incas were not the first great Peruvian civilization but inherited much from earlier cultures. The excellent on-site museum and vast ruins make this a highlight of any Ayacucho visit.',
+    descriptionEs: 'Descubre la capital del primer imperio de Perú - la civilización Wari que unificó los Andes 500 años antes de los Incas. Este tour educativo ayuda a los niños a entender que los Incas no fueron la primera gran civilización peruana sino que heredaron mucho de culturas anteriores. El excelente museo en el sitio y las vastas ruinas hacen de esto un punto culminante de cualquier visita a Ayacucho.',
+    whatToExpect: 'After pickup in Ayacucho, drive 30 minutes northeast through Andean countryside to the Wari Archaeological Complex. Begin at the modern museum where ceramics, textiles, and reconstructions explain how the Wari built an empire that predated the Incas by 500 years. Then explore the vast ruins of what was once a city of 40,000 people. See the distinctive D-shaped ceremonial chambers found only in Wari architecture, explore underground tombs and galleries, and walk among multi-story stone buildings. Guides explain how the Wari developed road systems, administrative practices, and artistic styles that the Incas would later adopt. The site\'s scale and antiquity help children understand Peru\'s rich pre-Columbian heritage extends far beyond the famous Incas. Return to Ayacucho with a new appreciation for Andean history.',
+    whatToExpectEs: 'Después de recogerte en Ayacucho, viaja 30 minutos al noreste por el campo andino hasta el Complejo Arqueológico Wari. Comienza en el museo moderno donde cerámicas, textiles y reconstrucciones explican cómo los Wari construyeron un imperio que precedió a los Incas por 500 años. Luego explora las vastas ruinas de lo que fue una ciudad de 40,000 personas. Ve las distintivas cámaras ceremoniales en forma de D encontradas solo en arquitectura Wari, explora tumbas y galerías subterráneas, y camina entre edificios de piedra de varios pisos. Los guías explican cómo los Wari desarrollaron sistemas de caminos, prácticas administrativas y estilos artísticos que los Incas adoptarían después. La escala y antigüedad del sitio ayudan a los niños a entender que el rico patrimonio precolombino de Perú se extiende mucho más allá de los famosos Incas. Regresa a Ayacucho con nueva apreciación por la historia andina.',
+    highlights: [
+      'Capital of Peru\'s first great empire',
+      'Understand pre-Inca Andean civilization',
+      'Unique D-shaped ceremonial chambers',
+      'Underground tombs and galleries',
+      'Modern archaeological museum',
+      'Less crowded than Cusco sites',
+      'Learn how Incas inherited Wari innovations'
+    ],
+    highlightsEs: [
+      'Capital del primer gran imperio de Perú',
+      'Entiende la civilización andina pre-Inca',
+      'Únicas cámaras ceremoniales en forma de D',
+      'Tumbas y galerías subterráneas',
+      'Museo arqueológico moderno',
+      'Menos concurrido que sitios de Cusco',
+      'Aprende cómo los Incas heredaron innovaciones Wari'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$30-50 USD per person',
+    priceRangeEs: '$30-50 USD por persona',
+    bestTime: 'April-October dry season, mornings best',
+    bestTimeEs: 'Temporada seca abril-octubre, mañanas mejor',
+    includes: [
+      'Hotel pickup and drop-off in Ayacucho',
+      'Bilingual guide specializing in archaeology',
+      'All entrance fees including museum',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Ayacucho',
+      'Guía bilingüe especializado en arqueología',
+      'Todas las entradas incluyendo museo',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Start with museum for historical context',
+      'Site is vast - wear comfortable shoes',
+      'Combine with Quinua for full day',
+      'D-shaped chambers are most impressive',
+      'Less visited - more authentic experience',
+      'Bring snacks - limited options at site'
+    ],
+    tipsEs: [
+      'Comienza con el museo para contexto histórico',
+      'El sitio es vasto - usa zapatos cómodos',
+      'Combina con Quinua para día completo',
+      'Cámaras en forma de D son más impresionantes',
+      'Menos visitado - experiencia más auténtica',
+      'Trae snacks - opciones limitadas en el sitio'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,800m)',
+      'Some uneven walking surfaces',
+      'Underground areas require caution',
+      'Stay with guide at all times',
+      'Safe tourist site'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,800m)',
+      'Algunas superficies irregulares para caminar',
+      'Áreas subterráneas requieren precaución',
+      'Permanece con el guía en todo momento',
+      'Sitio turístico seguro'
+    ],
+    relatedActivities: ['quinua-ayacucho-independence-tour', 'ayacucho-colonial-churches-circuit', 'vilcashuaman-tour'],
+    providers: [
+      { name: 'Ayacucho Tours', familyFriendly: true },
+      { name: 'Wari Heritage Tours', familyFriendly: true },
+      { name: 'Peru Archaeological Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pisac-ruins-market-tour',
+    name: 'Pisac Ruins & Market Full Experience',
+    nameEs: 'Experiencia Completa de Ruinas y Mercado de Pisac',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Sacred Valley',
+    regionEs: 'Valle Sagrado',
+    description: 'Experience the best of the Sacred Valley in one memorable day - spectacular Inca ruins perched high above the valley plus Peru\'s most famous traditional market. Pisac offers families the complete Andean experience: impressive archaeology, living indigenous culture, and vibrant market atmosphere.',
+    descriptionEs: 'Experimenta lo mejor del Valle Sagrado en un día memorable - espectaculares ruinas incas encaramadas sobre el valle más el mercado tradicional más famoso de Perú. Pisac ofrece a las familias la experiencia andina completa: impresionante arqueología, cultura indígena viva y vibrante atmósfera de mercado.',
+    whatToExpect: 'Depart Cusco early for the one-hour scenic drive through the Sacred Valley to Pisac. Drive up to the ruins entrance at the mountain top, then explore downhill through the archaeological complex. See the Intihuatana (sun-hitching stone), the military sector, and spectacular terraces carved into impossibly steep slopes. Children are amazed by the thousands of Inca tombs honeycomb the cliff faces. Guides explain how Pisac served as a royal estate, fortress, and religious center. After descending through the ruins, arrive in Pisac town for the famous market. Browse stalls selling colorful textiles, ceramics, jewelry, and crafts from throughout Peru. Watch local Quechua-speaking families in traditional dress. Enjoy lunch at a restaurant overlooking the plaza before returning to Cusco with your market finds.',
+    whatToExpectEs: 'Sal temprano de Cusco para el viaje escénico de una hora por el Valle Sagrado hasta Pisac. Sube en auto hasta la entrada de las ruinas en la cima de la montaña, luego explora cuesta abajo por el complejo arqueológico. Ve el Intihuatana (piedra de amarrar el sol), el sector militar y espectaculares terrazas talladas en laderas imposiblemente empinadas. Los niños quedan asombrados por las miles de tumbas incas que perforan los acantilados como panal. Los guías explican cómo Pisac sirvió como hacienda real, fortaleza y centro religioso. Después de descender por las ruinas, llega al pueblo de Pisac para el famoso mercado. Explora puestos vendiendo textiles coloridos, cerámicas, joyería y artesanías de todo Perú. Observa familias locales quechua-hablantes en vestimenta tradicional. Disfruta el almuerzo en un restaurante con vista a la plaza antes de regresar a Cusco con tus hallazgos del mercado.',
+    highlights: [
+      'Spectacular mountain-top Inca citadel',
+      'Intihuatana sun stone',
+      'Massive agricultural terraces',
+      'Peru\'s most famous traditional market',
+      'Ancient Inca cemetery in cliff faces',
+      'Living Andean market culture',
+      'Scenic Sacred Valley drive'
+    ],
+    highlightsEs: [
+      'Espectacular ciudadela inca en la cima de la montaña',
+      'Piedra solar Intihuatana',
+      'Masivas terrazas agrícolas',
+      'El mercado tradicional más famoso de Perú',
+      'Antiguo cementerio inca en acantilados',
+      'Cultura de mercado andino viva',
+      'Viaje escénico por el Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'moderate',
+    priceRange: '$50-85 USD per person',
+    priceRangeEs: '$50-85 USD por persona',
+    bestTime: 'Year-round, Sundays for biggest market',
+    bestTimeEs: 'Todo el año, domingos para el mercado más grande',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Boleto Turístico entrance (or add-on)',
+      'Lunch in Pisac',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Entrada de Boleto Turístico (o adicional)',
+      'Almuerzo en Pisac',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Sunday has the biggest market',
+      'Start early at ruins to beat crowds',
+      'Ruins involve downhill walking - take it slow',
+      'Bring cash in small bills for market',
+      'Bargaining is expected at market',
+      'Combine with Ollantaytambo for Sacred Valley day'
+    ],
+    tipsEs: [
+      'Domingo tiene el mercado más grande',
+      'Comienza temprano en ruinas para evitar multitudes',
+      'Ruinas implican caminata cuesta abajo - ve despacio',
+      'Trae efectivo en billetes pequeños para el mercado',
+      'El regateo es esperado en el mercado',
+      'Combina con Ollantaytambo para día del Valle Sagrado'
+    ],
+    safetyNotes: [
+      'High altitude (3,445m) - acclimate first',
+      'Steep paths at ruins - watch children',
+      'Some drop-offs near terraces',
+      'Market can be crowded - keep children close',
+      'Safe tourist destination'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,445m) - aclimatarse primero',
+      'Caminos empinados en ruinas - vigila niños',
+      'Algunos precipicios cerca de terrazas',
+      'Mercado puede estar lleno - mantén niños cerca',
+      'Destino turístico seguro'
+    ],
+    relatedActivities: ['ollantaytambo-tour', 'maras-moray-tour', 'sacred-valley-full-day'],
+    providers: [
+      { name: 'Cusco Sacred Valley Tours', familyFriendly: true },
+      { name: 'Peru Treks', familyFriendly: true },
+      { name: 'Andean Spirit Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'caral-ancient-city-expedition',
+    name: 'Caral: Oldest City in the Americas Expedition',
+    nameEs: 'Caral: Expedición a la Ciudad Más Antigua de las Américas',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Journey to the oldest city in the Western Hemisphere - a 5,000-year-old UNESCO World Heritage Site contemporary with ancient Egypt\'s pyramids. This full-day expedition from Lima brings history to life as families explore pyramids that predate the Incas by 4,500 years, fundamentally changing how we understand civilization in the Americas.',
+    descriptionEs: 'Viaja a la ciudad más antigua del Hemisferio Occidental - un Sitio Patrimonio de la Humanidad UNESCO de 5,000 años de antigüedad contemporáneo con las pirámides del antiguo Egipto. Esta expedición de día completo desde Lima da vida a la historia mientras las familias exploran pirámides que preceden a los Incas por 4,500 años, cambiando fundamentalmente cómo entendemos la civilización en las Américas.',
+    whatToExpect: 'An early morning departure from Lima takes you north on the Pan-American Highway toward the Supe Valley, arriving at Caral after approximately 3 hours. The required guided tour begins at the visitor center with an introduction to the Norte Chico civilization - the first complex society in the Americas. Then explore the site: six major pyramids, residential areas, amphitheater, and sunken circular plazas. Guides explain how this peaceful civilization (no evidence of warfare!) developed agriculture, trade, and monumental architecture 5,000 years ago. The mind-expanding comparison: when Caral flourished, Stonehenge didn\'t exist, and Egypt\'s Great Pyramid was just being built. Children process the extraordinary antiquity through hands-on explanations and scale comparisons. After the tour, enjoy a packed lunch in the valley before returning to Lima. This expedition fundamentally changes how families understand human civilization.',
+    whatToExpectEs: 'Una salida temprana de Lima te lleva al norte por la Carretera Panamericana hacia el Valle de Supe, llegando a Caral después de aproximadamente 3 horas. El tour guiado requerido comienza en el centro de visitantes con una introducción a la civilización Norte Chico - la primera sociedad compleja en las Américas. Luego explora el sitio: seis pirámides principales, áreas residenciales, anfiteatro y plazas circulares hundidas. Los guías explican cómo esta civilización pacífica (¡sin evidencia de guerra!) desarrolló agricultura, comercio y arquitectura monumental hace 5,000 años. La comparación que expande la mente: cuando Caral florecía, Stonehenge no existía, y la Gran Pirámide de Egipto apenas se estaba construyendo. Los niños procesan la extraordinaria antigüedad a través de explicaciones prácticas y comparaciones de escala. Después del tour, disfruta un almuerzo empacado en el valle antes de regresar a Lima. Esta expedición cambia fundamentalmente cómo las familias entienden la civilización humana.',
+    highlights: [
+      'Oldest city in the Americas (5,000 years)',
+      'Contemporary with ancient Egypt\'s pyramids',
+      'UNESCO World Heritage Site',
+      'Six pyramidal structures to explore',
+      'Evidence of peaceful civilization',
+      'Guided tour by trained archaeologists',
+      'Mind-expanding historical perspective'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas (5,000 años)',
+      'Contemporánea con las pirámides del antiguo Egipto',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Seis estructuras piramidales para explorar',
+      'Evidencia de civilización pacífica',
+      'Tour guiado por arqueólogos capacitados',
+      'Perspectiva histórica que expande la mente'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: 'Full day (10-12 hours)',
+    durationEs: 'Día completo (10-12 horas)',
+    difficulty: 'easy',
+    priceRange: '$80-150 USD per person',
+    priceRangeEs: '$80-150 USD por persona',
+    bestTime: 'Year-round, coastal desert climate',
+    bestTimeEs: 'Todo el año, clima desértico costero',
+    includes: [
+      'Hotel pickup and drop-off in Lima',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Site entrance fee',
+      'Required archaeological guide at site',
+      'Packed lunch and water',
+      'Educational materials'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Lima',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Entrada al sitio',
+      'Guía arqueológico requerido en el sitio',
+      'Almuerzo empacado y agua',
+      'Materiales educativos'
+    ],
+    tips: [
+      'Long day - leave Lima by 6am',
+      'Bring sun protection - no shade on site',
+      'Comfortable walking shoes essential',
+      'Pack extra snacks for the drive',
+      'Prepare children for the time perspective',
+      'Camera essential - incredible photo opportunities'
+    ],
+    tipsEs: [
+      'Día largo - sal de Lima a las 6am',
+      'Trae protección solar - sin sombra en el sitio',
+      'Zapatos cómodos para caminar esenciales',
+      'Empaca snacks extra para el viaje',
+      'Prepara a los niños para la perspectiva temporal',
+      'Cámara esencial - increíbles oportunidades de fotos'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Long drive requires patience from children',
+      'Sun exposure significant - bring protection',
+      'Stay on marked paths at archaeological site',
+      'Remote location - bathroom facilities limited'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Viaje largo requiere paciencia de los niños',
+      'Exposición al sol significativa - trae protección',
+      'Mantente en caminos marcados en sitio arqueológico',
+      'Ubicación remota - instalaciones de baño limitadas'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-huacas-tour', 'sechin-archaeological-tour'],
+    providers: [
+      { name: 'Caral Tours Official', familyFriendly: true },
+      { name: 'Lima Archaeological Tours', familyFriendly: true },
+      { name: 'Peru Ancient History Tours', familyFriendly: true }
+    ]
   }
 ];
 
