@@ -17633,6 +17633,402 @@ export const activities: Activity[] = [
       { name: 'Arequipa Walking Tours', familyFriendly: true },
       { name: 'Free Walking Tour Arequipa', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'amazon-ecolodge-family-experience',
+    name: 'Amazon Wildlife Family Eco-Lodge Experience',
+    nameEs: 'Experiencia Familiar de Eco-Lodge y Vida Silvestre Amazónica',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Immerse your family in the wonders of the Amazon rainforest at a family-friendly eco-lodge in the Tambopata region. This multi-day adventure includes guided jungle walks, canoe expeditions to spot wildlife, visits to macaw clay licks, and nighttime caiman spotting - all from the comfort of a well-equipped lodge with experienced naturalist guides.',
+    descriptionEs: 'Sumerge a tu familia en las maravillas de la selva amazónica en un eco-lodge apto para familias en la región de Tambopata. Esta aventura de varios días incluye caminatas guiadas en la selva, expediciones en canoa para avistar vida silvestre, visitas a collpas de guacamayos, y avistamiento nocturno de caimanes - todo desde la comodidad de un lodge bien equipado con guías naturalistas experimentados.',
+    whatToExpect: 'Fly from Cusco or Lima to Puerto Maldonado where your lodge representatives meet you at the airport. Travel by motorized canoe up the Tambopata or Madre de Dios River to your lodge, spotting wildlife along the way. Over several days, enjoy guided activities: early morning birding walks, canoe trips through oxbow lakes searching for giant river otters, visits to macaw clay licks at dawn, night walks to see insects and frogs, and caiman spotting excursions. Lodges cater to families with child-appropriate activities and shorter excursion options. Return to Puerto Maldonado for your flight out.',
+    whatToExpectEs: 'Vuela desde Cusco o Lima a Puerto Maldonado donde representantes de tu lodge te reciben en el aeropuerto. Viaja en canoa motorizada por el río Tambopata o Madre de Dios hasta tu lodge, avistando vida silvestre en el camino. Durante varios días, disfruta actividades guiadas: caminatas de observación de aves temprano en la mañana, viajes en canoa por lagos oxbow buscando nutrias gigantes de río, visitas a collpas de guacamayos al amanecer, caminatas nocturnas para ver insectos y ranas, y excursiones de avistamiento de caimanes. Los lodges atienden a familias con actividades apropiadas para niños y opciones de excursiones más cortas. Regresa a Puerto Maldonado para tu vuelo de salida.',
+    highlights: [
+      'See macaws at clay licks',
+      'Giant river otter encounters',
+      'Canoe through oxbow lakes',
+      'Night caiman spotting',
+      'Jungle walks with naturalists',
+      'Monkey and bird watching',
+      'Comfortable lodge accommodations',
+      'All-inclusive family packages'
+    ],
+    highlightsEs: [
+      'Ve guacamayos en collpas',
+      'Encuentros con nutrias gigantes de río',
+      'Navega en canoa por lagos oxbow',
+      'Avistamiento nocturno de caimanes',
+      'Caminatas en selva con naturalistas',
+      'Observación de monos y aves',
+      'Alojamientos cómodos en lodge',
+      'Paquetes familiares todo incluido'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-5 days/nights',
+    durationEs: '3-5 días/noches',
+    difficulty: 'easy',
+    priceRange: '$300-800 per person for 3-4 night all-inclusive packages',
+    priceRangeEs: '$300-800 por persona para paquetes de 3-4 noches todo incluido',
+    bestTime: 'Year-round. Dry season (May-October) easier trails. Wet season more wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) senderos más fáciles. Temporada húmeda más actividad de vida silvestre.',
+    includes: [
+      'Airport pickup and transfers',
+      'Lodge accommodations',
+      'All meals',
+      'Guided excursions',
+      'Rubber boots and ponchos',
+      'Bilingual naturalist guides'
+    ],
+    includesEs: [
+      'Recojo en aeropuerto y traslados',
+      'Alojamiento en lodge',
+      'Todas las comidas',
+      'Excursiones guiadas',
+      'Botas de goma y ponchos',
+      'Guías naturalistas bilingües'
+    ],
+    tips: [
+      'Book well in advance for best lodges',
+      'Combine with Cusco for complete trip',
+      'Pack light rain jacket year-round',
+      'Bring binoculars and camera',
+      'Insect repellent essential',
+      'Choose lodge with family programs',
+      'Shorter activities available for kids',
+      'Rubber boots provided'
+    ],
+    tipsEs: [
+      'Reserva con anticipación para mejores lodges',
+      'Combina con Cusco para viaje completo',
+      'Empaca chaqueta de lluvia ligera todo el año',
+      'Trae binoculares y cámara',
+      'Repelente de insectos esencial',
+      'Elige lodge con programas familiares',
+      'Actividades más cortas disponibles para niños',
+      'Botas de goma proporcionadas'
+    ],
+    safetyNotes: [
+      'Stay on trails with guides',
+      'Use insect repellent provided',
+      'Wear appropriate clothing',
+      'Follow guide safety instructions',
+      'Lodges have medical protocols',
+      'Yellow fever vaccination recommended'
+    ],
+    safetyNotesEs: [
+      'Permanece en senderos con guías',
+      'Usa repelente de insectos proporcionado',
+      'Usa ropa apropiada',
+      'Sigue instrucciones de seguridad del guía',
+      'Lodges tienen protocolos médicos',
+      'Vacuna de fiebre amarilla recomendada'
+    ],
+    relatedActivities: ['manu-wildlife-expedition', 'amazon-river-cruise', 'birdwatching-amazon'],
+    providers: [
+      { name: 'Inkaterra Reserva Amazonica', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true },
+      { name: 'Tambopata Research Center', familyFriendly: true },
+      { name: 'Posada Amazonas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pacaya-samiria-expedition',
+    name: 'Pacaya-Samiria Rainforest Expedition',
+    nameEs: 'Expedición a Selva de Pacaya-Samiria',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Explore Peru largest protected area on this immersive expedition into the flooded forests of Pacaya-Samiria, known as the "Jungle of Mirrors" for its reflective black waters. This adventure rewards families with older children with incredible wildlife including pink river dolphins, giant arapaima, and exotic birds in one of the most pristine corners of the Amazon.',
+    descriptionEs: 'Explora el área protegida más grande del Perú en esta expedición inmersiva a los bosques inundados de Pacaya-Samiria, conocida como la "Selva de los Espejos" por sus aguas negras reflectantes. Esta aventura recompensa a familias con niños mayores con increíble vida silvestre incluyendo delfines rosados de río, arapaima gigante, y aves exóticas en uno de los rincones más prístinos del Amazonas.',
+    whatToExpect: 'Fly to Iquitos and transfer to Nauta, the gateway to Pacaya-Samiria. Board a motorized canoe or expedition vessel to enter the reserve. Over multiple days, explore flooded forest channels searching for wildlife: swim with pink river dolphins, fish for giant arapaima (catch and release), spot black caimans on night excursions, and paddle through mirror-still waters at dawn. Visit indigenous Cocama-Cocamilla communities and learn traditional fishing techniques. Accommodations range from basic camping to comfortable riverboats depending on tour type.',
+    whatToExpectEs: 'Vuela a Iquitos y traslado a Nauta, la puerta a Pacaya-Samiria. Aborda una canoa motorizada o embarcación de expedición para entrar a la reserva. Durante varios días, explora canales de bosque inundado buscando vida silvestre: nada con delfines rosados de río, pesca arapaima gigante (atrapa y suelta), avista caimanes negros en excursiones nocturnas, y rema a través de aguas quietas como espejos al amanecer. Visita comunidades indígenas Cocama-Cocamilla y aprende técnicas tradicionales de pesca. Alojamientos van desde campamento básico hasta botes fluviales cómodos dependiendo del tipo de tour.',
+    highlights: [
+      'Swim with pink river dolphins',
+      'Fish for giant arapaima',
+      '"Jungle of Mirrors" experience',
+      'Black caiman night spotting',
+      'Indigenous community visits',
+      'Pristine flooded forest',
+      'Exceptional wildlife diversity',
+      'Off-the-beaten-path adventure'
+    ],
+    highlightsEs: [
+      'Nada con delfines rosados de río',
+      'Pesca de arapaima gigante',
+      'Experiencia de "Selva de los Espejos"',
+      'Avistamiento nocturno de caimán negro',
+      'Visitas a comunidades indígenas',
+      'Bosque inundado prístino',
+      'Excepcional diversidad de vida silvestre',
+      'Aventura fuera de los caminos trillados'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-7 days',
+    durationEs: '4-7 días',
+    difficulty: 'moderate',
+    priceRange: '$400-1200 per person depending on duration and comfort level',
+    priceRangeEs: '$400-1200 por persona dependiendo de duración y nivel de comodidad',
+    bestTime: 'Year-round. High water (Jan-May) for deeper exploration. Low water (June-Oct) for wildlife concentrations.',
+    bestTimeEs: 'Todo el año. Agua alta (ene-mayo) para exploración más profunda. Agua baja (jun-oct) para concentraciones de vida silvestre.',
+    includes: [
+      'Iquitos transfers',
+      'All transport including boats',
+      'Accommodations',
+      'All meals',
+      'Guided activities',
+      'Reserve entrance fees',
+      'Community visits'
+    ],
+    includesEs: [
+      'Traslados en Iquitos',
+      'Todo el transporte incluyendo botes',
+      'Alojamientos',
+      'Todas las comidas',
+      'Actividades guiadas',
+      'Tarifas de entrada a reserva',
+      'Visitas a comunidades'
+    ],
+    tips: [
+      'More adventurous than Tambopata',
+      'Best for older children',
+      'Multi-day commitment required',
+      'Luxury cruise options available',
+      'Bring good camera equipment',
+      'Support community-based tourism',
+      'Book through reputable Iquitos operators',
+      'Prepare for basic facilities'
+    ],
+    tipsEs: [
+      'Más aventurero que Tambopata',
+      'Mejor para niños mayores',
+      'Compromiso de varios días requerido',
+      'Opciones de crucero de lujo disponibles',
+      'Trae buen equipo de cámara',
+      'Apoya turismo basado en la comunidad',
+      'Reserva a través de operadores de Iquitos reputados',
+      'Prepárate para instalaciones básicas'
+    ],
+    safetyNotes: [
+      'Remote area - follow guide instructions',
+      'Wear life jacket on all boats',
+      'Use insect protection',
+      'Stay hydrated in heat',
+      'Medical evacuation available',
+      'Yellow fever vaccination required'
+    ],
+    safetyNotesEs: [
+      'Área remota - sigue instrucciones del guía',
+      'Usa chaleco salvavidas en todos los botes',
+      'Usa protección contra insectos',
+      'Mantente hidratado en el calor',
+      'Evacuación médica disponible',
+      'Vacuna de fiebre amarilla requerida'
+    ],
+    relatedActivities: ['amazon-ecolodge-family-experience', 'iquitos-city-tour', 'amazon-river-cruise'],
+    providers: [
+      { name: 'Pacaya Samiria Tours', familyFriendly: true },
+      { name: 'Jungle Experiences', familyFriendly: true },
+      { name: 'Aqua Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cajamarca-historical-tour',
+    name: 'Cajamarca Historical Walking Tour',
+    nameEs: 'Tour Histórico a Pie de Cajamarca',
+    type: 'cultural',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    description: 'Walk through one of the most pivotal moments in world history on this guided tour of Cajamarca, where Spanish conquistador Francisco Pizarro captured Inca emperor Atahualpa in 1532. Visit the famous Ransom Room, explore beautiful colonial churches, and learn how this fateful encounter changed the course of South American history forever.',
+    descriptionEs: 'Camina a través de uno de los momentos más cruciales de la historia mundial en este tour guiado de Cajamarca, donde el conquistador español Francisco Pizarro capturó al emperador inca Atahualpa en 1532. Visita el famoso Cuarto del Rescate, explora hermosas iglesias coloniales, y aprende cómo este encuentro fatídico cambió el curso de la historia sudamericana para siempre.',
+    whatToExpect: 'Begin at the Plaza de Armas, the exact location where Pizarro ambushed Atahualpa in what may be history most dramatic capture. Your guide narrates the astonishing events - how 168 Spanish soldiers captured an emperor commanding 80,000 troops. Visit the Cuarto del Rescate (Ransom Room), the only remaining Inca building in Cajamarca, where Atahualpa was held and offered to fill the room with gold and twice with silver. Explore the colonial Catedral and Iglesia San Francisco with their beautiful Baroque facades and interiors. Learn about post-conquest Cajamarca and its development into an important dairy region. The tour ends with recommendations for visiting nearby sites like the Ventanillas de Otuzco.',
+    whatToExpectEs: 'Comienza en la Plaza de Armas, la ubicación exacta donde Pizarro emboscó a Atahualpa en lo que puede ser la captura más dramática de la historia. Tu guía narra los asombrosos eventos - cómo 168 soldados españoles capturaron a un emperador que comandaba 80,000 tropas. Visita el Cuarto del Rescate, el único edificio inca que queda en Cajamarca, donde Atahualpa fue retenido y ofreció llenar la habitación con oro y dos veces con plata. Explora la Catedral colonial e Iglesia San Francisco con sus hermosas fachadas e interiores barrocos. Aprende sobre Cajamarca post-conquista y su desarrollo como importante región lechera. El tour termina con recomendaciones para visitar sitios cercanos como las Ventanillas de Otuzco.',
+    highlights: [
+      'Plaza de Armas historic site',
+      'Cuarto del Rescate (Ransom Room)',
+      'Colonial cathedral and churches',
+      'Dramatic conquest history',
+      'Baroque architecture',
+      'Local cultural insights',
+      'Less crowded than Cusco',
+      'Friendly highland city'
+    ],
+    highlightsEs: [
+      'Sitio histórico Plaza de Armas',
+      'Cuarto del Rescate',
+      'Catedral colonial e iglesias',
+      'Dramática historia de conquista',
+      'Arquitectura barroca',
+      'Perspectivas culturales locales',
+      'Menos concurrido que Cusco',
+      'Ciudad de tierras altas amigable'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$15-30 per person for guided tour',
+    priceRangeEs: '$15-30 por persona para tour guiado',
+    bestTime: 'Year-round. Morning for best light. Avoid February-March if not interested in carnival crowds.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz. Evita febrero-marzo si no te interesan multitudes del carnaval.',
+    includes: [
+      'Professional bilingual guide',
+      'Historical commentary',
+      'Ransom Room entrance',
+      'Church visits',
+      'Walking tour of historic center'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Comentario histórico',
+      'Entrada al Cuarto del Rescate',
+      'Visitas a iglesias',
+      'Tour a pie del centro histórico'
+    ],
+    tips: [
+      'Great for history-loving families',
+      'Combine with Baños del Inca',
+      'Less touristy than southern Peru',
+      'Famous local dairy products',
+      'Try manjar blanco desserts',
+      'Good base for northern adventures',
+      'Carnival season is spectacular',
+      'Pleasant highland climate'
+    ],
+    tipsEs: [
+      'Genial para familias amantes de la historia',
+      'Combina con Baños del Inca',
+      'Menos turístico que el sur del Perú',
+      'Famosos productos lácteos locales',
+      'Prueba postres de manjar blanco',
+      'Buena base para aventuras del norte',
+      'Temporada de carnaval es espectacular',
+      'Clima agradable de tierras altas'
+    ],
+    safetyNotes: [
+      'Safe historic center',
+      'Walking on cobblestones',
+      'Watch for traffic around plaza',
+      'Altitude 2,750m - pace yourself',
+      'Normal city precautions apply'
+    ],
+    safetyNotesEs: [
+      'Centro histórico seguro',
+      'Caminata sobre adoquines',
+      'Cuidado con tráfico alrededor de plaza',
+      'Altitud 2,750m - ve a tu ritmo',
+      'Precauciones normales de ciudad aplican'
+    ],
+    relatedActivities: ['banos-del-inca-experience', 'ventanillas-otuzco-tour', 'cumbemayo-tour'],
+    providers: [
+      { name: 'Cajamarca Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Cajamarca', familyFriendly: true },
+      { name: 'North Peru Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'banos-del-inca-experience',
+    name: 'Baños del Inca Thermal Hot Springs',
+    nameEs: 'Aguas Termales de Baños del Inca',
+    type: 'relaxation',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    description: 'Relax in the same thermal hot springs where Inca emperor Atahualpa was bathing when he first received word of Pizarro approach in 1532. These historic hot springs have been enjoyed for therapeutic purposes since pre-Inca times and offer families a soothing retreat with private and public pools fed by naturally heated mineral waters.',
+    descriptionEs: 'Relájate en las mismas aguas termales donde el emperador inca Atahualpa se bañaba cuando recibió por primera vez noticias del acercamiento de Pizarro en 1532. Estas históricas aguas termales han sido disfrutadas con propósitos terapéuticos desde tiempos preincas y ofrecen a familias un retiro reconfortante con piscinas privadas y públicas alimentadas por aguas minerales naturalmente calentadas.',
+    whatToExpect: 'Travel 6km from Cajamarca to the famous thermal complex at Baños del Inca. Choose from private family rooms with individual bathtubs fed by hot spring water, or use the larger public pools. Water temperatures range from pleasantly warm to quite hot, with different pools for different preferences. Spend as much time as you like soaking in the mineral-rich waters believed to have therapeutic properties for skin and joint conditions. The site includes changing facilities, restaurants, and a museum about the springs history. Some families combine the morning at the hot springs with afternoon sightseeing in Cajamarca.',
+    whatToExpectEs: 'Viaja 6km desde Cajamarca al famoso complejo termal de Baños del Inca. Elige entre habitaciones familiares privadas con bañeras individuales alimentadas por agua de manantiales termales, o usa las piscinas públicas más grandes. Las temperaturas del agua van de agradablemente tibias a bastante calientes, con diferentes piscinas para diferentes preferencias. Pasa tanto tiempo como quieras sumergido en las aguas ricas en minerales que se cree tienen propiedades terapéuticas para condiciones de piel y articulaciones. El sitio incluye instalaciones de cambio, restaurantes, y un museo sobre la historia de los manantiales. Algunas familias combinan la mañana en las aguas termales con visitas turísticas en Cajamarca por la tarde.',
+    highlights: [
+      'Historic Inca bathing site',
+      'Natural thermal mineral waters',
+      'Private family pools available',
+      'Therapeutic properties',
+      'Museum about spring history',
+      'Relaxing family experience',
+      'Affordable entry fees',
+      'Year-round warm water'
+    ],
+    highlightsEs: [
+      'Sitio histórico de baño inca',
+      'Aguas minerales termales naturales',
+      'Piscinas familiares privadas disponibles',
+      'Propiedades terapéuticas',
+      'Museo sobre historia del manantial',
+      'Experiencia familiar relajante',
+      'Tarifas de entrada accesibles',
+      'Agua tibia todo el año'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '2-4 hours',
+    durationEs: '2-4 horas',
+    difficulty: 'easy',
+    priceRange: 'S/3-8 public pools. Private rooms S/15-30 per hour for family rooms.',
+    priceRangeEs: 'S/3-8 piscinas públicas. Habitaciones privadas S/15-30 por hora para habitaciones familiares.',
+    bestTime: 'Year-round. Waters are naturally heated. Morning or late afternoon for fewer crowds.',
+    bestTimeEs: 'Todo el año. Aguas son naturalmente calentadas. Mañana o tarde para menos multitudes.',
+    includes: [
+      'Pool entry',
+      'Changing facilities',
+      'Towel rental available',
+      'Locker rental available',
+      'Access to grounds'
+    ],
+    includesEs: [
+      'Entrada a piscina',
+      'Instalaciones de cambio',
+      'Alquiler de toallas disponible',
+      'Alquiler de casilleros disponible',
+      'Acceso a instalaciones'
+    ],
+    tips: [
+      'Private rooms best for families',
+      'Bring swimsuit and towel',
+      'Try different temperature pools',
+      'Restaurant on-site for meals',
+      'Combine with Cajamarca tour',
+      'Morning usually less crowded',
+      'Great for highland acclimatization',
+      'Very affordable experience'
+    ],
+    tipsEs: [
+      'Habitaciones privadas mejores para familias',
+      'Trae traje de baño y toalla',
+      'Prueba piscinas de diferentes temperaturas',
+      'Restaurante en el sitio para comidas',
+      'Combina con tour de Cajamarca',
+      'Mañana usualmente menos concurrida',
+      'Genial para aclimatación de tierras altas',
+      'Experiencia muy accesible'
+    ],
+    safetyNotes: [
+      'Test water temperature before entering',
+      'Supervise children at all times',
+      'Stay hydrated - hot water causes sweating',
+      'Avoid if you have certain heart conditions',
+      'Shower after to rinse minerals',
+      'Slippery surfaces - walk carefully'
+    ],
+    safetyNotesEs: [
+      'Prueba temperatura del agua antes de entrar',
+      'Supervisa niños todo el tiempo',
+      'Mantente hidratado - agua caliente causa sudoración',
+      'Evita si tienes ciertas condiciones cardíacas',
+      'Dúchate después para enjuagar minerales',
+      'Superficies resbalosas - camina con cuidado'
+    ],
+    relatedActivities: ['cajamarca-historical-tour', 'ventanillas-otuzco-tour', 'cumbemayo-tour'],
+    providers: [
+      { name: 'Baños del Inca Complex', familyFriendly: true },
+      { name: 'Cajamarca Day Tours', familyFriendly: true }
+    ]
   }
 ];
 
