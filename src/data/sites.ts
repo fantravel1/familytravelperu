@@ -8374,6 +8374,286 @@ export const sites: Site[] = [
       'Estacionamiento disponible',
       'Vendedores de artesanías'
     ]
+  },
+  {
+    slug: 'tambomachay',
+    name: 'Tambomachay',
+    nameEs: 'Tambomachay',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3765,
+    description: 'Known as the "Bath of the Inca," Tambomachay is an archaeological site dedicated to the cult of water. The Incas built an ingenious system of aqueducts, canals, and cascades that still flow with crystal-clear spring water after five centuries. The site features beautifully fitted stone walls with niches and the ceremonial fountains where Inca nobility performed ritual purification. Children are fascinated by the water engineering and can see how the ancient plumbing system still functions perfectly today.',
+    descriptionEs: 'Conocido como el "Baño del Inca", Tambomachay es un sitio arqueológico dedicado al culto del agua. Los Incas construyeron un ingenioso sistema de acueductos, canales y cascadas que aún fluyen con agua de manantial cristalina después de cinco siglos. El sitio presenta muros de piedra bellamente ensamblados con nichos y las fuentes ceremoniales donde la nobleza Inca realizaba purificación ritual. Los niños quedan fascinados por la ingeniería hidráulica y pueden ver cómo el antiguo sistema de plomería todavía funciona perfectamente hoy.',
+    history: 'Tambomachay was constructed during the reign of Inca Yupanqui (Pachacuti) in the 15th century as a retreat for Inca royalty. The site served dual purposes: as a ceremonial center for water worship and as a rest stop on the royal road to the Antisuyo (jungle region). Archaeological evidence suggests it was exclusively used by the Inca and his closest advisors. The engineering demonstrates the Inca mastery of hydraulics, with water still flowing at the same rate as when originally constructed.',
+    historyEs: 'Tambomachay fue construido durante el reinado de Inca Yupanqui (Pachacuti) en el siglo XV como un retiro para la realeza Inca. El sitio cumplía doble propósito: como centro ceremonial para el culto al agua y como lugar de descanso en el camino real hacia el Antisuyo (región selvática). La evidencia arqueológica sugiere que fue usado exclusivamente por el Inca y sus consejeros más cercanos. La ingeniería demuestra el dominio Inca de la hidráulica, con agua que aún fluye al mismo ritmo que cuando se construyó originalmente.',
+    highlights: [
+      'Ancient Inca fountains still flowing after 500 years',
+      'Intricate stone masonry with ceremonial niches',
+      'Beautiful natural spring water source',
+      'Peaceful hilltop setting with valley views',
+      'Connected to Puca Pucara fortress nearby'
+    ],
+    highlightsEs: [
+      'Antiguas fuentes Incas aún fluyendo después de 500 años',
+      'Mampostería de piedra intrincada con nichos ceremoniales',
+      'Hermosa fuente de agua de manantial natural',
+      'Tranquilo entorno en la cima de una colina con vistas al valle',
+      'Conectado a la fortaleza Puca Pucara cercana'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '45 minutes to 1 hour',
+    durationEs: '45 minutos a 1 hora',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Morning visits offer the best light for photography',
+    bestTimeEs: 'Las visitas matutinas ofrecen la mejor luz para fotografía',
+    tips: [
+      'Visit with Puca Pucara as they are walking distance apart',
+      'The water is potable - bring a bottle to fill',
+      'Wear sturdy shoes for the stone paths',
+      'Allow extra time to explore the terraces above',
+      'Great place for kids to learn about Inca engineering'
+    ],
+    tipsEs: [
+      'Visita junto con Puca Pucara ya que están a poca distancia a pie',
+      'El agua es potable - trae una botella para llenar',
+      'Usa zapatos resistentes para los caminos de piedra',
+      'Permite tiempo extra para explorar las terrazas arriba',
+      'Gran lugar para que los niños aprendan sobre ingeniería Inca'
+    ],
+    nearbyAttractions: ['Puca Pucara', 'Sacsayhuaman', 'Qenqo', 'Cristo Blanco'],
+    relatedSites: ['sacsayhuaman', 'qenqo', 'ollantaytambo', 'moray'],
+    gettingThere: 'Located 8km north of Cusco on the road to Pisac. Easily combined with other Sacred Valley sites. Taxis from Cusco cost around 40 soles round trip. Also accessible by colectivo from Cusco center.',
+    gettingThereEs: 'Ubicado a 8km al norte de Cusco en la carretera a Pisac. Fácilmente combinable con otros sitios del Valle Sagrado. Taxis desde Cusco cuestan alrededor de 40 soles ida y vuelta. También accesible en colectivo desde el centro de Cusco.',
+    facilities: [
+      'Small parking area',
+      'Vendors selling crafts and snacks',
+      'Restrooms at entrance',
+      'Shaded rest areas',
+      'Interpretive signs'
+    ],
+    facilitiesEs: [
+      'Pequeña área de estacionamiento',
+      'Vendedores de artesanías y bocadillos',
+      'Baños en la entrada',
+      'Áreas de descanso con sombra',
+      'Señales interpretativas'
+    ]
+  },
+  {
+    slug: 'llanganuco-lakes',
+    name: 'Llanganuco Lakes',
+    nameEs: 'Lagunas de Llanganuco',
+    type: 'natural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 3850,
+    description: 'Nestled in the heart of Huascarán National Park, the twin Llanganuco Lakes (Chinancocha and Orconcocha) are among Peru\'s most stunning alpine lakes. Fed by glacial meltwater from Mount Huascarán, the lakes display an otherworldly turquoise color that changes with the light. Surrounded by towering snow-capped peaks and native queñual forests, this UNESCO Biosphere Reserve offers families an accessible high-altitude adventure with boat rides, easy walks, and incredible mountain scenery.',
+    descriptionEs: 'Ubicadas en el corazón del Parque Nacional Huascarán, las lagunas gemelas de Llanganuco (Chinancocha y Orconcocha) están entre los lagos alpinos más impresionantes del Perú. Alimentadas por agua de deshielo glaciar del Monte Huascarán, los lagos muestran un color turquesa de otro mundo que cambia con la luz. Rodeadas de imponentes picos nevados y bosques nativos de queñual, esta Reserva de Biosfera UNESCO ofrece a las familias una aventura de gran altitud accesible con paseos en bote, caminatas fáciles e increíbles paisajes de montaña.',
+    history: 'The Llanganuco valley was carved by ancient glaciers over millions of years. The lakes were formed when glacial moraines dammed the valley, creating natural reservoirs. The area has been sacred to local communities for centuries, with the name Chinancocha meaning "female lake" in Quechua. Huascarán National Park was established in 1975 and declared a UNESCO Biosphere Reserve in 1977 and World Heritage Site in 1985, protecting one of the world\'s highest tropical mountain ranges.',
+    historyEs: 'El valle de Llanganuco fue tallado por glaciares antiguos durante millones de años. Los lagos se formaron cuando morrenas glaciares represaron el valle, creando reservorios naturales. El área ha sido sagrada para las comunidades locales durante siglos, con el nombre Chinancocha que significa "lago femenino" en quechua. El Parque Nacional Huascarán se estableció en 1975 y fue declarado Reserva de Biosfera UNESCO en 1977 y Patrimonio de la Humanidad en 1985, protegiendo una de las cordilleras tropicales más altas del mundo.',
+    highlights: [
+      'Stunning turquoise glacial lakes',
+      'Views of Mount Huascarán (Peru\'s highest peak)',
+      'Boat rides on Lake Chinancocha',
+      'Endemic polylepis (queñual) forests',
+      'Abundant Andean wildlife and birds'
+    ],
+    highlightsEs: [
+      'Impresionantes lagos glaciares turquesas',
+      'Vistas del Monte Huascarán (el pico más alto del Perú)',
+      'Paseos en bote en el Lago Chinancocha',
+      'Bosques endémicos de polylepis (queñual)',
+      'Abundante vida silvestre andina y aves'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'moderate',
+    entranceFee: 'Park entrance: 30 soles adults, 15 soles children. Boat ride: 15 soles per person',
+    entranceFeeEs: 'Entrada al parque: 30 soles adultos, 15 soles niños. Paseo en bote: 15 soles por persona',
+    bestTime: 'Dry season (May-September) offers clearest views. Morning visits before afternoon clouds roll in.',
+    bestTimeEs: 'La temporada seca (mayo-septiembre) ofrece las vistas más claras. Visitas matutinas antes de que lleguen las nubes de la tarde.',
+    tips: [
+      'Acclimatize in Huaraz for at least 2 days before visiting',
+      'Bring warm layers - temperatures drop quickly',
+      'Pack sunscreen and sunglasses for high-altitude sun',
+      'Carry water and snacks as facilities are limited',
+      'Kids love the rowboat rides on the first lake'
+    ],
+    tipsEs: [
+      'Aclimátate en Huaraz por al menos 2 días antes de visitar',
+      'Trae capas abrigadas - las temperaturas bajan rápidamente',
+      'Lleva protector solar y gafas de sol para el sol de altura',
+      'Carga agua y bocadillos ya que las instalaciones son limitadas',
+      'A los niños les encantan los paseos en bote en el primer lago'
+    ],
+    nearbyAttractions: ['Huascarán National Park', 'Yungay Memorial', 'Pastoruri Glacier', 'Chavín de Huántar'],
+    relatedSites: ['huascaran-national-park', 'chavin-de-huantar', 'pastoruri-glacier'],
+    gettingThere: 'Located 25km east of Yungay and 83km from Huaraz. The winding mountain road takes about 1.5 hours from Huaraz. Tours are the easiest option for families. Private taxis can also be arranged.',
+    gettingThereEs: 'Ubicado a 25km al este de Yungay y 83km de Huaraz. El sinuoso camino de montaña toma aproximadamente 1.5 horas desde Huaraz. Los tours son la opción más fácil para familias. También se pueden contratar taxis privados.',
+    facilities: [
+      'Rowboat rentals at Chinancocha',
+      'Basic restrooms at lake entrance',
+      'Small food vendors',
+      'Marked walking paths',
+      'Parking area',
+      'Information center at park entrance'
+    ],
+    facilitiesEs: [
+      'Alquiler de botes de remo en Chinancocha',
+      'Baños básicos en la entrada del lago',
+      'Pequeños vendedores de comida',
+      'Senderos marcados',
+      'Área de estacionamiento',
+      'Centro de información en la entrada del parque'
+    ]
+  },
+  {
+    slug: 'sipan-royal-tombs-museum',
+    name: 'Royal Tombs of Sipán Museum',
+    nameEs: 'Museo Tumbas Reales de Sipán',
+    type: 'museum',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    altitude: 29,
+    description: 'One of Peru\'s most impressive museums, the Royal Tombs of Sipán houses the spectacular treasures discovered in the tomb of the Lord of Sipán, a Moche ruler who died around 250 AD. The pyramid-shaped museum displays over 2,000 gold, silver, and copper artifacts including the Lord\'s full burial regalia. The dramatic presentation, with darkened galleries and theatrical lighting, creates an unforgettable experience. Children are amazed by the warrior\'s golden armor and the story of the archaeological discovery.',
+    descriptionEs: 'Uno de los museos más impresionantes del Perú, las Tumbas Reales de Sipán alberga los espectaculares tesoros descubiertos en la tumba del Señor de Sipán, un gobernante Moche que murió alrededor del 250 d.C. El museo en forma de pirámide exhibe más de 2,000 artefactos de oro, plata y cobre incluyendo toda la regalia funeraria del Señor. La dramática presentación, con galerías oscurecidas e iluminación teatral, crea una experiencia inolvidable. Los niños quedan asombrados por la armadura dorada del guerrero y la historia del descubrimiento arqueológico.',
+    history: 'The Lord of Sipán was discovered in 1987 by Peruvian archaeologist Walter Alva, making it the richest intact pre-Columbian tomb ever found in the Americas. The Moche civilization flourished on Peru\'s north coast from 100-700 AD, known for their sophisticated metalwork and ceramics. The museum, designed by architect Celso Prado Pastor, opened in 2002. Its pyramid shape honors the Moche huacas where the Lord was buried.',
+    historyEs: 'El Señor de Sipán fue descubierto en 1987 por el arqueólogo peruano Walter Alva, convirtiéndolo en la tumba precolombina intacta más rica jamás encontrada en las Américas. La civilización Moche floreció en la costa norte del Perú del 100-700 d.C., conocida por su sofisticado trabajo en metal y cerámica. El museo, diseñado por el arquitecto Celso Prado Pastor, abrió en 2002. Su forma de pirámide honra las huacas Moche donde el Señor fue enterrado.',
+    highlights: [
+      'Lord of Sipán\'s golden ceremonial regalia',
+      'Exquisite Moche jewelry and ornaments',
+      'Life-sized reconstructions of burial chambers',
+      'Warrior priest\'s spider-web pectoral',
+      'Interactive exhibits on Moche culture'
+    ],
+    highlightsEs: [
+      'Regalia ceremonial dorada del Señor de Sipán',
+      'Exquisita joyería y ornamentos Moche',
+      'Reconstrucciones a tamaño real de cámaras funerarias',
+      'Pectoral de telaraña del sacerdote guerrero',
+      'Exhibiciones interactivas sobre cultura Moche'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '12 soles adults, 4 soles children',
+    entranceFeeEs: '12 soles adultos, 4 soles niños',
+    bestTime: 'Mornings are less crowded. Air-conditioned museum is perfect for escaping afternoon heat.',
+    bestTimeEs: 'Las mañanas están menos concurridas. El museo con aire acondicionado es perfecto para escapar del calor de la tarde.',
+    tips: [
+      'No photos allowed inside - leave cameras in the car',
+      'The museum is kept dark - let eyes adjust',
+      'Guided tours available in Spanish and English',
+      'Visit on a hot day for air-conditioned comfort',
+      'Combine with Sipán archaeological site for full experience'
+    ],
+    tipsEs: [
+      'No se permiten fotos adentro - deja las cámaras en el carro',
+      'El museo se mantiene oscuro - deja que los ojos se ajusten',
+      'Tours guiados disponibles en español e inglés',
+      'Visita en un día caluroso para comodidad con aire acondicionado',
+      'Combina con el sitio arqueológico de Sipán para experiencia completa'
+    ],
+    nearbyAttractions: ['Sipán Archaeological Site', 'Túcume Pyramids', 'Brüning Museum', 'Chiclayo Market'],
+    relatedSites: ['tucume', 'chan-chan', 'museo-larco', 'huaca-rajada'],
+    gettingThere: 'Located in Lambayeque, 11km north of Chiclayo. Taxis from Chiclayo cost 15-20 soles. Colectivos (shared vans) also run frequently from Chiclayo\'s main terminal.',
+    gettingThereEs: 'Ubicado en Lambayeque, 11km al norte de Chiclayo. Taxis desde Chiclayo cuestan 15-20 soles. Colectivos también salen frecuentemente del terminal principal de Chiclayo.',
+    facilities: [
+      'Air-conditioned galleries',
+      'Museum gift shop',
+      'Cafeteria',
+      'Clean restrooms',
+      'Wheelchair accessible',
+      'Secure parking'
+    ],
+    facilitiesEs: [
+      'Galerías con aire acondicionado',
+      'Tienda de regalos del museo',
+      'Cafetería',
+      'Baños limpios',
+      'Accesible para sillas de ruedas',
+      'Estacionamiento seguro'
+    ]
+  },
+  {
+    slug: 'ventanillas-de-otuzco',
+    name: 'Ventanillas de Otuzco',
+    nameEs: 'Ventanillas de Otuzco',
+    type: 'archaeological',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    altitude: 2850,
+    description: 'The "Little Windows of Otuzco" are an ancient necropolis carved into a volcanic hillside, featuring hundreds of rectangular niches that once held the remains of pre-Inca nobility. Dating back over 3,000 years to the Cajamarca culture, these honeycomb-like funerary chambers create a striking visual pattern across the cliff face. The site offers fascinating insights into ancient burial practices and provides panoramic views of the Cajamarca valley. Children enjoy counting the mysterious window openings and learning about ancient customs.',
+    descriptionEs: 'Las "Ventanillas de Otuzco" son una antigua necrópolis tallada en una ladera volcánica, con cientos de nichos rectangulares que alguna vez albergaron los restos de la nobleza pre-Inca. Con más de 3,000 años de antigüedad de la cultura Cajamarca, estas cámaras funerarias tipo panal crean un patrón visual impactante a través de la cara del acantilado. El sitio ofrece perspectivas fascinantes sobre prácticas de entierro antiguas y proporciona vistas panorámicas del valle de Cajamarca. Los niños disfrutan contando las misteriosas aberturas de ventanas y aprendiendo sobre costumbres antiguas.',
+    history: 'The Ventanillas de Otuzco were created by the Cajamarca culture, which flourished in this highland region from approximately 1000 BC to 1450 AD. The necropolis served as a burial site for important members of society, with the niches carved into the soft volcanic tuff. When the Inca conquered the region in the 15th century, they adopted the site. The Spanish reported finding mummies and offerings in the chambers, most of which were looted during colonial times.',
+    historyEs: 'Las Ventanillas de Otuzco fueron creadas por la cultura Cajamarca, que floreció en esta región de tierras altas aproximadamente desde el 1000 a.C. hasta el 1450 d.C. La necrópolis sirvió como sitio de entierro para miembros importantes de la sociedad, con los nichos tallados en la suave toba volcánica. Cuando los Incas conquistaron la región en el siglo XV, adoptaron el sitio. Los españoles reportaron encontrar momias y ofrendas en las cámaras, la mayoría de las cuales fueron saqueadas durante la época colonial.',
+    highlights: [
+      'Hundreds of carved funerary niches in volcanic rock',
+      'Panoramic views of Cajamarca valley',
+      'Ancient burial traditions spanning 3,000 years',
+      'Unique honeycomb appearance on cliff face',
+      'Well-preserved pre-Columbian necropolis'
+    ],
+    highlightsEs: [
+      'Cientos de nichos funerarios tallados en roca volcánica',
+      'Vistas panorámicas del valle de Cajamarca',
+      'Tradiciones funerarias antiguas de 3,000 años',
+      'Apariencia única de panal en la cara del acantilado',
+      'Necrópolis precolombina bien preservada'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: '5 soles adults, 2 soles children',
+    entranceFeeEs: '5 soles adultos, 2 soles niños',
+    bestTime: 'Mornings offer the best light for photography. Avoid rainy season (November-April) when paths can be muddy.',
+    bestTimeEs: 'Las mañanas ofrecen la mejor luz para fotografía. Evita la temporada de lluvias (noviembre-abril) cuando los caminos pueden estar lodosos.',
+    tips: [
+      'Combine with Cumbemayo for a full day of archaeological sites',
+      'Bring a hat and sunscreen - limited shade',
+      'Local guides can explain the burial customs',
+      'The larger Ventanillas de Combayo is a worthwhile extension',
+      'Great spot for family photos with the niches as backdrop'
+    ],
+    tipsEs: [
+      'Combina con Cumbemayo para un día completo de sitios arqueológicos',
+      'Trae sombrero y protector solar - sombra limitada',
+      'Guías locales pueden explicar las costumbres funerarias',
+      'Las más grandes Ventanillas de Combayo es una extensión que vale la pena',
+      'Gran lugar para fotos familiares con los nichos de fondo'
+    ],
+    nearbyAttractions: ['Cumbemayo', 'Cajamarca Historic Center', 'Baños del Inca', 'Kuntur Wasi'],
+    relatedSites: ['cumbemayo', 'kuntur-wasi', 'banos-del-inca'],
+    gettingThere: 'Located 8km northeast of Cajamarca city. Taxis from the main plaza cost 10-15 soles. Local tours include this site with other Cajamarca attractions.',
+    gettingThereEs: 'Ubicado a 8km al noreste de la ciudad de Cajamarca. Taxis desde la plaza principal cuestan 10-15 soles. Tours locales incluyen este sitio con otras atracciones de Cajamarca.',
+    facilities: [
+      'Small parking area',
+      'Restrooms at entrance',
+      'Information panels',
+      'Handicraft vendors',
+      'Shaded viewing areas'
+    ],
+    facilitiesEs: [
+      'Pequeña área de estacionamiento',
+      'Baños en la entrada',
+      'Paneles informativos',
+      'Vendedores de artesanías',
+      'Áreas de observación con sombra'
+    ]
   }
 ];
 

@@ -9393,6 +9393,340 @@ export const activities: Activity[] = [
       { name: 'Chan Chan Tours', familyFriendly: true },
       { name: 'Moche Route', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'cusco-archaeological-circuit',
+    name: 'Cusco Archaeological Circuit',
+    nameEs: 'Circuito Arqueológico de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore four impressive Inca sites surrounding Cusco on this half-day tour: Sacsayhuaman\'s massive fortress walls, Qenqo\'s mysterious ceremonial caves, Puca Pucara\'s red fortress, and Tambomachay\'s flowing ancient fountains. This circuit showcases the engineering brilliance of the Inca Empire while providing stunning panoramic views of Cusco and the surrounding valleys. Perfect for families as an introduction to Inca culture before visiting Machu Picchu.',
+    descriptionEs: 'Explora cuatro impresionantes sitios Incas que rodean Cusco en este tour de medio día: las masivas murallas de la fortaleza de Sacsayhuaman, las misteriosas cuevas ceremoniales de Qenqo, la fortaleza roja de Puca Pucara y las antiguas fuentes fluyendo de Tambomachay. Este circuito muestra la brillantez de ingeniería del Imperio Inca mientras proporciona impresionantes vistas panorámicas de Cusco y los valles circundantes. Perfecto para familias como introducción a la cultura Inca antes de visitar Machu Picchu.',
+    whatToExpect: 'Hotel pickup in comfortable transport with professional bilingual guide explaining Inca history. Visit four archaeological sites in one tour: Sacsayhuaman, Qenqo, Puca Pucara, and Tambomachay. Approximately 4-5 hours including transport with return to hotel or Cusco main plaza.',
+    whatToExpectEs: 'Recojo del hotel en transporte cómodo con guía profesional bilingüe explicando la historia Inca. Visita cuatro sitios arqueológicos en un tour: Sacsayhuaman, Qenqo, Puca Pucara y Tambomachay. Aproximadamente 4-5 horas incluyendo transporte con retorno al hotel o plaza principal de Cusco.',
+    highlights: [
+      'Sacsayhuaman\'s colossal zigzag fortress walls',
+      'Underground chambers and altars at Qenqo',
+      'Ancient water fountains still flowing at Tambomachay',
+      'Panoramic views of Cusco from multiple viewpoints',
+      'Understanding Inca engineering and cosmology'
+    ],
+    highlightsEs: [
+      'Las colosales murallas en zigzag de la fortaleza de Sacsayhuaman',
+      'Cámaras subterráneas y altares en Qenqo',
+      'Antiguas fuentes de agua aún fluyendo en Tambomachay',
+      'Vistas panorámicas de Cusco desde múltiples miradores',
+      'Comprender la ingeniería y cosmología Inca'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'moderate',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Morning tours (8-9am start) offer cooler temperatures and fewer crowds',
+    bestTimeEs: 'Tours matutinos (inicio 8-9am) ofrecen temperaturas más frescas y menos multitudes',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Professional English/Spanish guide',
+      'Private transportation',
+      'Entrance fees NOT included (Boleto Turístico required)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Guía profesional inglés/español',
+      'Transporte privado',
+      'Entradas NO incluidas (se requiere Boleto Turístico)'
+    ],
+    tips: [
+      'Buy the Boleto Turístico in advance (valid 10 days)',
+      'Wear comfortable walking shoes',
+      'Bring layers - weather changes quickly at altitude',
+      'Allow 2-3 days in Cusco to acclimatize before this tour',
+      'Pack water, sunscreen, and snacks'
+    ],
+    tipsEs: [
+      'Compra el Boleto Turístico con anticipación (válido 10 días)',
+      'Usa zapatos cómodos para caminar',
+      'Trae capas - el clima cambia rápido en altura',
+      'Permite 2-3 días en Cusco para aclimatarte antes del tour',
+      'Lleva agua, protector solar y bocadillos'
+    ],
+    safetyNotes: [
+      'Altitude ranges from 3,400-3,700m - acclimatize first',
+      'Uneven stone paths require sturdy footwear',
+      'Stay with your group at all times',
+      'Keep children close near cliff edges',
+      'Carry altitude sickness medication if needed'
+    ],
+    safetyNotesEs: [
+      'La altitud varía de 3,400-3,700m - aclimátate primero',
+      'Los caminos de piedra irregulares requieren calzado resistente',
+      'Permanece con tu grupo en todo momento',
+      'Mantén a los niños cerca de los bordes de acantilados',
+      'Lleva medicación para mal de altura si es necesario'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'machu-picchu-tour', 'cusco-walking-tour'],
+    providers: [
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'Inca Trail Expeditions', familyFriendly: true },
+      { name: 'Andean Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'llanganuco-lakes-tour',
+    name: 'Llanganuco Lakes & Huascarán Day Tour',
+    nameEs: 'Tour Lagunas de Llanganuco y Huascarán',
+    type: 'nature',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Journey into the heart of Huascarán National Park to discover the breathtaking Llanganuco Lakes, twin turquoise jewels set beneath Peru\'s highest mountain. This full-day adventure combines stunning mountain scenery, easy lakeside walks, optional boat rides, and visits to memorial sites from the 1970 earthquake. Children are captivated by the glacier-fed lakes\' vibrant colors and the ancient queñual forests that line the shores.',
+    descriptionEs: 'Viaja al corazón del Parque Nacional Huascarán para descubrir las impresionantes Lagunas de Llanganuco, joyas turquesas gemelas bajo la montaña más alta del Perú. Esta aventura de día completo combina impresionantes paisajes de montaña, caminatas fáciles junto al lago, paseos opcionales en bote y visitas a sitios conmemorativos del terremoto de 1970. Los niños quedan cautivados por los vibrantes colores de los lagos alimentados por glaciares y los antiguos bosques de queñual que bordean las orillas.',
+    whatToExpect: 'Early morning hotel pickup from Huaraz followed by a scenic drive through Callejón de Huaylas. Stop at Yungay earthquake memorial before spending time at both Llanganuco lakes with an optional rowboat ride on Lake Chinancocha. Return to Huaraz by late afternoon.',
+    whatToExpectEs: 'Recojo temprano del hotel desde Huaraz seguido de un viaje escénico por el Callejón de Huaylas. Parada en el memorial del terremoto de Yungay antes de pasar tiempo en ambas lagunas de Llanganuco con paseo opcional en bote de remos en el Lago Chinancocha. Retorno a Huaraz al final de la tarde.',
+    highlights: [
+      'Turquoise glacial lakes at 3,850m altitude',
+      'Views of Peru\'s highest peak, Mount Huascarán (6,768m)',
+      'Rowboat rides on mirror-like lake waters',
+      'Endemic queñual forests and Andean wildlife',
+      'Yungay memorial - important historical site'
+    ],
+    highlightsEs: [
+      'Lagos glaciares turquesas a 3,850m de altitud',
+      'Vistas del pico más alto del Perú, Monte Huascarán (6,768m)',
+      'Paseos en bote de remos en aguas cristalinas',
+      'Bosques endémicos de queñual y vida silvestre andina',
+      'Memorial de Yungay - sitio histórico importante'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'moderate',
+    priceRange: '$45-70 USD per person',
+    priceRangeEs: '$45-70 USD por persona',
+    bestTime: 'Dry season (May-September) offers the clearest mountain views',
+    bestTimeEs: 'La temporada seca (mayo-septiembre) ofrece las vistas más claras de las montañas',
+    includes: [
+      'Hotel pickup and drop-off in Huaraz',
+      'Transportation in comfortable vehicle',
+      'Professional bilingual guide',
+      'Park entrance fees',
+      'Boxed lunch (on some tours)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel en Huaraz',
+      'Transporte en vehículo cómodo',
+      'Guía profesional bilingüe',
+      'Entradas al parque',
+      'Almuerzo empacado (en algunos tours)'
+    ],
+    tips: [
+      'Spend at least 2 days acclimatizing in Huaraz first',
+      'Bring very warm layers - it gets cold at the lakes',
+      'Pack your own snacks and extra water',
+      'The rowboat ride is worth the extra 15 soles',
+      'Waterproof jacket recommended even in dry season'
+    ],
+    tipsEs: [
+      'Pasa al menos 2 días aclimatándote en Huaraz primero',
+      'Trae capas muy abrigadas - hace frío en los lagos',
+      'Lleva tus propios bocadillos y agua extra',
+      'El paseo en bote vale los 15 soles extra',
+      'Se recomienda chaqueta impermeable incluso en temporada seca'
+    ],
+    safetyNotes: [
+      'High altitude (3,850m) - acclimatization essential',
+      'Cold temperatures year-round - dress warmly',
+      'Stay on marked paths near the lakes',
+      'Supervise children near the water',
+      'Bring altitude sickness medication'
+    ],
+    safetyNotesEs: [
+      'Gran altitud (3,850m) - aclimatación esencial',
+      'Temperaturas frías todo el año - vístete abrigado',
+      'Permanece en senderos marcados cerca de los lagos',
+      'Supervisa a los niños cerca del agua',
+      'Lleva medicación para mal de altura'
+    ],
+    relatedActivities: ['pastoruri-glacier-tour', 'chavin-tour', 'laguna-69-trek'],
+    providers: [
+      { name: 'Huaraz Expeditions', familyFriendly: true },
+      { name: 'Mountain Adventures', familyFriendly: true },
+      { name: 'Cordillera Blanca Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sipan-lord-tour',
+    name: 'Lord of Sipán Discovery Tour',
+    nameEs: 'Tour Descubrimiento del Señor de Sipán',
+    type: 'cultural',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'Uncover the treasures of ancient Peru\'s richest tomb on this full-day tour combining the Royal Tombs of Sipán Museum with the actual Huaca Rajada archaeological site where the Lord was discovered. See over 2,000 golden artifacts in the dramatically lit museum, then walk through the excavated pyramids where archaeologists made their groundbreaking discovery in 1987. This tour brings to life the powerful Moche civilization that ruled Peru\'s north coast 1,700 years ago.',
+    descriptionEs: 'Descubre los tesoros de la tumba más rica del antiguo Perú en este tour de día completo que combina el Museo Tumbas Reales de Sipán con el sitio arqueológico de Huaca Rajada donde el Señor fue descubierto. Ve más de 2,000 artefactos dorados en el museo dramáticamente iluminado, luego camina por las pirámides excavadas donde los arqueólogos hicieron su descubrimiento revolucionario en 1987. Este tour da vida a la poderosa civilización Moche que gobernó la costa norte del Perú hace 1,700 años.',
+    whatToExpect: 'Morning hotel pickup in Chiclayo followed by visit to the Royal Tombs of Sipán Museum in Lambayeque. Lunch at local restaurant before afternoon visit to Huaca Rajada excavation site where the Lord was discovered. Return to Chiclayo by late afternoon.',
+    whatToExpectEs: 'Recojo matutino del hotel en Chiclayo seguido de visita al Museo Tumbas Reales de Sipán en Lambayeque. Almuerzo en restaurante local antes de visita por la tarde al sitio de excavación Huaca Rajada donde el Señor fue descubierto. Retorno a Chiclayo al final de la tarde.',
+    highlights: [
+      'World-famous Royal Tombs of Sipán Museum',
+      'Lord of Sipán\'s golden burial regalia',
+      'Actual tomb discovery site at Huaca Rajada',
+      'Moche warrior priest artifacts',
+      'Understanding ancient Peruvian metallurgy'
+    ],
+    highlightsEs: [
+      'Famoso Museo Tumbas Reales de Sipán de fama mundial',
+      'Regalia funeraria dorada del Señor de Sipán',
+      'Sitio real del descubrimiento de la tumba en Huaca Rajada',
+      'Artefactos del sacerdote guerrero Moche',
+      'Comprender la antigua metalurgia peruana'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$50-80 USD per person',
+    priceRangeEs: '$50-80 USD por persona',
+    bestTime: 'Year-round destination. Museum is air-conditioned for hot days.',
+    bestTimeEs: 'Destino de todo el año. El museo tiene aire acondicionado para días calurosos.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional English/Spanish guide',
+      'Museum and site entrance fees',
+      'Lunch (on most tours)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional inglés/español',
+      'Entradas al museo y sitio',
+      'Almuerzo (en la mayoría de tours)'
+    ],
+    tips: [
+      'No photography inside the museum - leave cameras behind',
+      'The museum is kept dark - dramatic but takes adjustment',
+      'Kids love the story of the tomb\'s discovery',
+      'Visit the museum first while energy is high',
+      'Bring sunscreen and hat for the outdoor site'
+    ],
+    tipsEs: [
+      'No se permite fotografía dentro del museo - deja las cámaras',
+      'El museo se mantiene oscuro - dramático pero requiere ajuste',
+      'A los niños les encanta la historia del descubrimiento de la tumba',
+      'Visita el museo primero mientras la energía está alta',
+      'Trae protector solar y sombrero para el sitio al aire libre'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot climate - stay hydrated',
+      'Wear comfortable shoes for the archaeological site',
+      'Sun protection essential at Huaca Rajada',
+      'Some uneven terrain at the pyramid site'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima caliente - mantente hidratado',
+      'Usa zapatos cómodos para el sitio arqueológico',
+      'Protección solar esencial en Huaca Rajada',
+      'Algo de terreno irregular en el sitio de la pirámide'
+    ],
+    relatedActivities: ['tucume-pyramids', 'trujillo-archaeological-tour', 'chiclayo-museums'],
+    providers: [
+      { name: 'Moche Tours Chiclayo', familyFriendly: true },
+      { name: 'Sipán Travel', familyFriendly: true },
+      { name: 'Lambayeque Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cajamarca-heritage-tour',
+    name: 'Cajamarca Historical Heritage Tour',
+    nameEs: 'Tour Patrimonio Histórico de Cajamarca',
+    type: 'cultural',
+    city: 'cajamarca',
+    region: 'Cajamarca Region',
+    regionEs: 'Región Cajamarca',
+    description: 'Explore the city where the Inca Empire fell on this comprehensive tour of Cajamarca\'s most significant sites. Visit El Cuarto del Rescate (Ransom Room) where Atahualpa was held captive, the colonial churches that arose after the conquest, the ancient Ventanillas de Otuzco necropolis, and the natural hot springs at Baños del Inca. This tour weaves together pre-Inca, Inca, and colonial history in one of Peru\'s most historically significant cities.',
+    descriptionEs: 'Explora la ciudad donde cayó el Imperio Inca en este tour completo de los sitios más significativos de Cajamarca. Visita El Cuarto del Rescate donde Atahualpa fue mantenido cautivo, las iglesias coloniales que surgieron después de la conquista, la antigua necrópolis Ventanillas de Otuzco y las aguas termales naturales en Baños del Inca. Este tour entrelaza la historia pre-Inca, Inca y colonial en una de las ciudades históricamente más significativas del Perú.',
+    whatToExpect: 'Walking tour of Cajamarca\'s historic center including Atahualpa\'s Ransom Room and colonial churches around the main plaza. Drive to Ventanillas de Otuzco necropolis to see the ancient burial niches, then relax at Baños del Inca hot springs before returning to hotel or city center.',
+    whatToExpectEs: 'Tour a pie del centro histórico de Cajamarca incluyendo el Cuarto del Rescate de Atahualpa e iglesias coloniales alrededor de la plaza principal. Viaje a la necrópolis Ventanillas de Otuzco para ver los antiguos nichos funerarios, luego relajación en las aguas termales Baños del Inca antes de retornar al hotel o centro de la ciudad.',
+    highlights: [
+      'Atahualpa\'s Ransom Room - pivotal moment in history',
+      'Stunning colonial architecture and churches',
+      'Ancient pre-Inca burial niches at Ventanillas',
+      'Natural hot springs used since Inca times',
+      'Panoramic views of the Cajamarca valley'
+    ],
+    highlightsEs: [
+      'El Cuarto del Rescate de Atahualpa - momento crucial en la historia',
+      'Impresionante arquitectura colonial e iglesias',
+      'Antiguos nichos de entierro pre-Incas en Ventanillas',
+      'Aguas termales naturales usadas desde tiempos Incas',
+      'Vistas panorámicas del valle de Cajamarca'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$40-65 USD per person',
+    priceRangeEs: '$40-65 USD por persona',
+    bestTime: 'Dry season (May-October) for best weather. Mornings for hot springs before crowds.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejor clima. Mañanas para aguas termales antes de las multitudes.',
+    includes: [
+      'Professional bilingual guide',
+      'Private transportation to outer sites',
+      'Entrance fees to all sites',
+      'Hot springs admission',
+      'Lunch at local restaurant (most tours)'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Transporte privado a sitios externos',
+      'Entradas a todos los sitios',
+      'Admisión a aguas termales',
+      'Almuerzo en restaurante local (mayoría de tours)'
+    ],
+    tips: [
+      'Bring swimsuit and towel for the hot springs',
+      'Wear comfortable walking shoes for cobblestones',
+      'The Ransom Room story captivates children',
+      'Try local queso mantecoso (butter cheese)',
+      'Cajamarca is at moderate altitude (2,750m) - take it easy'
+    ],
+    tipsEs: [
+      'Trae traje de baño y toalla para las aguas termales',
+      'Usa zapatos cómodos para caminar en empedrado',
+      'La historia del Cuarto del Rescate cautiva a los niños',
+      'Prueba el queso mantecoso local',
+      'Cajamarca está a altitud moderada (2,750m) - tómalo con calma'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,750m) - lighter than Cusco',
+      'Cobblestone streets - watch your step',
+      'Hot springs can be very hot - test before entering',
+      'Keep valuables secure in busy areas',
+      'Sun protection needed at outdoor sites'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,750m) - más ligera que Cusco',
+      'Calles empedradas - cuida tus pasos',
+      'Las aguas termales pueden estar muy calientes - prueba antes de entrar',
+      'Mantén objetos de valor seguros en áreas concurridas',
+      'Protección solar necesaria en sitios al aire libre'
+    ],
+    relatedActivities: ['cumbemayo-tour', 'kuntur-wasi-tour', 'cajamarca-countryside'],
+    providers: [
+      { name: 'Cajamarca Tours', familyFriendly: true },
+      { name: 'Imperio Tours', familyFriendly: true },
+      { name: 'Cumbe Mayo Travel', familyFriendly: true }
+    ]
   }
 ];
 
