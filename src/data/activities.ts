@@ -18425,6 +18425,404 @@ export const activities: Activity[] = [
       { name: 'Urban Adventures', familyFriendly: true },
       { name: 'Exquisito Peru', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'nazca-lines-flight',
+    name: 'Nazca Lines Scenic Flight Experience',
+    nameEs: 'Experiencia de Vuelo Escénico Líneas de Nazca',
+    type: 'adventure',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Experience the wonder of seeing the mysterious Nazca Lines from the air on a 30-35 minute scenic flight over one of the world most enigmatic archaeological sites. The small aircraft banks and turns to provide views of the famous hummingbird, monkey, spider, condor, and astronaut figures etched into the desert floor over 2,000 years ago - images that can only be truly appreciated from above.',
+    descriptionEs: 'Experimenta la maravilla de ver las misteriosas Líneas de Nazca desde el aire en un vuelo escénico de 30-35 minutos sobre uno de los sitios arqueológicos más enigmáticos del mundo. El pequeño avión gira y voltea para proporcionar vistas de las famosas figuras del colibrí, mono, araña, cóndor, y astronauta grabadas en el suelo del desierto hace más de 2,000 años - imágenes que solo pueden apreciarse verdaderamente desde arriba.',
+    whatToExpect: 'After check-in at the small Nazca airport, you will receive a safety briefing before boarding a Cessna aircraft (typically 6-12 passengers). The pilot narrates in English and Spanish as you fly over the main geoglyphs including the whale, trapezoids, hummingbird, monkey, spider, condor, and the mysterious astronaut figure. The plane banks to both sides so all passengers can see each figure. The flight covers approximately 70 km over the desert pampa. After landing, you receive a flight certificate and can visit the small airport museum.',
+    whatToExpectEs: 'Después del registro en el pequeño aeropuerto de Nazca, recibirás una charla de seguridad antes de abordar un avión Cessna (típicamente 6-12 pasajeros). El piloto narra en inglés y español mientras vuelas sobre los principales geoglifos incluyendo la ballena, trapezoides, colibrí, mono, araña, cóndor, y la misteriosa figura del astronauta. El avión gira a ambos lados para que todos los pasajeros puedan ver cada figura. El vuelo cubre aproximadamente 70 km sobre la pampa desértica. Después de aterrizar, recibes un certificado de vuelo y puedes visitar el pequeño museo del aeropuerto.',
+    highlights: [
+      'Hummingbird (96 meters)',
+      'Monkey with spiral tail',
+      'Spider geoglyph',
+      'Condor (130-meter wingspan)',
+      'Astronaut figure',
+      'Geometric trapezoids',
+      'Whale figure',
+      'Flight certificate'
+    ],
+    highlightsEs: [
+      'Colibrí (96 metros)',
+      'Mono con cola espiral',
+      'Geoglifo de araña',
+      'Cóndor (envergadura de 130 metros)',
+      'Figura del astronauta',
+      'Trapezoides geométricos',
+      'Figura de ballena',
+      'Certificado de vuelo'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '30-35 minutes flight, 2 hours total',
+    durationEs: '30-35 minutos de vuelo, 2 horas total',
+    difficulty: 'easy',
+    priceRange: '$80-120 per person. Children same price.',
+    priceRangeEs: '$80-120 por persona. Niños mismo precio.',
+    bestTime: 'Year-round. Early morning (7-9am) for clearest visibility and calmest air. May-November driest.',
+    bestTimeEs: 'Todo el año. Temprano en la mañana (7-9am) para mejor visibilidad y aire más calmado. Mayo-noviembre más seco.',
+    includes: [
+      'Scenic flight over Nazca Lines',
+      'Bilingual pilot narration',
+      'Airport taxes',
+      'Flight certificate',
+      'Pre-flight safety briefing'
+    ],
+    includesEs: [
+      'Vuelo escénico sobre Líneas de Nazca',
+      'Narración bilingüe del piloto',
+      'Tasas de aeropuerto',
+      'Certificado de vuelo',
+      'Charla de seguridad pre-vuelo'
+    ],
+    tips: [
+      'Book earliest morning flight',
+      'Eat light breakfast only',
+      'Take motion sickness pills 30 min before',
+      'Children under 5 may get scared',
+      'Window seats not guaranteed',
+      'Bring camera with good zoom',
+      'Sunglasses reduce glare',
+      'Stay overnight in Nazca before/after'
+    ],
+    tipsEs: [
+      'Reserva vuelo más temprano de la mañana',
+      'Come solo desayuno ligero',
+      'Toma pastillas para mareo 30 min antes',
+      'Niños menores de 5 pueden asustarse',
+      'Asientos de ventana no garantizados',
+      'Trae cámara con buen zoom',
+      'Gafas de sol reducen reflejo',
+      'Quédate una noche en Nazca antes/después'
+    ],
+    safetyNotes: [
+      'Certified small aircraft operators',
+      'Safety briefing mandatory',
+      'Motion sickness common - medication advised',
+      'Not recommended for very young children',
+      'Weight limits may apply',
+      'Flights cancelled in bad weather'
+    ],
+    safetyNotesEs: [
+      'Operadores certificados de aviones pequeños',
+      'Charla de seguridad obligatoria',
+      'Mareo común - se aconseja medicación',
+      'No recomendado para niños muy pequeños',
+      'Pueden aplicar límites de peso',
+      'Vuelos cancelados en mal clima'
+    ],
+    relatedActivities: ['paracas-ballestas-tour', 'huacachina-dune-buggy'],
+    providers: [
+      { name: 'AeroNasca', familyFriendly: true },
+      { name: 'Aero Palpa', familyFriendly: true },
+      { name: 'AeroParacas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'caral-day-trip',
+    name: 'Caral Ancient City Archaeological Day Trip',
+    nameEs: 'Excursión de Día a Ciudad Antigua de Caral',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Journey to the oldest city in the Americas on a full-day educational excursion from Lima to the UNESCO World Heritage Site of Caral. Dating back 5,000 years - contemporary with ancient Egypt - this archaeological complex features monumental pyramids, circular plazas, and evidence of a sophisticated peaceful society that pioneered urban planning in the Western Hemisphere.',
+    descriptionEs: 'Viaja a la ciudad más antigua de las Américas en una excursión educativa de día completo desde Lima al Sitio de Patrimonio Mundial UNESCO de Caral. Con 5,000 años de antigüedad - contemporánea con el antiguo Egipto - este complejo arqueológico presenta pirámides monumentales, plazas circulares, y evidencia de una sofisticada sociedad pacífica que fue pionera en planificación urbana en el Hemisferio Occidental.',
+    whatToExpect: 'Depart Lima early morning for a 3.5-hour scenic drive north along the Panamericana highway through coastal desert and agricultural valleys. Upon arrival at Caral, join a mandatory guided walking tour (included in admission) led by trained archaeologists who explain the site significance. Explore the six major pyramids including the Pyramid of the Amphitheater and the Major Pyramid, circular ceremonial plazas, and residential sectors. Learn about the peaceful society that achieved remarkable advances without warfare. Enjoy lunch at a local restaurant in Supe or Barranca (optional beach visit), then return to Lima by late afternoon.',
+    whatToExpectEs: 'Sal de Lima temprano en la mañana para un recorrido escénico de 3.5 horas hacia el norte por la carretera Panamericana a través del desierto costero y valles agrícolas. Al llegar a Caral, únete a un tour guiado obligatorio (incluido en admisión) dirigido por arqueólogos entrenados que explican la importancia del sitio. Explora las seis pirámides principales incluyendo la Pirámide del Anfiteatro y la Pirámide Mayor, plazas ceremoniales circulares, y sectores residenciales. Aprende sobre la sociedad pacífica que logró avances notables sin guerra. Disfruta almuerzo en restaurante local en Supe o Barranca (visita opcional a playa), luego regresa a Lima al final de la tarde.',
+    highlights: [
+      'Oldest city in the Americas (5,000 years)',
+      'UNESCO World Heritage Site',
+      'Six monumental pyramids',
+      'Circular ceremonial plazas',
+      'Peaceful civilization evidence',
+      'Expert archaeologist guides',
+      'Ancient irrigation systems',
+      'Optional beach lunch stop'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas (5,000 años)',
+      'Sitio de Patrimonio Mundial UNESCO',
+      'Seis pirámides monumentales',
+      'Plazas ceremoniales circulares',
+      'Evidencia de civilización pacífica',
+      'Guías arqueólogos expertos',
+      'Sistemas de irrigación antiguos',
+      'Parada opcional para almuerzo en playa'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '10-12 hours (full day)',
+    durationEs: '10-12 horas (día completo)',
+    difficulty: 'moderate',
+    priceRange: '$80-150 per person with transportation from Lima. Entrance S/11 adults, S/1 children.',
+    priceRangeEs: '$80-150 por persona con transporte desde Lima. Entrada S/11 adultos, S/1 niños.',
+    bestTime: 'Year-round. April-November driest season. Morning site visit avoids afternoon desert heat.',
+    bestTimeEs: 'Todo el año. Abril-noviembre temporada más seca. Visita matutina al sitio evita calor del desierto de tarde.',
+    includes: [
+      'Hotel pickup/drop-off in Lima',
+      'Air-conditioned transportation',
+      'Professional guide',
+      'Site entrance and guided tour',
+      'Water bottles',
+      'Optional lunch stop'
+    ],
+    includesEs: [
+      'Recogida/dejada en hotel en Lima',
+      'Transporte con aire acondicionado',
+      'Guía profesional',
+      'Entrada al sitio y tour guiado',
+      'Botellas de agua',
+      'Parada opcional para almuerzo'
+    ],
+    tips: [
+      'Depart Lima by 7am at latest',
+      'Bring sun protection - no shade on site',
+      'Wear comfortable walking shoes',
+      'Carry extra water',
+      'Great educational value for children',
+      'Photography allowed throughout',
+      'Combine with Barranca beach lunch',
+      'Light breakfast - early departure'
+    ],
+    tipsEs: [
+      'Sal de Lima a las 7am como máximo',
+      'Trae protección solar - no hay sombra en sitio',
+      'Usa zapatos cómodos para caminar',
+      'Lleva agua extra',
+      'Gran valor educativo para niños',
+      'Fotografía permitida en todo el lugar',
+      'Combina con almuerzo en playa de Barranca',
+      'Desayuno ligero - salida temprana'
+    ],
+    safetyNotes: [
+      'Desert sun is intense - sunscreen essential',
+      'Stay hydrated throughout visit',
+      'Stay on marked paths',
+      'No climbing on structures',
+      'Watch children near excavation areas',
+      'Bring first aid basics'
+    ],
+    safetyNotesEs: [
+      'Sol del desierto es intenso - protector solar esencial',
+      'Mantente hidratado durante la visita',
+      'Permanece en senderos marcados',
+      'No escales estructuras',
+      'Vigila niños cerca de áreas de excavación',
+      'Trae kit básico de primeros auxilios'
+    ],
+    relatedActivities: ['lima-historic-center-tour', 'pachacamac-tour'],
+    providers: [
+      { name: 'Peru Hop', familyFriendly: true },
+      { name: 'Caral Tours', familyFriendly: true },
+      { name: 'Lima Vision', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'qeswachaka-bridge-experience',
+    name: 'Q\'eswachaka Inca Bridge Cultural Experience',
+    nameEs: 'Experiencia Cultural Puente Inca Q\'eswachaka',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Visit the last remaining Inca rope bridge in existence on a full-day cultural journey from Cusco to Q\'eswachaka. This UNESCO Intangible Cultural Heritage site showcases 600 years of continuous tradition as local Quechua communities maintain and annually rebuild this remarkable 33-meter suspension bridge entirely from handwoven grass ropes using ancient techniques.',
+    descriptionEs: 'Visita el último puente colgante Inca existente en un viaje cultural de día completo desde Cusco a Q\'eswachaka. Este sitio de Patrimonio Cultural Inmaterial UNESCO muestra 600 años de tradición continua mientras comunidades quechua locales mantienen y reconstruyen anualmente este notable puente de suspensión de 33 metros enteramente de cuerdas de pasto tejidas a mano usando técnicas antiguas.',
+    whatToExpect: 'Depart Cusco early morning for a scenic 4-hour drive through the Andean highlands toward Lake Titicaca. Stop at the colonial church of Checacupe to see remarkable religious art before continuing to the Q\'eswachaka community. Walk down to the Apurimac River canyon where the historic grass rope bridge spans the gorge at the same location used for 600 years. Learn about traditional rope-making techniques, Inca engineering, and the annual renewal festival from your guide. Weather permitting, cross the bridge yourself (safe and maintained) for an unforgettable experience. Enjoy a traditional lunch with the community before returning to Cusco.',
+    whatToExpectEs: 'Sal de Cusco temprano en la mañana para un recorrido escénico de 4 horas a través de las tierras altas andinas hacia el Lago Titicaca. Detente en la iglesia colonial de Checacupe para ver notable arte religioso antes de continuar a la comunidad Q\'eswachaka. Camina hacia el cañón del Río Apurímac donde el histórico puente de cuerda de pasto cruza el desfiladero en el mismo lugar usado por 600 años. Aprende sobre técnicas tradicionales de fabricación de cuerdas, ingeniería Inca, y el festival anual de renovación de tu guía. Si el clima lo permite, cruza el puente tú mismo (seguro y mantenido) para una experiencia inolvidable. Disfruta un almuerzo tradicional con la comunidad antes de regresar a Cusco.',
+    highlights: [
+      'Last surviving Inca rope bridge',
+      'UNESCO Intangible Cultural Heritage',
+      'Cross the historic bridge',
+      'Learn traditional rope-weaving',
+      'Quechua community interaction',
+      'Apurimac River canyon views',
+      'Traditional Andean lunch',
+      'Checacupe church art'
+    ],
+    highlightsEs: [
+      'Último puente colgante Inca sobreviviente',
+      'Patrimonio Cultural Inmaterial UNESCO',
+      'Cruza el puente histórico',
+      'Aprende tejido tradicional de cuerdas',
+      'Interacción con comunidad quechua',
+      'Vistas del cañón del Río Apurímac',
+      'Almuerzo tradicional andino',
+      'Arte de iglesia Checacupe'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '10-12 hours (full day)',
+    durationEs: '10-12 horas (día completo)',
+    difficulty: 'moderate',
+    priceRange: '$80-130 per person. June festival tours more expensive.',
+    priceRangeEs: '$80-130 por persona. Tours del festival de junio más costosos.',
+    bestTime: 'Year-round to see and cross bridge. Second Sunday of June for spectacular renewal festival (book months ahead).',
+    bestTimeEs: 'Todo el año para ver y cruzar puente. Segundo domingo de junio para espectacular festival de renovación (reserva con meses de anticipación).',
+    includes: [
+      'Hotel pickup/drop-off in Cusco',
+      'Transportation',
+      'Professional bilingual guide',
+      'Community entrance fee',
+      'Traditional lunch',
+      'Checacupe church visit'
+    ],
+    includesEs: [
+      'Recogida/dejada en hotel en Cusco',
+      'Transporte',
+      'Guía profesional bilingüe',
+      'Tarifa de entrada a comunidad',
+      'Almuerzo tradicional',
+      'Visita a iglesia Checacupe'
+    ],
+    tips: [
+      'Acclimatize to altitude first',
+      'Bring warm layers - cold at altitude',
+      'Sturdy shoes for rocky path to bridge',
+      'June festival incredible but crowded',
+      'Bridge crossing is safe for families',
+      'Support local artisan crafts',
+      'Cash for community crafts',
+      'Great cultural learning for children'
+    ],
+    tipsEs: [
+      'Aclimátate a la altitud primero',
+      'Trae capas abrigadas - frío en altitud',
+      'Zapatos resistentes para camino rocoso al puente',
+      'Festival de junio increíble pero concurrido',
+      'Cruzar puente es seguro para familias',
+      'Apoya artesanías locales',
+      'Efectivo para artesanías de comunidad',
+      'Gran aprendizaje cultural para niños'
+    ],
+    safetyNotes: [
+      'High altitude (3,700m) - acclimatize first',
+      'Bridge is safe and maintained',
+      'Steep descent to river canyon',
+      'Not suitable for mobility issues',
+      'Weather can change quickly',
+      'Bring altitude sickness medication'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,700m) - aclimátate primero',
+      'Puente es seguro y mantenido',
+      'Descenso empinado al cañón del río',
+      'No apto para problemas de movilidad',
+      'Clima puede cambiar rápidamente',
+      'Trae medicación para mal de altura'
+    ],
+    relatedActivities: ['sacred-valley-family-tour', 'cusco-city-tour', 'south-valley-tour'],
+    providers: [
+      { name: 'Amazonas Explorer', familyFriendly: true },
+      { name: 'Cusco Native', familyFriendly: true },
+      { name: 'Responsible Travel Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chachapoyas-tombs-tour',
+    name: 'Chachapoyas Cliff Tombs & Mausoleums Tour',
+    nameEs: 'Tour de Tumbas y Mausoleos de Acantilados Chachapoyas',
+    type: 'cultural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Discover the extraordinary funerary traditions of the Chachapoya "Warriors of the Clouds" on a full-day tour visiting the remarkable Revash cliff mausoleums and the towering Karajía sarcophagi. These unique archaeological sites showcase the Chachapoya belief in elaborate afterlife homes, with house-shaped tombs and 2-meter tall funerary figures perched on impossible cliff ledges.',
+    descriptionEs: 'Descubre las extraordinarias tradiciones funerarias de los Chachapoya "Guerreros de las Nubes" en un tour de día completo visitando los notables mausoleos de acantilado de Revash y los imponentes sarcófagos de Karajía. Estos sitios arqueológicos únicos muestran la creencia Chachapoya en hogares elaborados para la otra vida, con tumbas en forma de casa y figuras funerarias de 2 metros de altura posadas en imposibles repisas de acantilados.',
+    whatToExpect: 'Begin in Chachapoyas with a drive to the village of Cruzpata near Karajía. Hike 45 minutes through beautiful cloud forest to the viewpoint where six imposing 2-meter tall sarcophagi stand on a cliff ledge 200 meters above, dating to the 15th century. After photos and explanations, drive to Santo Tomás village near Revash for a moderate hike to view the remarkable house-shaped mausoleums painted in red and cream colors built into limestone cliffs. Local guides share Chachapoya history and mythology at both sites. Return to Chachapoyas with newfound appreciation for this lesser-known but remarkable ancient civilization.',
+    whatToExpectEs: 'Comienza en Chachapoyas con un viaje al pueblo de Cruzpata cerca de Karajía. Camina 45 minutos a través de hermoso bosque nuboso al mirador donde seis imponentes sarcófagos de 2 metros de alto se yerguen en una repisa de acantilado 200 metros arriba, datando del siglo XV. Después de fotos y explicaciones, conduce al pueblo de Santo Tomás cerca de Revash para una caminata moderada para ver los notables mausoleos en forma de casa pintados en colores rojo y crema construidos en acantilados de piedra caliza. Guías locales comparten historia y mitología Chachapoya en ambos sitios. Regresa a Chachapoyas con nueva apreciación por esta civilización antigua menos conocida pero notable.',
+    highlights: [
+      'Karajía 2-meter sarcophagi',
+      'Revash house-shaped mausoleums',
+      'Original red and cream paintings',
+      'Cloud forest hiking',
+      'Local Chachapoya history',
+      'Traditional villages',
+      'Dramatic cliff settings',
+      'Unique funerary traditions'
+    ],
+    highlightsEs: [
+      'Sarcófagos de 2 metros de Karajía',
+      'Mausoleos en forma de casa de Revash',
+      'Pinturas originales rojas y crema',
+      'Caminata en bosque nuboso',
+      'Historia local Chachapoya',
+      'Pueblos tradicionales',
+      'Escenarios dramáticos de acantilados',
+      'Tradiciones funerarias únicas'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '8-10 hours',
+    durationEs: '8-10 horas',
+    difficulty: 'moderate',
+    priceRange: '$70-110 per person including transport and local guides',
+    priceRangeEs: '$70-110 por persona incluyendo transporte y guías locales',
+    bestTime: 'Dry season May-September for clearest skies and safest hiking. Morning for best cliff lighting.',
+    bestTimeEs: 'Temporada seca mayo-septiembre para cielos más claros y caminatas más seguras. Mañana para mejor iluminación de acantilados.',
+    includes: [
+      'Transportation from Chachapoyas',
+      'Professional guide',
+      'Local community guides',
+      'Site entrance fees',
+      'Boxed lunch or lunch stop',
+      'Water bottles'
+    ],
+    includesEs: [
+      'Transporte desde Chachapoyas',
+      'Guía profesional',
+      'Guías comunitarios locales',
+      'Tarifas de entrada a sitios',
+      'Almuerzo empacado o parada para almuerzo',
+      'Botellas de agua'
+    ],
+    tips: [
+      'Good hiking shoes essential',
+      'Bring binoculars for details',
+      'Moderate fitness required',
+      'Support local village guides',
+      'Photography excellent morning',
+      'Combine with Kuelap visit',
+      'Cash for local crafts',
+      'Respect sacred burial sites'
+    ],
+    tipsEs: [
+      'Buenos zapatos de caminata esenciales',
+      'Trae binoculares para detalles',
+      'Se requiere condición física moderada',
+      'Apoya guías de pueblos locales',
+      'Fotografía excelente en mañana',
+      'Combina con visita a Kuelap',
+      'Efectivo para artesanías locales',
+      'Respeta sitios de entierro sagrados'
+    ],
+    safetyNotes: [
+      'Moderate hiking with some steep sections',
+      'Stay on marked trails',
+      'No climbing toward tombs',
+      'Weather can change in cloud forest',
+      'Not suitable for mobility limitations',
+      'Bring rain layer just in case'
+    ],
+    safetyNotesEs: [
+      'Caminata moderada con algunas secciones empinadas',
+      'Permanece en senderos marcados',
+      'No escales hacia las tumbas',
+      'Clima puede cambiar en bosque nuboso',
+      'No apto para limitaciones de movilidad',
+      'Trae capa impermeable por si acaso'
+    ],
+    relatedActivities: ['kuelap-fortress-tour', 'gocta-waterfall-trek'],
+    providers: [
+      { name: 'Chachapoyas Tours', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Kuelap Explorer', familyFriendly: true }
+    ]
   }
 ];
 
