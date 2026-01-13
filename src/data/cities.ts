@@ -2068,6 +2068,69 @@ export const cities: City[] = [
       { name: 'Hostal Plaza', type: 'Budget', priceRange: '$' },
       { name: 'Hotel Cristina', type: 'Mid-range', priceRange: '$$' }
     ]
+  },
+  {
+    slug: 'lunahuana',
+    name: 'Lunahuaná',
+    nameEs: 'Lunahuaná',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 479,
+    population: '5,000',
+    description: 'A picturesque adventure town in the Cañete Valley, just 3 hours from Lima. Known as Peru\'s adventure sports capital, Lunahuaná offers whitewater rafting, zip-lining, ATV tours, and excellent pisco production - perfect for active families seeking weekend thrills.',
+    descriptionEs: 'Un pintoresco pueblo de aventura en el Valle de Cañete, a solo 3 horas de Lima. Conocido como la capital de deportes de aventura de Perú, Lunahuaná ofrece rafting en aguas bravas, tirolesa, tours en cuatrimoto y excelente producción de pisco - perfecto para familias activas que buscan emociones de fin de semana.',
+    highlights: [
+      'Whitewater rafting on Cañete River',
+      'Zip-line and canopy tours',
+      'Canyoning adventures',
+      'ATV tours through vineyards',
+      'Pisco and wine bodegas',
+      'Inca ruins of Incahuasi'
+    ],
+    highlightsEs: [
+      'Rafting en aguas bravas en el río Cañete',
+      'Tirolesas y tours de canopy',
+      'Aventuras de cañonismo',
+      'Tours en cuatrimoto por viñedos',
+      'Bodegas de pisco y vino',
+      'Ruinas incas de Incahuasi'
+    ],
+    familyRating: 5,
+    bestMonths: [12, 1, 2, 3, 4],
+    minDays: 2,
+    nearbyAttractions: ['incahuasi-ruins', 'canete-river', 'pisco-bodegas', 'catapalla-canyon'],
+    relatedCities: ['lima', 'paracas', 'ica'],
+    activities: ['whitewater-rafting', 'canyoning-lunahuana', 'zipline-adventure', 'pisco-tasting-tour'],
+    climate: 'Warm year-round with sunny days. Summer (Dec-Apr) brings higher river levels ideal for rafting.',
+    climateEs: 'Cálido todo el año con días soleados. El verano (dic-abr) trae niveles de río más altos ideales para rafting.',
+    gettingThere: 'Drive from Lima via Cañete (3 hours). Bus from Lima to Cañete, then taxi or colectivo.',
+    gettingThereEs: 'Conducir desde Lima vía Cañete (3 horas). Bus desde Lima a Cañete, luego taxi o colectivo.',
+    familyTips: [
+      'Best adventure destination near Lima',
+      'Book rafting in advance during peak season',
+      'Summer (Dec-Apr) has best river conditions',
+      'Combine with pisco bodega visits',
+      'Kids love the suspension bridges',
+      'Great weekend escape from Lima'
+    ],
+    familyTipsEs: [
+      'Mejor destino de aventura cerca de Lima',
+      'Reserva rafting con anticipación en temporada alta',
+      'El verano (dic-abr) tiene mejores condiciones del río',
+      'Combina con visitas a bodegas de pisco',
+      'A los niños les encantan los puentes colgantes',
+      'Gran escape de fin de semana desde Lima'
+    ],
+    restaurants: [
+      { name: 'El Palillo', type: 'Peruvian', kidFriendly: true },
+      { name: 'Mi Rosedal', type: 'Regional', kidFriendly: true },
+      { name: 'Bodega restaurants', type: 'Local', kidFriendly: true }
+    ],
+    hotels: [
+      { name: 'Refugio de Santiago', type: 'Country lodge', priceRange: '$$$' },
+      { name: 'Hotel Embassy', type: 'Mid-range', priceRange: '$$' },
+      { name: 'Hostal Rio Alto', type: 'Budget', priceRange: '$' }
+    ]
   }
 ];
 
