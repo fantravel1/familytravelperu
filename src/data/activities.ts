@@ -10061,6 +10061,340 @@ export const activities: Activity[] = [
       { name: 'Huaraz Expeditions', familyFriendly: true },
       { name: 'Andean Kingdom', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'moray-maras-tour',
+    name: 'Moray & Maras Salt Mines Tour',
+    nameEs: 'Tour Moray y Salineras de Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover two of the Sacred Valley\'s most unique attractions on this half-day tour combining the enigmatic circular terraces of Moray with the spectacular Maras Salt Mines. At Moray, explore the Inca\'s agricultural laboratory where different microclimates allowed experimentation with crops. Then descend into the valley of over 3,000 white and pink salt ponds that have been harvested since pre-Inca times. This tour offers a fascinating contrast of ancient science and living tradition.',
+    descriptionEs: 'Descubre dos de las atracciones más únicas del Valle Sagrado en este tour de medio día que combina las enigmáticas terrazas circulares de Moray con las espectaculares Salineras de Maras. En Moray, explora el laboratorio agrícola Inca donde diferentes microclimas permitían experimentación con cultivos. Luego desciende al valle de más de 3,000 pozas de sal blanca y rosa que han sido cosechadas desde tiempos pre-Incas. Este tour ofrece un fascinante contraste de ciencia antigua y tradición viva.',
+    whatToExpect: 'Morning pickup from Cusco hotel followed by scenic drive through Chinchero area. First stop at Moray to explore the circular agricultural terraces and learn about Inca engineering. Continue to Maras Salt Mines for walking tour through the 3,000+ terraced ponds. Opportunity to buy artisanal pink salt. Return to Cusco by early afternoon.',
+    whatToExpectEs: 'Recojo matutino del hotel en Cusco seguido de viaje escénico por el área de Chinchero. Primera parada en Moray para explorar las terrazas agrícolas circulares y aprender sobre ingeniería Inca. Continúa a las Salineras de Maras para tour a pie por las más de 3,000 pozas en terrazas. Oportunidad de comprar sal rosa artesanal. Retorno a Cusco a primera hora de la tarde.',
+    highlights: [
+      'Moray\'s circular Inca agricultural terraces',
+      'Over 3,000 terraced salt evaporation ponds',
+      'Learn about Inca agricultural science',
+      'Buy artisanal pink salt directly',
+      'Stunning Sacred Valley scenery'
+    ],
+    highlightsEs: [
+      'Terrazas agrícolas circulares Incas de Moray',
+      'Más de 3,000 pozas de evaporación de sal en terrazas',
+      'Aprende sobre ciencia agrícola Inca',
+      'Compra sal rosa artesanal directamente',
+      'Impresionante paisaje del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'moderate',
+    priceRange: '$35-55 USD per person',
+    priceRangeEs: '$35-55 USD por persona',
+    bestTime: 'Dry season (May-October) for best road conditions and active salt production.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejores condiciones de carretera y producción de sal activa.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Moray entrance (Boleto Turístico required)',
+      'Maras entrance fee'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional bilingüe',
+      'Entrada a Moray (se requiere Boleto Turístico)',
+      'Tarifa de entrada a Maras'
+    ],
+    tips: [
+      'Buy the Boleto Turístico in advance for Moray',
+      'Wear sturdy shoes with grip for the salt mines',
+      'Bring cash to buy salt from local families',
+      'Morning departures have better light for photos',
+      'Can combine with Chinchero for full-day tour'
+    ],
+    tipsEs: [
+      'Compra el Boleto Turístico con anticipación para Moray',
+      'Usa zapatos resistentes con agarre para las salineras',
+      'Trae efectivo para comprar sal de familias locales',
+      'Salidas matutinas tienen mejor luz para fotos',
+      'Puede combinarse con Chinchero para tour de día completo'
+    ],
+    safetyNotes: [
+      'Altitude at Moray reaches 3,500m',
+      'Salt mine paths can be slippery',
+      'Some steep sections at both sites',
+      'Sun protection essential',
+      'Watch children near salt pond edges'
+    ],
+    safetyNotesEs: [
+      'La altitud en Moray alcanza 3,500m',
+      'Los caminos de las salineras pueden ser resbaladizos',
+      'Algunas secciones empinadas en ambos sitios',
+      'Protección solar esencial',
+      'Vigila a los niños cerca de los bordes de las pozas de sal'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'chinchero-weaving', 'south-valley-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'Maras Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chinchero-weaving-experience',
+    name: 'Chinchero Weaving & Culture Experience',
+    nameEs: 'Experiencia de Tejido y Cultura en Chinchero',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Immerse your family in living Andean culture with this hands-on weaving experience in the traditional village of Chinchero. Visit a local weaving cooperative where Quechua-speaking women demonstrate the entire textile process - from shearing alpacas to spinning yarn, creating natural dyes from plants and insects, and weaving intricate patterns on backstrap looms. Children can try their hand at weaving while learning about the symbolism hidden in traditional designs. The experience also includes exploring Inca ruins and the colonial church.',
+    descriptionEs: 'Sumerge a tu familia en la cultura andina viva con esta experiencia práctica de tejido en el pueblo tradicional de Chinchero. Visita una cooperativa de tejido local donde mujeres quechuahablantes demuestran todo el proceso textil - desde esquilar alpacas hasta hilar lana, crear tintes naturales de plantas e insectos, y tejer patrones intrincados en telares de cintura. Los niños pueden probar a tejer mientras aprenden sobre el simbolismo oculto en los diseños tradicionales. La experiencia también incluye explorar ruinas Incas y la iglesia colonial.',
+    whatToExpect: 'Arrival at Chinchero weaving cooperative where local women in traditional dress welcome you. Watch demonstrations of alpaca shearing, wool washing, natural dyeing using cochineal and plants, and backstrap loom weaving. Hands-on opportunity for children and adults to try weaving. Visit Chinchero\'s Inca ruins and colonial church. Browse and purchase authentic textiles directly from the weavers.',
+    whatToExpectEs: 'Llegada a la cooperativa de tejido de Chinchero donde mujeres locales en vestimenta tradicional te dan la bienvenida. Observa demostraciones de esquila de alpaca, lavado de lana, teñido natural usando cochinilla y plantas, y tejido en telar de cintura. Oportunidad práctica para niños y adultos de probar a tejer. Visita las ruinas Incas de Chinchero y la iglesia colonial. Explora y compra textiles auténticos directamente de las tejedoras.',
+    highlights: [
+      'Interactive weaving demonstration',
+      'Kids can try weaving on backstrap looms',
+      'Learn about natural dyes from cochineal and plants',
+      'Meet Quechua-speaking weavers',
+      'Support local women\'s cooperatives'
+    ],
+    highlightsEs: [
+      'Demostración interactiva de tejido',
+      'Los niños pueden probar a tejer en telares de cintura',
+      'Aprende sobre tintes naturales de cochinilla y plantas',
+      'Conoce tejedoras quechuahablantes',
+      'Apoya cooperativas locales de mujeres'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person (some tours include transport)',
+    priceRangeEs: '$25-45 USD por persona (algunos tours incluyen transporte)',
+    bestTime: 'Year-round activity. Sunday combines with the traditional market.',
+    bestTimeEs: 'Actividad de todo el año. El domingo combina con el mercado tradicional.',
+    includes: [
+      'Weaving demonstration and hands-on experience',
+      'Natural dye demonstration',
+      'Visit to Inca ruins (Boleto Turístico required)',
+      'Time at weaving cooperative',
+      'Transport (on most tours)'
+    ],
+    includesEs: [
+      'Demostración de tejido y experiencia práctica',
+      'Demostración de tintes naturales',
+      'Visita a ruinas Incas (se requiere Boleto Turístico)',
+      'Tiempo en cooperativa de tejido',
+      'Transporte (en la mayoría de tours)'
+    ],
+    tips: [
+      'Bring cash to buy textiles - prices are fair and support families',
+      'Children genuinely enjoy trying to weave',
+      'Ask about the meaning of patterns - each has symbolism',
+      'Visit on Sunday to combine with the market',
+      'The natural dye demonstration is surprisingly engaging'
+    ],
+    tipsEs: [
+      'Trae efectivo para comprar textiles - los precios son justos y apoyan familias',
+      'Los niños genuinamente disfrutan tratando de tejer',
+      'Pregunta sobre el significado de los patrones - cada uno tiene simbolismo',
+      'Visita el domingo para combinar con el mercado',
+      'La demostración de tintes naturales es sorprendentemente interesante'
+    ],
+    safetyNotes: [
+      'Chinchero is at 3,762m - higher than Cusco',
+      'Allow time for altitude adjustment',
+      'Easy walking throughout',
+      'Dress warmly - it can be cold',
+      'Respect requests about photography'
+    ],
+    safetyNotesEs: [
+      'Chinchero está a 3,762m - más alto que Cusco',
+      'Permite tiempo para ajuste de altitud',
+      'Caminata fácil en todo el recorrido',
+      'Vístete abrigado - puede hacer frío',
+      'Respeta las solicitudes sobre fotografía'
+    ],
+    relatedActivities: ['moray-maras-tour', 'sacred-valley-tour', 'cusco-textile-tour'],
+    providers: [
+      { name: 'Chinchero Weavers Cooperative', familyFriendly: true },
+      { name: 'Awamaki', familyFriendly: true },
+      { name: 'Centro de Textiles Tradicionales', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'rainbow-mountain-trek',
+    name: 'Rainbow Mountain (Vinicunca) Trek',
+    nameEs: 'Trekking Montaña de Colores (Vinicunca)',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek to one of Peru\'s most spectacular natural wonders - Rainbow Mountain (Vinicunca), where mineral deposits have painted the mountainside in vivid stripes of red, yellow, green, and turquoise. This challenging high-altitude hike reaches 5,200m, making it one of the highest treks accessible as a day trip. The otherworldly colors against the Andean landscape create an unforgettable sight. This adventure is only suitable for well-acclimatized families with fit older children who can handle extreme altitude.',
+    descriptionEs: 'Camina hacia una de las maravillas naturales más espectaculares del Perú - la Montaña de Colores (Vinicunca), donde los depósitos minerales han pintado la ladera de la montaña en vívidas franjas de rojo, amarillo, verde y turquesa. Esta desafiante caminata de gran altitud alcanza 5,200m, convirtiéndola en uno de los trekkings más altos accesibles como excursión de un día. Los colores de otro mundo contra el paisaje andino crean una vista inolvidable. Esta aventura solo es adecuada para familias bien aclimatadas con niños mayores en forma que puedan manejar altitud extrema.',
+    whatToExpect: 'Very early departure from Cusco (3-4am) for 3-hour drive to trailhead at Qesiuno. Begin hiking from 4,700m through high-altitude grasslands with grazing alpacas. Gradual then steep ascent to Rainbow Mountain viewpoint at 5,200m. Time for photos before descending. Optional Red Valley extension. Lunch included. Return to Cusco by late afternoon.',
+    whatToExpectEs: 'Salida muy temprana desde Cusco (3-4am) para viaje de 3 horas al inicio del sendero en Qesiuno. Comienza la caminata desde 4,700m a través de pastizales de gran altitud con alpacas pastando. Ascenso gradual luego empinado al mirador de la Montaña de Colores a 5,200m. Tiempo para fotos antes de descender. Extensión opcional al Valle Rojo. Almuerzo incluido. Retorno a Cusco al final de la tarde.',
+    highlights: [
+      'Multicolored striped mountain at 5,200m',
+      'Surreal mineral-painted landscape',
+      'High Andean scenery with alpacas',
+      'One of Peru\'s most photographed sites',
+      'Optional Red Valley extension'
+    ],
+    highlightsEs: [
+      'Montaña de rayas multicolores a 5,200m',
+      'Paisaje surrealista pintado por minerales',
+      'Paisaje alto andino con alpacas',
+      'Uno de los sitios más fotografiados del Perú',
+      'Extensión opcional al Valle Rojo'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: 'Full day (12-14 hours)',
+    durationEs: 'Día completo (12-14 horas)',
+    difficulty: 'challenging',
+    priceRange: '$40-80 USD per person',
+    priceRangeEs: '$40-80 USD por persona',
+    bestTime: 'Dry season (April-October) essential. June-August offers clearest skies.',
+    bestTimeEs: 'Temporada seca (abril-octubre) esencial. Junio-agosto ofrece cielos más despejados.',
+    includes: [
+      'Hotel pickup and drop-off (very early)',
+      'Transportation to trailhead',
+      'Breakfast and lunch',
+      'Professional guide',
+      'Oxygen tank and first aid kit'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel (muy temprano)',
+      'Transporte al inicio del sendero',
+      'Desayuno y almuerzo',
+      'Guía profesional',
+      'Tanque de oxígeno y botiquín de primeros auxilios'
+    ],
+    tips: [
+      'Acclimatize in Cusco for minimum 3-4 days',
+      'Consider taking altitude sickness medication',
+      'Horse rental available for those struggling (extra cost)',
+      'Bring very warm layers - it\'s freezing at the top',
+      'Only attempt if your family is fit and fully acclimatized'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco por mínimo 3-4 días',
+      'Considera tomar medicación para mal de altura',
+      'Alquiler de caballos disponible para quienes lo necesiten (costo extra)',
+      'Trae capas muy abrigadas - hace mucho frío en la cima',
+      'Solo intenta si tu familia está en forma y completamente aclimatada'
+    ],
+    safetyNotes: [
+      'Extreme altitude (5,200m) - serious acclimatization required',
+      'Not recommended for children under 12',
+      'Turn back if anyone shows altitude sickness symptoms',
+      'Weather can change rapidly',
+      'Horse option available if struggling'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (5,200m) - se requiere aclimatación seria',
+      'No recomendado para niños menores de 12 años',
+      'Regresa si alguien muestra síntomas de mal de altura',
+      'El clima puede cambiar rápidamente',
+      'Opción de caballo disponible si tienes dificultades'
+    ],
+    relatedActivities: ['ausangate-trek', 'laguna-69-trek', 'cusco-archaeological-circuit'],
+    providers: [
+      { name: 'Rainbow Mountain Expeditions', familyFriendly: true },
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'Vinicunca Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sechin-archaeological-tour',
+    name: 'Sechín Archaeological Site Tour',
+    nameEs: 'Tour Sitio Arqueológico Sechín',
+    type: 'cultural',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Journey back 3,600 years to one of Peru\'s most ancient and mysterious archaeological sites at Sechín. This tour explores the remarkable temple complex featuring over 300 carved stone warriors and dramatic depictions of battle, sacrifice, and victory that predate Egypt\'s pyramids. The site offers a rare glimpse into Peru\'s pre-ceramic past and the violent origins of Andean civilization. The excellent on-site museum provides context with artifacts and reconstructions. Best suited for families with older children interested in ancient history.',
+    descriptionEs: 'Viaja 3,600 años atrás a uno de los sitios arqueológicos más antiguos y misteriosos del Perú en Sechín. Este tour explora el notable complejo de templos con más de 300 guerreros tallados en piedra y dramáticas representaciones de batalla, sacrificio y victoria que son anteriores a las pirámides de Egipto. El sitio ofrece una rara mirada al pasado pre-cerámico del Perú y los violentos orígenes de la civilización andina. El excelente museo en el sitio proporciona contexto con artefactos y reconstrucciones. Más adecuado para familias con niños mayores interesados en historia antigua.',
+    whatToExpect: 'Arrival at Sechín Archaeological Complex outside Casma. Visit the museum first to understand the site\'s history and see original artifacts. Guided tour of the temple exterior walls with their dramatic warrior carvings. Learn about the Sechín culture and their violent depictions. Time for photos and questions. The compact site allows thorough exploration in under 2 hours.',
+    whatToExpectEs: 'Llegada al Complejo Arqueológico Sechín fuera de Casma. Visita el museo primero para entender la historia del sitio y ver artefactos originales. Tour guiado por las paredes exteriores del templo con sus dramáticos grabados de guerreros. Aprende sobre la cultura Sechín y sus representaciones violentas. Tiempo para fotos y preguntas. El sitio compacto permite exploración completa en menos de 2 horas.',
+    highlights: [
+      '3,600-year-old carved stone warriors',
+      'One of the oldest monuments in the Americas',
+      'Dramatic depictions of ancient warfare',
+      'Excellent on-site museum',
+      'Off the tourist trail'
+    ],
+    highlightsEs: [
+      'Guerreros tallados en piedra de 3,600 años',
+      'Uno de los monumentos más antiguos de las Américas',
+      'Dramáticas representaciones de guerra antigua',
+      'Excelente museo en el sitio',
+      'Fuera del circuito turístico'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: 'Entrance only: 11 soles. Tours from Huaraz: $60-90 USD',
+    priceRangeEs: 'Solo entrada: 11 soles. Tours desde Huaraz: $60-90 USD',
+    bestTime: 'Year-round coastal destination. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Destino costero de todo el año. Visitas matutinas evitan el calor de la tarde.',
+    includes: [
+      'Site and museum entrance',
+      'Professional guide (on tours)',
+      'Transportation (from Huaraz tours)',
+      'Some tours include Casma lunch'
+    ],
+    includesEs: [
+      'Entrada al sitio y museo',
+      'Guía profesional (en tours)',
+      'Transporte (tours desde Huaraz)',
+      'Algunos tours incluyen almuerzo en Casma'
+    ],
+    tips: [
+      'The violent imagery may not suit young children',
+      'Visit the museum first to understand context',
+      'Can be combined with day trip from Huaraz',
+      'Casma has good seafood restaurants for lunch',
+      'Photography allowed throughout'
+    ],
+    tipsEs: [
+      'Las imágenes violentas pueden no ser adecuadas para niños pequeños',
+      'Visita el museo primero para entender el contexto',
+      'Puede combinarse con excursión de un día desde Huaraz',
+      'Casma tiene buenos restaurantes de mariscos para almuerzo',
+      'Fotografía permitida en todo el sitio'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot climate - bring water and sun protection',
+      'Easy flat walking throughout',
+      'Some graphic imagery of violence',
+      'Limited shade at the site'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima caliente - trae agua y protección solar',
+      'Caminata fácil y plana en todo el recorrido',
+      'Algunas imágenes gráficas de violencia',
+      'Sombra limitada en el sitio'
+    ],
+    relatedActivities: ['chavin-tour', 'caral-tour', 'trujillo-archaeological-tour'],
+    providers: [
+      { name: 'Huaraz Day Tours', familyFriendly: true },
+      { name: 'Casma Tours', familyFriendly: true },
+      { name: 'Ancient Peru Expeditions', familyFriendly: true }
+    ]
   }
 ];
 

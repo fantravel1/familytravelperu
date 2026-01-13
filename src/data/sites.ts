@@ -8934,6 +8934,286 @@ export const sites: Site[] = [
       'Guías locales disponibles',
       'Pequeña cafetería cercana'
     ]
+  },
+  {
+    slug: 'sechin',
+    name: 'Sechín Archaeological Complex',
+    nameEs: 'Complejo Arqueológico de Sechín',
+    type: 'archaeological',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    altitude: 90,
+    description: 'Sechín is one of Peru\'s most ancient and enigmatic archaeological sites, featuring over 300 carved stone warriors and gruesome depictions of battle and sacrifice dating back to 1600 BC. The main temple\'s exterior walls are lined with monolithic stone slabs showing warriors, severed heads, dismembered bodies, and victorious figures - making it one of the earliest examples of monumental art in the Americas. For families with older children interested in ancient history, Sechín offers a fascinating and slightly macabre glimpse into Peru\'s pre-ceramic past.',
+    descriptionEs: 'Sechín es uno de los sitios arqueológicos más antiguos y enigmáticos del Perú, presentando más de 300 guerreros tallados en piedra y representaciones espeluznantes de batalla y sacrificio que datan del 1600 a.C. Las paredes exteriores del templo principal están revestidas con losas de piedra monolíticas que muestran guerreros, cabezas cercenadas, cuerpos desmembrados y figuras victoriosas - convirtiéndolo en uno de los ejemplos más tempranos de arte monumental en las Américas. Para familias con niños mayores interesados en historia antigua, Sechín ofrece una fascinante y ligeramente macabra mirada al pasado pre-cerámico del Perú.',
+    history: 'The Sechín culture flourished in the Casma Valley from approximately 1800-800 BC, predating the Chavín culture. The site was discovered in 1937 by Peruvian archaeologist Julio C. Tello, who called it "the most cruel representation in American archaeology." The carvings are believed to depict a great battle or possibly ritual sacrifice. Excavations revealed the temple was built in phases, with older adobe structures beneath the stone facade. The site provides crucial evidence of early complex societies in Peru.',
+    historyEs: 'La cultura Sechín floreció en el Valle de Casma aproximadamente del 1800-800 a.C., anterior a la cultura Chavín. El sitio fue descubierto en 1937 por el arqueólogo peruano Julio C. Tello, quien lo llamó "la representación más cruel en la arqueología americana". Se cree que los grabados representan una gran batalla o posiblemente sacrificio ritual. Las excavaciones revelaron que el templo fue construido en fases, con estructuras de adobe más antiguas debajo de la fachada de piedra. El sitio proporciona evidencia crucial de sociedades complejas tempranas en el Perú.',
+    highlights: [
+      'Over 300 carved stone warrior figures',
+      'One of the oldest monuments in the Americas',
+      'Dramatic depictions of ancient warfare',
+      'Excellent on-site museum with artifacts',
+      'Well-preserved 3,600-year-old carvings'
+    ],
+    highlightsEs: [
+      'Más de 300 figuras de guerreros talladas en piedra',
+      'Uno de los monumentos más antiguos de las Américas',
+      'Dramáticas representaciones de guerra antigua',
+      'Excelente museo en el sitio con artefactos',
+      'Grabados bien preservados de 3,600 años'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    entranceFee: '11 soles adults, 3 soles children (includes museum)',
+    entranceFeeEs: '11 soles adultos, 3 soles niños (incluye museo)',
+    bestTime: 'Year-round destination. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Destino de todo el año. Visitas matutinas evitan el calor de la tarde.',
+    tips: [
+      'The violent imagery may not suit young children',
+      'Visit the museum first to understand the carvings',
+      'Combine with a day trip from Huaraz',
+      'Photography allowed throughout',
+      'The site is smaller than expected - allow 1.5-2 hours'
+    ],
+    tipsEs: [
+      'Las imágenes violentas pueden no ser adecuadas para niños pequeños',
+      'Visita el museo primero para entender los grabados',
+      'Combina con una excursión de un día desde Huaraz',
+      'Fotografía permitida en todo el sitio',
+      'El sitio es más pequeño de lo esperado - permite 1.5-2 horas'
+    ],
+    nearbyAttractions: ['Chanquillo', 'Casma beaches', 'Tortugas Bay', 'Huaraz'],
+    relatedSites: ['chavin-de-huantar', 'caral', 'huaca-de-la-luna'],
+    gettingThere: 'Located 5km from Casma town, which is 370km north of Lima on the Pan-American Highway. Buses from Lima take about 5 hours. From Huaraz, it\'s a 3-hour drive. Taxis from Casma cost about 10 soles.',
+    gettingThereEs: 'Ubicado a 5km del pueblo de Casma, que está a 370km al norte de Lima en la Carretera Panamericana. Los buses desde Lima toman aproximadamente 5 horas. Desde Huaraz, es un viaje de 3 horas. Los taxis desde Casma cuestan alrededor de 10 soles.',
+    facilities: [
+      'Modern on-site museum',
+      'Clean restrooms',
+      'Parking area',
+      'Shaded rest areas',
+      'Information panels',
+      'Local guides available'
+    ],
+    facilitiesEs: [
+      'Museo moderno en el sitio',
+      'Baños limpios',
+      'Área de estacionamiento',
+      'Áreas de descanso con sombra',
+      'Paneles informativos',
+      'Guías locales disponibles'
+    ]
+  },
+  {
+    slug: 'chinchero',
+    name: 'Chinchero',
+    nameEs: 'Chinchero',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3762,
+    description: 'Chinchero is a living Inca village perched high above the Sacred Valley, where ancient agricultural terraces meet colonial churches and traditional Andean culture thrives. The site features impressive Inca walls and terraces that once formed a royal estate, a beautiful colonial church built atop Inca foundations, and a vibrant Sunday market where locals trade in traditional dress. For families, the highlight is visiting weaving cooperatives where women demonstrate the entire process from shearing alpacas to creating colorful textiles using natural dyes and ancient techniques.',
+    descriptionEs: 'Chinchero es un pueblo Inca viviente ubicado en lo alto sobre el Valle Sagrado, donde antiguas terrazas agrícolas se encuentran con iglesias coloniales y la cultura andina tradicional prospera. El sitio presenta impresionantes muros y terrazas Incas que una vez formaron una hacienda real, una hermosa iglesia colonial construida sobre cimientos Incas y un vibrante mercado dominical donde los locales comercian en vestimenta tradicional. Para las familias, lo más destacado es visitar cooperativas de tejido donde las mujeres demuestran todo el proceso desde esquilar alpacas hasta crear textiles coloridos usando tintes naturales y técnicas ancestrales.',
+    history: 'Chinchero was the royal estate of Inca Túpac Yupanqui (1471-1493) and later became a favorite residence of Inca Huayna Cápac. The Spanish built the Church of Our Lady of Monserrat atop the Inca palace in 1607, using stones from the original structures. The church features remarkable ceiling murals painted in the Cusco School style. Today, Chinchero maintains strong connections to its Inca past, with residents still speaking Quechua and practicing traditional weaving techniques passed down through generations.',
+    historyEs: 'Chinchero fue la hacienda real del Inca Túpac Yupanqui (1471-1493) y luego se convirtió en residencia favorita del Inca Huayna Cápac. Los españoles construyeron la Iglesia de Nuestra Señora de Monserrat sobre el palacio Inca en 1607, usando piedras de las estructuras originales. La iglesia presenta notables murales en el techo pintados en el estilo de la Escuela Cusqueña. Hoy, Chinchero mantiene fuertes conexiones con su pasado Inca, con residentes que aún hablan quechua y practican técnicas tradicionales de tejido transmitidas a través de generaciones.',
+    highlights: [
+      'Traditional Andean weaving demonstrations',
+      'Impressive Inca terraces and walls',
+      'Colonial church with ceiling murals',
+      'Authentic Sunday market',
+      'Stunning views of snow-capped mountains'
+    ],
+    highlightsEs: [
+      'Demostraciones tradicionales de tejido andino',
+      'Impresionantes terrazas y muros Incas',
+      'Iglesia colonial con murales en el techo',
+      'Auténtico mercado dominical',
+      'Impresionantes vistas de montañas nevadas'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Sunday for the traditional market. Year-round, but dry season (May-October) is best.',
+    bestTimeEs: 'Domingo para el mercado tradicional. Todo el año, pero la temporada seca (mayo-octubre) es mejor.',
+    tips: [
+      'Visit on Sunday for the authentic local market',
+      'Weaving demonstrations are interactive - kids can try',
+      'Buy textiles directly from the weavers for fair prices',
+      'Allow time to acclimatize - it\'s higher than Cusco',
+      'Try the local bread fresh from adobe ovens'
+    ],
+    tipsEs: [
+      'Visita el domingo para el mercado local auténtico',
+      'Las demostraciones de tejido son interactivas - los niños pueden probar',
+      'Compra textiles directamente de las tejedoras por precios justos',
+      'Permite tiempo para aclimatarte - está más alto que Cusco',
+      'Prueba el pan local fresco de hornos de adobe'
+    ],
+    nearbyAttractions: ['Moray', 'Maras Salt Mines', 'Ollantaytambo', 'Sacred Valley'],
+    relatedSites: ['moray', 'maras-salt-mines', 'ollantaytambo', 'pisac'],
+    gettingThere: 'Located 28km northwest of Cusco (about 45 minutes by car). Most visitors come as part of Sacred Valley tours. Colectivos run from Cusco\'s Pavitos terminal. The road passes through stunning mountain scenery.',
+    gettingThereEs: 'Ubicado a 28km al noroeste de Cusco (aproximadamente 45 minutos en carro). La mayoría de visitantes vienen como parte de tours del Valle Sagrado. Los colectivos salen del terminal Pavitos de Cusco. La carretera pasa por impresionantes paisajes de montaña.',
+    facilities: [
+      'Weaving cooperative centers',
+      'Sunday market stalls',
+      'Restrooms near the plaza',
+      'Local restaurants',
+      'Parking area',
+      'Artisan shops'
+    ],
+    facilitiesEs: [
+      'Centros de cooperativas de tejido',
+      'Puestos del mercado dominical',
+      'Baños cerca de la plaza',
+      'Restaurantes locales',
+      'Área de estacionamiento',
+      'Tiendas de artesanías'
+    ]
+  },
+  {
+    slug: 'moray',
+    name: 'Moray Archaeological Site',
+    nameEs: 'Sitio Arqueológico de Moray',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3500,
+    description: 'Moray is one of the Inca Empire\'s most ingenious creations - a series of enormous circular terraces carved into natural sinkholes that functioned as an agricultural laboratory. Each level of the deepest amphitheater has a different microclimate, with temperature variations of up to 15°C between top and bottom, allowing the Incas to experiment with crops from different ecological zones. The geometric perfection of these concentric circles, set against the Andean landscape, creates one of Peru\'s most visually striking archaeological sites. Children are fascinated by the giant "crop circles" and the science behind them.',
+    descriptionEs: 'Moray es una de las creaciones más ingeniosas del Imperio Inca - una serie de enormes terrazas circulares talladas en hundimientos naturales que funcionaban como laboratorio agrícola. Cada nivel del anfiteatro más profundo tiene un microclima diferente, con variaciones de temperatura de hasta 15°C entre arriba y abajo, permitiendo a los Incas experimentar con cultivos de diferentes zonas ecológicas. La perfección geométrica de estos círculos concéntricos, contra el paisaje andino, crea uno de los sitios arqueológicos más visualmente impresionantes del Perú. Los niños quedan fascinados por los gigantes "círculos de cultivos" y la ciencia detrás de ellos.',
+    history: 'Moray was likely constructed during the reign of Inca Pachacuti in the 15th century as part of the empire\'s sophisticated agricultural system. The terraces created microclimates that simulated conditions from sea level to high altitude, allowing agronomists to develop hardy crop varieties that could be distributed throughout the empire. Modern studies have confirmed temperature differences between levels. Some researchers believe Moray may have also served ceremonial purposes related to agricultural fertility. The site was abandoned after the Spanish conquest.',
+    historyEs: 'Moray fue probablemente construido durante el reinado del Inca Pachacuti en el siglo XV como parte del sofisticado sistema agrícola del imperio. Las terrazas crearon microclimas que simulaban condiciones desde el nivel del mar hasta gran altitud, permitiendo a los agrónomos desarrollar variedades de cultivos resistentes que podían distribuirse por todo el imperio. Estudios modernos han confirmado las diferencias de temperatura entre niveles. Algunos investigadores creen que Moray también pudo haber servido propósitos ceremoniales relacionados con la fertilidad agrícola. El sitio fue abandonado después de la conquista española.',
+    highlights: [
+      'Spectacular circular Inca terraces',
+      'Natural temperature laboratory (15°C difference)',
+      'Geometric perfection against mountain backdrop',
+      'Insight into Inca agricultural science',
+      'Fewer crowds than main Sacred Valley sites'
+    ],
+    highlightsEs: [
+      'Espectaculares terrazas circulares Incas',
+      'Laboratorio de temperatura natural (15°C de diferencia)',
+      'Perfección geométrica contra el telón de fondo de montañas',
+      'Perspectiva de la ciencia agrícola Inca',
+      'Menos multitudes que los sitios principales del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '1-1.5 hours',
+    durationEs: '1-1.5 horas',
+    difficulty: 'moderate',
+    entranceFee: 'Included in Boleto Turístico (70 soles adults, 35 children)',
+    entranceFeeEs: 'Incluido en Boleto Turístico (70 soles adultos, 35 niños)',
+    bestTime: 'Morning for best light. Dry season (May-October) recommended.',
+    bestTimeEs: 'Mañana para mejor luz. Se recomienda temporada seca (mayo-octubre).',
+    tips: [
+      'Combine with Maras Salt Mines for a half-day tour',
+      'Walk down into the terraces for the full experience',
+      'Explain the temperature experiment to engage kids',
+      'Best photos from the rim looking down',
+      'Quieter than Ollantaytambo or Pisac'
+    ],
+    tipsEs: [
+      'Combina con las Salineras de Maras para un tour de medio día',
+      'Camina hacia abajo en las terrazas para la experiencia completa',
+      'Explica el experimento de temperatura para involucrar a los niños',
+      'Mejores fotos desde el borde mirando hacia abajo',
+      'Más tranquilo que Ollantaytambo o Pisac'
+    ],
+    nearbyAttractions: ['Maras Salt Mines', 'Chinchero', 'Ollantaytambo', 'Urubamba'],
+    relatedSites: ['maras-salt-mines', 'chinchero', 'ollantaytambo', 'pisac'],
+    gettingThere: 'Located 50km northwest of Cusco near Maras village. Most visitors come on tours combined with Maras Salt Mines. The unpaved road can be rough. Taxis from Cusco or Urubamba available.',
+    gettingThereEs: 'Ubicado a 50km al noroeste de Cusco cerca del pueblo de Maras. La mayoría de visitantes vienen en tours combinados con las Salineras de Maras. El camino sin pavimentar puede ser difícil. Taxis desde Cusco o Urubamba disponibles.',
+    facilities: [
+      'Parking area',
+      'Basic restrooms',
+      'Artisan vendors at entrance',
+      'Information panels',
+      'No food services on-site'
+    ],
+    facilitiesEs: [
+      'Área de estacionamiento',
+      'Baños básicos',
+      'Vendedores artesanales en la entrada',
+      'Paneles informativos',
+      'Sin servicios de comida en el sitio'
+    ]
+  },
+  {
+    slug: 'maras-salt-mines',
+    name: 'Maras Salt Mines',
+    nameEs: 'Salineras de Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3380,
+    description: 'The Maras Salt Mines are a breathtaking cascade of over 3,000 salt evaporation ponds terracing down a mountain valley, creating a patchwork of white, pink, and brown that looks like a surrealist painting. This same site has been harvested for salt since pre-Inca times using the same traditional methods - channeling naturally salty spring water into ponds where the sun evaporates it into crystalline salt. Local families still own and work individual ponds, making this a living cultural heritage site. Children love the visual spectacle and learning how salt is made.',
+    descriptionEs: 'Las Salineras de Maras son una impresionante cascada de más de 3,000 pozas de evaporación de sal en terrazas bajando por un valle de montaña, creando un mosaico de blanco, rosa y marrón que parece una pintura surrealista. Este mismo sitio ha sido cosechado por sal desde tiempos pre-Incas usando los mismos métodos tradicionales - canalizando agua de manantial naturalmente salada hacia pozas donde el sol la evapora en sal cristalina. Las familias locales aún poseen y trabajan pozas individuales, convirtiendo esto en un sitio de patrimonio cultural vivo. A los niños les encanta el espectáculo visual y aprender cómo se hace la sal.',
+    history: 'The salt mines of Maras have been in continuous operation for over 500 years, and archaeological evidence suggests salt was harvested here even before the Incas. The natural spring that feeds the ponds contains water saturated with salt from ancient underground deposits. Under Inca rule, the mines were communally managed, and this tradition continues today with local families inheriting rights to specific ponds. The site produces around 200 tons of artisanal salt annually, prized for its pink color and mineral content.',
+    historyEs: 'Las minas de sal de Maras han estado en operación continua por más de 500 años, y la evidencia arqueológica sugiere que la sal se cosechaba aquí incluso antes de los Incas. El manantial natural que alimenta las pozas contiene agua saturada con sal de antiguos depósitos subterráneos. Bajo el gobierno Inca, las minas fueron manejadas comunitariamente, y esta tradición continúa hoy con familias locales heredando derechos a pozas específicas. El sitio produce alrededor de 200 toneladas de sal artesanal anualmente, apreciada por su color rosa y contenido mineral.',
+    highlights: [
+      'Over 3,000 terraced salt ponds',
+      'Stunning visual spectacle',
+      'Living pre-Inca tradition',
+      'Family-owned heritage salt production',
+      'Buy artisanal pink salt directly'
+    ],
+    highlightsEs: [
+      'Más de 3,000 pozas de sal en terrazas',
+      'Impresionante espectáculo visual',
+      'Tradición pre-Inca viva',
+      'Producción de sal patrimonial de propiedad familiar',
+      'Compra sal rosa artesanal directamente'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-1.5 hours',
+    durationEs: '1-1.5 horas',
+    difficulty: 'moderate',
+    entranceFee: '10 soles adults, 5 soles children',
+    entranceFeeEs: '10 soles adultos, 5 soles niños',
+    bestTime: 'Dry season (May-October) when salt production is active. Morning light is best for photos.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) cuando la producción de sal está activa. La luz de la mañana es mejor para fotos.',
+    tips: [
+      'Walk down into the ponds for the best views',
+      'Buy salt directly from workers for best prices',
+      'Combine with Moray for a half-day tour',
+      'Wear shoes with good grip - paths can be slippery',
+      'The pink salt makes a great souvenir'
+    ],
+    tipsEs: [
+      'Camina hacia abajo en las pozas para las mejores vistas',
+      'Compra sal directamente de los trabajadores por mejores precios',
+      'Combina con Moray para un tour de medio día',
+      'Usa zapatos con buen agarre - los caminos pueden ser resbaladizos',
+      'La sal rosa es un gran recuerdo'
+    ],
+    nearbyAttractions: ['Moray', 'Chinchero', 'Urubamba', 'Ollantaytambo'],
+    relatedSites: ['moray', 'chinchero', 'ollantaytambo', 'salineras-de-maras'],
+    gettingThere: 'Located 40km from Cusco near the village of Maras. Most visitors arrive via tours combined with Moray. Can also be reached by taxi from Urubamba. The final road down to the mines is steep and unpaved.',
+    gettingThereEs: 'Ubicado a 40km de Cusco cerca del pueblo de Maras. La mayoría de visitantes llegan vía tours combinados con Moray. También se puede llegar en taxi desde Urubamba. El camino final hacia las minas es empinado y sin pavimentar.',
+    facilities: [
+      'Entrance station with restrooms',
+      'Salt vendors throughout',
+      'Viewing platforms',
+      'Parking at top',
+      'Basic food vendors'
+    ],
+    facilitiesEs: [
+      'Estación de entrada con baños',
+      'Vendedores de sal en todo el sitio',
+      'Plataformas de observación',
+      'Estacionamiento arriba',
+      'Vendedores básicos de comida'
+    ]
   }
 ];
 
