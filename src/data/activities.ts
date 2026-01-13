@@ -7315,6 +7315,348 @@ export const activities: Activity[] = [
       { name: 'Refugio Amazonas', familyFriendly: true },
       { name: 'Inkaterra Reserva', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'yumbilla-waterfall-trek',
+    name: 'Yumbilla Waterfall Trek',
+    nameEs: 'Trekking a Catarata Yumbilla',
+    type: 'adventure',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Trek through cloud forest to one of the world\'s tallest waterfalls at 896 meters. This challenging hike rewards families with spectacular views of the four-tiered cascade surrounded by pristine Amazonian vegetation.',
+    descriptionEs: 'Camina a través del bosque nublado hasta una de las cataratas más altas del mundo con 896 metros. Esta caminata desafiante recompensa a las familias con vistas espectaculares de la cascada de cuatro niveles rodeada de vegetación amazónica prístina.',
+    whatToExpect: 'Begin with a drive to the village of Cuispes, where local guides lead you through lush cloud forest. The trail passes through farmland before entering dense vegetation with orchids, bromeliads, and hummingbirds. After 2-3 hours of hiking, reach the base of the magnificent cascade where mist creates rainbows on sunny days. Strong hikers can continue to upper viewpoints for even more dramatic perspectives.',
+    whatToExpectEs: 'Comienza con un viaje en auto al pueblo de Cuispes, donde guías locales te llevan a través del exuberante bosque nublado. El sendero pasa por tierras de cultivo antes de entrar en densa vegetación con orquídeas, bromelias y colibríes. Después de 2-3 horas de caminata, llegas a la base de la magnífica cascada donde la neblina crea arcoíris en días soleados. Los excursionistas fuertes pueden continuar a miradores superiores para perspectivas aún más dramáticas.',
+    highlights: [
+      'One of the world\'s tallest waterfalls',
+      'Four-tiered cascade totaling 896 meters',
+      'Cloud forest biodiversity',
+      'Local community guides',
+      'Hummingbird sightings common'
+    ],
+    highlightsEs: [
+      'Una de las cataratas más altas del mundo',
+      'Cascada de cuatro niveles que totaliza 896 metros',
+      'Biodiversidad del bosque nublado',
+      'Guías de la comunidad local',
+      'Avistamientos de colibríes comunes'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: '5-6 hours',
+    durationEs: '5-6 horas',
+    difficulty: 'challenging',
+    priceRange: '$30-50 per person with guide',
+    priceRangeEs: '$30-50 por persona con guía',
+    bestTime: 'May-October (dry season)',
+    bestTimeEs: 'Mayo-Octubre (temporada seca)',
+    includes: [
+      'Local guide from Cuispes',
+      'Trail access fees',
+      'Basic lunch sometimes included',
+      'Transportation from Chachapoyas optional'
+    ],
+    includesEs: [
+      'Guía local de Cuispes',
+      'Tarifas de acceso al sendero',
+      'Almuerzo básico a veces incluido',
+      'Transporte desde Chachapoyas opcional'
+    ],
+    tips: [
+      'Start early to avoid afternoon clouds',
+      'Waterproof gear essential year-round',
+      'Bring plenty of water and snacks',
+      'Hiking poles helpful on steep sections',
+      'Allow extra time for photography',
+      'Can combine with Gocta for multi-day trip'
+    ],
+    tipsEs: [
+      'Comienza temprano para evitar nubes de la tarde',
+      'Equipo impermeable esencial todo el año',
+      'Lleva suficiente agua y bocadillos',
+      'Bastones de trekking útiles en secciones empinadas',
+      'Deja tiempo extra para fotografía',
+      'Se puede combinar con Gocta para viaje de varios días'
+    ],
+    safetyNotes: [
+      'Trail can be slippery when wet',
+      'Altitude around 2,400m - acclimatize first',
+      'Don\'t approach waterfall base in heavy rain',
+      'Inform someone of your hiking plans',
+      'Basic fitness required'
+    ],
+    safetyNotesEs: [
+      'El sendero puede ser resbaloso cuando está mojado',
+      'Altitud alrededor de 2,400m - aclimatarse primero',
+      'No te acerques a la base de la cascada en lluvia fuerte',
+      'Informa a alguien de tus planes de caminata',
+      'Se requiere condición física básica'
+    ],
+    relatedActivities: ['gocta-waterfall-hike', 'birdwatching-tour', 'cloud-forest-exploration'],
+    providers: [
+      { name: 'Cuispes Community Guides', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Chachapoyas Backpackers', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pink-river-dolphin-watching',
+    name: 'Pink River Dolphin Watching',
+    nameEs: 'Avistamiento de Delfines Rosados',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Search for the magical pink river dolphins of the Amazon on a boat excursion through river channels and flooded forests. These unique freshwater dolphins are found only in South American rivers and are a highlight of any Amazon visit.',
+    descriptionEs: 'Busca los mágicos delfines rosados del Amazonas en una excursión en bote por canales fluviales y bosques inundados. Estos únicos delfines de agua dulce se encuentran solo en ríos sudamericanos y son un punto destacado de cualquier visita a la Amazonía.',
+    whatToExpect: 'Depart early morning by boat to reach areas where dolphins congregate. Your guide knows the best spots where rivers meet and fish are abundant. Watch for the distinctive pink coloring of adults as they surface to breathe. Gray dolphins often accompany them. Lucky visitors may see dolphins bow-riding or approaching the boat curiously. The trip includes birding and wildlife spotting along the riverbanks.',
+    whatToExpectEs: 'Parte temprano en la mañana en bote para llegar a áreas donde se congregan los delfines. Tu guía conoce los mejores lugares donde se encuentran los ríos y abundan los peces. Observa la distintiva coloración rosa de los adultos cuando salen a respirar. Los delfines grises a menudo los acompañan. Los visitantes afortunados pueden ver delfines nadando junto a la proa o acercándose curiosamente al bote. El viaje incluye avistamiento de aves y vida silvestre a lo largo de las riberas.',
+    highlights: [
+      'Rare pink freshwater dolphins',
+      'Unique Amazon wildlife',
+      'Beautiful river scenery',
+      'Birdwatching opportunities',
+      'Magical experience for children'
+    ],
+    highlightsEs: [
+      'Raros delfines rosados de agua dulce',
+      'Vida silvestre única del Amazonas',
+      'Hermoso paisaje fluvial',
+      'Oportunidades de avistamiento de aves',
+      'Experiencia mágica para niños'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-80 per person',
+    priceRangeEs: '$40-80 por persona',
+    bestTime: 'Year-round, best June-November (low water)',
+    bestTimeEs: 'Todo el año, mejor Junio-Noviembre (agua baja)',
+    includes: [
+      'Expert naturalist guide',
+      'Boat transportation',
+      'Life jackets',
+      'Binoculars available',
+      'Water and snacks'
+    ],
+    includesEs: [
+      'Guía naturalista experto',
+      'Transporte en bote',
+      'Chalecos salvavidas',
+      'Binoculares disponibles',
+      'Agua y bocadillos'
+    ],
+    tips: [
+      'Early morning best for sightings',
+      'Patience rewarded - dolphins are wild',
+      'Bring camera with good zoom',
+      'Sun protection essential',
+      'Quiet approach increases chances',
+      'Can be combined with village visits'
+    ],
+    tipsEs: [
+      'Temprano en la mañana es mejor para avistamientos',
+      'La paciencia es recompensada - los delfines son salvajes',
+      'Lleva cámara con buen zoom',
+      'Protección solar esencial',
+      'Acercamiento silencioso aumenta las posibilidades',
+      'Se puede combinar con visitas a comunidades'
+    ],
+    safetyNotes: [
+      'Stay seated in boat',
+      'Life jackets required for children',
+      'Don\'t attempt to touch dolphins',
+      'Follow guide instructions',
+      'Sun exposure can be intense'
+    ],
+    safetyNotesEs: [
+      'Permanece sentado en el bote',
+      'Chalecos salvavidas requeridos para niños',
+      'No intentes tocar a los delfines',
+      'Sigue las instrucciones del guía',
+      'La exposición al sol puede ser intensa'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'piranha-fishing', 'amazon-canopy-walkway'],
+    providers: [
+      { name: 'Amazon Dolphin Lodge', familyFriendly: true },
+      { name: 'Pacaya Samiria Tours', familyFriendly: true },
+      { name: 'Jungle Experiences', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'kuelap-fortress-tour',
+    name: 'Kuelap Fortress Guided Tour',
+    nameEs: 'Tour Guiado a la Fortaleza de Kuélap',
+    type: 'cultural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Explore the magnificent Chachapoya fortress of Kuelap with expert guides who bring this ancient citadel to life. Perched at 3,000 meters, this massive walled city rivals Machu Picchu in scale and predates it by 600 years.',
+    descriptionEs: 'Explora la magnífica fortaleza Chachapoya de Kuélap con guías expertos que dan vida a esta antigua ciudadela. Ubicada a 3,000 metros, esta masiva ciudad amurallada rivaliza con Machu Picchu en escala y es 600 años más antigua.',
+    whatToExpect: 'Take the cable car up through cloud forest for spectacular views before exploring the fortress. Your guide explains Chachapoya history, architecture, and the mysterious circular buildings. Walk through the narrow defensive entrance, see intricate friezes, and learn about daily life in this cloud warrior city. The site spans 6 hectares with over 400 structures to discover.',
+    whatToExpectEs: 'Toma el teleférico a través del bosque nublado para vistas espectaculares antes de explorar la fortaleza. Tu guía explica la historia, arquitectura y los misteriosos edificios circulares de los Chachapoya. Camina por la estrecha entrada defensiva, observa frisos intrincados y aprende sobre la vida diaria en esta ciudad de los guerreros de las nubes. El sitio abarca 6 hectáreas con más de 400 estructuras por descubrir.',
+    highlights: [
+      'Pre-Incan citadel older than Machu Picchu',
+      'Cable car with stunning views',
+      'Unique circular architecture',
+      'Decorated stone friezes',
+      'Cloud forest setting at 3,000m'
+    ],
+    highlightsEs: [
+      'Ciudadela pre-incaica más antigua que Machu Picchu',
+      'Teleférico con vistas impresionantes',
+      'Arquitectura circular única',
+      'Frisos de piedra decorados',
+      'Entorno de bosque nublado a 3,000m'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'moderate',
+    priceRange: '$60-100 including cable car',
+    priceRangeEs: '$60-100 incluyendo teleférico',
+    bestTime: 'May-September (dry season)',
+    bestTimeEs: 'Mayo-Septiembre (temporada seca)',
+    includes: [
+      'Professional bilingual guide',
+      'Cable car tickets',
+      'Site entrance fee',
+      'Transportation from Chachapoyas',
+      'Sometimes includes lunch'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Boletos de teleférico',
+      'Entrada al sitio',
+      'Transporte desde Chachapoyas',
+      'A veces incluye almuerzo'
+    ],
+    tips: [
+      'Book cable car tickets in advance',
+      'Arrive early for best weather',
+      'Bring warm layers for altitude',
+      'Walking shoes with good grip essential',
+      'Allow 2-3 hours at the site',
+      'Combine with Gocta for full experience'
+    ],
+    tipsEs: [
+      'Reserva boletos de teleférico con anticipación',
+      'Llega temprano para mejor clima',
+      'Lleva capas abrigadas para la altitud',
+      'Zapatos para caminar con buen agarre esenciales',
+      'Dedica 2-3 horas en el sitio',
+      'Combina con Gocta para experiencia completa'
+    ],
+    safetyNotes: [
+      'Stay on marked paths',
+      'Watch step on uneven stones',
+      'Altitude may affect some visitors',
+      'Don\'t climb on structures',
+      'Keep children supervised near walls'
+    ],
+    safetyNotesEs: [
+      'Permanece en senderos marcados',
+      'Cuida tus pasos en piedras irregulares',
+      'La altitud puede afectar a algunos visitantes',
+      'No escales las estructuras',
+      'Mantén a los niños supervisados cerca de los muros'
+    ],
+    relatedActivities: ['yumbilla-waterfall-trek', 'gocta-waterfall-hike', 'chachapoyas-museums'],
+    providers: [
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Kuélap Tours', familyFriendly: true },
+      { name: 'Amazonas Explorer', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'coffee-farm-tour-amazonas',
+    name: 'Coffee Farm Tour Amazonas',
+    nameEs: 'Tour de Finca de Café Amazonas',
+    type: 'culinary',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Visit family-owned coffee farms in the cloud forests of Amazonas region where some of Peru\'s finest beans are grown. Learn the entire process from cherry to cup while supporting sustainable agriculture and local communities.',
+    descriptionEs: 'Visita fincas de café familiares en los bosques nublados de la región Amazonas donde se cultivan algunos de los mejores granos del Perú. Aprende todo el proceso desde la cereza hasta la taza mientras apoyas la agricultura sostenible y las comunidades locales.',
+    whatToExpect: 'Drive into the lush mountains where coffee thrives at optimal altitude. Walk through shade-grown coffee plantations, picking ripe cherries during harvest season. Learn about organic farming practices, processing methods, and fair trade certification. Try your hand at roasting beans and finally taste freshly brewed coffee with distinct regional flavors. Kids enjoy the farm animals and beautiful scenery.',
+    whatToExpectEs: 'Viaja a las exuberantes montañas donde el café prospera a la altitud óptima. Camina por plantaciones de café cultivado a la sombra, recogiendo cerezas maduras durante la temporada de cosecha. Aprende sobre prácticas de agricultura orgánica, métodos de procesamiento y certificación de comercio justo. Prueba tostar granos y finalmente degusta café recién preparado con sabores regionales distintivos. Los niños disfrutan de los animales de la granja y el hermoso paisaje.',
+    highlights: [
+      'Bean-to-cup coffee experience',
+      'Beautiful mountain scenery',
+      'Support local families',
+      'Learn sustainable farming',
+      'Taste award-winning coffee'
+    ],
+    highlightsEs: [
+      'Experiencia de café del grano a la taza',
+      'Hermoso paisaje montañoso',
+      'Apoya a familias locales',
+      'Aprende agricultura sostenible',
+      'Degusta café premiado'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 per person',
+    priceRangeEs: '$25-45 por persona',
+    bestTime: 'Year-round, harvest April-September',
+    bestTimeEs: 'Todo el año, cosecha Abril-Septiembre',
+    includes: [
+      'Farm tour with local guide',
+      'Coffee tasting session',
+      'Light snack or lunch',
+      'Transportation from Chachapoyas',
+      'Bag of fresh coffee to take home'
+    ],
+    includesEs: [
+      'Tour de la finca con guía local',
+      'Sesión de degustación de café',
+      'Refrigerio ligero o almuerzo',
+      'Transporte desde Chachapoyas',
+      'Bolsa de café fresco para llevar'
+    ],
+    tips: [
+      'Harvest season most interactive',
+      'Hot chocolate available for kids',
+      'Bring camera for scenic views',
+      'Wear comfortable walking shoes',
+      'Buy coffee directly from farmers',
+      'Morning visits have better weather'
+    ],
+    tipsEs: [
+      'La temporada de cosecha es más interactiva',
+      'Chocolate caliente disponible para niños',
+      'Lleva cámara para vistas escénicas',
+      'Usa zapatos cómodos para caminar',
+      'Compra café directamente de los agricultores',
+      'Las visitas matutinas tienen mejor clima'
+    ],
+    safetyNotes: [
+      'Paths can be muddy',
+      'Some steep terrain',
+      'Moderate altitude around 1,800m',
+      'Watch for insects',
+      'Sun protection recommended'
+    ],
+    safetyNotesEs: [
+      'Los senderos pueden estar embarrados',
+      'Algo de terreno empinado',
+      'Altitud moderada alrededor de 1,800m',
+      'Cuidado con los insectos',
+      'Se recomienda protección solar'
+    ],
+    relatedActivities: ['chocolate-making-cusco', 'cooking-class', 'community-visits'],
+    providers: [
+      { name: 'Café Amazonas Tours', familyFriendly: true },
+      { name: 'Finca El Limón', familyFriendly: true },
+      { name: 'Rodriguez Family Farm', familyFriendly: true }
+    ]
   }
 ];
 

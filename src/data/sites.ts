@@ -6614,6 +6614,306 @@ export const sites: Site[] = [
       'Guías disponibles',
       'Áreas de estacionamiento'
     ]
+  },
+  {
+    slug: 'yumbilla-falls',
+    name: 'Yumbilla Falls',
+    nameEs: 'Catarata Yumbilla',
+    type: 'natural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2400,
+    description: 'One of the tallest waterfalls in the world at 896 meters, Yumbilla plunges in multiple tiers through lush cloud forest. Less visited than nearby Gocta, this spectacular cascade offers a more adventurous and less crowded experience.',
+    descriptionEs: 'Una de las cataratas más altas del mundo con 896 metros, Yumbilla cae en múltiples niveles a través de exuberante bosque nublado. Menos visitada que la cercana Gocta, esta espectacular cascada ofrece una experiencia más aventurera y menos concurrida.',
+    history: 'Yumbilla was measured and confirmed as one of the world\'s tallest waterfalls in 2007, the same year Gocta gained international attention. The name comes from the Quechua word meaning "heart" due to a heart-shaped rock formation near the falls.',
+    historyEs: 'Yumbilla fue medida y confirmada como una de las cataratas más altas del mundo en 2007, el mismo año que Gocta ganó atención internacional. El nombre proviene de la palabra Quechua que significa "corazón" debido a una formación rocosa en forma de corazón cerca de las cataratas.',
+    highlights: [
+      'One of world\'s tallest waterfalls',
+      'Five-tiered cascade',
+      'Cloud forest setting',
+      'Fewer tourists than Gocta',
+      'Adventurous hike',
+      'Heart-shaped rock formation'
+    ],
+    highlightsEs: [
+      'Una de las cataratas más altas del mundo',
+      'Cascada de cinco niveles',
+      'Entorno de bosque nublado',
+      'Menos turistas que Gocta',
+      'Caminata aventurera',
+      'Formación rocosa en forma de corazón'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: '5-6 hours (full hike)',
+    durationEs: '5-6 horas (caminata completa)',
+    difficulty: 'challenging',
+    entranceFee: 'S/10',
+    entranceFeeEs: 'S/10',
+    bestTime: 'Dry season (May-October). Waterfall most impressive in rainy season.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Catarata más impresionante en temporada de lluvias.',
+    tips: [
+      'More challenging than Gocta hike',
+      'Hire local guide in Cuispes village',
+      'Trail can be muddy - good boots essential',
+      'Bring rain gear and layers',
+      'Pack lunch and plenty of water',
+      'Start early in the morning'
+    ],
+    tipsEs: [
+      'Más desafiante que la caminata a Gocta',
+      'Contrata guía local en el pueblo de Cuispes',
+      'El sendero puede estar lodoso - buenas botas esenciales',
+      'Trae impermeable y capas',
+      'Lleva almuerzo y mucha agua',
+      'Comienza temprano en la mañana'
+    ],
+    nearbyAttractions: ['gocta-falls', 'kuelap', 'chachapoyas'],
+    relatedSites: ['gocta-falls', 'kuelap', 'revash'],
+    gettingThere: '1 hour from Chachapoyas to Cuispes village, then 2.5 hour hike.',
+    gettingThereEs: '1 hora desde Chachapoyas al pueblo de Cuispes, luego caminata de 2.5 horas.',
+    facilities: [
+      'Basic facilities in Cuispes',
+      'Local guides available',
+      'No facilities on trail',
+      'Bring all supplies',
+      'Small restaurants in village',
+      'Parking in village'
+    ],
+    facilitiesEs: [
+      'Instalaciones básicas en Cuispes',
+      'Guías locales disponibles',
+      'Sin instalaciones en el sendero',
+      'Trae todos los suministros',
+      'Pequeños restaurantes en el pueblo',
+      'Estacionamiento en el pueblo'
+    ]
+  },
+  {
+    slug: 'kotosh-temple',
+    name: 'Kotosh Temple of the Crossed Hands',
+    nameEs: 'Templo de Kotosh (Manos Cruzadas)',
+    type: 'archaeological',
+    city: 'huanuco',
+    region: 'Huánuco Region',
+    regionEs: 'Región Huánuco',
+    altitude: 1950,
+    description: 'One of Peru\'s oldest archaeological sites dating back 4,000 years, famous for the iconic sculptured crossed hands relief. This mysterious temple complex predates Chavín and offers insight into Peru\'s earliest ceremonial architecture.',
+    descriptionEs: 'Uno de los sitios arqueológicos más antiguos del Perú que data de hace 4,000 años, famoso por el icónico relieve esculpido de manos cruzadas. Este misterioso complejo de templos es anterior a Chavín y ofrece una perspectiva de la arquitectura ceremonial más temprana del Perú.',
+    history: 'Built around 2000 BCE, Kotosh is among the oldest temple complexes in the Americas. The famous crossed hands sculpture, showing arms crossed over a chest, remains one of Peru\'s most enigmatic ancient symbols. The site was a ceremonial center for unknown religious practices.',
+    historyEs: 'Construido alrededor de 2000 AEC, Kotosh está entre los complejos de templos más antiguos de las Américas. La famosa escultura de manos cruzadas, mostrando brazos cruzados sobre un pecho, sigue siendo uno de los símbolos antiguos más enigmáticos del Perú. El sitio fue un centro ceremonial para prácticas religiosas desconocidas.',
+    highlights: [
+      'Over 4,000 years old',
+      'Famous crossed hands relief',
+      'Predates Chavín civilization',
+      'Multiple temple layers',
+      'Off the beaten path',
+      'Important archaeological discovery'
+    ],
+    highlightsEs: [
+      'Más de 4,000 años de antigüedad',
+      'Famoso relieve de manos cruzadas',
+      'Anterior a la civilización Chavín',
+      'Múltiples capas de templos',
+      'Fuera de los caminos trillados',
+      'Importante descubrimiento arqueológico'
+    ],
+    familyRating: 3,
+    minAge: 7,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/5',
+    entranceFeeEs: 'S/5',
+    bestTime: 'Year-round. Dry season (May-October) for easier access.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) para acceso más fácil.',
+    tips: [
+      'Original hands relief is in Lima museum (replica on site)',
+      'Combine with visit to Huánuco',
+      'Hire local guide for context',
+      'Less visited archaeological site',
+      'Easy walk around ruins',
+      'Interesting for history-loving kids'
+    ],
+    tipsEs: [
+      'El relieve original está en museo de Lima (réplica en el sitio)',
+      'Combina con visita a Huánuco',
+      'Contrata guía local para contexto',
+      'Sitio arqueológico menos visitado',
+      'Caminata fácil alrededor de las ruinas',
+      'Interesante para niños que aman la historia'
+    ],
+    nearbyAttractions: ['huanuco-city', 'cordillera-huayhuash'],
+    relatedSites: ['chavin-de-huantar', 'caral', 'sechin'],
+    gettingThere: '5km from Huánuco city center. Taxi or short drive.',
+    gettingThereEs: '5km del centro de la ciudad de Huánuco. Taxi o viaje corto.',
+    facilities: [
+      'Small site museum',
+      'Basic restrooms',
+      'Guides available',
+      'Parking area',
+      'Information signs',
+      'Easy walking paths'
+    ],
+    facilitiesEs: [
+      'Pequeño museo de sitio',
+      'Baños básicos',
+      'Guías disponibles',
+      'Área de estacionamiento',
+      'Señalización informativa',
+      'Caminos fáciles para caminar'
+    ]
+  },
+  {
+    slug: 'sonche-canyon',
+    name: 'Sonche Canyon Viewpoint',
+    nameEs: 'Mirador del Cañón de Sonche',
+    type: 'natural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2620,
+    description: 'A spectacular 962-meter deep canyon viewpoint with a dramatic glass-floor skywalk extending over the abyss. One of Peru\'s newest attractions, it offers vertigo-inducing views of the Sonche River far below.',
+    descriptionEs: 'Un espectacular mirador de un cañón de 962 metros de profundidad con una dramática pasarela de piso de vidrio que se extiende sobre el abismo. Una de las atracciones más nuevas del Perú, ofrece vistas que provocan vértigo del Río Sonche muy abajo.',
+    history: 'The Sonche Canyon Skywalk opened in 2019 as part of efforts to develop tourism in the Amazonas region. The horseshoe-shaped glass platform extends 11 meters over the canyon edge, following the model of famous skywalks around the world.',
+    historyEs: 'La pasarela del Cañón de Sonche abrió en 2019 como parte de los esfuerzos para desarrollar el turismo en la región Amazonas. La plataforma de vidrio en forma de herradura se extiende 11 metros sobre el borde del cañón, siguiendo el modelo de pasarelas famosas alrededor del mundo.',
+    highlights: [
+      'Glass-floor skywalk',
+      '962-meter deep canyon',
+      'Thrilling viewpoint',
+      'Modern tourist attraction',
+      'Stunning photography',
+      'Quick adventure near Chachapoyas'
+    ],
+    highlightsEs: [
+      'Pasarela de piso de vidrio',
+      'Cañón de 962 metros de profundidad',
+      'Mirador emocionante',
+      'Atracción turística moderna',
+      'Fotografía impresionante',
+      'Aventura rápida cerca de Chachapoyas'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10',
+    entranceFeeEs: 'S/10',
+    bestTime: 'Year-round. Morning for best light and clear views.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz y vistas claras.',
+    tips: [
+      'Not for those with fear of heights',
+      'Glass floor is very safe',
+      'Great for thrill-seeking kids',
+      'Easy to combine with Gocta or Kuélap',
+      'Quick stop on Chachapoyas itinerary',
+      'Best photos in morning light'
+    ],
+    tipsEs: [
+      'No para quienes temen las alturas',
+      'El piso de vidrio es muy seguro',
+      'Genial para niños buscadores de emociones',
+      'Fácil de combinar con Gocta o Kuélap',
+      'Parada rápida en itinerario de Chachapoyas',
+      'Mejores fotos con luz de la mañana'
+    ],
+    nearbyAttractions: ['gocta-falls', 'kuelap', 'chachapoyas'],
+    relatedSites: ['gocta-falls', 'kuelap', 'yumbilla-falls'],
+    gettingThere: '10km from Chachapoyas (20 minutes by car).',
+    gettingThereEs: '10km desde Chachapoyas (20 minutos en carro).',
+    facilities: [
+      'Modern viewpoint infrastructure',
+      'Restrooms',
+      'Small café',
+      'Parking',
+      'Safety railings',
+      'Photo opportunities'
+    ],
+    facilitiesEs: [
+      'Infraestructura de mirador moderna',
+      'Baños',
+      'Pequeña cafetería',
+      'Estacionamiento',
+      'Barandas de seguridad',
+      'Oportunidades para fotos'
+    ]
+  },
+  {
+    slug: 'gran-vilaya',
+    name: 'Gran Vilaya Trek',
+    nameEs: 'Trekking Gran Vilaya',
+    type: 'archaeological',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    altitude: 2800,
+    description: 'An epic multi-day trek through remote cloud forest to discover dozens of unexcavated Chachapoya ruins. This challenging adventure reveals circular stone structures, cliff tombs, and ancient settlements rarely seen by tourists.',
+    descriptionEs: 'Un épico trekking de múltiples días a través de remoto bosque nublado para descubrir docenas de ruinas Chachapoya sin excavar. Esta desafiante aventura revela estructuras circulares de piedra, tumbas en acantilados, y asentamientos antiguos raramente vistos por turistas.',
+    history: 'The Gran Vilaya region contains hundreds of Chachapoya archaeological sites spread across a vast area of cloud forest. Unlike Kuélap, most remain unexcavated and covered in vegetation, offering a glimpse of how ancient sites appeared when first discovered by explorers.',
+    historyEs: 'La región de Gran Vilaya contiene cientos de sitios arqueológicos Chachapoya repartidos en una vasta área de bosque nublado. A diferencia de Kuélap, la mayoría permanecen sin excavar y cubiertos de vegetación, ofreciendo una visión de cómo aparecían los sitios antiguos cuando fueron descubiertos por exploradores.',
+    highlights: [
+      'Unexplored Chachapoya ruins',
+      'Multi-day wilderness trek',
+      'Cloud forest adventure',
+      'Circular stone structures',
+      'Cliff tombs and mummies',
+      'True off-grid experience'
+    ],
+    highlightsEs: [
+      'Ruinas Chachapoya sin explorar',
+      'Trekking de múltiples días en la naturaleza',
+      'Aventura en bosque nublado',
+      'Estructuras circulares de piedra',
+      'Tumbas en acantilados y momias',
+      'Verdadera experiencia fuera de la red'
+    ],
+    familyRating: 2,
+    minAge: 14,
+    duration: '3-5 days',
+    durationEs: '3-5 días',
+    difficulty: 'challenging',
+    entranceFee: 'Community fees vary',
+    entranceFeeEs: 'Tarifas comunitarias varían',
+    bestTime: 'Dry season (May-October) essential. Trails impassable in heavy rain.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) esencial. Senderos intransitables en lluvias fuertes.',
+    tips: [
+      'Only for experienced trekkers',
+      'Must hire local guide - trails unmarked',
+      'Carry all camping equipment',
+      'Leeches common in cloud forest',
+      'Physical fitness essential',
+      'Book with specialized tour operator'
+    ],
+    tipsEs: [
+      'Solo para excursionistas experimentados',
+      'Debes contratar guía local - senderos sin marcar',
+      'Lleva todo el equipo de camping',
+      'Sanguijuelas comunes en bosque nublado',
+      'Condición física esencial',
+      'Reserva con operador turístico especializado'
+    ],
+    nearbyAttractions: ['kuelap', 'gocta-falls', 'chachapoyas'],
+    relatedSites: ['kuelap', 'revash', 'karajia'],
+    gettingThere: 'Various trailheads 2-4 hours from Chachapoyas. Organized tours recommended.',
+    gettingThereEs: 'Varios inicios de sendero a 2-4 horas de Chachapoyas. Tours organizados recomendados.',
+    facilities: [
+      'No facilities - wilderness camping',
+      'Local guides essential',
+      'Mules can carry equipment',
+      'Village homestays possible',
+      'Bring all supplies',
+      'Water purification needed'
+    ],
+    facilitiesEs: [
+      'Sin instalaciones - camping en la naturaleza',
+      'Guías locales esenciales',
+      'Mulas pueden cargar equipo',
+      'Estadías en casas de pueblos posibles',
+      'Trae todos los suministros',
+      'Purificación de agua necesaria'
+    ]
   }
 ];
 
