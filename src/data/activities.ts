@@ -9727,6 +9727,7522 @@ export const activities: Activity[] = [
       { name: 'Imperio Tours', familyFriendly: true },
       { name: 'Cumbe Mayo Travel', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'huacas-moche-tour',
+    name: 'Huacas del Sol y la Luna Tour',
+    nameEs: 'Tour Huacas del Sol y la Luna',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Discover the spectacular Moche temples on this half-day tour to Huaca de la Luna, where remarkably preserved polychrome murals depict the fierce deity Ai Apaec. Explore five superimposed temples built over 600 years, see views of the massive Huaca del Sol pyramid, and visit the excellent on-site museum. This tour brings to life one of Peru\'s most sophisticated pre-Columbian civilizations through their stunning religious artwork and architecture.',
+    descriptionEs: 'Descubre los espectaculares templos Moche en este tour de medio día a la Huaca de la Luna, donde murales policromados notablemente preservados representan al feroz dios Ai Apaec. Explora cinco templos superpuestos construidos durante 600 años, ve vistas de la masiva pirámide Huaca del Sol y visita el excelente museo del sitio. Este tour da vida a una de las civilizaciones precolombinas más sofisticadas del Perú a través de su impresionante arte religioso y arquitectura.',
+    whatToExpect: 'Hotel pickup in Trujillo followed by a short drive to the archaeological complex. Mandatory guided tour of Huaca de la Luna reveals colorful murals and explains Moche rituals. Visit the modern museum with artifacts and reconstructions. View the massive Huaca del Sol from a distance. Return to hotel or continue to Huanchaco Beach.',
+    whatToExpectEs: 'Recojo del hotel en Trujillo seguido de un corto viaje al complejo arqueológico. Tour guiado obligatorio de la Huaca de la Luna revela murales coloridos y explica los rituales Moche. Visita el museo moderno con artefactos y reconstrucciones. Ve la masiva Huaca del Sol desde la distancia. Retorno al hotel o continúa a la Playa Huanchaco.',
+    highlights: [
+      'Vivid 1,500-year-old polychrome murals',
+      'Expert guide explaining Moche civilization',
+      'Five superimposed temple structures',
+      'Excellent on-site museum',
+      'Views of Huaca del Sol pyramid'
+    ],
+    highlightsEs: [
+      'Vívidos murales policromados de 1,500 años',
+      'Guía experto explicando la civilización Moche',
+      'Cinco estructuras de templo superpuestas',
+      'Excelente museo en el sitio',
+      'Vistas de la pirámide Huaca del Sol'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Morning tours avoid the afternoon heat. Year-round destination.',
+    bestTimeEs: 'Tours matutinos evitan el calor de la tarde. Destino de todo el año.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Transportation',
+      'Professional bilingual guide',
+      'Site and museum entrance fees',
+      'Mandatory guided tour'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte',
+      'Guía profesional bilingüe',
+      'Entradas al sitio y museo',
+      'Tour guiado obligatorio'
+    ],
+    tips: [
+      'Photography allowed without flash',
+      'Bring sunscreen and a hat - limited shade',
+      'The murals captivate children with their colors',
+      'Combine with Chan Chan for a full day of archaeology',
+      'End at Huanchaco Beach for seafood lunch'
+    ],
+    tipsEs: [
+      'Fotografía permitida sin flash',
+      'Trae protector solar y sombrero - sombra limitada',
+      'Los murales cautivan a los niños con sus colores',
+      'Combina con Chan Chan para un día completo de arqueología',
+      'Termina en Playa Huanchaco para almuerzo de mariscos'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot climate - stay hydrated',
+      'Wear comfortable walking shoes',
+      'Sun protection essential',
+      'Stay with your guide on marked paths'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima caliente - mantente hidratado',
+      'Usa zapatos cómodos para caminar',
+      'Protección solar esencial',
+      'Permanece con tu guía en senderos marcados'
+    ],
+    relatedActivities: ['trujillo-archaeological-tour', 'huanchaco-beach-day', 'sipan-lord-tour'],
+    providers: [
+      { name: 'Trujillo Tours', familyFriendly: true },
+      { name: 'Moche Tours', familyFriendly: true },
+      { name: 'Colonial Tours Trujillo', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'south-valley-tour',
+    name: 'Cusco South Valley Tour',
+    nameEs: 'Tour Valle Sur de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the lesser-known treasures south of Cusco on this half-day tour featuring Tipón\'s remarkable Inca water gardens, the pre-Inca Wari city of Pikillacta, and the stunning Andahuaylillas church known as the "Sistine Chapel of the Americas." This tour offers a refreshing alternative to the crowded Sacred Valley, with fewer tourists and equally impressive sites spanning Wari, Inca, and colonial periods.',
+    descriptionEs: 'Explora los tesoros menos conocidos al sur de Cusco en este tour de medio día que presenta los notables jardines de agua Inca de Tipón, la ciudad Wari pre-Inca de Pikillacta y la impresionante iglesia de Andahuaylillas conocida como la "Capilla Sixtina de las Américas". Este tour ofrece una alternativa refrescante al concurrido Valle Sagrado, con menos turistas y sitios igualmente impresionantes que abarcan los períodos Wari, Inca y colonial.',
+    whatToExpect: 'Morning hotel pickup followed by drive to Tipón to explore terraced Inca water gardens still functioning after 500 years. Continue to Pikillacta, the vast pre-Inca Wari city with over 700 buildings. End at Andahuaylillas to admire the ornate baroque church interior. Return to Cusco by early afternoon.',
+    whatToExpectEs: 'Recojo matutino del hotel seguido de viaje a Tipón para explorar jardines de agua Inca en terrazas que aún funcionan después de 500 años. Continúa a Pikillacta, la vasta ciudad Wari pre-Inca con más de 700 edificios. Termina en Andahuaylillas para admirar el ornamentado interior barroco de la iglesia. Retorno a Cusco a primera hora de la tarde.',
+    highlights: [
+      'Tipón\'s functioning Inca water channels',
+      'Pre-Inca Wari architecture at Pikillacta',
+      'Andahuaylillas "Sistine Chapel of the Americas"',
+      'Three distinct historical periods in one tour',
+      'Fewer crowds than Sacred Valley'
+    ],
+    highlightsEs: [
+      'Canales de agua Inca funcionando en Tipón',
+      'Arquitectura Wari pre-Inca en Pikillacta',
+      'Andahuaylillas "Capilla Sixtina de las Américas"',
+      'Tres períodos históricos distintos en un tour',
+      'Menos multitudes que el Valle Sagrado'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$35-55 USD per person',
+    priceRangeEs: '$35-55 USD por persona',
+    bestTime: 'Morning tours recommended. Dry season (May-October) for best weather.',
+    bestTimeEs: 'Se recomiendan tours matutinos. Temporada seca (mayo-octubre) para mejor clima.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Entrance fees NOT included (Boleto Turístico + church fee)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional bilingüe',
+      'Entradas NO incluidas (Boleto Turístico + tarifa iglesia)'
+    ],
+    tips: [
+      'Buy the Boleto Turístico for Tipón and Pikillacta',
+      'Church fee (10 soles) paid separately at door',
+      'Great alternative when Sacred Valley feels too crowded',
+      'Explains pre-Inca history often missed by visitors',
+      'Dress modestly for the church visit'
+    ],
+    tipsEs: [
+      'Compra el Boleto Turístico para Tipón y Pikillacta',
+      'Tarifa de iglesia (10 soles) se paga separadamente en la puerta',
+      'Gran alternativa cuando el Valle Sagrado se siente muy concurrido',
+      'Explica historia pre-Inca a menudo perdida por visitantes',
+      'Vístete modestamente para la visita a la iglesia'
+    ],
+    safetyNotes: [
+      'Lower altitude than Cusco (3,100-3,400m)',
+      'Easy walking on mostly flat terrain',
+      'Bring layers - temperatures vary',
+      'Stay on marked paths at archaeological sites',
+      'Church photography may be restricted'
+    ],
+    safetyNotesEs: [
+      'Altitud más baja que Cusco (3,100-3,400m)',
+      'Caminar fácil en terreno mayormente plano',
+      'Trae capas - las temperaturas varían',
+      'Permanece en senderos marcados en sitios arqueológicos',
+      'La fotografía en la iglesia puede estar restringida'
+    ],
+    relatedActivities: ['cusco-archaeological-circuit', 'sacred-valley-tour', 'baroque-route-tour'],
+    providers: [
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Andean Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'laguna-69-trek',
+    name: 'Laguna 69 Day Trek',
+    nameEs: 'Trekking Laguna 69',
+    type: 'adventure',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Challenge yourself with one of Peru\'s most rewarding day hikes to the stunning turquoise waters of Laguna 69. This demanding 14km round-trip trek takes you through Huascarán National Park, climbing from 3,900m to 4,600m beneath the towering peaks of Chacraraju and Huascarán. The reward is one of the most photogenic alpine lakes in South America, its intense blue-green color caused by glacial minerals. This adventure is for fit, acclimatized families with older children.',
+    descriptionEs: 'Desafíate con una de las caminatas de día más gratificantes del Perú hacia las impresionantes aguas turquesas de Laguna 69. Este exigente trekking de 14km ida y vuelta te lleva a través del Parque Nacional Huascarán, subiendo de 3,900m a 4,600m bajo los imponentes picos de Chacraraju y Huascarán. La recompensa es uno de los lagos alpinos más fotogénicos de Sudamérica, su intenso color azul-verde causado por minerales glaciares. Esta aventura es para familias en forma y aclimatadas con niños mayores.',
+    whatToExpect: 'Very early departure from Huaraz (5am) for 3-hour drive through Llanganuco valley. Begin hiking at Cebollapampa (3,900m) through queñual forests, alpine meadows, and rocky moraines. Steep final ascent rewards with breathtaking lake views. Time for photos and snacks at the lake before descending. Return to Huaraz by late afternoon.',
+    whatToExpectEs: 'Salida muy temprana desde Huaraz (5am) para viaje de 3 horas por el valle de Llanganuco. Comienza la caminata en Cebollapampa (3,900m) a través de bosques de queñual, praderas alpinas y morrenas rocosas. La empinada ascensión final recompensa con impresionantes vistas del lago. Tiempo para fotos y bocadillos en el lago antes de descender. Retorno a Huaraz al final de la tarde.',
+    highlights: [
+      'Spectacular turquoise glacial lake',
+      'Views of Chacraraju (6,112m) and Huascarán',
+      'Diverse high-altitude ecosystems',
+      'Challenging but achievable adventure',
+      'One of Peru\'s most iconic treks'
+    ],
+    highlightsEs: [
+      'Espectacular lago glaciar turquesa',
+      'Vistas de Chacraraju (6,112m) y Huascarán',
+      'Diversos ecosistemas de gran altitud',
+      'Aventura desafiante pero alcanzable',
+      'Uno de los trekkings más icónicos del Perú'
+    ],
+    familyRating: 4,
+    minAge: 10,
+    duration: 'Full day (10-12 hours total)',
+    durationEs: 'Día completo (10-12 horas total)',
+    difficulty: 'challenging',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Dry season only (May-September). Clear mornings essential for views.',
+    bestTimeEs: 'Solo temporada seca (mayo-septiembre). Mañanas despejadas esenciales para vistas.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Transportation to trailhead',
+      'Professional guide',
+      'Park entrance fees',
+      'Breakfast and lunch (on most tours)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte al inicio del sendero',
+      'Guía profesional',
+      'Entradas al parque',
+      'Desayuno y almuerzo (en la mayoría de tours)'
+    ],
+    tips: [
+      'Acclimatize in Huaraz for minimum 3 days before attempting',
+      'Bring warm layers, rain gear, sunscreen, and 2+ liters of water',
+      'Trekking poles highly recommended',
+      'Start early - afternoon clouds and weather common',
+      'Not suitable for children under 10 or those not fully acclimatized'
+    ],
+    tipsEs: [
+      'Aclimátate en Huaraz por mínimo 3 días antes de intentarlo',
+      'Trae capas abrigadas, ropa de lluvia, protector solar y 2+ litros de agua',
+      'Bastones de trekking muy recomendados',
+      'Comienza temprano - nubes y clima de tarde común',
+      'No apto para niños menores de 10 años o quienes no estén completamente aclimatados'
+    ],
+    safetyNotes: [
+      'Extreme altitude (4,600m) - acclimatization critical',
+      'Weather changes rapidly - be prepared',
+      'Steep sections require careful footing',
+      'No facilities at the lake - carry everything needed',
+      'Emergency evacuation is difficult - assess fitness honestly'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (4,600m) - aclimatación crítica',
+      'El clima cambia rápidamente - estate preparado',
+      'Secciones empinadas requieren pasos cuidadosos',
+      'Sin instalaciones en el lago - carga todo lo necesario',
+      'La evacuación de emergencia es difícil - evalúa tu estado físico honestamente'
+    ],
+    relatedActivities: ['llanganuco-lakes-tour', 'chavin-tour', 'pastoruri-glacier-tour'],
+    providers: [
+      { name: 'Huaraz Expeditions', familyFriendly: true },
+      { name: 'Cordillera Blanca Adventures', familyFriendly: true },
+      { name: 'Mountain Kingdom Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chavin-tour',
+    name: 'Chavín de Huántar Archaeological Tour',
+    nameEs: 'Tour Arqueológico Chavín de Huántar',
+    type: 'cultural',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Journey to one of Peru\'s most mysterious archaeological sites, the UNESCO World Heritage Site of Chavín de Huántar. This full-day tour takes you through stunning mountain scenery to explore underground galleries, see the famous Lanzón monolith in its original chamber, and discover intricate stone carvings from a civilization that predates the Incas by over 2,000 years. The flashlight exploration of dark passages creates an Indiana Jones-style adventure that captivates children and adults alike.',
+    descriptionEs: 'Viaja a uno de los sitios arqueológicos más misteriosos del Perú, el Patrimonio de la Humanidad UNESCO de Chavín de Huántar. Este tour de día completo te lleva a través de impresionantes paisajes de montaña para explorar galerías subterráneas, ver el famoso monolito Lanzón en su cámara original y descubrir intrincados grabados en piedra de una civilización que precede a los Incas por más de 2,000 años. La exploración con linterna de pasajes oscuros crea una aventura estilo Indiana Jones que cautiva a niños y adultos por igual.',
+    whatToExpect: 'Early morning departure from Huaraz for scenic 3-hour drive through Huascarán National Park, passing Querococha Lake and the Kawish tunnel. Explore Chavín\'s underground galleries with flashlights, see the Lanzón monolith, and visit the excellent museum. Lunch in Chavín village before return journey. Arrive back in Huaraz by late afternoon.',
+    whatToExpectEs: 'Salida temprana desde Huaraz para viaje escénico de 3 horas a través del Parque Nacional Huascarán, pasando el Lago Querococha y el túnel Kawish. Explora las galerías subterráneas de Chavín con linternas, ve el monolito Lanzón y visita el excelente museo. Almuerzo en el pueblo de Chavín antes del viaje de regreso. Llegada a Huaraz al final de la tarde.',
+    highlights: [
+      'UNESCO World Heritage archaeological site',
+      'Explore underground galleries with flashlights',
+      'See the Lanzón monolith in original location',
+      'Scenic drive through Huascarán National Park',
+      'Pre-Inca history spanning 3,000 years'
+    ],
+    highlightsEs: [
+      'Sitio arqueológico Patrimonio de la Humanidad UNESCO',
+      'Explora galerías subterráneas con linternas',
+      'Ve el monolito Lanzón en ubicación original',
+      'Viaje escénico a través del Parque Nacional Huascarán',
+      'Historia pre-Inca que abarca 3,000 años'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (9-10 hours)',
+    durationEs: 'Día completo (9-10 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-65 USD per person',
+    priceRangeEs: '$40-65 USD por persona',
+    bestTime: 'Dry season (May-October) for best road conditions and views.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejores condiciones de carretera y vistas.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Transportation through scenic route',
+      'Professional bilingual guide',
+      'Site and museum entrance fees',
+      'Lunch in Chavín (most tours)'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte por ruta escénica',
+      'Guía profesional bilingüe',
+      'Entradas al sitio y museo',
+      'Almuerzo en Chavín (mayoría de tours)'
+    ],
+    tips: [
+      'Bring your own flashlight for the tunnels',
+      'Prepare children for dark, narrow passages',
+      'Visit the museum first to understand what you\'ll see',
+      'Lower altitude (3,177m) than Huaraz - easier breathing',
+      'The scenic drive is half the experience'
+    ],
+    tipsEs: [
+      'Trae tu propia linterna para los túneles',
+      'Prepara a los niños para pasajes oscuros y estrechos',
+      'Visita el museo primero para entender lo que verás',
+      'Altitud más baja (3,177m) que Huaraz - respiración más fácil',
+      'El viaje escénico es la mitad de la experiencia'
+    ],
+    safetyNotes: [
+      'Tunnels can feel claustrophobic',
+      'Watch your head in low passages',
+      'Stay with your guide at all times',
+      'Road has some steep sections',
+      'Dress in layers for temperature changes'
+    ],
+    safetyNotesEs: [
+      'Los túneles pueden sentirse claustrofóbicos',
+      'Cuida tu cabeza en pasajes bajos',
+      'Permanece con tu guía en todo momento',
+      'La carretera tiene algunas secciones empinadas',
+      'Vístete en capas para cambios de temperatura'
+    ],
+    relatedActivities: ['laguna-69-trek', 'llanganuco-lakes-tour', 'pastoruri-glacier-tour'],
+    providers: [
+      { name: 'Chavín Tours', familyFriendly: true },
+      { name: 'Huaraz Expeditions', familyFriendly: true },
+      { name: 'Andean Kingdom', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'moray-maras-tour',
+    name: 'Moray & Maras Salt Mines Tour',
+    nameEs: 'Tour Moray y Salineras de Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover two of the Sacred Valley\'s most unique attractions on this half-day tour combining the enigmatic circular terraces of Moray with the spectacular Maras Salt Mines. At Moray, explore the Inca\'s agricultural laboratory where different microclimates allowed experimentation with crops. Then descend into the valley of over 3,000 white and pink salt ponds that have been harvested since pre-Inca times. This tour offers a fascinating contrast of ancient science and living tradition.',
+    descriptionEs: 'Descubre dos de las atracciones más únicas del Valle Sagrado en este tour de medio día que combina las enigmáticas terrazas circulares de Moray con las espectaculares Salineras de Maras. En Moray, explora el laboratorio agrícola Inca donde diferentes microclimas permitían experimentación con cultivos. Luego desciende al valle de más de 3,000 pozas de sal blanca y rosa que han sido cosechadas desde tiempos pre-Incas. Este tour ofrece un fascinante contraste de ciencia antigua y tradición viva.',
+    whatToExpect: 'Morning pickup from Cusco hotel followed by scenic drive through Chinchero area. First stop at Moray to explore the circular agricultural terraces and learn about Inca engineering. Continue to Maras Salt Mines for walking tour through the 3,000+ terraced ponds. Opportunity to buy artisanal pink salt. Return to Cusco by early afternoon.',
+    whatToExpectEs: 'Recojo matutino del hotel en Cusco seguido de viaje escénico por el área de Chinchero. Primera parada en Moray para explorar las terrazas agrícolas circulares y aprender sobre ingeniería Inca. Continúa a las Salineras de Maras para tour a pie por las más de 3,000 pozas en terrazas. Oportunidad de comprar sal rosa artesanal. Retorno a Cusco a primera hora de la tarde.',
+    highlights: [
+      'Moray\'s circular Inca agricultural terraces',
+      'Over 3,000 terraced salt evaporation ponds',
+      'Learn about Inca agricultural science',
+      'Buy artisanal pink salt directly',
+      'Stunning Sacred Valley scenery'
+    ],
+    highlightsEs: [
+      'Terrazas agrícolas circulares Incas de Moray',
+      'Más de 3,000 pozas de evaporación de sal en terrazas',
+      'Aprende sobre ciencia agrícola Inca',
+      'Compra sal rosa artesanal directamente',
+      'Impresionante paisaje del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'moderate',
+    priceRange: '$35-55 USD per person',
+    priceRangeEs: '$35-55 USD por persona',
+    bestTime: 'Dry season (May-October) for best road conditions and active salt production.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para mejores condiciones de carretera y producción de sal activa.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Moray entrance (Boleto Turístico required)',
+      'Maras entrance fee'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional bilingüe',
+      'Entrada a Moray (se requiere Boleto Turístico)',
+      'Tarifa de entrada a Maras'
+    ],
+    tips: [
+      'Buy the Boleto Turístico in advance for Moray',
+      'Wear sturdy shoes with grip for the salt mines',
+      'Bring cash to buy salt from local families',
+      'Morning departures have better light for photos',
+      'Can combine with Chinchero for full-day tour'
+    ],
+    tipsEs: [
+      'Compra el Boleto Turístico con anticipación para Moray',
+      'Usa zapatos resistentes con agarre para las salineras',
+      'Trae efectivo para comprar sal de familias locales',
+      'Salidas matutinas tienen mejor luz para fotos',
+      'Puede combinarse con Chinchero para tour de día completo'
+    ],
+    safetyNotes: [
+      'Altitude at Moray reaches 3,500m',
+      'Salt mine paths can be slippery',
+      'Some steep sections at both sites',
+      'Sun protection essential',
+      'Watch children near salt pond edges'
+    ],
+    safetyNotesEs: [
+      'La altitud en Moray alcanza 3,500m',
+      'Los caminos de las salineras pueden ser resbaladizos',
+      'Algunas secciones empinadas en ambos sitios',
+      'Protección solar esencial',
+      'Vigila a los niños cerca de los bordes de las pozas de sal'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'chinchero-weaving', 'south-valley-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'Maras Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chinchero-weaving-experience',
+    name: 'Chinchero Weaving & Culture Experience',
+    nameEs: 'Experiencia de Tejido y Cultura en Chinchero',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Immerse your family in living Andean culture with this hands-on weaving experience in the traditional village of Chinchero. Visit a local weaving cooperative where Quechua-speaking women demonstrate the entire textile process - from shearing alpacas to spinning yarn, creating natural dyes from plants and insects, and weaving intricate patterns on backstrap looms. Children can try their hand at weaving while learning about the symbolism hidden in traditional designs. The experience also includes exploring Inca ruins and the colonial church.',
+    descriptionEs: 'Sumerge a tu familia en la cultura andina viva con esta experiencia práctica de tejido en el pueblo tradicional de Chinchero. Visita una cooperativa de tejido local donde mujeres quechuahablantes demuestran todo el proceso textil - desde esquilar alpacas hasta hilar lana, crear tintes naturales de plantas e insectos, y tejer patrones intrincados en telares de cintura. Los niños pueden probar a tejer mientras aprenden sobre el simbolismo oculto en los diseños tradicionales. La experiencia también incluye explorar ruinas Incas y la iglesia colonial.',
+    whatToExpect: 'Arrival at Chinchero weaving cooperative where local women in traditional dress welcome you. Watch demonstrations of alpaca shearing, wool washing, natural dyeing using cochineal and plants, and backstrap loom weaving. Hands-on opportunity for children and adults to try weaving. Visit Chinchero\'s Inca ruins and colonial church. Browse and purchase authentic textiles directly from the weavers.',
+    whatToExpectEs: 'Llegada a la cooperativa de tejido de Chinchero donde mujeres locales en vestimenta tradicional te dan la bienvenida. Observa demostraciones de esquila de alpaca, lavado de lana, teñido natural usando cochinilla y plantas, y tejido en telar de cintura. Oportunidad práctica para niños y adultos de probar a tejer. Visita las ruinas Incas de Chinchero y la iglesia colonial. Explora y compra textiles auténticos directamente de las tejedoras.',
+    highlights: [
+      'Interactive weaving demonstration',
+      'Kids can try weaving on backstrap looms',
+      'Learn about natural dyes from cochineal and plants',
+      'Meet Quechua-speaking weavers',
+      'Support local women\'s cooperatives'
+    ],
+    highlightsEs: [
+      'Demostración interactiva de tejido',
+      'Los niños pueden probar a tejer en telares de cintura',
+      'Aprende sobre tintes naturales de cochinilla y plantas',
+      'Conoce tejedoras quechuahablantes',
+      'Apoya cooperativas locales de mujeres'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person (some tours include transport)',
+    priceRangeEs: '$25-45 USD por persona (algunos tours incluyen transporte)',
+    bestTime: 'Year-round activity. Sunday combines with the traditional market.',
+    bestTimeEs: 'Actividad de todo el año. El domingo combina con el mercado tradicional.',
+    includes: [
+      'Weaving demonstration and hands-on experience',
+      'Natural dye demonstration',
+      'Visit to Inca ruins (Boleto Turístico required)',
+      'Time at weaving cooperative',
+      'Transport (on most tours)'
+    ],
+    includesEs: [
+      'Demostración de tejido y experiencia práctica',
+      'Demostración de tintes naturales',
+      'Visita a ruinas Incas (se requiere Boleto Turístico)',
+      'Tiempo en cooperativa de tejido',
+      'Transporte (en la mayoría de tours)'
+    ],
+    tips: [
+      'Bring cash to buy textiles - prices are fair and support families',
+      'Children genuinely enjoy trying to weave',
+      'Ask about the meaning of patterns - each has symbolism',
+      'Visit on Sunday to combine with the market',
+      'The natural dye demonstration is surprisingly engaging'
+    ],
+    tipsEs: [
+      'Trae efectivo para comprar textiles - los precios son justos y apoyan familias',
+      'Los niños genuinamente disfrutan tratando de tejer',
+      'Pregunta sobre el significado de los patrones - cada uno tiene simbolismo',
+      'Visita el domingo para combinar con el mercado',
+      'La demostración de tintes naturales es sorprendentemente interesante'
+    ],
+    safetyNotes: [
+      'Chinchero is at 3,762m - higher than Cusco',
+      'Allow time for altitude adjustment',
+      'Easy walking throughout',
+      'Dress warmly - it can be cold',
+      'Respect requests about photography'
+    ],
+    safetyNotesEs: [
+      'Chinchero está a 3,762m - más alto que Cusco',
+      'Permite tiempo para ajuste de altitud',
+      'Caminata fácil en todo el recorrido',
+      'Vístete abrigado - puede hacer frío',
+      'Respeta las solicitudes sobre fotografía'
+    ],
+    relatedActivities: ['moray-maras-tour', 'sacred-valley-tour', 'cusco-textile-tour'],
+    providers: [
+      { name: 'Chinchero Weavers Cooperative', familyFriendly: true },
+      { name: 'Awamaki', familyFriendly: true },
+      { name: 'Centro de Textiles Tradicionales', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'rainbow-mountain-trek',
+    name: 'Rainbow Mountain (Vinicunca) Trek',
+    nameEs: 'Trekking Montaña de Colores (Vinicunca)',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek to one of Peru\'s most spectacular natural wonders - Rainbow Mountain (Vinicunca), where mineral deposits have painted the mountainside in vivid stripes of red, yellow, green, and turquoise. This challenging high-altitude hike reaches 5,200m, making it one of the highest treks accessible as a day trip. The otherworldly colors against the Andean landscape create an unforgettable sight. This adventure is only suitable for well-acclimatized families with fit older children who can handle extreme altitude.',
+    descriptionEs: 'Camina hacia una de las maravillas naturales más espectaculares del Perú - la Montaña de Colores (Vinicunca), donde los depósitos minerales han pintado la ladera de la montaña en vívidas franjas de rojo, amarillo, verde y turquesa. Esta desafiante caminata de gran altitud alcanza 5,200m, convirtiéndola en uno de los trekkings más altos accesibles como excursión de un día. Los colores de otro mundo contra el paisaje andino crean una vista inolvidable. Esta aventura solo es adecuada para familias bien aclimatadas con niños mayores en forma que puedan manejar altitud extrema.',
+    whatToExpect: 'Very early departure from Cusco (3-4am) for 3-hour drive to trailhead at Qesiuno. Begin hiking from 4,700m through high-altitude grasslands with grazing alpacas. Gradual then steep ascent to Rainbow Mountain viewpoint at 5,200m. Time for photos before descending. Optional Red Valley extension. Lunch included. Return to Cusco by late afternoon.',
+    whatToExpectEs: 'Salida muy temprana desde Cusco (3-4am) para viaje de 3 horas al inicio del sendero en Qesiuno. Comienza la caminata desde 4,700m a través de pastizales de gran altitud con alpacas pastando. Ascenso gradual luego empinado al mirador de la Montaña de Colores a 5,200m. Tiempo para fotos antes de descender. Extensión opcional al Valle Rojo. Almuerzo incluido. Retorno a Cusco al final de la tarde.',
+    highlights: [
+      'Multicolored striped mountain at 5,200m',
+      'Surreal mineral-painted landscape',
+      'High Andean scenery with alpacas',
+      'One of Peru\'s most photographed sites',
+      'Optional Red Valley extension'
+    ],
+    highlightsEs: [
+      'Montaña de rayas multicolores a 5,200m',
+      'Paisaje surrealista pintado por minerales',
+      'Paisaje alto andino con alpacas',
+      'Uno de los sitios más fotografiados del Perú',
+      'Extensión opcional al Valle Rojo'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: 'Full day (12-14 hours)',
+    durationEs: 'Día completo (12-14 horas)',
+    difficulty: 'challenging',
+    priceRange: '$40-80 USD per person',
+    priceRangeEs: '$40-80 USD por persona',
+    bestTime: 'Dry season (April-October) essential. June-August offers clearest skies.',
+    bestTimeEs: 'Temporada seca (abril-octubre) esencial. Junio-agosto ofrece cielos más despejados.',
+    includes: [
+      'Hotel pickup and drop-off (very early)',
+      'Transportation to trailhead',
+      'Breakfast and lunch',
+      'Professional guide',
+      'Oxygen tank and first aid kit'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel (muy temprano)',
+      'Transporte al inicio del sendero',
+      'Desayuno y almuerzo',
+      'Guía profesional',
+      'Tanque de oxígeno y botiquín de primeros auxilios'
+    ],
+    tips: [
+      'Acclimatize in Cusco for minimum 3-4 days',
+      'Consider taking altitude sickness medication',
+      'Horse rental available for those struggling (extra cost)',
+      'Bring very warm layers - it\'s freezing at the top',
+      'Only attempt if your family is fit and fully acclimatized'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco por mínimo 3-4 días',
+      'Considera tomar medicación para mal de altura',
+      'Alquiler de caballos disponible para quienes lo necesiten (costo extra)',
+      'Trae capas muy abrigadas - hace mucho frío en la cima',
+      'Solo intenta si tu familia está en forma y completamente aclimatada'
+    ],
+    safetyNotes: [
+      'Extreme altitude (5,200m) - serious acclimatization required',
+      'Not recommended for children under 12',
+      'Turn back if anyone shows altitude sickness symptoms',
+      'Weather can change rapidly',
+      'Horse option available if struggling'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (5,200m) - se requiere aclimatación seria',
+      'No recomendado para niños menores de 12 años',
+      'Regresa si alguien muestra síntomas de mal de altura',
+      'El clima puede cambiar rápidamente',
+      'Opción de caballo disponible si tienes dificultades'
+    ],
+    relatedActivities: ['ausangate-trek', 'laguna-69-trek', 'cusco-archaeological-circuit'],
+    providers: [
+      { name: 'Rainbow Mountain Expeditions', familyFriendly: true },
+      { name: 'Cusco Native Tours', familyFriendly: true },
+      { name: 'Vinicunca Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sechin-archaeological-tour',
+    name: 'Sechín Archaeological Site Tour',
+    nameEs: 'Tour Sitio Arqueológico Sechín',
+    type: 'cultural',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Áncash',
+    description: 'Journey back 3,600 years to one of Peru\'s most ancient and mysterious archaeological sites at Sechín. This tour explores the remarkable temple complex featuring over 300 carved stone warriors and dramatic depictions of battle, sacrifice, and victory that predate Egypt\'s pyramids. The site offers a rare glimpse into Peru\'s pre-ceramic past and the violent origins of Andean civilization. The excellent on-site museum provides context with artifacts and reconstructions. Best suited for families with older children interested in ancient history.',
+    descriptionEs: 'Viaja 3,600 años atrás a uno de los sitios arqueológicos más antiguos y misteriosos del Perú en Sechín. Este tour explora el notable complejo de templos con más de 300 guerreros tallados en piedra y dramáticas representaciones de batalla, sacrificio y victoria que son anteriores a las pirámides de Egipto. El sitio ofrece una rara mirada al pasado pre-cerámico del Perú y los violentos orígenes de la civilización andina. El excelente museo en el sitio proporciona contexto con artefactos y reconstrucciones. Más adecuado para familias con niños mayores interesados en historia antigua.',
+    whatToExpect: 'Arrival at Sechín Archaeological Complex outside Casma. Visit the museum first to understand the site\'s history and see original artifacts. Guided tour of the temple exterior walls with their dramatic warrior carvings. Learn about the Sechín culture and their violent depictions. Time for photos and questions. The compact site allows thorough exploration in under 2 hours.',
+    whatToExpectEs: 'Llegada al Complejo Arqueológico Sechín fuera de Casma. Visita el museo primero para entender la historia del sitio y ver artefactos originales. Tour guiado por las paredes exteriores del templo con sus dramáticos grabados de guerreros. Aprende sobre la cultura Sechín y sus representaciones violentas. Tiempo para fotos y preguntas. El sitio compacto permite exploración completa en menos de 2 horas.',
+    highlights: [
+      '3,600-year-old carved stone warriors',
+      'One of the oldest monuments in the Americas',
+      'Dramatic depictions of ancient warfare',
+      'Excellent on-site museum',
+      'Off the tourist trail'
+    ],
+    highlightsEs: [
+      'Guerreros tallados en piedra de 3,600 años',
+      'Uno de los monumentos más antiguos de las Américas',
+      'Dramáticas representaciones de guerra antigua',
+      'Excelente museo en el sitio',
+      'Fuera del circuito turístico'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: 'Entrance only: 11 soles. Tours from Huaraz: $60-90 USD',
+    priceRangeEs: 'Solo entrada: 11 soles. Tours desde Huaraz: $60-90 USD',
+    bestTime: 'Year-round coastal destination. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Destino costero de todo el año. Visitas matutinas evitan el calor de la tarde.',
+    includes: [
+      'Site and museum entrance',
+      'Professional guide (on tours)',
+      'Transportation (from Huaraz tours)',
+      'Some tours include Casma lunch'
+    ],
+    includesEs: [
+      'Entrada al sitio y museo',
+      'Guía profesional (en tours)',
+      'Transporte (tours desde Huaraz)',
+      'Algunos tours incluyen almuerzo en Casma'
+    ],
+    tips: [
+      'The violent imagery may not suit young children',
+      'Visit the museum first to understand context',
+      'Can be combined with day trip from Huaraz',
+      'Casma has good seafood restaurants for lunch',
+      'Photography allowed throughout'
+    ],
+    tipsEs: [
+      'Las imágenes violentas pueden no ser adecuadas para niños pequeños',
+      'Visita el museo primero para entender el contexto',
+      'Puede combinarse con excursión de un día desde Huaraz',
+      'Casma tiene buenos restaurantes de mariscos para almuerzo',
+      'Fotografía permitida en todo el sitio'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot climate - bring water and sun protection',
+      'Easy flat walking throughout',
+      'Some graphic imagery of violence',
+      'Limited shade at the site'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima caliente - trae agua y protección solar',
+      'Caminata fácil y plana en todo el recorrido',
+      'Algunas imágenes gráficas de violencia',
+      'Sombra limitada en el sitio'
+    ],
+    relatedActivities: ['chavin-tour', 'caral-tour', 'trujillo-archaeological-tour'],
+    providers: [
+      { name: 'Huaraz Day Tours', familyFriendly: true },
+      { name: 'Casma Tours', familyFriendly: true },
+      { name: 'Ancient Peru Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tipon-water-engineering-tour',
+    name: 'Tipón Water Engineering Tour',
+    nameEs: 'Tour de Ingeniería Hidráulica de Tipón',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover the engineering genius of the Incas at Tipón, one of the most impressive hydraulic complexes in South America. This educational tour focuses on understanding how the Incas mastered water management, creating sophisticated irrigation systems, fountains, and aqueducts that continue to function perfectly after 500+ years. An excellent STEM-focused experience for curious families.',
+    descriptionEs: 'Descubre el genio de la ingeniería de los Incas en Tipón, uno de los complejos hidráulicos más impresionantes de Sudamérica. Este tour educativo se enfoca en entender cómo los Incas dominaron el manejo del agua, creando sistemas de irrigación sofisticados, fuentes y acueductos que continúan funcionando perfectamente después de más de 500 años. Una excelente experiencia enfocada en STEM para familias curiosas.',
+    whatToExpect: 'Your expert guide will meet you at the site entrance, beginning with an overview of Inca engineering principles. Walk through the terraced complex as your guide demonstrates how water flows through precisely calculated channels. Children can participate in interactive experiments measuring water flow rates and observing pressure dynamics. Visit the ceremonial fountains where water still cascades exactly as the Incas designed. Your guide explains how they achieved perfect water distribution without modern tools. Explore the agricultural terraces and learn how micro-climates were created for different crops. The tour includes time for hands-on exploration with water channels and optional sketching activities for young engineers. End at the upper viewpoint overlooking the entire hydraulic system.',
+    whatToExpectEs: 'Tu guía experto te encontrará en la entrada del sitio, comenzando con una visión general de los principios de ingeniería Inca. Camina por el complejo de terrazas mientras tu guía demuestra cómo el agua fluye a través de canales calculados con precisión. Los niños pueden participar en experimentos interactivos midiendo tasas de flujo de agua y observando dinámicas de presión. Visita las fuentes ceremoniales donde el agua aún cae exactamente como los Incas lo diseñaron. Tu guía explica cómo lograron una distribución perfecta del agua sin herramientas modernas. Explora las terrazas agrícolas y aprende cómo se crearon microclimas para diferentes cultivos. El tour incluye tiempo para exploración práctica con canales de agua y actividades opcionales de dibujo para jóvenes ingenieros. Termina en el mirador superior con vista a todo el sistema hidráulico.',
+    highlights: [
+      'See 500-year-old water systems still functioning perfectly',
+      'Interactive STEM activities for children',
+      'Learn ancient engineering principles',
+      'Walk through spectacular terraced gardens',
+      'Visit ceremonial fountains',
+      'Understand Inca agricultural innovation',
+      'Fewer crowds than main Cusco sites'
+    ],
+    highlightsEs: [
+      'Ver sistemas de agua de 500 años aún funcionando perfectamente',
+      'Actividades STEM interactivas para niños',
+      'Aprender principios de ingeniería antigua',
+      'Caminar por espectaculares jardines en terrazas',
+      'Visitar fuentes ceremoniales',
+      'Entender la innovación agrícola Inca',
+      'Menos multitudes que los sitios principales de Cusco'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. Morning visits have best light for photography. Avoid rainy season afternoons.',
+    bestTimeEs: 'Todo el año. Visitas matutinas tienen mejor luz para fotografía. Evitar tardes en temporada de lluvias.',
+    includes: [
+      'Site entrance fee',
+      'Specialized engineering-focused guide',
+      'Transportation from Cusco',
+      'Interactive activity materials',
+      'Water and snacks'
+    ],
+    includesEs: [
+      'Entrada al sitio',
+      'Guía especializado enfocado en ingeniería',
+      'Transporte desde Cusco',
+      'Materiales para actividades interactivas',
+      'Agua y snacks'
+    ],
+    tips: [
+      'Ask for guides who specialize in engineering explanations',
+      'Bring a notebook for children to sketch the water systems',
+      'Combine with Pikillacta for a full South Valley day',
+      'The local restaurant serves excellent cuy (guinea pig)',
+      'Less crowded in afternoons but morning light is better'
+    ],
+    tipsEs: [
+      'Pide guías especializados en explicaciones de ingeniería',
+      'Trae un cuaderno para que los niños dibujen los sistemas de agua',
+      'Combina con Pikillacta para un día completo del Valle Sur',
+      'El restaurante local sirve excelente cuy',
+      'Menos concurrido en las tardes pero la luz matutina es mejor'
+    ],
+    safetyNotes: [
+      'Altitude 3,500m - acclimatize in Cusco first',
+      'Paths can be slippery when wet',
+      'Stay on designated walkways',
+      'Sun protection essential',
+      'Water channels are shallow but supervise young children'
+    ],
+    safetyNotesEs: [
+      'Altitud 3,500m - aclimatarse en Cusco primero',
+      'Caminos pueden ser resbaladizos cuando están mojados',
+      'Permanecer en senderos designados',
+      'Protección solar esencial',
+      'Canales de agua son poco profundos pero supervisar niños pequeños'
+    ],
+    relatedActivities: ['south-valley-tour', 'cusco-archaeological-circuit', 'moray-maras-tour'],
+    providers: [
+      { name: 'Cusco Engineering Tours', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Educational Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-temples-circuit',
+    name: 'Cusco Temples & Ceremonial Sites Circuit',
+    nameEs: 'Circuito de Templos y Sitios Ceremoniales de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the mysterious ceremonial sites surrounding Cusco on this half-day tour visiting Qenqo, Puca Pucara, and Tambomachay. These sites reveal the spiritual world of the Incas, from underground ritual chambers to fortress lookouts and sacred bathing temples. Perfect for families who want to understand Inca cosmology and spirituality beyond the major archaeological sites.',
+    descriptionEs: 'Explora los misteriosos sitios ceremoniales que rodean Cusco en este tour de medio día visitando Qenqo, Puca Pucara y Tambomachay. Estos sitios revelan el mundo espiritual de los Incas, desde cámaras rituales subterráneas hasta miradores de fortalezas y templos de baño sagrados. Perfecto para familias que quieren entender la cosmología y espiritualidad Inca más allá de los principales sitios arqueológicos.',
+    whatToExpect: 'Begin at Qenqo, where your guide leads you through the carved limestone labyrinth. Descend into the underground chamber where Inca priests performed mummification ceremonies - a fascinating but not scary experience for children. Marvel at the zigzag channels carved into rock for chicha offerings. Continue to Puca Pucara, the Red Fortress, which served as a checkpoint and tambo (rest stop) on Inca roads. Climb to the watchtower for panoramic views of the valley. Children enjoy exploring the multiple levels and imagining themselves as Inca lookouts. End at Tambomachay, the bath of the Inca, where crystal-clear water still flows through perfectly engineered channels into ceremonial bathing pools. Learn about ritual purification and the sacred importance of water in Inca religion.',
+    whatToExpectEs: 'Comienza en Qenqo, donde tu guía te lleva a través del laberinto de piedra caliza tallada. Desciende a la cámara subterránea donde los sacerdotes Incas realizaban ceremonias de momificación - una experiencia fascinante pero no aterradora para niños. Maravíllate con los canales en zigzag tallados en roca para ofrendas de chicha. Continúa a Puca Pucara, la Fortaleza Roja, que servía como punto de control y tambo (lugar de descanso) en los caminos Incas. Sube a la torre de vigilancia para vistas panorámicas del valle. Los niños disfrutan explorando los múltiples niveles e imaginándose como vigías Incas. Termina en Tambomachay, el baño del Inca, donde agua cristalina aún fluye a través de canales perfectamente diseñados hacia piscinas de baño ceremoniales. Aprende sobre purificación ritual y la importancia sagrada del agua en la religión Inca.',
+    highlights: [
+      'Explore underground ritual chambers at Qenqo',
+      'Climb the Red Fortress watchtower',
+      'See sacred bathing pools still flowing',
+      'Learn about Inca mummification practices',
+      'Panoramic valley views from Puca Pucara',
+      'Understand Inca religious beliefs',
+      'Less crowded than Sacsayhuaman'
+    ],
+    highlightsEs: [
+      'Explorar cámaras rituales subterráneas en Qenqo',
+      'Subir la torre de vigilancia de la Fortaleza Roja',
+      'Ver piscinas de baño sagradas aún fluyendo',
+      'Aprender sobre prácticas de momificación Inca',
+      'Vistas panorámicas del valle desde Puca Pucara',
+      'Entender creencias religiosas Incas',
+      'Menos concurrido que Sacsayhuaman'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$50-80 per person',
+    priceRangeEs: '$50-80 por persona',
+    bestTime: 'Year-round. Morning starts recommended. April-October dry season ideal.',
+    bestTimeEs: 'Todo el año. Se recomiendan salidas matutinas. Temporada seca abril-octubre ideal.',
+    includes: [
+      'All site entrance fees',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Water and snacks',
+      'Hotel pickup and dropoff'
+    ],
+    includesEs: [
+      'Todas las entradas a sitios',
+      'Guía bilingüe profesional',
+      'Transporte privado',
+      'Agua y snacks',
+      'Recogida y regreso al hotel'
+    ],
+    tips: [
+      'Can combine with Sacsayhuaman for full-day circuit',
+      'Bring flashlight for underground chamber at Qenqo',
+      'These sites are covered by Boleto Turístico',
+      'Morning light best for photography',
+      'Dress in layers - weather changes quickly'
+    ],
+    tipsEs: [
+      'Puede combinarse con Sacsayhuaman para circuito de día completo',
+      'Trae linterna para cámara subterránea en Qenqo',
+      'Estos sitios están cubiertos por el Boleto Turístico',
+      'Luz matutina mejor para fotografía',
+      'Vístete en capas - el clima cambia rápidamente'
+    ],
+    safetyNotes: [
+      'Altitude 3,700m - acclimatize first',
+      'Underground chamber at Qenqo has low ceilings',
+      'Some climbing required at Puca Pucara',
+      'Supervise children on fortress walls',
+      'Sturdy footwear recommended'
+    ],
+    safetyNotesEs: [
+      'Altitud 3,700m - aclimatarse primero',
+      'Cámara subterránea en Qenqo tiene techos bajos',
+      'Se requiere algo de escalada en Puca Pucara',
+      'Supervisar niños en muros de fortaleza',
+      'Calzado resistente recomendado'
+    ],
+    relatedActivities: ['cusco-archaeological-circuit', 'sacsayhuaman-tour', 'cusco-city-tour'],
+    providers: [
+      { name: 'Cusco Sacred Sites', familyFriendly: true },
+      { name: 'Inca Ceremonial Tours', familyFriendly: true },
+      { name: 'Andean Mysticism Explorers', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huanchaco-surf-totora',
+    name: 'Huanchaco Surf & Caballitos de Totora Experience',
+    nameEs: 'Experiencia de Surf y Caballitos de Totora en Huanchaco',
+    type: 'adventure',
+    city: 'trujillo',
+    region: 'La Libertad Region',
+    regionEs: 'Región La Libertad',
+    description: 'Experience the unique maritime culture of Huanchaco, where fishermen have paddled reed boats called caballitos de totora for over 3,000 years. This family-friendly beach day combines ancient traditions with modern surfing, offering caballito rides, surf lessons, and coastal exploration. The perfect blend of cultural immersion and beach fun on Peru\'s sunny northern coast.',
+    descriptionEs: 'Experimenta la cultura marítima única de Huanchaco, donde los pescadores han remado botes de caña llamados caballitos de totora por más de 3,000 años. Este día de playa familiar combina tradiciones antiguas con surf moderno, ofreciendo paseos en caballito, clases de surf y exploración costera. La combinación perfecta de inmersión cultural y diversión playera en la soleada costa norte de Perú.',
+    whatToExpect: 'Arrive at Huanchaco pier where local fishermen demonstrate caballito de totora construction and paddling techniques. Children and adults can try balancing on these remarkable reed boats, learning how fishermen have used them since pre-Inca times. After the caballito experience, move to the beach for family surf lessons. Huanchaco\'s gentle waves are ideal for beginners of all ages. Professional instructors provide boards, wetsuits, and patient guidance. Break for fresh ceviche at a beachfront restaurant, watching fishermen return with their catch. Spend the afternoon exploring the pier, visiting the totora reed beds where boats are still made traditionally, or relaxing on the beach. Watch the spectacular sunset as fishermen paddle their caballitos across golden waters.',
+    whatToExpectEs: 'Llega al muelle de Huanchaco donde pescadores locales demuestran la construcción y técnicas de remo de caballitos de totora. Niños y adultos pueden intentar balancearse en estos notables botes de caña, aprendiendo cómo los pescadores los han usado desde tiempos pre-Incas. Después de la experiencia del caballito, muévete a la playa para clases de surf familiar. Las olas suaves de Huanchaco son ideales para principiantes de todas las edades. Instructores profesionales proporcionan tablas, trajes de neopreno y guía paciente. Descansa con ceviche fresco en un restaurante frente al mar, observando a los pescadores regresar con su captura. Pasa la tarde explorando el muelle, visitando los juncales de totora donde los botes aún se hacen tradicionalmente, o relajándote en la playa. Observa el espectacular atardecer mientras los pescadores reman sus caballitos sobre aguas doradas.',
+    highlights: [
+      'Ride authentic 3,000-year-old reed boats',
+      'Learn to surf on beginner-friendly waves',
+      'Meet local fishermen preserving ancient traditions',
+      'Fresh seafood lunch at beachfront restaurants',
+      'Watch traditional totora boat-building',
+      'Spectacular Pacific Ocean sunsets',
+      'UNESCO-recognized cultural heritage'
+    ],
+    highlightsEs: [
+      'Montar auténticos botes de caña de 3,000 años',
+      'Aprender a surfear en olas amigables para principiantes',
+      'Conocer pescadores locales que preservan tradiciones antiguas',
+      'Almuerzo de mariscos frescos en restaurantes frente al mar',
+      'Observar construcción tradicional de botes de totora',
+      'Espectaculares atardeceres sobre el Océano Pacífico',
+      'Patrimonio cultural reconocido por UNESCO'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Full day (6-8 hours)',
+    durationEs: 'Día completo (6-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'Year-round. December-March warmest for swimming. Mornings best for calm seas.',
+    bestTimeEs: 'Todo el año. Diciembre-marzo más cálido para nadar. Mañanas mejores para mar tranquilo.',
+    includes: [
+      'Caballito de totora experience',
+      'Surf lesson with equipment',
+      'Wetsuit rental',
+      'Fresh seafood lunch',
+      'Transportation from Trujillo'
+    ],
+    includesEs: [
+      'Experiencia de caballito de totora',
+      'Clase de surf con equipo',
+      'Alquiler de traje de neopreno',
+      'Almuerzo de mariscos frescos',
+      'Transporte desde Trujillo'
+    ],
+    tips: [
+      'Bring swimsuit, towel, and change of clothes',
+      'Apply reef-safe sunscreen before activities',
+      'Morning surf lessons have smaller crowds',
+      'Try the ceviche at Restaurant Big Ben',
+      'Sunset caballito rides are magical'
+    ],
+    tipsEs: [
+      'Trae traje de baño, toalla y ropa de cambio',
+      'Aplica protector solar amigable con arrecifes antes de las actividades',
+      'Clases de surf matutinas tienen menos multitudes',
+      'Prueba el ceviche en Restaurant Big Ben',
+      'Paseos en caballito al atardecer son mágicos'
+    ],
+    safetyNotes: [
+      'Professional surf instructors supervise all water activities',
+      'Life jackets available for caballito rides',
+      'Calm waves ideal for beginners',
+      'Stay in designated swimming areas',
+      'Rip currents rare but heed lifeguard warnings'
+    ],
+    safetyNotesEs: [
+      'Instructores de surf profesionales supervisan todas las actividades acuáticas',
+      'Chalecos salvavidas disponibles para paseos en caballito',
+      'Olas tranquilas ideales para principiantes',
+      'Permanecer en áreas de natación designadas',
+      'Corrientes de resaca raras pero atender advertencias de salvavidas'
+    ],
+    relatedActivities: ['trujillo-archaeological-tour', 'huacas-moche-tour', 'chiclayo-heritage-tour'],
+    providers: [
+      { name: 'Huanchaco Surf School', familyFriendly: true },
+      { name: 'Caballitos de Totora Tours', familyFriendly: true },
+      { name: 'North Peru Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lima-craft-beer-tour',
+    name: 'Lima Craft Beer & Artisan Food Tour',
+    nameEs: 'Tour de Cerveza Artesanal y Comida Artesana de Lima',
+    type: 'culinary',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Discover Lima\'s booming craft beer scene on this family-friendly culinary adventure through the trendy neighborhoods of Barranco and Miraflores. While adults sample Peru\'s best microbrews, kids enjoy artisan sodas, fresh juices, and Peruvian street snacks. Visit local breweries, learn about the brewing process, and pair craft beers with innovative Peruvian cuisine. A unique urban food experience showcasing Lima\'s modern gastronomic revolution.',
+    descriptionEs: 'Descubre la floreciente escena de cerveza artesanal de Lima en esta aventura culinaria familiar por los barrios de moda de Barranco y Miraflores. Mientras los adultos prueban las mejores microcervecerías de Perú, los niños disfrutan de sodas artesanales, jugos frescos y snacks callejeros peruanos. Visita cervecerías locales, aprende sobre el proceso de elaboración y maridaje de cervezas artesanales con cocina peruana innovadora. Una experiencia urbana de comida única que muestra la revolución gastronómica moderna de Lima.',
+    whatToExpect: 'Meet your foodie guide in Barranco\'s bohemian plaza, beginning with an overview of Peru\'s craft beer revolution. Walk through colorful streets to the first microbrewery, where the brewmaster explains the process while adults taste and kids get house-made ginger ale or chicha morada. Continue through street art-lined alleys to a gastropub famous for pairing local beers with Peruvian fusion tapas - anticuchos, causa, and ceviche bites. Kids have their own menu of mini portions and fresh fruit smoothies. Visit a bottle shop showcasing Peru\'s best labels, with educational displays about ingredients including native Peruvian grains. Take the scenic walk along the oceanfront to Miraflores, stopping at an artisan market for churros and picarones. End at a rooftop brewpub overlooking the Pacific, where adults enjoy sunset beers while kids play in the family area with ocean views.',
+    whatToExpectEs: 'Encuentra a tu guía gastronómico en la plaza bohemia de Barranco, comenzando con una visión general de la revolución de la cerveza artesanal de Perú. Camina por calles coloridas a la primera microcervecería, donde el maestro cervecero explica el proceso mientras los adultos prueban y los niños reciben ginger ale casero o chicha morada. Continúa por callejones llenos de arte callejero a un gastropub famoso por maridar cervezas locales con tapas de fusión peruana - anticuchos, causa y bocados de ceviche. Los niños tienen su propio menú de porciones mini y smoothies de fruta fresca. Visita una tienda de botellas que muestra las mejores etiquetas de Perú, con exhibiciones educativas sobre ingredientes incluyendo granos nativos peruanos. Haz la caminata escénica por el frente oceánico a Miraflores, parando en un mercado artesanal para churros y picarones. Termina en un brewpub en azotea con vista al Pacífico, donde los adultos disfrutan cervezas al atardecer mientras los niños juegan en el área familiar con vistas al océano.',
+    highlights: [
+      'Visit 3-4 craft breweries and brewpubs',
+      'Learn the brewing process from brewmasters',
+      'Pair craft beers with Peruvian fusion cuisine',
+      'Kids enjoy artisan sodas and fresh juices',
+      'Walk through Barranco\'s street art scene',
+      'Scenic oceanfront walk to Miraflores',
+      'Rooftop sunset views over the Pacific'
+    ],
+    highlightsEs: [
+      'Visitar 3-4 cervecerías artesanales y brewpubs',
+      'Aprender el proceso de elaboración de maestros cerveceros',
+      'Maridar cervezas artesanales con cocina de fusión peruana',
+      'Niños disfrutan sodas artesanales y jugos frescos',
+      'Caminar por la escena de arte callejero de Barranco',
+      'Caminata escénica por el frente oceánico a Miraflores',
+      'Vistas del atardecer desde azotea sobre el Pacífico'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$75-120 per person',
+    priceRangeEs: '$75-120 por persona',
+    bestTime: 'Year-round. Evening tours best for sunset rooftop finale. Fridays and Saturdays most lively.',
+    bestTimeEs: 'Todo el año. Tours vespertinos mejores para final en azotea al atardecer. Viernes y sábados más animados.',
+    includes: [
+      'Professional foodie guide',
+      'All food tastings (6-8 stops)',
+      'Beer flights for adults (4-5 breweries)',
+      'Artisan drinks for children',
+      'Brewery tour and education',
+      'Churros and picarones dessert'
+    ],
+    includesEs: [
+      'Guía gastronómico profesional',
+      'Todas las degustaciones de comida (6-8 paradas)',
+      'Vuelos de cerveza para adultos (4-5 cervecerías)',
+      'Bebidas artesanales para niños',
+      'Tour de cervecería y educación',
+      'Postre de churros y picarones'
+    ],
+    tips: [
+      'Wear comfortable walking shoes',
+      'Evening tours have best atmosphere',
+      'Ask about quinoa and amaranth-based beers',
+      'Book Fridays for live music in Barranco',
+      'Designate a photographer - the street art is amazing'
+    ],
+    tipsEs: [
+      'Usa zapatos cómodos para caminar',
+      'Tours vespertinos tienen mejor ambiente',
+      'Pregunta por cervezas a base de quinoa y amaranto',
+      'Reserva viernes para música en vivo en Barranco',
+      'Designa un fotógrafo - el arte callejero es increíble'
+    ],
+    safetyNotes: [
+      'Easy flat walking throughout',
+      'Supervised brewery tours',
+      'Coastal walk has guardrails',
+      'Stay with group in busy areas',
+      'Responsible drinking encouraged'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil y plana en todo el recorrido',
+      'Tours de cervecería supervisados',
+      'Caminata costera tiene barandas',
+      'Permanecer con el grupo en áreas concurridas',
+      'Se fomenta el consumo responsable'
+    ],
+    relatedActivities: ['lima-food-tour', 'lima-cooking-class', 'miraflores-street-food'],
+    providers: [
+      { name: 'Lima Craft Beer Tours', familyFriendly: true },
+      { name: 'Urban Food Adventures', familyFriendly: true },
+      { name: 'Barranco Gastro Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'baroque-route-tour',
+    name: 'Baroque Route Art & Architecture Tour',
+    nameEs: 'Tour de Arte y Arquitectura de la Ruta Barroca',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Journey through southern Cusco\'s magnificent colonial churches on the Baroque Route, featuring some of the finest examples of Andean baroque art in the Americas. Visit the stunning Andahuaylillas Church, known as the "Sistine Chapel of the Americas," along with other artistic treasures in Huaro and Canincunca. This art-focused tour reveals the unique fusion of Spanish religious traditions with indigenous Andean creativity that defines Peru\'s colonial heritage.',
+    descriptionEs: 'Viaja por las magníficas iglesias coloniales del sur de Cusco en la Ruta Barroca, presentando algunos de los mejores ejemplos de arte barroco andino en las Américas. Visita la impresionante Iglesia de Andahuaylillas, conocida como la "Capilla Sixtina de las Américas", junto con otros tesoros artísticos en Huaro y Canincunca. Este tour enfocado en arte revela la fusión única de tradiciones religiosas españolas con la creatividad andina indígena que define el patrimonio colonial de Perú.',
+    whatToExpect: 'Begin with pickup from your Cusco hotel for the scenic drive along the South Valley road. First stop is the charming village of Andahuaylillas, where you\'ll visit the Church of San Pedro - prepare to be amazed as the modest exterior opens to reveal floor-to-ceiling baroque masterpieces. Your art historian guide explains the symbolism, pointing out indigenous elements hidden within European religious imagery. Children receive activity sheets to find specific details in the murals. Continue to Huaro to see the "Chapel of the Last Judgment" with its dramatic depictions of heaven and hell. Visit Canincunca\'s unique open-air chapel. Throughout, learn about the Cuzqueña school of painting and the mestizo artists who created these works. Return via charming villages with stops for photos of the countryside.',
+    whatToExpectEs: 'Comienza con recogida de tu hotel en Cusco para el viaje escénico por la carretera del Valle Sur. Primera parada es el encantador pueblo de Andahuaylillas, donde visitarás la Iglesia de San Pedro - prepárate para asombrarte cuando el modesto exterior se abre para revelar obras maestras barrocas del piso al techo. Tu guía historiador del arte explica el simbolismo, señalando elementos indígenas escondidos dentro de la imaginería religiosa europea. Los niños reciben hojas de actividades para encontrar detalles específicos en los murales. Continúa a Huaro para ver la "Capilla del Juicio Final" con sus dramáticas representaciones del cielo y el infierno. Visita la capilla única al aire libre de Canincunca. A lo largo del tour, aprende sobre la escuela de pintura Cuzqueña y los artistas mestizos que crearon estas obras. Regreso por pueblos encantadores con paradas para fotos del campo.',
+    highlights: [
+      'Visit the "Sistine Chapel of the Americas"',
+      'See priceless baroque murals and gold altars',
+      'Learn about indigenous-Spanish artistic fusion',
+      'Explore charming colonial villages',
+      'Family-friendly art scavenger hunt activities',
+      'Hear 400-year-old organ music demonstrations',
+      'Beautiful South Valley countryside views'
+    ],
+    highlightsEs: [
+      'Visitar la "Capilla Sixtina de las Américas"',
+      'Ver murales barrocos invaluables y altares dorados',
+      'Aprender sobre la fusión artística indígena-española',
+      'Explorar encantadores pueblos coloniales',
+      'Actividades de búsqueda del tesoro artístico para familias',
+      'Escuchar demostraciones de música de órgano de 400 años',
+      'Hermosas vistas del campo del Valle Sur'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$45-75 per person',
+    priceRangeEs: '$45-75 por persona',
+    bestTime: 'Year-round. Morning tours have best light for viewing artwork.',
+    bestTimeEs: 'Todo el año. Tours matutinos tienen mejor luz para ver obras de arte.',
+    includes: [
+      'Hotel pickup and dropoff',
+      'Art historian guide',
+      'All church entrance fees',
+      'Activity booklets for children',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Guía historiador del arte',
+      'Todas las entradas a iglesias',
+      'Cuadernillos de actividades para niños',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Dress respectfully - churches are active places of worship',
+      'Photography not allowed inside most churches',
+      'Combine with Raqchi for full day South Valley experience',
+      'Morning light is best for interior viewing',
+      'Small donations to churches appreciated'
+    ],
+    tipsEs: [
+      'Vístete respetuosamente - las iglesias son lugares de culto activos',
+      'Fotografía no permitida dentro de la mayoría de las iglesias',
+      'Combina con Raqchi para experiencia de día completo del Valle Sur',
+      'Luz matutina es mejor para ver interiores',
+      'Pequeñas donaciones a las iglesias apreciadas'
+    ],
+    safetyNotes: [
+      'Easy walking throughout',
+      'Churches have stone floors - can be cool inside',
+      'Lower altitude than Cusco - no altitude concerns',
+      'Well-maintained villages and sites',
+      'Supervised visits'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en todo el recorrido',
+      'Las iglesias tienen pisos de piedra - puede ser fresco adentro',
+      'Menor altitud que Cusco - sin preocupaciones de altitud',
+      'Pueblos y sitios bien mantenidos',
+      'Visitas supervisadas'
+    ],
+    relatedActivities: ['south-valley-tour', 'cusco-city-tour', 'tipon-water-engineering-tour'],
+    providers: [
+      { name: 'Baroque Art Tours Peru', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Cusco Art & History Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'raqchi-community-experience',
+    name: 'Raqchi Community & Temple Experience',
+    nameEs: 'Experiencia Comunitaria y del Templo de Raqchi',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Combine archaeology with authentic community interaction at Raqchi, home to the largest Inca roofed structure ever built. This immersive experience includes exploring the Temple of Wiracocha and its 200+ circular storehouses, followed by hands-on time with local artisans learning traditional ceramic techniques. Share a meal prepared by community members and support sustainable tourism that directly benefits this welcoming Andean village.',
+    descriptionEs: 'Combina arqueología con interacción comunitaria auténtica en Raqchi, hogar de la estructura techada Inca más grande jamás construida. Esta experiencia inmersiva incluye explorar el Templo de Wiracocha y sus más de 200 almacenes circulares, seguido de tiempo práctico con artesanos locales aprendiendo técnicas tradicionales de cerámica. Comparte una comida preparada por miembros de la comunidad y apoya el turismo sustentable que beneficia directamente a este acogedor pueblo andino.',
+    whatToExpect: 'Your guide meets you in Cusco for the scenic drive south through the Vilcanota Valley. Arrive at Raqchi to explore the impressive Temple of Wiracocha, where the central wall once supported South America\'s largest thatched roof. Children love exploring the circular qolqas (storehouses) and searching for resident llamas and alpacas. After the archaeological tour, join local artisans for a pottery workshop. Using the same clay their ancestors used, you\'ll learn to make a small ceramic piece to take home. Gather for lunch at the community restaurant, enjoying traditional dishes like quinoa soup, cuy al horno, or vegetarian options prepared with local ingredients. Browse the artisan market for authentic ceramics made using pre-Columbian techniques. Return to Cusco with your handmade souvenir.',
+    whatToExpectEs: 'Tu guía te encuentra en Cusco para el viaje escénico al sur a través del Valle Vilcanota. Llega a Raqchi para explorar el impresionante Templo de Wiracocha, donde el muro central una vez soportó el techo de paja más grande de Sudamérica. A los niños les encanta explorar las qolqas circulares (almacenes) y buscar las llamas y alpacas residentes. Después del tour arqueológico, únete a artesanos locales para un taller de cerámica. Usando la misma arcilla que usaron sus ancestros, aprenderás a hacer una pequeña pieza de cerámica para llevar a casa. Reúnete para almorzar en el restaurante comunitario, disfrutando platos tradicionales como sopa de quinoa, cuy al horno u opciones vegetarianas preparadas con ingredientes locales. Explora el mercado artesanal para cerámicas auténticas hechas usando técnicas precolombinas. Regresa a Cusco con tu recuerdo hecho a mano.',
+    highlights: [
+      'Explore largest Inca roofed temple structure',
+      'See 200+ ancient circular storehouses',
+      'Hands-on pottery workshop with local artisans',
+      'Traditional Andean community lunch',
+      'Meet llamas and alpacas',
+      'Support sustainable community tourism',
+      'Take home your own ceramic creation'
+    ],
+    highlightsEs: [
+      'Explorar la estructura de templo techado Inca más grande',
+      'Ver más de 200 almacenes circulares antiguos',
+      'Taller de cerámica práctico con artesanos locales',
+      'Almuerzo tradicional de comunidad andina',
+      'Conocer llamas y alpacas',
+      'Apoyar turismo comunitario sustentable',
+      'Llevarte tu propia creación de cerámica a casa'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$65-95 per person',
+    priceRangeEs: '$65-95 por persona',
+    bestTime: 'Year-round. June for annual ceramics festival. April-October dry season best.',
+    bestTimeEs: 'Todo el año. Junio para festival anual de cerámica. Temporada seca abril-octubre mejor.',
+    includes: [
+      'Transportation from Cusco',
+      'Professional bilingual guide',
+      'Site entrance fees',
+      'Pottery workshop with materials',
+      'Traditional community lunch',
+      'Take-home ceramic piece'
+    ],
+    includesEs: [
+      'Transporte desde Cusco',
+      'Guía bilingüe profesional',
+      'Entradas al sitio',
+      'Taller de cerámica con materiales',
+      'Almuerzo tradicional comunitario',
+      'Pieza de cerámica para llevar a casa'
+    ],
+    tips: [
+      'Book the June ceramics festival tour for extra activities',
+      'Bring soles for artisan market purchases',
+      'Kids love feeding the llamas (ask guide)',
+      'Can combine with Andahuaylillas Baroque Route',
+      'Community homestays available for overnight experiences'
+    ],
+    tipsEs: [
+      'Reserva el tour del festival de cerámica de junio para actividades extra',
+      'Trae soles para compras en el mercado artesanal',
+      'A los niños les encanta alimentar a las llamas (pregunta al guía)',
+      'Puede combinarse con la Ruta Barroca de Andahuaylillas',
+      'Homestays comunitarios disponibles para experiencias de noche'
+    ],
+    safetyNotes: [
+      'Easy terrain at archaeological site',
+      'Altitude 3,500m - acclimatize in Cusco first',
+      'Pottery workshop supervised for children',
+      'Gentle llamas and alpacas',
+      'Community is welcoming and safe'
+    ],
+    safetyNotesEs: [
+      'Terreno fácil en el sitio arqueológico',
+      'Altitud 3,500m - aclimatarse en Cusco primero',
+      'Taller de cerámica supervisado para niños',
+      'Llamas y alpacas dóciles',
+      'La comunidad es acogedora y segura'
+    ],
+    relatedActivities: ['baroque-route-tour', 'south-valley-tour', 'tipon-water-engineering-tour'],
+    providers: [
+      { name: 'Raqchi Community Tourism', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Responsible Travel Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'waqrapukara-adventure-trek',
+    name: 'Waqrapukara Adventure Trek',
+    nameEs: 'Trek de Aventura a Waqrapukara',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek to one of Peru\'s most spectacular and least-visited archaeological sites - Waqrapukara, the "Horn Fortress." This challenging adventure rewards active families with breathtaking views of dramatic rock spires rising above a deep canyon, an ancient Inca ceremonial site that receives fewer than 20 visitors per day, and the thrill of authentic discovery. For families with older children seeking adventure beyond the typical tourist trail.',
+    descriptionEs: 'Camina a uno de los sitios arqueológicos más espectaculares y menos visitados de Perú - Waqrapukara, la "Fortaleza del Cuerno". Esta aventura desafiante recompensa a familias activas con vistas impresionantes de agujas rocosas dramáticas elevándose sobre un cañón profundo, un sitio ceremonial Inca antiguo que recibe menos de 20 visitantes por día, y la emoción del descubrimiento auténtico. Para familias con niños mayores que buscan aventura más allá del camino turístico típico.',
+    whatToExpect: 'Depart Cusco very early (4am) for the 4-hour drive through the remote Acomayo province, watching the sunrise over Andean peaks. Your guide provides breakfast at a local family\'s home before beginning the trek from Sangarara village. The 2-3 hour hike follows ancient paths through puna grasslands, with opportunities to spot Andean condors, viscachas, and high-altitude birds. As you approach, the twin horn-like rock spires come dramatically into view. Explore the pre-Inca and Inca ceremonial platforms, temples, and carved stone features while your guide explains the site\'s astronomical significance. Enjoy a packed lunch with spectacular canyon views. The return trek feels easier with the stunning scenery behind you. Return to Cusco by evening, filled with the satisfaction of having discovered a Peru few tourists ever see.',
+    whatToExpectEs: 'Sal de Cusco muy temprano (4am) para el viaje de 4 horas a través de la remota provincia de Acomayo, observando el amanecer sobre los picos andinos. Tu guía proporciona desayuno en la casa de una familia local antes de comenzar el trek desde el pueblo de Sangarara. La caminata de 2-3 horas sigue senderos antiguos a través de pastizales de puna, con oportunidades para avistar cóndores andinos, vizcachas y aves de alta altitud. Al acercarte, las agujas rocosas gemelas en forma de cuerno aparecen dramáticamente a la vista. Explora las plataformas ceremoniales pre-Incas e Incas, templos y características de piedra tallada mientras tu guía explica la importancia astronómica del sitio. Disfruta un almuerzo empacado con espectaculares vistas del cañón. El trek de regreso se siente más fácil con el impresionante paisaje detrás de ti. Regresa a Cusco por la noche, lleno de la satisfacción de haber descubierto un Perú que pocos turistas ven.',
+    highlights: [
+      'One of Peru\'s most dramatic archaeological sites',
+      'Fewer than 20 visitors per day',
+      'Spectacular twin rock spire formations',
+      'Authentic adventure and discovery experience',
+      'Possible condor and wildlife sightings',
+      'Stunning canyon and mountain panoramas',
+      'Support remote community tourism'
+    ],
+    highlightsEs: [
+      'Uno de los sitios arqueológicos más dramáticos de Perú',
+      'Menos de 20 visitantes por día',
+      'Espectaculares formaciones de agujas rocosas gemelas',
+      'Experiencia auténtica de aventura y descubrimiento',
+      'Posibles avistamientos de cóndores y fauna',
+      'Impresionantes panoramas de cañón y montañas',
+      'Apoyar turismo de comunidades remotas'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (12-14 hours from Cusco)',
+    durationEs: 'Día completo (12-14 horas desde Cusco)',
+    difficulty: 'challenging',
+    priceRange: '$95-150 per person',
+    priceRangeEs: '$95-150 por persona',
+    bestTime: 'April-October dry season only. June-August clearest weather.',
+    bestTimeEs: 'Solo temporada seca abril-octubre. Junio-agosto clima más despejado.',
+    includes: [
+      'Round-trip transportation from Cusco',
+      'Professional guide with first aid training',
+      'Breakfast at local family home',
+      'Packed trail lunch and snacks',
+      'Community entrance fees',
+      'Trekking poles available'
+    ],
+    includesEs: [
+      'Transporte ida y vuelta desde Cusco',
+      'Guía profesional con entrenamiento de primeros auxilios',
+      'Desayuno en casa de familia local',
+      'Almuerzo empacado y snacks para el sendero',
+      'Entradas comunitarias',
+      'Bastones de trekking disponibles'
+    ],
+    tips: [
+      'Acclimatize at least 3 days in Cusco first',
+      'Start early to maximize daylight hours',
+      'Bring warm layers - weather changes fast at 4,300m',
+      'Overnight camping option available for photographers',
+      'Book several days in advance - small group sizes only'
+    ],
+    tipsEs: [
+      'Aclimatarse al menos 3 días en Cusco primero',
+      'Comenzar temprano para maximizar horas de luz',
+      'Traer capas abrigadas - el clima cambia rápido a 4,300m',
+      'Opción de camping disponible para fotógrafos',
+      'Reservar con varios días de anticipación - solo grupos pequeños'
+    ],
+    safetyNotes: [
+      'High altitude trek (4,300m) - acclimatization essential',
+      'Guide carries first aid and emergency equipment',
+      'Weather can change rapidly - rain gear required',
+      'Trek difficulty is moderate but altitude is challenging',
+      'Not suitable for those with heart or respiratory conditions'
+    ],
+    safetyNotesEs: [
+      'Trek de alta altitud (4,300m) - aclimatación esencial',
+      'Guía lleva primeros auxilios y equipo de emergencia',
+      'El clima puede cambiar rápidamente - ropa impermeable requerida',
+      'Dificultad del trek es moderada pero la altitud es desafiante',
+      'No apto para personas con condiciones cardíacas o respiratorias'
+    ],
+    relatedActivities: ['rainbow-mountain-trek', 'laguna-69-trek', 'ausangate-trek'],
+    providers: [
+      { name: 'Waqrapukara Adventures', familyFriendly: false },
+      { name: 'Off-the-Beaten-Path Peru', familyFriendly: true },
+      { name: 'Adventure Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'palomino-islands-swim',
+    name: 'Palomino Islands Sea Lion Swim Adventure',
+    nameEs: 'Aventura de Nado con Lobos Marinos en Islas Palomino',
+    type: 'nature',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Get up close with wild South American sea lions at the Palomino Islands, just 45 minutes from Lima. This unforgettable wildlife adventure offers the rare opportunity to swim alongside curious, playful sea lions in their natural ocean habitat, while also observing Humboldt penguins, countless seabirds, and possibly dolphins. One of Lima\'s best-kept secrets and a highlight for wildlife-loving families.',
+    descriptionEs: 'Acércate a los lobos marinos sudamericanos salvajes en las Islas Palomino, a solo 45 minutos de Lima. Esta inolvidable aventura de vida silvestre ofrece la rara oportunidad de nadar junto a lobos marinos curiosos y juguetones en su hábitat oceánico natural, mientras también observas pingüinos de Humboldt, innumerables aves marinas y posiblemente delfines. Uno de los secretos mejor guardados de Lima y un destacado para familias amantes de la vida silvestre.',
+    whatToExpect: 'Meet at La Punta pier in Callao, where you\'ll board a specially equipped boat with an experienced crew. During the 45-minute voyage, spot Humboldt penguins on rocky outcrops and learn about the rich Humboldt Current ecosystem. Approaching the main island, the sight and sound of thousands of sea lions is awe-inspiring. For swimmers, the crew helps you into your wetsuit before entering the water. The sea lions, particularly the curious young ones, approach swimmers playfully - an absolutely magical experience. Non-swimmers can observe from the boat, getting equally amazing views and photos. Seabirds wheel overhead in massive numbers. Dolphins are frequently spotted on the return journey. Hot chocolate and snacks await as you cruise back to the mainland, filled with incredible wildlife memories.',
+    whatToExpectEs: 'Encuéntrate en el muelle de La Punta en Callao, donde abordarás un bote especialmente equipado con una tripulación experimentada. Durante el viaje de 45 minutos, observa pingüinos de Humboldt en afloramientos rocosos y aprende sobre el rico ecosistema de la Corriente de Humboldt. Al acercarte a la isla principal, la vista y el sonido de miles de lobos marinos es impresionante. Para los nadadores, la tripulación te ayuda a ponerte tu traje de neopreno antes de entrar al agua. Los lobos marinos, particularmente los jóvenes curiosos, se acercan a los nadadores juguetonamente - una experiencia absolutamente mágica. Los no nadadores pueden observar desde el bote, obteniendo vistas y fotos igualmente increíbles. Las aves marinas vuelan sobre ti en números masivos. Los delfines se ven frecuentemente en el viaje de regreso. Chocolate caliente y snacks te esperan mientras navegas de regreso al continente, lleno de increíbles recuerdos de vida silvestre.',
+    highlights: [
+      'Swim with wild sea lions in their natural habitat',
+      'See Humboldt penguins up close',
+      'Colony of 8,000+ sea lions',
+      'Massive seabird colonies',
+      'Possible dolphin sightings',
+      'Professional crew and safety equipment',
+      'Only 45 minutes from central Lima'
+    ],
+    highlightsEs: [
+      'Nadar con lobos marinos salvajes en su hábitat natural',
+      'Ver pingüinos de Humboldt de cerca',
+      'Colonia de más de 8,000 lobos marinos',
+      'Masivas colonias de aves marinas',
+      'Posibles avistamientos de delfines',
+      'Tripulación profesional y equipo de seguridad',
+      'Solo 45 minutos del centro de Lima'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$55-85 per person',
+    priceRangeEs: '$55-85 por persona',
+    bestTime: 'Year-round. December-March warmest water. July-September most sea lion pups.',
+    bestTimeEs: 'Todo el año. Diciembre-marzo agua más cálida. Julio-septiembre más crías de lobos marinos.',
+    includes: [
+      'Boat transportation to islands',
+      'Wetsuit and snorkeling gear',
+      'Experienced bilingual crew',
+      'Safety briefing and supervision',
+      'Hot drinks and snacks on return',
+      'Hotel pickup option available'
+    ],
+    includesEs: [
+      'Transporte en bote a las islas',
+      'Traje de neopreno y equipo de snorkel',
+      'Tripulación bilingüe experimentada',
+      'Charla de seguridad y supervisión',
+      'Bebidas calientes y snacks en el regreso',
+      'Opción de recogida en hotel disponible'
+    ],
+    tips: [
+      'Swimming is optional - boat viewing is excellent',
+      'Water is cold (15-18°C) - wetsuits essential',
+      'Morning tours typically have calmer seas',
+      'Bring binoculars for birdwatching',
+      'Motion sickness medication if you\'re sensitive',
+      'Waterproof camera recommended'
+    ],
+    tipsEs: [
+      'Nadar es opcional - la vista desde el bote es excelente',
+      'El agua es fría (15-18°C) - trajes de neopreno esenciales',
+      'Tours matutinos típicamente tienen mares más tranquilos',
+      'Trae binoculares para observación de aves',
+      'Medicamento para mareo si eres sensible',
+      'Cámara impermeable recomendada'
+    ],
+    safetyNotes: [
+      'Professional crew with rescue training',
+      'Life jackets and wetsuits provided',
+      'Non-swimmers can stay on boat',
+      'Sea lions are wild but generally docile with swimmers',
+      'Weather conditions checked before departure'
+    ],
+    safetyNotesEs: [
+      'Tripulación profesional con entrenamiento de rescate',
+      'Chalecos salvavidas y trajes de neopreno proporcionados',
+      'No nadadores pueden quedarse en el bote',
+      'Lobos marinos son salvajes pero generalmente dóciles con nadadores',
+      'Condiciones climáticas verificadas antes de la salida'
+    ],
+    relatedActivities: ['ballestas-islands-tour', 'paracas-reserve-tour', 'lima-coastal-tour'],
+    providers: [
+      { name: 'Palomino Islands Tours', familyFriendly: true },
+      { name: 'Lima Wildlife Adventures', familyFriendly: true },
+      { name: 'Callao Sea Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lake-titicaca-islands-tour',
+    name: 'Lake Titicaca Islands Full Day Tour',
+    nameEs: 'Tour de Día Completo a las Islas del Lago Titicaca',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Experience the world\'s highest navigable lake and its remarkable island communities on this full-day adventure from Puno. Visit the extraordinary Uros Floating Islands, built entirely from totora reeds, then continue to Taquile Island where UNESCO-recognized textile traditions have been preserved for generations. This tour combines unique cultural encounters, stunning Andean lake scenery, and a traditional island lunch for an unforgettable family experience.',
+    descriptionEs: 'Experimenta el lago navegable más alto del mundo y sus notables comunidades isleñas en esta aventura de día completo desde Puno. Visita las extraordinarias Islas Flotantes de los Uros, construidas enteramente de cañas de totora, luego continúa a la Isla Taquile donde tradiciones textiles reconocidas por UNESCO han sido preservadas por generaciones. Este tour combina encuentros culturales únicos, impresionantes paisajes del lago andino y un almuerzo tradicional isleño para una experiencia familiar inolvidable.',
+    whatToExpect: 'Board a comfortable boat at Puno port for the journey across Lake Titicaca\'s startlingly blue waters. Your first stop is the Uros Floating Islands, where children are amazed to walk on spongy reed surfaces that give slightly underfoot. A Uros family demonstrates how they build and maintain their islands from totora reeds, and kids can help add new layers. Optional short rides on traditional reed boats are available. Continue across the lake to Taquile Island - the approach reveals dramatic terraced hillsides rising from the water. Climb the 533 stone steps (take your time at this altitude) to the charming village plaza. Watch men skillfully knitting traditional chullos and women weaving colorful textiles. Enjoy a simple but delicious traditional lunch of quinoa soup and lake trout. Browse the textile cooperative for authentic handmade goods before the return journey as the afternoon light turns the mountains gold.',
+    whatToExpectEs: 'Aborda un bote cómodo en el puerto de Puno para el viaje a través de las aguas sorprendentemente azules del Lago Titicaca. Tu primera parada son las Islas Flotantes de los Uros, donde los niños se asombran de caminar sobre superficies de caña esponjosas que ceden ligeramente bajo los pies. Una familia Uros demuestra cómo construyen y mantienen sus islas de cañas de totora, y los niños pueden ayudar a añadir nuevas capas. Paseos cortos opcionales en botes tradicionales de caña están disponibles. Continúa a través del lago a la Isla Taquile - la aproximación revela dramáticas laderas en terrazas elevándose desde el agua. Sube los 533 escalones de piedra (tómate tu tiempo a esta altitud) hasta la encantadora plaza del pueblo. Observa a hombres tejiendo hábilmente chullos tradicionales y mujeres tejiendo textiles coloridos. Disfruta un almuerzo tradicional simple pero delicioso de sopa de quinoa y trucha del lago. Explora la cooperativa textil para artículos auténticos hechos a mano antes del viaje de regreso mientras la luz de la tarde tiñe las montañas de oro.',
+    highlights: [
+      'Walk on unique floating reed islands',
+      'Learn how Uros families build island homes',
+      'See UNESCO-recognized textile traditions',
+      'Traditional Taquileña lunch included',
+      'Stunning Lake Titicaca panoramas',
+      'Ride traditional totora reed boats',
+      'Support local island communities'
+    ],
+    highlightsEs: [
+      'Caminar sobre islas flotantes de caña únicas',
+      'Aprender cómo las familias Uros construyen hogares en la isla',
+      'Ver tradiciones textiles reconocidas por UNESCO',
+      'Almuerzo tradicional Taquileño incluido',
+      'Impresionantes panoramas del Lago Titicaca',
+      'Navegar en botes tradicionales de caña de totora',
+      'Apoyar comunidades isleñas locales'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'moderate',
+    priceRange: '$35-60 per person',
+    priceRangeEs: '$35-60 por persona',
+    bestTime: 'Year-round. April-October dry season has clearest weather. Morning departures have calmest waters.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre tiene clima más despejado. Salidas matutinas tienen aguas más tranquilas.',
+    includes: [
+      'Round-trip boat transport',
+      'Bilingual guide',
+      'Uros community fee',
+      'Taquile entrance fee',
+      'Traditional lunch on Taquile',
+      'Hotel pickup (most tours)'
+    ],
+    includesEs: [
+      'Transporte en bote ida y vuelta',
+      'Guía bilingüe',
+      'Tarifa comunitaria Uros',
+      'Entrada a Taquile',
+      'Almuerzo tradicional en Taquile',
+      'Recogida del hotel (mayoría de tours)'
+    ],
+    tips: [
+      'Acclimatize in Puno at least one day before',
+      'Bring warm layers - lake winds can be cold',
+      'Take the Taquile climb slowly at 3,950m altitude',
+      'Cash for handicrafts and optional reed boat rides',
+      'Sun protection essential at this altitude'
+    ],
+    tipsEs: [
+      'Aclimatarse en Puno al menos un día antes',
+      'Trae capas abrigadas - los vientos del lago pueden ser fríos',
+      'Sube a Taquile lentamente a 3,950m de altitud',
+      'Efectivo para artesanías y paseos opcionales en bote de caña',
+      'Protección solar esencial a esta altitud'
+    ],
+    safetyNotes: [
+      'High altitude (3,812-3,950m) - acclimatization essential',
+      'Boats have life jackets and safety equipment',
+      'Taquile climb is steep but well-maintained steps',
+      'Sun exposure intense - UV protection needed',
+      'Cold water - no swimming recommended'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,812-3,950m) - aclimatación esencial',
+      'Botes tienen chalecos salvavidas y equipo de seguridad',
+      'Subida a Taquile es empinada pero escalones bien mantenidos',
+      'Exposición solar intensa - protección UV necesaria',
+      'Agua fría - no se recomienda nadar'
+    ],
+    relatedActivities: ['puno-cultural-tour', 'sillustani-tour', 'titicaca-homestay'],
+    providers: [
+      { name: 'Titicaca Explorer', familyFriendly: true },
+      { name: 'Puno Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'nazca-lines-flight',
+    name: 'Nazca Lines Overflight Experience',
+    nameEs: 'Experiencia de Sobrevuelo de las Líneas de Nazca',
+    type: 'adventure',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Soar above one of archaeology\'s greatest mysteries on this thrilling flight over the Nazca Lines. These enormous ancient geoglyphs - some over 300 meters across - can only be truly appreciated from the air, where the famous hummingbird, monkey, spider, and dozens of other designs reveal themselves across the desert canvas. A bucket-list experience that combines aerial adventure with ancient archaeological wonder.',
+    descriptionEs: 'Sobrevuela uno de los mayores misterios de la arqueología en este emocionante vuelo sobre las Líneas de Nazca. Estos enormes geoglifos antiguos - algunos de más de 300 metros de ancho - solo pueden apreciarse verdaderamente desde el aire, donde el famoso colibrí, mono, araña y docenas de otros diseños se revelan a través del lienzo del desierto. Una experiencia de lista de deseos que combina aventura aérea con maravilla arqueológica antigua.',
+    whatToExpect: 'Arrive at Nazca Airport for your pre-flight briefing, where pilots explain the route and which figures you\'ll see from each side of the aircraft. Board a small Cessna aircraft (typically 6-12 passengers) and take off over the coastal desert. The pilot banks the aircraft left and right to give passengers on both sides clear views of each figure. Watch for the famous hummingbird, with its perfectly proportioned beak and wings. Marvel at the monkey with its curled tail, the spider, the whale, and the mysterious astronaut. Your pilot and guide point out each figure as it appears below. After viewing 12-14 major geoglyphs over 30-35 minutes, return to the airport buzzing with excitement over what you\'ve witnessed. Consider visiting the Maria Reiche museum and observation tower afterward to understand the woman who dedicated her life to protecting these lines.',
+    whatToExpectEs: 'Llega al Aeropuerto de Nazca para tu charla pre-vuelo, donde los pilotos explican la ruta y qué figuras verás desde cada lado de la aeronave. Aborda una pequeña aeronave Cessna (típicamente 6-12 pasajeros) y despega sobre el desierto costero. El piloto inclina la aeronave a izquierda y derecha para dar a los pasajeros de ambos lados vistas claras de cada figura. Busca el famoso colibrí, con su pico y alas perfectamente proporcionados. Maravíllate con el mono de cola enroscada, la araña, la ballena y el misterioso astronauta. Tu piloto y guía señalan cada figura mientras aparece abajo. Después de ver 12-14 geoglifos principales durante 30-35 minutos, regresa al aeropuerto emocionado por lo que has presenciado. Considera visitar el museo Maria Reiche y la torre de observación después para entender a la mujer que dedicó su vida a proteger estas líneas.',
+    highlights: [
+      'See 12-14 major Nazca Line figures',
+      'Famous hummingbird, monkey, and spider',
+      'UNESCO World Heritage Site',
+      'Unique aerial perspective',
+      'Professional experienced pilots',
+      'One of world\'s great archaeological mysteries',
+      'Certificate of flight completion'
+    ],
+    highlightsEs: [
+      'Ver 12-14 figuras principales de las Líneas de Nazca',
+      'Famoso colibrí, mono y araña',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Perspectiva aérea única',
+      'Pilotos profesionales experimentados',
+      'Uno de los grandes misterios arqueológicos del mundo',
+      'Certificado de finalización de vuelo'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '30-35 minutes flight (2-3 hours total experience)',
+    durationEs: '30-35 minutos de vuelo (2-3 horas experiencia total)',
+    difficulty: 'easy',
+    priceRange: '$80-120 per person',
+    priceRangeEs: '$80-120 por persona',
+    bestTime: 'Year-round. Morning flights (8-10am) have least turbulence. Avoid midday heat.',
+    bestTimeEs: 'Todo el año. Vuelos matutinos (8-10am) tienen menos turbulencia. Evitar calor del mediodía.',
+    includes: [
+      'Nazca Lines overflight',
+      'Pre-flight safety briefing',
+      'Airport taxes and fees',
+      'Certificate of completion',
+      'Some tours include hotel pickup'
+    ],
+    includesEs: [
+      'Sobrevuelo de las Líneas de Nazca',
+      'Charla de seguridad pre-vuelo',
+      'Impuestos y tarifas de aeropuerto',
+      'Certificado de finalización',
+      'Algunos tours incluyen recogida del hotel'
+    ],
+    tips: [
+      'Take motion sickness medication 30 minutes before flight',
+      'Avoid large meals before flying',
+      'Window seats standard on small aircraft',
+      'Morning flights have smoother conditions',
+      'Bring camera with good zoom lens'
+    ],
+    tipsEs: [
+      'Toma medicamento para mareo 30 minutos antes del vuelo',
+      'Evita comidas grandes antes de volar',
+      'Asientos de ventana estándar en aeronaves pequeñas',
+      'Vuelos matutinos tienen condiciones más suaves',
+      'Trae cámara con buena lente zoom'
+    ],
+    safetyNotes: [
+      'All flights operated by certified pilots',
+      'Aircraft undergo regular safety inspections',
+      'Motion sickness common due to banking turns',
+      'Weather conditions checked before all flights',
+      'Weight limits apply for aircraft balance'
+    ],
+    safetyNotesEs: [
+      'Todos los vuelos operados por pilotos certificados',
+      'Aeronaves se someten a inspecciones de seguridad regulares',
+      'Mareo común debido a giros inclinados',
+      'Condiciones climáticas verificadas antes de todos los vuelos',
+      'Límites de peso aplican para balance de aeronave'
+    ],
+    relatedActivities: ['nazca-archaeology-tour', 'huacachina-adventure', 'paracas-reserve-tour'],
+    providers: [
+      { name: 'Aero Nazca', familyFriendly: true },
+      { name: 'Nazca Flights', familyFriendly: true },
+      { name: 'AeroParacas', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'titicaca-homestay',
+    name: 'Lake Titicaca Overnight Homestay Experience',
+    nameEs: 'Experiencia de Homestay en el Lago Titicaca',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Go beyond day tourism with an overnight homestay on Amantaní or Taquile Island, experiencing authentic Andean island life with a local family. Share traditional meals, learn about ancient customs, participate in evening activities, and witness spectacular sunsets and sunrises over Lake Titicaca. This immersive experience offers families a profound connection with indigenous culture and the chance to support sustainable community tourism.',
+    descriptionEs: 'Ve más allá del turismo de día con un homestay de una noche en la Isla Amantaní o Taquile, experimentando vida isleña andina auténtica con una familia local. Comparte comidas tradicionales, aprende sobre costumbres antiguas, participa en actividades nocturnas y presencia espectaculares atardeceres y amaneceres sobre el Lago Titicaca. Esta experiencia inmersiva ofrece a las familias una conexión profunda con la cultura indígena y la oportunidad de apoyar turismo comunitario sustentable.',
+    whatToExpect: 'Travel by boat across Lake Titicaca, visiting the Uros Floating Islands en route before continuing to Amantaní or Taquile Island. Upon arrival, meet your host family who will welcome you into their adobe home. The community assigns families on a rotating basis to ensure fair distribution of tourism benefits. Settle into your simple but clean room and join your family for lunch featuring local potatoes, quinoa, and lake fish. Spend the afternoon exploring the island, visiting pre-Inca temple sites, or learning traditional activities from your hosts. Watch the sunset from a hilltop temple with fellow travelers. Evening brings traditional music and dancing in the community hall - families often dress guests in traditional clothing to join the festivities. After a home-cooked dinner by candlelight (electricity is limited), sleep under brilliantly clear Andean skies. Wake to sunrise over the lake before breakfast and the journey home.',
+    whatToExpectEs: 'Viaja en bote a través del Lago Titicaca, visitando las Islas Flotantes de los Uros en el camino antes de continuar a la Isla Amantaní o Taquile. Al llegar, conoce a tu familia anfitriona que te dará la bienvenida a su hogar de adobe. La comunidad asigna familias en rotación para asegurar distribución justa de beneficios del turismo. Instálate en tu habitación simple pero limpia y únete a tu familia para el almuerzo con papas locales, quinoa y pescado del lago. Pasa la tarde explorando la isla, visitando sitios de templos pre-Incas, o aprendiendo actividades tradicionales de tus anfitriones. Observa el atardecer desde un templo en la colina con otros viajeros. La noche trae música y baile tradicional en el salón comunitario - las familias a menudo visten a los huéspedes con ropa tradicional para unirse a las festividades. Después de una cena casera a la luz de las velas (la electricidad es limitada), duerme bajo cielos andinos brillantemente claros. Despierta al amanecer sobre el lago antes del desayuno y el viaje de regreso.',
+    highlights: [
+      'Stay overnight with indigenous island family',
+      'Experience authentic Andean island life',
+      'Spectacular sunset and sunrise over the lake',
+      'Traditional music and dance evening',
+      'Learn local customs and traditions',
+      'Home-cooked traditional meals',
+      'Support sustainable community tourism'
+    ],
+    highlightsEs: [
+      'Quedarse una noche con familia isleña indígena',
+      'Experimentar vida isleña andina auténtica',
+      'Espectacular atardecer y amanecer sobre el lago',
+      'Noche de música y baile tradicional',
+      'Aprender costumbres y tradiciones locales',
+      'Comidas tradicionales caseras',
+      'Apoyar turismo comunitario sustentable'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2 days / 1 night',
+    durationEs: '2 días / 1 noche',
+    difficulty: 'moderate',
+    priceRange: '$55-90 per person',
+    priceRangeEs: '$55-90 por persona',
+    bestTime: 'Year-round. April-October dry season for clearest skies and sunsets.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre para cielos más claros y atardeceres.',
+    includes: [
+      'Boat transport both days',
+      'Homestay accommodation',
+      'All meals (lunch, dinner, breakfast)',
+      'Community fees',
+      'Traditional evening activities',
+      'Guide services'
+    ],
+    includesEs: [
+      'Transporte en bote ambos días',
+      'Alojamiento en homestay',
+      'Todas las comidas (almuerzo, cena, desayuno)',
+      'Tarifas comunitarias',
+      'Actividades tradicionales nocturnas',
+      'Servicios de guía'
+    ],
+    tips: [
+      'Bring warm clothes - island nights are cold',
+      'Pack flashlight for evening walks',
+      'Basic accommodations - sleeping bags available',
+      'Bring small gifts for host family children',
+      'Cash for handicrafts - no ATMs on islands'
+    ],
+    tipsEs: [
+      'Trae ropa abrigada - las noches en la isla son frías',
+      'Empaca linterna para caminatas nocturnas',
+      'Alojamiento básico - bolsas de dormir disponibles',
+      'Trae pequeños regalos para niños de la familia anfitriona',
+      'Efectivo para artesanías - sin cajeros en las islas'
+    ],
+    safetyNotes: [
+      'High altitude (3,900m) - acclimatize before',
+      'Basic but safe accommodations',
+      'Cold nights - extra blankets provided',
+      'Limited electricity and modern amenities',
+      'Boat travel supervised by experienced crews'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,900m) - aclimatarse antes',
+      'Alojamiento básico pero seguro',
+      'Noches frías - mantas extra proporcionadas',
+      'Electricidad y amenidades modernas limitadas',
+      'Viaje en bote supervisado por tripulaciones experimentadas'
+    ],
+    relatedActivities: ['lake-titicaca-islands-tour', 'sillustani-tour', 'puno-cultural-tour'],
+    providers: [
+      { name: 'Titicaca Responsible Tourism', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Puno Homestay Network', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'caral-archaeology-tour',
+    name: 'Caral Ancient City Archaeological Tour',
+    nameEs: 'Tour Arqueológico a la Ciudad Antigua de Caral',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Journey to the oldest city in the Americas on this educational day trip from Lima. Caral\'s 5,000-year-old pyramids are contemporary with ancient Egypt, yet remained unknown until 1996. This UNESCO World Heritage Site offers families a mind-expanding experience exploring a sophisticated civilization that developed peacefully, without evidence of warfare. Walk among massive pyramids, sunken plazas, and ongoing archaeological excavations that continue to rewrite the history of the New World.',
+    descriptionEs: 'Viaja a la ciudad más antigua de las Américas en esta excursión educativa de un día desde Lima. Las pirámides de 5,000 años de Caral son contemporáneas con el antiguo Egipto, pero permanecieron desconocidas hasta 1996. Este Sitio Patrimonio de la Humanidad UNESCO ofrece a las familias una experiencia que expande la mente explorando una civilización sofisticada que se desarrolló pacíficamente, sin evidencia de guerra. Camina entre pirámides masivas, plazas hundidas y excavaciones arqueológicas en curso que continúan reescribiendo la historia del Nuevo Mundo.',
+    whatToExpect: 'Depart Lima early morning for the scenic 3-4 hour drive north through coastal desert landscapes. Stop at Supe valley viewpoints overlooking the Pacific Ocean. Arrive at Caral Visitor Center for a brief museum visit introducing the Norte Chico civilization. Join a mandatory guided tour (included) through the 66-hectare site. Your expert guide explains how this 5,000-year-old city predates even the invention of pottery. Marvel at the Pyramid Mayor rising 18 meters, one of six major pyramid complexes. Descend into sunken circular plazas used for ceremonies. See the Altar of Sacred Fire and evidence of sophisticated astronomical observation. Learn about the peaceful society that developed here without weapons or defensive walls. Enjoy lunch at the on-site cafeteria or local restaurant before the return journey. Optional stop at Supe beach for a dip in the Pacific.',
+    whatToExpectEs: 'Sal de Lima temprano en la mañana para el viaje escénico de 3-4 horas al norte a través de paisajes de desierto costero. Para en miradores del valle de Supe con vista al Océano Pacífico. Llega al Centro de Visitantes de Caral para una breve visita al museo introduciendo la civilización Norte Chico. Únete a un tour guiado obligatorio (incluido) a través del sitio de 66 hectáreas. Tu guía experto explica cómo esta ciudad de 5,000 años es anterior incluso a la invención de la cerámica. Maravíllate con la Pirámide Mayor de 18 metros, uno de seis complejos piramidales mayores. Desciende a plazas circulares hundidas usadas para ceremonias. Ve el Altar del Fuego Sagrado y evidencia de observación astronómica sofisticada. Aprende sobre la sociedad pacífica que se desarrolló aquí sin armas ni muros defensivos. Disfruta el almuerzo en la cafetería del sitio o restaurante local antes del viaje de regreso. Parada opcional en la playa de Supe para un chapuzón en el Pacífico.',
+    highlights: [
+      'Oldest city in the Americas (5,000 years old)',
+      'Contemporary with Egyptian pyramids',
+      'UNESCO World Heritage Site',
+      'Six major pyramid complexes',
+      'Evidence of peaceful ancient civilization',
+      'Ongoing archaeological discoveries',
+      'Expert guided tour included'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas (5,000 años)',
+      'Contemporánea con las pirámides egipcias',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Seis complejos piramidales mayores',
+      'Evidencia de civilización antigua pacífica',
+      'Descubrimientos arqueológicos en curso',
+      'Tour guiado experto incluido'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (10-12 hours from Lima)',
+    durationEs: 'Día completo (10-12 horas desde Lima)',
+    difficulty: 'easy',
+    priceRange: '$85-130 per person',
+    priceRangeEs: '$85-130 por persona',
+    bestTime: 'Year-round. Coastal desert climate. Morning arrivals avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero. Llegadas matutinas evitan calor de la tarde.',
+    includes: [
+      'Round-trip transport from Lima',
+      'Professional bilingual guide',
+      'Caral entrance fee',
+      'Mandatory site guided tour',
+      'Lunch (most tours)',
+      'Water and snacks'
+    ],
+    includesEs: [
+      'Transporte ida y vuelta desde Lima',
+      'Guía bilingüe profesional',
+      'Entrada a Caral',
+      'Tour guiado obligatorio del sitio',
+      'Almuerzo (mayoría de tours)',
+      'Agua y snacks'
+    ],
+    tips: [
+      'Bring sun protection - no shade at the site',
+      'Comfortable walking shoes essential',
+      'Excellent educational experience for school-age kids',
+      'Combine with Supe beach for afternoon swim',
+      'Bring cash for optional purchases'
+    ],
+    tipsEs: [
+      'Trae protección solar - sin sombra en el sitio',
+      'Zapatos cómodos para caminar esenciales',
+      'Excelente experiencia educativa para niños en edad escolar',
+      'Combina con playa de Supe para nado en la tarde',
+      'Trae efectivo para compras opcionales'
+    ],
+    safetyNotes: [
+      'Low altitude coastal site - no acclimatization needed',
+      'Hot desert climate - hydration essential',
+      'Easy flat walking throughout site',
+      'Stay on designated paths',
+      'Guided tours ensure safe exploration'
+    ],
+    safetyNotesEs: [
+      'Sitio costero de baja altitud - no necesita aclimatación',
+      'Clima de desierto caliente - hidratación esencial',
+      'Caminata fácil y plana en todo el sitio',
+      'Permanecer en senderos designados',
+      'Tours guiados aseguran exploración segura'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-museum-tour', 'lima-archaeological-sites'],
+    providers: [
+      { name: 'Peru Archaeological Tours', familyFriendly: true },
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Ancient Peru Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sillustani-tour',
+    name: 'Sillustani Burial Towers Tour',
+    nameEs: 'Tour a las Torres Funerarias de Sillustani',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Visit one of Peru\'s most photogenic archaeological sites on this half-day tour to Sillustani, where mysterious circular burial towers called chullpas rise against the dramatic backdrop of Lake Umayo. Learn about pre-Inca and Inca funerary traditions, spot wild vicuñas on the windswept peninsula, and capture stunning photographs of these engineering marvels. Perfect for combining with a Lake Titicaca islands tour for a full day of Puno region highlights.',
+    descriptionEs: 'Visita uno de los sitios arqueológicos más fotogénicos de Perú en este tour de medio día a Sillustani, donde misteriosas torres funerarias circulares llamadas chullpas se alzan contra el dramático telón de fondo del Lago Umayo. Aprende sobre tradiciones funerarias pre-Incas e Incas, avista vicuñas salvajes en la península azotada por el viento y captura fotografías impresionantes de estas maravillas de la ingeniería. Perfecto para combinar con un tour a las islas del Lago Titicaca para un día completo de lo mejor de la región de Puno.',
+    whatToExpect: 'Depart Puno in the early afternoon for the scenic 45-minute drive through the altiplano, passing traditional Aymara communities and grazing alpacas. Arrive at Sillustani as the afternoon light begins to warm the ancient stone towers. Your guide explains how the Colla people built these remarkable structures wider at the top than the base, defying conventional engineering. Explore the various chullpas, learning how they housed mummified nobility with their grave goods for the afterlife. Watch for wild vicuñas that often graze near the towers. Walk the peninsula trail for spectacular views across Lake Umayo. Visit the small museum displaying artifacts and learn about the Spanish looting that occurred in colonial times. Return to Puno as the golden hour light creates magical photo opportunities with the towers silhouetted against the lake.',
+    whatToExpectEs: 'Sal de Puno temprano por la tarde para el viaje escénico de 45 minutos a través del altiplano, pasando comunidades tradicionales Aymara y alpacas pastando. Llega a Sillustani cuando la luz de la tarde comienza a calentar las antiguas torres de piedra. Tu guía explica cómo el pueblo Colla construyó estas notables estructuras más anchas en la parte superior que en la base, desafiando la ingeniería convencional. Explora las varias chullpas, aprendiendo cómo albergaban a la nobleza momificada con sus objetos funerarios para la otra vida. Busca vicuñas salvajes que frecuentemente pastan cerca de las torres. Camina por el sendero de la península para vistas espectaculares del Lago Umayo. Visita el pequeño museo que exhibe artefactos y aprende sobre el saqueo español que ocurrió en tiempos coloniales. Regresa a Puno mientras la luz de la hora dorada crea oportunidades fotográficas mágicas con las torres silueteadas contra el lago.',
+    highlights: [
+      'See dramatic pre-Inca burial towers',
+      'Stunning Lake Umayo backdrop',
+      'Spot wild vicuñas grazing',
+      'Golden hour photography opportunities',
+      'Learn about ancient burial practices',
+      'Visit local Aymara communities',
+      'Small museum with artifacts'
+    ],
+    highlightsEs: [
+      'Ver dramáticas torres funerarias pre-Incas',
+      'Impresionante telón de fondo del Lago Umayo',
+      'Avistar vicuñas salvajes pastando',
+      'Oportunidades de fotografía de hora dorada',
+      'Aprender sobre prácticas funerarias antiguas',
+      'Visitar comunidades locales Aymara',
+      'Pequeño museo con artefactos'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 per person',
+    priceRangeEs: '$25-45 por persona',
+    bestTime: 'Year-round. Afternoon tours (2-3pm departure) have best photography light.',
+    bestTimeEs: 'Todo el año. Tours de tarde (salida 2-3pm) tienen mejor luz para fotografía.',
+    includes: [
+      'Hotel pickup and dropoff',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Site entrance fee',
+      'Museum visit'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Transporte privado',
+      'Guía bilingüe profesional',
+      'Entrada al sitio',
+      'Visita al museo'
+    ],
+    tips: [
+      'Afternoon tours have best light for photos',
+      'Dress in warm layers - site is very windy',
+      'Combine with morning Lake Titicaca tour',
+      'Bring snacks - no food services at site',
+      'Local families sell handicrafts at entrance'
+    ],
+    tipsEs: [
+      'Tours de tarde tienen mejor luz para fotos',
+      'Vístete en capas abrigadas - el sitio es muy ventoso',
+      'Combina con tour matutino del Lago Titicaca',
+      'Trae snacks - sin servicios de comida en el sitio',
+      'Familias locales venden artesanías en la entrada'
+    ],
+    safetyNotes: [
+      'High altitude (3,840m) - acclimatize first',
+      'Very windy conditions common',
+      'Uneven terrain - sturdy footwear recommended',
+      'No railings near cliff edges - supervise children',
+      'Sun protection essential at altitude'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,840m) - aclimatarse primero',
+      'Condiciones muy ventosas comunes',
+      'Terreno irregular - calzado resistente recomendado',
+      'Sin barandas cerca de bordes de acantilados - supervisar niños',
+      'Protección solar esencial a esta altitud'
+    ],
+    relatedActivities: ['lake-titicaca-islands-tour', 'titicaca-homestay', 'puno-cultural-tour'],
+    providers: [
+      { name: 'Puno Travel Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Titicaca Explorer', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pachacamac-tour',
+    name: 'Pachacamac Archaeological Tour',
+    nameEs: 'Tour Arqueológico a Pachacamac',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Explore Lima\'s most important archaeological site on this half-day tour to Pachacamac, the ancient pilgrimage center that drew worshippers for nearly 2,000 years. Walk among massive adobe pyramids, visit the excellent on-site museum, and learn how multiple civilizations - Lima, Wari, Ychsma, and Inca - left their mark on this sacred site. An easy escape from Lima\'s bustle that reveals Peru\'s rich pre-Columbian coastal heritage.',
+    descriptionEs: 'Explora el sitio arqueológico más importante de Lima en este tour de medio día a Pachacamac, el antiguo centro de peregrinación que atrajo adoradores por casi 2,000 años. Camina entre masivas pirámides de adobe, visita el excelente museo en el sitio y aprende cómo múltiples civilizaciones - Lima, Wari, Ychsma e Inca - dejaron su marca en este sitio sagrado. Un escape fácil del bullicio de Lima que revela el rico patrimonio costero precolombino de Perú.',
+    whatToExpect: 'Your guide picks you up from your Lima hotel for the 40-minute drive south through coastal desert landscapes. Begin at the modern Pachacamac Museum, where exhibits introduce the site\'s fascinating multi-layered history and display remarkable artifacts including the famous Pachacamac Idol. Continue into the 600-hectare archaeological complex, visiting the Inca Temple of the Sun with its commanding views to the Pacific Ocean. Explore the Acllawasi (house of chosen women) and Painted Temple with its colorful murals. Walk through the main plaza where pilgrims once gathered seeking prophecies from the oracle. Your guide brings the site to life with stories of its various occupations and the Spanish conquistadors who arrived in 1533. Optionally rent bicycles to cover more ground. Return to Lima with a deeper understanding of Peru\'s coastal civilizations.',
+    whatToExpectEs: 'Tu guía te recoge de tu hotel en Lima para el viaje de 40 minutos al sur a través de paisajes de desierto costero. Comienza en el moderno Museo Pachacamac, donde exhibiciones introducen la fascinante historia multicapa del sitio y exhiben notables artefactos incluyendo el famoso Ídolo de Pachacamac. Continúa al complejo arqueológico de 600 hectáreas, visitando el Templo del Sol Inca con sus vistas dominantes al Océano Pacífico. Explora el Acllawasi (casa de mujeres escogidas) y el Templo Pintado con sus murales coloridos. Camina por la plaza principal donde peregrinos una vez se reunían buscando profecías del oráculo. Tu guía da vida al sitio con historias de sus varias ocupaciones y los conquistadores españoles que llegaron en 1533. Opcionalmente alquila bicicletas para cubrir más terreno. Regresa a Lima con una comprensión más profunda de las civilizaciones costeras de Perú.',
+    highlights: [
+      'Major pilgrimage site for 2,000 years',
+      'Excellent modern museum',
+      'Multiple civilizations represented',
+      'Inca Temple of the Sun',
+      'Pacific Ocean views',
+      'Only 40 minutes from Lima',
+      'Optional bicycle exploration'
+    ],
+    highlightsEs: [
+      'Importante sitio de peregrinación por 2,000 años',
+      'Excelente museo moderno',
+      'Múltiples civilizaciones representadas',
+      'Templo del Sol Inca',
+      'Vistas al Océano Pacífico',
+      'Solo 40 minutos de Lima',
+      'Exploración opcional en bicicleta'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$45-70 per person',
+    priceRangeEs: '$45-70 por persona',
+    bestTime: 'Year-round. Summer (December-March) has clearer skies. Morning tours avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Verano (diciembre-marzo) tiene cielos más claros. Tours matutinos evitan calor de la tarde.',
+    includes: [
+      'Hotel pickup and dropoff',
+      'Private transportation',
+      'Professional bilingual guide',
+      'Site and museum entrance',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Transporte privado',
+      'Guía bilingüe profesional',
+      'Entrada al sitio y museo',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Start with museum for context before exploring',
+      'Bring sun protection - limited shade at site',
+      'Comfortable walking shoes essential',
+      'Bicycle rental available for covering large site',
+      'Combine with southern Lima beaches afterward'
+    ],
+    tipsEs: [
+      'Comienza con museo para contexto antes de explorar',
+      'Trae protección solar - sombra limitada en el sitio',
+      'Zapatos cómodos para caminar esenciales',
+      'Alquiler de bicicletas disponible para cubrir gran sitio',
+      'Combina con playas del sur de Lima después'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Hot in summer - hydration important',
+      'Easy flat walking throughout',
+      'Stay on designated paths',
+      'Some areas still under excavation'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Caliente en verano - hidratación importante',
+      'Caminata fácil y plana en todo el recorrido',
+      'Permanecer en senderos designados',
+      'Algunas áreas aún bajo excavación'
+    ],
+    relatedActivities: ['caral-archaeology-tour', 'lima-museum-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Peru Archaeological Tours', familyFriendly: true },
+      { name: 'Lima Day Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tambopata-amazon-adventure',
+    name: 'Tambopata Amazon Family Adventure',
+    nameEs: 'Aventura Amazónica Familiar en Tambopata',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Immerse your family in one of Earth\'s most biodiverse ecosystems on this unforgettable Tambopata rainforest adventure. From watching hundreds of macaws gather at clay licks to spotting giant river otters on oxbow lakes, from piranha fishing to night walks searching for caimans, this jungle experience delivers once-in-a-lifetime wildlife encounters. Based at comfortable eco-lodges deep in the reserve, families discover the magic of the Amazon guided by expert naturalists.',
+    descriptionEs: 'Sumerge a tu familia en uno de los ecosistemas más biodiversos de la Tierra en esta inolvidable aventura en la selva de Tambopata. Desde observar cientos de guacamayos reunirse en colpas hasta avistar nutrias gigantes de río en lagos de herradura, desde pescar pirañas hasta caminatas nocturnas buscando caimanes, esta experiencia en la selva ofrece encuentros con vida silvestre únicos en la vida. Basados en cómodos eco-lodges en lo profundo de la reserva, las familias descubren la magia de la Amazonía guiados por naturalistas expertos.',
+    whatToExpect: 'Fly into Puerto Maldonado and transfer by motorized canoe deep into the Tambopata Reserve (1-5 hours depending on lodge location). Settle into your comfortable jungle lodge, elevated on stilts with screened rooms and rainforest views. Each day brings new adventures: Early morning macaw clay lick excursions reveal hundreds of colorful parrots gathering to eat mineral-rich clay. Canoe to oxbow lakes searching for giant river otters, the world\'s largest otter species. Walk canopy bridges and platforms high above the forest floor for a bird\'s-eye view. Try piranha fishing (catch and release) - kids love the excitement. Night walks with spotlights reveal caimans, frogs, spiders, and nocturnal mammals. Visit indigenous communities to learn traditional jungle skills. Between excursions, relax at the lodge, spot monkeys from the hammock deck, and listen to the symphony of the rainforest.',
+    whatToExpectEs: 'Vuela a Puerto Maldonado y transfiere en canoa motorizada profundamente en la Reserva Tambopata (1-5 horas dependiendo de la ubicación del lodge). Instálate en tu cómodo lodge de selva, elevado sobre pilotes con habitaciones con mallas y vistas a la selva. Cada día trae nuevas aventuras: Excursiones matutinas a colpas de guacamayos revelan cientos de coloridos loros reuniéndose para comer arcilla rica en minerales. Navega en canoa a lagos de herradura buscando nutrias gigantes de río, la especie de nutria más grande del mundo. Camina por puentes y plataformas de dosel muy arriba del suelo del bosque para una vista a ojo de pájaro. Prueba pescar pirañas (captura y suelta) - a los niños les encanta la emoción. Caminatas nocturnas con linternas revelan caimanes, ranas, arañas y mamíferos nocturnos. Visita comunidades indígenas para aprender habilidades tradicionales de la selva. Entre excursiones, relájate en el lodge, avista monos desde la terraza de hamacas y escucha la sinfonía de la selva.',
+    highlights: [
+      'World-famous macaw clay licks',
+      'Giant river otter sightings',
+      'Piranha fishing excursions',
+      'Canopy walkways and platforms',
+      'Night wildlife walks',
+      'Indigenous community visits',
+      'Expert naturalist guides'
+    ],
+    highlightsEs: [
+      'Colpas de guacamayos mundialmente famosas',
+      'Avistamientos de nutrias gigantes de río',
+      'Excursiones de pesca de pirañas',
+      'Pasarelas y plataformas de dosel',
+      'Caminatas nocturnas de fauna',
+      'Visitas a comunidades indígenas',
+      'Guías naturalistas expertos'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-5 days recommended',
+    durationEs: '3-5 días recomendados',
+    difficulty: 'moderate',
+    priceRange: '$400-800 per person (3-4 day all-inclusive)',
+    priceRangeEs: '$400-800 por persona (3-4 días todo incluido)',
+    bestTime: 'Year-round. Dry season (May-October) easier travel. Wet season sees more wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) viaje más fácil. Temporada húmeda tiene más actividad de fauna.',
+    includes: [
+      'Puerto Maldonado transfers',
+      'Jungle lodge accommodation',
+      'All meals and water',
+      'Expert naturalist guides',
+      'All excursions and activities',
+      'Rubber boots and rain ponchos'
+    ],
+    includesEs: [
+      'Traslados en Puerto Maldonado',
+      'Alojamiento en lodge de selva',
+      'Todas las comidas y agua',
+      'Guías naturalistas expertos',
+      'Todas las excursiones y actividades',
+      'Botas de goma y ponchos de lluvia'
+    ],
+    tips: [
+      'Book well in advance for dry season',
+      'Pack light, breathable clothing',
+      'Bring binoculars and camera with good zoom',
+      'Insect repellent with DEET essential',
+      'Deeper lodges see more wildlife'
+    ],
+    tipsEs: [
+      'Reserva con anticipación para temporada seca',
+      'Empaca ropa ligera y transpirable',
+      'Trae binoculares y cámara con buen zoom',
+      'Repelente de insectos con DEET esencial',
+      'Lodges más profundos ven más fauna'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Lodges have basic medical supplies',
+      'Always follow guide instructions',
+      'Insect-borne diseases - prophylaxis recommended',
+      'Wildlife is wild - maintain safe distances'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Lodges tienen suministros médicos básicos',
+      'Siempre seguir instrucciones del guía',
+      'Enfermedades transmitidas por insectos - profilaxis recomendada',
+      'La fauna es salvaje - mantener distancias seguras'
+    ],
+    relatedActivities: ['sandoval-lake-tour', 'amazon-canopy-walk', 'indigenous-community-visit'],
+    providers: [
+      { name: 'Inkaterra Reserva Amazonica', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true },
+      { name: 'Tambopata Research Center', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'puno-cultural-tour',
+    name: 'Puno City Cultural Walking Tour',
+    nameEs: 'Tour Cultural a Pie por la Ciudad de Puno',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Discover the vibrant cultural capital of Peru\'s altiplano on this walking tour through Puno\'s colonial streets and bustling markets. Known as the "Folklore Capital of Peru," Puno maintains rich traditions of music, dance, and costume that come alive during numerous festivals throughout the year. This introduction to high-altitude Andean life prepares families for deeper exploration of the Lake Titicaca region.',
+    descriptionEs: 'Descubre la vibrante capital cultural del altiplano peruano en este tour a pie por las calles coloniales y mercados bulliciosos de Puno. Conocida como la "Capital del Folklore de Perú," Puno mantiene ricas tradiciones de música, baile y vestimenta que cobran vida durante numerosos festivales a lo largo del año. Esta introducción a la vida andina de alta altitud prepara a las familias para una exploración más profunda de la región del Lago Titicaca.',
+    whatToExpect: 'Meet your guide at the central Plaza de Armas, dominated by the baroque Cathedral of Puno with its ornate stone facade. Learn about Puno\'s history as a silver mining center and its evolution into Peru\'s folklore capital. Walk through colonial streets admiring traditional architecture and hearing stories of the city\'s festivals - particularly the famous Virgen de la Candelaria celebration. Visit the Carlos Dreyer Museum to see pre-Columbian artifacts from the Lake Titicaca region. Explore the colorful Central Market where vendors sell everything from medicinal herbs to traditional clothing. Watch artisans at work in nearby workshops. Stop at a local coffee shop to try coca tea and learn how locals manage the altitude. End at the Mirador Condor with panoramic views over the city and glimpses of Lake Titicaca in the distance. Your guide shares tips for your upcoming Lake Titicaca adventures.',
+    whatToExpectEs: 'Encuentra a tu guía en la Plaza de Armas central, dominada por la barroca Catedral de Puno con su ornamentada fachada de piedra. Aprende sobre la historia de Puno como centro minero de plata y su evolución a capital del folklore de Perú. Camina por calles coloniales admirando arquitectura tradicional y escuchando historias de los festivales de la ciudad - particularmente la famosa celebración de la Virgen de la Candelaria. Visita el Museo Carlos Dreyer para ver artefactos precolombinos de la región del Lago Titicaca. Explora el colorido Mercado Central donde vendedores venden desde hierbas medicinales hasta ropa tradicional. Observa artesanos trabajando en talleres cercanos. Para en una cafetería local para probar té de coca y aprende cómo los locales manejan la altitud. Termina en el Mirador Cóndor con vistas panorámicas de la ciudad y vistazos del Lago Titicaca en la distancia. Tu guía comparte consejos para tus próximas aventuras en el Lago Titicaca.',
+    highlights: [
+      'Baroque Cathedral of Puno',
+      'Carlos Dreyer Museum',
+      'Colorful central market',
+      'Traditional artisan workshops',
+      'Learn about folklore traditions',
+      'Panoramic city viewpoint',
+      'Coca tea experience'
+    ],
+    highlightsEs: [
+      'Catedral barroca de Puno',
+      'Museo Carlos Dreyer',
+      'Colorido mercado central',
+      'Talleres artesanales tradicionales',
+      'Aprender sobre tradiciones folklóricas',
+      'Mirador panorámico de la ciudad',
+      'Experiencia de té de coca'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 per person',
+    priceRangeEs: '$25-45 por persona',
+    bestTime: 'Year-round. February for Candelaria Festival. April-October dry season best.',
+    bestTimeEs: 'Todo el año. Febrero para Festival de la Candelaria. Temporada seca abril-octubre mejor.',
+    includes: [
+      'Professional local guide',
+      'Museum entrance fees',
+      'Coca tea',
+      'Small snack',
+      'Market tastings'
+    ],
+    includesEs: [
+      'Guía local profesional',
+      'Entradas a museos',
+      'Té de coca',
+      'Pequeño snack',
+      'Degustaciones en el mercado'
+    ],
+    tips: [
+      'Schedule for first day to acclimatize gently',
+      'Walk slowly - altitude is challenging',
+      'Coca tea helps with altitude symptoms',
+      'Mornings less crowded at market',
+      'February Candelaria Festival is spectacular'
+    ],
+    tipsEs: [
+      'Programa para el primer día para aclimatarte gentilmente',
+      'Camina despacio - la altitud es desafiante',
+      'Té de coca ayuda con síntomas de altitud',
+      'Mañanas menos concurridas en el mercado',
+      'Festival de la Candelaria en febrero es espectacular'
+    ],
+    safetyNotes: [
+      'Very high altitude (3,830m) - acclimatize slowly',
+      'Take breaks as needed',
+      'Stay hydrated',
+      'Watch belongings in market crowds',
+      'Easy flat walking throughout'
+    ],
+    safetyNotesEs: [
+      'Altitud muy alta (3,830m) - aclimatarse lentamente',
+      'Toma descansos según necesidad',
+      'Mantente hidratado',
+      'Cuida pertenencias en multitudes del mercado',
+      'Caminata fácil y plana en todo el recorrido'
+    ],
+    relatedActivities: ['lake-titicaca-islands-tour', 'sillustani-tour', 'titicaca-homestay'],
+    providers: [
+      { name: 'Puno City Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Local Puno Guides', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'santa-catalina-monastery-tour',
+    name: 'Santa Catalina Monastery Guided Tour',
+    nameEs: 'Tour Guiado por el Monasterio de Santa Catalina',
+    type: 'cultural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Step into a preserved 16th-century city-within-a-city at the stunning Santa Catalina Monastery, one of Peru\'s most important colonial religious sites. This UNESCO-caliber complex covers 20,000 square meters of winding streets, plazas, and beautifully restored cloisters painted in vivid terracotta, blue, and white. For over 400 years, Dominican nuns lived in complete seclusion here, creating a unique world that families can now explore with expert guides.',
+    descriptionEs: 'Entra en una ciudad dentro de una ciudad preservada del siglo XVI en el impresionante Monasterio de Santa Catalina, uno de los sitios religiosos coloniales más importantes de Perú. Este complejo de calibre UNESCO cubre 20,000 metros cuadrados de calles sinuosas, plazas y claustros bellamente restaurados pintados en vivos colores terracota, azul y blanco. Por más de 400 años, monjas dominicas vivieron aquí en completa reclusión, creando un mundo único que las familias ahora pueden explorar con guías expertos.',
+    whatToExpect: 'Enter through the main portal into a world frozen in time. Your guide leads you through narrow cobblestone streets named after Spanish cities, explaining how wealthy Spanish families sent their second daughters here with rich dowries. Visit the Orange Tree Cloister, the first area novices experienced, with its peaceful garden and ancient trees. Explore the communal kitchen with original clay ovens and copper pots that fed hundreds of nuns. Walk through the Large Cloister with its distinctive terracotta walls and see the communal laundry area with stone channels. Visit a restored cell showing how nuns lived with their servants and fine furnishings. See the art gallery with colonial religious paintings. Climb to rooftop terraces for stunning views of the monastery\'s colorful domes against the backdrop of snow-capped Misti volcano. Children love the maze-like layout and vibrant colors.',
+    whatToExpectEs: 'Entra por el portal principal a un mundo congelado en el tiempo. Tu guía te lleva por estrechas calles empedradas con nombres de ciudades españolas, explicando cómo familias españolas adineradas enviaban a sus segundas hijas aquí con ricas dotes. Visita el Claustro de los Naranjos, la primera área que experimentaban las novicias, con su jardín pacífico y árboles antiguos. Explora la cocina comunal con hornos de arcilla originales y ollas de cobre que alimentaban a cientos de monjas. Camina por el Claustro Grande con sus distintivas paredes terracota y ve el área de lavandería comunal con canales de piedra. Visita una celda restaurada mostrando cómo vivían las monjas con sus sirvientas y finos muebles. Ve la galería de arte con pinturas religiosas coloniales. Sube a terrazas en la azotea para vistas impresionantes de las coloridas cúpulas del monasterio contra el fondo del volcán nevado Misti. A los niños les encanta el diseño laberíntico y los colores vibrantes.',
+    highlights: [
+      'Vivid terracotta and blue streets',
+      'Orange Tree Cloister gardens',
+      'Original colonial kitchens',
+      'Restored nun cells with furnishings',
+      'Colonial religious art gallery',
+      'Rooftop volcano views',
+      'Maze-like exploration for children'
+    ],
+    highlightsEs: [
+      'Calles de vivos colores terracota y azul',
+      'Jardines del Claustro de los Naranjos',
+      'Cocinas coloniales originales',
+      'Celdas de monjas restauradas con muebles',
+      'Galería de arte religioso colonial',
+      'Vistas de volcanes desde la azotea',
+      'Exploración laberíntica para niños'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$15-35 per person',
+    priceRangeEs: '$15-35 por persona',
+    bestTime: 'Year-round. Morning light best for photography. Evening tours available with atmospheric lighting.',
+    bestTimeEs: 'Todo el año. Luz matutina mejor para fotografía. Tours nocturnos disponibles con iluminación atmosférica.',
+    includes: [
+      'Professional bilingual guide',
+      'Entrance fees',
+      'Access to all open areas',
+      'Art gallery visit',
+      'Photo opportunities'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Entradas incluidas',
+      'Acceso a todas las áreas abiertas',
+      'Visita a galería de arte',
+      'Oportunidades fotográficas'
+    ],
+    tips: [
+      'Book evening tours for magical lighting',
+      'Comfortable walking shoes essential',
+      'Photography allowed throughout',
+      'Small café inside for refreshments',
+      'Adjacent gift shop has quality crafts'
+    ],
+    tipsEs: [
+      'Reserva tours nocturnos para iluminación mágica',
+      'Zapatos cómodos para caminar esenciales',
+      'Fotografía permitida en todo el lugar',
+      'Pequeño café adentro para refrigerios',
+      'Tienda de regalos adyacente tiene artesanías de calidad'
+    ],
+    safetyNotes: [
+      'Flat, easy walking on cobblestones',
+      'Some narrow passages - watch small children',
+      'Moderate altitude (2,335m) - minimal impact',
+      'Shaded areas available for rest',
+      'Accessible routes available'
+    ],
+    safetyNotesEs: [
+      'Caminata plana y fácil sobre adoquines',
+      'Algunos pasajes estrechos - vigilar niños pequeños',
+      'Altitud moderada (2,335m) - impacto mínimo',
+      'Áreas sombreadas disponibles para descanso',
+      'Rutas accesibles disponibles'
+    ],
+    relatedActivities: ['arequipa-city-tour', 'colca-canyon-tour', 'sillar-quarries-tour'],
+    providers: [
+      { name: 'Santa Catalina Official Tours', familyFriendly: true },
+      { name: 'Arequipa Walking Tours', familyFriendly: true },
+      { name: 'Peru Traditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'iquitos-amazon-adventure',
+    name: 'Iquitos Amazon Rainforest Family Adventure',
+    nameEs: 'Aventura Familiar en la Selva Amazónica de Iquitos',
+    type: 'nature',
+    city: 'iquitos',
+    region: 'Loreto Region',
+    regionEs: 'Región Loreto',
+    description: 'Experience the world\'s largest rainforest from Peru\'s Amazon gateway city of Iquitos, the largest city on Earth unreachable by road. This unique adventure combines wildlife watching, indigenous community visits, and river exploration in the Northern Amazon, where the biodiversity differs from the southern Tambopata region. Pink river dolphins, giant water lilies, and exotic birds await families ready for an unforgettable jungle experience.',
+    descriptionEs: 'Experimenta la selva tropical más grande del mundo desde la ciudad puerta de entrada al Amazonas de Perú, Iquitos, la ciudad más grande de la Tierra inalcanzable por carretera. Esta aventura única combina observación de fauna, visitas a comunidades indígenas y exploración fluvial en el Amazonas Norte, donde la biodiversidad difiere de la región sureña de Tambopata. Delfines rosados de río, nenúfares gigantes y aves exóticas esperan a las familias listas para una experiencia selvática inolvidable.',
+    whatToExpect: 'Arrive in Iquitos by air and transfer by boat to your jungle lodge along the Amazon or its tributaries. Settle into comfortable accommodations designed for families with screened rooms and river views. Take your first canoe excursion at sunset when wildlife is most active, watching for pink and grey dolphins playing in the river. The next morning, wake early for birdwatching - the Northern Amazon hosts different species than the south, including unique tanagers and antbirds. Visit a local village to learn how indigenous communities live sustainably in the forest, with children participating in traditional crafts. Navigate through flooded forest during high-water season or walk jungle trails during low water. Fish for piranha (catch and release for families) and learn about medicinal plants used for centuries by shamans. Night excursions reveal caimans, tarantulas, and nocturnal monkeys. Visit the famous Victoria Regia giant water lily ponds.',
+    whatToExpectEs: 'Llega a Iquitos por aire y traslado en bote a tu lodge en la selva a lo largo del Amazonas o sus tributarios. Instálate en alojamientos cómodos diseñados para familias con habitaciones con mallas y vistas al río. Toma tu primera excursión en canoa al atardecer cuando la fauna está más activa, observando delfines rosados y grises jugando en el río. A la mañana siguiente, despierta temprano para observación de aves - el Amazonas Norte alberga especies diferentes al sur, incluyendo tangaras y hormigueros únicos. Visita un pueblo local para aprender cómo las comunidades indígenas viven sustentablemente en el bosque, con niños participando en artesanías tradicionales. Navega por el bosque inundado durante temporada de aguas altas o camina senderos de la selva durante aguas bajas. Pesca pirañas (atrapar y liberar para familias) y aprende sobre plantas medicinales usadas por siglos por chamanes. Excursiones nocturnas revelan caimanes, tarántulas y monos nocturnos. Visita los famosos estanques de nenúfares gigantes Victoria Regia.',
+    highlights: [
+      'Pink river dolphin watching',
+      'Giant Victoria Regia water lilies',
+      'Indigenous community cultural visit',
+      'Piranha fishing experience',
+      'Night wildlife excursions',
+      'Unique Northern Amazon species',
+      'Canoe through flooded forest'
+    ],
+    highlightsEs: [
+      'Observación de delfines rosados de río',
+      'Nenúfares gigantes Victoria Regia',
+      'Visita cultural a comunidad indígena',
+      'Experiencia de pesca de pirañas',
+      'Excursiones nocturnas de fauna',
+      'Especies únicas del Amazonas Norte',
+      'Canoa por bosque inundado'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-5 days',
+    durationEs: '3-5 días',
+    difficulty: 'moderate',
+    priceRange: '$400-800 per person multi-day',
+    priceRangeEs: '$400-800 por persona multi-día',
+    bestTime: 'Year-round. December-May high water for flooded forest. June-November low water for trails.',
+    bestTimeEs: 'Todo el año. Diciembre-mayo aguas altas para bosque inundado. Junio-noviembre aguas bajas para senderos.',
+    includes: [
+      'Round-trip boat transfers from Iquitos',
+      'Lodge accommodation',
+      'All meals',
+      'Expert naturalist guides',
+      'All excursions and activities',
+      'Rubber boots and rain ponchos'
+    ],
+    includesEs: [
+      'Traslados en bote ida y vuelta desde Iquitos',
+      'Alojamiento en lodge',
+      'Todas las comidas',
+      'Guías naturalistas expertos',
+      'Todas las excursiones y actividades',
+      'Botas de goma y ponchos de lluvia'
+    ],
+    tips: [
+      'Fly from Lima - no roads to Iquitos',
+      'Pack light, breathable, long clothing',
+      'Insect repellent with DEET essential',
+      'Binoculars greatly enhance wildlife viewing',
+      'High-water season best for dolphin encounters'
+    ],
+    tipsEs: [
+      'Vuela desde Lima - no hay carreteras a Iquitos',
+      'Empaca ropa ligera, transpirable y larga',
+      'Repelente de insectos con DEET esencial',
+      'Binoculares mejoran mucho la observación de fauna',
+      'Temporada de aguas altas mejor para encuentros con delfines'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Lodges have medical supplies and radios',
+      'Always follow guide instructions',
+      'Insect-borne disease prophylaxis recommended',
+      'Safe swimming areas designated by guides'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Lodges tienen suministros médicos y radios',
+      'Siempre seguir instrucciones del guía',
+      'Profilaxis para enfermedades transmitidas por insectos recomendada',
+      'Áreas de nado seguras designadas por guías'
+    ],
+    relatedActivities: ['tambopata-amazon-adventure', 'amazon-canopy-walk', 'pacaya-samiria-expedition'],
+    providers: [
+      { name: 'Ceiba Tops Lodge', familyFriendly: true },
+      { name: 'Explorama Lodges', familyFriendly: true },
+      { name: 'Amazon Yarapa River Lodge', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'salinas-aguada-blanca-safari',
+    name: 'Salinas y Aguada Blanca Vicuña Safari',
+    nameEs: 'Safari de Vicuñas en Salinas y Aguada Blanca',
+    type: 'nature',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Embark on an unforgettable wildlife safari through Peru\'s stunning Salinas y Aguada Blanca National Reserve, home to the highest concentration of wild vicuñas in the country. This high-altitude adventure traverses otherworldly volcanic landscapes, pristine salt flats, and altiplano grasslands where herds of these elegant camelids roam freely alongside Andean flamingos, giant coots, and soaring condors.',
+    descriptionEs: 'Emprende un safari de fauna inolvidable a través de la impresionante Reserva Nacional Salinas y Aguada Blanca de Perú, hogar de la mayor concentración de vicuñas salvajes del país. Esta aventura de alta altitud atraviesa paisajes volcánicos de otro mundo, salares prístinos y pastizales del altiplano donde manadas de estos elegantes camélidos deambulan libremente junto a flamencos andinos, gallaretas gigantes y cóndores sobrevolando.',
+    whatToExpect: 'Depart Arequipa early morning, ascending through terraced farmland as the imposing Misti volcano dominates the horizon. Enter the reserve through Pampa Cañahuas, where your first vicuña sightings occur - these golden-fleeced wild relatives of the llama graze in herds, their wool once reserved exclusively for Inca royalty. Stop at designated viewpoints where vicuñas have grown accustomed to vehicles, allowing excellent photography opportunities. Continue to the Tocra wetlands, a high-altitude lagoon system where three species of flamingo feed in the shallow waters alongside rare Andean avocets and puna ibis. Watch for Andean condors soaring above the volcanic peaks. Drive through landscapes of pumice stone formations and volcanic cones before reaching Salinas Lagoon at 4,300 meters, its white salt-encrusted shores contrasting with flamingo pink reflections. Visit the vicuña counting stations and learn about conservation efforts. Optional stop at El Misti or Chachani volcano viewpoints for the adventurous.',
+    whatToExpectEs: 'Parte de Arequipa temprano en la mañana, ascendiendo por tierras de cultivo en terrazas mientras el imponente volcán Misti domina el horizonte. Entra a la reserva por Pampa Cañahuas, donde ocurren tus primeros avistamientos de vicuñas - estos parientes salvajes de la llama con vellón dorado pastan en manadas, su lana una vez reservada exclusivamente para la realeza Inca. Para en miradores designados donde las vicuñas se han acostumbrado a los vehículos, permitiendo excelentes oportunidades fotográficas. Continúa a los humedales de Tocra, un sistema de lagunas de alta altitud donde tres especies de flamencos se alimentan en aguas poco profundas junto a raras avocetas andinas e ibis de la puna. Observa cóndores andinos sobrevolando los picos volcánicos. Conduce a través de paisajes de formaciones de piedra pómez y conos volcánicos antes de llegar a la Laguna de Salinas a 4,300 metros, sus orillas blancas incrustadas de sal contrastando con reflejos rosados de flamencos. Visita las estaciones de conteo de vicuñas y aprende sobre esfuerzos de conservación. Parada opcional en miradores de El Misti o Chachani para los aventureros.',
+    highlights: [
+      'Wild vicuña herds up close',
+      'Three flamingo species at Tocra',
+      'Volcanic landscapes and salt flats',
+      'Andean condor sightings',
+      'Salinas Lagoon reflections',
+      'Conservation station visits',
+      'Photography paradise'
+    ],
+    highlightsEs: [
+      'Manadas de vicuñas salvajes de cerca',
+      'Tres especies de flamencos en Tocra',
+      'Paisajes volcánicos y salares',
+      'Avistamientos de cóndores andinos',
+      'Reflejos de la Laguna de Salinas',
+      'Visitas a estaciones de conservación',
+      'Paraíso fotográfico'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'moderate',
+    priceRange: '$60-120 per person',
+    priceRangeEs: '$60-120 por persona',
+    bestTime: 'Year-round. April-November dry season best. Early mornings for best wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-noviembre mejor. Temprano en la mañana para mejor actividad de fauna.',
+    includes: [
+      'Transportation from Arequipa',
+      'Professional naturalist guide',
+      'Reserve entrance fees',
+      'Binoculars for wildlife viewing',
+      'Box lunch and hot drinks',
+      'Oxygen for emergencies'
+    ],
+    includesEs: [
+      'Transporte desde Arequipa',
+      'Guía naturalista profesional',
+      'Entradas a la reserva',
+      'Binoculares para observación de fauna',
+      'Almuerzo empacado y bebidas calientes',
+      'Oxígeno para emergencias'
+    ],
+    tips: [
+      'Acclimatize in Arequipa 1-2 days first',
+      'Dress in layers - temperatures vary greatly',
+      'Bring warm hat, gloves, sunscreen',
+      'Telephoto lens recommended',
+      'Coca tea/candy helps with altitude'
+    ],
+    tipsEs: [
+      'Aclimatarse en Arequipa 1-2 días primero',
+      'Vestirse en capas - temperaturas varían mucho',
+      'Trae gorro cálido, guantes, protector solar',
+      'Lente telefoto recomendado',
+      'Té/caramelos de coca ayudan con la altitud'
+    ],
+    safetyNotes: [
+      'Very high altitude (3,900-4,500m) - acclimatize first',
+      'Stay with vehicle - wild terrain',
+      'Weather changes rapidly - be prepared',
+      'Limited facilities - use restrooms in Arequipa',
+      'Children under 6 may struggle with altitude'
+    ],
+    safetyNotesEs: [
+      'Altitud muy alta (3,900-4,500m) - aclimatarse primero',
+      'Quedarse con el vehículo - terreno salvaje',
+      'Clima cambia rápidamente - estar preparado',
+      'Instalaciones limitadas - usar baños en Arequipa',
+      'Niños menores de 6 pueden tener dificultad con la altitud'
+    ],
+    relatedActivities: ['colca-canyon-tour', 'arequipa-city-tour', 'misti-volcano-hike'],
+    providers: [
+      { name: 'Colca Trek', familyFriendly: true },
+      { name: 'Pablo Tour', familyFriendly: true },
+      { name: 'Naturaleza Arequipa', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'punta-sal-beach-experience',
+    name: 'Punta Sal Beach Family Relaxation',
+    nameEs: 'Relajación Familiar en Playa Punta Sal',
+    type: 'relaxation',
+    city: 'tumbes',
+    region: 'Tumbes Region',
+    regionEs: 'Región Tumbes',
+    description: 'Discover Peru\'s finest tropical beach destination at Punta Sal, where warm Pacific waters, golden sands, and year-round sunshine create the perfect family beach escape. Located in Peru\'s northernmost region near the Ecuador border, Punta Sal offers Caribbean-like conditions without leaving Peru - calm turquoise waters ideal for children, excellent seafood, and a relaxed atmosphere that lets families unwind after adventure-filled Peru travels.',
+    descriptionEs: 'Descubre el mejor destino de playa tropical de Perú en Punta Sal, donde aguas cálidas del Pacífico, arenas doradas y sol durante todo el año crean el escape de playa familiar perfecto. Ubicado en la región más norteña de Perú cerca de la frontera con Ecuador, Punta Sal ofrece condiciones similares al Caribe sin salir de Perú - aguas turquesas tranquilas ideales para niños, excelente mariscos y un ambiente relajado que permite a las familias descansar después de viajes llenos de aventura por Perú.',
+    whatToExpect: 'Arrive at your beachfront resort and settle into accommodations steps from the sand. The beach stretches for kilometers with consistently calm, warm waters perfect for swimming and playing. Children can safely wade in shallow areas while parents relax on loungers under palapas. Morning activities might include kayaking, paddleboarding, or snorkeling around rocky points where tropical fish gather. Book a morning boat trip to swim with sea turtles and spot rays gliding through crystal waters. Afternoons are for building sandcastles, beach games, and enjoying fresh ceviche at oceanfront restaurants. During whale season (July-October), take excursions to witness humpback whales breaching offshore - an unforgettable family experience. Sunset brings spectacular colors over the Pacific. Evening dining features the freshest seafood in Peru - langoustines, black clam ceviche, and grilled catch of the day. The warm evenings allow beach bonfires and stargazing far from city lights.',
+    whatToExpectEs: 'Llega a tu resort frente al mar e instálate en alojamientos a pasos de la arena. La playa se extiende por kilómetros con aguas consistentemente tranquilas y cálidas perfectas para nadar y jugar. Los niños pueden vadear con seguridad en áreas poco profundas mientras los padres se relajan en tumbonas bajo palapas. Las actividades matutinas pueden incluir kayak, paddleboard o snorkel alrededor de puntas rocosas donde se reúnen peces tropicales. Reserva un viaje en bote por la mañana para nadar con tortugas marinas y ver rayas deslizándose por aguas cristalinas. Las tardes son para construir castillos de arena, juegos de playa y disfrutar ceviche fresco en restaurantes frente al mar. Durante la temporada de ballenas (julio-octubre), toma excursiones para presenciar ballenas jorobadas saltando mar adentro - una experiencia familiar inolvidable. El atardecer trae colores espectaculares sobre el Pacífico. La cena nocturna presenta los mariscos más frescos de Perú - langostinos, ceviche de conchas negras y pescado a la parrilla del día. Las noches cálidas permiten fogatas en la playa y observación de estrellas lejos de las luces de la ciudad.',
+    highlights: [
+      'Warm, calm swimming waters year-round',
+      'Sea turtle swimming encounters',
+      'Whale watching (July-October)',
+      'Fresh seafood dining',
+      'Kayaking and paddleboarding',
+      'Beach bonfires and stargazing',
+      'Perfect family beach conditions'
+    ],
+    highlightsEs: [
+      'Aguas cálidas y tranquilas para nadar todo el año',
+      'Encuentros nadando con tortugas marinas',
+      'Avistamiento de ballenas (julio-octubre)',
+      'Cenas de mariscos frescos',
+      'Kayak y paddleboard',
+      'Fogatas en la playa y observación de estrellas',
+      'Condiciones de playa perfectas para familias'
+    ],
+    familyRating: 5,
+    minAge: 0,
+    duration: '2-5 days',
+    durationEs: '2-5 días',
+    difficulty: 'easy',
+    priceRange: '$150-400 per night resort',
+    priceRangeEs: '$150-400 por noche resort',
+    bestTime: 'Year-round warm. December-April warmest water. July-October whale season. Avoid January-March occasional rain.',
+    bestTimeEs: 'Cálido todo el año. Diciembre-abril agua más cálida. Julio-octubre temporada de ballenas. Evitar enero-marzo lluvia ocasional.',
+    includes: [
+      'Beach access and loungers',
+      'Non-motorized water sports',
+      'Resort pools and facilities',
+      'Activities vary by resort',
+      'Most include breakfast'
+    ],
+    includesEs: [
+      'Acceso a playa y tumbonas',
+      'Deportes acuáticos no motorizados',
+      'Piscinas e instalaciones del resort',
+      'Actividades varían por resort',
+      'La mayoría incluye desayuno'
+    ],
+    tips: [
+      'Fly to Tumbes, transfer 1 hour south',
+      'Book whale watching in advance July-October',
+      'Bring reef-safe sunscreen',
+      'Exchange money in Tumbes - limited ATMs',
+      'Reserve resorts well ahead for holidays'
+    ],
+    tipsEs: [
+      'Vuela a Tumbes, traslado 1 hora al sur',
+      'Reserva avistamiento de ballenas con anticipación julio-octubre',
+      'Trae protector solar seguro para arrecifes',
+      'Cambia dinero en Tumbes - cajeros limitados',
+      'Reserva resorts con anticipación para feriados'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Calm waters - still supervise children',
+      'Strong sun - reapply sunscreen frequently',
+      'Jellyfish occasionally present - ask locals',
+      'Resort areas very safe'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Aguas tranquilas - aún supervisar niños',
+      'Sol fuerte - reaplicar protector solar frecuentemente',
+      'Medusas ocasionalmente presentes - preguntar a locales',
+      'Áreas de resort muy seguras'
+    ],
+    relatedActivities: ['mancora-beach-surf', 'tumbes-mangroves-tour', 'cabo-blanco-fishing'],
+    providers: [
+      { name: 'DCO Suites Lounge & Spa', familyFriendly: true },
+      { name: 'Punta Sal Suites & Bungalows', familyFriendly: true },
+      { name: 'Hotel Caballito de Mar', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'leymebamba-mummies-tour',
+    name: 'Leymebamba Mummies Museum Tour',
+    nameEs: 'Tour al Museo de Momias de Leymebamba',
+    type: 'cultural',
+    city: 'chachapoyas',
+    region: 'Amazonas Region',
+    regionEs: 'Región Amazonas',
+    description: 'Journey deep into the cloud forest to discover one of Peru\'s most remarkable archaeological treasures - over 200 Chachapoya mummies preserved for 500 years in cliff tombs above the remote Laguna de los Cóndores. The Leymebamba Museum (Museo Mallqui) houses these extraordinary finds in a modern facility that brings children face-to-face with the ancient "Warriors of the Clouds" civilization.',
+    descriptionEs: 'Viaja profundo en el bosque nublado para descubrir uno de los tesoros arqueológicos más notables de Perú - más de 200 momias Chachapoya preservadas por 500 años en tumbas en acantilados sobre la remota Laguna de los Cóndores. El Museo Leymebamba (Museo Mallqui) alberga estos extraordinarios hallazgos en una instalación moderna que acerca a los niños a la antigua civilización de los "Guerreros de las Nubes".',
+    whatToExpect: 'Depart Chachapoyas on a scenic three-hour drive through cloud forest valleys and traditional villages. Arrive at the modern museum built specifically to house the remarkable Laguna de los Cóndores finds. Your guide explains the dramatic 1997 discovery when farmers found untouched cliff tombs containing over 200 mummy bundles wrapped in intricate textiles. View the mummies in climate-controlled galleries - many still wrapped in colorful fabrics with wooden face masks. See the collection of quipus (knotted record-keeping cords), ceramics, and offerings that accompanied the dead. Children are fascinated by the wooden face markers and the stories of how the Chachapoya prepared their dead for the afterlife. Explore the botanical gardens featuring cloud forest orchids and local plants. Enjoy lunch in the charming village of Leymebamba before returning. Optional extension to visit nearby colonial churches or traditional weaving workshops.',
+    whatToExpectEs: 'Parte de Chachapoyas en un viaje escénico de tres horas a través de valles de bosque nublado y pueblos tradicionales. Llega al moderno museo construido específicamente para albergar los notables hallazgos de Laguna de los Cóndores. Tu guía explica el dramático descubrimiento de 1997 cuando agricultores encontraron tumbas en acantilados intactas conteniendo más de 200 fardos de momias envueltos en textiles intrincados. Ve las momias en galerías con clima controlado - muchas aún envueltas en telas coloridas con máscaras faciales de madera. Ve la colección de quipus (cuerdas con nudos para registros), cerámicas y ofrendas que acompañaban a los muertos. Los niños se fascinan con los marcadores faciales de madera y las historias de cómo los Chachapoya preparaban a sus muertos para la otra vida. Explora los jardines botánicos con orquídeas del bosque nublado y plantas locales. Disfruta almuerzo en el encantador pueblo de Leymebamba antes de regresar. Extensión opcional para visitar iglesias coloniales cercanas o talleres de tejido tradicional.',
+    highlights: [
+      'Over 200 preserved Chachapoya mummies',
+      'Quipus and textile collection',
+      'Modern climate-controlled museum',
+      'Wooden mummy face masks',
+      'Cloud forest botanical gardens',
+      'Scenic valley drive',
+      'Traditional village visit'
+    ],
+    highlightsEs: [
+      'Más de 200 momias Chachapoya preservadas',
+      'Colección de quipus y textiles',
+      'Museo moderno con clima controlado',
+      'Máscaras faciales de madera de momias',
+      'Jardines botánicos del bosque nublado',
+      'Viaje escénico por el valle',
+      'Visita a pueblo tradicional'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'easy',
+    priceRange: '$60-100 per person',
+    priceRangeEs: '$60-100 por persona',
+    bestTime: 'Year-round. May-September drier but accessible all year. Mornings best for photography.',
+    bestTimeEs: 'Todo el año. Mayo-septiembre más seco pero accesible todo el año. Mañanas mejor para fotografía.',
+    includes: [
+      'Transportation from Chachapoyas',
+      'Professional bilingual guide',
+      'Museum entrance fees',
+      'Botanical garden access',
+      'Lunch in Leymebamba'
+    ],
+    includesEs: [
+      'Transporte desde Chachapoyas',
+      'Guía profesional bilingüe',
+      'Entradas al museo',
+      'Acceso a jardines botánicos',
+      'Almuerzo en Leymebamba'
+    ],
+    tips: [
+      'Combine with Kuelap visit for full Chachapoya experience',
+      'Photography allowed without flash',
+      'Prepare children for seeing mummies',
+      'Bring layers - cloud forest can be cool',
+      'Village market has local crafts'
+    ],
+    tipsEs: [
+      'Combina con visita a Kuelap para experiencia Chachapoya completa',
+      'Fotografía permitida sin flash',
+      'Prepara a los niños para ver momias',
+      'Trae capas - bosque nublado puede ser fresco',
+      'Mercado del pueblo tiene artesanías locales'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,200m) - minimal impact',
+      'Well-paved road journey',
+      'Modern safe museum facilities',
+      'Some content may be intense for young children',
+      'Easy walking throughout'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,200m) - impacto mínimo',
+      'Viaje por carretera bien pavimentada',
+      'Instalaciones de museo modernas y seguras',
+      'Algún contenido puede ser intenso para niños pequeños',
+      'Caminata fácil en todo el recorrido'
+    ],
+    relatedActivities: ['kuelap-fortress-tour', 'gocta-waterfall-hike', 'karajia-sarcophagi-tour'],
+    providers: [
+      { name: 'Turismo Explorer Chachapoyas', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Chachapoyas Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huayhuash-viewpoint-trek',
+    name: 'Cordillera Huayhuash Viewpoint Day Trek',
+    nameEs: 'Trekking de Día a Miradores de la Cordillera Huayhuash',
+    type: 'adventure',
+    city: 'huaraz',
+    region: 'Ancash Region',
+    regionEs: 'Región Ancash',
+    description: 'Experience one of the world\'s most dramatic mountain ranges on this accessible day trek to viewpoints overlooking the Cordillera Huayhuash. While the famous multi-week circuit is for seasoned adventurers, families can witness the jaw-dropping beauty of Peru\'s second-highest peak, Yerupajá (6,634m), and a parade of glaciated giants on this day excursion. Traditional Quechua communities, alpine lakes, and vicuñas complete an unforgettable Andean experience.',
+    descriptionEs: 'Experimenta una de las cadenas montañosas más dramáticas del mundo en este trekking de día accesible a miradores con vista a la Cordillera Huayhuash. Mientras el famoso circuito de varias semanas es para aventureros experimentados, las familias pueden presenciar la impresionante belleza del segundo pico más alto de Perú, Yerupajá (6,634m), y un desfile de gigantes glaciados en esta excursión de día. Comunidades Quechua tradicionales, lagos alpinos y vicuñas completan una experiencia andina inolvidable.',
+    whatToExpect: 'Depart Huaraz before dawn for the 4-5 hour drive through the Cordillera Negra, crossing high passes with stunning views of the Cordillera Blanca behind you. Enter traditional Quechua villages where life has changed little in centuries - adobe homes, grazing llamas, and farmers in traditional dress. Arrive at the trailhead and begin a moderate 2-3 hour hike to viewpoints overlooking Yerupajá and the Huayhuash range. The jagged ice peaks rise like shark teeth from turquoise lakes below. Enjoy a packed lunch at the viewpoint with time for photography. Watch for vicuñas grazing on the high puna grasslands and Andean condors riding thermal currents. Descend and visit a local community for hot drinks before the return journey. Optional upgrades include overnight camping at Carhuacocha Lake or multi-day treks for experienced families.',
+    whatToExpectEs: 'Parte de Huaraz antes del amanecer para el viaje de 4-5 horas a través de la Cordillera Negra, cruzando pasos altos con vistas impresionantes de la Cordillera Blanca detrás de ti. Entra en pueblos Quechua tradicionales donde la vida ha cambiado poco en siglos - casas de adobe, llamas pastando y agricultores en vestimenta tradicional. Llega al inicio del sendero y comienza una caminata moderada de 2-3 horas a miradores con vista a Yerupajá y la cordillera Huayhuash. Los picos de hielo irregulares se elevan como dientes de tiburón desde lagos turquesa abajo. Disfruta un almuerzo empacado en el mirador con tiempo para fotografía. Observa vicuñas pastando en los pastizales de puna alta y cóndores andinos cabalgando corrientes térmicas. Desciende y visita una comunidad local para bebidas calientes antes del viaje de regreso. Mejoras opcionales incluyen camping nocturno en Lago Carhuacocha o trekkings de varios días para familias experimentadas.',
+    highlights: [
+      'Views of Yerupajá - Peru\'s second-highest peak',
+      'Jagged ice peaks rising from turquoise lakes',
+      'Traditional Quechua village visits',
+      'Vicuña wildlife viewing',
+      'Possible condor sightings',
+      'High-altitude puna landscapes',
+      'Less crowded than Cordillera Blanca'
+    ],
+    highlightsEs: [
+      'Vistas de Yerupajá - segundo pico más alto de Perú',
+      'Picos de hielo irregulares elevándose de lagos turquesa',
+      'Visitas a pueblos Quechua tradicionales',
+      'Observación de fauna vicuñas',
+      'Posibles avistamientos de cóndores',
+      'Paisajes de puna de alta altitud',
+      'Menos concurrido que Cordillera Blanca'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (12-14 hours)',
+    durationEs: 'Día completo (12-14 horas)',
+    difficulty: 'challenging',
+    priceRange: '$80-150 per person',
+    priceRangeEs: '$80-150 por persona',
+    bestTime: 'May-September dry season only. June-August optimal. Closed during rainy season.',
+    bestTimeEs: 'Solo temporada seca mayo-septiembre. Junio-agosto óptimo. Cerrado durante temporada de lluvias.',
+    includes: [
+      '4x4 transportation from Huaraz',
+      'Professional mountain guide',
+      'Community entrance fees',
+      'Packed lunch and snacks',
+      'Emergency oxygen',
+      'Binoculars for wildlife'
+    ],
+    includesEs: [
+      'Transporte 4x4 desde Huaraz',
+      'Guía de montaña profesional',
+      'Tarifas de entrada comunitarias',
+      'Almuerzo empacado y snacks',
+      'Oxígeno de emergencia',
+      'Binoculares para fauna'
+    ],
+    tips: [
+      'Must acclimatize 3-4 days in Huaraz first',
+      'Trek reaches 4,500m+ - altitude is serious',
+      'Start very early to return before dark',
+      'Bring warm windproof layers',
+      'Not suitable for children under 10'
+    ],
+    tipsEs: [
+      'Debe aclimatarse 3-4 días en Huaraz primero',
+      'Trekking alcanza 4,500m+ - altitud es seria',
+      'Empezar muy temprano para regresar antes del anochecer',
+      'Trae capas abrigadas y cortaviento',
+      'No apto para niños menores de 10'
+    ],
+    safetyNotes: [
+      'Very high altitude (4,500m+) - proper acclimatization essential',
+      'Remote area - satellite phone with guide',
+      'Weather can change rapidly',
+      'Emergency evacuation challenging',
+      'Physical fitness required'
+    ],
+    safetyNotesEs: [
+      'Altitud muy alta (4,500m+) - aclimatación adecuada esencial',
+      'Área remota - teléfono satelital con guía',
+      'Clima puede cambiar rápidamente',
+      'Evacuación de emergencia desafiante',
+      'Condición física requerida'
+    ],
+    relatedActivities: ['laguna-69-trek', 'pastoruri-glacier-tour', 'santa-cruz-trek'],
+    providers: [
+      { name: 'Huascarán Adventures', familyFriendly: true },
+      { name: 'Peruvian Andes Adventures', familyFriendly: true },
+      { name: 'Quechuandes', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'marcahuasi-stone-adventure',
+    name: 'Marcahuasi Stone Forest Overnight Adventure',
+    nameEs: 'Aventura Nocturna al Bosque de Piedras de Marcahuasi',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Escape Lima for an otherworldly adventure at Marcahuasi, a mysterious high-altitude plateau famous for its bizarre rock formations resembling human faces, animals, and monuments. Whether ancient sculptures or natural erosion, these enigmatic stones have captivated explorers for decades. Camping under brilliant stars at 4,000 meters, families discover a hidden world just hours from the capital.',
+    descriptionEs: 'Escapa de Lima para una aventura de otro mundo en Marcahuasi, una misteriosa meseta de alta altitud famosa por sus bizarras formaciones rocosas que se asemejan a rostros humanos, animales y monumentos. Ya sean esculturas antiguas o erosión natural, estas piedras enigmáticas han cautivado a exploradores por décadas. Acampando bajo estrellas brillantes a 4,000 metros, las familias descubren un mundo escondido a solo horas de la capital.',
+    whatToExpect: 'Depart Lima early morning, driving through the Santa Eulalia Valley as it climbs from coastal desert into green irrigated farmland. Stop in Chosica for breakfast before continuing to San Pedro de Casta, a traditional highland village at 3,200 meters. Meet your local guide and begin the 3-hour hike (or mule ride for children) up to the 4,000-meter plateau. As you climb, the landscape transforms from eucalyptus groves to high-altitude grassland. Arrive at the plateau and set up camp near the famous formations. Spend the afternoon exploring - find the "Monument to Humanity," the "Face," and dozens of other formations. Some appear clearly human-made; others could be nature\'s sculptures. Evening brings spectacular sunset colors over the Andes and one of Peru\'s best stargazing experiences - no light pollution here. Share stories around the campfire before sleeping under brilliant southern stars. Wake for sunrise illuminating the formations before hiking down for breakfast in the village.',
+    whatToExpectEs: 'Parte de Lima temprano en la mañana, conduciendo a través del Valle de Santa Eulalia mientras asciende del desierto costero a tierras de cultivo verdes irrigadas. Para en Chosica para desayunar antes de continuar a San Pedro de Casta, un pueblo tradicional de tierras altas a 3,200 metros. Conoce a tu guía local y comienza la caminata de 3 horas (o paseo en mula para niños) hasta la meseta de 4,000 metros. Mientras subes, el paisaje se transforma de bosques de eucalipto a pastizales de alta altitud. Llega a la meseta y arma el campamento cerca de las famosas formaciones. Pasa la tarde explorando - encuentra el "Monumento a la Humanidad," la "Cara," y docenas de otras formaciones. Algunas parecen claramente hechas por humanos; otras podrían ser esculturas de la naturaleza. La tarde trae espectaculares colores de atardecer sobre los Andes y una de las mejores experiencias de observación de estrellas de Perú - sin contaminación lumínica aquí. Comparte historias alrededor de la fogata antes de dormir bajo brillantes estrellas del sur. Despierta para el amanecer iluminando las formaciones antes de bajar caminando para desayunar en el pueblo.',
+    highlights: [
+      'Mysterious face-shaped rock formations',
+      'Monument to Humanity and other famous stones',
+      'Incredible stargazing at 4,000m',
+      'Camping adventure experience',
+      'Traditional highland village visit',
+      'Mule ride option for children',
+      '360-degree Andean panoramas'
+    ],
+    highlightsEs: [
+      'Misteriosas formaciones rocosas con forma de rostros',
+      'Monumento a la Humanidad y otras piedras famosas',
+      'Increíble observación de estrellas a 4,000m',
+      'Experiencia de aventura de camping',
+      'Visita a pueblo tradicional de tierras altas',
+      'Opción de paseo en mula para niños',
+      'Panoramas andinos de 360 grados'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2 days / 1 night',
+    durationEs: '2 días / 1 noche',
+    difficulty: 'moderate',
+    priceRange: '$100-180 per person',
+    priceRangeEs: '$100-180 por persona',
+    bestTime: 'April-November dry season. Full moon weekends spectacular. Avoid rainy season.',
+    bestTimeEs: 'Temporada seca abril-noviembre. Fines de semana de luna llena espectaculares. Evitar temporada de lluvias.',
+    includes: [
+      'Transportation from Lima',
+      'Local guide from San Pedro de Casta',
+      'Camping equipment (tents, sleeping bags)',
+      'All meals',
+      'Mule transport option',
+      'Flashlights and emergency gear'
+    ],
+    includesEs: [
+      'Transporte desde Lima',
+      'Guía local de San Pedro de Casta',
+      'Equipo de camping (carpas, bolsas de dormir)',
+      'Todas las comidas',
+      'Opción de transporte en mula',
+      'Linternas y equipo de emergencia'
+    ],
+    tips: [
+      'Full moon nights reveal hidden formations',
+      'Bring very warm clothes - freezing at night',
+      'Pack snacks and water from Lima',
+      'Mules available for children or those preferring not to hike',
+      'Stargazing app enhances night experience'
+    ],
+    tipsEs: [
+      'Noches de luna llena revelan formaciones escondidas',
+      'Trae ropa muy abrigada - helado en la noche',
+      'Empaca snacks y agua desde Lima',
+      'Mulas disponibles para niños o quienes prefieran no caminar',
+      'App de observación de estrellas mejora experiencia nocturna'
+    ],
+    safetyNotes: [
+      'High altitude (4,000m) - acclimatize if sensitive',
+      'Freezing temperatures at night',
+      'Rough terrain - sturdy footwear essential',
+      'No phone signal on plateau',
+      'Guides carry emergency equipment'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (4,000m) - aclimatarse si es sensible',
+      'Temperaturas bajo cero en la noche',
+      'Terreno accidentado - calzado resistente esencial',
+      'Sin señal de teléfono en la meseta',
+      'Guías llevan equipo de emergencia'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-food-tour', 'caral-archaeology-tour'],
+    providers: [
+      { name: 'Marcahuasi Tours', familyFriendly: true },
+      { name: 'Peru Mystical', familyFriendly: true },
+      { name: 'Andean Summits', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lago-sandoval-otter-expedition',
+    name: 'Lake Sandoval Giant Otter Expedition',
+    nameEs: 'Expedición de Nutrias Gigantes en Lago Sandoval',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Paddle into a pristine Amazon oxbow lake to encounter one of the world\'s most endangered and charismatic animals - the giant river otter. Lake Sandoval\'s resident otter families have made this the premier destination in Peru to observe these remarkable social hunters fishing, playing, and communicating with their distinctive whistles. Caimans, hoatzins, and monkeys complete this accessible Amazon adventure.',
+    descriptionEs: 'Rema hacia un prístino lago de meandro amazónico para encontrar uno de los animales más amenazados y carismáticos del mundo - la nutria gigante de río. Las familias de nutrias residentes de Lago Sandoval han hecho de este el destino premier en Perú para observar estos notables cazadores sociales pescando, jugando y comunicándose con sus distintivos silbidos. Caimanes, hoatzines y monos completan esta aventura amazónica accesible.',
+    whatToExpect: 'Depart Puerto Maldonado by boat at dawn when wildlife is most active. Cruise along the Madre de Dios River watching for macaws, kingfishers, and capybaras on the banks. Disembark and walk 3 kilometers through flooded palm forest on a boardwalk trail - your guide points out poison dart frogs, tarantulas, and medicinal plants. Reach Lake Sandoval\'s edge and board canoes, paddling silently into this mirror-calm oxbow lake surrounded by towering palms. Listen for the distinctive whistles and chirps of giant river otters - families of up to 15 individuals hunt together, coordinating their fishing with complex vocalizations. Watch these 1.8-meter social hunters chase fish, play-fight with siblings, and rest on fallen logs grooming each other. Your guide helps identify hoatzins (prehistoric-looking birds), caimans basking on logs, and troops of squirrel monkeys in the canopy. Paddle to the observation tower for panoramic lake views. Return before the afternoon heat, stopping at the forest trail to search for more wildlife.',
+    whatToExpectEs: 'Parte de Puerto Maldonado en bote al amanecer cuando la fauna está más activa. Navega por el Río Madre de Dios observando guacamayos, martín pescadores y capibaras en las orillas. Desembarca y camina 3 kilómetros a través del bosque inundado de palmeras en un sendero con pasarelas - tu guía señala ranas dardo venenosas, tarántulas y plantas medicinales. Llega al borde de Lago Sandoval y aborda canoas, remando silenciosamente hacia este lago de meandro de aguas calmas como espejo rodeado de palmeras imponentes. Escucha los distintivos silbidos y chirridos de nutrias gigantes de río - familias de hasta 15 individuos cazan juntos, coordinando su pesca con vocalizaciones complejas. Observa estos cazadores sociales de 1.8 metros persiguiendo peces, peleando juguetonamente con hermanos y descansando en troncos caídos acicalándose mutuamente. Tu guía ayuda a identificar hoatzines (aves de aspecto prehistórico), caimanes tomando sol en troncos y tropas de monos ardilla en el dosel. Rema a la torre de observación para vistas panorámicas del lago. Regresa antes del calor de la tarde, parando en el sendero del bosque para buscar más fauna.',
+    highlights: [
+      'Giant river otter family encounters',
+      'Paddle canoes through oxbow lake',
+      'Prehistoric hoatzin birds',
+      'Caiman spotting',
+      'Flooded forest boardwalk trail',
+      'Observation tower panoramas',
+      'Most accessible Amazon experience'
+    ],
+    highlightsEs: [
+      'Encuentros con familias de nutrias gigantes de río',
+      'Remar canoas por lago de meandro',
+      'Aves prehistóricas hoatzin',
+      'Avistamiento de caimanes',
+      'Sendero con pasarelas por bosque inundado',
+      'Panoramas desde torre de observación',
+      'Experiencia amazónica más accesible'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Half day (5-6 hours)',
+    durationEs: 'Medio día (5-6 horas)',
+    difficulty: 'easy',
+    priceRange: '$50-90 per person',
+    priceRangeEs: '$50-90 por persona',
+    bestTime: 'Year-round. Dry season (May-October) concentrates wildlife. Early morning departures essential.',
+    bestTimeEs: 'Todo el año. Temporada seca (mayo-octubre) concentra fauna. Salidas temprano en la mañana esenciales.',
+    includes: [
+      'Boat transportation to lake access',
+      'Professional naturalist guide',
+      'Canoe paddling on lake',
+      'Reserve entrance fees',
+      'Rubber boots for trail',
+      'Binoculars'
+    ],
+    includesEs: [
+      'Transporte en bote al acceso del lago',
+      'Guía naturalista profesional',
+      'Remo en canoa por el lago',
+      'Entradas a la reserva',
+      'Botas de goma para el sendero',
+      'Binoculares'
+    ],
+    tips: [
+      'Dawn departure crucial for otter activity',
+      'Be quiet on canoes - otters are sensitive',
+      'Telephoto lens or binoculars essential',
+      'Dry season has more concentrated sightings',
+      'Combine with overnight lodge for multiple visits'
+    ],
+    tipsEs: [
+      'Partida al amanecer crucial para actividad de nutrias',
+      'Guardar silencio en canoas - nutrias son sensibles',
+      'Lente telefoto o binoculares esenciales',
+      'Temporada seca tiene avistamientos más concentrados',
+      'Combina con lodge nocturno para múltiples visitas'
+    ],
+    safetyNotes: [
+      'Low altitude - no acclimatization needed',
+      'Stable canoes suitable for families',
+      'Boardwalk trail prevents falls',
+      'Guide carries first aid kit',
+      'Life jackets provided for children'
+    ],
+    safetyNotesEs: [
+      'Baja altitud - no necesita aclimatación',
+      'Canoas estables aptas para familias',
+      'Sendero con pasarelas previene caídas',
+      'Guía lleva botiquín de primeros auxilios',
+      'Chalecos salvavidas proporcionados para niños'
+    ],
+    relatedActivities: ['tambopata-amazon-adventure', 'amazon-canopy-walk', 'macaw-clay-lick-tour'],
+    providers: [
+      { name: 'Rainforest Expeditions', familyFriendly: true },
+      { name: 'Wasai Lodge', familyFriendly: true },
+      { name: 'Corto Maltes Amazonia', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'rainbow-mountain-trek',
+    name: 'Rainbow Mountain (Vinicunca) Day Trek',
+    nameEs: 'Trekking de Día a la Montaña de Colores (Vinicunca)',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek to one of Peru\'s most spectacular natural phenomena - Vinicunca, the famous Rainbow Mountain. Revealed only in 2015 after glaciers receded, this surreal mountainside striped in vivid reds, yellows, turquoise, and gold has become one of the country\'s most iconic destinations. While challenging due to extreme altitude, properly acclimatized families with older children will find the otherworldly scenery absolutely unforgettable.',
+    descriptionEs: 'Haz trekking a uno de los fenómenos naturales más espectaculares de Perú - Vinicunca, la famosa Montaña de Colores. Revelada solo en 2015 después de que los glaciares retrocedieron, esta ladera de montaña surrealista rayada en vivos rojos, amarillos, turquesa y oro se ha convertido en uno de los destinos más icónicos del país. Aunque desafiante debido a la altitud extrema, las familias debidamente aclimatadas con niños mayores encontrarán el paisaje de otro mundo absolutamente inolvidable.',
+    whatToExpect: 'Depart Cusco around 3-4 AM for the three-hour drive through sleeping villages and across high passes. Watch the sunrise paint the Andes pink as you travel. Stop for a hearty breakfast at a local restaurant in the small town of Cusipata. Continue to the Pampachiri trailhead at 4,600 meters where local families offer coca tea and horse rentals. Begin the gradual 5-kilometer hike, climbing 600 meters in altitude. The trail crosses high-altitude puna grassland where llamas and alpacas graze against a backdrop of snow-capped peaks. Pace yourself - the altitude is extreme. Local community members line the trail with horses for those who need assistance. As you approach the summit, the famous striped mountain suddenly comes into view - a sight that seems impossibly vivid. Spend time at the 5,200-meter viewpoint photographing this geological wonder. Optionally hike to the nearby Red Valley for equally stunning views. Descend for a late lunch before the drive back to Cusco.',
+    whatToExpectEs: 'Parte de Cusco alrededor de 3-4 AM para el viaje de tres horas a través de pueblos dormidos y cruces de pasos altos. Observa el amanecer pintar los Andes de rosa mientras viajas. Para para un desayuno abundante en un restaurante local en el pequeño pueblo de Cusipata. Continúa al inicio del sendero en Pampachiri a 4,600 metros donde familias locales ofrecen té de coca y alquiler de caballos. Comienza la caminata gradual de 5 kilómetros, subiendo 600 metros de altitud. El sendero cruza pastizales de puna de alta altitud donde llamas y alpacas pastan contra un fondo de picos nevados. Márcate tu propio ritmo - la altitud es extrema. Miembros de la comunidad local se alinean en el sendero con caballos para quienes necesitan asistencia. Mientras te acercas a la cumbre, la famosa montaña rayada repentinamente aparece a la vista - una vista que parece imposiblemente vívida. Pasa tiempo en el mirador de 5,200 metros fotografiando esta maravilla geológica. Opcionalmente camina al cercano Valle Rojo para vistas igualmente impresionantes. Desciende para un almuerzo tardío antes del viaje de regreso a Cusco.',
+    highlights: [
+      'Surreal rainbow-striped mountain',
+      'One of Peru\'s most iconic views',
+      'High-altitude puna landscapes',
+      'Traditional Quechua communities',
+      'Llamas and alpacas grazing',
+      'Optional Red Valley extension',
+      'Sunrise over the Andes'
+    ],
+    highlightsEs: [
+      'Montaña surrealista con rayas arcoíris',
+      'Una de las vistas más icónicas de Perú',
+      'Paisajes de puna de alta altitud',
+      'Comunidades Quechua tradicionales',
+      'Llamas y alpacas pastando',
+      'Extensión opcional al Valle Rojo',
+      'Amanecer sobre los Andes'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: 'Full day (14-16 hours)',
+    durationEs: 'Día completo (14-16 horas)',
+    difficulty: 'challenging',
+    priceRange: '$80-150 per person',
+    priceRangeEs: '$80-150 por persona',
+    bestTime: 'April-November dry season only. June-August best visibility. Morning departures for clear skies.',
+    bestTimeEs: 'Solo temporada seca abril-noviembre. Junio-agosto mejor visibilidad. Salidas matutinas para cielos despejados.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Breakfast and lunch',
+      'Professional guide',
+      'Entrance fees',
+      'Emergency oxygen',
+      'First aid kit'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Desayuno y almuerzo',
+      'Guía profesional',
+      'Entradas',
+      'Oxígeno de emergencia',
+      'Botiquín de primeros auxilios'
+    ],
+    tips: [
+      'Must acclimatize 3-4 days in Cusco first',
+      'Altitude (5,200m) is extreme - assess honestly',
+      'Horses available for $15-20 if needed',
+      'Bring warm windproof layers and sunscreen',
+      'Start early to beat afternoon clouds'
+    ],
+    tipsEs: [
+      'Debe aclimatarse 3-4 días en Cusco primero',
+      'Altitud (5,200m) es extrema - evalúa honestamente',
+      'Caballos disponibles por $15-20 si se necesita',
+      'Trae capas abrigadas cortaviento y protector solar',
+      'Empezar temprano para evitar nubes de la tarde'
+    ],
+    safetyNotes: [
+      'Extreme altitude (5,200m) - serious acclimatization required',
+      'Not recommended for heart/lung conditions',
+      'Turn back if symptoms become severe',
+      'Guide carries emergency oxygen',
+      'Weather changes rapidly - be prepared'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (5,200m) - aclimatación seria requerida',
+      'No recomendado para condiciones de corazón/pulmón',
+      'Regresa si los síntomas se vuelven severos',
+      'Guía lleva oxígeno de emergencia',
+      'El clima cambia rápidamente - estar preparado'
+    ],
+    relatedActivities: ['ausangate-trek', 'sacred-valley-tour', 'cusco-walking-tour'],
+    providers: [
+      { name: 'Alpaca Expeditions', familyFriendly: true },
+      { name: 'Cusco Adventures', familyFriendly: true },
+      { name: 'Rainbow Mountain Travels', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sechin-archaeological-tour',
+    name: 'Sechín Ancient Warriors Archaeological Tour',
+    nameEs: 'Tour Arqueológico a los Guerreros Antiguos de Sechín',
+    type: 'cultural',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Ancash',
+    description: 'Step back 3,600 years to encounter one of the Americas\' most enigmatic and dramatic archaeological sites. Sechín\'s remarkable stone carvings depict fierce warriors, severed heads, and dismembered bodies in vivid detail, offering a startling window into pre-Columbian warfare and ritual. This off-the-beaten-path destination predates Peru\'s famous cultures by over a millennium, fascinating families interested in archaeology beyond the standard tourist circuit.',
+    descriptionEs: 'Retrocede 3,600 años para encontrar uno de los sitios arqueológicos más enigmáticos y dramáticos de las Américas. Los notables tallados en piedra de Sechín representan guerreros feroces, cabezas cortadas y cuerpos desmembrados en vívido detalle, ofreciendo una ventana sorprendente a la guerra precolombina y el ritual. Este destino fuera de lo común precede a las famosas culturas de Perú por más de un milenio, fascinando a familias interesadas en arqueología más allá del circuito turístico estándar.',
+    whatToExpect: 'Meet your guide in Casma for the short drive to this remarkable site. Begin at the on-site museum where artifacts and interpretive displays provide context for the mysterious carvings. Learn about the site\'s discovery by Peruvian archaeologist Julio C. Tello in 1937 and the ongoing debates about what the images represent. Walk to the main temple complex where over 400 carved stone figures line the walls. Your guide explains the progression of warriors carrying clubs and trophy heads while pointing out the disturbing imagery of dismembered body parts - arms, legs, vertebrae, even intestines carved in stone. Discuss theories about whether these depict actual battles, ritual sacrifice, or mythological narratives. Examine the detailed carving techniques used 3,600 years ago. Children are often fascinated by the puzzle of deciphering what these ancient people were trying to communicate. Finish with free time to photograph and explore before optional visit to nearby Casma beaches.',
+    whatToExpectEs: 'Encuentra a tu guía en Casma para el corto viaje a este notable sitio. Comienza en el museo en sitio donde artefactos y exhibiciones interpretativas proporcionan contexto para los misteriosos tallados. Aprende sobre el descubrimiento del sitio por el arqueólogo peruano Julio C. Tello en 1937 y los debates en curso sobre qué representan las imágenes. Camina al complejo del templo principal donde más de 400 figuras talladas en piedra bordean las paredes. Tu guía explica la progresión de guerreros llevando mazas y cabezas trofeo mientras señala la perturbadora imaginería de partes del cuerpo desmembradas - brazos, piernas, vértebras, incluso intestinos tallados en piedra. Discute teorías sobre si estos representan batallas reales, sacrificio ritual o narrativas mitológicas. Examina las técnicas detalladas de tallado usadas hace 3,600 años. Los niños frecuentemente se fascinan con el rompecabezas de descifrar qué intentaban comunicar estas personas antiguas. Termina con tiempo libre para fotografiar y explorar antes de visita opcional a las cercanas playas de Casma.',
+    highlights: [
+      'Over 400 ancient stone carvings',
+      '3,600-year-old warrior imagery',
+      'One of Americas\' oldest monumental art',
+      'On-site museum with artifacts',
+      'Expert guide interpretation',
+      'Off-the-beaten-path experience',
+      'Optional beach visit nearby'
+    ],
+    highlightsEs: [
+      'Más de 400 tallados antiguos en piedra',
+      'Imaginería de guerreros de 3,600 años',
+      'Uno de los artes monumentales más antiguos de las Américas',
+      'Museo en sitio con artefactos',
+      'Interpretación de guía experto',
+      'Experiencia fuera de lo común',
+      'Visita opcional a playa cercana'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$30-60 per person',
+    priceRangeEs: '$30-60 por persona',
+    bestTime: 'Year-round. Coastal climate is mild. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Clima costero es templado. Visitas matutinas evitan calor de la tarde.',
+    includes: [
+      'Transportation from Casma',
+      'Professional guide',
+      'Museum entrance',
+      'Site entrance fees',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Transporte desde Casma',
+      'Guía profesional',
+      'Entrada al museo',
+      'Entradas al sitio',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Content is graphic - prepare children appropriately',
+      'Great for kids interested in history mysteries',
+      'Combine with Casma beaches for full day',
+      'Photography allowed throughout',
+      'Hat and sunscreen recommended'
+    ],
+    tipsEs: [
+      'Contenido es gráfico - preparar niños apropiadamente',
+      'Genial para niños interesados en misterios históricos',
+      'Combina con playas de Casma para día completo',
+      'Fotografía permitida en todo el lugar',
+      'Sombrero y protector solar recomendados'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Shaded areas limited - bring sun protection',
+      'Easy flat walking throughout',
+      'Mild coastal temperatures',
+      'Modern visitor facilities'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Áreas sombreadas limitadas - traer protección solar',
+      'Caminata fácil y plana en todo el recorrido',
+      'Temperaturas costeras templadas',
+      'Instalaciones modernas para visitantes'
+    ],
+    relatedActivities: ['chavin-de-huantar-tour', 'caral-archaeology-tour', 'chan-chan-tour'],
+    providers: [
+      { name: 'Casma Tours', familyFriendly: true },
+      { name: 'Peru Ancient Cultures', familyFriendly: true },
+      { name: 'Ancash Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'kotosh-temple-tour',
+    name: 'Kotosh Crossed Hands Temple Tour',
+    nameEs: 'Tour al Templo de las Manos Cruzadas de Kotosh',
+    type: 'cultural',
+    city: 'huanuco',
+    region: 'Huánuco Region',
+    regionEs: 'Región Huánuco',
+    description: 'Visit one of the Americas\' most ancient religious sites to see the famous "Crossed Hands" - a 4,000-year-old clay relief that has become a symbol of Peru\'s earliest civilizations. This off-the-beaten-path temple complex in a beautiful eastern Andean valley predates the Incas by three millennia, offering families a journey into Peru\'s mysterious formative period far from the usual tourist crowds.',
+    descriptionEs: 'Visita uno de los sitios religiosos más antiguos de las Américas para ver las famosas "Manos Cruzadas" - un relieve de arcilla de 4,000 años que se ha convertido en símbolo de las civilizaciones más tempranas de Perú. Este complejo de templos fuera de lo común en un hermoso valle de los Andes orientales precede a los Incas por tres milenios, ofreciendo a las familias un viaje al misterioso período formativo de Perú lejos de las multitudes turísticas usuales.',
+    whatToExpect: 'Meet your guide in Huánuco city for the short drive to this remarkable archaeological site in a green river valley. Begin at the visitor center to understand the significance of what you\'re about to see - Kotosh was a ceremonial center when the Egyptian pyramids were still new. Walk the site\'s ancient pathways to view multiple ceremonial chambers, each built in the distinctive "Kotosh Religious Tradition" style with central fire hearths. Your guide explains how these small rooms were ritually burned and buried, then rebuilt over centuries. The highlight is viewing the famous Crossed Hands relief - a replica of the original now in Lima. These crossed forearms, molded in clay 4,000 years ago, appear on Peru\'s ten-sol coin and symbolize the country\'s ancient heritage. Children enjoy hunting for the subtle differences between ceremonial chambers and imagining the rituals that once took place here. The peaceful setting and lack of crowds create an contemplative atmosphere.',
+    whatToExpectEs: 'Encuentra a tu guía en la ciudad de Huánuco para el corto viaje a este notable sitio arqueológico en un verde valle de río. Comienza en el centro de visitantes para entender la significancia de lo que estás a punto de ver - Kotosh era un centro ceremonial cuando las pirámides egipcias aún eran nuevas. Camina por los antiguos senderos del sitio para ver múltiples cámaras ceremoniales, cada una construida en el distintivo estilo de la "Tradición Religiosa Kotosh" con hogares de fuego centrales. Tu guía explica cómo estas pequeñas habitaciones eran ritualmente quemadas y enterradas, luego reconstruidas durante siglos. El punto culminante es ver el famoso relieve de las Manos Cruzadas - una réplica del original ahora en Lima. Estos antebrazos cruzados, moldeados en arcilla hace 4,000 años, aparecen en la moneda de diez soles de Perú y simbolizan la herencia antigua del país. Los niños disfrutan buscando las diferencias sutiles entre cámaras ceremoniales e imaginando los rituales que una vez tuvieron lugar aquí. El entorno pacífico y la falta de multitudes crean una atmósfera contemplativa.',
+    highlights: [
+      'Famous Crossed Hands relief (replica)',
+      '4,000-year-old ceremonial complex',
+      'Symbol featured on Peruvian currency',
+      'Kotosh Religious Tradition origins',
+      'Multiple ancient ceremonial chambers',
+      'Peaceful uncrowded site',
+      'Beautiful mountain valley setting'
+    ],
+    highlightsEs: [
+      'Famoso relieve de Manos Cruzadas (réplica)',
+      'Complejo ceremonial de 4,000 años',
+      'Símbolo presentado en moneda peruana',
+      'Orígenes de la Tradición Religiosa Kotosh',
+      'Múltiples cámaras ceremoniales antiguas',
+      'Sitio pacífico sin multitudes',
+      'Hermoso entorno de valle de montaña'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Year-round. April-October dry season best. Pleasant climate at 1,950m altitude.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre mejor. Clima agradable a 1,950m de altitud.',
+    includes: [
+      'Transportation from Huánuco',
+      'Professional bilingual guide',
+      'Site entrance fees',
+      'Bottled water',
+      'Snack'
+    ],
+    includesEs: [
+      'Transporte desde Huánuco',
+      'Guía profesional bilingüe',
+      'Entradas al sitio',
+      'Agua embotellada',
+      'Snack'
+    ],
+    tips: [
+      'Original Crossed Hands in Lima - this is replica',
+      'Show children the 10 sol coin beforehand',
+      'Combine with Huánuco city exploration',
+      'Great acclimatization stop en route to jungle',
+      'Peaceful site - few other tourists'
+    ],
+    tipsEs: [
+      'Manos Cruzadas originales en Lima - esta es réplica',
+      'Muestra a los niños la moneda de 10 soles antes',
+      'Combina con exploración de la ciudad de Huánuco',
+      'Gran parada de aclimatación en ruta a la selva',
+      'Sitio pacífico - pocos otros turistas'
+    ],
+    safetyNotes: [
+      'Moderate altitude (1,950m) - minimal impact',
+      'Easy flat walking throughout',
+      'Shaded rest areas available',
+      'Modern visitor facilities',
+      'Safe family-friendly site'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (1,950m) - impacto mínimo',
+      'Caminata fácil y plana en todo el recorrido',
+      'Áreas de descanso sombreadas disponibles',
+      'Instalaciones modernas para visitantes',
+      'Sitio seguro y familiar'
+    ],
+    relatedActivities: ['caral-archaeology-tour', 'chavin-de-huantar-tour', 'sechin-archaeological-tour'],
+    providers: [
+      { name: 'Huánuco Tours', familyFriendly: true },
+      { name: 'Peru Ancient Heritage', familyFriendly: true },
+      { name: 'Eastern Andes Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'puerto-inca-beach-ruins',
+    name: 'Puerto Inca Beach & Inca Ruins Adventure',
+    nameEs: 'Aventura en Playa Puerto Inca y Ruinas Incas',
+    type: 'adventure',
+    city: 'nazca',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Discover a hidden gem where ancient Inca history meets pristine Pacific beaches. Puerto Inca was once the fishing port that supplied fresh seafood to Cusco\'s emperors in just 24 hours via relay runners. Today, remarkably preserved ruins overlook a beautiful swimming bay on Peru\'s remote southern coast. This off-the-beaten-path adventure combines archaeology, beach time, snorkeling, and incredible stargazing.',
+    descriptionEs: 'Descubre una joya escondida donde la antigua historia Inca se encuentra con playas prístinas del Pacífico. Puerto Inca fue una vez el puerto pesquero que suministraba mariscos frescos a los emperadores de Cusco en solo 24 horas vía corredores de relevo. Hoy, ruinas notablemente preservadas dan a una hermosa bahía para nadar en la remota costa sur de Perú. Esta aventura fuera de lo común combina arqueología, tiempo de playa, snorkel y observación de estrellas increíble.',
+    whatToExpect: 'Depart from Nazca for the scenic three-hour drive south along the Pan-American Highway, with dramatic views of the coastal desert meeting the Pacific. Turn onto a rough road descending to a hidden bay where Inca ruins line the clifftops. Explore the well-preserved archaeological site with your guide, seeing storage buildings, administrative structures, and the remarkable Inca road climbing into the mountains - the same path chasqui runners once used to transport fresh fish to Cusco in 24 hours. Learn about the ingenious relay system that allowed the Inca emperor to enjoy ocean seafood in his mountain capital. After exploring, descend to the beautiful beach for swimming in calm, clear waters. The bay\'s protected cove is perfect for families. Snorkel around rocky points where tropical fish gather. Enjoy a fresh seafood lunch at the rustic beachfront hotel. Those staying overnight experience spectacular stargazing with zero light pollution. Morning swimmers often see pelicans diving and sea lions playing offshore.',
+    whatToExpectEs: 'Parte de Nazca para el viaje escénico de tres horas al sur por la Carretera Panamericana, con vistas dramáticas del desierto costero encontrándose con el Pacífico. Gira a un camino accidentado descendiendo a una bahía escondida donde ruinas Incas bordean los acantilados. Explora el sitio arqueológico bien preservado con tu guía, viendo edificios de almacenamiento, estructuras administrativas y el notable camino Inca subiendo a las montañas - el mismo sendero que los corredores chasquis una vez usaron para transportar pescado fresco a Cusco en 24 horas. Aprende sobre el ingenioso sistema de relevo que permitía al emperador Inca disfrutar mariscos del océano en su capital de montaña. Después de explorar, desciende a la hermosa playa para nadar en aguas tranquilas y claras. La ensenada protegida de la bahía es perfecta para familias. Haz snorkel alrededor de puntas rocosas donde se reúnen peces tropicales. Disfruta un almuerzo de mariscos frescos en el rústico hotel frente al mar. Quienes se quedan a pasar la noche experimentan observación de estrellas espectacular sin contaminación lumínica. Los nadadores matutinos frecuentemente ven pelícanos zambulléndose y lobos marinos jugando mar adentro.',
+    highlights: [
+      'Pristine Pacific beach',
+      'Well-preserved Inca fishing port',
+      'Famous chasqui runner road',
+      'Excellent snorkeling',
+      'Fresh seafood lunch',
+      'Spectacular stargazing',
+      'Remote uncrowded location'
+    ],
+    highlightsEs: [
+      'Playa prístina del Pacífico',
+      'Puerto pesquero Inca bien preservado',
+      'Famoso camino de corredores chasquis',
+      'Excelente snorkel',
+      'Almuerzo de mariscos frescos',
+      'Observación de estrellas espectacular',
+      'Ubicación remota sin multitudes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Full day or overnight',
+    durationEs: 'Día completo o pernocta',
+    difficulty: 'easy',
+    priceRange: '$80-150 day trip, $200-300 overnight',
+    priceRangeEs: '$80-150 viaje de día, $200-300 pernocta',
+    bestTime: 'Year-round. December-April warmest water. Clear skies most of year for stargazing.',
+    bestTimeEs: 'Todo el año. Diciembre-abril agua más cálida. Cielos despejados la mayor parte del año para observar estrellas.',
+    includes: [
+      'Transportation from Nazca',
+      'Professional guide for ruins',
+      'Site access',
+      'Fresh seafood lunch',
+      'Snorkeling equipment',
+      'Beach facilities access'
+    ],
+    includesEs: [
+      'Transporte desde Nazca',
+      'Guía profesional para ruinas',
+      'Acceso al sitio',
+      'Almuerzo de mariscos frescos',
+      'Equipo de snorkel',
+      'Acceso a instalaciones de playa'
+    ],
+    tips: [
+      'Overnight stay highly recommended',
+      'Book hotel well in advance - only one on site',
+      'Bring supplies - very remote location',
+      'Stars are incredible - bring stargazing app',
+      'Water is warmer December-April'
+    ],
+    tipsEs: [
+      'Estadía nocturna altamente recomendada',
+      'Reserva hotel con anticipación - solo uno en sitio',
+      'Trae suministros - ubicación muy remota',
+      'Las estrellas son increíbles - trae app de observación',
+      'El agua es más cálida diciembre-abril'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Calm protected bay for swimming',
+      'Remote location - limited medical facilities',
+      'Sun protection essential',
+      'Road is unpaved - 4x4 recommended'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Bahía tranquila y protegida para nadar',
+      'Ubicación remota - instalaciones médicas limitadas',
+      'Protección solar esencial',
+      'Camino sin pavimentar - 4x4 recomendado'
+    ],
+    relatedActivities: ['nazca-lines-flight', 'paracas-ballestas-tour', 'ica-oasis-tour'],
+    providers: [
+      { name: 'Nazca Trails', familyFriendly: true },
+      { name: 'Peru Coastal Adventures', familyFriendly: true },
+      { name: 'Hotel Puerto Inca', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'puruchuco-mummy-discovery-tour',
+    name: 'Puruchuco Inca Palace & Mummy Discovery Tour',
+    nameEs: 'Tour de Descubrimiento de Momias y Palacio Inca de Puruchuco',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Explore one of Lima\'s most significant yet uncrowded archaeological sites, where an Inca palace complex and one of the Americas\' largest pre-Columbian cemeteries reveal how ordinary people and nobles lived before the Spanish conquest. This hidden gem just 30 minutes from central Lima offers an authentic experience without tourist crowds, featuring over 2,200 mummy bundles discovered in 2002 and a beautifully restored curaca (administrator) residence.',
+    descriptionEs: 'Explora uno de los sitios arqueológicos más significativos pero sin multitudes de Lima, donde un complejo de palacio Inca y uno de los cementerios precolombinos más grandes de las Américas revelan cómo vivían las personas comunes y nobles antes de la conquista española. Esta joya escondida a solo 30 minutos del centro de Lima ofrece una experiencia auténtica sin multitudes turísticas, presentando más de 2,200 fardos de momias descubiertos en 2002 y una bellamente restaurada residencia de curaca (administrador).',
+    whatToExpect: 'Meet your guide in Lima\'s Ate district and enter the reconstructed Inca palace complex of Puruchuco. Walk through the curaca\'s residence, seeing how Inca regional administrators lived - with private apartments, ceremonial spaces, and storage rooms for tribute goods. Your guide explains the social structure of Inca society and how the curaca served as intermediary between the emperor and local populations. Continue to the outstanding site museum to see artifacts from the 2002 cemetery discovery - one of archaeology\'s most significant finds. View remarkably preserved mummy bundles (fardos) with original textiles and grave goods that reveal details about diet, disease, occupation, and social status across all classes. Children are fascinated by the detective work archaeologists use to understand these ancient lives. See ceramics, tools, and food offerings that accompanied the dead. The uncrowded setting allows close examination of displays impossible at busier sites.',
+    whatToExpectEs: 'Encuentra a tu guía en el distrito de Ate de Lima y entra al complejo de palacio Inca reconstruido de Puruchuco. Camina por la residencia del curaca, viendo cómo vivían los administradores regionales Incas - con apartamentos privados, espacios ceremoniales y habitaciones de almacenamiento para bienes de tributo. Tu guía explica la estructura social de la sociedad Inca y cómo el curaca servía como intermediario entre el emperador y las poblaciones locales. Continúa al sobresaliente museo de sitio para ver artefactos del descubrimiento del cementerio de 2002 - uno de los hallazgos más significativos de la arqueología. Ve fardos de momias notablemente preservados con textiles originales y ajuares funerarios que revelan detalles sobre dieta, enfermedad, ocupación y estatus social a través de todas las clases. Los niños se fascinan con el trabajo de detective que los arqueólogos usan para entender estas vidas antiguas. Ve cerámicas, herramientas y ofrendas de comida que acompañaban a los muertos. El entorno sin multitudes permite examen cercano de exhibiciones imposible en sitios más concurridos.',
+    highlights: [
+      'Restored Inca curaca palace',
+      'Over 2,200 mummies discovered',
+      'Outstanding site museum',
+      'Preserved textiles and grave goods',
+      'Uncrowded experience',
+      'Understanding Inca society',
+      'Easy access from Lima'
+    ],
+    highlightsEs: [
+      'Palacio de curaca Inca restaurado',
+      'Más de 2,200 momias descubiertas',
+      'Sobresaliente museo de sitio',
+      'Textiles preservados y ajuares funerarios',
+      'Experiencia sin multitudes',
+      'Entendiendo la sociedad Inca',
+      'Fácil acceso desde Lima'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. Morning visits recommended. Closed Mondays.',
+    bestTimeEs: 'Todo el año. Visitas matutinas recomendadas. Cerrado los lunes.',
+    includes: [
+      'Hotel pickup from Lima center',
+      'Professional bilingual guide',
+      'Site and museum entrance fees',
+      'Bottled water',
+      'Transport return'
+    ],
+    includesEs: [
+      'Recogida en hotel desde centro de Lima',
+      'Guía profesional bilingüe',
+      'Entradas al sitio y museo',
+      'Agua embotellada',
+      'Transporte de regreso'
+    ],
+    tips: [
+      'Much quieter than Pachacamac',
+      'Prepare children for seeing mummies',
+      'Museum air-conditioned - pleasant',
+      'Photography allowed most areas',
+      'Combine with Cajamarquilla nearby'
+    ],
+    tipsEs: [
+      'Mucho más tranquilo que Pachacamac',
+      'Preparar a los niños para ver momias',
+      'Museo con aire acondicionado - agradable',
+      'Fotografía permitida en la mayoría de áreas',
+      'Combina con Cajamarquilla cercano'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Air-conditioned museum',
+      'Easy flat walking',
+      'Safe urban area',
+      'Modern facilities'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Museo con aire acondicionado',
+      'Caminata fácil y plana',
+      'Área urbana segura',
+      'Instalaciones modernas'
+    ],
+    relatedActivities: ['pachacamac-tour', 'museo-larco-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Lima Discovery', familyFriendly: true },
+      { name: 'Peru Archaeology Tours', familyFriendly: true },
+      { name: 'Lima Off the Beaten Path', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tucume-pyramids-tour',
+    name: 'Túcume Pyramids Archaeological Adventure',
+    nameEs: 'Aventura Arqueológica a las Pirámides de Túcume',
+    type: 'cultural',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'Discover 26 massive adobe pyramids at one of South America\'s most impressive yet least-visited archaeological sites. Túcume rivals Egypt\'s Giza in scale but receives a fraction of visitors, offering families an uncrowded exploration of a monumental city built by the Sicán, expanded by the Chimú, and conquered by the Incas. Climb to panoramic viewpoints and explore an excellent site museum with remarkable artifacts.',
+    descriptionEs: 'Descubre 26 pirámides masivas de adobe en uno de los sitios arqueológicos más impresionantes pero menos visitados de Sudamérica. Túcume rivaliza con Giza de Egipto en escala pero recibe una fracción de visitantes, ofreciendo a las familias una exploración sin multitudes de una ciudad monumental construida por los Sicán, expandida por los Chimú, y conquistada por los Incas. Sube a miradores panorámicos y explora un excelente museo de sitio con artefactos notables.',
+    whatToExpect: 'Depart Chiclayo for the 45-minute drive north through the Lambayeque Valley to this remarkable site. Begin at the viewing platform on Cerro Purgatorio for breathtaking panoramic views over 26 adobe pyramids sprawling across the valley - Huaca Larga alone stretches 700 meters. Your guide explains how three cultures - Sicán, Chimú, and Inca - successively built and expanded this ceremonial center over 500 years. Descend to explore excavated areas where archaeologists have uncovered workshops, elite residences, and elaborate burial chambers. Learn about Thor Heyerdahl\'s excavations in the 1990s and the remarkable discoveries made here. Visit the excellent site museum to see artifacts including the famous Tumi ceremonial knife, gold masks, and exquisite textiles. Children are fascinated by the scale and the mysteries still being uncovered. Return via traditional villages where you can see local craftwork.',
+    whatToExpectEs: 'Parte de Chiclayo para el viaje de 45 minutos al norte a través del Valle de Lambayeque a este notable sitio. Comienza en la plataforma de observación en Cerro Purgatorio para vistas panorámicas impresionantes de 26 pirámides de adobe extendiéndose por el valle - solo Huaca Larga se extiende 700 metros. Tu guía explica cómo tres culturas - Sicán, Chimú e Inca - sucesivamente construyeron y expandieron este centro ceremonial durante 500 años. Desciende para explorar áreas excavadas donde arqueólogos han descubierto talleres, residencias de élite y elaboradas cámaras funerarias. Aprende sobre las excavaciones de Thor Heyerdahl en los años 1990 y los notables descubrimientos hechos aquí. Visita el excelente museo de sitio para ver artefactos incluyendo el famoso cuchillo ceremonial Tumi, máscaras de oro y exquisitos textiles. Los niños se fascinan con la escala y los misterios aún siendo descubiertos. Regresa vía pueblos tradicionales donde puedes ver artesanías locales.',
+    highlights: [
+      '26 massive adobe pyramids',
+      'Huaca Larga - 700 meters long',
+      'Cerro Purgatorio viewpoint',
+      'Three cultures in one site',
+      'Outstanding site museum',
+      'Thor Heyerdahl excavation site',
+      'Uncrowded exploration'
+    ],
+    highlightsEs: [
+      '26 pirámides masivas de adobe',
+      'Huaca Larga - 700 metros de largo',
+      'Mirador Cerro Purgatorio',
+      'Tres culturas en un sitio',
+      'Sobresaliente museo de sitio',
+      'Sitio de excavación de Thor Heyerdahl',
+      'Exploración sin multitudes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$50-80 per person',
+    priceRangeEs: '$50-80 por persona',
+    bestTime: 'Year-round. Coastal desert climate mild. Morning visits avoid midday heat.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero templado. Visitas matutinas evitan calor del mediodía.',
+    includes: [
+      'Hotel pickup from Chiclayo',
+      'Professional guide',
+      'Site and museum entrance',
+      'Bottled water',
+      'Transport return'
+    ],
+    includesEs: [
+      'Recogida en hotel desde Chiclayo',
+      'Guía profesional',
+      'Entrada al sitio y museo',
+      'Agua embotellada',
+      'Transporte de regreso'
+    ],
+    tips: [
+      'Combine with Sipán and Sicán museums',
+      'Wear comfortable walking shoes',
+      'Hat and sunscreen essential',
+      'Museum offers shade relief',
+      'Photography allowed throughout'
+    ],
+    tipsEs: [
+      'Combina con museos de Sipán y Sicán',
+      'Usa zapatos cómodos para caminar',
+      'Sombrero y protector solar esenciales',
+      'Museo ofrece alivio de la sombra',
+      'Fotografía permitida en todo el lugar'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Some climbing for viewpoint',
+      'Hot coastal desert - stay hydrated',
+      'Modern museum facilities',
+      'Safe tourist area'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Algo de subida para el mirador',
+      'Desierto costero caliente - mantente hidratado',
+      'Instalaciones de museo modernas',
+      'Área turística segura'
+    ],
+    relatedActivities: ['sipan-tomb-tour', 'chan-chan-tour', 'chiclayo-cultural-circuit'],
+    providers: [
+      { name: 'Chiclayo Tours', familyFriendly: true },
+      { name: 'Northern Peru Archaeology', familyFriendly: true },
+      { name: 'Lambayeque Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'maras-moray-tour',
+    name: 'Maras Salt Mines & Moray Terraces Tour',
+    nameEs: 'Tour a Salineras de Maras y Terrazas de Moray',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore two of the Sacred Valley\'s most unique and photogenic sites on this popular half-day excursion. At Maras, thousands of terraced salt pools cascade down a mountainside where families have harvested pink salt since pre-Inca times. At Moray, mysterious concentric terraces descend into bowl-shaped depressions - an ancient Inca agricultural laboratory. Together, these sites reveal the ingenuity and beauty of Andean civilization.',
+    descriptionEs: 'Explora dos de los sitios más únicos y fotogénicos del Valle Sagrado en esta popular excursión de medio día. En Maras, miles de pozas de sal en terrazas descienden por una ladera de montaña donde las familias han cosechado sal rosa desde tiempos pre-Incas. En Moray, misteriosas terrazas concéntricas descienden en depresiones en forma de cuenco - un antiguo laboratorio agrícola Inca. Juntos, estos sitios revelan el ingenio y belleza de la civilización andina.',
+    whatToExpect: 'Depart Cusco or the Sacred Valley for the scenic drive through traditional villages to the Maras Salt Mines. Walk among thousands of white terraced pools gleaming against the red mountainside, learning how families have channeled mineral-rich spring water into evaporation pools for over a millennium. Watch workers harvesting crystallized pink salt using methods unchanged for centuries. Purchase gourmet pink salt directly from local families. Continue to Moray where three massive circular depressions drop into the plateau like ancient amphitheaters. Your guide explains how the Incas used these concentric terraces as an agricultural laboratory, with temperature differences of up to 15°C between levels allowing crop experimentation. Descend into the largest bowl for a unique perspective. Children love running the terraces and imagining Inca scientists at work. Return via the colonial town of Chinchero if time allows.',
+    whatToExpectEs: 'Parte de Cusco o el Valle Sagrado para el viaje escénico a través de pueblos tradicionales a las Salineras de Maras. Camina entre miles de pozas en terrazas blancas brillando contra la ladera de montaña roja, aprendiendo cómo las familias han canalizado agua de manantial rica en minerales a pozas de evaporación por más de un milenio. Observa trabajadores cosechando sal rosa cristalizada usando métodos sin cambios por siglos. Compra sal rosa gourmet directamente de familias locales. Continúa a Moray donde tres depresiones circulares masivas caen en la meseta como antiguos anfiteatros. Tu guía explica cómo los Incas usaron estas terrazas concéntricas como laboratorio agrícola, con diferencias de temperatura de hasta 15°C entre niveles permitiendo experimentación de cultivos. Desciende al cuenco más grande para una perspectiva única. A los niños les encanta correr las terrazas e imaginar científicos Incas trabajando. Regresa vía el pueblo colonial de Chinchero si el tiempo lo permite.',
+    highlights: [
+      'Thousands of terraced salt pools',
+      'Living pre-Inca salt mining tradition',
+      'Pink gourmet salt purchases',
+      'Mysterious Moray circular terraces',
+      'Inca agricultural laboratory',
+      'Stunning Sacred Valley scenery',
+      'Two unique sites in one trip'
+    ],
+    highlightsEs: [
+      'Miles de pozas de sal en terrazas',
+      'Tradición viva de minería de sal pre-Inca',
+      'Compras de sal rosa gourmet',
+      'Misteriosas terrazas circulares de Moray',
+      'Laboratorio agrícola Inca',
+      'Impresionante paisaje del Valle Sagrado',
+      'Dos sitios únicos en un viaje'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person',
+    priceRangeEs: '$40-70 por persona',
+    bestTime: 'Year-round. May-October dry season best. Morning light ideal for salt mines photos.',
+    bestTimeEs: 'Todo el año. Temporada seca mayo-octubre mejor. Luz matutina ideal para fotos de las salineras.',
+    includes: [
+      'Hotel pickup from Cusco or Sacred Valley',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Site entrance fees',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida en hotel desde Cusco o Valle Sagrado',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Entradas a los sitios',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Wear sunglasses - salt pools are bright',
+      'Stay on marked paths at Maras',
+      'Boleto Turístico covers Moray admission',
+      'Buy salt directly from families',
+      'Best photos morning or late afternoon'
+    ],
+    tipsEs: [
+      'Usa gafas de sol - pozas de sal son brillantes',
+      'Quédate en senderos marcados en Maras',
+      'Boleto Turístico cubre admisión a Moray',
+      'Compra sal directamente de familias',
+      'Mejores fotos mañana o tarde'
+    ],
+    safetyNotes: [
+      'Moderate altitude (3,400-3,500m)',
+      'Acclimatize in Cusco first',
+      'Easy walking at both sites',
+      'Some sun exposure - bring protection',
+      'Paths at Maras can be slippery'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (3,400-3,500m)',
+      'Aclimatarse en Cusco primero',
+      'Caminata fácil en ambos sitios',
+      'Algo de exposición solar - traer protección',
+      'Senderos en Maras pueden ser resbalosos'
+    ],
+    relatedActivities: ['sacred-valley-tour', 'ollantaytambo-tour', 'chinchero-weaving-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Cusco Expeditions', familyFriendly: true },
+      { name: 'Peru Family Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'northern-peru-archaeology-circuit',
+    name: 'Northern Peru Archaeological Circuit',
+    nameEs: 'Circuito Arqueológico del Norte de Perú',
+    type: 'cultural',
+    city: 'chiclayo',
+    region: 'Lambayeque Region',
+    regionEs: 'Región Lambayeque',
+    description: 'Discover pre-Inca civilizations that rival the Incas in sophistication and artistry on this comprehensive tour of northern Peru\'s extraordinary archaeological heritage. Visit the Lord of Sipán\'s tomb (Peru\'s "King Tut"), the golden treasures of the Sicán Museum, and the 26 pyramids of Túcume. This full-day circuit reveals cultures that flourished long before the Incas and created some of the Americas\' finest metalwork and ceramics.',
+    descriptionEs: 'Descubre civilizaciones pre-Incas que rivalizan con los Incas en sofisticación y arte en este tour completo del extraordinario patrimonio arqueológico del norte de Perú. Visita la tumba del Señor de Sipán (el "Rey Tut" de Perú), los tesoros dorados del Museo Sicán y las 26 pirámides de Túcume. Este circuito de día completo revela culturas que florecieron mucho antes de los Incas y crearon algunos de los mejores trabajos en metal y cerámicas de las Américas.',
+    whatToExpect: 'Begin at the Royal Tombs of Sipán Museum in Lambayeque, housing the extraordinary burial treasures of the Lord of Sipán - the richest unlooted tomb ever discovered in the Americas. Marvel at gold crowns, turquoise ear ornaments, and ceremonial regalia that rival Egyptian pharaohs. Continue to Huaca Rajada, the actual pyramid where this warrior-priest was buried 1,700 years ago, and see where archaeologists made their groundbreaking discovery in 1987. After lunch featuring northern Peruvian specialties, visit the Sicán National Museum with its remarkable collection of gold masks and ceremonial objects from an even earlier culture. Finally, explore the 26 massive pyramids of Túcume, climbing to panoramic viewpoints over this vast ceremonial complex. Your guide explains how the Moche, Sicán, Chimú, and finally Inca cultures each left their mark on this region. Return to Chiclayo with a new appreciation for Peru beyond the Incas.',
+    whatToExpectEs: 'Comienza en el Museo de Tumbas Reales de Sipán en Lambayeque, albergando los extraordinarios tesoros funerarios del Señor de Sipán - la tumba más rica nunca saqueada jamás descubierta en las Américas. Maravíllate con coronas de oro, ornamentos de oreja de turquesa y regalia ceremonial que rivaliza con faraones egipcios. Continúa a Huaca Rajada, la pirámide real donde este guerrero-sacerdote fue enterrado hace 1,700 años, y ve donde arqueólogos hicieron su descubrimiento revolucionario en 1987. Después del almuerzo presentando especialidades del norte de Perú, visita el Museo Nacional Sicán con su notable colección de máscaras de oro y objetos ceremoniales de una cultura aún más antigua. Finalmente, explora las 26 pirámides masivas de Túcume, subiendo a miradores panorámicos sobre este vasto complejo ceremonial. Tu guía explica cómo las culturas Moche, Sicán, Chimú, y finalmente Inca cada una dejó su marca en esta región. Regresa a Chiclayo con una nueva apreciación por Perú más allá de los Incas.',
+    highlights: [
+      'Lord of Sipán\'s golden burial treasures',
+      'Huaca Rajada discovery site',
+      'Sicán Museum gold masks',
+      '26 pyramids of Túcume',
+      'Three major museums in one day',
+      'Pre-Inca cultures explained',
+      'Northern Peruvian cuisine'
+    ],
+    highlightsEs: [
+      'Tesoros funerarios dorados del Señor de Sipán',
+      'Sitio de descubrimiento Huaca Rajada',
+      'Máscaras de oro del Museo Sicán',
+      '26 pirámides de Túcume',
+      'Tres museos principales en un día',
+      'Culturas pre-Incas explicadas',
+      'Cocina del norte de Perú'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'easy',
+    priceRange: '$100-150 per person',
+    priceRangeEs: '$100-150 por persona',
+    bestTime: 'Year-round. Coastal desert climate mild. Avoid occasional El Niño flooding.',
+    bestTimeEs: 'Todo el año. Clima de desierto costero templado. Evitar inundaciones ocasionales de El Niño.',
+    includes: [
+      'Hotel pickup from Chiclayo',
+      'Professional bilingual guide',
+      'Private transportation',
+      'All museum entrance fees',
+      'Traditional lunch',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida en hotel desde Chiclayo',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Todas las entradas a museos',
+      'Almuerzo tradicional',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Photography prohibited in Sipán Museum',
+      'Museums are air-conditioned',
+      'Wear comfortable walking shoes',
+      'Long day - pace yourselves',
+      'Northern food is distinctive - try ceviche'
+    ],
+    tipsEs: [
+      'Fotografía prohibida en Museo de Sipán',
+      'Museos tienen aire acondicionado',
+      'Usa zapatos cómodos para caminar',
+      'Día largo - márcate tu ritmo',
+      'Comida norteña es distintiva - prueba ceviche'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Air-conditioned museums',
+      'Some walking at pyramid site',
+      'Stay hydrated in desert climate',
+      'Safe tourist circuit'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Museos con aire acondicionado',
+      'Algo de caminata en sitio de pirámides',
+      'Mantente hidratado en clima desértico',
+      'Circuito turístico seguro'
+    ],
+    relatedActivities: ['chan-chan-tour', 'trujillo-moche-route', 'chiclayo-markets-tour'],
+    providers: [
+      { name: 'Chiclayo Tours', familyFriendly: true },
+      { name: 'Peru North Adventures', familyFriendly: true },
+      { name: 'Moche Route Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cajamarca-ransom-room-tour',
+    name: 'Cajamarca Ransom Room & Inca Baths Tour',
+    nameEs: 'Tour Cuarto del Rescate y Baños del Inca de Cajamarca',
+    type: 'cultural',
+    city: 'cajamarca',
+    region: 'Cajamarca',
+    regionEs: 'Cajamarca',
+    description: 'Walk through one of history\'s most dramatic moments at the Ransom Room where Atahualpa was imprisoned, then relax in the ancient thermal baths used by Inca royalty. This tour brings Peru\'s Spanish conquest history to life while ending with a soothing thermal bath experience the whole family will enjoy.',
+    descriptionEs: 'Camina a través de uno de los momentos más dramáticos de la historia en el Cuarto del Rescate donde Atahualpa fue prisionero, luego relájate en los antiguos baños termales utilizados por la realeza inca. Este tour trae a la vida la historia de la conquista española del Perú mientras termina con una experiencia relajante de baños termales que toda la familia disfrutará.',
+    whatToExpect: 'Your morning begins at the Plaza de Armas, where guides explain the fateful meeting between Atahualpa and Pizarro in 1532. Visit the Ransom Room, the only surviving Inca structure in Cajamarca, where children can see the famous line marking how high Atahualpa promised to fill the room with gold. The stone chamber creates powerful discussions about history and ethics. Continue to the Church of San Francisco where Atahualpa was baptized before his execution. After lunch featuring local specialties like cuy and humitas, drive to the Inca Baths where natural thermal pools maintain perfect temperatures for family soaking. Separate pools accommodate different temperatures, and the facility includes changing rooms and snacks. The warm mineral waters have been attracting visitors for over 500 years.',
+    whatToExpectEs: 'Tu mañana comienza en la Plaza de Armas, donde los guías explican el fatídico encuentro entre Atahualpa y Pizarro en 1532. Visita el Cuarto del Rescate, la única estructura inca sobreviviente en Cajamarca, donde los niños pueden ver la famosa línea marcando cuán alto Atahualpa prometió llenar el cuarto con oro. La cámara de piedra crea poderosas discusiones sobre historia y ética. Continúa a la Iglesia de San Francisco donde Atahualpa fue bautizado antes de su ejecución. Después del almuerzo con especialidades locales como cuy y humitas, viaja a los Baños del Inca donde las piscinas termales naturales mantienen temperaturas perfectas para el baño familiar. Piscinas separadas acomodan diferentes temperaturas, y las instalaciones incluyen vestidores y snacks. Las cálidas aguas minerales han atraído visitantes por más de 500 años.',
+    highlights: [
+      'Stand inside the actual Ransom Room where Atahualpa was imprisoned',
+      'See the line marking the ransom level - powerful visual for children',
+      'Visit the church where the last Inca emperor was baptized',
+      'Soak in thermal baths used by Inca royalty for centuries',
+      'Learn about the Spanish conquest in its actual location',
+      'Experience Cajamarca\'s unique northern highland culture',
+      'Family-friendly thermal pools with different temperatures',
+      'Taste authentic Cajamarca cuisine including fresh cheese'
+    ],
+    highlightsEs: [
+      'Párate dentro del verdadero Cuarto del Rescate donde Atahualpa fue prisionero',
+      'Ve la línea marcando el nivel del rescate - visual poderoso para niños',
+      'Visita la iglesia donde el último emperador inca fue bautizado',
+      'Sumérgete en baños termales usados por realeza inca por siglos',
+      'Aprende sobre la conquista española en su ubicación real',
+      'Experimenta la cultura única del altiplano norte de Cajamarca',
+      'Piscinas termales familiares con diferentes temperaturas',
+      'Prueba la auténtica cocina de Cajamarca incluyendo queso fresco'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$45-75 USD per person',
+    priceRangeEs: '$45-75 USD por persona',
+    bestTime: 'Year-round, May-October for dry season',
+    bestTimeEs: 'Todo el año, mayo-octubre para temporada seca',
+    includes: [
+      'Hotel pickup and drop-off in Cajamarca',
+      'Professional bilingual guide',
+      'All entrance fees',
+      'Traditional lunch',
+      'Thermal bath admission',
+      'Private transportation',
+      'Towel rental at baths'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cajamarca',
+      'Guía profesional bilingüe',
+      'Todas las entradas',
+      'Almuerzo tradicional',
+      'Admisión a baños termales',
+      'Transporte privado',
+      'Alquiler de toallas en baños'
+    ],
+    tips: [
+      'Bring swimsuits and flip-flops for thermal baths',
+      'The Ransom Room is small - morning visits less crowded',
+      'Try local manjar blanco (caramel) - famous from Cajamarca',
+      'Thermal baths can be busy on weekends - weekday preferred',
+      'Children find the ransom story fascinating',
+      'Altitude is moderate (2,750m) - usually no issues'
+    ],
+    tipsEs: [
+      'Trae trajes de baño y sandalias para los baños termales',
+      'El Cuarto del Rescate es pequeño - visitas matutinas menos concurridas',
+      'Prueba el manjar blanco local - famoso de Cajamarca',
+      'Baños termales pueden estar llenos los fines de semana - prefiere días de semana',
+      'Los niños encuentran la historia del rescate fascinante',
+      'Altitud es moderada (2,750m) - usualmente sin problemas'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,750m) - milder than Cusco',
+      'Thermal bath temperatures vary by pool',
+      'Supervise children in water always',
+      'Walking surfaces in historic center can be uneven',
+      'Safe, tourist-friendly city'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,750m) - más suave que Cusco',
+      'Temperaturas de baños termales varían por piscina',
+      'Supervisa niños en el agua siempre',
+      'Superficies de caminata en centro histórico pueden ser irregulares',
+      'Ciudad segura y amigable para turistas'
+    ],
+    relatedActivities: ['ventanillas-otuzco-tour', 'cumbe-mayo-adventure'],
+    providers: [
+      { name: 'Cajamarca Tours', familyFriendly: true },
+      { name: 'Northern Peru Expeditions', familyFriendly: true },
+      { name: 'Inca Heritage Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'quinua-ayacucho-independence-tour',
+    name: 'Quinua & Battle of Ayacucho Independence Tour',
+    nameEs: 'Tour de Independencia Quinua y Batalla de Ayacucho',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho',
+    regionEs: 'Ayacucho',
+    description: 'Visit the site where South American independence was won at the Battle of Ayacucho in 1824, then explore the charming artisan village of Quinua famous for its distinctive ceramics. This powerful historical tour connects children to the broader story of Latin American liberation while experiencing living craft traditions.',
+    descriptionEs: 'Visita el sitio donde se ganó la independencia sudamericana en la Batalla de Ayacucho en 1824, luego explora el encantador pueblo artesanal de Quinua famoso por su cerámica distintiva. Este poderoso tour histórico conecta a los niños con la historia más amplia de la liberación latinoamericana mientras experimenta tradiciones artesanales vivas.',
+    whatToExpect: 'The morning drive from Ayacucho climbs through beautiful Andean countryside to the Pampa de Ayacucho at 3,400 meters. At the battlefield, the 44-meter obelisk commemorates where independence forces defeated the Spanish on December 9, 1824 - the battle that effectively ended Spanish rule in South America. Guides explain the military strategy and the significance for all Spanish American nations. Children enjoy exploring the expansive pampa and visiting the small museum. Continue to Quinua village where families of ceramicists have worked for generations. Watch artisans create the distinctive church-topped houses, bulls, and nativity scenes that grace rooftops throughout the region. Children often get to try their hand at clay shaping. Lunch features Ayacucho specialties like puca picante before browsing workshops where you can purchase unique handmade ceramics.',
+    whatToExpectEs: 'El viaje matutino desde Ayacucho asciende por el hermoso campo andino hasta la Pampa de Ayacucho a 3,400 metros. En el campo de batalla, el obelisco de 44 metros conmemora donde las fuerzas independentistas derrotaron a los españoles el 9 de diciembre de 1824 - la batalla que efectivamente terminó el dominio español en Sudamérica. Los guías explican la estrategia militar y la significancia para todas las naciones hispanoamericanas. Los niños disfrutan explorar la amplia pampa y visitar el pequeño museo. Continúa al pueblo de Quinua donde familias de ceramistas han trabajado por generaciones. Observa artesanos crear las distintivas casas con iglesias en el techo, toros y nacimientos que adornan los techos de toda la región. Los niños a menudo pueden probar dar forma a la arcilla. El almuerzo presenta especialidades de Ayacucho como puca picante antes de explorar talleres donde puedes comprar cerámicas únicas hechas a mano.',
+    highlights: [
+      'Stand at the battlefield where South American independence was won',
+      'See the 44-meter obelisk commemorating the historic victory',
+      'Understand the significance for all Latin American nations',
+      'Visit Quinua\'s traditional ceramic workshops',
+      'Watch artisans create distinctive rooftop churches and bulls',
+      'Children can try making clay figures',
+      'Purchase authentic handmade ceramics',
+      'Experience authentic Andean village life'
+    ],
+    highlightsEs: [
+      'Párate en el campo de batalla donde se ganó la independencia sudamericana',
+      'Ve el obelisco de 44 metros conmemorando la victoria histórica',
+      'Entiende la significancia para todas las naciones latinoamericanas',
+      'Visita los talleres de cerámica tradicionales de Quinua',
+      'Observa artesanos crear distintivas iglesias de techo y toros',
+      'Los niños pueden intentar hacer figuras de arcilla',
+      'Compra cerámicas auténticas hechas a mano',
+      'Experimenta la auténtica vida de pueblo andino'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Half day (5-6 hours)',
+    durationEs: 'Medio día (5-6 horas)',
+    difficulty: 'easy',
+    priceRange: '$35-55 USD per person',
+    priceRangeEs: '$35-55 USD por persona',
+    bestTime: 'Year-round, April-November for dry season',
+    bestTimeEs: 'Todo el año, abril-noviembre para temporada seca',
+    includes: [
+      'Hotel pickup and drop-off in Ayacucho',
+      'Bilingual guide specializing in history',
+      'Entrance to battlefield monument',
+      'Ceramic workshop visits',
+      'Traditional lunch',
+      'Private transportation'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Ayacucho',
+      'Guía bilingüe especializado en historia',
+      'Entrada al monumento del campo de batalla',
+      'Visitas a talleres de cerámica',
+      'Almuerzo tradicional',
+      'Transporte privado'
+    ],
+    tips: [
+      'December 9 sees major celebrations but huge crowds',
+      'Bring warm layers - pampa is windswept at 3,400m',
+      'Cash needed for ceramic purchases in Quinua',
+      'Small ceramics make excellent souvenirs',
+      'Ask about the meaning of roof decorations',
+      'The history connects to independence across South America'
+    ],
+    tipsEs: [
+      '9 de diciembre tiene grandes celebraciones pero enormes multitudes',
+      'Trae capas abrigadas - pampa tiene viento a 3,400m',
+      'Efectivo necesario para compras de cerámica en Quinua',
+      'Pequeñas cerámicas son excelentes souvenirs',
+      'Pregunta sobre el significado de las decoraciones de techo',
+      'La historia conecta con la independencia en toda Sudamérica'
+    ],
+    safetyNotes: [
+      'High altitude (3,400m) - acclimate in Ayacucho first',
+      'Wind can be strong on the pampa',
+      'Ceramic workshops have hot kilns - supervise children',
+      'Walking on uneven ground at battlefield',
+      'Safe rural area'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,400m) - aclimatarse en Ayacucho primero',
+      'Viento puede ser fuerte en la pampa',
+      'Talleres de cerámica tienen hornos calientes - supervisar niños',
+      'Caminata en terreno irregular en campo de batalla',
+      'Área rural segura'
+    ],
+    relatedActivities: ['ayacucho-churches-circuit', 'wari-ruins-tour', 'vilcashuaman-tour'],
+    providers: [
+      { name: 'Ayacucho Tours', familyFriendly: true },
+      { name: 'Peru Independence Tours', familyFriendly: true },
+      { name: 'Wari Heritage Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'manu-biosphere-family-expedition',
+    name: 'Manú Biosphere Family Expedition',
+    nameEs: 'Expedición Familiar a la Biosfera del Manú',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Madre de Dios / Cusco',
+    regionEs: 'Madre de Dios / Cusco',
+    description: 'Experience the world\'s most biodiverse protected area on a family-adapted expedition through Manú Biosphere Reserve. Descend from Andean cloud forests through multiple ecosystems to pristine Amazon rainforest, spotting incredible wildlife including giant otters, macaws, and monkeys on this once-in-a-lifetime adventure.',
+    descriptionEs: 'Experimenta el área protegida más biodiversa del mundo en una expedición adaptada para familias a través de la Reserva de la Biosfera del Manú. Desciende desde bosques nublados andinos a través de múltiples ecosistemas hasta la selva amazónica prístina, avistando increíble vida silvestre incluyendo nutrias gigantes, guacamayos y monos en esta aventura única en la vida.',
+    whatToExpect: 'This multi-day expedition begins with a spectacular drive from Cusco over the Andes and down into cloud forest. The first nights are spent at comfortable lodges in the Cultural Zone, with nature walks, birdwatching, and nocturnal excursions to spot owls and night monkeys. Each day brings new ecosystems as you descend in elevation. By boat, penetrate deeper into the reserve to oxbow lakes where giant otters hunt and macaws gather at clay licks. Family-appropriate versions focus on the accessible Cultural Zone and Reserved Zone rather than the remote core area. Children are mesmerized by spider monkeys, capybaras, caimans, and the incredible variety of birds. Evening programs include flashlight walks and listening for jungle sounds. The combination of comfortable lodges, experienced naturalist guides, and pristine wilderness creates a transformative family experience.',
+    whatToExpectEs: 'Esta expedición de varios días comienza con un viaje espectacular desde Cusco sobre los Andes y descendiendo al bosque nublado. Las primeras noches se pasan en cómodas albergues en la Zona Cultural, con caminatas de naturaleza, observación de aves y excursiones nocturnas para avistar búhos y monos nocturnos. Cada día trae nuevos ecosistemas mientras desciendes en elevación. En bote, penetra más profundo en la reserva a lagos de herradura donde nutrias gigantes cazan y guacamayos se reúnen en colpas de arcilla. Las versiones apropiadas para familias se enfocan en la accesible Zona Cultural y Zona Reservada en lugar del área núcleo remota. Los niños quedan fascinados por monos araña, capibaras, caimanes y la increíble variedad de aves. Los programas nocturnos incluyen caminatas con linterna y escuchar sonidos de la selva. La combinación de albergues cómodos, guías naturalistas experimentados y naturaleza prístina crea una experiencia familiar transformadora.',
+    highlights: [
+      'Traverse multiple ecosystems from Andes to Amazon',
+      'Spot giant otters - Manú has the best population',
+      'Visit macaw clay licks at dawn',
+      'See spider monkeys, capybaras, and caimans',
+      'Sleep in comfortable jungle lodges',
+      'Nighttime expeditions for nocturnal wildlife',
+      'World-class birdwatching - 1,000+ species recorded',
+      'Learn from expert naturalist guides'
+    ],
+    highlightsEs: [
+      'Atraviesa múltiples ecosistemas desde los Andes hasta el Amazonas',
+      'Avista nutrias gigantes - Manú tiene la mejor población',
+      'Visita colpas de guacamayos al amanecer',
+      'Ve monos araña, capibaras y caimanes',
+      'Duerme en cómodas albergues de selva',
+      'Expediciones nocturnas para vida silvestre nocturna',
+      'Observación de aves de clase mundial - 1,000+ especies registradas',
+      'Aprende de guías naturalistas expertos'
+    ],
+    familyRating: 5,
+    minAge: 7,
+    duration: '4-7 days',
+    durationEs: '4-7 días',
+    difficulty: 'moderate',
+    priceRange: '$500-1,500 USD per person',
+    priceRangeEs: '$500-1,500 USD por persona',
+    bestTime: 'May-October (dry season), avoid January-March',
+    bestTimeEs: 'Mayo-octubre (temporada seca), evitar enero-marzo',
+    includes: [
+      'All transportation from Cusco',
+      'All meals during expedition',
+      'Lodge accommodations',
+      'Expert naturalist guides',
+      'All park entrance fees',
+      'Boat transportation',
+      'Rubber boots and rain ponchos',
+      'Binoculars available for use'
+    ],
+    includesEs: [
+      'Todo el transporte desde Cusco',
+      'Todas las comidas durante la expedición',
+      'Alojamiento en albergues',
+      'Guías naturalistas expertos',
+      'Todas las entradas al parque',
+      'Transporte en bote',
+      'Botas de goma y ponchos de lluvia',
+      'Binoculares disponibles para uso'
+    ],
+    tips: [
+      'Book months in advance - lodges have limited capacity',
+      'Bring binoculars and camera with good zoom',
+      'Pack light - luggage limits on boats',
+      'Children should be comfortable with nature and early mornings',
+      'Anti-malaria medication required',
+      'Prepare kids for limited electricity/connectivity',
+      'Worth the investment - truly pristine wilderness'
+    ],
+    tipsEs: [
+      'Reserva con meses de anticipación - albergues tienen capacidad limitada',
+      'Trae binoculares y cámara con buen zoom',
+      'Empaca ligero - límites de equipaje en botes',
+      'Los niños deben estar cómodos con la naturaleza y madrugadas',
+      'Medicación anti-malaria requerida',
+      'Prepara a los niños para electricidad/conectividad limitada',
+      'Vale la inversión - naturaleza verdaderamente prístina'
+    ],
+    safetyNotes: [
+      'Experienced guides essential for Manú',
+      'Yellow fever vaccination required',
+      'Anti-malaria medication recommended',
+      'Follow all guide instructions for wildlife',
+      'Some walking required on forest trails',
+      'Lodges are safe and well-maintained',
+      'Travel with licensed Manú operators only'
+    ],
+    safetyNotesEs: [
+      'Guías experimentados esenciales para Manú',
+      'Vacuna de fiebre amarilla requerida',
+      'Medicación anti-malaria recomendada',
+      'Sigue todas las instrucciones del guía sobre vida silvestre',
+      'Algo de caminata requerida en senderos del bosque',
+      'Albergues son seguros y bien mantenidos',
+      'Viaja solo con operadores de Manú autorizados'
+    ],
+    relatedActivities: ['tambopata-jungle-adventure', 'lago-sandoval-expedition', 'amazon-canopy-walk'],
+    providers: [
+      { name: 'Manú Nature Tours', familyFriendly: true },
+      { name: 'Pantiacolla Tours', familyFriendly: true },
+      { name: 'InkaNatura Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ayacucho-colonial-churches-circuit',
+    name: 'Ayacucho 33 Colonial Churches Circuit',
+    nameEs: 'Circuito de las 33 Iglesias Coloniales de Ayacucho',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho',
+    regionEs: 'Ayacucho',
+    description: 'Explore Ayacucho\'s stunning collection of 33 colonial churches, each with unique Baroque architecture, gold-leaf altars, and fascinating histories. This walking tour through Peru\'s most religiously significant city reveals masterpieces of colonial art while teaching children about Spanish colonial influence and indigenous artistic contributions.',
+    descriptionEs: 'Explora la impresionante colección de 33 iglesias coloniales de Ayacucho, cada una con arquitectura barroca única, altares de pan de oro e historias fascinantes. Este tour a pie por la ciudad más religiosamente significativa del Perú revela obras maestras del arte colonial mientras enseña a los niños sobre la influencia colonial española y las contribuciones artísticas indígenas.',
+    whatToExpect: 'Begin at the impressive Cathedral on the Plaza de Armas, where guides explain the unique \"Ayacucho Baroque\" style that blends Spanish and indigenous artistic traditions. You\'ll visit a carefully selected circuit of the most impressive and family-interesting churches, including Santo Domingo with its underground crypts, La Compañía de Jesús with its ornate gilded altars, and Santa Clara with its stunning tile work. Each church reveals different aspects of colonial art - carved wooden ceilings, silver processional items, and paintings from the Cusco School. Children enjoy treasure hunts looking for hidden indigenous symbols mixed into Christian artwork. The tour includes stories of miracles, saints, and the city\'s famous Semana Santa celebrations. Between churches, explore the charming historic center with its colonial mansions and artisan markets selling Ayacucho\'s famous textiles and retablos.',
+    whatToExpectEs: 'Comienza en la impresionante Catedral en la Plaza de Armas, donde los guías explican el único estilo \"Barroco Ayacuchano\" que mezcla tradiciones artísticas españolas e indígenas. Visitarás un circuito cuidadosamente seleccionado de las iglesias más impresionantes e interesantes para familias, incluyendo Santo Domingo con sus criptas subterráneas, La Compañía de Jesús con sus ornamentados altares dorados, y Santa Clara con su impresionante trabajo de azulejos. Cada iglesia revela diferentes aspectos del arte colonial - techos de madera tallada, objetos procesionales de plata y pinturas de la Escuela Cusqueña. Los niños disfrutan búsquedas del tesoro buscando símbolos indígenas ocultos mezclados en el arte cristiano. El tour incluye historias de milagros, santos y las famosas celebraciones de Semana Santa de la ciudad. Entre iglesias, explora el encantador centro histórico con sus casonas coloniales y mercados artesanales vendiendo los famosos textiles y retablos de Ayacucho.',
+    highlights: [
+      'Visit the most impressive of Ayacucho\'s 33 churches',
+      'See gold-leaf Baroque altars and religious art',
+      'Learn about unique Ayacucho Baroque style',
+      'Discover indigenous symbols hidden in colonial art',
+      'Explore underground crypts and ancient relics',
+      'Understand Peru\'s Semana Santa traditions',
+      'Walk through beautiful colonial historic center',
+      'Shop for famous Ayacucho retablos and textiles'
+    ],
+    highlightsEs: [
+      'Visita las más impresionantes de las 33 iglesias de Ayacucho',
+      'Ve altares barrocos de pan de oro y arte religioso',
+      'Aprende sobre el único estilo Barroco Ayacuchano',
+      'Descubre símbolos indígenas ocultos en el arte colonial',
+      'Explora criptas subterráneas y reliquias antiguas',
+      'Entiende las tradiciones de Semana Santa del Perú',
+      'Camina por el hermoso centro histórico colonial',
+      'Compra los famosos retablos y textiles de Ayacucho'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round, Semana Santa for full experience',
+    bestTimeEs: 'Todo el año, Semana Santa para experiencia completa',
+    includes: [
+      'Professional bilingual guide',
+      'Church entrance fees where applicable',
+      'Guided walking tour of historic center',
+      'Refreshment stop included',
+      'Map of all 33 churches'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Entradas a iglesias donde aplique',
+      'Tour guiado a pie del centro histórico',
+      'Parada de refrigerio incluida',
+      'Mapa de las 33 iglesias'
+    ],
+    tips: [
+      'Dress modestly for church visits',
+      'Churches close for afternoon siesta (1-3pm)',
+      'Semana Santa is spectacular but very crowded',
+      'Many churches are locked - guide has access',
+      'Photography often prohibited inside churches',
+      'Some children find gold altars overwhelming - pace visits'
+    ],
+    tipsEs: [
+      'Viste modestamente para visitas a iglesias',
+      'Iglesias cierran para siesta de tarde (1-3pm)',
+      'Semana Santa es espectacular pero muy concurrida',
+      'Muchas iglesias están cerradas - guía tiene acceso',
+      'Fotografía a menudo prohibida dentro de iglesias',
+      'Algunos niños encuentran altares de oro abrumadores - marca el ritmo'
+    ],
+    safetyNotes: [
+      'Easy walking on paved streets',
+      'Some churches have steep stairs',
+      'Altitude is moderate (2,760m)',
+      'Safe historic center',
+      'Stay with guide in crypts/underground areas'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en calles pavimentadas',
+      'Algunas iglesias tienen escaleras empinadas',
+      'Altitud es moderada (2,760m)',
+      'Centro histórico seguro',
+      'Permanece con el guía en criptas/áreas subterráneas'
+    ],
+    relatedActivities: ['quinua-ayacucho-independence-tour', 'wari-ruins-tour', 'ayacucho-retablo-workshop'],
+    providers: [
+      { name: 'Ayacucho Tours', familyFriendly: true },
+      { name: 'Cultural Heritage Tours', familyFriendly: true },
+      { name: 'Peru Sacred Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pachacamac-tour',
+    name: 'Pachacámac Archaeological & Museum Tour',
+    nameEs: 'Tour Arqueológico y Museo de Pachacámac',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima',
+    regionEs: 'Lima',
+    description: 'Explore Peru\'s largest coastal archaeological site just 45 minutes from Lima\'s hotel districts. This half-day tour visits pyramids, temples, and the fascinating site museum housing the original Pachacámac Idol - a perfect introduction to pre-Columbian Peru for families with limited time in Lima.',
+    descriptionEs: 'Explora el sitio arqueológico costero más grande de Perú a solo 45 minutos de los distritos hoteleros de Lima. Este tour de medio día visita pirámides, templos y el fascinante museo del sitio que alberga el Ídolo de Pachacámac original - una introducción perfecta al Perú precolombino para familias con tiempo limitado en Lima.',
+    whatToExpect: 'Your tour begins with hotel pickup in Miraflores or San Isidro and a 45-minute drive south along the Pacific coast to this ancient pilgrimage center. Start at the excellent modern museum where the carved wooden Pachacámac Idol, textiles, and artifacts provide context for what you\'ll see outside. Then explore the massive adobe complex: walk to the Temple of the Sun for spectacular Pacific views, see the Painted Temple with original murals, and visit the Acllahuasi where chosen women lived. Guides explain how multiple cultures - Lima, Wari, Ichma, and Inca - built and expanded this religious center over 1,000 years. Children enjoy the open spaces, ocean views, and finding the different architectural styles. The tour includes time for the gift shop before returning to Lima.',
+    whatToExpectEs: 'Tu tour comienza con recogida en el hotel en Miraflores o San Isidro y un viaje de 45 minutos al sur por la costa del Pacífico hasta este antiguo centro de peregrinación. Comienza en el excelente museo moderno donde el tallado Ídolo de Pachacámac de madera, textiles y artefactos proporcionan contexto para lo que verás afuera. Luego explora el masivo complejo de adobe: camina al Templo del Sol para espectaculares vistas del Pacífico, ve el Templo Pintado con murales originales, y visita el Acllahuasi donde vivían las mujeres elegidas. Los guías explican cómo múltiples culturas - Lima, Wari, Ichma e Inca - construyeron y expandieron este centro religioso durante 1,000 años. Los niños disfrutan los espacios abiertos, vistas al océano y encontrar los diferentes estilos arquitectónicos. El tour incluye tiempo para la tienda de regalos antes de regresar a Lima.',
+    highlights: [
+      'See the original Pachacámac Idol in the museum',
+      'Temple of the Sun with Pacific Ocean views',
+      'Original painted murals at Painted Temple',
+      'Learn about 1,000+ years of religious history',
+      'Easy half-day excursion from Lima hotels',
+      'World-class archaeological museum',
+      'Multiple pre-Columbian cultures in one site'
+    ],
+    highlightsEs: [
+      'Ve el Ídolo de Pachacámac original en el museo',
+      'Templo del Sol con vistas al Océano Pacífico',
+      'Murales pintados originales en el Templo Pintado',
+      'Aprende sobre 1,000+ años de historia religiosa',
+      'Fácil excursión de medio día desde hoteles de Lima',
+      'Museo arqueológico de clase mundial',
+      'Múltiples culturas precolombinas en un sitio'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Year-round, mornings cooler',
+    bestTimeEs: 'Todo el año, mañanas más frescas',
+    includes: [
+      'Hotel pickup and drop-off in Lima',
+      'Professional bilingual guide',
+      'All entrance fees including museum',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Lima',
+      'Guía profesional bilingüe',
+      'Todas las entradas incluyendo museo',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Book morning tours for cooler temperatures',
+      'Start with museum for historical context',
+      'Bring sunscreen and hat - limited shade',
+      'Good walking shoes for sandy paths',
+      'Combine with Pantanos de Villa for full day',
+      'Photography allowed throughout'
+    ],
+    tipsEs: [
+      'Reserva tours matutinos para temperaturas más frescas',
+      'Comienza con el museo para contexto histórico',
+      'Trae protector solar y sombrero - sombra limitada',
+      'Buenos zapatos para caminos arenosos',
+      'Combina con Pantanos de Villa para día completo',
+      'Fotografía permitida en todo el lugar'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Some walking on uneven surfaces',
+      'Sun exposure - bring protection',
+      'Stay on marked paths',
+      'Safe tourist site with security'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Algo de caminata en superficies irregulares',
+      'Exposición al sol - trae protección',
+      'Mantente en caminos marcados',
+      'Sitio turístico seguro con vigilancia'
+    ],
+    relatedActivities: ['lima-huacas-tour', 'lima-food-tour', 'barranco-walking-tour'],
+    providers: [
+      { name: 'Lima Tours', familyFriendly: true },
+      { name: 'Peru Adventures', familyFriendly: true },
+      { name: 'Andean Discovery', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'wari-capital-tour',
+    name: 'Wari Empire Capital Archaeological Tour',
+    nameEs: 'Tour Arqueológico a la Capital del Imperio Wari',
+    type: 'cultural',
+    city: 'ayacucho',
+    region: 'Ayacucho',
+    regionEs: 'Ayacucho',
+    description: 'Discover the capital of Peru\'s first empire - the Wari civilization that unified the Andes 500 years before the Incas. This educational tour helps children understand that the Incas were not the first great Peruvian civilization but inherited much from earlier cultures. The excellent on-site museum and vast ruins make this a highlight of any Ayacucho visit.',
+    descriptionEs: 'Descubre la capital del primer imperio de Perú - la civilización Wari que unificó los Andes 500 años antes de los Incas. Este tour educativo ayuda a los niños a entender que los Incas no fueron la primera gran civilización peruana sino que heredaron mucho de culturas anteriores. El excelente museo en el sitio y las vastas ruinas hacen de esto un punto culminante de cualquier visita a Ayacucho.',
+    whatToExpect: 'After pickup in Ayacucho, drive 30 minutes northeast through Andean countryside to the Wari Archaeological Complex. Begin at the modern museum where ceramics, textiles, and reconstructions explain how the Wari built an empire that predated the Incas by 500 years. Then explore the vast ruins of what was once a city of 40,000 people. See the distinctive D-shaped ceremonial chambers found only in Wari architecture, explore underground tombs and galleries, and walk among multi-story stone buildings. Guides explain how the Wari developed road systems, administrative practices, and artistic styles that the Incas would later adopt. The site\'s scale and antiquity help children understand Peru\'s rich pre-Columbian heritage extends far beyond the famous Incas. Return to Ayacucho with a new appreciation for Andean history.',
+    whatToExpectEs: 'Después de recogerte en Ayacucho, viaja 30 minutos al noreste por el campo andino hasta el Complejo Arqueológico Wari. Comienza en el museo moderno donde cerámicas, textiles y reconstrucciones explican cómo los Wari construyeron un imperio que precedió a los Incas por 500 años. Luego explora las vastas ruinas de lo que fue una ciudad de 40,000 personas. Ve las distintivas cámaras ceremoniales en forma de D encontradas solo en arquitectura Wari, explora tumbas y galerías subterráneas, y camina entre edificios de piedra de varios pisos. Los guías explican cómo los Wari desarrollaron sistemas de caminos, prácticas administrativas y estilos artísticos que los Incas adoptarían después. La escala y antigüedad del sitio ayudan a los niños a entender que el rico patrimonio precolombino de Perú se extiende mucho más allá de los famosos Incas. Regresa a Ayacucho con nueva apreciación por la historia andina.',
+    highlights: [
+      'Capital of Peru\'s first great empire',
+      'Understand pre-Inca Andean civilization',
+      'Unique D-shaped ceremonial chambers',
+      'Underground tombs and galleries',
+      'Modern archaeological museum',
+      'Less crowded than Cusco sites',
+      'Learn how Incas inherited Wari innovations'
+    ],
+    highlightsEs: [
+      'Capital del primer gran imperio de Perú',
+      'Entiende la civilización andina pre-Inca',
+      'Únicas cámaras ceremoniales en forma de D',
+      'Tumbas y galerías subterráneas',
+      'Museo arqueológico moderno',
+      'Menos concurrido que sitios de Cusco',
+      'Aprende cómo los Incas heredaron innovaciones Wari'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$30-50 USD per person',
+    priceRangeEs: '$30-50 USD por persona',
+    bestTime: 'April-October dry season, mornings best',
+    bestTimeEs: 'Temporada seca abril-octubre, mañanas mejor',
+    includes: [
+      'Hotel pickup and drop-off in Ayacucho',
+      'Bilingual guide specializing in archaeology',
+      'All entrance fees including museum',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Ayacucho',
+      'Guía bilingüe especializado en arqueología',
+      'Todas las entradas incluyendo museo',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Start with museum for historical context',
+      'Site is vast - wear comfortable shoes',
+      'Combine with Quinua for full day',
+      'D-shaped chambers are most impressive',
+      'Less visited - more authentic experience',
+      'Bring snacks - limited options at site'
+    ],
+    tipsEs: [
+      'Comienza con el museo para contexto histórico',
+      'El sitio es vasto - usa zapatos cómodos',
+      'Combina con Quinua para día completo',
+      'Cámaras en forma de D son más impresionantes',
+      'Menos visitado - experiencia más auténtica',
+      'Trae snacks - opciones limitadas en el sitio'
+    ],
+    safetyNotes: [
+      'Moderate altitude (2,800m)',
+      'Some uneven walking surfaces',
+      'Underground areas require caution',
+      'Stay with guide at all times',
+      'Safe tourist site'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (2,800m)',
+      'Algunas superficies irregulares para caminar',
+      'Áreas subterráneas requieren precaución',
+      'Permanece con el guía en todo momento',
+      'Sitio turístico seguro'
+    ],
+    relatedActivities: ['quinua-ayacucho-independence-tour', 'ayacucho-colonial-churches-circuit', 'vilcashuaman-tour'],
+    providers: [
+      { name: 'Ayacucho Tours', familyFriendly: true },
+      { name: 'Wari Heritage Tours', familyFriendly: true },
+      { name: 'Peru Archaeological Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'pisac-ruins-market-tour',
+    name: 'Pisac Ruins & Market Full Experience',
+    nameEs: 'Experiencia Completa de Ruinas y Mercado de Pisac',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Sacred Valley',
+    regionEs: 'Valle Sagrado',
+    description: 'Experience the best of the Sacred Valley in one memorable day - spectacular Inca ruins perched high above the valley plus Peru\'s most famous traditional market. Pisac offers families the complete Andean experience: impressive archaeology, living indigenous culture, and vibrant market atmosphere.',
+    descriptionEs: 'Experimenta lo mejor del Valle Sagrado en un día memorable - espectaculares ruinas incas encaramadas sobre el valle más el mercado tradicional más famoso de Perú. Pisac ofrece a las familias la experiencia andina completa: impresionante arqueología, cultura indígena viva y vibrante atmósfera de mercado.',
+    whatToExpect: 'Depart Cusco early for the one-hour scenic drive through the Sacred Valley to Pisac. Drive up to the ruins entrance at the mountain top, then explore downhill through the archaeological complex. See the Intihuatana (sun-hitching stone), the military sector, and spectacular terraces carved into impossibly steep slopes. Children are amazed by the thousands of Inca tombs honeycomb the cliff faces. Guides explain how Pisac served as a royal estate, fortress, and religious center. After descending through the ruins, arrive in Pisac town for the famous market. Browse stalls selling colorful textiles, ceramics, jewelry, and crafts from throughout Peru. Watch local Quechua-speaking families in traditional dress. Enjoy lunch at a restaurant overlooking the plaza before returning to Cusco with your market finds.',
+    whatToExpectEs: 'Sal temprano de Cusco para el viaje escénico de una hora por el Valle Sagrado hasta Pisac. Sube en auto hasta la entrada de las ruinas en la cima de la montaña, luego explora cuesta abajo por el complejo arqueológico. Ve el Intihuatana (piedra de amarrar el sol), el sector militar y espectaculares terrazas talladas en laderas imposiblemente empinadas. Los niños quedan asombrados por las miles de tumbas incas que perforan los acantilados como panal. Los guías explican cómo Pisac sirvió como hacienda real, fortaleza y centro religioso. Después de descender por las ruinas, llega al pueblo de Pisac para el famoso mercado. Explora puestos vendiendo textiles coloridos, cerámicas, joyería y artesanías de todo Perú. Observa familias locales quechua-hablantes en vestimenta tradicional. Disfruta el almuerzo en un restaurante con vista a la plaza antes de regresar a Cusco con tus hallazgos del mercado.',
+    highlights: [
+      'Spectacular mountain-top Inca citadel',
+      'Intihuatana sun stone',
+      'Massive agricultural terraces',
+      'Peru\'s most famous traditional market',
+      'Ancient Inca cemetery in cliff faces',
+      'Living Andean market culture',
+      'Scenic Sacred Valley drive'
+    ],
+    highlightsEs: [
+      'Espectacular ciudadela inca en la cima de la montaña',
+      'Piedra solar Intihuatana',
+      'Masivas terrazas agrícolas',
+      'El mercado tradicional más famoso de Perú',
+      'Antiguo cementerio inca en acantilados',
+      'Cultura de mercado andino viva',
+      'Viaje escénico por el Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'moderate',
+    priceRange: '$50-85 USD per person',
+    priceRangeEs: '$50-85 USD por persona',
+    bestTime: 'Year-round, Sundays for biggest market',
+    bestTimeEs: 'Todo el año, domingos para el mercado más grande',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Boleto Turístico entrance (or add-on)',
+      'Lunch in Pisac',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Entrada de Boleto Turístico (o adicional)',
+      'Almuerzo en Pisac',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Sunday has the biggest market',
+      'Start early at ruins to beat crowds',
+      'Ruins involve downhill walking - take it slow',
+      'Bring cash in small bills for market',
+      'Bargaining is expected at market',
+      'Combine with Ollantaytambo for Sacred Valley day'
+    ],
+    tipsEs: [
+      'Domingo tiene el mercado más grande',
+      'Comienza temprano en ruinas para evitar multitudes',
+      'Ruinas implican caminata cuesta abajo - ve despacio',
+      'Trae efectivo en billetes pequeños para el mercado',
+      'El regateo es esperado en el mercado',
+      'Combina con Ollantaytambo para día del Valle Sagrado'
+    ],
+    safetyNotes: [
+      'High altitude (3,445m) - acclimate first',
+      'Steep paths at ruins - watch children',
+      'Some drop-offs near terraces',
+      'Market can be crowded - keep children close',
+      'Safe tourist destination'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,445m) - aclimatarse primero',
+      'Caminos empinados en ruinas - vigila niños',
+      'Algunos precipicios cerca de terrazas',
+      'Mercado puede estar lleno - mantén niños cerca',
+      'Destino turístico seguro'
+    ],
+    relatedActivities: ['ollantaytambo-tour', 'maras-moray-tour', 'sacred-valley-full-day'],
+    providers: [
+      { name: 'Cusco Sacred Valley Tours', familyFriendly: true },
+      { name: 'Peru Treks', familyFriendly: true },
+      { name: 'Andean Spirit Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'caral-ancient-city-expedition',
+    name: 'Caral: Oldest City in the Americas Expedition',
+    nameEs: 'Caral: Expedición a la Ciudad Más Antigua de las Américas',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Journey to the oldest city in the Western Hemisphere - a 5,000-year-old UNESCO World Heritage Site contemporary with ancient Egypt\'s pyramids. This full-day expedition from Lima brings history to life as families explore pyramids that predate the Incas by 4,500 years, fundamentally changing how we understand civilization in the Americas.',
+    descriptionEs: 'Viaja a la ciudad más antigua del Hemisferio Occidental - un Sitio Patrimonio de la Humanidad UNESCO de 5,000 años de antigüedad contemporáneo con las pirámides del antiguo Egipto. Esta expedición de día completo desde Lima da vida a la historia mientras las familias exploran pirámides que preceden a los Incas por 4,500 años, cambiando fundamentalmente cómo entendemos la civilización en las Américas.',
+    whatToExpect: 'An early morning departure from Lima takes you north on the Pan-American Highway toward the Supe Valley, arriving at Caral after approximately 3 hours. The required guided tour begins at the visitor center with an introduction to the Norte Chico civilization - the first complex society in the Americas. Then explore the site: six major pyramids, residential areas, amphitheater, and sunken circular plazas. Guides explain how this peaceful civilization (no evidence of warfare!) developed agriculture, trade, and monumental architecture 5,000 years ago. The mind-expanding comparison: when Caral flourished, Stonehenge didn\'t exist, and Egypt\'s Great Pyramid was just being built. Children process the extraordinary antiquity through hands-on explanations and scale comparisons. After the tour, enjoy a packed lunch in the valley before returning to Lima. This expedition fundamentally changes how families understand human civilization.',
+    whatToExpectEs: 'Una salida temprana de Lima te lleva al norte por la Carretera Panamericana hacia el Valle de Supe, llegando a Caral después de aproximadamente 3 horas. El tour guiado requerido comienza en el centro de visitantes con una introducción a la civilización Norte Chico - la primera sociedad compleja en las Américas. Luego explora el sitio: seis pirámides principales, áreas residenciales, anfiteatro y plazas circulares hundidas. Los guías explican cómo esta civilización pacífica (¡sin evidencia de guerra!) desarrolló agricultura, comercio y arquitectura monumental hace 5,000 años. La comparación que expande la mente: cuando Caral florecía, Stonehenge no existía, y la Gran Pirámide de Egipto apenas se estaba construyendo. Los niños procesan la extraordinaria antigüedad a través de explicaciones prácticas y comparaciones de escala. Después del tour, disfruta un almuerzo empacado en el valle antes de regresar a Lima. Esta expedición cambia fundamentalmente cómo las familias entienden la civilización humana.',
+    highlights: [
+      'Oldest city in the Americas (5,000 years)',
+      'Contemporary with ancient Egypt\'s pyramids',
+      'UNESCO World Heritage Site',
+      'Six pyramidal structures to explore',
+      'Evidence of peaceful civilization',
+      'Guided tour by trained archaeologists',
+      'Mind-expanding historical perspective'
+    ],
+    highlightsEs: [
+      'Ciudad más antigua de las Américas (5,000 años)',
+      'Contemporánea con las pirámides del antiguo Egipto',
+      'Sitio Patrimonio de la Humanidad UNESCO',
+      'Seis estructuras piramidales para explorar',
+      'Evidencia de civilización pacífica',
+      'Tour guiado por arqueólogos capacitados',
+      'Perspectiva histórica que expande la mente'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: 'Full day (10-12 hours)',
+    durationEs: 'Día completo (10-12 horas)',
+    difficulty: 'easy',
+    priceRange: '$80-150 USD per person',
+    priceRangeEs: '$80-150 USD por persona',
+    bestTime: 'Year-round, coastal desert climate',
+    bestTimeEs: 'Todo el año, clima desértico costero',
+    includes: [
+      'Hotel pickup and drop-off in Lima',
+      'Professional bilingual guide',
+      'Private transportation',
+      'Site entrance fee',
+      'Required archaeological guide at site',
+      'Packed lunch and water',
+      'Educational materials'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Lima',
+      'Guía profesional bilingüe',
+      'Transporte privado',
+      'Entrada al sitio',
+      'Guía arqueológico requerido en el sitio',
+      'Almuerzo empacado y agua',
+      'Materiales educativos'
+    ],
+    tips: [
+      'Long day - leave Lima by 6am',
+      'Bring sun protection - no shade on site',
+      'Comfortable walking shoes essential',
+      'Pack extra snacks for the drive',
+      'Prepare children for the time perspective',
+      'Camera essential - incredible photo opportunities'
+    ],
+    tipsEs: [
+      'Día largo - sal de Lima a las 6am',
+      'Trae protección solar - sin sombra en el sitio',
+      'Zapatos cómodos para caminar esenciales',
+      'Empaca snacks extra para el viaje',
+      'Prepara a los niños para la perspectiva temporal',
+      'Cámara esencial - increíbles oportunidades de fotos'
+    ],
+    safetyNotes: [
+      'Near sea level - no altitude concerns',
+      'Long drive requires patience from children',
+      'Sun exposure significant - bring protection',
+      'Stay on marked paths at archaeological site',
+      'Remote location - bathroom facilities limited'
+    ],
+    safetyNotesEs: [
+      'Cerca del nivel del mar - sin preocupaciones de altitud',
+      'Viaje largo requiere paciencia de los niños',
+      'Exposición al sol significativa - trae protección',
+      'Mantente en caminos marcados en sitio arqueológico',
+      'Ubicación remota - instalaciones de baño limitadas'
+    ],
+    relatedActivities: ['pachacamac-tour', 'lima-huacas-tour', 'sechin-archaeological-tour'],
+    providers: [
+      { name: 'Caral Tours Official', familyFriendly: true },
+      { name: 'Lima Archaeological Tours', familyFriendly: true },
+      { name: 'Peru Ancient History Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chinchero-textile-tour',
+    name: 'Chinchero Inca Ruins & Textile Weaving Experience',
+    nameEs: 'Experiencia de Ruinas Incas y Tejido Textil en Chinchero',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Sacred Valley',
+    regionEs: 'Valle Sagrado',
+    description: 'Discover the perfect blend of Inca history and living Andean traditions at Chinchero. This experience combines impressive archaeological ruins with hands-on textile demonstrations where families watch - and participate in - traditional weaving using techniques unchanged for centuries.',
+    descriptionEs: 'Descubre la mezcla perfecta de historia inca y tradiciones andinas vivas en Chinchero. Esta experiencia combina impresionantes ruinas arqueológicas con demostraciones textiles prácticas donde las familias observan - y participan en - tejido tradicional usando técnicas sin cambios por siglos.',
+    whatToExpect: 'Arrive at Chinchero on the high plateau above the Sacred Valley. Begin with the Inca ruins - massive stone walls, terraces, and the foundations of what was once Inca Tupac Yupanqui\'s country palace. Walk up to the colonial church built directly on the Inca platform, and if open, see the stunning murals inside. Then visit a family-run weaving cooperative where the real magic happens. Women dressed in traditional clothing demonstrate every step: washing wool with natural saponin root, preparing natural dyes from cochineal insects and local plants, spinning wool by hand, and weaving intricate patterns on backstrap looms. Children often get to try carding wool or simple weaving. The demonstration typically ends with the opportunity to purchase authentic handmade textiles - blankets, bags, and clothing - directly from the weavers at fair trade prices.',
+    whatToExpectEs: 'Llega a Chinchero en la meseta alta sobre el Valle Sagrado. Comienza con las ruinas incas - masivos muros de piedra, terrazas, y los cimientos de lo que fue el palacio de campo del Inca Túpac Yupanqui. Camina hasta la iglesia colonial construida directamente sobre la plataforma inca, y si está abierta, ve los impresionantes murales adentro. Luego visita una cooperativa de tejido familiar donde ocurre la verdadera magia. Mujeres vestidas con ropa tradicional demuestran cada paso: lavar lana con raíz de saponina natural, preparar tintes naturales de insectos cochinilla y plantas locales, hilar lana a mano, y tejer patrones intrincados en telares de cintura. Los niños a menudo pueden intentar cardar lana o tejido simple. La demostración típicamente termina con la oportunidad de comprar textiles auténticos hechos a mano - mantas, bolsas y ropa - directamente de los tejedores a precios de comercio justo.',
+    highlights: [
+      'Impressive Inca royal palace ruins',
+      'Colonial church with stunning murals',
+      'Hands-on textile weaving demonstration',
+      'Natural dyeing with plants and insects',
+      'Children can try weaving activities',
+      'Purchase authentic textiles from weavers',
+      'Stunning mountain views'
+    ],
+    highlightsEs: [
+      'Impresionantes ruinas del palacio real inca',
+      'Iglesia colonial con impresionantes murales',
+      'Demostración práctica de tejido textil',
+      'Teñido natural con plantas e insectos',
+      'Los niños pueden intentar actividades de tejido',
+      'Compra textiles auténticos de los tejedores',
+      'Impresionantes vistas de montañas'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'easy',
+    priceRange: '$40-70 USD per person',
+    priceRangeEs: '$40-70 USD por persona',
+    bestTime: 'Year-round, Sunday for market',
+    bestTimeEs: 'Todo el año, domingo para el mercado',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Boleto Turístico entrance',
+      'Textile weaving demonstration',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Entrada de Boleto Turístico',
+      'Demostración de tejido textil',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Higher altitude (3,762m) - take it slow',
+      'Sunday market adds to the experience',
+      'Bring cash for textile purchases',
+      'Ask permission to photograph weavers',
+      'Textiles make meaningful souvenirs',
+      'Combine with Moray and Maras for full day'
+    ],
+    tipsEs: [
+      'Mayor altitud (3,762m) - ve despacio',
+      'Mercado dominical añade a la experiencia',
+      'Trae efectivo para compras de textiles',
+      'Pide permiso para fotografiar tejedores',
+      'Textiles son recuerdos significativos',
+      'Combina con Moray y Maras para día completo'
+    ],
+    safetyNotes: [
+      'High altitude (3,762m) - acclimate first',
+      'Easy walking on flat terrain',
+      'Some stairs at ruins and church',
+      'Safe tourist destination',
+      'Weaving cooperatives are family environments'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,762m) - aclimatarse primero',
+      'Caminata fácil en terreno plano',
+      'Algunas escaleras en ruinas e iglesia',
+      'Destino turístico seguro',
+      'Cooperativas de tejido son ambientes familiares'
+    ],
+    relatedActivities: ['maras-moray-tour', 'sacred-valley-full-day', 'pisac-ruins-market-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Andean Textile Tours', familyFriendly: true },
+      { name: 'Cusco Cultural Experiences', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tipon-water-engineering-tour',
+    name: 'Tipon Water Engineering & South Valley Tour',
+    nameEs: 'Tour de Ingeniería Hidráulica de Tipón y Valle Sur',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Explore the engineering genius of the Incas at Tipon, where fountains and water channels have flowed continuously for 500 years. This South Valley tour combines spectacular hydraulic engineering, pre-Inca ruins at Pikillacta, and the famous painted church of Andahuaylillas - all less crowded than the Sacred Valley.',
+    descriptionEs: 'Explora el genio ingenieril de los Incas en Tipón, donde fuentes y canales de agua han fluido continuamente por 500 años. Este tour del Valle Sur combina espectacular ingeniería hidráulica, ruinas pre-Incas en Pikillacta, y la famosa iglesia pintada de Andahuaylillas - todo menos concurrido que el Valle Sagrado.',
+    whatToExpect: 'Depart Cusco heading southeast through the Huatanay Valley, first stopping at Tipon where the Incas\' mastery of water is on full display. Walk through 13 terraces with working fountains, cascades, and channels that have operated continuously since the 15th century. Children are fascinated watching water flow through ancient stone channels exactly as the Incas designed. Continue to Pikillacta, a vast pre-Inca Wari administrative center with an organized grid layout - helping children understand that sophisticated civilizations existed before the Incas. End at the colonial church of Andahuaylillas, called the "Sistine Chapel of the Americas" for its stunning painted interior. The combination offers archaeology, engineering, and art history in one memorable day, on circuits far less crowded than the famous Sacred Valley route.',
+    whatToExpectEs: 'Sal de Cusco hacia el sureste por el Valle de Huatanay, parando primero en Tipón donde el dominio inca del agua está en plena exhibición. Camina por 13 terrazas con fuentes funcionando, cascadas y canales que han operado continuamente desde el siglo XV. Los niños quedan fascinados viendo el agua fluir por antiguos canales de piedra exactamente como los Incas diseñaron. Continúa a Pikillacta, un vasto centro administrativo Wari pre-Inca con diseño de cuadrícula organizada - ayudando a los niños a entender que civilizaciones sofisticadas existieron antes de los Incas. Termina en la iglesia colonial de Andahuaylillas, llamada la "Capilla Sixtina de las Américas" por su impresionante interior pintado. La combinación ofrece arqueología, ingeniería e historia del arte en un día memorable, en circuitos mucho menos concurridos que la famosa ruta del Valle Sagrado.',
+    highlights: [
+      'Working Inca fountains flowing 500 years',
+      'Sophisticated water engineering systems',
+      'Pre-Inca Wari ruins at Pikillacta',
+      'Andahuaylillas "Sistine Chapel" church',
+      'Less crowded than Sacred Valley',
+      'Three diverse sites in one tour',
+      'Stop in Oropesa for famous bread'
+    ],
+    highlightsEs: [
+      'Fuentes incas funcionando 500 años',
+      'Sofisticados sistemas de ingeniería hidráulica',
+      'Ruinas Wari pre-Incas en Pikillacta',
+      'Iglesia "Capilla Sixtina" de Andahuaylillas',
+      'Menos concurrido que el Valle Sagrado',
+      'Tres sitios diversos en un tour',
+      'Parada en Oropesa por el famoso pan'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (5-6 hours)',
+    durationEs: 'Medio día (5-6 horas)',
+    difficulty: 'moderate',
+    priceRange: '$45-75 USD per person',
+    priceRangeEs: '$45-75 USD por persona',
+    bestTime: 'Year-round, dry season May-October',
+    bestTimeEs: 'Todo el año, temporada seca mayo-octubre',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Boleto Turístico entrance',
+      'Andahuaylillas church entrance',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Entrada de Boleto Turístico',
+      'Entrada a iglesia de Andahuaylillas',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Less crowded alternative to Sacred Valley',
+      'Tipon involves some uphill walking',
+      'Oropesa bread is famous - buy some!',
+      'Church photography may be restricted',
+      'Combine water and engineering themes',
+      'Good for families who have done Sacred Valley'
+    ],
+    tipsEs: [
+      'Alternativa menos concurrida al Valle Sagrado',
+      'Tipón implica algo de caminata cuesta arriba',
+      'Pan de Oropesa es famoso - ¡compra algo!',
+      'Fotografía en iglesia puede estar restringida',
+      'Combina temas de agua e ingeniería',
+      'Bueno para familias que han hecho el Valle Sagrado'
+    ],
+    safetyNotes: [
+      'Moderate altitude (3,400-3,560m)',
+      'Some uphill walking at Tipon',
+      'Uneven surfaces at archaeological sites',
+      'Stay on marked paths',
+      'Safe and well-visited tourist circuit'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (3,400-3,560m)',
+      'Algo de caminata cuesta arriba en Tipón',
+      'Superficies irregulares en sitios arqueológicos',
+      'Mantente en caminos marcados',
+      'Circuito turístico seguro y bien visitado'
+    ],
+    relatedActivities: ['sacred-valley-full-day', 'maras-moray-tour', 'cusco-walking-tour'],
+    providers: [
+      { name: 'Cusco South Valley Tours', familyFriendly: true },
+      { name: 'Peru Discovery Tours', familyFriendly: true },
+      { name: 'Andean Adventure', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sillustani-burial-towers-tour',
+    name: 'Sillustani Burial Towers & Lake Umayo Tour',
+    nameEs: 'Tour Torres Funerarias de Sillustani y Lago Umayo',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno',
+    regionEs: 'Puno',
+    description: 'Visit the dramatic pre-Inca burial towers of Sillustani, rising above the beautiful Lake Umayo. This afternoon tour combines powerful archaeology - towering stone chullpas built by cultures predating the Incas - with stunning high-altitude scenery where flamingos often wade in the lake.',
+    descriptionEs: 'Visita las dramáticas torres funerarias pre-Incas de Sillustani, elevándose sobre el hermoso Lago Umayo. Este tour de tarde combina poderosa arqueología - imponentes chullpas de piedra construidas por culturas anteriores a los Incas - con impresionante paisaje de alta altitud donde los flamencos a menudo vadean en el lago.',
+    whatToExpect: 'Depart Puno in the early afternoon for the 45-minute drive to Sillustani, arriving when afternoon light illuminates the towers against the Andean sky. Your guide explains how the Colla people, who dominated the Lake Titicaca region before the Inca conquest, built these cylindrical burial towers to house their nobility. The towers are wider at the top than the bottom - a remarkable engineering achievement. Walk among chullpas reaching up to 12 meters tall, comparing Colla and later Inca construction styles. Children are intrigued by how ancient people built these towers and why they housed the dead above ground. The site overlooks Lake Umayo, where Andean flamingos often feed. On clear days, snow-capped mountains create a spectacular backdrop. Return to Puno as the sun sets over the altiplano.',
+    whatToExpectEs: 'Sal de Puno temprano en la tarde para el viaje de 45 minutos a Sillustani, llegando cuando la luz de la tarde ilumina las torres contra el cielo andino. Tu guía explica cómo el pueblo Colla, que dominó la región del Lago Titicaca antes de la conquista inca, construyó estas torres funerarias cilíndricas para albergar a su nobleza. Las torres son más anchas arriba que abajo - un logro de ingeniería notable. Camina entre chullpas que alcanzan hasta 12 metros de altura, comparando estilos de construcción Colla y posteriores Incas. Los niños se intrigan por cómo la gente antigua construyó estas torres y por qué albergaban a los muertos sobre el suelo. El sitio tiene vista al Lago Umayo, donde los flamencos andinos a menudo se alimentan. En días despejados, montañas nevadas crean un telón de fondo espectacular. Regresa a Puno mientras el sol se pone sobre el altiplano.',
+    highlights: [
+      'Pre-Inca burial towers up to 12m tall',
+      'Beautiful Lake Umayo views',
+      'Andean flamingos often visible',
+      'Compare Colla and Inca architecture',
+      'Spectacular high-altitude scenery',
+      'Best light in afternoon',
+      'Off the main tourist circuit'
+    ],
+    highlightsEs: [
+      'Torres funerarias pre-Incas de hasta 12m de altura',
+      'Hermosas vistas del Lago Umayo',
+      'Flamencos andinos a menudo visibles',
+      'Compara arquitectura Colla e Inca',
+      'Espectacular paisaje de alta altitud',
+      'Mejor luz en la tarde',
+      'Fuera del circuito turístico principal'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round, afternoon for best light',
+    bestTimeEs: 'Todo el año, tarde para mejor luz',
+    includes: [
+      'Hotel pickup and drop-off in Puno',
+      'Bilingual guide',
+      'Site entrance fee',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Puno',
+      'Guía bilingüe',
+      'Entrada al sitio',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Afternoon light is best for photography',
+      'Sunset visits are spectacular',
+      'Very high altitude - take it easy',
+      'Bring binoculars for flamingos',
+      'Wind can be strong - layers essential',
+      'Good activity for Lake Titicaca day'
+    ],
+    tipsEs: [
+      'Luz de tarde es mejor para fotografía',
+      'Visitas al atardecer son espectaculares',
+      'Muy alta altitud - ve con calma',
+      'Trae binoculares para flamencos',
+      'Viento puede ser fuerte - capas esenciales',
+      'Buena actividad para día del Lago Titicaca'
+    ],
+    safetyNotes: [
+      'Very high altitude (3,880m) - acclimate first',
+      'Easy walking on maintained paths',
+      'Wind can be very strong',
+      'Stay away from cliff edges near towers',
+      'Safe tourist site with supervision'
+    ],
+    safetyNotesEs: [
+      'Muy alta altitud (3,880m) - aclimatarse primero',
+      'Caminata fácil en senderos mantenidos',
+      'Viento puede ser muy fuerte',
+      'Mantente alejado de bordes de acantilados cerca de torres',
+      'Sitio turístico seguro con supervisión'
+    ],
+    relatedActivities: ['uros-islands-tour', 'taquile-island-tour', 'lake-titicaca-full-day'],
+    providers: [
+      { name: 'Puno Tours', familyFriendly: true },
+      { name: 'Titicaca Travel', familyFriendly: true },
+      { name: 'Altiplano Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-puno-raqchi-route',
+    name: 'Cusco to Puno: Raqchi Temple & La Raya Pass Tour',
+    nameEs: 'Tour Cusco a Puno: Templo de Raqchi y Paso La Raya',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco to Puno',
+    regionEs: 'Cusco a Puno',
+    description: 'Transform the journey between Cusco and Puno into an adventure with stops at the remarkable Temple of Viracocha at Raqchi - featuring the largest Inca roofed structure ever built - and the scenic La Raya Pass at over 4,300 meters. This route tour makes travel part of the experience.',
+    descriptionEs: 'Transforma el viaje entre Cusco y Puno en una aventura con paradas en el notable Templo de Viracocha en Raqchi - presentando la estructura techada inca más grande jamás construida - y el escénico Paso La Raya a más de 4,300 metros. Este tour de ruta hace del viaje parte de la experiencia.',
+    whatToExpect: 'Depart Cusco in the morning heading southeast on the scenic road to Puno. Your first major stop is Raqchi, home to the Temple of Viracocha - the largest roofed building ever constructed in the Inca Empire. The towering 15-meter central wall still stands, and the surrounding 200+ circular storage buildings (colcas) demonstrate Inca administrative sophistication. Children imagine the massive thatched roof that once covered the 92-meter-long temple. Continue climbing to La Raya Pass (4,338m), the highest point of the journey and the boundary between Cusco and Puno regions. Here alpacas and llamas graze, craft vendors sell colorful goods, and the views extend across the high altiplano. A lunch stop features traditional highland cuisine before continuing to Puno and Lake Titicaca. Arrive in late afternoon ready for your Titicaca adventures.',
+    whatToExpectEs: 'Sal de Cusco en la mañana hacia el sureste por la carretera escénica a Puno. Tu primera parada importante es Raqchi, hogar del Templo de Viracocha - el edificio techado más grande jamás construido en el Imperio Inca. El imponente muro central de 15 metros aún permanece, y los más de 200 edificios circulares de almacenamiento (colcas) circundantes demuestran la sofisticación administrativa inca. Los niños imaginan el masivo techo de paja que una vez cubría el templo de 92 metros de largo. Continúa subiendo al Paso La Raya (4,338m), el punto más alto del viaje y el límite entre las regiones de Cusco y Puno. Aquí alpacas y llamas pastan, vendedores de artesanías venden productos coloridos, y las vistas se extienden por el altiplano. Una parada de almuerzo presenta cocina tradicional de tierras altas antes de continuar a Puno y el Lago Titicaca. Llega al final de la tarde listo para tus aventuras en el Titicaca.',
+    highlights: [
+      'Temple of Viracocha - largest Inca roof structure',
+      'Towering 15m central wall still standing',
+      '200+ circular Inca storage buildings',
+      'La Raya Pass at 4,338 meters',
+      'Alpacas and llamas at high pass',
+      'Scenic Andean highland route',
+      'Transforms travel into adventure'
+    ],
+    highlightsEs: [
+      'Templo de Viracocha - estructura techada inca más grande',
+      'Imponente muro central de 15m aún en pie',
+      'Más de 200 edificios circulares de almacenamiento inca',
+      'Paso La Raya a 4,338 metros',
+      'Alpacas y llamas en el paso alto',
+      'Ruta escénica por el altiplano andino',
+      'Transforma el viaje en aventura'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'easy',
+    priceRange: '$60-100 USD per person',
+    priceRangeEs: '$60-100 USD por persona',
+    bestTime: 'Year-round, dry season May-October',
+    bestTimeEs: 'Todo el año, temporada seca mayo-octubre',
+    includes: [
+      'Hotel pickup in Cusco',
+      'Drop-off at Puno hotel',
+      'Professional bilingual guide',
+      'Raqchi entrance fee',
+      'Traditional lunch',
+      'Private transportation',
+      'All stops en route'
+    ],
+    includesEs: [
+      'Recogida en hotel en Cusco',
+      'Dejada en hotel en Puno',
+      'Guía profesional bilingüe',
+      'Entrada a Raqchi',
+      'Almuerzo tradicional',
+      'Transporte privado',
+      'Todas las paradas en ruta'
+    ],
+    tips: [
+      'Long day - bring entertainment for children',
+      'Very high altitude at La Raya - take it easy',
+      'Dress in layers - temperature varies',
+      'Cash for craft purchases at La Raya',
+      'Better than overnight bus for families',
+      'Alternative: do in reverse from Puno'
+    ],
+    tipsEs: [
+      'Día largo - trae entretenimiento para niños',
+      'Muy alta altitud en La Raya - ve con calma',
+      'Viste en capas - temperatura varía',
+      'Efectivo para compras de artesanías en La Raya',
+      'Mejor que bus nocturno para familias',
+      'Alternativa: hazlo en reversa desde Puno'
+    ],
+    safetyNotes: [
+      'Very high altitude at La Raya (4,338m)',
+      'Long day requires rest breaks',
+      'Vehicle maintained for high altitude',
+      'Easy walking at all stops',
+      'Professional driver for mountain roads'
+    ],
+    safetyNotesEs: [
+      'Muy alta altitud en La Raya (4,338m)',
+      'Día largo requiere descansos',
+      'Vehículo mantenido para alta altitud',
+      'Caminata fácil en todas las paradas',
+      'Conductor profesional para caminos de montaña'
+    ],
+    relatedActivities: ['sillustani-burial-towers-tour', 'lake-titicaca-full-day', 'tipon-water-engineering-tour'],
+    providers: [
+      { name: 'Peru Hop', familyFriendly: true },
+      { name: 'Cusco to Puno Tours', familyFriendly: true },
+      { name: 'Andean Transit', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'taquile-island-full-day',
+    name: 'Taquile Island Cultural Immersion',
+    nameEs: 'Inmersión Cultural en Isla Taquile',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Lake Titicaca',
+    regionEs: 'Lago Titicaca',
+    description: 'Experience authentic Lake Titicaca culture on Taquile Island, where men knit and women weave UNESCO-recognized textiles, and ancient Quechua traditions remain alive. Unlike the touristy Uros, Taquile offers genuine cultural immersion with community-controlled tourism and stunning high-altitude scenery.',
+    descriptionEs: 'Experimenta la auténtica cultura del Lago Titicaca en la Isla Taquile, donde los hombres tejen con agujas y las mujeres hacen telar con textiles reconocidos por la UNESCO, y las antiguas tradiciones quechuas permanecen vivas. A diferencia de los turísticos Uros, Taquile ofrece inmersión cultural genuina con turismo controlado por la comunidad y impresionante paisaje de alta altitud.',
+    whatToExpect: 'Depart Puno by boat in the morning, stopping briefly at the Uros Floating Islands before the 3-hour journey across Lake Titicaca to Taquile. Upon arrival, climb the 530 stone steps from the dock to the village center - take this slowly at 3,950 meters altitude. At the top, the main plaza offers breathtaking 360-degree views of the lake and distant Bolivian peaks. Visit the textile cooperative where islanders demonstrate their UNESCO-recognized craft: men knit colorful caps (their design indicates marital status!) while women work intricate patterns on backstrap looms. Share a traditional lunch of fresh lake trout with a local family, learning about their sustainable, community-based lifestyle. Explore pre-Inca terraces and ruins, then descend to the dock for the return journey, arriving in Puno as the sun sets over the lake.',
+    whatToExpectEs: 'Sal de Puno en bote por la mañana, parando brevemente en las Islas Flotantes de los Uros antes del viaje de 3 horas a través del Lago Titicaca hasta Taquile. Al llegar, sube los 530 escalones de piedra desde el muelle hasta el centro del pueblo - hazlo lentamente a 3,950 metros de altitud. En la cima, la plaza principal ofrece impresionantes vistas de 360 grados del lago y picos bolivianos distantes. Visita la cooperativa textil donde los isleños demuestran su arte reconocido por la UNESCO: los hombres tejen gorros coloridos (¡su diseño indica estado civil!) mientras las mujeres trabajan patrones intrincados en telares de cintura. Comparte un almuerzo tradicional de trucha fresca del lago con una familia local, aprendiendo sobre su estilo de vida sostenible basado en la comunidad. Explora terrazas y ruinas pre-Incas, luego desciende al muelle para el viaje de regreso, llegando a Puno mientras el sol se pone sobre el lago.',
+    highlights: [
+      'UNESCO-recognized textile traditions',
+      'Men knit, women weave - unique culture',
+      'Traditional lunch with local family',
+      'Stunning Lake Titicaca panoramas',
+      'Community-controlled responsible tourism',
+      'Pre-Inca terraces and ruins',
+      'More authentic than Uros Islands'
+    ],
+    highlightsEs: [
+      'Tradiciones textiles reconocidas por la UNESCO',
+      'Hombres tejen, mujeres hacen telar - cultura única',
+      'Almuerzo tradicional con familia local',
+      'Impresionantes panoramas del Lago Titicaca',
+      'Turismo responsable controlado por la comunidad',
+      'Terrazas y ruinas pre-Incas',
+      'Más auténtico que las Islas de los Uros'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: 'Full day (8-9 hours)',
+    durationEs: 'Día completo (8-9 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-70 USD per person',
+    priceRangeEs: '$40-70 USD por persona',
+    bestTime: 'Year-round, dry season May-October',
+    bestTimeEs: 'Todo el año, temporada seca mayo-octubre',
+    includes: [
+      'Hotel pickup and drop-off in Puno',
+      'Boat transportation',
+      'English-speaking guide',
+      'Uros Islands visit',
+      'Traditional lunch on Taquile',
+      'All community and entrance fees'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Puno',
+      'Transporte en bote',
+      'Guía de habla inglesa',
+      'Visita a Islas de los Uros',
+      'Almuerzo tradicional en Taquile',
+      'Todas las tarifas comunitarias y de entrada'
+    ],
+    tips: [
+      '530 steps up - take slowly at altitude',
+      'Bring cash for textile purchases',
+      'Textiles are exceptional quality and value',
+      'Knitted caps make meaningful souvenirs',
+      'Children enjoy meeting local kids',
+      'Overnight homestay option available'
+    ],
+    tipsEs: [
+      '530 escalones de subida - ve despacio en altitud',
+      'Trae efectivo para compras de textiles',
+      'Textiles son de calidad y valor excepcionales',
+      'Gorros tejidos son recuerdos significativos',
+      'Los niños disfrutan conocer niños locales',
+      'Opción de estadía nocturna con familia disponible'
+    ],
+    safetyNotes: [
+      'High altitude (3,950m) - acclimate first',
+      '530 steep steps - pace yourself',
+      'Boat journey can be cold - bring layers',
+      'No medical facilities on island',
+      'Cash only - no ATMs on island'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,950m) - aclimatarse primero',
+      '530 escalones empinados - mantén tu ritmo',
+      'Viaje en bote puede ser frío - trae capas',
+      'Sin instalaciones médicas en la isla',
+      'Solo efectivo - sin cajeros en la isla'
+    ],
+    relatedActivities: ['uros-islands-tour', 'lake-titicaca-full-day', 'sillustani-burial-towers-tour'],
+    providers: [
+      { name: 'Titicaca Tours', familyFriendly: true },
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'palccoyo-rainbow-mountain-trek',
+    name: 'Palccoyo Rainbow Mountain Family Trek',
+    nameEs: 'Trekking Familiar a la Montaña de Colores Palccoyo',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Experience Peru\'s spectacular rainbow mountains on a family-friendly trek to Palccoyo - the easier, less crowded alternative to famous Vinicunca. Three colorful striped mountains, unique stone forest formations, and grazing alpacas await on a gentle walk accessible to older children well-acclimated to altitude.',
+    descriptionEs: 'Experimenta las espectaculares montañas de colores de Perú en una caminata familiar a Palccoyo - la alternativa más fácil y menos concurrida a la famosa Vinicunca. Tres coloridas montañas rayadas, formaciones únicas de bosque de piedra, y alpacas pastando esperan en una caminata suave accesible para niños mayores bien aclimatados a la altitud.',
+    whatToExpect: 'Depart Cusco very early (around 4am) for the 3-hour drive through the Andean highlands toward the Ausangate region. Watch the sunrise over the mountains as you climb. After breakfast at a local village, continue to the Palccoyo trailhead. Unlike Vinicunca\'s strenuous 3-hour climb, Palccoyo requires only a gentle 30-45 minute walk to reach multiple viewpoints. From the main mirador, see three rainbow-striped mountains at once - the colorful layers of red, yellow, green, and turquoise are created by ancient mineral deposits. Children love exploring the unique "stone forest" of eroded rock formations nearby. Alpacas and vicuñas graze in the high grasslands. After time for photos and exploration, return to the vehicle for a packed lunch before the drive back to Cusco, arriving mid-afternoon.',
+    whatToExpectEs: 'Sal de Cusco muy temprano (alrededor de las 4am) para el viaje de 3 horas por las tierras altas andinas hacia la región de Ausangate. Observa el amanecer sobre las montañas mientras subes. Después del desayuno en un pueblo local, continúa al inicio del sendero de Palccoyo. A diferencia de la extenuante subida de 3 horas de Vinicunca, Palccoyo requiere solo una caminata suave de 30-45 minutos para llegar a múltiples miradores. Desde el mirador principal, ve tres montañas rayadas de arcoíris a la vez - las coloridas capas de rojo, amarillo, verde y turquesa son creadas por antiguos depósitos minerales. Los niños aman explorar el único "bosque de piedra" de formaciones rocosas erosionadas cercano. Alpacas y vicuñas pastan en los pastizales altos. Después de tiempo para fotos y exploración, regresa al vehículo para un almuerzo empacado antes del viaje de regreso a Cusco, llegando a media tarde.',
+    highlights: [
+      'Three rainbow mountains in one view',
+      'Much easier than Vinicunca',
+      'Far fewer crowds',
+      'Unique stone forest formations',
+      'Alpacas and vicuñas grazing',
+      'Spectacular high-altitude scenery',
+      'Family-accessible extreme altitude'
+    ],
+    highlightsEs: [
+      'Tres montañas arcoíris en una vista',
+      'Mucho más fácil que Vinicunca',
+      'Muchas menos multitudes',
+      'Formaciones únicas de bosque de piedra',
+      'Alpacas y vicuñas pastando',
+      'Espectacular paisaje de alta altitud',
+      'Altitud extrema accesible para familias'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: 'Full day (12-14 hours)',
+    durationEs: 'Día completo (12-14 horas)',
+    difficulty: 'moderate',
+    priceRange: '$50-90 USD per person',
+    priceRangeEs: '$50-90 USD por persona',
+    bestTime: 'April-November dry season',
+    bestTimeEs: 'Temporada seca abril-noviembre',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Breakfast and lunch',
+      'Private transportation',
+      'Community entrance fee',
+      'Oxygen bottle (emergency)',
+      'Walking poles available'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Desayuno y almuerzo',
+      'Transporte privado',
+      'Tarifa de entrada comunitaria',
+      'Botella de oxígeno (emergencia)',
+      'Bastones de caminata disponibles'
+    ],
+    tips: [
+      'Acclimate in Cusco at least 2-3 days first',
+      'Wear warm layers - 4,900m is cold',
+      'Coca tea helps with altitude',
+      'Horse rental available for struggling',
+      'Best colors in early morning',
+      'Less crowded weekdays'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco al menos 2-3 días primero',
+      'Usa capas abrigadas - 4,900m es frío',
+      'Té de coca ayuda con la altitud',
+      'Alquiler de caballos disponible para quienes batallan',
+      'Mejores colores temprano en la mañana',
+      'Menos concurrido días de semana'
+    ],
+    safetyNotes: [
+      'Extreme altitude (4,900m) - acclimate well',
+      'Weather changes rapidly - bring layers',
+      'Easy walking but altitude affects everyone',
+      'Horse rental for those struggling',
+      'Oxygen available for emergencies',
+      'Not suitable for heart/respiratory conditions'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (4,900m) - aclimatarse bien',
+      'Clima cambia rápidamente - trae capas',
+      'Caminata fácil pero la altitud afecta a todos',
+      'Alquiler de caballos para quienes batallan',
+      'Oxígeno disponible para emergencias',
+      'No apto para condiciones cardíacas/respiratorias'
+    ],
+    relatedActivities: ['vinicunca-rainbow-mountain-trek', 'ausangate-circuit', 'sacred-valley-full-day'],
+    providers: [
+      { name: 'Rainbow Mountain Experts', familyFriendly: true },
+      { name: 'Cusco Adventure Tours', familyFriendly: true },
+      { name: 'Alpaca Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'inca-trail-family-trek',
+    name: 'Classic Inca Trail 4-Day Family Trek',
+    nameEs: 'Trekking Familiar de 4 Días por el Camino Inca Clásico',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'The world\'s most iconic trek reimagined for families with older, adventure-ready children. Trek original Inca stone pathways through cloud forest and over high mountain passes to arrive at Machu Picchu through the Sun Gate at sunrise - transforming a tourist visit into a hard-won achievement the whole family will treasure forever.',
+    descriptionEs: 'La caminata más icónica del mundo reimaginada para familias con niños mayores listos para la aventura. Camina por senderos de piedra incas originales a través de bosque nublado y sobre pasos de montaña altos para llegar a Machu Picchu por la Puerta del Sol al amanecer - transformando una visita turística en un logro duramente ganado que toda la familia atesorará para siempre.',
+    whatToExpect: 'Day 1: Begin at km82, hiking 13km through the Urubamba valley to the first camp at Wayllabamba, passing through rural communities and the ruins of Llactapata. Day 2: The most challenging day - climb to Dead Woman\'s Pass at 4,215m, the trek\'s highest point. Descend to Pacaymayu camp. Day 3: Pass through two more mountain passes and multiple Inca ruins including Runkurakay, Sayacmarca, and Phuyupatamarca. Camp near the stunning ruins of Wiñay Wayna. Day 4: Wake at 3:30am for the final push to Intipunku (Sun Gate) to watch sunrise over Machu Picchu below - an emotional moment that rewards all the effort. Spend the morning exploring Machu Picchu before taking the train back to Cusco. Family-focused operators provide extra support, slower pacing, and experienced guides who engage children throughout.',
+    whatToExpectEs: 'Día 1: Comienza en el km82, caminando 13km por el valle del Urubamba hasta el primer campamento en Wayllabamba, pasando por comunidades rurales y las ruinas de Llactapata. Día 2: El día más desafiante - sube al Paso de la Mujer Muerta a 4,215m, el punto más alto del trek. Desciende al campamento de Pacaymayu. Día 3: Pasa por dos pasos de montaña más y múltiples ruinas incas incluyendo Runkurakay, Sayacmarca, y Phuyupatamarca. Acampa cerca de las impresionantes ruinas de Wiñay Wayna. Día 4: Despierta a las 3:30am para el empuje final a Intipunku (Puerta del Sol) para ver el amanecer sobre Machu Picchu abajo - un momento emotivo que recompensa todo el esfuerzo. Pasa la mañana explorando Machu Picchu antes de tomar el tren de regreso a Cusco. Operadores enfocados en familias proporcionan apoyo extra, ritmo más lento, y guías experimentados que involucran a los niños durante todo el recorrido.',
+    highlights: [
+      'World\'s most famous trek',
+      'Original Inca stone pathways',
+      'Dead Woman\'s Pass at 4,215m',
+      'Multiple Inca archaeological sites',
+      'Sunrise arrival at Machu Picchu',
+      'Cloud forest and Andean scenery',
+      'Life-changing family achievement'
+    ],
+    highlightsEs: [
+      'La caminata más famosa del mundo',
+      'Senderos de piedra incas originales',
+      'Paso de la Mujer Muerta a 4,215m',
+      'Múltiples sitios arqueológicos incas',
+      'Llegada al amanecer a Machu Picchu',
+      'Bosque nublado y paisaje andino',
+      'Logro familiar que cambia la vida'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: '4 days / 3 nights',
+    durationEs: '4 días / 3 noches',
+    difficulty: 'challenging',
+    priceRange: '$700-1,500 USD per person',
+    priceRangeEs: '$700-1,500 USD por persona',
+    bestTime: 'April-October, closed February',
+    bestTimeEs: 'Abril-octubre, cerrado febrero',
+    includes: [
+      'All permits and entrance fees',
+      'Professional bilingual guides',
+      'Porters to carry equipment',
+      'All camping equipment',
+      'All meals during trek',
+      'Machu Picchu guided tour',
+      'Train return to Cusco'
+    ],
+    includesEs: [
+      'Todos los permisos y entradas',
+      'Guías profesionales bilingües',
+      'Porteadores para cargar equipo',
+      'Todo el equipo de camping',
+      'Todas las comidas durante el trek',
+      'Tour guiado de Machu Picchu',
+      'Tren de regreso a Cusco'
+    ],
+    tips: [
+      'Book 6+ months ahead - permits limited',
+      'Train extensively before the trip',
+      'Children must hike 8-12km daily',
+      'Acclimate in Cusco 3+ days',
+      'Choose family-experienced operator',
+      'Budget for porter tips'
+    ],
+    tipsEs: [
+      'Reserva 6+ meses antes - permisos limitados',
+      'Entrena extensamente antes del viaje',
+      'Los niños deben caminar 8-12km diarios',
+      'Aclimátate en Cusco 3+ días',
+      'Elige operador con experiencia familiar',
+      'Presupuesta propinas para porteadores'
+    ],
+    safetyNotes: [
+      'High altitude throughout (2,700-4,215m)',
+      'Challenging terrain and long days',
+      'Weather unpredictable - rain possible',
+      'Basic camping conditions',
+      'Emergency evacuation available',
+      'Not suitable for respiratory conditions'
+    ],
+    safetyNotesEs: [
+      'Alta altitud en todo el recorrido (2,700-4,215m)',
+      'Terreno desafiante y días largos',
+      'Clima impredecible - lluvia posible',
+      'Condiciones básicas de camping',
+      'Evacuación de emergencia disponible',
+      'No apto para condiciones respiratorias'
+    ],
+    relatedActivities: ['machu-picchu-guided-tour', 'sacred-valley-full-day', 'salkantay-trek'],
+    providers: [
+      { name: 'Alpaca Expeditions', familyFriendly: true },
+      { name: 'Peru Treks', familyFriendly: true },
+      { name: 'Llama Path', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'baroque-route-south-valley',
+    name: 'Andahuaylillas Baroque Route & South Valley',
+    nameEs: 'Ruta Barroca de Andahuaylillas y Valle Sur',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover the "Sistine Chapel of the Americas" at Andahuaylillas and other colonial masterpieces on this art and history tour along the South Valley Baroque Route. A perfect half-day alternative to the Sacred Valley, this tour combines stunning religious art with pre-Columbian sites.',
+    descriptionEs: 'Descubre la "Capilla Sixtina de las Américas" en Andahuaylillas y otras obras maestras coloniales en este tour de arte e historia por la Ruta Barroca del Valle Sur. Una alternativa perfecta de medio día al Valle Sagrado, este tour combina impresionante arte religioso con sitios precolombinos.',
+    whatToExpect: 'Depart Cusco heading southeast through the beautiful Huatanay Valley. Your first stop is the charming village of Oropesa, famous throughout Peru for its bread - sample fresh chiuta and buy some for the journey. Continue to Andahuaylillas to visit the Church of San Pedro Apóstol, known as the "Sistine Chapel of the Americas." Behind its modest adobe exterior lies one of Peru\'s most spectacular interiors: gilded mudéjar ceilings, massive colonial canvases, and wall-to-wall murals by Cusco School masters. Children are amazed when they step from the simple outside to the overwhelming gold-covered interior. Continue to the nearby churches of Huaro and Canincunca on the Baroque Route ticket, each with distinctive colonial art. If time permits, visit the pre-Inca ruins of Pikillacta for archaeological contrast. Return to Cusco by early afternoon with a new appreciation for colonial Andean art.',
+    whatToExpectEs: 'Sal de Cusco hacia el sureste por el hermoso Valle de Huatanay. Tu primera parada es el encantador pueblo de Oropesa, famoso en todo Perú por su pan - prueba chiuta fresca y compra algo para el viaje. Continúa a Andahuaylillas para visitar la Iglesia de San Pedro Apóstol, conocida como la "Capilla Sixtina de las Américas." Detrás de su modesto exterior de adobe yace uno de los interiores más espectaculares de Perú: techos mudéjares dorados, enormes lienzos coloniales, y murales de pared a pared de maestros de la Escuela Cusqueña. Los niños quedan asombrados cuando pasan del exterior simple al abrumador interior cubierto de oro. Continúa a las iglesias cercanas de Huaro y Canincunca en el boleto de la Ruta Barroca, cada una con arte colonial distintivo. Si el tiempo lo permite, visita las ruinas pre-Incas de Pikillacta para contraste arqueológico. Regresa a Cusco a primera hora de la tarde con una nueva apreciación por el arte andino colonial.',
+    highlights: [
+      'Andahuaylillas "Sistine Chapel of Americas"',
+      'Extraordinary gold-leaf ceilings and murals',
+      'Cusco School colonial masterpieces',
+      'Huaro and Canincunca churches',
+      'Oropesa famous bread village',
+      'Optional Pikillacta pre-Inca ruins',
+      'Less crowded than Sacred Valley'
+    ],
+    highlightsEs: [
+      'Andahuaylillas "Capilla Sixtina de las Américas"',
+      'Extraordinarios techos de pan de oro y murales',
+      'Obras maestras coloniales de la Escuela Cusqueña',
+      'Iglesias de Huaro y Canincunca',
+      'Famoso pueblo panadero de Oropesa',
+      'Ruinas pre-Incas de Pikillacta opcionales',
+      'Menos concurrido que el Valle Sagrado'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$35-60 USD per person',
+    priceRangeEs: '$35-60 USD por persona',
+    bestTime: 'Year-round, morning light best',
+    bestTimeEs: 'Todo el año, luz de mañana mejor',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Baroque Route church entrance fees',
+      'Private transportation',
+      'Bread tasting in Oropesa'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Entradas a iglesias de la Ruta Barroca',
+      'Transporte privado',
+      'Degustación de pan en Oropesa'
+    ],
+    tips: [
+      'Photography prohibited inside churches',
+      'Dress modestly - shoulders/knees covered',
+      'Morning light best for church interiors',
+      'Oropesa bread makes great gifts',
+      'Children surprised by gold interiors',
+      'Combine with Tipon for full day'
+    ],
+    tipsEs: [
+      'Fotografía prohibida dentro de iglesias',
+      'Viste modestamente - hombros/rodillas cubiertos',
+      'Luz de mañana mejor para interiores de iglesias',
+      'Pan de Oropesa son grandes regalos',
+      'Niños sorprendidos por interiores de oro',
+      'Combina con Tipón para día completo'
+    ],
+    safetyNotes: [
+      'Easy walking on paved surfaces',
+      'Moderate altitude (3,100-3,400m)',
+      'Some stairs in churches',
+      'Safe well-visited route',
+      'Air-conditioned transportation'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies pavimentadas',
+      'Altitud moderada (3,100-3,400m)',
+      'Algunas escaleras en iglesias',
+      'Ruta segura y bien visitada',
+      'Transporte con aire acondicionado'
+    ],
+    relatedActivities: ['tipon-water-engineering-tour', 'cusco-walking-tour', 'sacred-valley-full-day'],
+    providers: [
+      { name: 'Cusco Baroque Tours', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Andean Art Tours', familyFriendly: true }
+    ]
+  },
+
+  // Batch 14 Activities
+  {
+    slug: 'amantani-island-homestay-experience',
+    name: 'Amantaní Island Homestay Experience',
+    nameEs: 'Experiencia de Hospedaje en Isla Amantaní',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno',
+    regionEs: 'Puno',
+    description: 'Experience authentic Quechua culture through an overnight homestay on Amantaní Island in Lake Titicaca. This 2-day experience immerses families in traditional island life where there are no cars, no hotels, and no restaurants—just warm hospitality from indigenous families who have maintained their ancestral ways for centuries. Participate in farming activities, learn traditional weaving, dress in local costumes for evening celebrations, and witness spectacular sunsets from sacred hilltop temples. This transformative experience creates profound connections between families and one of Peru\'s most traditional communities.',
+    descriptionEs: 'Experimenta la auténtica cultura quechua a través de una estadía de una noche con familias en la Isla Amantaní en el Lago Titicaca. Esta experiencia de 2 días sumerge a las familias en la vida tradicional de la isla donde no hay autos, no hay hoteles y no hay restaurantes—solo la cálida hospitalidad de familias indígenas que han mantenido sus formas ancestrales por siglos. Participa en actividades agrícolas, aprende tejido tradicional, viste trajes locales para celebraciones nocturnas y presencia espectaculares atardeceres desde templos sagrados en las cimas de cerros. Esta experiencia transformadora crea conexiones profundas entre familias y una de las comunidades más tradicionales de Perú.',
+    whatToExpect: 'Your adventure begins with a scenic 4-hour boat journey across Lake Titicaca\'s deep blue waters from Puno, often stopping at Uros Floating Islands en route. Arriving at Amantaní, you\'re welcomed by host families at the port and walk 30-45 minutes uphill through terraced farms to their homes. The island rises to 4,150 meters, so the walk is gentle-paced to allow acclimatization. At your host family\'s traditional stone house, you receive a warm welcome with mate de muña (local herb tea). Afternoons include participating in daily activities—perhaps harvesting quinoa, feeding guinea pigs, or learning to weave on backstrap looms. Children particularly enjoy helping in the fields and playing with local children despite language barriers. Before sunset, families hike to Pachatata or Pachamama temples at the island\'s summit for breathtaking 360-degree views of the lake and surrounding peaks. Evening brings the magical peña folklorica—a community celebration where visitors dress in traditional clothing and dance with islanders. The simple dinner of lake fish, quinoa soup, and potatoes cooked by your host family feels incredibly special. Sleeping in basic but clean rooms under thick wool blankets with no electricity creates a true digital detox. Morning brings breakfast and a walk to the port, often with emotional farewells from host families who treat guests like extended family members.',
+    whatToExpectEs: 'Tu aventura comienza con un viaje escénico de 4 horas en bote a través de las aguas azul profundo del Lago Titicaca desde Puno, a menudo parando en las Islas Flotantes de los Uros en camino. Al llegar a Amantaní, eres recibido por familias anfitrionas en el puerto y caminas 30-45 minutos cuesta arriba a través de granjas en terrazas hasta sus hogares. La isla se eleva a 4,150 metros, así que la caminata es a paso suave para permitir aclimatación. En la casa tradicional de piedra de tu familia anfitriona, recibes una cálida bienvenida con mate de muña (té de hierba local). Las tardes incluyen participar en actividades diarias—quizás cosechando quinua, alimentando cuyes, o aprendiendo a tejer en telares de cintura. Los niños particularmente disfrutan ayudando en los campos y jugando con niños locales a pesar de barreras de idioma. Antes del atardecer, las familias caminan a los templos de Pachatata o Pachamama en la cima de la isla para vistas impresionantes de 360 grados del lago y picos circundantes. La noche trae la mágica peña folklórica—una celebración comunitaria donde visitantes visten ropa tradicional y bailan con isleños. La cena simple de pescado del lago, sopa de quinua y papas cocinada por tu familia anfitriona se siente increíblemente especial. Dormir en habitaciones básicas pero limpias bajo gruesas mantas de lana sin electricidad crea una verdadera desintoxicación digital. La mañana trae desayuno y caminata al puerto, a menudo con despedidas emotivas de familias anfitrionas que tratan a huéspedes como miembros de familia extendida.',
+    highlights: [
+      'Authentic overnight homestay with indigenous family',
+      'No roads, cars, hotels, or restaurants—total immersion',
+      'Participate in traditional farming and weaving activities',
+      'Evening folklore celebration in traditional dress',
+      'Sunset hike to pre-Inca Pachatata and Pachamama temples',
+      '360-degree views of Lake Titicaca from 4,150m summit',
+      'Learn about Quechua traditions directly from families',
+      'Complete digital detox—no electricity in homes',
+      'Traditional meals prepared by host family',
+      'Combined with Uros Floating Islands visit',
+      'Meaningful cultural exchange that benefits community',
+      'Children play with local kids across language barriers'
+    ],
+    highlightsEs: [
+      'Auténtica estadía de noche con familia indígena',
+      'Sin caminos, autos, hoteles o restaurantes—inmersión total',
+      'Participa en actividades tradicionales de agricultura y tejido',
+      'Celebración de folklore nocturna en traje tradicional',
+      'Caminata al atardecer a templos pre-Incas Pachatata y Pachamama',
+      'Vistas de 360 grados del Lago Titicaca desde cumbre de 4,150m',
+      'Aprende sobre tradiciones quechua directamente de familias',
+      'Desintoxicación digital completa—sin electricidad en hogares',
+      'Comidas tradicionales preparadas por familia anfitriona',
+      'Combinado con visita a Islas Flotantes de los Uros',
+      'Intercambio cultural significativo que beneficia comunidad',
+      'Niños juegan con niños locales cruzando barreras de idioma'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '2 days, 1 night',
+    durationEs: '2 días, 1 noche',
+    difficulty: 'moderate',
+    priceRange: '$80-150 USD per person',
+    priceRangeEs: '$80-150 USD por persona',
+    bestTime: 'April-November',
+    bestTimeEs: 'Abril-Noviembre',
+    includes: [
+      'Round-trip boat transport from Puno',
+      'Stop at Uros Floating Islands',
+      'One night homestay accommodation',
+      'All meals with host family',
+      'Traditional costume rental for celebration',
+      'Community contribution fee',
+      'English/Spanish speaking guide',
+      'Temple entrance fees'
+    ],
+    includesEs: [
+      'Transporte en bote ida y vuelta desde Puno',
+      'Parada en Islas Flotantes de los Uros',
+      'Alojamiento de una noche con familia',
+      'Todas las comidas con familia anfitriona',
+      'Alquiler de traje tradicional para celebración',
+      'Cuota de contribución comunitaria',
+      'Guía de habla inglés/español',
+      'Entradas a templos'
+    ],
+    tips: [
+      'Bring warm clothes—temperatures drop at night',
+      'Bring headlamp/flashlight—no electricity',
+      'Pack light as you carry bags uphill',
+      'Bring small gifts for host family children',
+      'Cash for handicraft purchases—no ATMs',
+      'Altitude medication if sensitive',
+      'Respectful modest dress appreciated',
+      'Sleeping bags useful for extra warmth'
+    ],
+    tipsEs: [
+      'Trae ropa abrigada—temperaturas bajan de noche',
+      'Trae linterna—no hay electricidad',
+      'Empaca ligero porque cargas maletas cuesta arriba',
+      'Trae pequeños regalos para niños de familia anfitriona',
+      'Efectivo para compras de artesanías—no hay cajeros',
+      'Medicación para altitud si eres sensible',
+      'Vestimenta modesta respetuosa apreciada',
+      'Sacos de dormir útiles para calor extra'
+    ],
+    safetyNotes: [
+      'High altitude (4,150m)—acclimatize in Puno first',
+      'Moderate uphill walking required',
+      'Basic facilities—no running hot water',
+      'Boats have life jackets',
+      'Island extremely safe—tight-knit community',
+      'No medical facilities on island'
+    ],
+    safetyNotesEs: [
+      'Altitud elevada (4,150m)—aclimatarse en Puno primero',
+      'Caminata moderada cuesta arriba requerida',
+      'Instalaciones básicas—sin agua caliente corriente',
+      'Botes tienen chalecos salvavidas',
+      'Isla extremadamente segura—comunidad muy unida',
+      'Sin instalaciones médicas en la isla'
+    ],
+    relatedActivities: ['taquile-island-cultural-immersion', 'uros-floating-islands-visit', 'lake-titicaca-kayaking'],
+    providers: [
+      { name: 'Amantaní Community Tourism', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true },
+      { name: 'All Ways Travel Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'museo-de-la-nacion-tour',
+    name: 'Museo de la Nación Educational Tour',
+    nameEs: 'Tour Educativo al Museo de la Nación',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima',
+    regionEs: 'Lima',
+    description: 'Explore Peru\'s largest museum housing the most comprehensive collection of pre-Columbian artifacts in the country. The Museo de la Nación presents the complete arc of Peruvian civilization from the earliest hunter-gatherers through all major ancient cultures to the Inca Empire and colonial period. With kid-friendly exhibits, interactive displays, scale models of archaeological sites, and air-conditioned galleries, this educational experience provides essential context before visiting Peru\'s archaeological destinations. The museum\'s chronological layout and English signage make complex history accessible to families, while the Yuyanapaq photographic exhibit offers important perspectives on modern Peru.',
+    descriptionEs: 'Explora el museo más grande de Perú que alberga la colección más completa de artefactos precolombinos del país. El Museo de la Nación presenta el arco completo de la civilización peruana desde los primeros cazadores-recolectores a través de todas las principales culturas antiguas hasta el Imperio Inca y período colonial. Con exhibiciones amigables para niños, displays interactivos, maquetas de sitios arqueológicos y galerías con aire acondicionado, esta experiencia educativa proporciona contexto esencial antes de visitar destinos arqueológicos de Perú. El diseño cronológico del museo y señalización en inglés hacen la historia compleja accesible para familias, mientras la exhibición fotográfica Yuyanapaq ofrece perspectivas importantes sobre el Perú moderno.',
+    whatToExpect: 'Your museum visit begins at Lima\'s largest cultural complex in the San Borja district. The massive modernist building houses six floors of exhibits spanning 10,000+ years of Peruvian history. Expert guides lead families through chronologically arranged galleries, starting with the Lithic Period and Peru\'s first inhabitants, then progressing through Chavín, Moche, Wari, Chimú, and finally the Inca Empire. Children are captivated by the elaborate gold artifacts, colorful textiles, realistic Moche portrait vessels, and intricate Paracas mummies. The museum features excellent scale models of major archaeological sites including Machu Picchu, Chan Chan, Chavín de Huántar, and the Nazca Lines, which provide crucial context if you\'re planning to visit these sites later. The Moche gallery particularly impresses with its recreation of the Lord of Sipán\'s burial chamber. Allow 2-3 hours for a comprehensive tour, or longer if children engage deeply with the interactive elements. The museum includes comfortable rest areas and a cafeteria for breaks. The Yuyanapaq exhibit documenting Peru\'s internal conflict is profound but may be intense for younger children—discuss with your guide about age-appropriateness. Air conditioning throughout makes this an excellent rainy-day activity or respite from Lima\'s heat.',
+    whatToExpectEs: 'Tu visita al museo comienza en el complejo cultural más grande de Lima en el distrito de San Borja. El masivo edificio modernista alberga seis pisos de exhibiciones que abarcan 10,000+ años de historia peruana. Guías expertos llevan a familias a través de galerías ordenadas cronológicamente, comenzando con el Período Lítico y los primeros habitantes de Perú, luego progresando a través de Chavín, Moche, Wari, Chimú, y finalmente el Imperio Inca. Los niños quedan cautivados por los elaborados artefactos de oro, textiles coloridos, vasijas retrato realistas Moche, e intrincadas momias Paracas. El museo presenta excelentes maquetas de principales sitios arqueológicos incluyendo Machu Picchu, Chan Chan, Chavín de Huántar, y las Líneas de Nazca, que proporcionan contexto crucial si planeas visitar estos sitios después. La galería Moche particularmente impresiona con su recreación de la cámara funeraria del Señor de Sipán. Permite 2-3 horas para un tour completo, o más si los niños se involucran profundamente con elementos interactivos. El museo incluye áreas de descanso cómodas y cafetería para pausas. La exhibición Yuyanapaq documentando el conflicto interno de Perú es profunda pero puede ser intensa para niños menores—discute con tu guía sobre apropiabilidad según edad. Aire acondicionado en todo hace esto una excelente actividad para días lluviosos o respiro del calor de Lima.',
+    highlights: [
+      'Peru\'s largest museum with most comprehensive collection',
+      'Complete chronological journey through 10,000 years',
+      'Excellent scale models of Machu Picchu, Chan Chan, Nazca Lines',
+      'Lord of Sipán burial chamber recreation',
+      'Original Moche, Chimú, and Paracas artifacts',
+      'Air-conditioned galleries—ideal any weather',
+      'Kid-friendly interactive displays',
+      'Yuyanapaq photo exhibit on modern Peru',
+      'Essential preparation before archaeological sites',
+      'English signage and audio guides available',
+      'Less crowded than other Lima museums',
+      'Cafeteria and rest areas for families'
+    ],
+    highlightsEs: [
+      'Museo más grande de Perú con colección más completa',
+      'Viaje cronológico completo a través de 10,000 años',
+      'Excelentes maquetas de Machu Picchu, Chan Chan, Líneas de Nazca',
+      'Recreación de cámara funeraria del Señor de Sipán',
+      'Artefactos originales Moche, Chimú y Paracas',
+      'Galerías con aire acondicionado—ideal cualquier clima',
+      'Displays interactivos amigables para niños',
+      'Exhibición fotográfica Yuyanapaq sobre Perú moderno',
+      'Preparación esencial antes de sitios arqueológicos',
+      'Señalización en inglés y audioguías disponibles',
+      'Menos concurrido que otros museos de Lima',
+      'Cafetería y áreas de descanso para familias'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$20-40 USD per person (guided)',
+    priceRangeEs: '$20-40 USD por persona (guiado)',
+    bestTime: 'Year-round',
+    bestTimeEs: 'Todo el año',
+    includes: [
+      'Museum entrance fees',
+      'Professional English-speaking guide',
+      'All gallery access',
+      'Interactive activity booklet for children',
+      'Hotel pickup/drop-off (optional)',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Entradas al museo',
+      'Guía profesional de habla inglesa',
+      'Acceso a todas las galerías',
+      'Cuadernillo de actividades interactivas para niños',
+      'Recogida/retorno al hotel (opcional)',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Visit before Machu Picchu or Nazca for context',
+      'Morning visits less crowded',
+      'Allow at least 2 hours for meaningful visit',
+      'Scale models excellent for photo opportunities',
+      'Bring notebook for kids to sketch artifacts',
+      'Cafeteria has kid-friendly options',
+      'Combine with nearby Huaca Huallamarca'
+    ],
+    tipsEs: [
+      'Visita antes de Machu Picchu o Nazca para contexto',
+      'Visitas matutinas menos concurridas',
+      'Permite al menos 2 horas para visita significativa',
+      'Maquetas excelentes para oportunidades de fotos',
+      'Trae cuaderno para que niños dibujen artefactos',
+      'Cafetería tiene opciones amigables para niños',
+      'Combina con cercana Huaca Huallamarca'
+    ],
+    safetyNotes: [
+      'Fully accessible and air-conditioned',
+      'Elevators available for all floors',
+      'Clean restrooms throughout',
+      'Security guards on each level',
+      'Safe San Borja neighborhood',
+      'Supervised parking available'
+    ],
+    safetyNotesEs: [
+      'Completamente accesible y climatizado',
+      'Ascensores disponibles para todos los pisos',
+      'Baños limpios en todo el edificio',
+      'Guardias de seguridad en cada nivel',
+      'Vecindario seguro de San Borja',
+      'Estacionamiento vigilado disponible'
+    ],
+    relatedActivities: ['larco-museum-tour', 'lima-walking-tour', 'pachacamac-archaeological-tour'],
+    providers: [
+      { name: 'Lima Museums Tours', familyFriendly: true },
+      { name: 'Peru Educational Travel', familyFriendly: true },
+      { name: 'Context Travel Lima', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'maria-reiche-nazca-ground-tour',
+    name: 'María Reiche Museum & Nazca Lines Ground Tour',
+    nameEs: 'Museo María Reiche y Tour Terrestre Líneas de Nazca',
+    type: 'educational',
+    city: 'nazca',
+    region: 'Ica',
+    regionEs: 'Ica',
+    description: 'Discover the fascinating story of María Reiche, the German mathematician who devoted her life to studying and protecting the Nazca Lines, followed by ground-level visits to these mysterious geoglyphs. This family-friendly alternative to scenic flights offers an intimate, educational experience exploring the Nazca Lines from observation towers and the mirador, combined with a visit to Reiche\'s preserved home-turned-museum where her tools, maps, and personal belongings tell the story of her 50-year dedication. Perfect for families with young children or anyone preferring to stay on solid ground while still experiencing these UNESCO World Heritage wonders.',
+    descriptionEs: 'Descubre la fascinante historia de María Reiche, la matemática alemana que dedicó su vida a estudiar y proteger las Líneas de Nazca, seguido de visitas a nivel de tierra a estos misteriosos geoglifos. Esta alternativa amigable para familias a los vuelos escénicos ofrece una experiencia íntima y educativa explorando las Líneas de Nazca desde torres de observación y el mirador, combinado con una visita a la casa preservada de Reiche convertida en museo donde sus herramientas, mapas y pertenencias personales cuentan la historia de sus 50 años de dedicación. Perfecto para familias con niños pequeños o cualquiera que prefiera quedarse en tierra firme mientras experimenta estas maravillas del Patrimonio Mundial de la UNESCO.',
+    whatToExpect: 'Your ground-level Nazca experience begins at the María Reiche Museum, located at Km 421 of the Pan-American Highway where Reiche lived for decades in a humble adobe house. The small but poignant museum displays her original surveying equipment, hand-drawn maps of geoglyph measurements, photographs spanning decades, and her iconic broom used to sweep the desert to reveal lines. Reiche\'s preserved bedroom and simple living quarters show her austere dedication to protecting these ancient mysteries. She is buried on the grounds beneath a tree she planted. From there, continue to the modern Mirador (observation tower) along the highway, where a 13-meter metal tower provides views of three figures: the Hands, Tree, and Lizard geoglyphs. A second tower at Km 424 offers views of additional figures. Your guide explains the theories behind the lines—astronomical calendar, ceremonial pathways, water cult symbols—and how Reiche spent decades documenting over 70 figures and 900 geometric designs. The experience includes visiting the ancient Cantalloc Aqueducts, an ingenious underground water system still functioning after 1,500 years. Children can actually walk into these spiral-shaped aqueducts, making this a hands-on archaeological experience. The tour provides essential context about Nazca culture and the remarkable woman who saved these lines from destruction by highway development.',
+    whatToExpectEs: 'Tu experiencia de Nazca a nivel de tierra comienza en el Museo María Reiche, ubicado en el Km 421 de la Carretera Panamericana donde Reiche vivió por décadas en una humilde casa de adobe. El pequeño pero conmovedor museo exhibe su equipo original de topografía, mapas dibujados a mano de mediciones de geoglifos, fotografías de décadas, y su icónica escoba usada para barrer el desierto y revelar líneas. El dormitorio preservado de Reiche y sus simples habitaciones muestran su dedicación austera a proteger estos antiguos misterios. Está enterrada en los terrenos bajo un árbol que plantó. Desde allí, continúa al moderno Mirador (torre de observación) a lo largo de la carretera, donde una torre metálica de 13 metros proporciona vistas de tres figuras: los geoglifos de las Manos, Árbol y Lagarto. Una segunda torre en el Km 424 ofrece vistas de figuras adicionales. Tu guía explica las teorías detrás de las líneas—calendario astronómico, caminos ceremoniales, símbolos de culto al agua—y cómo Reiche pasó décadas documentando más de 70 figuras y 900 diseños geométricos. La experiencia incluye visitar los antiguos Acueductos de Cantalloc, un ingenioso sistema de agua subterráneo aún funcionando después de 1,500 años. Los niños pueden realmente caminar dentro de estos acueductos en forma de espiral, haciendo esto una experiencia arqueológica práctica. El tour proporciona contexto esencial sobre la cultura Nazca y la notable mujer que salvó estas líneas de la destrucción por desarrollo de carreteras.',
+    highlights: [
+      'María Reiche\'s preserved home and museum',
+      'See her original surveying tools and hand-drawn maps',
+      'Ground-level views from 13-meter observation tower',
+      'See Hands, Tree, Lizard, and other geoglyphs',
+      'No flying—perfect for families with young children',
+      'Visit functioning 1,500-year-old Cantalloc Aqueducts',
+      'Walk inside ancient spiral water tunnels',
+      'Learn theories about Nazca Line meanings',
+      'Reiche\'s gravesite beneath her planted tree',
+      'Ideal complement to or substitute for flight',
+      'Budget-friendly alternative to scenic flights',
+      'Hands-on archaeological experiences for kids'
+    ],
+    highlightsEs: [
+      'Casa preservada y museo de María Reiche',
+      'Ve sus herramientas originales de topografía y mapas dibujados a mano',
+      'Vistas a nivel de tierra desde torre de observación de 13 metros',
+      'Ve las Manos, Árbol, Lagarto y otros geoglifos',
+      'Sin volar—perfecto para familias con niños pequeños',
+      'Visita los Acueductos de Cantalloc funcionando por 1,500 años',
+      'Camina dentro de antiguos túneles de agua en espiral',
+      'Aprende teorías sobre significados de Líneas de Nazca',
+      'Tumba de Reiche bajo su árbol plantado',
+      'Complemento o sustituto ideal para vuelo',
+      'Alternativa económica a vuelos escénicos',
+      'Experiencias arqueológicas prácticas para niños'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$30-50 USD per person',
+    priceRangeEs: '$30-50 USD por persona',
+    bestTime: 'Year-round, morning for cooler temperatures',
+    bestTimeEs: 'Todo el año, mañana para temperaturas más frescas',
+    includes: [
+      'Private transportation',
+      'María Reiche Museum entrance',
+      'Observation tower fees',
+      'Cantalloc Aqueducts visit',
+      'Professional English-speaking guide',
+      'Bottled water',
+      'Hotel pickup/drop-off in Nazca'
+    ],
+    includesEs: [
+      'Transporte privado',
+      'Entrada al Museo María Reiche',
+      'Tarifas de torre de observación',
+      'Visita a Acueductos de Cantalloc',
+      'Guía profesional de habla inglesa',
+      'Agua embotellada',
+      'Recogida/retorno al hotel en Nazca'
+    ],
+    tips: [
+      'Visit early morning to avoid desert heat',
+      'Bring binoculars for better geoglyph viewing',
+      'Wear sun protection—no shade at towers',
+      'Combine with flight for complete experience',
+      'Children love walking in aqueduct tunnels',
+      'Museum is small but deeply moving',
+      'Best ground views around 9-10am for light'
+    ],
+    tipsEs: [
+      'Visita temprano en la mañana para evitar calor del desierto',
+      'Trae binoculares para mejor visualización de geoglifos',
+      'Usa protección solar—sin sombra en torres',
+      'Combina con vuelo para experiencia completa',
+      'Niños aman caminar en túneles de acueductos',
+      'Museo es pequeño pero profundamente conmovedor',
+      'Mejores vistas terrestres alrededor de 9-10am por luz'
+    ],
+    safetyNotes: [
+      'Easy walking on flat surfaces',
+      'Tower has stairs—supervise children',
+      'Stay on marked paths at all sites',
+      'Desert heat—bring water and sun protection',
+      'Aqueduct tunnels are shallow and safe',
+      'Low altitude—no altitude concerns'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies planas',
+      'Torre tiene escaleras—supervisa niños',
+      'Permanece en caminos marcados en todos los sitios',
+      'Calor del desierto—trae agua y protección solar',
+      'Túneles de acueductos son poco profundos y seguros',
+      'Altitud baja—sin preocupaciones de altitud'
+    ],
+    relatedActivities: ['nazca-lines-flight', 'chauchilla-cemetery-tour', 'nazca-pottery-workshop'],
+    providers: [
+      { name: 'Nazca Trails', familyFriendly: true },
+      { name: 'Mystery Peru Tours', familyFriendly: true },
+      { name: 'Alegria Tours Nazca', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'trujillo-colonial-walking-tour',
+    name: 'Trujillo Colonial Walking Tour',
+    nameEs: 'Tour a Pie Colonial de Trujillo',
+    type: 'cultural',
+    city: 'trujillo',
+    region: 'La Libertad',
+    regionEs: 'La Libertad',
+    description: 'Stroll through Trujillo\'s magnificent colonial center, one of Peru\'s best-preserved historic districts where colorful republican mansions, ornate churches, and elegant wrought-iron window grilles create a living museum of Spanish colonial architecture. This family-friendly walking tour explores the "City of Eternal Spring" from its grand Plaza de Armas through narrow streets lined with pastel-colored casas coloniales to impressive churches and historic mansions open for visits. Learn about Trujillo\'s role in Peru\'s independence, admire the intricate wooden balconies unique to this region, and experience the warm hospitality of norteño culture in this fascinating alternative to Cusco\'s crowds.',
+    descriptionEs: 'Pasea por el magnífico centro colonial de Trujillo, uno de los distritos históricos mejor preservados de Perú donde coloridas mansiones republicanas, iglesias ornamentadas y elegantes rejas de ventanas de hierro forjado crean un museo vivo de arquitectura colonial española. Este tour a pie amigable para familias explora la "Ciudad de la Eterna Primavera" desde su gran Plaza de Armas a través de calles estrechas bordeadas de casas coloniales color pastel hasta impresionantes iglesias y mansiones históricas abiertas a visitas. Aprende sobre el rol de Trujillo en la independencia de Perú, admira los intrincados balcones de madera únicos de esta región, y experimenta la cálida hospitalidad de la cultura norteña en esta fascinante alternativa a las multitudes de Cusco.',
+    whatToExpect: 'Your walking tour begins at Trujillo\'s spectacular Plaza de Armas, considered one of Peru\'s most beautiful central squares. The 17th-century cathedral dominates one side, while colorful colonial buildings with signature window grilles surround the palm-lined plaza and its striking Freedom Monument commemorating Peru\'s independence. Your guide shares how Trujillo was the first city to declare independence from Spain in 1820. Walking through pedestrian streets, you admire the distinctive colonial architecture—bright yellow, blue, and terracotta facades, carved wooden balconies, and elaborate window grilles that define northern Peruvian style. Visit Casa Urquiaga (also called Casa Calonge), where Simón Bolívar planned liberation campaigns, now a museum with colonial furniture and pre-Columbian gold artifacts. Continue to Casa de la Emancipación, where Peruvian independence was proclaimed, featuring gorgeous courtyards and rotating art exhibitions. The Iglesia de La Merced impresses with its baroque altar, while smaller churches reveal hidden colonial treasures. Along the way, stop at traditional picanterías to taste northern specialties like shambar soup and ceviche. The walk covers approximately 2 kilometers through flat, shaded streets at sea level—comfortable for all ages. Children enjoy the colorful buildings, counting window grilles, and feeding pigeons in plazas. The tour provides wonderful context before visiting nearby Chan Chan and Moche pyramids.',
+    whatToExpectEs: 'Tu tour a pie comienza en la espectacular Plaza de Armas de Trujillo, considerada una de las plazas centrales más hermosas de Perú. La catedral del siglo XVII domina un lado, mientras coloridos edificios coloniales con distintivas rejas de ventanas rodean la plaza bordeada de palmeras y su llamativo Monumento a la Libertad conmemorando la independencia de Perú. Tu guía comparte cómo Trujillo fue la primera ciudad en declarar independencia de España en 1820. Caminando por calles peatonales, admiras la distintiva arquitectura colonial—fachadas de amarillo brillante, azul y terracota, balcones tallados de madera, y elaboradas rejas de ventanas que definen el estilo norteño peruano. Visita Casa Urquiaga (también llamada Casa Calonge), donde Simón Bolívar planeó campañas de liberación, ahora un museo con muebles coloniales y artefactos de oro precolombinos. Continúa a Casa de la Emancipación, donde se proclamó la independencia peruana, con hermosos patios y exhibiciones de arte rotativas. La Iglesia de La Merced impresiona con su altar barroco, mientras iglesias más pequeñas revelan tesoros coloniales escondidos. En el camino, para en picanterías tradicionales para probar especialidades norteñas como sopa shambar y ceviche. La caminata cubre aproximadamente 2 kilómetros por calles planas y sombreadas a nivel del mar—cómodo para todas las edades. Los niños disfrutan los edificios coloridos, contando rejas de ventanas y alimentando palomas en plazas. El tour proporciona contexto maravilloso antes de visitar el cercano Chan Chan y pirámides Moche.',
+    highlights: [
+      'One of Peru\'s best-preserved colonial centers',
+      'Grand Plaza de Armas with Freedom Monument',
+      '17th-century cathedral and baroque churches',
+      'Distinctive northern-style wooden balconies',
+      'Elaborate wrought-iron window grilles',
+      'Casa Urquiaga—Bolívar\'s independence headquarters',
+      'Casa de la Emancipación museum',
+      'First city to declare Peruvian independence',
+      'Colorful pastel colonial architecture',
+      'Northern cuisine tasting at picanterías',
+      'Sea-level—no altitude concerns',
+      'Perfect preparation for Chan Chan and Moche visits'
+    ],
+    highlightsEs: [
+      'Uno de los centros coloniales mejor preservados de Perú',
+      'Gran Plaza de Armas con Monumento a la Libertad',
+      'Catedral del siglo XVII e iglesias barrocas',
+      'Distintivos balcones de madera estilo norteño',
+      'Elaboradas rejas de ventanas de hierro forjado',
+      'Casa Urquiaga—cuartel de independencia de Bolívar',
+      'Museo Casa de la Emancipación',
+      'Primera ciudad en declarar independencia peruana',
+      'Colorida arquitectura colonial pastel',
+      'Degustación de cocina norteña en picanterías',
+      'Nivel del mar—sin preocupaciones de altitud',
+      'Preparación perfecta para visitas a Chan Chan y Moche'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round',
+    bestTimeEs: 'Todo el año',
+    includes: [
+      'Professional English-speaking guide',
+      'All museum entrance fees',
+      'Church entrance fees',
+      'Traditional snack tasting',
+      'Bottled water',
+      'Hotel pickup in Trujillo center (optional)'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Todas las entradas a museos',
+      'Entradas a iglesias',
+      'Degustación de snack tradicional',
+      'Agua embotellada',
+      'Recogida en hotel en centro de Trujillo (opcional)'
+    ],
+    tips: [
+      'Morning tours avoid midday heat',
+      'Wear comfortable walking shoes',
+      'Some churches closed during siesta',
+      'Best combined with Chan Chan same day',
+      'Trujillo marinera festival in January spectacular',
+      'Sunday mornings quieter in historic center',
+      'Try king kong (giant alfajor) as souvenir'
+    ],
+    tipsEs: [
+      'Tours matutinos evitan calor del mediodía',
+      'Usa zapatos cómodos para caminar',
+      'Algunas iglesias cerradas durante siesta',
+      'Mejor combinado con Chan Chan mismo día',
+      'Festival de marinera de Trujillo en enero espectacular',
+      'Domingos por la mañana más tranquilos en centro histórico',
+      'Prueba king kong (alfajor gigante) como souvenir'
+    ],
+    safetyNotes: [
+      'Flat walking at sea level—very easy',
+      'Safe, well-patrolled historic center',
+      'Pedestrian streets in main areas',
+      'Watch for traffic on cross streets',
+      'Pleasant year-round temperatures',
+      'Clean restrooms at museums and restaurants'
+    ],
+    safetyNotesEs: [
+      'Caminata plana a nivel del mar—muy fácil',
+      'Centro histórico seguro y bien patrullado',
+      'Calles peatonales en áreas principales',
+      'Cuidado con tráfico en calles transversales',
+      'Temperaturas agradables todo el año',
+      'Baños limpios en museos y restaurantes'
+    ],
+    relatedActivities: ['chan-chan-archaeological-tour', 'huacas-moche-tour', 'huanchaco-surf-lesson'],
+    providers: [
+      { name: 'Trujillo Walking Tours', familyFriendly: true },
+      { name: 'Northern Peru Expeditions', familyFriendly: true },
+      { name: 'Colonial Trujillo Tours', familyFriendly: true }
+    ]
+  },
+
+  // Batch 15 Activities
+  {
+    slug: 'huaca-pucllana-night-tour',
+    name: 'Huaca Pucllana Illuminated Night Tour',
+    nameEs: 'Tour Nocturno Iluminado de Huaca Pucllana',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima',
+    regionEs: 'Lima',
+    description: 'Experience the magic of ancient Lima after dark with a guided tour of Huaca Pucllana, a pre-Inca adobe pyramid dramatically illuminated against the night sky in the heart of Miraflores. This unforgettable evening combines archaeology with atmosphere as warm lighting transforms the 1,500-year-old ceremonial center into something mystical, with Lima\'s modern skyline providing a striking backdrop. Perfect for families who want an accessible introduction to Peru\'s ancient past without long travel days, this unique urban archaeological experience offers cool evening temperatures, smaller crowds, and the opportunity to dine at the acclaimed on-site restaurant with pyramid views.',
+    descriptionEs: 'Experimenta la magia del Lima antiguo después del anochecer con un tour guiado de Huaca Pucllana, una pirámide de adobe pre-Inca dramáticamente iluminada contra el cielo nocturno en el corazón de Miraflores. Esta velada inolvidable combina arqueología con atmósfera mientras la iluminación cálida transforma el centro ceremonial de 1,500 años de antigüedad en algo místico, con el horizonte moderno de Lima proporcionando un telón de fondo llamativo. Perfecto para familias que quieren una introducción accesible al pasado antiguo de Perú sin largos días de viaje, esta experiencia arqueológica urbana única ofrece temperaturas frescas de noche, menos multitudes, y la oportunidad de cenar en el aclamado restaurante en sitio con vistas a la pirámide.',
+    whatToExpect: 'Your night tour begins at dusk as the sun sets over Lima and the pyramid\'s lighting system gradually transforms the ancient adobe structure into a glowing monument. Professional English-speaking guides lead small groups along paved pathways through the excavated ceremonial complex, explaining the Lima culture that built this temple nearly 1,500 years ago. The unique "bookshelf" adobe construction—vertical bricks separated by gaps for earthquake resistance—is particularly striking when lit from below, casting dramatic shadows that enhance the sense of ancient mystery. Children are fascinated by stories of human sacrifices, ceremonial offerings including shark teeth, and the mummies discovered in Wari-era tombs. The on-site museum displays original artifacts including textiles, ceramics, and preserved mummies, all well-lit and air-conditioned. The tour covers approximately 1 kilometer of flat, paved paths accessible to all ages. Resident cats roam the grounds, delighting children who try to spot them in the shadows. After the tour, families can dine at the restaurant built into the archaeological complex, enjoying innovative Peruvian cuisine while gazing at the illuminated pyramid through floor-to-ceiling windows. The combination of education, atmosphere, and gastronomy makes this one of Lima\'s most memorable family experiences.',
+    whatToExpectEs: 'Tu tour nocturno comienza al anochecer mientras el sol se pone sobre Lima y el sistema de iluminación de la pirámide gradualmente transforma la antigua estructura de adobe en un monumento brillante. Guías profesionales de habla inglesa lideran grupos pequeños a lo largo de senderos pavimentados a través del complejo ceremonial excavado, explicando la cultura Lima que construyó este templo hace casi 1,500 años. La única construcción de adobe "librero"—ladrillos verticales separados por espacios para resistencia a terremotos—es particularmente llamativa cuando se ilumina desde abajo, proyectando sombras dramáticas que realzan el sentido de misterio antiguo. Los niños quedan fascinados por historias de sacrificios humanos, ofrendas ceremoniales incluyendo dientes de tiburón, y las momias descubiertas en tumbas de la era Wari. El museo en sitio exhibe artefactos originales incluyendo textiles, cerámicas, y momias preservadas, todo bien iluminado y con aire acondicionado. El tour cubre aproximadamente 1 kilómetro de senderos planos y pavimentados accesibles para todas las edades. Gatos residentes deambulan por los terrenos, deleitando a niños que intentan verlos en las sombras. Después del tour, las familias pueden cenar en el restaurante construido dentro del complejo arqueológico, disfrutando cocina peruana innovadora mientras contemplan la pirámide iluminada a través de ventanales de piso a techo. La combinación de educación, atmósfera y gastronomía hace de esto una de las experiencias familiares más memorables de Lima.',
+    highlights: [
+      'Magical illuminated pre-Inca pyramid',
+      'Dramatic nighttime atmosphere',
+      'Cooler evening temperatures than daytime',
+      'Smaller crowds than day tours',
+      'On-site museum with mummies and artifacts',
+      'Award-winning restaurant with pyramid views',
+      'Easy walking on paved paths',
+      'Professional English-speaking guides',
+      'No altitude issues—sea level',
+      'Perfect first night activity in Lima',
+      'Cats roam the grounds—kids love them',
+      'Accessible location in Miraflores'
+    ],
+    highlightsEs: [
+      'Mágica pirámide pre-Inca iluminada',
+      'Dramática atmósfera nocturna',
+      'Temperaturas más frescas por la noche que de día',
+      'Menos multitudes que tours de día',
+      'Museo en sitio con momias y artefactos',
+      'Restaurante galardonado con vistas a pirámide',
+      'Caminata fácil en senderos pavimentados',
+      'Guías profesionales de habla inglesa',
+      'Sin problemas de altitud—nivel del mar',
+      'Perfecta primera actividad nocturna en Lima',
+      'Gatos deambulan por los terrenos—niños los aman',
+      'Ubicación accesible en Miraflores'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1.5-2 hours (plus dinner optional)',
+    durationEs: '1.5-2 horas (más cena opcional)',
+    difficulty: 'easy',
+    priceRange: 'S/17 adults, S/8.50 students. Restaurant dinner $50-100 extra.',
+    priceRangeEs: 'S/17 adultos, S/8.50 estudiantes. Cena en restaurante $50-100 extra.',
+    bestTime: 'Wednesday-Sunday evenings (night tours). Tours start at 7pm.',
+    bestTimeEs: 'Noches de miércoles-domingo (tours nocturnos). Tours comienzan a las 7pm.',
+    includes: [
+      'Professional English-speaking guide',
+      'Museum entrance',
+      'All site access',
+      'Illuminated tour route'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Entrada al museo',
+      'Acceso a todo el sitio',
+      'Ruta de tour iluminada'
+    ],
+    tips: [
+      'Book dinner reservations in advance',
+      'Arrive 15 minutes before 7pm tour',
+      'Bring light jacket for evening coolness',
+      'Photography permitted throughout',
+      'Evening tours less crowded than sunset',
+      'Kids enjoy hunting for resident cats',
+      'Last tour usually most magical'
+    ],
+    tipsEs: [
+      'Reserva cena con anticipación',
+      'Llega 15 minutos antes del tour de 7pm',
+      'Trae chaqueta ligera para frescura nocturna',
+      'Fotografía permitida en todo el sitio',
+      'Tours nocturnos menos concurridos que al atardecer',
+      'Niños disfrutan buscando gatos residentes',
+      'Último tour usualmente más mágico'
+    ],
+    safetyNotes: [
+      'Well-lit paths throughout',
+      'Flat paved surfaces—wheelchair accessible',
+      'Safe upscale Miraflores location',
+      'Security guards on site',
+      'Easy walking suitable for all ages',
+      'Cool but not cold evening temperatures'
+    ],
+    safetyNotesEs: [
+      'Senderos bien iluminados en todo el sitio',
+      'Superficies planas pavimentadas—accesible para sillas de ruedas',
+      'Ubicación segura en exclusivo Miraflores',
+      'Guardias de seguridad en sitio',
+      'Caminata fácil apropiada para todas las edades',
+      'Temperaturas nocturnas frescas pero no frías'
+    ],
+    relatedActivities: ['lima-walking-tour', 'larco-museum-tour', 'miraflores-food-tour'],
+    providers: [
+      { name: 'Huaca Pucllana (direct)', familyFriendly: true },
+      { name: 'Lima Explorers', familyFriendly: true },
+      { name: 'Peru Hop Lima Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'manu-wildlife-expedition',
+    name: 'Manu Biosphere Family Wildlife Expedition',
+    nameEs: 'Expedición Familiar de Vida Silvestre en Biosfera del Manu',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco / Madre de Dios',
+    regionEs: 'Cusco / Madre de Dios',
+    description: 'Embark on the adventure of a lifetime exploring Manu Biosphere Reserve, one of Earth\'s most biodiverse places, on a family-focused wildlife expedition that descends from Andean cloud forests to pristine Amazon rainforest. This multi-day immersion takes families through dramatic ecosystems, from highland grasslands through orchid-draped cloud forests to steamy lowland jungle, spotting iconic wildlife including macaws at clay licks, giant river otters, monkeys, caimans, and hundreds of bird species. Designed with families in mind, this expedition balances adventure with comfort, education with wonder, creating profound connections with nature that children remember forever.',
+    descriptionEs: 'Embárcate en la aventura de toda una vida explorando la Reserva de Biósfera del Manu, uno de los lugares con mayor biodiversidad de la Tierra, en una expedición familiar de vida silvestre que desciende desde bosques nublados andinos hasta selva amazónica prístina. Esta inmersión de varios días lleva a familias a través de ecosistemas dramáticos, desde pastizales de altura a través de bosques nublados cubiertos de orquídeas hasta selva húmeda de tierras bajas, avistando vida silvestre icónica incluyendo guacamayos en colpas, nutrias gigantes de río, monos, caimanes, y cientos de especies de aves. Diseñado pensando en familias, esta expedición equilibra aventura con comodidad, educación con asombro, creando conexiones profundas con la naturaleza que los niños recuerdan para siempre.',
+    whatToExpect: 'Your expedition begins in Cusco with an early morning departure, climbing over a 3,800-meter pass before descending through some of South America\'s most dramatic scenery. The road drops from barren puna grasslands through the cloud forest transition zone—look for the stunning cock-of-the-rock at dawn viewing points and orchids clinging to mossy branches. Day one typically includes stops at cloud forest lodges where families walk trails through dripping forest searching for quetzals, toucans, and hummingbirds. The following days continue the descent to lowland jungle lodges accessible only by boat along the Manu River. Mornings start before dawn for visits to clay licks where hundreds of macaws and parakeets gather to eat mineral-rich clay, creating one of nature\'s most spectacular displays. Days are filled with jungle walks on well-maintained trails, canoe excursions on oxbow lakes searching for giant river otters, caimans, and piranhas, and boat trips looking for capybaras, tapirs, and monkeys along the riverbanks. Expert naturalist guides carry spotting scopes and know exactly where to find wildlife. Evenings include night walks searching for frogs, tarantulas, and nocturnal mammals. Accommodations are comfortable eco-lodges with private rooms, electricity, and hot showers—wilderness adventure without roughing it. Meals showcase local cuisine with plenty of kid-friendly options. The journey returns via a different route, maximizing ecosystem diversity and wildlife sightings.',
+    whatToExpectEs: 'Tu expedición comienza en Cusco con una salida temprano en la mañana, subiendo sobre un paso de 3,800 metros antes de descender a través de algunos de los paisajes más dramáticos de Sudamérica. El camino baja desde pastizales de puna desolados a través de la zona de transición del bosque nublado—busca el impresionante gallito de las rocas en puntos de observación al amanecer y orquídeas aferrándose a ramas musgosas. El primer día típicamente incluye paradas en lodges del bosque nublado donde las familias caminan senderos a través del bosque goteante buscando quetzales, tucanes y colibríes. Los días siguientes continúan el descenso a lodges de selva de tierras bajas accesibles solo por bote a lo largo del Río Manu. Las mañanas comienzan antes del amanecer para visitas a colpas donde cientos de guacamayos y pericos se reúnen para comer arcilla rica en minerales, creando uno de los espectáculos más espectaculares de la naturaleza. Los días están llenos de caminatas por la selva en senderos bien mantenidos, excursiones en canoa en lagos de herradura buscando nutrias gigantes de río, caimanes y pirañas, y viajes en bote buscando capibaras, tapires y monos a lo largo de las riberas. Guías naturalistas expertos llevan telescopios y saben exactamente dónde encontrar vida silvestre. Las noches incluyen caminatas nocturnas buscando ranas, tarántulas y mamíferos nocturnos. Los alojamientos son cómodos eco-lodges con habitaciones privadas, electricidad y duchas calientes—aventura en la naturaleza sin incomodidades. Las comidas presentan cocina local con muchas opciones amigables para niños. El viaje regresa por una ruta diferente, maximizando diversidad de ecosistemas y avistamientos de vida silvestre.',
+    highlights: [
+      'One of Earth\'s most biodiverse places',
+      'Journey from Andes to Amazon',
+      'Macaw clay lick spectacle at dawn',
+      'Giant river otters on oxbow lakes',
+      'Cock-of-the-rock viewing',
+      '1,000+ bird species possible',
+      'Monkeys, caimans, capybaras',
+      'Comfortable eco-lodge accommodations',
+      'Expert naturalist guides',
+      'Night walks for nocturnal wildlife',
+      'Indigenous community visits option',
+      'Pristine primary rainforest'
+    ],
+    highlightsEs: [
+      'Uno de los lugares con más biodiversidad de la Tierra',
+      'Viaje desde Andes hasta Amazonía',
+      'Espectáculo de colpa de guacamayos al amanecer',
+      'Nutrias gigantes de río en lagos de herradura',
+      'Observación de gallito de las rocas',
+      '1,000+ especies de aves posibles',
+      'Monos, caimanes, capibaras',
+      'Alojamientos cómodos en eco-lodges',
+      'Guías naturalistas expertos',
+      'Caminatas nocturnas para vida silvestre nocturna',
+      'Opción de visitas a comunidades indígenas',
+      'Selva primaria prístina'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '5-8 days',
+    durationEs: '5-8 días',
+    difficulty: 'moderate',
+    priceRange: '$1,500-3,500 USD per person depending on duration',
+    priceRangeEs: '$1,500-3,500 USD por persona dependiendo de duración',
+    bestTime: 'May-October dry season best. June-August peak wildlife.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Junio-Agosto pico de vida silvestre.',
+    includes: [
+      'All transportation from/to Cusco',
+      'All lodge accommodations',
+      'All meals',
+      'Expert naturalist guides',
+      'All park fees and permits',
+      'Boats and canoes',
+      'Rubber boots at lodges',
+      'Spotting scopes and binoculars'
+    ],
+    includesEs: [
+      'Todo el transporte desde/hacia Cusco',
+      'Todos los alojamientos en lodges',
+      'Todas las comidas',
+      'Guías naturalistas expertos',
+      'Todas las tarifas y permisos del parque',
+      'Botes y canoas',
+      'Botas de goma en lodges',
+      'Telescopios y binoculares'
+    ],
+    tips: [
+      'Acclimatize in Cusco before departure',
+      'Bring binoculars and camera with zoom',
+      'Waterproof bags essential',
+      'Pack insect repellent and sun protection',
+      'Light, quick-dry clothing recommended',
+      'Book months in advance—limited permits',
+      'Bring field guides for birds/wildlife'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco antes de salir',
+      'Trae binoculares y cámara con zoom',
+      'Bolsas impermeables esenciales',
+      'Empaca repelente de insectos y protección solar',
+      'Ropa ligera de secado rápido recomendada',
+      'Reserva con meses de anticipación—permisos limitados',
+      'Trae guías de campo para aves/vida silvestre'
+    ],
+    safetyNotes: [
+      'Expert guides manage all safety',
+      'Lodges have basic medical supplies',
+      'Satellite communication available',
+      'Yellow fever vaccination required',
+      'Antimalarials recommended',
+      'Safe, well-established routes'
+    ],
+    safetyNotesEs: [
+      'Guías expertos manejan toda la seguridad',
+      'Lodges tienen suministros médicos básicos',
+      'Comunicación satelital disponible',
+      'Vacuna de fiebre amarilla requerida',
+      'Antimaláricos recomendados',
+      'Rutas seguras y bien establecidas'
+    ],
+    relatedActivities: ['tambopata-jungle-adventure', 'amazon-river-cruise', 'birdwatching-tour'],
+    providers: [
+      { name: 'Manu Nature Tours', familyFriendly: true },
+      { name: 'Manu Expeditions', familyFriendly: true },
+      { name: 'InkaNatura Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-cathedral-colonial-art-tour',
+    name: 'Cusco Cathedral & Colonial Art Tour',
+    nameEs: 'Tour de la Catedral del Cusco y Arte Colonial',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover the treasure-filled Cusco Cathedral and surrounding Plaza de Armas churches on an expert-guided tour exploring the fascinating collision of Spanish Catholicism and Andean culture through colonial art. This family-friendly cultural experience reveals how indigenous artists encoded Andean symbols and traditions within Catholic religious art, creating the distinctive Cusco School style that produced over 400 paintings now adorning the cathedral walls. Hunt for the guinea pig in the famous Last Supper painting, marvel at tons of hand-beaten gold and silver altarpieces, and understand how this magnificent church—built with stones from Inca Sacsayhuamán—represents Peru\'s complex mestizo heritage.',
+    descriptionEs: 'Descubre la Catedral del Cusco llena de tesoros y las iglesias circundantes de la Plaza de Armas en un tour guiado por expertos explorando la fascinante colisión del catolicismo español y la cultura andina a través del arte colonial. Esta experiencia cultural amigable para familias revela cómo artistas indígenas codificaron símbolos y tradiciones andinas dentro del arte religioso católico, creando el distintivo estilo de la Escuela Cusqueña que produjo más de 400 pinturas que ahora adornan las paredes de la catedral. Busca el cuy en la famosa pintura de la Última Cena, maravíllate con toneladas de retablos de oro y plata martillados a mano, y entiende cómo esta magnífica iglesia—construida con piedras de Sacsayhuamán Inca—representa la compleja herencia mestiza de Perú.',
+    whatToExpect: 'Your colonial art tour begins at the Plaza de Armas, Peru\'s most magnificent central square, with your expert guide explaining how this space served as the ceremonial heart of the Inca Empire before Spanish transformation. The main focus is the massive Cusco Cathedral, constructed over 95 years (1559-1654) using precisely cut stones taken from the nearby Inca fortress of Sacsayhuamán—a powerful symbol of Spanish dominance. Inside, the cathedral holds an overwhelming collection of colonial religious art, with your guide helping decode the fascinating fusion of Spanish and Andean traditions. The highlight for families is hunting for hidden Andean symbols: the Last Supper painting by Marcos Zapata famously shows Christ and the apostles about to dine on cuy (guinea pig), the sacred Andean ceremonial food. Other paintings include mountains shaped like the Virgin\'s dress and native plants replacing traditional flowers. Children enjoy these visual scavenger hunts for cultural clues. The cathedral\'s gold and silver altars weigh several tons each, demonstrating the wealth extracted from Peru\'s mines. The tour includes the connected churches of El Triunfo and Jesús María, plus La Compañía de Jesús across the plaza, whose ornate façade rivals the cathedral. Your guide explains El Señor de los Temblores (Lord of the Earthquakes), the crucifix paraded through Cusco since the devastating 1650 earthquake and still venerated during Holy Week. The tour provides essential context for understanding Peru\'s colonial heritage and mestizo identity.',
+    whatToExpectEs: 'Tu tour de arte colonial comienza en la Plaza de Armas, la plaza central más magnífica de Perú, con tu guía experto explicando cómo este espacio sirvió como corazón ceremonial del Imperio Inca antes de la transformación española. El enfoque principal es la masiva Catedral del Cusco, construida durante 95 años (1559-1654) usando piedras cortadas precisamente tomadas de la cercana fortaleza Inca de Sacsayhuamán—un poderoso símbolo del dominio español. Dentro, la catedral contiene una abrumadora colección de arte religioso colonial, con tu guía ayudando a decodificar la fascinante fusión de tradiciones españolas y andinas. El punto culminante para familias es buscar símbolos andinos escondidos: la pintura de la Última Cena por Marcos Zapata famosamente muestra a Cristo y los apóstoles a punto de cenar cuy (conejillo de indias), la comida ceremonial sagrada andina. Otras pinturas incluyen montañas con forma del vestido de la Virgen y plantas nativas reemplazando flores tradicionales. Los niños disfrutan estas búsquedas visuales de pistas culturales. Los altares de oro y plata de la catedral pesan varias toneladas cada uno, demostrando la riqueza extraída de las minas de Perú. El tour incluye las iglesias conectadas de El Triunfo y Jesús María, más La Compañía de Jesús al otro lado de la plaza, cuya ornamentada fachada rivaliza con la catedral. Tu guía explica El Señor de los Temblores, el crucifijo desfilado por Cusco desde el devastador terremoto de 1650 y aún venerado durante Semana Santa. El tour proporciona contexto esencial para entender la herencia colonial de Perú y la identidad mestiza.',
+    highlights: [
+      'Most important colonial church in Peru',
+      'Over 400 Cusco School paintings',
+      'Hunt for guinea pig in Last Supper',
+      'Hidden Andean symbols in religious art',
+      'Tons of gold and silver altarpieces',
+      'Built with stones from Sacsayhuamán',
+      'El Señor de los Temblores crucifix',
+      'La Compañía de Jesús ornate façade',
+      'Expert guide decodes cultural fusion',
+      'UNESCO World Heritage Site',
+      'Plaza de Armas stunning location',
+      'Three churches on single ticket'
+    ],
+    highlightsEs: [
+      'Iglesia colonial más importante de Perú',
+      'Más de 400 pinturas de Escuela Cusqueña',
+      'Busca el cuy en la Última Cena',
+      'Símbolos andinos escondidos en arte religioso',
+      'Toneladas de retablos de oro y plata',
+      'Construida con piedras de Sacsayhuamán',
+      'Crucifijo del Señor de los Temblores',
+      'Ornamentada fachada de La Compañía de Jesús',
+      'Guía experto decodifica fusión cultural',
+      'Sitio del Patrimonio Mundial de la UNESCO',
+      'Impresionante ubicación en Plaza de Armas',
+      'Tres iglesias con un solo boleto'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$35-55 USD per person including entrance fees',
+    priceRangeEs: '$35-55 USD por persona incluyendo entradas',
+    bestTime: 'Year-round. Morning best for light and fewer crowds. Holy Week spectacular.',
+    bestTimeEs: 'Todo el año. Mañana mejor para luz y menos multitudes. Semana Santa espectacular.',
+    includes: [
+      'Professional English-speaking art historian guide',
+      'Cathedral entrance fee',
+      'Iglesia del Triunfo access',
+      'Jesús María access',
+      'La Compañía de Jesús entrance',
+      'Cultural interpretation throughout'
+    ],
+    includesEs: [
+      'Guía historiador del arte profesional de habla inglesa',
+      'Entrada a la catedral',
+      'Acceso a Iglesia del Triunfo',
+      'Acceso a Jesús María',
+      'Entrada a La Compañía de Jesús',
+      'Interpretación cultural durante todo el tour'
+    ],
+    tips: [
+      'Photography prohibited inside cathedral',
+      'Dress modestly—shoulders and knees covered',
+      'Morning light best for interior',
+      'Ask guide to help spot hidden symbols',
+      'Audio guides available as supplement',
+      'Holy Monday procession is unforgettable',
+      'Churches close during lunch'
+    ],
+    tipsEs: [
+      'Fotografía prohibida dentro de la catedral',
+      'Viste modestamente—hombros y rodillas cubiertos',
+      'Luz de mañana mejor para interior',
+      'Pide al guía que ayude a encontrar símbolos escondidos',
+      'Audioguías disponibles como suplemento',
+      'Procesión del Lunes Santo es inolvidable',
+      'Iglesias cierran durante almuerzo'
+    ],
+    safetyNotes: [
+      'Easy walking on flat surfaces',
+      'High altitude—acclimatize first',
+      'Stairs in some church areas',
+      'Safe, well-patrolled plaza area',
+      'Indoor with rest benches',
+      'Accessible main floor'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies planas',
+      'Altitud elevada—aclimatarse primero',
+      'Escaleras en algunas áreas de iglesias',
+      'Área de plaza segura y bien patrullada',
+      'Interior con bancos de descanso',
+      'Planta principal accesible'
+    ],
+    relatedActivities: ['cusco-walking-tour', 'qorikancha-tour', 'san-blas-artisan-tour'],
+    providers: [
+      { name: 'Cusco Art Tours', familyFriendly: true },
+      { name: 'Context Travel Cusco', familyFriendly: true },
+      { name: 'Free Walking Tour Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'karajia-chachapoya-tour',
+    name: 'Karajía Sarcophagi & Cloud Warriors Tour',
+    nameEs: 'Tour de Sarcófagos de Karajía y Guerreros de las Nubes',
+    type: 'adventure',
+    city: 'chachapoyas',
+    region: 'Amazonas',
+    regionEs: 'Amazonas',
+    description: 'Journey into the remote cloud forests of northern Peru to witness the haunting Karajía Sarcophagi, dramatic cliff-side funerary monuments of the mysterious Chachapoya—the "Warriors of the Clouds." This off-the-beaten-path adventure takes families through stunning mountain scenery and traditional villages to view towering clay figures perched impossibly on narrow cliff ledges 200 meters above the valley, their painted faces staring across the misty landscape after 500 years. Combined with a visit to mysterious Quiocta Cave filled with stalactites and human remains, this full-day tour reveals one of Peru\'s least-known but most fascinating ancient cultures.',
+    descriptionEs: 'Viaja a los remotos bosques nublados del norte de Perú para presenciar los inquietantes Sarcófagos de Karajía, dramáticos monumentos funerarios en ladera de acantilado de los misteriosos Chachapoya—los "Guerreros de las Nubes." Esta aventura fuera del camino trillado lleva a familias a través de impresionante paisaje montañoso y pueblos tradicionales para ver figuras de arcilla imponentes posadas imposiblemente en estrechas cornisas de acantilado 200 metros sobre el valle, sus caras pintadas mirando a través del paisaje brumoso después de 500 años. Combinado con una visita a la misteriosa Cueva Quiocta llena de estalactitas y restos humanos, este tour de día completo revela una de las culturas antiguas menos conocidas pero más fascinantes de Perú.',
+    whatToExpect: 'Your Chachapoya adventure begins with early morning pickup in Chachapoyas, driving 2 hours through stunning mountain scenery to the traditional village of Cruz Pata. Along the way, your guide shares the remarkable story of the Chachapoya people—fierce warriors who built fortified cities throughout these cloud forests and resisted Inca conquest for generations before finally succumbing in the 1470s. From Cruz Pata, a 30-minute walk through farmland and forest brings you to the viewpoint overlooking the Karajía cliff. Here, perched on a narrow ledge 200 meters above the valley floor, stand six towering sarcophagi (originally eight—two fell during an earthquake) called purunmachus, meaning "ancient people." Each 2.5-meter-tall clay figure, made of adobe plastered over wooden frameworks, housed the mummified remains of important Chachapoya leaders. Their painted faces—with prominent chins and flattened features—still stare out across the valley after more than 500 years. Binoculars allow you to see details including original paint and the hollow spaces where skulls once sat atop the figures. The mystery of how the Chachapoya transported these heavy figures to such inaccessible cliffs fascinates visitors of all ages. After lunch in the village, continue to Quiocta Cave, a massive limestone cavern filled with stalactites, stalagmites, and—for adventurous families—ancient human bones left by Chachapoya who used caves as burial sites. Headlamps provided allow exploration of multiple chambers before returning to Chachapoyas by late afternoon.',
+    whatToExpectEs: 'Tu aventura Chachapoya comienza con recogida temprano en la mañana en Chachapoyas, conduciendo 2 horas a través de impresionante paisaje montañoso al pueblo tradicional de Cruz Pata. En el camino, tu guía comparte la notable historia del pueblo Chachapoya—feroces guerreros que construyeron ciudades fortificadas a través de estos bosques nublados y resistieron la conquista Inca por generaciones antes de finalmente sucumbir en los 1470s. Desde Cruz Pata, una caminata de 30 minutos a través de tierras de cultivo y bosque te lleva al mirador con vista al acantilado de Karajía. Aquí, posados en una estrecha cornisa 200 metros sobre el piso del valle, se yerguen seis sarcófagos imponentes (originalmente ocho—dos cayeron durante un terremoto) llamados purunmachus, significando "gente antigua." Cada figura de arcilla de 2.5 metros de altura, hecha de adobe enlucido sobre estructuras de madera, albergaba los restos momificados de importantes líderes Chachapoya. Sus caras pintadas—con mentones prominentes y rasgos aplanados—aún miran a través del valle después de más de 500 años. Binoculares permiten ver detalles incluyendo pintura original y los espacios huecos donde cráneos una vez se sentaban encima de las figuras. El misterio de cómo los Chachapoya transportaron estas pesadas figuras a acantilados tan inaccesibles fascina a visitantes de todas las edades. Después del almuerzo en el pueblo, continúa a la Cueva Quiocta, una masiva caverna de piedra caliza llena de estalactitas, estalagmitas y—para familias aventureras—huesos humanos antiguos dejados por Chachapoya que usaban cuevas como sitios de entierro. Linternas de cabeza proporcionadas permiten exploración de múltiples cámaras antes de regresar a Chachapoyas por la tarde.',
+    highlights: [
+      'Dramatic cliff-side sarcophagi',
+      '2.5-meter-tall painted clay figures',
+      '500-year-old funerary monuments',
+      'Mysterious Chachapoya "Cloud Warriors" culture',
+      'Stunning cloud forest scenery',
+      'Traditional Andean villages',
+      'Quiocta Cave with stalactites',
+      'Ancient human remains in cave',
+      'Off-the-beaten-path adventure',
+      'Far fewer tourists than southern Peru',
+      'Mystery of impossible cliff transport',
+      'Excellent local guides'
+    ],
+    highlightsEs: [
+      'Dramáticos sarcófagos en ladera de acantilado',
+      'Figuras de arcilla pintadas de 2.5 metros de altura',
+      'Monumentos funerarios de 500 años',
+      'Misteriosa cultura Chachapoya "Guerreros de las Nubes"',
+      'Impresionante paisaje de bosque nublado',
+      'Pueblos andinos tradicionales',
+      'Cueva Quiocta con estalactitas',
+      'Restos humanos antiguos en cueva',
+      'Aventura fuera del camino trillado',
+      'Muchos menos turistas que sur de Perú',
+      'Misterio de transporte imposible al acantilado',
+      'Excelentes guías locales'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'moderate',
+    priceRange: 'S/100-180 per person depending on group size',
+    priceRangeEs: 'S/100-180 por persona dependiendo del tamaño del grupo',
+    bestTime: 'May-October dry season best. Year-round with rain gear.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Todo el año con ropa de lluvia.',
+    includes: [
+      'Hotel pickup/drop-off in Chachapoyas',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Karajía entrance fee',
+      'Quiocta Cave entrance fee',
+      'Headlamps for cave',
+      'Lunch in traditional village'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel en Chachapoyas',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entrada a Karajía',
+      'Entrada a Cueva Quiocta',
+      'Linternas de cabeza para cueva',
+      'Almuerzo en pueblo tradicional'
+    ],
+    tips: [
+      'Bring binoculars for sarcophagi details',
+      'Wear sturdy hiking shoes',
+      'Morning light best for photos',
+      'Cave can be cool—bring light jacket',
+      'Children love the cave adventure',
+      'Combine with Kuelap over multiple days',
+      'Chachapoyas has excellent base hotels'
+    ],
+    tipsEs: [
+      'Trae binoculares para detalles de sarcófagos',
+      'Usa zapatos de senderismo resistentes',
+      'Luz de mañana mejor para fotos',
+      'Cueva puede ser fresca—trae chaqueta ligera',
+      'Niños aman la aventura de la cueva',
+      'Combina con Kuelap en varios días',
+      'Chachapoyas tiene excelentes hoteles base'
+    ],
+    safetyNotes: [
+      'Moderate walking on uneven terrain',
+      'Viewpoint has barriers for safety',
+      'Cave requires some scrambling',
+      'Guide manages all safety in cave',
+      'Lower altitude than Cusco—easier',
+      'Rain can make trails slippery'
+    ],
+    safetyNotesEs: [
+      'Caminata moderada en terreno irregular',
+      'Mirador tiene barreras de seguridad',
+      'Cueva requiere algo de trepar',
+      'Guía maneja toda la seguridad en cueva',
+      'Altitud más baja que Cusco—más fácil',
+      'Lluvia puede hacer senderos resbaladizos'
+    ],
+    relatedActivities: ['kuelap-fortress-tour', 'gocta-waterfall-trek', 'leymebamba-museum-tour'],
+    providers: [
+      { name: 'Chachapoyas Explorer', familyFriendly: true },
+      { name: 'Cloud Forest Trek', familyFriendly: true },
+      { name: 'Turismo Explorer Chachapoyas', familyFriendly: true }
+    ]
+  },
+
+  // Batch 16 Activities
+  {
+    slug: 'leymebamba-revash-combined-tour',
+    name: 'Leymebamba Museum & Revash Mausoleums Tour',
+    nameEs: 'Tour Combinado Museo Leymebamba y Mausoleos de Revash',
+    type: 'educational',
+    city: 'chachapoyas',
+    region: 'Amazonas',
+    regionEs: 'Amazonas',
+    description: 'Experience the two most impressive remnants of Chachapoya funerary culture on a combined day tour from Chachapoyas. Visit the world-renowned Leymebamba Museum housing over 200 mummies recovered from the cliff tombs of Laguna de los Cóndores, then continue to the strikingly colorful Revash Mausoleums—painted red and cream cliff-side burial structures that resemble miniature houses perched impossibly on mountain ledges. This full-day exploration reveals the sophisticated funerary practices of Peru\'s mysterious "Warriors of the Clouds" through both museum exhibits and in-situ archaeological remains.',
+    descriptionEs: 'Experimenta los dos vestigios más impresionantes de la cultura funeraria Chachapoya en un tour combinado de día completo desde Chachapoyas. Visita el mundialmente renombrado Museo Leymebamba que alberga más de 200 momias recuperadas de las tumbas de acantilado de Laguna de los Cóndores, luego continúa a los llamativamente coloridos Mausoleos de Revash—estructuras funerarias de ladera de acantilado pintadas de rojo y crema que parecen casas miniatura posadas imposiblemente en cornisas de montaña. Esta exploración de día completo revela las sofisticadas prácticas funerarias de los misteriosos "Guerreros de las Nubes" de Perú a través tanto de exhibiciones de museo como restos arqueológicos in-situ.',
+    whatToExpect: 'Your Chachapoya funerary culture immersion begins with early morning departure from Chachapoyas, driving through stunning mountain scenery along winding roads toward the charming cloud forest town of Leymebamba. The 2.5-hour drive passes through traditional villages and dramatic landscapes that haven\'t changed much in centuries. At the Leymebamba Museum, spend 2 hours exploring one of the world\'s most significant mummy collections. Behind climate-controlled glass, over 200 remarkably preserved mummies sit in positions replicating their original tomb arrangement. Your guide explains the dramatic 1997 discovery at Laguna de los Cóndores and the fascinating cultural practices revealed by analysis of the remains and accompanying artifacts including textiles, ceramics, and quipus. Children are captivated by the well-designed exhibits explaining Chachapoya daily life. After lunch in Leymebamba\'s pleasant plaza, continue 45 minutes to the village of Santo Tomás and begin the moderate 30-minute uphill walk to the Revash viewpoint. As you round the final bend, the painted mausoleums come into view—bright red and cream structures that look like tiny houses with doors and windows, perched on narrow cliff ledges 200 meters above the valley. Binoculars reveal original paint and architectural details. Your guide explains how these collective family tombs differed from the individual sarcophagi at Karajía, and the incredible engineering required to place them on such inaccessible ledges. The return to Chachapoyas takes approximately 2 hours, arriving by late afternoon.',
+    whatToExpectEs: 'Tu inmersión en la cultura funeraria Chachapoya comienza con salida temprano en la mañana desde Chachapoyas, conduciendo a través de impresionante paisaje montañoso a lo largo de caminos sinuosos hacia el encantador pueblo de bosque nublado de Leymebamba. El viaje de 2.5 horas pasa por pueblos tradicionales y paisajes dramáticos que no han cambiado mucho en siglos. En el Museo Leymebamba, pasa 2 horas explorando una de las colecciones de momias más significativas del mundo. Detrás de vidrio con clima controlado, más de 200 momias notablemente preservadas se sientan en posiciones que replican su arreglo original en las tumbas. Tu guía explica el dramático descubrimiento de 1997 en Laguna de los Cóndores y las fascinantes prácticas culturales reveladas por análisis de los restos y artefactos acompañantes incluyendo textiles, cerámicas y quipus. Los niños quedan cautivados por las exhibiciones bien diseñadas explicando la vida diaria Chachapoya. Después del almuerzo en la agradable plaza de Leymebamba, continúa 45 minutos al pueblo de Santo Tomás y comienza la caminata moderada de 30 minutos cuesta arriba al mirador de Revash. Al doblar la última curva, los mausoleos pintados aparecen a la vista—estructuras rojo brillante y crema que parecen casitas con puertas y ventanas, posadas en estrechas cornisas de acantilado 200 metros sobre el valle. Binoculares revelan pintura original y detalles arquitectónicos. Tu guía explica cómo estas tumbas familiares colectivas diferían de los sarcófagos individuales en Karajía, y la increíble ingeniería requerida para colocarlos en cornisas tan inaccesibles. El regreso a Chachapoyas toma aproximadamente 2 horas, llegando por la tarde.',
+    highlights: [
+      'Over 200 Chachapoya mummies in museum',
+      'Dramatically painted cliff-side mausoleums',
+      'Complete picture of Chachapoya funerary culture',
+      'World-class archaeological collection',
+      'Charming cloud forest town of Leymebamba',
+      'Moderate hike to spectacular viewpoint',
+      'Original paint still visible on tombs',
+      'Expert guides explain cultural significance',
+      'Scenic mountain drive through villages',
+      'Off-the-beaten-path adventure',
+      'Lunch in traditional town plaza',
+      'Far fewer tourists than southern Peru'
+    ],
+    highlightsEs: [
+      'Más de 200 momias Chachapoya en museo',
+      'Dramáticamente pintados mausoleos de ladera de acantilado',
+      'Imagen completa de cultura funeraria Chachapoya',
+      'Colección arqueológica de clase mundial',
+      'Encantador pueblo de bosque nublado de Leymebamba',
+      'Caminata moderada a mirador espectacular',
+      'Pintura original aún visible en tumbas',
+      'Guías expertos explican significado cultural',
+      'Viaje escénico en montaña a través de pueblos',
+      'Aventura fuera del camino trillado',
+      'Almuerzo en plaza de pueblo tradicional',
+      'Muchos menos turistas que sur de Perú'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: 'Full day (9-10 hours)',
+    durationEs: 'Día completo (9-10 horas)',
+    difficulty: 'moderate',
+    priceRange: 'S/150-250 per person depending on group size',
+    priceRangeEs: 'S/150-250 por persona dependiendo del tamaño del grupo',
+    bestTime: 'May-October dry season best. Year-round accessible.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Accesible todo el año.',
+    includes: [
+      'Hotel pickup/drop-off in Chachapoyas',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Leymebamba Museum entrance',
+      'Revash entrance fee',
+      'Lunch in Leymebamba',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel en Chachapoyas',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entrada al Museo Leymebamba',
+      'Entrada a Revash',
+      'Almuerzo en Leymebamba',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Bring binoculars for Revash details',
+      'Photography prohibited of mummies',
+      'Wear sturdy walking shoes for Revash',
+      'Morning light best at Revash',
+      'Town orchid festival in November',
+      'Allow 2+ hours for museum',
+      'Leymebamba worth extra exploration'
+    ],
+    tipsEs: [
+      'Trae binoculares para detalles de Revash',
+      'Fotografía de momias prohibida',
+      'Usa zapatos resistentes para caminar en Revash',
+      'Luz de mañana mejor en Revash',
+      'Festival de orquídeas del pueblo en noviembre',
+      'Permite 2+ horas para museo',
+      'Leymebamba vale exploración extra'
+    ],
+    safetyNotes: [
+      'Long but scenic drive',
+      'Moderate uphill walk at Revash',
+      'Lower altitude than Cusco—easier',
+      'Museum fully accessible',
+      'Safe, friendly communities',
+      'Rain can make trails slippery'
+    ],
+    safetyNotesEs: [
+      'Viaje largo pero escénico',
+      'Caminata moderada cuesta arriba en Revash',
+      'Altitud más baja que Cusco—más fácil',
+      'Museo completamente accesible',
+      'Comunidades seguras y amigables',
+      'Lluvia puede hacer senderos resbaladizos'
+    ],
+    relatedActivities: ['karajia-chachapoya-tour', 'kuelap-fortress-tour', 'gocta-waterfall-trek'],
+    providers: [
+      { name: 'Chachapoyas Explorer', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Amazon Adventures Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'moray-maras-sacred-valley-tour',
+    name: 'Moray & Maras Sacred Valley Tour',
+    nameEs: 'Tour Valle Sagrado Moray y Maras',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover two of the Sacred Valley\'s most visually stunning and family-friendly sites on this half-day tour combining the remarkable Moray circular terraces and the ancient Salinas de Maras salt mines. The Inca\'s ingenious agricultural laboratory at Moray amazes with its concentric circles creating distinct microclimates, while the 3,000+ cascading white salt ponds at Maras provide one of Peru\'s most photogenic experiences. This perfect introduction to Inca engineering brilliance and living heritage offers incredible photo opportunities, fascinating science, and the chance to purchase famous pink salt directly from local families.',
+    descriptionEs: 'Descubre dos de los sitios más visualmente impresionantes y familiares del Valle Sagrado en este tour de medio día combinando las notables terrazas circulares de Moray y las antiguas minas de sal de Salinas de Maras. El ingenioso laboratorio agrícola de los Incas en Moray asombra con sus círculos concéntricos creando microclimas distintos, mientras los 3,000+ estanques de sal blanca en cascada en Maras proporcionan una de las experiencias más fotogénicas de Perú. Esta perfecta introducción al brillante ingenio Inca y patrimonio vivo ofrece increíbles oportunidades de fotos, ciencia fascinante, y la oportunidad de comprar famosa sal rosada directamente de familias locales.',
+    whatToExpect: 'Your Sacred Valley morning begins with hotel pickup in Cusco or Ollantaytambo, driving through high plateau landscapes toward the farming community of Maras. First stop is the extraordinary Moray site—three major circular depressions containing concentric agricultural terraces that seem to descend into the earth like ancient amphitheaters. Your guide explains how the Inca engineers created temperature differences of up to 15°C between top and bottom terraces, essentially recreating multiple ecological zones in one location for crop experimentation. Walk down into the largest depression for a truly immersive experience—standing at the bottom looking up at the perfect circles is unforgettable. Children love running up and down the terrace steps. From Moray, continue to the Salinas de Maras, where over 3,000 salt evaporation ponds cascade down a steep mountainside in brilliant white terraces. A natural salt spring at the top feeds ancient channels that fill individual family-owned pools, where the intense highland sun evaporates water leaving crystallized salt. Local families have harvested salt here using the same methods for over 1,000 years, predating the Inca. Walk along designated paths through the terraces, watching workers rake crystallized salt and learning how white, pink, and brown varieties differ in mineral content. Purchase authentic Maras pink salt—prized by chefs worldwide—directly from harvesters. The tour can be extended to include the traditional weaving village of Chinchero, or combined with an afternoon in Ollantaytambo.',
+    whatToExpectEs: 'Tu mañana en el Valle Sagrado comienza con recogida en el hotel en Cusco o Ollantaytambo, conduciendo a través de paisajes de meseta alta hacia la comunidad agrícola de Maras. La primera parada es el extraordinario sitio de Moray—tres depresiones circulares principales que contienen terrazas agrícolas concéntricas que parecen descender hacia la tierra como anfiteatros antiguos. Tu guía explica cómo los ingenieros Incas crearon diferencias de temperatura de hasta 15°C entre las terrazas superior e inferior, esencialmente recreando múltiples zonas ecológicas en una ubicación para experimentación de cultivos. Camina hacia abajo en la depresión más grande para una experiencia verdaderamente inmersiva—pararse en el fondo mirando hacia arriba a los círculos perfectos es inolvidable. Los niños aman correr arriba y abajo por los escalones de las terrazas. Desde Moray, continúa a las Salinas de Maras, donde más de 3,000 estanques de evaporación de sal caen en cascada por una empinada ladera de montaña en terrazas blancas brillantes. Un manantial de sal natural en la cima alimenta canales antiguos que llenan estanques individuales propiedad de familias, donde el intenso sol de altura evapora el agua dejando sal cristalizada. Las familias locales han cosechado sal aquí usando los mismos métodos por más de 1,000 años, antes de los Incas. Camina por senderos designados a través de las terrazas, viendo trabajadores rastrillar sal cristalizada y aprendiendo cómo las variedades blanca, rosada y marrón difieren en contenido mineral. Compra auténtica sal rosada de Maras—apreciada por chefs mundialmente—directamente de cosechadores. El tour puede extenderse para incluir el pueblo de tejido tradicional de Chinchero, o combinarse con una tarde en Ollantaytambo.',
+    highlights: [
+      'Spectacular concentric circular terraces at Moray',
+      'Inca agricultural laboratory with 15°C variation',
+      'Walk down into the terrace amphitheaters',
+      'Over 3,000 cascading white salt ponds',
+      'Pre-Inca salt harvesting still active',
+      'Purchase famous Maras pink salt',
+      'Incredible photo opportunities at both sites',
+      'Fascinating Inca engineering and science',
+      'Living heritage at Maras',
+      'Beautiful altiplano scenery',
+      'Supports local salt-harvesting families',
+      'Flexible morning or afternoon timing'
+    ],
+    highlightsEs: [
+      'Espectaculares terrazas circulares concéntricas en Moray',
+      'Laboratorio agrícola Inca con variación de 15°C',
+      'Camina hacia abajo en los anfiteatros de terrazas',
+      'Más de 3,000 estanques de sal blanca en cascada',
+      'Cosecha de sal pre-Inca aún activa',
+      'Compra famosa sal rosada de Maras',
+      'Increíbles oportunidades de fotos en ambos sitios',
+      'Fascinante ingeniería y ciencia Inca',
+      'Patrimonio vivo en Maras',
+      'Hermoso paisaje del altiplano',
+      'Apoya a familias cosechadoras de sal locales',
+      'Horario flexible mañana o tarde'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'moderate',
+    priceRange: '$40-70 USD per person',
+    priceRangeEs: '$40-70 USD por persona',
+    bestTime: 'Year-round. Dry season (May-October) best for photos. Morning light ideal.',
+    bestTimeEs: 'Todo el año. Temporada seca (Mayo-Octubre) mejor para fotos. Luz de mañana ideal.',
+    includes: [
+      'Hotel pickup/drop-off in Cusco or Sacred Valley',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Maras entrance fee (S/10)',
+      'Moray requires Boleto Turístico (not included)'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel en Cusco o Valle Sagrado',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entrada a Maras (S/10)',
+      'Moray requiere Boleto Turístico (no incluido)'
+    ],
+    tips: [
+      'Buy Boleto Turístico in Cusco for Moray',
+      'Combine with Chinchero for full day',
+      'Morning light best for both sites',
+      'Buy pink salt directly from workers',
+      'Wear sturdy shoes—uneven paths',
+      'Bring sun protection—high altitude',
+      'Less crowded late morning'
+    ],
+    tipsEs: [
+      'Compra Boleto Turístico en Cusco para Moray',
+      'Combina con Chinchero para día completo',
+      'Luz de mañana mejor para ambos sitios',
+      'Compra sal rosada directamente de trabajadores',
+      'Usa zapatos resistentes—senderos irregulares',
+      'Trae protección solar—alta altitud',
+      'Menos concurrido a media mañana'
+    ],
+    safetyNotes: [
+      'High altitude (3,400-3,500m)—acclimatize first',
+      'Walking on uneven surfaces at both sites',
+      'Steps at Moray require care',
+      'Sun exposure at altitude—protection essential',
+      'Stay on marked paths at Maras',
+      'Both sites well-maintained and safe'
+    ],
+    safetyNotesEs: [
+      'Altitud elevada (3,400-3,500m)—aclimatarse primero',
+      'Caminata en superficies irregulares en ambos sitios',
+      'Escalones en Moray requieren cuidado',
+      'Exposición solar en altitud—protección esencial',
+      'Permanece en senderos marcados en Maras',
+      'Ambos sitios bien mantenidos y seguros'
+    ],
+    relatedActivities: ['sacred-valley-full-day', 'chinchero-weaving-experience', 'ollantaytambo-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Peru Sacred Travel', familyFriendly: true },
+      { name: 'Cusco Family Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'maras-salt-culinary-experience',
+    name: 'Maras Salt Harvest & Culinary Experience',
+    nameEs: 'Experiencia Culinaria y Cosecha de Sal de Maras',
+    type: 'culinary',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Go beyond a typical visit to the Maras salt mines with this hands-on culinary experience that connects families directly with salt-harvesting traditions and Andean cuisine. Learn about the thousand-year history of salt production from local families who still work their ancestral pools, try your hand at raking crystallized salt, and understand the differences between white, pink, and brown varieties. The experience culminates with a cooking class using Maras salt in traditional Peruvian dishes, giving families both cultural immersion and delicious memories to take home.',
+    descriptionEs: 'Ve más allá de una visita típica a las minas de sal de Maras con esta experiencia culinaria práctica que conecta a las familias directamente con tradiciones de cosecha de sal y cocina andina. Aprende sobre la historia de mil años de producción de sal de familias locales que aún trabajan sus estanques ancestrales, prueba a rastrillar sal cristalizada, y entiende las diferencias entre variedades blanca, rosada y marrón. La experiencia culmina con una clase de cocina usando sal de Maras en platos peruanos tradicionales, dando a las familias tanto inmersión cultural como deliciosos recuerdos para llevar a casa.',
+    whatToExpect: 'Your salt culinary journey begins with pickup in Cusco or the Sacred Valley, driving through scenic highlands to the community of Maras. At the salt mines, you\'re welcomed not by a standard guide but by a member of one of the salt-harvesting families who has worked these terraces for generations. Walk through the 3,000+ white terraced pools as your host explains how a natural salt spring feeds ancient channels, how families maintain and pass down individual pools, and how the crystallization process works. Then comes the hands-on experience—donning rubber boots, you enter a pool with your host family and learn to rake the crystallized salt, understanding the techniques that produce different salt varieties. Children particularly love this tactile experience, scraping salt crystals into piles and learning to identify the different colors. After purchasing salt direct from the source, continue to a nearby traditional home or restaurant for a cooking class. Using the salt you\'ve just helped harvest, learn to prepare classic Peruvian dishes such as papa a la huancaína, lomo saltado, or quinoa-based recipes. The chef explains how Maras salt\'s mineral content affects flavor compared to industrial salt. Enjoy your creations for lunch, taking home recipes and a bag of Maras salt as souvenirs. This immersive experience supports local families directly while creating meaningful connections to Andean food traditions.',
+    whatToExpectEs: 'Tu viaje culinario de sal comienza con recogida en Cusco o el Valle Sagrado, conduciendo a través de tierras altas escénicas a la comunidad de Maras. En las minas de sal, eres recibido no por un guía estándar sino por un miembro de una de las familias cosechadoras de sal que ha trabajado estas terrazas por generaciones. Camina a través de los 3,000+ estanques blancos en terrazas mientras tu anfitrión explica cómo un manantial natural de sal alimenta canales antiguos, cómo las familias mantienen y pasan estanques individuales, y cómo funciona el proceso de cristalización. Luego viene la experiencia práctica—poniéndote botas de goma, entras en un estanque con tu familia anfitriona y aprendes a rastrillar la sal cristalizada, entendiendo las técnicas que producen diferentes variedades de sal. Los niños particularmente aman esta experiencia táctil, raspando cristales de sal en pilas y aprendiendo a identificar los diferentes colores. Después de comprar sal directamente de la fuente, continúa a un hogar tradicional cercano o restaurante para una clase de cocina. Usando la sal que acabas de ayudar a cosechar, aprende a preparar platos peruanos clásicos como papa a la huancaína, lomo saltado, o recetas basadas en quinua. El chef explica cómo el contenido mineral de la sal de Maras afecta el sabor comparado con sal industrial. Disfruta tus creaciones para el almuerzo, llevando a casa recetas y una bolsa de sal de Maras como souvenirs. Esta experiencia inmersiva apoya a familias locales directamente mientras crea conexiones significativas con tradiciones culinarias andinas.',
+    highlights: [
+      'Hands-on salt harvesting experience',
+      'Learn from actual salt-harvesting families',
+      'Rake crystallized salt in working pool',
+      'Understand white/pink/brown salt differences',
+      'Cooking class with Maras salt',
+      'Prepare traditional Peruvian dishes',
+      'Direct support for local families',
+      'Take home recipes and salt souvenirs',
+      'Lunch featuring your creations',
+      'Deeper cultural connection than typical visit',
+      'Tactile experience kids love',
+      'Combines food, culture, and landscape'
+    ],
+    highlightsEs: [
+      'Experiencia práctica de cosecha de sal',
+      'Aprende de familias cosechadoras de sal reales',
+      'Rastrilla sal cristalizada en estanque en uso',
+      'Entiende diferencias de sal blanca/rosada/marrón',
+      'Clase de cocina con sal de Maras',
+      'Prepara platos peruanos tradicionales',
+      'Apoyo directo para familias locales',
+      'Lleva a casa recetas y souvenirs de sal',
+      'Almuerzo presentando tus creaciones',
+      'Conexión cultural más profunda que visita típica',
+      'Experiencia táctil que niños aman',
+      'Combina comida, cultura y paisaje'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '5-6 hours',
+    durationEs: '5-6 horas',
+    difficulty: 'easy',
+    priceRange: '$80-130 USD per person',
+    priceRangeEs: '$80-130 USD por persona',
+    bestTime: 'Year-round. Dry season (May-October) best for salt harvesting.',
+    bestTimeEs: 'Todo el año. Temporada seca (Mayo-Octubre) mejor para cosecha de sal.',
+    includes: [
+      'Hotel pickup/drop-off',
+      'Private transportation',
+      'Salt mine entrance fee',
+      'Hands-on harvesting experience',
+      'Cooking class with chef',
+      'All ingredients',
+      'Lunch with your dishes',
+      'Maras salt to take home',
+      'Recipe cards'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel',
+      'Transporte privado',
+      'Entrada a minas de sal',
+      'Experiencia práctica de cosecha',
+      'Clase de cocina con chef',
+      'Todos los ingredientes',
+      'Almuerzo con tus platos',
+      'Sal de Maras para llevar a casa',
+      'Tarjetas de recetas'
+    ],
+    tips: [
+      'Wear clothes that can get dusty',
+      'Rubber boots provided for pools',
+      'Mention dietary restrictions in advance',
+      'Children love the hands-on elements',
+      'Combine with Moray in morning',
+      'Bring camera for great photos',
+      'Salt makes excellent gifts'
+    ],
+    tipsEs: [
+      'Usa ropa que pueda ensuciarse',
+      'Botas de goma proporcionadas para estanques',
+      'Menciona restricciones dietéticas con anticipación',
+      'Niños aman los elementos prácticos',
+      'Combina con Moray en la mañana',
+      'Trae cámara para excelentes fotos',
+      'Sal es excelente regalo'
+    ],
+    safetyNotes: [
+      'High altitude (3,380m)—acclimatize first',
+      'Walking on uneven salt terraces',
+      'Rubber boots prevent slipping',
+      'Cooking class in safe kitchen environment',
+      'No swimming in salt pools',
+      'Stay on marked paths'
+    ],
+    safetyNotesEs: [
+      'Altitud elevada (3,380m)—aclimatarse primero',
+      'Caminata en terrazas de sal irregulares',
+      'Botas de goma previenen resbalones',
+      'Clase de cocina en ambiente de cocina seguro',
+      'No nadar en estanques de sal',
+      'Permanece en senderos marcados'
+    ],
+    relatedActivities: ['moray-maras-sacred-valley-tour', 'cusco-cooking-class', 'peruvian-food-tour'],
+    providers: [
+      { name: 'Maras Salt Community', familyFriendly: true },
+      { name: 'Cusco Culinary Tours', familyFriendly: true },
+      { name: 'Peru Food Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chachapoyas-explorer-adventure',
+    name: 'Chachapoyas Explorer Family Adventure',
+    nameEs: 'Aventura Familiar Explorador de Chachapoyas',
+    type: 'adventure',
+    city: 'chachapoyas',
+    region: 'Amazonas',
+    regionEs: 'Amazonas',
+    description: 'Discover Peru\'s most mysterious ancient culture on a multi-day family adventure exploring the cloud forest kingdom of the Chachapoya—the "Warriors of the Clouds." This comprehensive expedition combines the mighty Kuelap fortress, the haunting Karajía sarcophagi, the world-class Leymebamba mummy museum, the colorful Revash mausoleums, and the thundering Gocta waterfall into an unforgettable journey through one of Peru\'s least-visited but most fascinating regions. Far from the crowds of southern Peru, families experience authentic cloud forest landscapes, traditional communities, and archaeological wonders that rival—some say surpass—the famous Inca sites.',
+    descriptionEs: 'Descubre la cultura antigua más misteriosa de Perú en una aventura familiar de varios días explorando el reino de bosque nublado de los Chachapoya—los "Guerreros de las Nubes." Esta expedición integral combina la poderosa fortaleza de Kuelap, los inquietantes sarcófagos de Karajía, el museo de momias de clase mundial de Leymebamba, los coloridos mausoleos de Revash, y la atronadora cascada de Gocta en un viaje inolvidable a través de una de las regiones menos visitadas pero más fascinantes de Perú. Lejos de las multitudes del sur de Perú, las familias experimentan auténticos paisajes de bosque nublado, comunidades tradicionales, y maravillas arqueológicas que rivalizan—algunos dicen superan—los famosos sitios Incas.',
+    whatToExpect: 'Your Chachapoyas adventure spans 4-5 days exploring the most impressive sites of this remote region. Day one typically begins with the thundering Gocta Falls, one of the world\'s tallest waterfalls, reached via a scenic 2-hour hike through cloud forest alive with hummingbirds and orchids. Day two features the mighty Kuelap fortress, the largest stone structure in the Americas after Machu Picchu, accessed by spectacular cable car across a misty valley. Spend hours exploring the circular stone houses, massive walls, and mysterious friezes of this mountaintop citadel that resisted Inca conquest. Day three ventures to Karajía to witness the haunting cliff-side sarcophagi—towering clay figures perched impossibly on narrow ledges—combined with exploration of stalactite-filled Quiocta Cave. Day four continues to Leymebamba for the remarkable mummy museum housing over 200 remarkably preserved remains, followed by the colorful Revash mausoleums with their distinctive painted house-shaped tombs. Throughout the adventure, expert local guides share the fascinating history of the Chachapoya people—fierce warriors who built their civilization in these remote cloud forests, resisted Inca conquest for generations, and were ultimately devastated by Spanish diseases before chroniclers could record their history. Comfortable hotels in Chachapoyas provide a restful base, while traditional meals introduce families to northern Peruvian cuisine. This expedition offers the adventure of discovery without the crowds, revealing a Peru few travelers ever experience.',
+    whatToExpectEs: 'Tu aventura en Chachapoyas abarca 4-5 días explorando los sitios más impresionantes de esta región remota. El primer día típicamente comienza con las atronadores Cataratas de Gocta, una de las cascadas más altas del mundo, alcanzada vía una caminata escénica de 2 horas a través del bosque nublado lleno de colibríes y orquídeas. El segundo día presenta la poderosa fortaleza de Kuelap, la estructura de piedra más grande en las Américas después de Machu Picchu, accesible por espectacular teleférico a través de un valle brumoso. Pasa horas explorando las casas circulares de piedra, muros masivos, y misteriosos frisos de esta ciudadela en la cima de la montaña que resistió la conquista Inca. El tercer día se aventura a Karajía para presenciar los inquietantes sarcófagos de ladera de acantilado—figuras de arcilla imponentes posadas imposiblemente en estrechas cornisas—combinado con exploración de la Cueva Quiocta llena de estalactitas. El cuarto día continúa a Leymebamba para el notable museo de momias que alberga más de 200 restos notablemente preservados, seguido de los coloridos mausoleos de Revash con sus distintivas tumbas pintadas con forma de casa. A través de la aventura, guías locales expertos comparten la fascinante historia del pueblo Chachapoya—feroces guerreros que construyeron su civilización en estos bosques nublados remotos, resistieron la conquista Inca por generaciones, y fueron ultimadamente devastados por enfermedades españolas antes de que cronistas pudieran registrar su historia. Hoteles cómodos en Chachapoyas proporcionan una base de descanso, mientras comidas tradicionales introducen a las familias a la cocina del norte de Perú. Esta expedición ofrece la aventura del descubrimiento sin las multitudes, revelando un Perú que pocos viajeros experimentan.',
+    highlights: [
+      'Kuelap fortress—largest stone structure in Americas',
+      'Spectacular cable car across misty valley',
+      'Gocta Falls—one of world\'s tallest waterfalls',
+      'Haunting Karajía cliff-side sarcophagi',
+      'Over 200 mummies at Leymebamba Museum',
+      'Colorful Revash painted mausoleums',
+      'Stalactite-filled Quiocta Cave',
+      'Far fewer tourists than southern Peru',
+      'Authentic cloud forest landscapes',
+      'Traditional northern communities',
+      'Expert guides on Chachapoya history',
+      'Comfortable base in charming Chachapoyas'
+    ],
+    highlightsEs: [
+      'Fortaleza de Kuelap—estructura de piedra más grande en Américas',
+      'Espectacular teleférico a través de valle brumoso',
+      'Cataratas de Gocta—una de las cascadas más altas del mundo',
+      'Inquietantes sarcófagos de ladera de acantilado de Karajía',
+      'Más de 200 momias en Museo Leymebamba',
+      'Coloridos mausoleos pintados de Revash',
+      'Cueva Quiocta llena de estalactitas',
+      'Muchos menos turistas que sur de Perú',
+      'Auténticos paisajes de bosque nublado',
+      'Comunidades tradicionales del norte',
+      'Guías expertos en historia Chachapoya',
+      'Base cómoda en encantador Chachapoyas'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '4-5 days',
+    durationEs: '4-5 días',
+    difficulty: 'moderate',
+    priceRange: '$600-1,000 USD per person depending on group size',
+    priceRangeEs: '$600-1,000 USD por persona dependiendo del tamaño del grupo',
+    bestTime: 'May-October dry season best. Year-round possible with rain gear.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Todo el año posible con ropa de lluvia.',
+    includes: [
+      '3-4 nights accommodation in Chachapoyas',
+      'All breakfasts',
+      'All transportation and entrance fees',
+      'Kuelap cable car tickets',
+      'Professional English-speaking guide throughout',
+      'All site entrances',
+      'Some lunches on touring days'
+    ],
+    includesEs: [
+      '3-4 noches alojamiento en Chachapoyas',
+      'Todos los desayunos',
+      'Todo transporte y entradas',
+      'Boletos de teleférico de Kuelap',
+      'Guía profesional de habla inglesa durante todo',
+      'Todas las entradas a sitios',
+      'Algunos almuerzos en días de tour'
+    ],
+    tips: [
+      'Fly Jaén or Chachapoyas to save time',
+      'Bring layers—cloud forest weather varies',
+      'Pack rain gear even in dry season',
+      'Binoculars essential for Karajía',
+      'Comfortable walking shoes required',
+      'Gocta hike is longest—pace accordingly',
+      'Lower altitude than Cusco—easier breathing'
+    ],
+    tipsEs: [
+      'Vuela a Jaén o Chachapoyas para ahorrar tiempo',
+      'Trae capas—clima de bosque nublado varía',
+      'Empaca ropa de lluvia incluso en temporada seca',
+      'Binoculares esenciales para Karajía',
+      'Zapatos cómodos para caminar requeridos',
+      'Caminata de Gocta es la más larga—mide ritmo',
+      'Altitud más baja que Cusco—respirar más fácil'
+    ],
+    safetyNotes: [
+      'Moderate hiking on some days',
+      'Cable car modern and safe',
+      'Lower altitude than southern Peru',
+      'Expert guides manage all activities',
+      'Safe, friendly region',
+      'Rain can make trails slippery'
+    ],
+    safetyNotesEs: [
+      'Caminata moderada en algunos días',
+      'Teleférico moderno y seguro',
+      'Altitud más baja que sur de Perú',
+      'Guías expertos manejan todas las actividades',
+      'Región segura y amigable',
+      'Lluvia puede hacer senderos resbaladizos'
+    ],
+    relatedActivities: ['karajia-chachapoya-tour', 'leymebamba-revash-combined-tour', 'gocta-waterfall-trek'],
+    providers: [
+      { name: 'Chachapoyas Explorer', familyFriendly: true },
+      { name: 'Vilaya Tours', familyFriendly: true },
+      { name: 'Peru North Trek', familyFriendly: true }
+    ]
+  },
+
+  // Batch 17 Activities
+  {
+    slug: 'san-blas-artisan-tour',
+    name: 'San Blas Artisan Walking Tour',
+    nameEs: 'Tour a Pie Artesanal de San Blas',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover Cusco\'s most charming neighborhood and its centuries-old artisan traditions on a walking tour through San Blas, the "barrio de los artesanos." This family-friendly exploration takes you through narrow cobblestone streets lined with traditional houses with blue doors, visiting workshops where multi-generational families continue ancient crafts in woodcarving, ceramics, jewelry, and textiles. Watch master craftsmen at work, learn about techniques passed down through centuries, and understand how indigenous traditions merged with Spanish colonial demands to create Cusco\'s distinctive artistic heritage.',
+    descriptionEs: 'Descubre el barrio más encantador de Cusco y sus tradiciones artesanales centenarias en un tour a pie por San Blas, el "barrio de los artesanos." Esta exploración amigable para familias te lleva a través de estrechas calles empedradas bordeadas de casas tradicionales con puertas azules, visitando talleres donde familias multigeneracionales continúan oficios antiguos en tallado de madera, cerámica, joyería y textiles. Ve maestros artesanos trabajando, aprende sobre técnicas transmitidas a través de siglos, y entiende cómo las tradiciones indígenas se fusionaron con demandas coloniales españolas para crear el distintivo patrimonio artístico de Cusco.',
+    whatToExpect: 'Your artisan tour begins at the San Blas plaza, the heart of Cusco\'s bohemian district, where your guide provides context on the neighborhood\'s history as an Inca craftsmen\'s quarter that evolved into the colonial center of religious art production. Walking through steep, winding streets, you visit several family workshops where artisans welcome visitors to observe their work. At the famous Mendívil workshop, see the creation of distinctive long-necked religious figures that have made this family famous for generations—learn how this unique style emerged and the symbolism behind the elongated forms. At a ceramics studio, watch potters shape clay using techniques dating back centuries, creating the distinctive Pucará bulls and other traditional pieces. Visit a silver workshop where craftsmen demonstrate filigree techniques brought from Spain but adapted to Andean designs. Your guide points out architectural details throughout—Inca stone foundations beneath colonial buildings, traditional carved doorways, and the evolution of styles visible in buildings from different centuries. The tour includes a stop at San Blas Church to see its extraordinary carved wooden pulpit, considered one of the finest examples of colonial woodcarving in the Americas. End at a mirador (viewpoint) with stunning sunset views over Cusco\'s terracotta rooftops, the perfect conclusion to an afternoon of discovery. Throughout, children enjoy watching craftsmen work and understanding how art connects past and present.',
+    whatToExpectEs: 'Tu tour artesanal comienza en la plaza de San Blas, el corazón del distrito bohemio de Cusco, donde tu guía proporciona contexto sobre la historia del barrio como un barrio de artesanos Incas que evolucionó al centro colonial de producción de arte religioso. Caminando por calles empinadas y serpenteantes, visitas varios talleres familiares donde artesanos dan la bienvenida a visitantes para observar su trabajo. En el famoso taller Mendívil, ve la creación de distintivas figuras religiosas de cuello largo que han hecho famosa a esta familia por generaciones—aprende cómo surgió este estilo único y el simbolismo detrás de las formas elongadas. En un estudio de cerámica, ve alfareros moldear arcilla usando técnicas que datan de siglos, creando los distintivos toritos de Pucará y otras piezas tradicionales. Visita un taller de plata donde artesanos demuestran técnicas de filigrana traídas de España pero adaptadas a diseños andinos. Tu guía señala detalles arquitectónicos a lo largo del recorrido—cimientos de piedra Inca bajo edificios coloniales, puertas talladas tradicionales, y la evolución de estilos visible en edificios de diferentes siglos. El tour incluye una parada en la Iglesia de San Blas para ver su extraordinario púlpito de madera tallada, considerado uno de los mejores ejemplos de tallado colonial en las Américas. Termina en un mirador con impresionantes vistas del atardecer sobre los techos de terracota de Cusco, la conclusión perfecta para una tarde de descubrimiento. A lo largo del recorrido, los niños disfrutan viendo artesanos trabajar y entendiendo cómo el arte conecta pasado y presente.',
+    highlights: [
+      'Visit multi-generational artisan workshops',
+      'Watch master craftsmen at work',
+      'Famous Mendívil family workshop',
+      'Ceramics, woodcarving, silver, textiles',
+      'Centuries-old techniques demonstrated',
+      'San Blas Church and famous pulpit',
+      'Stunning sunset viewpoint',
+      'Narrow cobblestone streets',
+      'Traditional blue-door houses',
+      'Understand mestizo artistic heritage',
+      'Purchase directly from artisans',
+      'Charming bohemian atmosphere'
+    ],
+    highlightsEs: [
+      'Visita talleres artesanales multigeneracionales',
+      'Ve maestros artesanos trabajando',
+      'Famoso taller de familia Mendívil',
+      'Cerámica, tallado de madera, plata, textiles',
+      'Técnicas centenarias demostradas',
+      'Iglesia San Blas y famoso púlpito',
+      'Impresionante mirador al atardecer',
+      'Estrechas calles empedradas',
+      'Casas tradicionales con puertas azules',
+      'Entiende patrimonio artístico mestizo',
+      'Compra directamente de artesanos',
+      'Encantador ambiente bohemio'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2.5-3 hours',
+    durationEs: '2.5-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round. Afternoon for best light and sunset. Morning for open workshops.',
+    bestTimeEs: 'Todo el año. Tarde para mejor luz y atardecer. Mañana para talleres abiertos.',
+    includes: [
+      'Professional English-speaking guide',
+      'Visits to 3-4 artisan workshops',
+      'San Blas Church entrance',
+      'Cultural and historical commentary',
+      'Sunset viewpoint visit'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Visitas a 3-4 talleres artesanales',
+      'Entrada a Iglesia San Blas',
+      'Comentario cultural e histórico',
+      'Visita a mirador al atardecer'
+    ],
+    tips: [
+      'Steep streets—wear comfortable shoes',
+      'Afternoon tours include sunset',
+      'Budget extra for artisan purchases',
+      'Some workshops closed Sundays',
+      'Take it slow due to altitude',
+      'Combine with Plaza de Armas tour',
+      'Saturday market adds interest'
+    ],
+    tipsEs: [
+      'Calles empinadas—usa zapatos cómodos',
+      'Tours de tarde incluyen atardecer',
+      'Presupuesta extra para compras artesanales',
+      'Algunos talleres cerrados los domingos',
+      'Ve despacio debido a la altitud',
+      'Combina con tour de Plaza de Armas',
+      'Mercado del sábado añade interés'
+    ],
+    safetyNotes: [
+      'Steep cobblestone streets require care',
+      'High altitude—acclimatize first',
+      'Safe neighborhood with tourist police',
+      'Take slow pace for altitude',
+      'Workshops safe for children',
+      'Evening tours end before dark'
+    ],
+    safetyNotesEs: [
+      'Calles empedradas empinadas requieren cuidado',
+      'Alta altitud—aclimatarse primero',
+      'Barrio seguro con policía turística',
+      'Toma paso lento por la altitud',
+      'Talleres seguros para niños',
+      'Tours nocturnos terminan antes de oscurecer'
+    ],
+    relatedActivities: ['cusco-walking-tour', 'cusco-cathedral-colonial-art-tour', 'peruvian-textile-workshop'],
+    providers: [
+      { name: 'Cusco Art Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Cusco', familyFriendly: true },
+      { name: 'Peru Art Walks', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-plaza-walking-tour',
+    name: 'Cusco Plaza de Armas & Historic Center Walking Tour',
+    nameEs: 'Tour a Pie Plaza de Armas y Centro Histórico de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Explore the heart of the ancient Inca Empire and its Spanish colonial transformation on a walking tour through Cusco\'s magnificent Plaza de Armas and historic center. This essential introduction to Peru\'s most storied city reveals how Inca temples became colonial churches, royal palaces were rebuilt as monasteries, and two civilizations merged to create the unique mestizo culture visible in every stone. Perfect for families beginning their Cusco adventure, this tour provides context for understanding all the sites you\'ll visit in the region.',
+    descriptionEs: 'Explora el corazón del antiguo Imperio Inca y su transformación colonial española en un tour a pie por la magnífica Plaza de Armas y el centro histórico de Cusco. Esta introducción esencial a la ciudad más legendaria de Perú revela cómo templos Incas se convirtieron en iglesias coloniales, palacios reales fueron reconstruidos como monasterios, y dos civilizaciones se fusionaron para crear la única cultura mestiza visible en cada piedra. Perfecto para familias comenzando su aventura en Cusco, este tour proporciona contexto para entender todos los sitios que visitarás en la región.',
+    whatToExpect: 'Your walking tour begins in the grand Plaza de Armas, where your guide explains how this space—once called Huacaypata—served as the sacred ceremonial center of the Inca Empire, the navel of the world from which the four quarters of Tawantinsuyu radiated. Learn how the Spanish deliberately built their colonial power center atop the Inca one, with the massive Cathedral constructed using stones from the nearby Sacsayhuamán fortress. View the Cathedral\'s impressive façade (interior tour optional separately) and the ornate La Compañía de Jesús church, whose baroque grandeur famously rivaled the Cathedral. Walking through the arcaded colonial streets, discover Inca stonework foundations incorporated into Spanish buildings, marvel at perfectly fitted megalithic walls, and find the famous Twelve-Angled Stone that demonstrates Inca masonry perfection. Your guide shares stories of Inca emperors, Spanish conquistadors, and the complex history that shaped this UNESCO World Heritage city. Continue to lesser-known gems: hidden plazas, colonial mansions with stunning courtyards, and streets where Inca and Spanish architecture merge seamlessly. Learn about daily life in both eras—how water was channeled, how markets functioned, how the two cultures gradually merged over centuries. The tour provides essential context for understanding Peru\'s complex identity, preparing families for deeper exploration of archaeological sites and helping children see how history comes alive in modern Cusco.',
+    whatToExpectEs: 'Tu tour a pie comienza en la gran Plaza de Armas, donde tu guía explica cómo este espacio—una vez llamado Huacaypata—sirvió como el centro ceremonial sagrado del Imperio Inca, el ombligo del mundo desde el cual los cuatro suyos del Tawantinsuyu irradiaban. Aprende cómo los españoles deliberadamente construyeron su centro de poder colonial sobre el Inca, con la masiva Catedral construida usando piedras de la cercana fortaleza de Sacsayhuamán. Ve la impresionante fachada de la Catedral (tour interior opcional por separado) y la ornamentada iglesia de La Compañía de Jesús, cuya grandeza barroca famosamente rivalizó con la Catedral. Caminando por las calles coloniales con arcadas, descubre cimientos de piedra Inca incorporados en edificios españoles, maravíllate con muros megalíticos perfectamente encajados, y encuentra la famosa Piedra de los Doce Ángulos que demuestra la perfección de albañilería Inca. Tu guía comparte historias de emperadores Incas, conquistadores españoles, y la compleja historia que dio forma a esta ciudad Patrimonio de la Humanidad de la UNESCO. Continúa a joyas menos conocidas: plazas escondidas, mansiones coloniales con impresionantes patios, y calles donde la arquitectura Inca y española se fusionan sin problema. Aprende sobre la vida diaria en ambas eras—cómo se canalizaba el agua, cómo funcionaban los mercados, cómo las dos culturas gradualmente se fusionaron durante siglos. El tour proporciona contexto esencial para entender la compleja identidad de Perú, preparando a las familias para exploración más profunda de sitios arqueológicos y ayudando a los niños a ver cómo la historia cobra vida en el Cusco moderno.',
+    highlights: [
+      'Plaza de Armas—heart of Inca Empire',
+      'UNESCO World Heritage historic center',
+      'Cathedral and La Compañía façades',
+      'Famous Twelve-Angled Stone',
+      'Inca walls beneath colonial buildings',
+      'Stories of emperors and conquistadors',
+      'Hidden plazas and courtyards',
+      'Understand mestizo culture origins',
+      'Perfect introduction to Cusco',
+      'Context for all regional sites',
+      'Free walking tour option available',
+      'Manageable length for families'
+    ],
+    highlightsEs: [
+      'Plaza de Armas—corazón del Imperio Inca',
+      'Centro histórico Patrimonio de la Humanidad UNESCO',
+      'Fachadas de Catedral y La Compañía',
+      'Famosa Piedra de los Doce Ángulos',
+      'Muros Incas bajo edificios coloniales',
+      'Historias de emperadores y conquistadores',
+      'Plazas y patios escondidos',
+      'Entiende orígenes de cultura mestiza',
+      'Perfecta introducción a Cusco',
+      'Contexto para todos los sitios regionales',
+      'Opción de tour a pie gratis disponible',
+      'Duración manejable para familias'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: 'Free-$40 USD (free tours available, private tours $30-40)',
+    priceRangeEs: 'Gratis-$40 USD (tours gratis disponibles, tours privados $30-40)',
+    bestTime: 'Year-round. Morning for fewer crowds. Avoid midday heat. Evening for illuminated plaza.',
+    bestTimeEs: 'Todo el año. Mañana para menos multitudes. Evita calor del mediodía. Noche para plaza iluminada.',
+    includes: [
+      'Professional English-speaking guide',
+      'Historical and cultural commentary',
+      'Visit to major landmarks',
+      'Twelve-Angled Stone stop',
+      'Hidden gems off main routes'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Comentario histórico y cultural',
+      'Visita a principales monumentos',
+      'Parada en Piedra de los Doce Ángulos',
+      'Joyas escondidas fuera de rutas principales'
+    ],
+    tips: [
+      'Take first day slowly for altitude',
+      'Free tours appreciate tips',
+      'Morning or evening best',
+      'Combine with Cathedral tour',
+      'Hydrate well due to altitude',
+      'Watch for pickpockets in crowds',
+      'Great first activity in Cusco'
+    ],
+    tipsEs: [
+      'Toma el primer día despacio por la altitud',
+      'Tours gratis aprecian propinas',
+      'Mañana o noche mejor',
+      'Combina con tour de Catedral',
+      'Hidrátate bien debido a la altitud',
+      'Cuidado con carteristas en multitudes',
+      'Gran primera actividad en Cusco'
+    ],
+    safetyNotes: [
+      'High altitude (3,400m)—take it slow',
+      'Safe, well-patrolled historic center',
+      'Be aware of pickpockets',
+      'Flat walking on cobblestones',
+      'Many rest spots available',
+      'Tourist police throughout'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,400m)—ve despacio',
+      'Centro histórico seguro y bien patrullado',
+      'Estate atento a carteristas',
+      'Caminata plana en adoquines',
+      'Muchos puntos de descanso disponibles',
+      'Policía turística en todo el centro'
+    ],
+    relatedActivities: ['san-blas-artisan-tour', 'cusco-cathedral-colonial-art-tour', 'qorikancha-tour'],
+    providers: [
+      { name: 'Free Walking Tour Cusco', familyFriendly: true },
+      { name: 'Cusco Local Friend', familyFriendly: true },
+      { name: 'Context Travel Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-archaeological-circuit',
+    name: 'Cusco Archaeological Sites Half-Day Tour',
+    nameEs: 'Tour de Medio Día Sitios Arqueológicos de Cusco',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Explore four remarkable Inca sites surrounding Cusco on this classic half-day archaeological circuit that reveals different aspects of Inca civilization—from the massive fortress of Sacsayhuamán to the mysterious carved rock shrine of Qenqo, the sacred water temple of Tambomachay, and the strategic military outpost of Puka Pukara. This essential tour, included in the Boleto Turístico, provides families with an excellent introduction to Inca engineering, religious practices, and military architecture, all within easy reach of Cusco and suitable for visitors acclimatizing to the altitude.',
+    descriptionEs: 'Explora cuatro notables sitios Incas que rodean Cusco en este clásico circuito arqueológico de medio día que revela diferentes aspectos de la civilización Inca—desde la masiva fortaleza de Sacsayhuamán hasta el misterioso santuario de roca tallada de Qenqo, el templo sagrado del agua de Tambomachay, y el estratégico puesto militar de Puka Pukara. Este tour esencial, incluido en el Boleto Turístico, proporciona a las familias una excelente introducción a la ingeniería, prácticas religiosas y arquitectura militar Inca, todo al fácil alcance de Cusco y adecuado para visitantes aclimatándose a la altitud.',
+    whatToExpect: 'Your archaeological circuit typically begins with Sacsayhuamán, the massive fortress overlooking Cusco whose zigzag walls of megalithic stones—some weighing over 100 tons—represent the pinnacle of Inca construction. Spend an hour exploring the three tiers of massive walls, ceremonial plaza, and carved rock formations while your guide explains theories about its construction and role in defending the Inca capital. Next, visit Qenqo, a mysterious limestone outcrop honeycombed with carved channels, underground chambers, and altar-like spaces that likely served as an important ceremonial center—children love exploring the dark tunnels and imagining ancient rituals. Continue to Puka Pukara, the "Red Fortress" whose stones glow at sunset, a compact military outpost and checkpoint on the road to the Sacred Valley. Finally, explore Tambomachay, often called the "Bath of the Inca," where sophisticated water channels and fountains demonstrate Inca hydraulic engineering and their reverence for water as a sacred element. Your guide provides context connecting these sites to the broader Inca empire, explaining religious practices, military strategy, and construction techniques. The half-day tour is perfect for families still acclimatizing, allowing afternoon rest before exploring Cusco\'s center. The circuit can be walked between sites (downhill from Tambomachay to Cusco) for active families, or done entirely by vehicle.',
+    whatToExpectEs: 'Tu circuito arqueológico típicamente comienza con Sacsayhuamán, la masiva fortaleza con vista a Cusco cuyos muros en zigzag de piedras megalíticas—algunas pesando más de 100 toneladas—representan la cima de la construcción Inca. Pasa una hora explorando los tres niveles de muros masivos, plaza ceremonial, y formaciones rocosas talladas mientras tu guía explica teorías sobre su construcción y rol en defender la capital Inca. Luego, visita Qenqo, un misterioso afloramiento de piedra caliza lleno de canales tallados, cámaras subterráneas, y espacios tipo altar que probablemente sirvió como importante centro ceremonial—los niños aman explorar los túneles oscuros e imaginar rituales antiguos. Continúa a Puka Pukara, la "Fortaleza Roja" cuyas piedras brillan al atardecer, un compacto puesto militar y punto de control en el camino al Valle Sagrado. Finalmente, explora Tambomachay, a menudo llamado el "Baño del Inca," donde sofisticados canales de agua y fuentes demuestran la ingeniería hidráulica Inca y su reverencia por el agua como elemento sagrado. Tu guía proporciona contexto conectando estos sitios al imperio Inca más amplio, explicando prácticas religiosas, estrategia militar, y técnicas de construcción. El tour de medio día es perfecto para familias aún aclimatándose, permitiendo descanso por la tarde antes de explorar el centro de Cusco. El circuito puede caminarse entre sitios (cuesta abajo desde Tambomachay a Cusco) para familias activas, o hacerse enteramente en vehículo.',
+    highlights: [
+      'Four Inca sites in one tour',
+      'Massive Sacsayhuamán fortress',
+      'Mysterious Qenqo underground chambers',
+      'Tambomachay sacred water channels',
+      'Puka Pukara strategic viewpoint',
+      'Inca engineering and construction',
+      'Religious and military sites',
+      'Close to Cusco—ideal for acclimatizing',
+      'Boleto Turístico required (one ticket)',
+      'Option to walk between sites',
+      'Half-day allows afternoon rest',
+      'Essential introduction to Inca culture'
+    ],
+    highlightsEs: [
+      'Cuatro sitios Incas en un tour',
+      'Masiva fortaleza de Sacsayhuamán',
+      'Misteriosas cámaras subterráneas de Qenqo',
+      'Canales de agua sagrada de Tambomachay',
+      'Mirador estratégico de Puka Pukara',
+      'Ingeniería y construcción Inca',
+      'Sitios religiosos y militares',
+      'Cerca de Cusco—ideal para aclimatarse',
+      'Boleto Turístico requerido (un boleto)',
+      'Opción de caminar entre sitios',
+      'Medio día permite descanso por la tarde',
+      'Introducción esencial a cultura Inca'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'moderate',
+    priceRange: '$30-50 USD per person (plus Boleto Turístico S/130)',
+    priceRangeEs: '$30-50 USD por persona (más Boleto Turístico S/130)',
+    bestTime: 'Year-round. Morning for best light. Afternoon for red glow at Puka Pukara.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz. Tarde para brillo rojo en Puka Pukara.',
+    includes: [
+      'Hotel pickup/drop-off',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Visits to all four sites',
+      'Walking option available'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Visitas a los cuatro sitios',
+      'Opción de caminata disponible'
+    ],
+    tips: [
+      'Buy Boleto Turístico before (S/130)',
+      'Morning tour best for photos',
+      'Bring warm layers—higher altitude',
+      'Walk downhill option saves energy',
+      'Flashlight useful for Qenqo tunnels',
+      'Sacsayhuamán alone needs 1+ hour',
+      'Ideal first or second day activity'
+    ],
+    tipsEs: [
+      'Compra Boleto Turístico antes (S/130)',
+      'Tour de mañana mejor para fotos',
+      'Trae capas abrigadas—altitud más alta',
+      'Opción de caminar cuesta abajo ahorra energía',
+      'Linterna útil para túneles de Qenqo',
+      'Sacsayhuamán solo necesita 1+ hora',
+      'Ideal como actividad del primer o segundo día'
+    ],
+    safetyNotes: [
+      'Higher altitude than Cusco (3,600-3,700m)',
+      'Take it slow—altitude affects everyone',
+      'Supervise children at Qenqo tunnels',
+      'Some uneven walking surfaces',
+      'Stay on marked paths',
+      'Bring water and sun protection'
+    ],
+    safetyNotesEs: [
+      'Altitud más alta que Cusco (3,600-3,700m)',
+      'Ve despacio—la altitud afecta a todos',
+      'Supervisa niños en túneles de Qenqo',
+      'Algunas superficies irregulares para caminar',
+      'Permanece en senderos marcados',
+      'Trae agua y protección solar'
+    ],
+    relatedActivities: ['cusco-plaza-walking-tour', 'sacred-valley-full-day', 'machu-picchu-tour'],
+    providers: [
+      { name: 'Cusco Explorer', familyFriendly: true },
+      { name: 'Peru Sacred Travel', familyFriendly: true },
+      { name: 'Llama Path Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-evening-tour',
+    name: 'Cusco Evening & Night Walking Tour',
+    nameEs: 'Tour Nocturno a Pie de Cusco',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Experience Cusco\'s magical transformation after dark on an evening walking tour through the illuminated historic center. As the sun sets and lights illuminate the ancient stones, the city takes on a romantic, atmospheric quality that reveals a different side of its character. This family-friendly tour explores the Plaza de Armas and surrounding streets when evening light casts dramatic shadows on Inca walls, colonial façades glow golden, and the pace slows from daytime bustle. Perfect for families arriving mid-day who need an activity after acclimatizing, or as a complement to daytime archaeological visits.',
+    descriptionEs: 'Experimenta la mágica transformación de Cusco después del anochecer en un tour nocturno a pie por el centro histórico iluminado. Mientras el sol se pone y las luces iluminan las piedras antiguas, la ciudad adquiere una calidad romántica y atmosférica que revela un lado diferente de su carácter. Este tour amigable para familias explora la Plaza de Armas y calles circundantes cuando la luz nocturna proyecta sombras dramáticas sobre muros Incas, las fachadas coloniales brillan doradas, y el ritmo se calma del ajetreo diurno. Perfecto para familias que llegan a mediodía y necesitan una actividad después de aclimatarse, o como complemento a visitas arqueológicas de día.',
+    whatToExpect: 'Your evening tour begins as the sun approaches the horizon, meeting at the Plaza de Armas to watch the transition from day to night. As golden hour light bathes the Cathedral and La Compañía, your guide shares evening stories of the city—tales of colonial intrigue, earthquake destruction and rebuilding, and traditions that come alive at night. Watch as the plaza fills with locals gathering for the evening, street performers appear, and the energy shifts from tourists to residents. Walking through quieter streets as darkness falls, see how artfully placed lighting reveals details invisible during the day—the texture of Inca stonework, the depth of colonial carved doorways, the glow of traditional windows. Your guide points out restaurants and bars beloved by locals, explains evening traditions, and shares recommendations for continuing the evening on your own. Visit a traditional pisco bar or chocolate café (optional purchases) to understand local flavors while resting your feet. Learn about contemporary Cusco life—how residents navigate their ancient city, what festivals transform the streets, and how traditions continue in modern times. The tour ends with the plaza fully illuminated, its beauty at night rivaling any daytime view. For families with children, this tour offers a gentle introduction to Cusco that works well with jet lag and altitude adjustment, providing meaningful engagement without exhausting physical activity.',
+    whatToExpectEs: 'Tu tour nocturno comienza mientras el sol se acerca al horizonte, encontrándose en la Plaza de Armas para ver la transición del día a la noche. Mientras la luz de hora dorada baña la Catedral y La Compañía, tu guía comparte historias nocturnas de la ciudad—cuentos de intriga colonial, destrucción y reconstrucción por terremotos, y tradiciones que cobran vida por la noche. Ve cómo la plaza se llena de locales reuniéndose para la noche, artistas callejeros aparecen, y la energía cambia de turistas a residentes. Caminando por calles más tranquilas al caer la oscuridad, ve cómo la iluminación artísticamente colocada revela detalles invisibles durante el día—la textura de la mampostería Inca, la profundidad de puertas coloniales talladas, el brillo de ventanas tradicionales. Tu guía señala restaurantes y bares amados por locales, explica tradiciones nocturnas, y comparte recomendaciones para continuar la noche por tu cuenta. Visita un bar tradicional de pisco o café de chocolate (compras opcionales) para entender sabores locales mientras descansas tus pies. Aprende sobre la vida contemporánea de Cusco—cómo los residentes navegan su ciudad antigua, qué festivales transforman las calles, y cómo las tradiciones continúan en tiempos modernos. El tour termina con la plaza completamente iluminada, su belleza nocturna rivalizando cualquier vista de día. Para familias con niños, este tour ofrece una suave introducción a Cusco que funciona bien con jet lag y ajuste de altitud, proporcionando compromiso significativo sin actividad física agotadora.',
+    highlights: [
+      'Magical illuminated historic center',
+      'Golden hour and evening light',
+      'Quieter streets than daytime',
+      'Atmospheric shadows on Inca walls',
+      'Plaza de Armas at night',
+      'Local evening life and traditions',
+      'Restaurant recommendations',
+      'Optional pisco or chocolate tasting',
+      'Perfect for jet lag adjustment',
+      'Gentle activity for acclimatizing',
+      'Different perspective than day tours',
+      'Romantic, atmospheric experience'
+    ],
+    highlightsEs: [
+      'Mágico centro histórico iluminado',
+      'Luz de hora dorada y nocturna',
+      'Calles más tranquilas que de día',
+      'Sombras atmosféricas en muros Incas',
+      'Plaza de Armas de noche',
+      'Vida nocturna local y tradiciones',
+      'Recomendaciones de restaurantes',
+      'Degustación opcional de pisco o chocolate',
+      'Perfecto para ajuste de jet lag',
+      'Actividad suave para aclimatarse',
+      'Perspectiva diferente a tours de día',
+      'Experiencia romántica y atmosférica'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-2.5 hours',
+    durationEs: '2-2.5 horas',
+    difficulty: 'easy',
+    priceRange: '$25-40 USD per person',
+    priceRangeEs: '$25-40 USD por persona',
+    bestTime: 'Year-round. Tours start 5-6pm depending on sunset.',
+    bestTimeEs: 'Todo el año. Tours comienzan 5-6pm dependiendo del atardecer.',
+    includes: [
+      'Professional English-speaking guide',
+      'Evening historical commentary',
+      'Restaurant/bar recommendations',
+      'Local tips for evening activities',
+      'Walking route through lit streets'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Comentario histórico nocturno',
+      'Recomendaciones de restaurantes/bares',
+      'Tips locales para actividades nocturnas',
+      'Ruta a pie por calles iluminadas'
+    ],
+    tips: [
+      'Bring warm layer for evening cool',
+      'Great arrival day activity',
+      'Comfortable shoes for cobblestones',
+      'Camera with low-light capability',
+      'Budget for optional tastings',
+      'Ends near good dinner options',
+      'Slower pace than day tours'
+    ],
+    tipsEs: [
+      'Trae capa abrigada para frescura nocturna',
+      'Gran actividad para día de llegada',
+      'Zapatos cómodos para adoquines',
+      'Cámara con capacidad de poca luz',
+      'Presupuesta para degustaciones opcionales',
+      'Termina cerca de buenas opciones de cena',
+      'Paso más lento que tours de día'
+    ],
+    safetyNotes: [
+      'Stay with guide at all times',
+      'Historic center well-lit and safe',
+      'Tourist police patrol at night',
+      'Be aware of cobblestone surfaces',
+      'Keep valuables secure',
+      'Tour ends in busy, safe area'
+    ],
+    safetyNotesEs: [
+      'Permanece con el guía todo el tiempo',
+      'Centro histórico bien iluminado y seguro',
+      'Policía turística patrulla de noche',
+      'Estate atento a superficies de adoquín',
+      'Mantén objetos de valor seguros',
+      'Tour termina en área concurrida y segura'
+    ],
+    relatedActivities: ['cusco-plaza-walking-tour', 'san-blas-artisan-tour', 'cusco-food-tour'],
+    providers: [
+      { name: 'Cusco Night Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Cusco', familyFriendly: true },
+      { name: 'Cusco Local Friend', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ollantaytambo-fortress-tour',
+    name: 'Ollantaytambo Fortress & Living Inca Town Tour',
+    nameEs: 'Tour Fortaleza de Ollantaytambo y Pueblo Inca Vivo',
+    type: 'cultural',
+    city: 'ollantaytambo',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Explore the magnificent Ollantaytambo fortress with its massive terraces and the Wall of Six Monoliths while learning about Inca military strategy and sacred architecture. This guided tour combines the archaeological site with a walking tour through the only living Inca town, where families still inhabit original Inca foundations and ancient water channels flow through the streets.',
+    descriptionEs: 'Explora la magnífica fortaleza de Ollantaytambo con sus masivas terrazas y el Muro de Seis Monolitos mientras aprendes sobre estrategia militar inca y arquitectura sagrada. Este tour guiado combina el sitio arqueológico con una caminata por el único pueblo inca vivo, donde familias aún habitan cimientos incas originales y antiguos canales de agua fluyen por las calles.',
+    whatToExpect: 'Begin at the main entrance where your guide explains the strategic importance of this fortress, the last stronghold where the Inca successfully defended against Spanish forces. Climb the terraces to reach the Temple of the Sun and marvel at the six massive monoliths transported from quarries across the valley. Learn about Inca engineering as you see evidence of the unfinished construction. Descend and walk through the living Inca town, entering traditional homes, seeing functioning water channels, and understanding how modern Ollantaytambo preserves its ancient heritage.',
+    whatToExpectEs: 'Comienza en la entrada principal donde tu guía explica la importancia estratégica de esta fortaleza, el último bastión donde los incas se defendieron exitosamente contra fuerzas españolas. Sube las terrazas para alcanzar el Templo del Sol y maravíllate con los seis monolitos masivos transportados desde canteras al otro lado del valle. Aprende sobre ingeniería inca al ver evidencia de la construcción inconclusa. Desciende y camina por el pueblo inca vivo, entrando a casas tradicionales, viendo canales de agua funcionando, y entendiendo cómo el Ollantaytambo moderno preserva su herencia antigua.',
+    highlights: [
+      'Climb to Temple of the Sun',
+      'See Wall of Six Monoliths',
+      'Walk through living Inca town',
+      'Visit traditional Inca homes',
+      'Learn about 1537 battle victory',
+      'See functioning Inca water channels',
+      'View Pinkuylluna granaries',
+      'Panoramic Sacred Valley views'
+    ],
+    highlightsEs: [
+      'Sube al Templo del Sol',
+      'Ve el Muro de Seis Monolitos',
+      'Camina por pueblo inca vivo',
+      'Visita casas incas tradicionales',
+      'Aprende sobre victoria de batalla de 1537',
+      'Ve canales de agua incas funcionando',
+      'Observa graneros de Pinkuylluna',
+      'Vistas panorámicas del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'moderate',
+    priceRange: '$30-50 per person with guide, or included in Sacred Valley tours',
+    priceRangeEs: '$30-50 por persona con guía, o incluido en tours del Valle Sagrado',
+    bestTime: 'Year-round. Early morning (7-8am) before train crowds. Afternoon for golden light.',
+    bestTimeEs: 'Todo el año. Temprano (7-8am) antes de multitudes del tren. Tarde para luz dorada.',
+    includes: [
+      'Professional bilingual guide',
+      'Fortress and town tour',
+      'Historical and cultural commentary',
+      'Entry to traditional homes',
+      'Photo stops at scenic viewpoints'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Tour de fortaleza y pueblo',
+      'Comentario histórico y cultural',
+      'Entrada a casas tradicionales',
+      'Paradas fotográficas en miradores'
+    ],
+    tips: [
+      'Bring water - climb is demanding',
+      'Start early to avoid train passenger crowds',
+      'Many families stay overnight here',
+      'Town restaurants are family-friendly',
+      'Boleto Turístico required for entry',
+      'Take breaks on terrace levels',
+      'Optional climb to Pinkuylluna opposite'
+    ],
+    tipsEs: [
+      'Trae agua - subida es demandante',
+      'Comienza temprano para evitar multitudes del tren',
+      'Muchas familias pasan la noche aquí',
+      'Restaurantes del pueblo son aptos para familias',
+      'Boleto Turístico requerido para entrada',
+      'Toma descansos en niveles de terraza',
+      'Subida opcional a Pinkuylluna enfrente'
+    ],
+    safetyNotes: [
+      'Steep stone steps - watch children',
+      'Altitude 2,792m - pace yourself',
+      'Sturdy shoes required',
+      'No rails on terraces',
+      'Stay on marked paths',
+      'Sun protection essential'
+    ],
+    safetyNotesEs: [
+      'Escalones de piedra empinados - vigila niños',
+      'Altitud 2,792m - ve a tu ritmo',
+      'Zapatos resistentes requeridos',
+      'Sin barandas en terrazas',
+      'Permanece en senderos marcados',
+      'Protección solar esencial'
+    ],
+    relatedActivities: ['sacred-valley-family-tour', 'moray-maras-tour', 'cusco-archaeological-circuit'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Ollantaytambo Guides Association', familyFriendly: true },
+      { name: 'KB Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'andean-baroque-route-tour',
+    name: 'Andean Baroque Route Churches Tour',
+    nameEs: 'Tour Ruta del Barroco Andino - Iglesias',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover the spectacular colonial churches south of Cusco on the Ruta del Barroco Andino, culminating in the "Sistine Chapel of the Americas" at Andahuaylillas. This tour showcases three extraordinary churches with gold-leaf interiors, Renaissance and Baroque murals, and fascinating blend of Spanish and Andean religious imagery that tells the story of colonial Peru cultural fusion.',
+    descriptionEs: 'Descubre las espectaculares iglesias coloniales al sur de Cusco en la Ruta del Barroco Andino, culminando en la "Capilla Sixtina de América" en Andahuaylillas. Este tour muestra tres extraordinarias iglesias con interiores de pan de oro, murales renacentistas y barrocos, y fascinante mezcla de imaginería religiosa española y andina que cuenta la historia de la fusión cultural del Perú colonial.',
+    whatToExpect: 'Depart Cusco and travel through the scenic countryside toward the village of Andahuaylillas, approximately 40km south. Visit the Church of San Pedro Apóstol, nicknamed the Sistine Chapel of the Americas for its breathtaking gilded interior covered floor to ceiling with religious art. Continue to the churches of Huaro and Canincunca, each with unique murals and colonial treasures. Guides explain the Cusqueña School art style and how indigenous artists incorporated Andean symbols into Christian imagery. Return to Cusco with optional stops at Tipon or Pikillacta.',
+    whatToExpectEs: 'Parte de Cusco y viaja por el pintoresco campo hacia el pueblo de Andahuaylillas, aproximadamente 40km al sur. Visita la Iglesia de San Pedro Apóstol, apodada la Capilla Sixtina de América por su impresionante interior dorado cubierto de piso a techo con arte religioso. Continúa a las iglesias de Huaro y Canincunca, cada una con murales únicos y tesoros coloniales. Los guías explican el estilo artístico de la Escuela Cusqueña y cómo artistas indígenas incorporaron símbolos andinos en imaginería cristiana. Regresa a Cusco con paradas opcionales en Tipon o Pikillacta.',
+    highlights: [
+      'Andahuaylillas "Sistine Chapel" interior',
+      'Gold-leaf covered baroque altars',
+      '"Road to Heaven and Hell" mural',
+      'Original 17th-century pipe organ',
+      'Cusqueña School masterpiece paintings',
+      'Three unique colonial churches',
+      'Indigenous-Christian art fusion',
+      'Scenic countryside drive'
+    ],
+    highlightsEs: [
+      'Interior de "Capilla Sixtina" de Andahuaylillas',
+      'Altares barrocos cubiertos de pan de oro',
+      'Mural "Camino al Cielo y al Infierno"',
+      'Órgano de tubos original del siglo XVII',
+      'Pinturas maestras de la Escuela Cusqueña',
+      'Tres iglesias coloniales únicas',
+      'Fusión de arte indígena-cristiano',
+      'Viaje escénico por el campo'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person including transport, guide, and entrance fees',
+    priceRangeEs: '$40-70 por persona incluyendo transporte, guía, y entradas',
+    bestTime: 'Year-round. Morning light best for church interiors. Avoid Sundays during mass.',
+    bestTimeEs: 'Todo el año. Luz de mañana mejor para interiores de iglesia. Evita domingos durante misa.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Baroque Route entrance fees',
+      'Church visits with guided commentary'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entradas de Ruta Barroca',
+      'Visitas a iglesias con comentario guiado'
+    ],
+    tips: [
+      'No photography inside churches',
+      'Wear respectful clothing (no shorts)',
+      'Kids love the gold and colorful murals',
+      'Visit on weekday to avoid services',
+      'Combine with Tipon for full day',
+      'Bring light jacket for church interiors',
+      'Local ice cream in Andahuaylillas plaza'
+    ],
+    tipsEs: [
+      'No fotografía dentro de iglesias',
+      'Usa ropa respetuosa (no shorts)',
+      'Niños aman el oro y murales coloridos',
+      'Visita en día de semana para evitar servicios',
+      'Combina con Tipon para día completo',
+      'Trae chaqueta ligera para interiores de iglesia',
+      'Helado local en plaza de Andahuaylillas'
+    ],
+    safetyNotes: [
+      'Indoor activity - very safe',
+      'Watch children near altars',
+      'Respectful behavior required',
+      'Stay with tour group',
+      'Roads are paved and safe'
+    ],
+    safetyNotesEs: [
+      'Actividad bajo techo - muy segura',
+      'Vigila niños cerca de altares',
+      'Comportamiento respetuoso requerido',
+      'Permanece con grupo de tour',
+      'Carreteras son pavimentadas y seguras'
+    ],
+    relatedActivities: ['tipon-waterworks-tour', 'cusco-cathedral-art-tour', 'cusco-colonial-walking-tour'],
+    providers: [
+      { name: 'Cusco Culinary Tours', familyFriendly: true },
+      { name: 'Andean Baroque Experience', familyFriendly: true },
+      { name: 'Peru Sacred Journeys', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tipon-waterworks-tour',
+    name: 'Tipon Inca Waterworks & Engineering Tour',
+    nameEs: 'Tour de Obras Hidráulicas e Ingeniería Inca de Tipon',
+    type: 'educational',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Marvel at the most sophisticated example of Inca hydraulic engineering at Tipon, where 600-year-old water channels, fountains, and irrigation systems still function perfectly. This educational tour reveals how the Inca mastered water control for both ceremonial and agricultural purposes, offering hands-on learning about ancient engineering that continues to inspire modern hydraulic scientists.',
+    descriptionEs: 'Maravíllate con el ejemplo más sofisticado de ingeniería hidráulica inca en Tipon, donde canales de agua, fuentes, y sistemas de irrigación de 600 años aún funcionan perfectamente. Este tour educativo revela cómo los incas dominaron el control del agua para propósitos ceremoniales y agrícolas, ofreciendo aprendizaje práctico sobre ingeniería antigua que continúa inspirando a científicos hidráulicos modernos.',
+    whatToExpect: 'Travel 25km southeast of Cusco to the hidden gem of Tipon, entering through the lower terraces where perfectly carved stone channels direct water from mountain springs. Watch as your guide demonstrates how the Inca calculated water pressure and flow rates without modern instruments. Climb through the agricultural terraces, each level with its own microclimate for crop experimentation. Reach the upper ceremonial fountains where water cascades in carefully designed patterns. Kids can safely touch the flowing water and observe the engineering principles in action. The tour includes optional extension to upper ruins with panoramic views.',
+    whatToExpectEs: 'Viaja 25km al sureste de Cusco a la gema escondida de Tipon, entrando por las terrazas inferiores donde canales de piedra perfectamente tallados dirigen agua de manantiales de montaña. Observa cómo tu guía demuestra cómo los incas calculaban presión y tasas de flujo de agua sin instrumentos modernos. Sube por las terrazas agrícolas, cada nivel con su propio microclima para experimentación de cultivos. Alcanza las fuentes ceremoniales superiores donde el agua cae en cascada en patrones cuidadosamente diseñados. Niños pueden tocar el agua fluyendo con seguridad y observar principios de ingeniería en acción. El tour incluye extensión opcional a ruinas superiores con vistas panorámicas.',
+    highlights: [
+      'See 600-year-old functioning water channels',
+      'Learn Inca hydraulic engineering',
+      'Hands-on water interaction for kids',
+      'Cascading ceremonial fountains',
+      'Agricultural terrace microclimates',
+      'Underground aqueduct systems',
+      'Stone-carved precision channels',
+      'Panoramic valley views'
+    ],
+    highlightsEs: [
+      'Ve canales de agua de 600 años funcionando',
+      'Aprende ingeniería hidráulica inca',
+      'Interacción con agua para niños',
+      'Fuentes ceremoniales en cascada',
+      'Microclimas de terrazas agrícolas',
+      'Sistemas de acueductos subterráneos',
+      'Canales de precisión tallados en piedra',
+      'Vistas panorámicas del valle'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours at site, 4 hours total',
+    durationEs: '2-3 horas en sitio, 4 horas total',
+    difficulty: 'moderate',
+    priceRange: '$35-55 per person including transport and guide',
+    priceRangeEs: '$35-55 por persona incluyendo transporte y guía',
+    bestTime: 'Year-round. Morning for best light on water features. Dry season for clearer views.',
+    bestTimeEs: 'Todo el año. Mañana para mejor luz en elementos de agua. Temporada seca para vistas más claras.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Expert guide with engineering knowledge',
+      'Boleto Turístico entrance',
+      'Stop at Oropesa for bread tasting'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía experto con conocimiento de ingeniería',
+      'Entrada del Boleto Turístico',
+      'Parada en Oropesa para degustación de pan'
+    ],
+    tips: [
+      'Kids love touching the running water',
+      'Less crowded than Sacred Valley sites',
+      'Bring water for upper ruins climb',
+      'Stop in Oropesa for famous bread',
+      'Combine with Pikillacta or Baroque Route',
+      'Morning light best for photography',
+      'Wear sturdy shoes for steep paths'
+    ],
+    tipsEs: [
+      'Niños aman tocar el agua corriente',
+      'Menos concurrido que sitios del Valle Sagrado',
+      'Trae agua para subida a ruinas superiores',
+      'Para en Oropesa por pan famoso',
+      'Combina con Pikillacta o Ruta Barroca',
+      'Luz de mañana mejor para fotografía',
+      'Usa zapatos resistentes para senderos empinados'
+    ],
+    safetyNotes: [
+      'Water channels can be slippery',
+      'Steep paths to upper sections',
+      'Watch children near water features',
+      'Altitude 3,560m - pace yourself',
+      'Sturdy footwear essential',
+      'Sun protection needed'
+    ],
+    safetyNotesEs: [
+      'Canales de agua pueden ser resbalosos',
+      'Senderos empinados a secciones superiores',
+      'Vigila niños cerca de elementos de agua',
+      'Altitud 3,560m - ve a tu ritmo',
+      'Calzado resistente esencial',
+      'Protección solar necesaria'
+    ],
+    relatedActivities: ['andean-baroque-route-tour', 'pikillacta-tour', 'moray-maras-tour'],
+    providers: [
+      { name: 'Cusco Engineering Tours', familyFriendly: true },
+      { name: 'Peru Water Heritage', familyFriendly: true },
+      { name: 'Andean Discovery', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sacred-valley-family-tour',
+    name: 'Sacred Valley Complete Family Day Tour',
+    nameEs: 'Tour Familiar Completo del Valle Sagrado',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Experience the Sacred Valley of the Incas on this comprehensive family-friendly day tour covering the major archaeological sites of Pisac, Ollantaytambo, and Chinchero. This carefully paced itinerary includes market visits, hands-on weaving demonstrations, and interactive experiences designed to engage children while parents enjoy the stunning Andean scenery and Inca history.',
+    descriptionEs: 'Experimenta el Valle Sagrado de los Incas en este tour de día completo familiar que cubre los principales sitios arqueológicos de Pisac, Ollantaytambo y Chinchero. Este itinerario cuidadosamente programado incluye visitas a mercados, demostraciones prácticas de tejido, y experiencias interactivas diseñadas para involucrar a niños mientras los padres disfrutan el impresionante paisaje andino y la historia inca.',
+    whatToExpect: 'Depart from your Cusco hotel for a scenic drive through the Sacred Valley, stopping first at Pisac for the famous market and archaeological site with its impressive agricultural terraces. Continue to a traditional weaving community where families can try dyeing wool with natural plants and weaving on backstrap looms. Enjoy a buffet lunch with valley views, then explore the magnificent fortress of Ollantaytambo, climbing the terraces at a family-friendly pace. End at Chinchero to see the colonial church built on Inca foundations and watch master weavers demonstrate ancient techniques. Return to Cusco as the sun sets over the mountains.',
+    whatToExpectEs: 'Parte de tu hotel en Cusco para un viaje escénico por el Valle Sagrado, parando primero en Pisac por el famoso mercado y sitio arqueológico con sus impresionantes terrazas agrícolas. Continúa a una comunidad de tejido tradicional donde familias pueden intentar teñir lana con plantas naturales y tejer en telares de cintura. Disfruta un almuerzo buffet con vistas del valle, luego explora la magnífica fortaleza de Ollantaytambo, subiendo las terrazas a un ritmo familiar. Termina en Chinchero para ver la iglesia colonial construida sobre cimientos incas y observar tejedores maestros demostrar técnicas antiguas. Regresa a Cusco mientras el sol se pone sobre las montañas.',
+    highlights: [
+      'Pisac archaeological site and market',
+      'Hands-on weaving demonstration',
+      'Ollantaytambo fortress exploration',
+      'Chinchero colonial church and weavers',
+      'Buffet lunch with valley views',
+      'Child-friendly pace and activities',
+      'Multiple photo opportunities',
+      'Panoramic Sacred Valley scenery'
+    ],
+    highlightsEs: [
+      'Sitio arqueológico y mercado de Pisac',
+      'Demostración práctica de tejido',
+      'Exploración de fortaleza de Ollantaytambo',
+      'Iglesia colonial de Chinchero y tejedores',
+      'Almuerzo buffet con vistas del valle',
+      'Ritmo y actividades aptas para niños',
+      'Múltiples oportunidades de fotos',
+      'Paisaje panorámico del Valle Sagrado'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '10-12 hours',
+    durationEs: '10-12 horas',
+    difficulty: 'moderate',
+    priceRange: '$80-150 per person including all entrances, lunch, and transport',
+    priceRangeEs: '$80-150 por persona incluyendo todas las entradas, almuerzo, y transporte',
+    bestTime: 'Year-round. Tuesday/Thursday/Sunday for Pisac market. Dry season (May-Oct) for best weather.',
+    bestTimeEs: 'Todo el año. Martes/Jueves/Domingo para mercado de Pisac. Temporada seca (mayo-oct) para mejor clima.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private or small group transport',
+      'Professional bilingual guide',
+      'Boleto Turístico entries',
+      'Buffet lunch',
+      'Weaving demonstration',
+      'All activities as listed'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado o grupo pequeño',
+      'Guía profesional bilingüe',
+      'Entradas del Boleto Turístico',
+      'Almuerzo buffet',
+      'Demostración de tejido',
+      'Todas las actividades listadas'
+    ],
+    tips: [
+      'Bring layers - weather varies in valley',
+      'Cash for market souvenirs',
+      'Start early to maximize time',
+      'Snacks for kids between stops',
+      'Camera with charged battery',
+      'Comfortable walking shoes essential',
+      'Kids love the market and alpacas',
+      'Take it slow - long but rewarding day'
+    ],
+    tipsEs: [
+      'Trae capas - clima varía en el valle',
+      'Efectivo para recuerdos del mercado',
+      'Comienza temprano para maximizar tiempo',
+      'Snacks para niños entre paradas',
+      'Cámara con batería cargada',
+      'Zapatos cómodos para caminar esenciales',
+      'Niños aman el mercado y alpacas',
+      'Ve despacio - día largo pero gratificante'
+    ],
+    safetyNotes: [
+      'Long day - pace activities appropriately',
+      'Altitude varies 2,800-3,800m',
+      'Watch children on terraces',
+      'Stay hydrated throughout',
+      'Sun protection essential',
+      'Keep belongings secure in markets',
+      'Vetted family-friendly restaurants'
+    ],
+    safetyNotesEs: [
+      'Día largo - programa actividades apropiadamente',
+      'Altitud varía 2,800-3,800m',
+      'Vigila niños en terrazas',
+      'Mantente hidratado durante todo',
+      'Protección solar esencial',
+      'Mantén pertenencias seguras en mercados',
+      'Restaurantes aptos para familias verificados'
+    ],
+    relatedActivities: ['ollantaytambo-fortress-tour', 'moray-maras-tour', 'cusco-archaeological-circuit'],
+    providers: [
+      { name: 'Sacred Valley Family Tours', familyFriendly: true },
+      { name: 'Cusco For Kids', familyFriendly: true },
+      { name: 'KB Tours', familyFriendly: true },
+      { name: 'Alpaca Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'chinchero-weaving-workshop',
+    name: 'Chinchero Traditional Weaving Workshop',
+    nameEs: 'Taller de Tejido Tradicional de Chinchero',
+    type: 'cultural',
+    city: 'chinchero',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Immerse your family in the ancient art of Andean textile making with a hands-on weaving workshop in Chinchero, where master weavers have passed techniques through generations for over 2,000 years. Learn to create natural dyes from local plants, spin alpaca wool, and try weaving on traditional backstrap looms while surrounded by spectacular mountain scenery.',
+    descriptionEs: 'Sumerge a tu familia en el arte ancestral de la fabricación textil andina con un taller práctico de tejido en Chinchero, donde tejedoras maestras han transmitido técnicas a través de generaciones por más de 2,000 años. Aprende a crear tintes naturales de plantas locales, hilar lana de alpaca, y prueba tejer en telares de cintura tradicionales rodeado de espectacular paisaje montañoso.',
+    whatToExpect: 'Arrive at a family-run weaving cooperative where women in traditional dress welcome you with coca tea. Watch as they demonstrate the entire textile process - from washing raw alpaca fleece to creating vibrant colors using local plants like cochineal, chilca, and ch\'illca. Children can participate in grinding plants to extract dyes and helping stir the dye baths. Learn basic weaving techniques on a backstrap loom and understand the symbolic meanings behind traditional patterns. Many families leave with small woven souvenirs they created themselves.',
+    whatToExpectEs: 'Llega a una cooperativa de tejido familiar donde mujeres en vestimenta tradicional te dan la bienvenida con té de coca. Observa mientras demuestran todo el proceso textil - desde lavar vellón de alpaca crudo hasta crear colores vibrantes usando plantas locales como cochinilla, chilca, y ch\'illca. Los niños pueden participar moliendo plantas para extraer tintes y ayudando a mezclar los baños de tinte. Aprende técnicas básicas de tejido en un telar de cintura y entiende los significados simbólicos detrás de los patrones tradicionales. Muchas familias se van con pequeños recuerdos tejidos que crearon ellos mismos.',
+    highlights: [
+      'Hands-on natural dye creation',
+      'Traditional backstrap loom weaving',
+      'Alpaca wool spinning',
+      'Learn symbolic pattern meanings',
+      'Meet master weaver families',
+      'Create your own small textile',
+      'Stunning mountain backdrop',
+      'Support women cooperatives'
+    ],
+    highlightsEs: [
+      'Creación práctica de tintes naturales',
+      'Tejido en telar de cintura tradicional',
+      'Hilado de lana de alpaca',
+      'Aprende significados de patrones simbólicos',
+      'Conoce familias de tejedoras maestras',
+      'Crea tu propio textil pequeño',
+      'Impresionante fondo montañoso',
+      'Apoya cooperativas de mujeres'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1.5-2 hours',
+    durationEs: '1.5-2 horas',
+    difficulty: 'easy',
+    priceRange: 'Free with textile purchase or small tip ($5-10). Private workshops $20-40 per family.',
+    priceRangeEs: 'Gratis con compra de textil o pequeña propina ($5-10). Talleres privados $20-40 por familia.',
+    bestTime: 'Year-round. Sunday for market day combination. Morning for best light.',
+    bestTimeEs: 'Todo el año. Domingo para combinación con día de mercado. Mañana para mejor luz.',
+    includes: [
+      'Weaving demonstration',
+      'Natural dye explanation',
+      'Hands-on participation',
+      'Coca tea welcome',
+      'Photo opportunities',
+      'Direct purchase from weavers'
+    ],
+    includesEs: [
+      'Demostración de tejido',
+      'Explicación de tintes naturales',
+      'Participación práctica',
+      'Bienvenida con té de coca',
+      'Oportunidades de fotos',
+      'Compra directa de tejedoras'
+    ],
+    tips: [
+      'Kids love the colorful dye process',
+      'No obligation to buy but support appreciated',
+      'Combine with Chinchero ruins visit',
+      'Cash only for purchases',
+      'Quality textiles are investment pieces',
+      'Ask permission before photographing',
+      'Part of most Sacred Valley tours',
+      'Smaller cooperatives more intimate'
+    ],
+    tipsEs: [
+      'Niños aman el proceso colorido de teñido',
+      'Sin obligación de comprar pero apoyo apreciado',
+      'Combina con visita a ruinas de Chinchero',
+      'Solo efectivo para compras',
+      'Textiles de calidad son piezas de inversión',
+      'Pide permiso antes de fotografiar',
+      'Parte de mayoría de tours del Valle Sagrado',
+      'Cooperativas más pequeñas más íntimas'
+    ],
+    safetyNotes: [
+      'Indoor/outdoor activity - safe environment',
+      'Natural dyes safe but can stain',
+      'Supervise children with dye baths',
+      'Altitude 3,762m - pace yourself',
+      'Support legitimate cooperatives'
+    ],
+    safetyNotesEs: [
+      'Actividad bajo techo/exterior - ambiente seguro',
+      'Tintes naturales seguros pero pueden manchar',
+      'Supervisa niños con baños de tinte',
+      'Altitud 3,762m - ve a tu ritmo',
+      'Apoya cooperativas legítimas'
+    ],
+    relatedActivities: ['sacred-valley-family-tour', 'ollantaytambo-fortress-tour', 'moray-maras-tour'],
+    providers: [
+      { name: 'Centro de Textiles Tradicionales', familyFriendly: true },
+      { name: 'Chinchero Weaving Cooperative', familyFriendly: true },
+      { name: 'Away from the Crowds', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huayna-picchu-climb',
+    name: 'Huayna Picchu Summit & Temple of the Moon',
+    nameEs: 'Cumbre de Huayna Picchu y Templo de la Luna',
+    type: 'adventure',
+    city: 'machu-picchu',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Challenge your family with the iconic climb to Huayna Picchu summit, the steep peak rising behind Machu Picchu in every classic photograph. This thrilling adventure rewards fit families with older children with unparalleled bird-eye views of the citadel below and access to the mysterious Temple of the Moon hidden in a cave.',
+    descriptionEs: 'Desafía a tu familia con la icónica escalada a la cumbre de Huayna Picchu, el pico empinado que se eleva detrás de Machu Picchu en cada fotografía clásica. Esta emocionante aventura recompensa a familias en forma con niños mayores con incomparables vistas de pájaro de la ciudadela abajo y acceso al misterioso Templo de la Luna escondido en una cueva.',
+    whatToExpect: 'After entering Machu Picchu, proceed to the Huayna Picchu checkpoint where you sign in for your designated time slot. The climb begins on ancient Inca stone steps that grow increasingly steep and narrow as you ascend. Steel cables provide handholds on the most exposed sections. The final approach involves climbing through a rock tunnel. At the summit (2,693m), take in breathtaking views of Machu Picchu far below and the Urubamba River winding through the valley. Optional descent to Temple of the Moon adds 45 minutes via a separate trail through caves with fine stonework.',
+    whatToExpectEs: 'Después de entrar a Machu Picchu, procede al punto de control de Huayna Picchu donde te registras para tu horario designado. La escalada comienza en antiguos escalones de piedra inca que se vuelven cada vez más empinados y estrechos mientras asciendes. Cables de acero proporcionan agarres en las secciones más expuestas. El acercamiento final implica escalar a través de un túnel de roca. En la cumbre (2,693m), disfruta vistas impresionantes de Machu Picchu muy abajo y el Río Urubamba serpenteando por el valle. El descenso opcional al Templo de la Luna añade 45 minutos por un sendero separado a través de cuevas con fino trabajo de piedra.',
+    highlights: [
+      'Iconic summit views of Machu Picchu',
+      'Thrilling steep Inca stairway',
+      'Temple of the Moon cave complex',
+      'Sense of major accomplishment',
+      'Limited access exclusivity',
+      'Ancient Inca engineering',
+      'Photography from above',
+      'Wildlife encounters possible'
+    ],
+    highlightsEs: [
+      'Vistas icónicas de la cumbre de Machu Picchu',
+      'Emocionante escalera inca empinada',
+      'Complejo de cuevas del Templo de la Luna',
+      'Sentido de gran logro',
+      'Exclusividad de acceso limitado',
+      'Ingeniería inca antigua',
+      'Fotografía desde arriba',
+      'Posibles encuentros con vida silvestre'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: '2-3 hours (climb and descent)',
+    durationEs: '2-3 horas (subida y bajada)',
+    difficulty: 'challenging',
+    priceRange: 'Additional S/75-100 on top of Machu Picchu entry. Must book 2-3 months in advance.',
+    priceRangeEs: 'S/75-100 adicionales sobre entrada a Machu Picchu. Debe reservar 2-3 meses de anticipación.',
+    bestTime: 'Dry season (May-October). First entry group (7-8am) for clearest views before clouds.',
+    bestTimeEs: 'Temporada seca (mayo-octubre). Primer grupo de entrada (7-8am) para vistas más claras antes de nubes.',
+    includes: [
+      'Huayna Picchu permit',
+      'Checkpoint sign-in/out',
+      'Trail access',
+      'Temple of the Moon access'
+    ],
+    includesEs: [
+      'Permiso de Huayna Picchu',
+      'Registro de entrada/salida',
+      'Acceso al sendero',
+      'Acceso al Templo de la Luna'
+    ],
+    tips: [
+      'Book permits months in advance',
+      'Not suitable for fear of heights',
+      'Sturdy hiking shoes essential',
+      'Bring gloves for cable sections',
+      'Go early before clouds roll in',
+      'Start Machu Picchu visit after',
+      'Rain makes trail dangerous',
+      'Physical fitness required'
+    ],
+    tipsEs: [
+      'Reserva permisos meses por adelantado',
+      'No apto para miedo a las alturas',
+      'Zapatos de senderismo resistentes esenciales',
+      'Trae guantes para secciones con cable',
+      'Ve temprano antes de que lleguen nubes',
+      'Comienza visita a Machu Picchu después',
+      'Lluvia hace sendero peligroso',
+      'Condición física requerida'
+    ],
+    safetyNotes: [
+      'Not recommended for children under 12',
+      'Steep exposed drops - no rails',
+      'Follow one-way trail rules',
+      'Turn back if weather changes',
+      'Stay on marked trail only',
+      'Sign out at checkpoint required',
+      'No running on descent'
+    ],
+    safetyNotesEs: [
+      'No recomendado para niños menores de 12',
+      'Caídas empinadas expuestas - sin barandas',
+      'Sigue reglas del sendero de una vía',
+      'Regresa si el clima cambia',
+      'Permanece solo en sendero marcado',
+      'Registro de salida requerido',
+      'No correr en el descenso'
+    ],
+    relatedActivities: ['machu-picchu-guided-tour', 'inca-trail-trek', 'sacred-valley-family-tour'],
+    providers: [
+      { name: 'Self-guided with permit', familyFriendly: true },
+      { name: 'Machu Picchu official guides', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'palcoyo-rainbow-mountain-tour',
+    name: 'Palcoyo Rainbow Mountain Family Adventure',
+    nameEs: 'Aventura Familiar a Montaña de Colores Palcoyo',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Experience the wonder of rainbow-striped mountains on this family-friendly alternative to the crowded Vinicunca, featuring three colorful peaks, ancient stone forests, and spectacular views of Ausangate - all on an easier trail accessible to families with children as young as 7. The vibrant mineral bands create a surreal landscape perfect for photography and adventure.',
+    descriptionEs: 'Experimenta la maravilla de montañas con franjas arcoíris en esta alternativa apta para familias a la concurrida Vinicunca, presentando tres picos coloridos, bosques de piedra antiguos, y vistas espectaculares del Ausangate - todo en un sendero más fácil accesible a familias con niños desde los 7 años. Las vibrantes bandas minerales crean un paisaje surrealista perfecto para fotografía y aventura.',
+    whatToExpect: 'Depart Cusco very early (around 4am) for the 3-hour drive through the highlands, watching sunrise over the Andes. Enjoy a traditional breakfast at a local restaurant before continuing to the trailhead at 4,700m. The walk to the viewpoints takes about 1 hour over relatively flat terrain. Three distinct rainbow mountains come into view, each with different color patterns created by iron, copper, sulfur, and other minerals. Explore the mysterious stone forest with its ancient rock formations. Llamas and alpacas graze freely in the area. After photos and exploration, return to Cusco by mid-afternoon.',
+    whatToExpectEs: 'Parte de Cusco muy temprano (alrededor de 4am) para el viaje de 3 horas por las tierras altas, observando el amanecer sobre los Andes. Disfruta un desayuno tradicional en un restaurante local antes de continuar al inicio del sendero a 4,700m. La caminata a los miradores toma aproximadamente 1 hora sobre terreno relativamente plano. Tres montañas arcoíris distintas aparecen a la vista, cada una con diferentes patrones de color creados por hierro, cobre, azufre, y otros minerales. Explora el misterioso bosque de piedra con sus formaciones rocosas antiguas. Llamas y alpacas pastan libremente en el área. Después de fotos y exploración, regresa a Cusco a media tarde.',
+    highlights: [
+      'Three rainbow mountains visible',
+      'Much easier than Vinicunca',
+      'Ancient stone forest',
+      'Ausangate glacier views',
+      'Alpaca and llama encounters',
+      'Fewer tourists',
+      'Spectacular photography',
+      'Traditional highland breakfast'
+    ],
+    highlightsEs: [
+      'Tres montañas arcoíris visibles',
+      'Mucho más fácil que Vinicunca',
+      'Bosque de piedra antiguo',
+      'Vistas del glaciar Ausangate',
+      'Encuentros con alpacas y llamas',
+      'Menos turistas',
+      'Fotografía espectacular',
+      'Desayuno tradicional de tierras altas'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: '10-12 hours from Cusco',
+    durationEs: '10-12 horas desde Cusco',
+    difficulty: 'moderate',
+    priceRange: '$35-60 per person including transport, breakfast, and guide',
+    priceRangeEs: '$35-60 por persona incluyendo transporte, desayuno, y guía',
+    bestTime: 'Dry season (May-October) for clearest skies. Best colors appear mid-morning.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) para cielos más claros. Mejores colores aparecen a media mañana.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Private transportation',
+      'Professional guide',
+      'Traditional breakfast',
+      'Walking sticks available',
+      'Oxygen if needed'
+    ],
+    includesEs: [
+      'Recojo y retorno al hotel',
+      'Transporte privado',
+      'Guía profesional',
+      'Desayuno tradicional',
+      'Bastones de caminata disponibles',
+      'Oxígeno si es necesario'
+    ],
+    tips: [
+      'Acclimatize in Cusco 2-3 days first',
+      'Dress in very warm layers',
+      'Walk slowly at altitude',
+      'Bring snacks and water',
+      'Horse rental available ($15-20)',
+      'Best colors before noon',
+      'Cash for community fee and horse',
+      'Much less crowded than Vinicunca'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco 2-3 días primero',
+      'Vístete con capas muy abrigadas',
+      'Camina despacio en altitud',
+      'Trae snacks y agua',
+      'Alquiler de caballo disponible ($15-20)',
+      'Mejores colores antes del mediodía',
+      'Efectivo para tarifa comunitaria y caballo',
+      'Mucho menos concurrido que Vinicunca'
+    ],
+    safetyNotes: [
+      'Altitude 4,900m - acclimatize first',
+      'Watch for altitude sickness symptoms',
+      'Walk slowly and rest frequently',
+      'Turn back if anyone feels unwell',
+      'Warm clothing essential',
+      'Sun protection critical',
+      'Horse option reduces walking'
+    ],
+    safetyNotesEs: [
+      'Altitud 4,900m - aclimátate primero',
+      'Observa síntomas de mal de altura',
+      'Camina despacio y descansa frecuentemente',
+      'Regresa si alguien se siente mal',
+      'Ropa abrigada esencial',
+      'Protección solar crítica',
+      'Opción de caballo reduce caminata'
+    ],
+    relatedActivities: ['rainbow-mountain-trek', 'humantay-lake-hike', 'ausangate-trek'],
+    providers: [
+      { name: 'Cusco Day Tours', familyFriendly: true },
+      { name: 'Palcoyo Adventures', familyFriendly: true },
+      { name: 'Rainbow Mountain Experts', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'waqrapukara-trek',
+    name: 'Waqrapukara Horn Fortress Trek',
+    nameEs: 'Caminata a Fortaleza de Cuerno Waqrapukara',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Discover one of Peru most spectacular and least-visited archaeological sites on this challenging trek to Waqrapukara, the "horn fortress" perched dramatically atop twin-peaked rock formations above a deep canyon. This adventure rewards fit families with breathtaking scenery, authentic Inca ruins, and an experience far from tourist crowds.',
+    descriptionEs: 'Descubre uno de los sitios arqueológicos más espectaculares y menos visitados del Perú en esta desafiante caminata a Waqrapukara, la "fortaleza de cuerno" posada dramáticamente sobre formaciones rocosas de picos gemelos sobre un cañón profundo. Esta aventura recompensa a familias en forma con paisajes impresionantes, ruinas incas auténticas, y una experiencia lejos de multitudes turísticas.',
+    whatToExpect: 'The journey begins with a 3-hour drive from Cusco through stunning highland scenery to the village of Acomayo. Continue by vehicle to the trailhead where the trek begins. The one-day option involves 3-4 hours of hiking each way through Andean grasslands with panoramic mountain views. As you approach, the distinctive horn-shaped rock formation comes into view - an unforgettable sight. Explore the pre-Inca and Inca ruins perched impossibly on the twin peaks, including temples, terraces, and astronomical observation points. The 2-day option includes camping under stars near the site for sunrise photos.',
+    whatToExpectEs: 'El viaje comienza con un viaje de 3 horas desde Cusco a través de impresionante paisaje de tierras altas hasta el pueblo de Acomayo. Continúa en vehículo hasta el inicio del sendero donde comienza la caminata. La opción de un día implica 3-4 horas de senderismo en cada dirección a través de pastizales andinos con vistas panorámicas de montañas. Al acercarte, la distintiva formación rocosa en forma de cuerno aparece a la vista - una vista inolvidable. Explora las ruinas preincas e incas posadas imposiblemente en los picos gemelos, incluyendo templos, terrazas, y puntos de observación astronómica. La opción de 2 días incluye campamento bajo las estrellas cerca del sitio para fotos del amanecer.',
+    highlights: [
+      'Dramatic horn-shaped rock fortress',
+      'Off-the-beaten-path experience',
+      'Pre-Inca and Inca ruins',
+      'Minimal tourist presence',
+      'Canyon and mountain views',
+      'Authentic adventure',
+      'Camping under stars (2-day)',
+      'Incredible sunrise photos'
+    ],
+    highlightsEs: [
+      'Dramática fortaleza de roca en forma de cuerno',
+      'Experiencia fuera de los caminos trillados',
+      'Ruinas preincas e incas',
+      'Presencia turística mínima',
+      'Vistas de cañones y montañas',
+      'Aventura auténtica',
+      'Campamento bajo las estrellas (2 días)',
+      'Increíbles fotos del amanecer'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: '12-14 hours (1-day) or 2 days with camping',
+    durationEs: '12-14 horas (1 día) o 2 días con campamento',
+    difficulty: 'challenging',
+    priceRange: '$60-100 (1-day) or $150-200 (2-day with camping)',
+    priceRangeEs: '$60-100 (1 día) o $150-200 (2 días con campamento)',
+    bestTime: 'Dry season (May-October) essential for safety. Clear weather for best views.',
+    bestTimeEs: 'Temporada seca (mayo-octubre) esencial para seguridad. Clima claro para mejores vistas.',
+    includes: [
+      'Transportation from Cusco',
+      'Professional guide',
+      'Entrance fees',
+      'Box lunch',
+      'Camping equipment (2-day)',
+      'Meals (2-day option)'
+    ],
+    includesEs: [
+      'Transporte desde Cusco',
+      'Guía profesional',
+      'Tarifas de entrada',
+      'Almuerzo tipo lonchera',
+      'Equipo de campamento (2 días)',
+      'Comidas (opción de 2 días)'
+    ],
+    tips: [
+      'Suitable only for fit families',
+      'Acclimatize thoroughly in Cusco first',
+      'Bring all food and water',
+      'Trekking poles highly recommended',
+      '2-day option much more comfortable',
+      'Best photos at sunrise',
+      'Hire local guide from Acomayo',
+      'No facilities - pack out all trash'
+    ],
+    tipsEs: [
+      'Apto solo para familias en forma',
+      'Aclimátate completamente en Cusco primero',
+      'Trae toda la comida y agua',
+      'Bastones de trekking muy recomendados',
+      'Opción de 2 días mucho más cómoda',
+      'Mejores fotos al amanecer',
+      'Contrata guía local de Acomayo',
+      'Sin instalaciones - llévate toda la basura'
+    ],
+    safetyNotes: [
+      'High altitude 4,300m - serious acclimatization needed',
+      'Challenging terrain with steep sections',
+      'No rescue services nearby',
+      'Weather can change rapidly',
+      'Physical fitness essential',
+      'Turn back if anyone feels unwell',
+      'Proper hiking gear required'
+    ],
+    safetyNotesEs: [
+      'Alta altitud 4,300m - aclimatación seria necesaria',
+      'Terreno desafiante con secciones empinadas',
+      'Sin servicios de rescate cerca',
+      'Clima puede cambiar rápidamente',
+      'Condición física esencial',
+      'Regresa si alguien se siente mal',
+      'Equipo de senderismo apropiado requerido'
+    ],
+    relatedActivities: ['choquequirao-trek', 'ausangate-trek', 'inca-trail-trek'],
+    providers: [
+      { name: 'Waqrapukara Expeditions', familyFriendly: true },
+      { name: 'Cusco Adventure Tours', familyFriendly: true },
+      { name: 'Acomayo Local Guides', familyFriendly: true }
+    ]
   }
 ];
 
