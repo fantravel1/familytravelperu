@@ -13997,6 +13997,374 @@ export const activities: Activity[] = [
       { name: 'Lima Archaeological Tours', familyFriendly: true },
       { name: 'Peru Ancient History Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'chinchero-textile-tour',
+    name: 'Chinchero Inca Ruins & Textile Weaving Experience',
+    nameEs: 'Experiencia de Ruinas Incas y Tejido Textil en Chinchero',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Sacred Valley',
+    regionEs: 'Valle Sagrado',
+    description: 'Discover the perfect blend of Inca history and living Andean traditions at Chinchero. This experience combines impressive archaeological ruins with hands-on textile demonstrations where families watch - and participate in - traditional weaving using techniques unchanged for centuries.',
+    descriptionEs: 'Descubre la mezcla perfecta de historia inca y tradiciones andinas vivas en Chinchero. Esta experiencia combina impresionantes ruinas arqueológicas con demostraciones textiles prácticas donde las familias observan - y participan en - tejido tradicional usando técnicas sin cambios por siglos.',
+    whatToExpect: 'Arrive at Chinchero on the high plateau above the Sacred Valley. Begin with the Inca ruins - massive stone walls, terraces, and the foundations of what was once Inca Tupac Yupanqui\'s country palace. Walk up to the colonial church built directly on the Inca platform, and if open, see the stunning murals inside. Then visit a family-run weaving cooperative where the real magic happens. Women dressed in traditional clothing demonstrate every step: washing wool with natural saponin root, preparing natural dyes from cochineal insects and local plants, spinning wool by hand, and weaving intricate patterns on backstrap looms. Children often get to try carding wool or simple weaving. The demonstration typically ends with the opportunity to purchase authentic handmade textiles - blankets, bags, and clothing - directly from the weavers at fair trade prices.',
+    whatToExpectEs: 'Llega a Chinchero en la meseta alta sobre el Valle Sagrado. Comienza con las ruinas incas - masivos muros de piedra, terrazas, y los cimientos de lo que fue el palacio de campo del Inca Túpac Yupanqui. Camina hasta la iglesia colonial construida directamente sobre la plataforma inca, y si está abierta, ve los impresionantes murales adentro. Luego visita una cooperativa de tejido familiar donde ocurre la verdadera magia. Mujeres vestidas con ropa tradicional demuestran cada paso: lavar lana con raíz de saponina natural, preparar tintes naturales de insectos cochinilla y plantas locales, hilar lana a mano, y tejer patrones intrincados en telares de cintura. Los niños a menudo pueden intentar cardar lana o tejido simple. La demostración típicamente termina con la oportunidad de comprar textiles auténticos hechos a mano - mantas, bolsas y ropa - directamente de los tejedores a precios de comercio justo.',
+    highlights: [
+      'Impressive Inca royal palace ruins',
+      'Colonial church with stunning murals',
+      'Hands-on textile weaving demonstration',
+      'Natural dyeing with plants and insects',
+      'Children can try weaving activities',
+      'Purchase authentic textiles from weavers',
+      'Stunning mountain views'
+    ],
+    highlightsEs: [
+      'Impresionantes ruinas del palacio real inca',
+      'Iglesia colonial con impresionantes murales',
+      'Demostración práctica de tejido textil',
+      'Teñido natural con plantas e insectos',
+      'Los niños pueden intentar actividades de tejido',
+      'Compra textiles auténticos de los tejedores',
+      'Impresionantes vistas de montañas'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'easy',
+    priceRange: '$40-70 USD per person',
+    priceRangeEs: '$40-70 USD por persona',
+    bestTime: 'Year-round, Sunday for market',
+    bestTimeEs: 'Todo el año, domingo para el mercado',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Boleto Turístico entrance',
+      'Textile weaving demonstration',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Entrada de Boleto Turístico',
+      'Demostración de tejido textil',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Higher altitude (3,762m) - take it slow',
+      'Sunday market adds to the experience',
+      'Bring cash for textile purchases',
+      'Ask permission to photograph weavers',
+      'Textiles make meaningful souvenirs',
+      'Combine with Moray and Maras for full day'
+    ],
+    tipsEs: [
+      'Mayor altitud (3,762m) - ve despacio',
+      'Mercado dominical añade a la experiencia',
+      'Trae efectivo para compras de textiles',
+      'Pide permiso para fotografiar tejedores',
+      'Textiles son recuerdos significativos',
+      'Combina con Moray y Maras para día completo'
+    ],
+    safetyNotes: [
+      'High altitude (3,762m) - acclimate first',
+      'Easy walking on flat terrain',
+      'Some stairs at ruins and church',
+      'Safe tourist destination',
+      'Weaving cooperatives are family environments'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (3,762m) - aclimatarse primero',
+      'Caminata fácil en terreno plano',
+      'Algunas escaleras en ruinas e iglesia',
+      'Destino turístico seguro',
+      'Cooperativas de tejido son ambientes familiares'
+    ],
+    relatedActivities: ['maras-moray-tour', 'sacred-valley-full-day', 'pisac-ruins-market-tour'],
+    providers: [
+      { name: 'Sacred Valley Tours', familyFriendly: true },
+      { name: 'Andean Textile Tours', familyFriendly: true },
+      { name: 'Cusco Cultural Experiences', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tipon-water-engineering-tour',
+    name: 'Tipon Water Engineering & South Valley Tour',
+    nameEs: 'Tour de Ingeniería Hidráulica de Tipón y Valle Sur',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Explore the engineering genius of the Incas at Tipon, where fountains and water channels have flowed continuously for 500 years. This South Valley tour combines spectacular hydraulic engineering, pre-Inca ruins at Pikillacta, and the famous painted church of Andahuaylillas - all less crowded than the Sacred Valley.',
+    descriptionEs: 'Explora el genio ingenieril de los Incas en Tipón, donde fuentes y canales de agua han fluido continuamente por 500 años. Este tour del Valle Sur combina espectacular ingeniería hidráulica, ruinas pre-Incas en Pikillacta, y la famosa iglesia pintada de Andahuaylillas - todo menos concurrido que el Valle Sagrado.',
+    whatToExpect: 'Depart Cusco heading southeast through the Huatanay Valley, first stopping at Tipon where the Incas\' mastery of water is on full display. Walk through 13 terraces with working fountains, cascades, and channels that have operated continuously since the 15th century. Children are fascinated watching water flow through ancient stone channels exactly as the Incas designed. Continue to Pikillacta, a vast pre-Inca Wari administrative center with an organized grid layout - helping children understand that sophisticated civilizations existed before the Incas. End at the colonial church of Andahuaylillas, called the "Sistine Chapel of the Americas" for its stunning painted interior. The combination offers archaeology, engineering, and art history in one memorable day, on circuits far less crowded than the famous Sacred Valley route.',
+    whatToExpectEs: 'Sal de Cusco hacia el sureste por el Valle de Huatanay, parando primero en Tipón donde el dominio inca del agua está en plena exhibición. Camina por 13 terrazas con fuentes funcionando, cascadas y canales que han operado continuamente desde el siglo XV. Los niños quedan fascinados viendo el agua fluir por antiguos canales de piedra exactamente como los Incas diseñaron. Continúa a Pikillacta, un vasto centro administrativo Wari pre-Inca con diseño de cuadrícula organizada - ayudando a los niños a entender que civilizaciones sofisticadas existieron antes de los Incas. Termina en la iglesia colonial de Andahuaylillas, llamada la "Capilla Sixtina de las Américas" por su impresionante interior pintado. La combinación ofrece arqueología, ingeniería e historia del arte en un día memorable, en circuitos mucho menos concurridos que la famosa ruta del Valle Sagrado.',
+    highlights: [
+      'Working Inca fountains flowing 500 years',
+      'Sophisticated water engineering systems',
+      'Pre-Inca Wari ruins at Pikillacta',
+      'Andahuaylillas "Sistine Chapel" church',
+      'Less crowded than Sacred Valley',
+      'Three diverse sites in one tour',
+      'Stop in Oropesa for famous bread'
+    ],
+    highlightsEs: [
+      'Fuentes incas funcionando 500 años',
+      'Sofisticados sistemas de ingeniería hidráulica',
+      'Ruinas Wari pre-Incas en Pikillacta',
+      'Iglesia "Capilla Sixtina" de Andahuaylillas',
+      'Menos concurrido que el Valle Sagrado',
+      'Tres sitios diversos en un tour',
+      'Parada en Oropesa por el famoso pan'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: 'Half day (5-6 hours)',
+    durationEs: 'Medio día (5-6 horas)',
+    difficulty: 'moderate',
+    priceRange: '$45-75 USD per person',
+    priceRangeEs: '$45-75 USD por persona',
+    bestTime: 'Year-round, dry season May-October',
+    bestTimeEs: 'Todo el año, temporada seca mayo-octubre',
+    includes: [
+      'Hotel pickup and drop-off in Cusco',
+      'Professional bilingual guide',
+      'Boleto Turístico entrance',
+      'Andahuaylillas church entrance',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Cusco',
+      'Guía profesional bilingüe',
+      'Entrada de Boleto Turístico',
+      'Entrada a iglesia de Andahuaylillas',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Less crowded alternative to Sacred Valley',
+      'Tipon involves some uphill walking',
+      'Oropesa bread is famous - buy some!',
+      'Church photography may be restricted',
+      'Combine water and engineering themes',
+      'Good for families who have done Sacred Valley'
+    ],
+    tipsEs: [
+      'Alternativa menos concurrida al Valle Sagrado',
+      'Tipón implica algo de caminata cuesta arriba',
+      'Pan de Oropesa es famoso - ¡compra algo!',
+      'Fotografía en iglesia puede estar restringida',
+      'Combina temas de agua e ingeniería',
+      'Bueno para familias que han hecho el Valle Sagrado'
+    ],
+    safetyNotes: [
+      'Moderate altitude (3,400-3,560m)',
+      'Some uphill walking at Tipon',
+      'Uneven surfaces at archaeological sites',
+      'Stay on marked paths',
+      'Safe and well-visited tourist circuit'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (3,400-3,560m)',
+      'Algo de caminata cuesta arriba en Tipón',
+      'Superficies irregulares en sitios arqueológicos',
+      'Mantente en caminos marcados',
+      'Circuito turístico seguro y bien visitado'
+    ],
+    relatedActivities: ['sacred-valley-full-day', 'maras-moray-tour', 'cusco-walking-tour'],
+    providers: [
+      { name: 'Cusco South Valley Tours', familyFriendly: true },
+      { name: 'Peru Discovery Tours', familyFriendly: true },
+      { name: 'Andean Adventure', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sillustani-burial-towers-tour',
+    name: 'Sillustani Burial Towers & Lake Umayo Tour',
+    nameEs: 'Tour Torres Funerarias de Sillustani y Lago Umayo',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno',
+    regionEs: 'Puno',
+    description: 'Visit the dramatic pre-Inca burial towers of Sillustani, rising above the beautiful Lake Umayo. This afternoon tour combines powerful archaeology - towering stone chullpas built by cultures predating the Incas - with stunning high-altitude scenery where flamingos often wade in the lake.',
+    descriptionEs: 'Visita las dramáticas torres funerarias pre-Incas de Sillustani, elevándose sobre el hermoso Lago Umayo. Este tour de tarde combina poderosa arqueología - imponentes chullpas de piedra construidas por culturas anteriores a los Incas - con impresionante paisaje de alta altitud donde los flamencos a menudo vadean en el lago.',
+    whatToExpect: 'Depart Puno in the early afternoon for the 45-minute drive to Sillustani, arriving when afternoon light illuminates the towers against the Andean sky. Your guide explains how the Colla people, who dominated the Lake Titicaca region before the Inca conquest, built these cylindrical burial towers to house their nobility. The towers are wider at the top than the bottom - a remarkable engineering achievement. Walk among chullpas reaching up to 12 meters tall, comparing Colla and later Inca construction styles. Children are intrigued by how ancient people built these towers and why they housed the dead above ground. The site overlooks Lake Umayo, where Andean flamingos often feed. On clear days, snow-capped mountains create a spectacular backdrop. Return to Puno as the sun sets over the altiplano.',
+    whatToExpectEs: 'Sal de Puno temprano en la tarde para el viaje de 45 minutos a Sillustani, llegando cuando la luz de la tarde ilumina las torres contra el cielo andino. Tu guía explica cómo el pueblo Colla, que dominó la región del Lago Titicaca antes de la conquista inca, construyó estas torres funerarias cilíndricas para albergar a su nobleza. Las torres son más anchas arriba que abajo - un logro de ingeniería notable. Camina entre chullpas que alcanzan hasta 12 metros de altura, comparando estilos de construcción Colla y posteriores Incas. Los niños se intrigan por cómo la gente antigua construyó estas torres y por qué albergaban a los muertos sobre el suelo. El sitio tiene vista al Lago Umayo, donde los flamencos andinos a menudo se alimentan. En días despejados, montañas nevadas crean un telón de fondo espectacular. Regresa a Puno mientras el sol se pone sobre el altiplano.',
+    highlights: [
+      'Pre-Inca burial towers up to 12m tall',
+      'Beautiful Lake Umayo views',
+      'Andean flamingos often visible',
+      'Compare Colla and Inca architecture',
+      'Spectacular high-altitude scenery',
+      'Best light in afternoon',
+      'Off the main tourist circuit'
+    ],
+    highlightsEs: [
+      'Torres funerarias pre-Incas de hasta 12m de altura',
+      'Hermosas vistas del Lago Umayo',
+      'Flamencos andinos a menudo visibles',
+      'Compara arquitectura Colla e Inca',
+      'Espectacular paisaje de alta altitud',
+      'Mejor luz en la tarde',
+      'Fuera del circuito turístico principal'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Half day (3-4 hours)',
+    durationEs: 'Medio día (3-4 horas)',
+    difficulty: 'easy',
+    priceRange: '$25-45 USD per person',
+    priceRangeEs: '$25-45 USD por persona',
+    bestTime: 'Year-round, afternoon for best light',
+    bestTimeEs: 'Todo el año, tarde para mejor luz',
+    includes: [
+      'Hotel pickup and drop-off in Puno',
+      'Bilingual guide',
+      'Site entrance fee',
+      'Private transportation',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y retorno al hotel en Puno',
+      'Guía bilingüe',
+      'Entrada al sitio',
+      'Transporte privado',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Afternoon light is best for photography',
+      'Sunset visits are spectacular',
+      'Very high altitude - take it easy',
+      'Bring binoculars for flamingos',
+      'Wind can be strong - layers essential',
+      'Good activity for Lake Titicaca day'
+    ],
+    tipsEs: [
+      'Luz de tarde es mejor para fotografía',
+      'Visitas al atardecer son espectaculares',
+      'Muy alta altitud - ve con calma',
+      'Trae binoculares para flamencos',
+      'Viento puede ser fuerte - capas esenciales',
+      'Buena actividad para día del Lago Titicaca'
+    ],
+    safetyNotes: [
+      'Very high altitude (3,880m) - acclimate first',
+      'Easy walking on maintained paths',
+      'Wind can be very strong',
+      'Stay away from cliff edges near towers',
+      'Safe tourist site with supervision'
+    ],
+    safetyNotesEs: [
+      'Muy alta altitud (3,880m) - aclimatarse primero',
+      'Caminata fácil en senderos mantenidos',
+      'Viento puede ser muy fuerte',
+      'Mantente alejado de bordes de acantilados cerca de torres',
+      'Sitio turístico seguro con supervisión'
+    ],
+    relatedActivities: ['uros-islands-tour', 'taquile-island-tour', 'lake-titicaca-full-day'],
+    providers: [
+      { name: 'Puno Tours', familyFriendly: true },
+      { name: 'Titicaca Travel', familyFriendly: true },
+      { name: 'Altiplano Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-puno-raqchi-route',
+    name: 'Cusco to Puno: Raqchi Temple & La Raya Pass Tour',
+    nameEs: 'Tour Cusco a Puno: Templo de Raqchi y Paso La Raya',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco to Puno',
+    regionEs: 'Cusco a Puno',
+    description: 'Transform the journey between Cusco and Puno into an adventure with stops at the remarkable Temple of Viracocha at Raqchi - featuring the largest Inca roofed structure ever built - and the scenic La Raya Pass at over 4,300 meters. This route tour makes travel part of the experience.',
+    descriptionEs: 'Transforma el viaje entre Cusco y Puno en una aventura con paradas en el notable Templo de Viracocha en Raqchi - presentando la estructura techada inca más grande jamás construida - y el escénico Paso La Raya a más de 4,300 metros. Este tour de ruta hace del viaje parte de la experiencia.',
+    whatToExpect: 'Depart Cusco in the morning heading southeast on the scenic road to Puno. Your first major stop is Raqchi, home to the Temple of Viracocha - the largest roofed building ever constructed in the Inca Empire. The towering 15-meter central wall still stands, and the surrounding 200+ circular storage buildings (colcas) demonstrate Inca administrative sophistication. Children imagine the massive thatched roof that once covered the 92-meter-long temple. Continue climbing to La Raya Pass (4,338m), the highest point of the journey and the boundary between Cusco and Puno regions. Here alpacas and llamas graze, craft vendors sell colorful goods, and the views extend across the high altiplano. A lunch stop features traditional highland cuisine before continuing to Puno and Lake Titicaca. Arrive in late afternoon ready for your Titicaca adventures.',
+    whatToExpectEs: 'Sal de Cusco en la mañana hacia el sureste por la carretera escénica a Puno. Tu primera parada importante es Raqchi, hogar del Templo de Viracocha - el edificio techado más grande jamás construido en el Imperio Inca. El imponente muro central de 15 metros aún permanece, y los más de 200 edificios circulares de almacenamiento (colcas) circundantes demuestran la sofisticación administrativa inca. Los niños imaginan el masivo techo de paja que una vez cubría el templo de 92 metros de largo. Continúa subiendo al Paso La Raya (4,338m), el punto más alto del viaje y el límite entre las regiones de Cusco y Puno. Aquí alpacas y llamas pastan, vendedores de artesanías venden productos coloridos, y las vistas se extienden por el altiplano. Una parada de almuerzo presenta cocina tradicional de tierras altas antes de continuar a Puno y el Lago Titicaca. Llega al final de la tarde listo para tus aventuras en el Titicaca.',
+    highlights: [
+      'Temple of Viracocha - largest Inca roof structure',
+      'Towering 15m central wall still standing',
+      '200+ circular Inca storage buildings',
+      'La Raya Pass at 4,338 meters',
+      'Alpacas and llamas at high pass',
+      'Scenic Andean highland route',
+      'Transforms travel into adventure'
+    ],
+    highlightsEs: [
+      'Templo de Viracocha - estructura techada inca más grande',
+      'Imponente muro central de 15m aún en pie',
+      'Más de 200 edificios circulares de almacenamiento inca',
+      'Paso La Raya a 4,338 metros',
+      'Alpacas y llamas en el paso alto',
+      'Ruta escénica por el altiplano andino',
+      'Transforma el viaje en aventura'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: 'Full day (8-10 hours)',
+    durationEs: 'Día completo (8-10 horas)',
+    difficulty: 'easy',
+    priceRange: '$60-100 USD per person',
+    priceRangeEs: '$60-100 USD por persona',
+    bestTime: 'Year-round, dry season May-October',
+    bestTimeEs: 'Todo el año, temporada seca mayo-octubre',
+    includes: [
+      'Hotel pickup in Cusco',
+      'Drop-off at Puno hotel',
+      'Professional bilingual guide',
+      'Raqchi entrance fee',
+      'Traditional lunch',
+      'Private transportation',
+      'All stops en route'
+    ],
+    includesEs: [
+      'Recogida en hotel en Cusco',
+      'Dejada en hotel en Puno',
+      'Guía profesional bilingüe',
+      'Entrada a Raqchi',
+      'Almuerzo tradicional',
+      'Transporte privado',
+      'Todas las paradas en ruta'
+    ],
+    tips: [
+      'Long day - bring entertainment for children',
+      'Very high altitude at La Raya - take it easy',
+      'Dress in layers - temperature varies',
+      'Cash for craft purchases at La Raya',
+      'Better than overnight bus for families',
+      'Alternative: do in reverse from Puno'
+    ],
+    tipsEs: [
+      'Día largo - trae entretenimiento para niños',
+      'Muy alta altitud en La Raya - ve con calma',
+      'Viste en capas - temperatura varía',
+      'Efectivo para compras de artesanías en La Raya',
+      'Mejor que bus nocturno para familias',
+      'Alternativa: hazlo en reversa desde Puno'
+    ],
+    safetyNotes: [
+      'Very high altitude at La Raya (4,338m)',
+      'Long day requires rest breaks',
+      'Vehicle maintained for high altitude',
+      'Easy walking at all stops',
+      'Professional driver for mountain roads'
+    ],
+    safetyNotesEs: [
+      'Muy alta altitud en La Raya (4,338m)',
+      'Día largo requiere descansos',
+      'Vehículo mantenido para alta altitud',
+      'Caminata fácil en todas las paradas',
+      'Conductor profesional para caminos de montaña'
+    ],
+    relatedActivities: ['sillustani-burial-towers-tour', 'lake-titicaca-full-day', 'tipon-water-engineering-tour'],
+    providers: [
+      { name: 'Peru Hop', familyFriendly: true },
+      { name: 'Cusco to Puno Tours', familyFriendly: true },
+      { name: 'Andean Transit', familyFriendly: true }
+    ]
   }
 ];
 
