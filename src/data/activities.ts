@@ -18823,6 +18823,406 @@ export const activities: Activity[] = [
       { name: 'Vilaya Tours', familyFriendly: true },
       { name: 'Kuelap Explorer', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'nazca-cemetery-aqueducts-tour',
+    name: 'Chauchilla Cemetery & Cantalloc Aqueducts Tour',
+    nameEs: 'Tour Cementerio Chauchilla y Acueductos de Cantalloc',
+    type: 'cultural',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Discover the ingenious engineering and funerary practices of ancient Nazca culture on a half-day tour visiting the remarkable Chauchilla Cemetery with its well-preserved mummies and the sophisticated Cantalloc Aqueducts - underground puquios that have supplied water to the desert for over 1,500 years and still function today.',
+    descriptionEs: 'Descubre la ingeniosa ingeniería y prácticas funerarias de la antigua cultura Nazca en un tour de medio día visitando el notable Cementerio de Chauchilla con sus momias bien preservadas y los sofisticados Acueductos de Cantalloc - puquios subterráneos que han suministrado agua al desierto por más de 1,500 años y aún funcionan hoy.',
+    whatToExpect: 'Begin with a 30-minute drive to the Cantalloc Aqueducts, a series of ancient underground channels with spiral stone entrances that allowed the Nazca to access underground water sources in the desert. Walk down into the puquios to see how these remarkable engineering works function after 1,500 years. Continue to Chauchilla Cemetery where you will see twelve restored tomb sites containing mummified human remains in their original seated positions, surrounded by pottery, textiles, and offerings. The dry desert climate has preserved skin, hair, and even textiles in remarkable condition. Return to Nazca by midday.',
+    whatToExpectEs: 'Comienza con un recorrido de 30 minutos a los Acueductos de Cantalloc, una serie de canales subterráneos antiguos con entradas de piedra en espiral que permitían a los Nazca acceder a fuentes de agua subterráneas en el desierto. Desciende a los puquios para ver cómo estas notables obras de ingeniería funcionan después de 1,500 años. Continúa al Cementerio de Chauchilla donde verás doce sitios de tumbas restauradas que contienen restos humanos momificados en sus posiciones sentadas originales, rodeados de cerámica, textiles, y ofrendas. El clima seco del desierto ha preservado piel, cabello, e incluso textiles en notable condición. Regresa a Nazca al mediodía.',
+    highlights: [
+      'Well-preserved ancient mummies',
+      'Underground aqueduct system',
+      'Walk inside puquio channels',
+      'Nazca funerary customs',
+      'Ancient engineering marvels',
+      'Desert archaeology',
+      'Pre-Inca civilization insights',
+      'Functioning ancient technology'
+    ],
+    highlightsEs: [
+      'Momias antiguas bien preservadas',
+      'Sistema de acueductos subterráneos',
+      'Camina dentro de canales puquio',
+      'Costumbres funerarias Nazca',
+      'Maravillas de ingeniería antigua',
+      'Arqueología del desierto',
+      'Perspectivas de civilización pre-Inca',
+      'Tecnología antigua funcionando'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$40-70 per person including transport and guide',
+    priceRangeEs: '$40-70 por persona incluyendo transporte y guía',
+    bestTime: 'Year-round. Morning tours avoid midday desert heat.',
+    bestTimeEs: 'Todo el año. Tours matutinos evitan calor del mediodía del desierto.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Air-conditioned transport',
+      'Professional bilingual guide',
+      'Entrance fees to both sites',
+      'Water bottles'
+    ],
+    includesEs: [
+      'Recogida y dejada en hotel',
+      'Transporte con aire acondicionado',
+      'Guía profesional bilingüe',
+      'Tarifas de entrada a ambos sitios',
+      'Botellas de agua'
+    ],
+    tips: [
+      'Consider if mummies appropriate for children',
+      'Combine with Nazca Lines flight',
+      'Morning tours avoid heat',
+      'Bring sun protection',
+      'Respectful behavior at cemetery',
+      'Photography allowed',
+      'Great educational experience',
+      'Wear comfortable walking shoes'
+    ],
+    tipsEs: [
+      'Considera si momias son apropiadas para niños',
+      'Combina con vuelo de Líneas de Nazca',
+      'Tours matutinos evitan calor',
+      'Trae protección solar',
+      'Comportamiento respetuoso en cementerio',
+      'Fotografía permitida',
+      'Gran experiencia educativa',
+      'Usa zapatos cómodos para caminar'
+    ],
+    safetyNotes: [
+      'Desert sun is intense',
+      'Stay hydrated',
+      'Respect archaeological sites',
+      'Watch footing on aqueduct steps',
+      'No touching mummies or artifacts',
+      'Stay on marked paths'
+    ],
+    safetyNotesEs: [
+      'Sol del desierto es intenso',
+      'Mantente hidratado',
+      'Respeta sitios arqueológicos',
+      'Cuida tu paso en escalones de acueductos',
+      'No toques momias ni artefactos',
+      'Permanece en senderos marcados'
+    ],
+    relatedActivities: ['nazca-lines-flight', 'huacachina-dune-buggy'],
+    providers: [
+      { name: 'Nazca Trails', familyFriendly: true },
+      { name: 'Mystery Peru', familyFriendly: true },
+      { name: 'Alegria Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'tambopata-wildlife-adventure',
+    name: 'Tambopata Amazon Wildlife Family Adventure',
+    nameEs: 'Aventura Familiar de Vida Silvestre Amazónica Tambopata',
+    type: 'nature',
+    city: 'puerto-maldonado',
+    region: 'Madre de Dios Region',
+    regionEs: 'Región Madre de Dios',
+    description: 'Experience the wonders of the Amazon rainforest on a family-friendly multi-day adventure in Tambopata National Reserve, one of the most biodiverse places on Earth. Watch hundreds of colorful macaws at dawn clay licks, search for giant river otters in oxbow lakes, walk through the jungle canopy on suspension bridges, and discover the incredible wildlife that makes the Amazon a once-in-a-lifetime destination for families.',
+    descriptionEs: 'Experimenta las maravillas de la selva amazónica en una aventura familiar de varios días en la Reserva Nacional Tambopata, uno de los lugares más biodiversos de la Tierra. Observa cientos de coloridos guacamayos en collpas de arcilla al amanecer, busca nutrias gigantes de río en lagos de herradura, camina por el dosel de la selva en puentes colgantes, y descubre la increíble vida silvestre que hace del Amazonas un destino único en la vida para familias.',
+    whatToExpect: 'Fly into Puerto Maldonado where lodge staff meet you for a scenic boat journey into the reserve (1.5-3 hours depending on lodge location). Days are filled with guided activities: early morning macaw clay lick viewing, jungle hikes to spot monkeys and birds, oxbow lake excursions in search of giant otters and caimans, canopy walks on suspension bridges 30 meters above the forest floor, piranha fishing, and night walks to find tarantulas and other nocturnal creatures. Comfortable lodge accommodation with family rooms, excellent food, and expert naturalist guides make this an accessible adventure for families with children.',
+    whatToExpectEs: 'Vuela a Puerto Maldonado donde personal del lodge te recibe para un viaje escénico en bote hacia la reserva (1.5-3 horas dependiendo de ubicación del lodge). Los días están llenos de actividades guiadas: observación de collpa de guacamayos temprano en la mañana, caminatas en selva para avistar monos y aves, excursiones a lagos de herradura en busca de nutrias gigantes y caimanes, caminatas por dosel en puentes colgantes 30 metros sobre el suelo del bosque, pesca de pirañas, y caminatas nocturnas para encontrar tarántulas y otras criaturas nocturnas. Alojamiento cómodo en lodge con habitaciones familiares, excelente comida, y guías naturalistas expertos hacen de esta una aventura accesible para familias con niños.',
+    highlights: [
+      'Macaw clay lick spectacle',
+      'Giant river otter watching',
+      'Canopy walkway bridges',
+      'Night jungle walks',
+      'Piranha fishing',
+      'Monkey spotting',
+      'Caiman searching',
+      'Indigenous community visit'
+    ],
+    highlightsEs: [
+      'Espectáculo de collpa de guacamayos',
+      'Observación de nutrias gigantes de río',
+      'Puentes de pasarela de dosel',
+      'Caminatas nocturnas en selva',
+      'Pesca de pirañas',
+      'Avistamiento de monos',
+      'Búsqueda de caimanes',
+      'Visita a comunidad indígena'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-5 days',
+    durationEs: '3-5 días',
+    difficulty: 'moderate',
+    priceRange: '$300-600 per person for 3-night package (all-inclusive)',
+    priceRangeEs: '$300-600 por persona para paquete de 3 noches (todo incluido)',
+    bestTime: 'Year-round. Dry season May-October easier travel. Wet season more wildlife activity.',
+    bestTimeEs: 'Todo el año. Temporada seca mayo-octubre viaje más fácil. Temporada húmeda más actividad de vida silvestre.',
+    includes: [
+      'Airport transfers',
+      'River boat transportation',
+      'Eco-lodge accommodation',
+      'All meals',
+      'Guided excursions',
+      'Rubber boots and rain ponchos',
+      'Bilingual naturalist guides',
+      'Reserve entrance fees'
+    ],
+    includesEs: [
+      'Traslados de aeropuerto',
+      'Transporte en bote',
+      'Alojamiento en eco-lodge',
+      'Todas las comidas',
+      'Excursiones guiadas',
+      'Botas de caucho y ponchos de lluvia',
+      'Guías naturalistas bilingües',
+      'Tarifas de entrada a reserva'
+    ],
+    tips: [
+      'Book minimum 3 nights',
+      'Bring binoculars',
+      'Pack insect repellent',
+      'Long sleeves and pants protect from insects',
+      'Kids love piranha fishing',
+      'Early mornings have best wildlife',
+      'Waterproof bags for electronics',
+      'Flexible clothing layers'
+    ],
+    tipsEs: [
+      'Reserva mínimo 3 noches',
+      'Trae binoculares',
+      'Empaca repelente de insectos',
+      'Mangas largas y pantalones protegen de insectos',
+      'Niños aman pesca de pirañas',
+      'Mañanas tempranas tienen mejor vida silvestre',
+      'Bolsas impermeables para electrónicos',
+      'Capas de ropa flexible'
+    ],
+    safetyNotes: [
+      'Follow guide instructions in jungle',
+      'Stay on trails and in boats',
+      'Do not touch wildlife',
+      'Use provided rubber boots',
+      'Stay hydrated in humidity',
+      'Apply insect repellent regularly'
+    ],
+    safetyNotesEs: [
+      'Sigue instrucciones del guía en selva',
+      'Permanece en senderos y botes',
+      'No toques vida silvestre',
+      'Usa botas de caucho proporcionadas',
+      'Mantente hidratado en humedad',
+      'Aplica repelente de insectos regularmente'
+    ],
+    relatedActivities: ['amazon-river-cruise', 'jungle-survival-course'],
+    providers: [
+      { name: 'Inkaterra', familyFriendly: true },
+      { name: 'Refugio Amazonas', familyFriendly: true },
+      { name: 'Tambopata Research Center', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'marcahuasi-trek',
+    name: 'Marcahuasi Stone Forest Trekking Adventure',
+    nameEs: 'Aventura de Trekking Bosque de Piedras Marcahuasi',
+    type: 'adventure',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Trek to the mysterious Marcahuasi stone plateau, a high-altitude wilderness just 80 km from Lima featuring enigmatic rock formations that many believe were sculpted by an unknown ancient civilization. This challenging 2-3 day adventure combines Andean trekking with exploring formations like the Monument to Humanity and camping under spectacular high-altitude starry skies.',
+    descriptionEs: 'Camina a la misteriosa meseta de piedra de Marcahuasi, un páramo de alta altitud a solo 80 km de Lima con enigmáticas formaciones rocosas que muchos creen fueron esculpidas por una civilización antigua desconocida. Esta desafiante aventura de 2-3 días combina trekking andino con exploración de formaciones como el Monumento a la Humanidad y campamento bajo espectaculares cielos estrellados de alta altitud.',
+    whatToExpect: 'Depart Lima early morning for Chosica (1.5 hours), then continue by local transport to the traditional village of San Pedro de Casta (2,800m). After lunch and meeting your local guide, begin the challenging 3-4 hour ascent to the Marcahuasi plateau at 4,000 meters. Camp overnight among the mysterious stone formations, enjoying incredible star gazing in the clear high-altitude air. Spend the following day exploring famous formations including the Monument to Humanity face, the African Head, the Condor, and others scattered across the windswept plateau. Optional second night camping or return to San Pedro and Lima.',
+    whatToExpectEs: 'Sal de Lima temprano en la mañana hacia Chosica (1.5 horas), luego continúa en transporte local al tradicional pueblo de San Pedro de Casta (2,800m). Después del almuerzo y conocer a tu guía local, comienza el desafiante ascenso de 3-4 horas a la meseta de Marcahuasi a 4,000 metros. Acampa durante la noche entre las misteriosas formaciones de piedra, disfrutando increíble observación de estrellas en el claro aire de alta altitud. Pasa el día siguiente explorando famosas formaciones incluyendo el rostro del Monumento a la Humanidad, la Cabeza Africana, el Cóndor, y otros dispersos por la meseta barrida por el viento. Noche opcional de segundo campamento o regreso a San Pedro y Lima.',
+    highlights: [
+      'Monument to Humanity rock face',
+      'High altitude camping (4,000m)',
+      'Spectacular star gazing',
+      'Mysterious stone formations',
+      'Traditional Andean village',
+      'Challenging mountain trekking',
+      'Sunrise over formations',
+      'Off-the-beaten-path adventure'
+    ],
+    highlightsEs: [
+      'Rostro rocoso Monumento a la Humanidad',
+      'Campamento de alta altitud (4,000m)',
+      'Espectacular observación de estrellas',
+      'Misteriosas formaciones de piedra',
+      'Pueblo andino tradicional',
+      'Trekking de montaña desafiante',
+      'Amanecer sobre formaciones',
+      'Aventura fuera de lo común'
+    ],
+    familyRating: 2,
+    minAge: 12,
+    duration: '2-3 days',
+    durationEs: '2-3 días',
+    difficulty: 'challenging',
+    priceRange: '$150-250 per person including transport, guide, and camping equipment',
+    priceRangeEs: '$150-250 por persona incluyendo transporte, guía, y equipo de campamento',
+    bestTime: 'Dry season May-October. Full moon weekends particularly magical for night atmosphere.',
+    bestTimeEs: 'Temporada seca mayo-octubre. Fines de semana de luna llena particularmente mágicos para atmósfera nocturna.',
+    includes: [
+      'Transportation from Lima',
+      'Local community guide',
+      'Camping equipment',
+      'Meals during trek',
+      'Community entrance fees',
+      'First aid kit'
+    ],
+    includesEs: [
+      'Transporte desde Lima',
+      'Guía comunitario local',
+      'Equipo de campamento',
+      'Comidas durante trek',
+      'Tarifas de entrada comunitarias',
+      'Kit de primeros auxilios'
+    ],
+    tips: [
+      'Altitude acclimatization essential',
+      'Not for young children',
+      'Bring warm layers - freezing at night',
+      'Carry all water needed',
+      'Full moon weekends popular',
+      'Physical fitness required',
+      'Bring headlamp and extra batteries',
+      'Download offline maps'
+    ],
+    tipsEs: [
+      'Aclimatación a altitud esencial',
+      'No para niños pequeños',
+      'Trae capas abrigadas - congelante de noche',
+      'Lleva toda el agua necesaria',
+      'Fines de semana de luna llena populares',
+      'Se requiere condición física',
+      'Trae linterna frontal y baterías extra',
+      'Descarga mapas offline'
+    ],
+    safetyNotes: [
+      'High altitude (4,000m) - acclimatize first',
+      'Temperatures drop below freezing at night',
+      'No facilities on plateau',
+      'Carry all supplies needed',
+      'Weather can change rapidly',
+      'Not recommended for altitude-sensitive individuals'
+    ],
+    safetyNotesEs: [
+      'Alta altitud (4,000m) - aclimátate primero',
+      'Temperaturas bajan bajo cero de noche',
+      'Sin instalaciones en meseta',
+      'Lleva todos los suministros necesarios',
+      'Clima puede cambiar rápidamente',
+      'No recomendado para individuos sensibles a altitud'
+    ],
+    relatedActivities: ['cordillera-blanca-trek', 'rainbow-mountain-hike'],
+    providers: [
+      { name: 'Marcahuasi Peru', familyFriendly: false },
+      { name: 'Peru Adventure Tours', familyFriendly: false },
+      { name: 'Lima Trekking', familyFriendly: false }
+    ]
+  },
+  {
+    slug: 'nazca-cantalloc-aqueducts',
+    name: 'Cantalloc Aqueducts Underground Exploration',
+    nameEs: 'Exploración Subterránea Acueductos de Cantalloc',
+    type: 'educational',
+    city: 'nazca',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Explore the remarkable Cantalloc Aqueducts, an ingenious underground water system built by the Nazca civilization over 1,500 years ago that continues to function today. These sophisticated puquios with their distinctive spiral stone entrances demonstrate ancient engineering genius and offer families an educational adventure walking into ancient underground tunnels.',
+    descriptionEs: 'Explora los notables Acueductos de Cantalloc, un ingenioso sistema de agua subterráneo construido por la civilización Nazca hace más de 1,500 años que continúa funcionando hoy. Estos sofisticados puquios con sus distintivas entradas de piedra en espiral demuestran el genio de ingeniería antigua y ofrecen a familias una aventura educativa caminando en túneles subterráneos antiguos.',
+    whatToExpect: 'Visit the Cantalloc Aqueduct system located just 4 km from Nazca town center. Your guide explains how the Nazca solved the challenge of desert agriculture by creating underground channels that tap into the subterranean water table. Walk down the distinctive spiral stone entrances (called ojos or eyes) that provided ancient Nazca people access for maintenance. Inside the tunnels you can see the carefully constructed stone-lined channels that still carry water after 1,500 years. The visit includes multiple puquio entrances and explanations of Nazca hydraulic engineering, agriculture, and how these systems continue to irrigate local farms today.',
+    whatToExpectEs: 'Visita el sistema de Acueductos de Cantalloc ubicado a solo 4 km del centro de Nazca. Tu guía explica cómo los Nazca resolvieron el desafío de agricultura en desierto creando canales subterráneos que aprovechan la capa freática subterránea. Desciende por las distintivas entradas de piedra en espiral (llamadas ojos) que proporcionaban acceso a los antiguos Nazca para mantenimiento. Dentro de los túneles puedes ver los canales cuidadosamente construidos con revestimiento de piedra que aún llevan agua después de 1,500 años. La visita incluye múltiples entradas de puquio y explicaciones de ingeniería hidráulica Nazca, agricultura, y cómo estos sistemas continúan irrigando granjas locales hoy.',
+    highlights: [
+      'Walk inside ancient aqueducts',
+      'Spiral stone entrance designs',
+      'Functioning 1,500-year-old system',
+      'Underground tunnel exploration',
+      'Nazca hydraulic engineering',
+      'Desert agriculture solutions',
+      'Photo opportunities',
+      'STEM learning experience'
+    ],
+    highlightsEs: [
+      'Camina dentro de acueductos antiguos',
+      'Diseños de entrada en espiral de piedra',
+      'Sistema de 1,500 años funcionando',
+      'Exploración de túnel subterráneo',
+      'Ingeniería hidráulica Nazca',
+      'Soluciones de agricultura de desierto',
+      'Oportunidades de fotos',
+      'Experiencia de aprendizaje STEM'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    priceRange: '$20-40 per person including guide. Entrance S/5.',
+    priceRangeEs: '$20-40 por persona incluyendo guía. Entrada S/5.',
+    bestTime: 'Year-round. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Visitas matutinas evitan calor de tarde.',
+    includes: [
+      'Professional guide',
+      'Site entrance fee',
+      'Engineering explanations',
+      'Access to multiple puquios',
+      'Historical context'
+    ],
+    includesEs: [
+      'Guía profesional',
+      'Tarifa de entrada al sitio',
+      'Explicaciones de ingeniería',
+      'Acceso a múltiples puquios',
+      'Contexto histórico'
+    ],
+    tips: [
+      'Combine with Nazca Lines flight',
+      'Great STEM learning for kids',
+      'Wear closed-toe shoes for tunnels',
+      'Early morning cooler',
+      'Easy walk from Nazca town',
+      'Photography allowed',
+      'Bring water - no facilities',
+      'Kid-friendly educational site'
+    ],
+    tipsEs: [
+      'Combina con vuelo de Líneas de Nazca',
+      'Gran aprendizaje STEM para niños',
+      'Usa zapatos cerrados para túneles',
+      'Mañana temprana más fresca',
+      'Caminata fácil desde pueblo de Nazca',
+      'Fotografía permitida',
+      'Trae agua - sin instalaciones',
+      'Sitio educativo apto para niños'
+    ],
+    safetyNotes: [
+      'Watch footing on stone steps',
+      'Tunnels can be slippery',
+      'Stay on marked paths',
+      'Sun protection needed outside',
+      'Carry water',
+      'Hold children hands in tunnels'
+    ],
+    safetyNotesEs: [
+      'Cuida tu paso en escalones de piedra',
+      'Túneles pueden ser resbaladizos',
+      'Permanece en senderos marcados',
+      'Se necesita protección solar afuera',
+      'Lleva agua',
+      'Toma la mano de niños en túneles'
+    ],
+    relatedActivities: ['nazca-lines-flight', 'nazca-cemetery-aqueducts-tour'],
+    providers: [
+      { name: 'Nazca Tours', familyFriendly: true },
+      { name: 'Mystery Peru', familyFriendly: true },
+      { name: 'Kuoda Travel', familyFriendly: true }
+    ]
   }
 ];
 
