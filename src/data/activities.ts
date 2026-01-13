@@ -18029,6 +18029,402 @@ export const activities: Activity[] = [
       { name: 'Baños del Inca Complex', familyFriendly: true },
       { name: 'Cajamarca Day Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'lima-historic-center-tour',
+    name: 'Lima Historic Center Colonial Walking Tour',
+    nameEs: 'Tour a Pie Colonial del Centro Histórico de Lima',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Walk through centuries of history in Lima UNESCO World Heritage-designated Historic Center, exploring the magnificent Plaza Mayor, colonial churches, and the famous catacombs of San Francisco Monastery. This engaging tour brings Lima rich colonial heritage to life, making it accessible and entertaining for families with children.',
+    descriptionEs: 'Camina a través de siglos de historia en el Centro Histórico de Lima designado Patrimonio Mundial por UNESCO, explorando la magnífica Plaza Mayor, iglesias coloniales, y las famosas catacumbas del Monasterio de San Francisco. Este tour cautivador trae a la vida la rica herencia colonial de Lima, haciéndola accesible y entretenida para familias con niños.',
+    whatToExpect: 'Meet your guide at the impressive Plaza Mayor, where Lima was founded by Francisco Pizarro in 1535. Watch the changing of the guard ceremony at the Presidential Palace if timing permits. Visit the magnificent Cathedral, where Pizarro remains are housed in an ornate chapel. Explore the Archbishop Palace with its beautiful Moorish wooden balconies. The highlight for most children is the San Francisco Monastery with its underground catacombs containing the bones of an estimated 25,000 people arranged in geometric patterns. Walk along colonial streets admiring ornate balconies and enter smaller churches with stunning Baroque interiors.',
+    whatToExpectEs: 'Reúnete con tu guía en la impresionante Plaza Mayor, donde Lima fue fundada por Francisco Pizarro en 1535. Mira la ceremonia de cambio de guardia en el Palacio Presidencial si el horario lo permite. Visita la magnífica Catedral, donde los restos de Pizarro están alojados en una capilla ornamentada. Explora el Palacio del Arzobispo con sus hermosos balcones de madera moriscos. El punto culminante para la mayoría de niños es el Monasterio de San Francisco con sus catacumbas subterráneas conteniendo los huesos de aproximadamente 25,000 personas arreglados en patrones geométricos. Camina por calles coloniales admirando balcones ornamentados y entra a iglesias más pequeñas con impresionantes interiores barrocos.',
+    highlights: [
+      'Plaza Mayor guided tour',
+      'Lima Cathedral visit',
+      'San Francisco catacombs',
+      'Presidential Palace exterior',
+      'Historic wooden balconies',
+      'Colonial church interiors',
+      'Changing of the guard',
+      'Expert historical commentary'
+    ],
+    highlightsEs: [
+      'Tour guiado de Plaza Mayor',
+      'Visita a Catedral de Lima',
+      'Catacumbas de San Francisco',
+      'Exterior del Palacio Presidencial',
+      'Balcones históricos de madera',
+      'Interiores de iglesias coloniales',
+      'Cambio de guardia',
+      'Comentario histórico experto'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person including guide and entrance fees',
+    priceRangeEs: '$25-50 por persona incluyendo guía y entradas',
+    bestTime: 'Year-round. Morning for changing of guard (usually noon). Weekdays for fewer crowds.',
+    bestTimeEs: 'Todo el año. Mañana para cambio de guardia (usualmente mediodía). Días de semana para menos multitudes.',
+    includes: [
+      'Professional bilingual guide',
+      'Cathedral entrance',
+      'San Francisco Monastery and catacombs',
+      'Historical commentary',
+      'Walking tour of main sites'
+    ],
+    includesEs: [
+      'Guía profesional bilingüe',
+      'Entrada a Catedral',
+      'Monasterio de San Francisco y catacumbas',
+      'Comentario histórico',
+      'Tour a pie de sitios principales'
+    ],
+    tips: [
+      'Catacombs fascinating but not for claustrophobic',
+      'Changing of guard at noon most days',
+      'Dress modestly for church visits',
+      'Watch for traffic when crossing streets',
+      'Keep valuables secure',
+      'Free walking tours also available',
+      'Chinatown nearby for lunch',
+      'Morning tours beat afternoon heat'
+    ],
+    tipsEs: [
+      'Catacumbas fascinantes pero no para claustrofóbicos',
+      'Cambio de guardia al mediodía mayoría de días',
+      'Vístete modestamente para visitas a iglesias',
+      'Cuidado con tráfico al cruzar calles',
+      'Mantén objetos de valor seguros',
+      'Tours a pie gratis también disponibles',
+      'Barrio Chino cerca para almuerzo',
+      'Tours de mañana evitan calor de tarde'
+    ],
+    safetyNotes: [
+      'Tourist police present in area',
+      'Stay aware of surroundings',
+      'Keep valuables secure',
+      'Use official tour guides',
+      'Watch children in crowds',
+      'Catacombs have narrow passages'
+    ],
+    safetyNotesEs: [
+      'Policía turística presente en el área',
+      'Mantente alerta de alrededores',
+      'Mantén objetos de valor seguros',
+      'Usa guías turísticos oficiales',
+      'Vigila niños en multitudes',
+      'Catacumbas tienen pasajes estrechos'
+    ],
+    relatedActivities: ['lima-food-tour', 'miraflores-family-experience', 'barranco-art-tour'],
+    providers: [
+      { name: 'Lima Walking Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Lima', familyFriendly: true },
+      { name: 'Peru Hop', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'miraflores-family-experience',
+    name: 'Miraflores Malecón & Kennedy Park Family Experience',
+    nameEs: 'Experiencia Familiar del Malecón de Miraflores y Parque Kennedy',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Explore Lima most family-friendly district on this relaxed afternoon and evening experience combining oceanfront walks along the malecón, visits to Kennedy Park with its famous resident cats, optional paragliding viewing, and time to discover why Miraflores is consistently rated as one of the safest and most enjoyable neighborhoods in Latin America.',
+    descriptionEs: 'Explora el distrito más apto para familias de Lima en esta relajada experiencia de tarde y noche combinando caminatas frente al mar por el malecón, visitas al Parque Kennedy con sus famosos gatos residentes, observación opcional de parapentes, y tiempo para descubrir por qué Miraflores es consistentemente calificado como uno de los barrios más seguros y agradables de Latinoamérica.',
+    whatToExpect: 'Begin at the beautiful Parque del Amor (Love Park) with its famous sculpture and mosaic benches made from recycled tiles. Walk along the malecón boardwalk enjoying Pacific Ocean views and watching paragliders launch from the cliffs (optional tandem flights available). Continue to Kennedy Park where dozens of resident cats roam freely - children love feeding and petting them. Explore the artisan market around the park and watch street performers that gather in the evening. Optional stops include Huaca Pucllana (illuminated at night) and Larcomar clifftop shopping center. End with dinner recommendations at kid-friendly restaurants.',
+    whatToExpectEs: 'Comienza en el hermoso Parque del Amor con su famosa escultura y bancas de mosaico hechas de azulejos reciclados. Camina por el paseo del malecón disfrutando vistas del Océano Pacífico y observando parapentistas lanzarse desde los acantilados (vuelos en tándem opcionales disponibles). Continúa al Parque Kennedy donde docenas de gatos residentes deambulan libremente - niños aman alimentarlos y acariciarlos. Explora el mercado artesanal alrededor del parque y observa artistas callejeros que se reúnen en la noche. Paradas opcionales incluyen Huaca Pucllana (iluminada de noche) y centro comercial Larcomar en el acantilado. Termina con recomendaciones de cena en restaurantes aptos para niños.',
+    highlights: [
+      'Malecón oceanfront walk',
+      'Kennedy Park cat colony',
+      'Parque del Amor viewpoint',
+      'Watch paragliders launch',
+      'Artisan market browsing',
+      'Street performers',
+      'Safe evening exploration',
+      'Restaurant recommendations'
+    ],
+    highlightsEs: [
+      'Caminata frente al mar por malecón',
+      'Colonia de gatos del Parque Kennedy',
+      'Mirador del Parque del Amor',
+      'Observa lanzamiento de parapentes',
+      'Exploración de mercado artesanal',
+      'Artistas callejeros',
+      'Exploración nocturna segura',
+      'Recomendaciones de restaurantes'
+    ],
+    familyRating: 5,
+    minAge: 0,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: 'Free to explore independently. Guided tours $15-30 per person.',
+    priceRangeEs: 'Gratis para explorar independientemente. Tours guiados $15-30 por persona.',
+    bestTime: 'Year-round. Late afternoon through evening for best atmosphere. December-April for warmest weather.',
+    bestTimeEs: 'Todo el año. Tarde a noche para mejor atmósfera. Diciembre-abril para clima más cálido.',
+    includes: [
+      'Guided walk (if booking tour)',
+      'Park and malecón access free',
+      'Cat feeding optional',
+      'Photo opportunities',
+      'Local recommendations'
+    ],
+    includesEs: [
+      'Caminata guiada (si reservas tour)',
+      'Acceso a parque y malecón gratis',
+      'Alimentación de gatos opcional',
+      'Oportunidades de fotos',
+      'Recomendaciones locales'
+    ],
+    tips: [
+      'Kids love the Kennedy Park cats',
+      'Sunset at malecón is magical',
+      'Rent bikes along boardwalk',
+      'Safe for evening strolls',
+      'Many excellent kid-friendly restaurants',
+      'Paragliding tandem available for teens',
+      'Larcomar has ocean view dining',
+      'Bring light jacket for coastal breeze'
+    ],
+    tipsEs: [
+      'Niños aman los gatos del Parque Kennedy',
+      'Atardecer en malecón es mágico',
+      'Alquila bicicletas en el paseo',
+      'Seguro para paseos nocturnos',
+      'Muchos excelentes restaurantes aptos para niños',
+      'Parapente en tándem disponible para adolescentes',
+      'Larcomar tiene comida con vista al mar',
+      'Trae chaqueta ligera para brisa costera'
+    ],
+    safetyNotes: [
+      'Very safe district for families',
+      'Well-lit paths at night',
+      'Tourist police presence',
+      'Watch children near cliff edges',
+      'Normal urban awareness applies',
+      'Cats are friendly but still animals'
+    ],
+    safetyNotesEs: [
+      'Distrito muy seguro para familias',
+      'Senderos bien iluminados de noche',
+      'Presencia de policía turística',
+      'Vigila niños cerca de bordes de acantilado',
+      'Conciencia urbana normal aplica',
+      'Gatos son amigables pero aún son animales'
+    ],
+    relatedActivities: ['lima-historic-center-tour', 'barranco-art-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Self-guided exploration', familyFriendly: true },
+      { name: 'Lima Walking Tours', familyFriendly: true },
+      { name: 'Urban Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'barranco-art-tour',
+    name: 'Barranco Street Art & Bohemian Culture Tour',
+    nameEs: 'Tour de Arte Callejero y Cultura Bohemia de Barranco',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Discover Lima most artistic neighborhood on this colorful walking tour through Barranco, where colonial architecture meets vibrant street art, and romantic legends meet contemporary culture. Cross the famous Bridge of Sighs, explore gallery-lined streets, and experience the bohemian charm that has attracted artists and writers for over a century.',
+    descriptionEs: 'Descubre el barrio más artístico de Lima en este colorido tour a pie por Barranco, donde la arquitectura colonial se encuentra con vibrante arte callejero, y leyendas románticas se encuentran con cultura contemporánea. Cruza el famoso Puente de los Suspiros, explora calles llenas de galerías, y experimenta el encanto bohemio que ha atraído artistas y escritores por más de un siglo.',
+    whatToExpect: 'Begin at the Barranco main plaza and descend through colorful streets photographing vibrant murals by local and international street artists. Learn about the works and their meanings from your guide. Cross the legendary Bridge of Sighs - tradition says to hold your breath and make a wish! Continue down the Bajada de los Baños to the oceanfront. Visit the MATE photography museum (optional) housed in a beautifully restored mansion. Explore artisan workshops and craft shops. The tour concludes near cafes perfect for trying picarones (Peruvian donuts) or suspiro limeño (traditional dessert). Evening tours include the neighborhood atmospheric lighting.',
+    whatToExpectEs: 'Comienza en la plaza principal de Barranco y desciende por calles coloridas fotografiando vibrantes murales de artistas callejeros locales e internacionales. Aprende sobre las obras y sus significados de tu guía. Cruza el legendario Puente de los Suspiros - ¡la tradición dice aguantar la respiración y pedir un deseo! Continúa por la Bajada de los Baños hasta el frente al mar. Visita el museo de fotografía MATE (opcional) alojado en una mansión bellamente restaurada. Explora talleres artesanales y tiendas de artesanías. El tour concluye cerca de cafés perfectos para probar picarones o suspiro limeño. Tours nocturnos incluyen la iluminación atmosférica del barrio.',
+    highlights: [
+      'Vibrant street art murals',
+      'Bridge of Sighs crossing',
+      'MATE photography museum',
+      'Artisan craft workshops',
+      'Colonial architecture',
+      'Bajada de los Baños walkway',
+      'Traditional dessert tastings',
+      'Ocean cliff views'
+    ],
+    highlightsEs: [
+      'Vibrantes murales de arte callejero',
+      'Cruce del Puente de los Suspiros',
+      'Museo de fotografía MATE',
+      'Talleres de artesanías',
+      'Arquitectura colonial',
+      'Pasarela Bajada de los Baños',
+      'Degustaciones de postres tradicionales',
+      'Vistas de acantilados al mar'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: 'Free to explore independently. Guided tours $15-30 per person. MATE S/20.',
+    priceRangeEs: 'Gratis para explorar independientemente. Tours guiados $15-30 por persona. MATE S/20.',
+    bestTime: 'Year-round. Late afternoon for best light on murals. Evening for atmospheric lighting.',
+    bestTimeEs: 'Todo el año. Tarde para mejor luz en murales. Noche para iluminación atmosférica.',
+    includes: [
+      'Guided street art tour',
+      'Bridge of Sighs visit',
+      'Mural explanations',
+      'Photo opportunities',
+      'Local recommendations',
+      'MATE museum optional'
+    ],
+    includesEs: [
+      'Tour guiado de arte callejero',
+      'Visita al Puente de los Suspiros',
+      'Explicaciones de murales',
+      'Oportunidades de fotos',
+      'Recomendaciones locales',
+      'Museo MATE opcional'
+    ],
+    tips: [
+      'Walk from Miraflores along malecón',
+      'Hold breath crossing bridge for wish',
+      'Try picarones at local stands',
+      'Best ice cream at Barranco',
+      'Evening has magical atmosphere',
+      'Kids love street performers',
+      'Safe for family evening strolls',
+      'Combine with Miraflores visit'
+    ],
+    tipsEs: [
+      'Camina desde Miraflores por el malecón',
+      'Aguanta respiración cruzando puente para deseo',
+      'Prueba picarones en puestos locales',
+      'Mejor helado en Barranco',
+      'Noche tiene atmósfera mágica',
+      'Niños aman artistas callejeros',
+      'Seguro para paseos familiares nocturnos',
+      'Combina con visita a Miraflores'
+    ],
+    safetyNotes: [
+      'Safe bohemian district',
+      'Well-lit main streets',
+      'Stay in main tourist areas',
+      'Watch for uneven cobblestones',
+      'Normal awareness in side streets',
+      'Keep camera secure'
+    ],
+    safetyNotesEs: [
+      'Distrito bohemio seguro',
+      'Calles principales bien iluminadas',
+      'Permanece en áreas turísticas principales',
+      'Cuidado con adoquines irregulares',
+      'Conciencia normal en calles secundarias',
+      'Mantén cámara segura'
+    ],
+    relatedActivities: ['miraflores-family-experience', 'lima-historic-center-tour', 'lima-food-tour'],
+    providers: [
+      { name: 'Lima Street Art Tours', familyFriendly: true },
+      { name: 'Free Walking Tour Lima', familyFriendly: true },
+      { name: 'Urban Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'lima-food-tour',
+    name: 'Lima Family Food Tour Experience',
+    nameEs: 'Experiencia de Tour Gastronómico Familiar en Lima',
+    type: 'culinary',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Discover why Lima is considered the gastronomic capital of South America on this family-friendly food tour featuring Peruvian specialties that appeal to adventurous young palates. Sample classic ceviche, savory anticuchos, sweet churros, and tropical fruits while learning about Peru diverse culinary traditions and food culture.',
+    descriptionEs: 'Descubre por qué Lima es considerada la capital gastronómica de Sudamérica en este tour gastronómico apto para familias presentando especialidades peruanas que atraen a paladares jóvenes aventureros. Prueba ceviche clásico, sabrosos anticuchos, dulces churros, y frutas tropicales mientras aprendes sobre las diversas tradiciones culinarias y cultura gastronómica del Perú.',
+    whatToExpect: 'Join your food-loving guide in Miraflores for a culinary adventure through markets, restaurants, and street food stalls. Start with fresh tropical fruits at a local market - many kids discover new favorites like lucuma and chirimoya. Visit a cevichería for Peru national dish, with mild versions available for children. Sample anticuchos (marinated beef heart skewers - surprisingly kid-friendly!) at a local haunt. Learn to identify Peru incredible variety of potatoes and corn. Sweet stops include traditional churros, picarones (pumpkin donuts with fig syrup), and creamy suspiro limeño. Tours accommodate dietary restrictions and nervous eaters.',
+    whatToExpectEs: 'Únete a tu guía amante de la comida en Miraflores para una aventura culinaria por mercados, restaurantes, y puestos de comida callejera. Comienza con frutas tropicales frescas en un mercado local - muchos niños descubren nuevos favoritos como lucuma y chirimoya. Visita una cevichería para el plato nacional del Perú, con versiones suaves disponibles para niños. Prueba anticuchos (brochetas de corazón de res marinado - ¡sorprendentemente aptos para niños!) en un local tradicional. Aprende a identificar la increíble variedad de papas y maíz del Perú. Paradas dulces incluyen churros tradicionales, picarones (donas de calabaza con miel de higos), y cremoso suspiro limeño. Los tours acomodan restricciones dietéticas y comensales nerviosos.',
+    highlights: [
+      'Classic Peruvian ceviche',
+      'Tropical fruit tasting',
+      'Street food sampling',
+      'Traditional desserts',
+      'Local market visit',
+      'Culinary history lessons',
+      'Kid-friendly options',
+      'Multiple neighborhood stops'
+    ],
+    highlightsEs: [
+      'Ceviche peruano clásico',
+      'Degustación de frutas tropicales',
+      'Muestreo de comida callejera',
+      'Postres tradicionales',
+      'Visita a mercado local',
+      'Lecciones de historia culinaria',
+      'Opciones aptas para niños',
+      'Múltiples paradas en barrios'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '3-4 hours',
+    durationEs: '3-4 horas',
+    difficulty: 'easy',
+    priceRange: '$60-100 per person including all food tastings',
+    priceRangeEs: '$60-100 por persona incluyendo todas las degustaciones de comida',
+    bestTime: 'Year-round. Lunch tours (11am-2pm) for freshest ceviche. Evening tours for street food atmosphere.',
+    bestTimeEs: 'Todo el año. Tours de almuerzo (11am-2pm) para ceviche más fresco. Tours nocturnos para atmósfera de comida callejera.',
+    includes: [
+      'Professional food guide',
+      'All food tastings (6-10 stops)',
+      'Non-alcoholic beverages',
+      'Market entrance',
+      'Culinary explanations',
+      'Walking tour of food districts'
+    ],
+    includesEs: [
+      'Guía gastronómico profesional',
+      'Todas las degustaciones de comida (6-10 paradas)',
+      'Bebidas sin alcohol',
+      'Entrada al mercado',
+      'Explicaciones culinarias',
+      'Tour a pie de distritos gastronómicos'
+    ],
+    tips: [
+      'Come hungry - lots of food!',
+      'Kids can try mild ceviche',
+      'Vegetarian options available',
+      'Inform guide of allergies',
+      'Anticuchos often surprise kids positively',
+      'Fruit tastings are highlight for children',
+      'Tours adapt to picky eaters',
+      'Great first-day-in-Lima activity'
+    ],
+    tipsEs: [
+      '¡Ven con hambre - mucha comida!',
+      'Niños pueden probar ceviche suave',
+      'Opciones vegetarianas disponibles',
+      'Informa al guía de alergias',
+      'Anticuchos a menudo sorprenden positivamente a niños',
+      'Degustaciones de frutas son punto culminante para niños',
+      'Tours se adaptan a comensales exigentes',
+      'Gran actividad para primer día en Lima'
+    ],
+    safetyNotes: [
+      'All food from vetted establishments',
+      'Guides know safe street vendors',
+      'Allergies accommodated with notice',
+      'Walking in safe neighborhoods',
+      'Inform guide of any restrictions',
+      'Stay hydrated between tastings'
+    ],
+    safetyNotesEs: [
+      'Toda comida de establecimientos verificados',
+      'Guías conocen vendedores callejeros seguros',
+      'Alergias acomodadas con aviso previo',
+      'Caminata en barrios seguros',
+      'Informa al guía de cualquier restricción',
+      'Mantente hidratado entre degustaciones'
+    ],
+    relatedActivities: ['lima-historic-center-tour', 'miraflores-family-experience', 'barranco-art-tour'],
+    providers: [
+      { name: 'Lima Gourmet Company', familyFriendly: true },
+      { name: 'Urban Adventures', familyFriendly: true },
+      { name: 'Exquisito Peru', familyFriendly: true }
+    ]
   }
 ];
 
