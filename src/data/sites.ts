@@ -6914,6 +6914,298 @@ export const sites: Site[] = [
       'Trae todos los suministros',
       'Purificación de agua necesaria'
     ]
+  },
+  {
+    slug: 'manu-biosphere-reserve',
+    name: 'Manu Biosphere Reserve',
+    nameEs: 'Reserva de Biosfera del Manu',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Cusco/Madre de Dios',
+    regionEs: 'Cusco/Madre de Dios',
+    altitude: 300,
+    description: 'One of Earth\'s most biodiverse places, Manu encompasses Andean cloud forest down to Amazon lowlands. This UNESCO Biosphere Reserve protects over 1,000 bird species, 200 mammal species, and countless plants in pristine wilderness.',
+    descriptionEs: 'Uno de los lugares con mayor biodiversidad de la Tierra, Manu abarca desde el bosque nublado andino hasta las tierras bajas amazónicas. Esta Reserva de Biosfera UNESCO protege más de 1,000 especies de aves, 200 especies de mamíferos e incontables plantas en naturaleza prístina.',
+    history: 'Manu was established as a national park in 1973 and designated a UNESCO Biosphere Reserve in 1977. The area has been home to indigenous groups for thousands of years, some of whom remain uncontacted. Its remote location and protected status have preserved ecosystems virtually untouched by modern development.',
+    historyEs: 'Manu fue establecido como parque nacional en 1973 y designado Reserva de Biosfera UNESCO en 1977. El área ha sido hogar de grupos indígenas por miles de años, algunos de los cuales permanecen sin contacto. Su ubicación remota y estado protegido han preservado ecosistemas prácticamente intactos por el desarrollo moderno.',
+    highlights: [
+      'World record biodiversity',
+      'Giant river otters at oxbow lakes',
+      'Macaw clay licks',
+      'Cloud forest to jungle transition',
+      'Pristine wilderness experience'
+    ],
+    highlightsEs: [
+      'Récord mundial de biodiversidad',
+      'Nutrias gigantes de río en cochas',
+      'Collpas de guacamayos',
+      'Transición de bosque nublado a selva',
+      'Experiencia de naturaleza prístina'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '4-8 days recommended',
+    durationEs: '4-8 días recomendados',
+    difficulty: 'moderate',
+    entranceFee: 'Included in tour packages ($800-2000)',
+    entranceFeeEs: 'Incluido en paquetes turísticos ($800-2000)',
+    bestTime: 'Dry season May-October. Wildlife visible year-round.',
+    bestTimeEs: 'Temporada seca Mayo-Octubre. Vida silvestre visible todo el año.',
+    tips: [
+      'Book months in advance - permits limited',
+      'Multi-day trips essential for wildlife',
+      'Bring binoculars and camera with zoom',
+      'Rubber boots provided at lodges',
+      'Prepare for basic accommodations',
+      'Vaccinations recommended'
+    ],
+    tipsEs: [
+      'Reserva con meses de anticipación - permisos limitados',
+      'Viajes de varios días esenciales para vida silvestre',
+      'Lleva binoculares y cámara con zoom',
+      'Botas de goma proporcionadas en lodges',
+      'Prepárate para alojamiento básico',
+      'Vacunas recomendadas'
+    ],
+    nearbyAttractions: ['tres-cruces', 'cloud-forest', 'cusco'],
+    relatedSites: ['tambopata-reserve', 'lake-sandoval', 'pacaya-samiria'],
+    gettingThere: 'Fly Cusco to Boca Manu or overland through cloud forest (spectacular but long). All visits via authorized operators.',
+    gettingThereEs: 'Vuela de Cusco a Boca Manu o por tierra a través del bosque nublado (espectacular pero largo). Todas las visitas vía operadores autorizados.',
+    facilities: [
+      'Rustic jungle lodges',
+      'Camping platforms',
+      'Basic dining facilities',
+      'Expert naturalist guides',
+      'Canoe transportation',
+      'Limited electricity'
+    ],
+    facilitiesEs: [
+      'Lodges rústicos de selva',
+      'Plataformas de camping',
+      'Instalaciones de comedor básicas',
+      'Guías naturalistas expertos',
+      'Transporte en canoa',
+      'Electricidad limitada'
+    ]
+  },
+  {
+    slug: 'sillustani',
+    name: 'Sillustani Funerary Towers',
+    nameEs: 'Torres Funerarias de Sillustani',
+    type: 'archaeological',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    altitude: 3880,
+    description: 'Mysterious tower tombs called chullpas rise against the stunning backdrop of Lake Umayo. Built by the Colla people and later the Incas, these cylindrical burial towers hold the remains of nobility and offer breathtaking altiplano scenery.',
+    descriptionEs: 'Misteriosas torres funerarias llamadas chullpas se elevan contra el impresionante telón de fondo del Lago Umayo. Construidas por el pueblo Colla y luego los Incas, estas torres funerarias cilíndricas guardan los restos de la nobleza y ofrecen paisajes altiplánicos impresionantes.',
+    history: 'Sillustani was a sacred burial ground for Colla lords before Inca conquest around 1450. The Incas continued the tradition, adding their own distinctive stonework. The chullpas were designed to face east toward the rising sun, reflecting beliefs about rebirth. Spanish conquest halted construction, leaving some towers unfinished.',
+    historyEs: 'Sillustani fue un cementerio sagrado para señores Colla antes de la conquista Inca alrededor de 1450. Los Incas continuaron la tradición, añadiendo su distintiva mampostería. Las chullpas fueron diseñadas mirando al este hacia el sol naciente, reflejando creencias sobre el renacimiento. La conquista española detuvo la construcción, dejando algunas torres sin terminar.',
+    highlights: [
+      'Impressive chullpa towers up to 12m tall',
+      'Lake Umayo peninsula setting',
+      'Pre-Inca and Inca stonework',
+      'Stunning altiplano landscapes',
+      'Resident vicuñas and birds'
+    ],
+    highlightsEs: [
+      'Impresionantes torres chullpa de hasta 12m de altura',
+      'Ubicación en península del Lago Umayo',
+      'Mampostería pre-Inca e Inca',
+      'Impresionantes paisajes del altiplano',
+      'Vicuñas y aves residentes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    entranceFee: '15 soles adults, 5 soles children',
+    entranceFeeEs: '15 soles adultos, 5 soles niños',
+    bestTime: 'Year-round. Afternoons have best light for photos.',
+    bestTimeEs: 'Todo el año. Las tardes tienen mejor luz para fotos.',
+    tips: [
+      'Combine with Puno/Lake Titicaca visit',
+      'Altitude affects some visitors',
+      'Bring warm layers - winds cold',
+      'Sunset visits spectacular',
+      'Local guides explain symbolism',
+      'Look for lizards on warm stones'
+    ],
+    tipsEs: [
+      'Combina con visita a Puno/Lago Titicaca',
+      'La altitud afecta a algunos visitantes',
+      'Lleva capas abrigadas - vientos fríos',
+      'Visitas al atardecer espectaculares',
+      'Guías locales explican el simbolismo',
+      'Busca lagartijas en piedras cálidas'
+    ],
+    nearbyAttractions: ['lake-titicaca', 'puno', 'uros-islands'],
+    relatedSites: ['lake-titicaca', 'taquile-island', 'cutimbo'],
+    gettingThere: '35km northwest of Puno, 45 minutes by car. Tours available from Puno.',
+    gettingThereEs: '35km al noroeste de Puno, 45 minutos en auto. Tours disponibles desde Puno.',
+    facilities: [
+      'Ticket office and entrance',
+      'Basic restrooms',
+      'Small museum/interpretation center',
+      'Parking area',
+      'Local artisan vendors',
+      'No food services on site'
+    ],
+    facilitiesEs: [
+      'Boletería y entrada',
+      'Baños básicos',
+      'Pequeño museo/centro de interpretación',
+      'Área de estacionamiento',
+      'Vendedores artesanos locales',
+      'Sin servicios de comida en el sitio'
+    ]
+  },
+  {
+    slug: 'huaca-pucllana',
+    name: 'Huaca Pucllana',
+    nameEs: 'Huaca Pucllana',
+    type: 'archaeological',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 120,
+    description: 'A massive adobe pyramid rises unexpectedly in the heart of Lima\'s upscale Miraflores district. This Lima Culture ceremonial center dates to 500 AD and offers fascinating night tours illuminated dramatically against the city skyline.',
+    descriptionEs: 'Una enorme pirámide de adobe se eleva inesperadamente en el corazón del exclusivo distrito de Miraflores en Lima. Este centro ceremonial de la Cultura Lima data del 500 d.C. y ofrece fascinantes tours nocturnos iluminados dramáticamente contra el horizonte de la ciudad.',
+    history: 'Built by the Lima Culture between 200-700 AD, Huaca Pucllana served as an important ceremonial and administrative center. The complex was later used by the Wari culture around 800 AD. Remarkably preserved despite urban development, it was excavated starting in 1981 and continues to reveal discoveries including mummies and offerings.',
+    historyEs: 'Construida por la Cultura Lima entre 200-700 d.C., Huaca Pucllana sirvió como importante centro ceremonial y administrativo. El complejo fue luego utilizado por la cultura Wari alrededor del 800 d.C. Notablemente preservada a pesar del desarrollo urbano, fue excavada comenzando en 1981 y continúa revelando descubrimientos incluyendo momias y ofrendas.',
+    highlights: [
+      'Unique urban archaeology experience',
+      'Dramatic night illumination tours',
+      'Active archaeological excavations',
+      'On-site museum with artifacts',
+      'Award-winning restaurant adjacent'
+    ],
+    highlightsEs: [
+      'Experiencia única de arqueología urbana',
+      'Tours nocturnos con iluminación dramática',
+      'Excavaciones arqueológicas activas',
+      'Museo en sitio con artefactos',
+      'Restaurante premiado adyacente'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: '15 soles adults, 7.50 soles children',
+    entranceFeeEs: '15 soles adultos, 7.50 soles niños',
+    bestTime: 'Night tours (7-10pm) most impressive. Day visits also available.',
+    bestTimeEs: 'Tours nocturnos (7-10pm) más impresionantes. Visitas diurnas también disponibles.',
+    tips: [
+      'Night tours essential experience',
+      'Book dinner at restaurant for full evening',
+      'Guided tours only - no self-guided',
+      'Great for first night in Lima',
+      'Cats roam the grounds freely',
+      'Photography allowed without flash'
+    ],
+    tipsEs: [
+      'Tours nocturnos son experiencia esencial',
+      'Reserva cena en restaurante para noche completa',
+      'Solo tours guiados - no autoguiados',
+      'Excelente para primera noche en Lima',
+      'Gatos deambulan libremente por los terrenos',
+      'Fotografía permitida sin flash'
+    ],
+    nearbyAttractions: ['miraflores', 'larcomar', 'malecon'],
+    relatedSites: ['pachacamac', 'museo-larco', 'huaca-huallamarca'],
+    gettingThere: 'Located in Miraflores district, walkable from most hotels. Taxi or Uber from anywhere in Lima.',
+    gettingThereEs: 'Ubicada en distrito de Miraflores, caminable desde la mayoría de hoteles. Taxi o Uber desde cualquier parte de Lima.',
+    facilities: [
+      'Modern visitor center',
+      'Bilingual guided tours included',
+      'Clean restrooms',
+      'Gift shop with replicas',
+      'Fine dining restaurant on site',
+      'Wheelchair accessible paths'
+    ],
+    facilitiesEs: [
+      'Centro de visitantes moderno',
+      'Tours guiados bilingües incluidos',
+      'Baños limpios',
+      'Tienda de regalos con réplicas',
+      'Restaurante de alta cocina en el sitio',
+      'Senderos accesibles para sillas de ruedas'
+    ]
+  },
+  {
+    slug: 'raqchi',
+    name: 'Raqchi Temple of Wiracocha',
+    nameEs: 'Templo de Wiracocha en Raqchi',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3480,
+    description: 'The impressive remains of the largest known Inca roofed structure stand in the village of Raqchi. This temple dedicated to the creator god Wiracocha features a massive central wall and rows of circular storehouses called qolqas.',
+    descriptionEs: 'Los impresionantes restos de la estructura techada más grande conocida de los Incas se encuentran en el pueblo de Raqchi. Este templo dedicado al dios creador Wiracocha presenta un enorme muro central y filas de almacenes circulares llamados qolqas.',
+    history: 'According to legend, the Inca Wiracocha built this temple in the 15th century after the god Wiracocha appeared to him in a dream. The massive structure measured 92 meters long with an adobe and stone wall rising 12 meters. Over 150 circular qolqas stored food and goods. The Spanish destroyed much of the temple but the remaining wall impresses visitors today.',
+    historyEs: 'Según la leyenda, el Inca Wiracocha construyó este templo en el siglo XV después de que el dios Wiracocha se le apareció en un sueño. La estructura masiva medía 92 metros de largo con un muro de adobe y piedra de 12 metros de altura. Más de 150 qolqas circulares almacenaban alimentos y bienes. Los españoles destruyeron gran parte del templo pero el muro restante impresiona a los visitantes hoy.',
+    highlights: [
+      'Largest known Inca roofed building',
+      'Massive 12-meter central wall',
+      'Over 150 circular storehouses',
+      'Beautiful village setting',
+      'Famous ceramics market'
+    ],
+    highlightsEs: [
+      'Edificio techado Inca más grande conocido',
+      'Enorme muro central de 12 metros',
+      'Más de 150 almacenes circulares',
+      'Hermoso entorno de pueblo',
+      'Famoso mercado de cerámicas'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'Included in Boleto Turístico or 10 soles separate',
+    entranceFeeEs: 'Incluido en Boleto Turístico o 10 soles separado',
+    bestTime: 'Year-round. Third Sunday of June hosts major festival.',
+    bestTimeEs: 'Todo el año. Tercer domingo de junio tiene festival importante.',
+    tips: [
+      'Stop on Cusco-Puno route',
+      'Visit ceramics workshops in village',
+      'June festival features traditional dances',
+      'Less crowded than Sacred Valley sites',
+      'Combine with Andahuaylillas church',
+      'Great place to buy authentic pottery'
+    ],
+    tipsEs: [
+      'Parada en ruta Cusco-Puno',
+      'Visita talleres de cerámica en el pueblo',
+      'Festival de junio presenta danzas tradicionales',
+      'Menos concurrido que sitios del Valle Sagrado',
+      'Combina con iglesia de Andahuaylillas',
+      'Excelente lugar para comprar cerámica auténtica'
+    ],
+    nearbyAttractions: ['andahuaylillas', 'cusco', 'sicuani'],
+    relatedSites: ['sacsayhuaman', 'ollantaytambo', 'pisac'],
+    gettingThere: '110km southeast of Cusco on the road to Puno, about 2 hours by car.',
+    gettingThereEs: '110km al sureste de Cusco en la carretera a Puno, aproximadamente 2 horas en auto.',
+    facilities: [
+      'Ticket entrance',
+      'Basic restrooms',
+      'Local guide services',
+      'Artisan market',
+      'Small restaurants in village',
+      'Parking available'
+    ],
+    facilitiesEs: [
+      'Entrada con boleto',
+      'Baños básicos',
+      'Servicios de guías locales',
+      'Mercado artesanal',
+      'Pequeños restaurantes en el pueblo',
+      'Estacionamiento disponible'
+    ]
   }
 ];
 

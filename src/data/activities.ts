@@ -7657,6 +7657,354 @@ export const activities: Activity[] = [
       { name: 'Finca El Limón', familyFriendly: true },
       { name: 'Rodriguez Family Farm', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'manu-wildlife-expedition',
+    name: 'Manu Wildlife Expedition',
+    nameEs: 'Expedición de Vida Silvestre en Manu',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco/Madre de Dios',
+    regionEs: 'Cusco/Madre de Dios',
+    description: 'Immerse your family in Earth\'s most biodiverse ecosystem on a multi-day expedition into Manu Biosphere Reserve. Spot giant river otters, macaws at clay licks, monkeys, and over 1,000 bird species in pristine Amazon wilderness.',
+    descriptionEs: 'Sumerge a tu familia en el ecosistema con mayor biodiversidad de la Tierra en una expedición de varios días a la Reserva de Biosfera del Manu. Observa nutrias gigantes de río, guacamayos en collpas, monos y más de 1,000 especies de aves en naturaleza amazónica prístina.',
+    whatToExpect: 'Begin with a spectacular descent from Andean highlands through cloud forest, watching ecosystems transform. Multi-day trips include stays at rustic lodges, early morning visits to macaw clay licks where hundreds of colorful birds gather, canoe trips on oxbow lakes to find giant otters, night walks for frogs and insects, and guided forest treks. Expert naturalists help spot wildlife and explain the incredible biodiversity.',
+    whatToExpectEs: 'Comienza con un descenso espectacular desde las tierras altas andinas a través del bosque nublado, observando cómo se transforman los ecosistemas. Los viajes de varios días incluyen estadías en lodges rústicos, visitas matutinas a collpas de guacamayos donde cientos de aves coloridas se reúnen, viajes en canoa por cochas para encontrar nutrias gigantes, caminatas nocturnas para ranas e insectos, y caminatas guiadas por el bosque. Naturalistas expertos ayudan a avistar vida silvestre y explican la increíble biodiversidad.',
+    highlights: [
+      'Giant river otter sightings',
+      'Macaw clay lick spectacle',
+      '13 species of monkeys possible',
+      'Cloud forest to jungle transition',
+      'World-class birdwatching'
+    ],
+    highlightsEs: [
+      'Avistamientos de nutrias gigantes de río',
+      'Espectáculo de collpa de guacamayos',
+      '13 especies de monos posibles',
+      'Transición de bosque nublado a selva',
+      'Observación de aves de clase mundial'
+    ],
+    familyRating: 3,
+    minAge: 8,
+    duration: '4-8 days',
+    durationEs: '4-8 días',
+    difficulty: 'moderate',
+    priceRange: '$800-2500 per person all-inclusive',
+    priceRangeEs: '$800-2500 por persona todo incluido',
+    bestTime: 'May-October (dry season), wildlife visible year-round',
+    bestTimeEs: 'Mayo-Octubre (temporada seca), vida silvestre visible todo el año',
+    includes: [
+      'All transportation from Cusco',
+      'Lodge accommodations',
+      'All meals',
+      'Expert naturalist guides',
+      'Rubber boots and rain gear',
+      'Park entrance fees'
+    ],
+    includesEs: [
+      'Todo el transporte desde Cusco',
+      'Alojamiento en lodges',
+      'Todas las comidas',
+      'Guías naturalistas expertos',
+      'Botas de goma y equipo de lluvia',
+      'Tarifas de entrada al parque'
+    ],
+    tips: [
+      'Book 2-3 months in advance',
+      'Minimum 4-5 days recommended',
+      'Bring quality binoculars',
+      'Camera with long zoom lens essential',
+      'Pack light layers for varying climates',
+      'Yellow fever vaccination required'
+    ],
+    tipsEs: [
+      'Reserva con 2-3 meses de anticipación',
+      'Mínimo 4-5 días recomendados',
+      'Lleva binoculares de calidad',
+      'Cámara con lente de zoom largo esencial',
+      'Empaca capas ligeras para climas variados',
+      'Vacuna de fiebre amarilla requerida'
+    ],
+    safetyNotes: [
+      'Remote area - basic medical facilities only',
+      'Inform operator of any health conditions',
+      'Mosquito protection essential',
+      'Stay with guide at all times',
+      'Not recommended for very young children'
+    ],
+    safetyNotesEs: [
+      'Área remota - solo instalaciones médicas básicas',
+      'Informa al operador de cualquier condición de salud',
+      'Protección contra mosquitos esencial',
+      'Permanece con el guía en todo momento',
+      'No recomendado para niños muy pequeños'
+    ],
+    relatedActivities: ['amazon-jungle-tour', 'birdwatching-manu', 'pink-river-dolphin-watching'],
+    providers: [
+      { name: 'Manu Wildlife Center', familyFriendly: true },
+      { name: 'Manu Nature Tours', familyFriendly: true },
+      { name: 'InkaNatura Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huaca-pucllana-night-tour',
+    name: 'Huaca Pucllana Night Tour',
+    nameEs: 'Tour Nocturno Huaca Pucllana',
+    type: 'cultural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Experience Lima\'s ancient past under dramatic illumination at Huaca Pucllana. This 1,500-year-old adobe pyramid glows mysteriously against the modern Miraflores skyline, creating an unforgettable introduction to Peru\'s pre-Columbian heritage.',
+    descriptionEs: 'Experimenta el pasado antiguo de Lima bajo iluminación dramática en Huaca Pucllana. Esta pirámide de adobe de 1,500 años brilla misteriosamente contra el horizonte moderno de Miraflores, creando una introducción inolvidable al patrimonio precolombino del Perú.',
+    whatToExpect: 'As darkness falls, the pyramid transforms with dramatic lighting that highlights its massive adobe brick construction. Expert guides lead small groups through the excavated ceremonial center, explaining Lima and Wari culture, sacrificial rituals, and ongoing archaeological discoveries. See ancient irrigation systems, ceremonial plazas, and the main pyramid where offerings and burials have been found. Afterwards, dine at the acclaimed restaurant overlooking the illuminated ruins.',
+    whatToExpectEs: 'Al caer la noche, la pirámide se transforma con iluminación dramática que resalta su masiva construcción de ladrillos de adobe. Guías expertos lideran grupos pequeños a través del centro ceremonial excavado, explicando la cultura Lima y Wari, rituales de sacrificio y descubrimientos arqueológicos en curso. Observa antiguos sistemas de irrigación, plazas ceremoniales y la pirámide principal donde se han encontrado ofrendas y entierros. Después, cena en el aclamado restaurante con vista a las ruinas iluminadas.',
+    highlights: [
+      'Dramatically lit ancient pyramid',
+      'Expert guided tour included',
+      'Active excavation site',
+      'Unique urban archaeology',
+      'World-class restaurant on site'
+    ],
+    highlightsEs: [
+      'Pirámide antigua dramáticamente iluminada',
+      'Tour guiado por expertos incluido',
+      'Sitio de excavación activa',
+      'Arqueología urbana única',
+      'Restaurante de clase mundial en el sitio'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1-1.5 hours (tour only)',
+    durationEs: '1-1.5 horas (solo tour)',
+    difficulty: 'easy',
+    priceRange: '15 soles adults, 7.50 soles children',
+    priceRangeEs: '15 soles adultos, 7.50 soles niños',
+    bestTime: 'Tours run 7pm-10pm Wednesday-Monday',
+    bestTimeEs: 'Tours de 7pm-10pm Miércoles-Lunes',
+    includes: [
+      'Guided tour in English or Spanish',
+      'Site entrance fee',
+      'Access to all excavated areas',
+      'Small museum visit'
+    ],
+    includesEs: [
+      'Tour guiado en inglés o español',
+      'Tarifa de entrada al sitio',
+      'Acceso a todas las áreas excavadas',
+      'Visita a pequeño museo'
+    ],
+    tips: [
+      'Perfect for jet-lag - late hours',
+      'Book dinner reservation separately',
+      'Cats living on site delight children',
+      'No flash photography',
+      'Combine with Miraflores evening stroll',
+      'One of Lima\'s best first-night activities'
+    ],
+    tipsEs: [
+      'Perfecto para jet-lag - horarios tardíos',
+      'Reserva cena por separado',
+      'Gatos que viven en el sitio deleitan a los niños',
+      'Sin fotografía con flash',
+      'Combina con paseo nocturno por Miraflores',
+      'Una de las mejores actividades de primera noche en Lima'
+    ],
+    safetyNotes: [
+      'Paved pathways throughout',
+      'Well-lit site',
+      'Stay with tour group',
+      'Watch step on uneven surfaces',
+      'Wheelchair accessible routes available'
+    ],
+    safetyNotesEs: [
+      'Senderos pavimentados en todo el sitio',
+      'Sitio bien iluminado',
+      'Permanece con el grupo del tour',
+      'Cuidado con superficies irregulares',
+      'Rutas accesibles para sillas de ruedas disponibles'
+    ],
+    relatedActivities: ['lima-food-tour', 'miraflores-bike-tour', 'larco-museum-visit'],
+    providers: [
+      { name: 'Huaca Pucllana Official Tours', familyFriendly: true },
+      { name: 'Lima Walking Tours', familyFriendly: true },
+      { name: 'Peru Hop', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'titicaca-homestay-experience',
+    name: 'Lake Titicaca Homestay Experience',
+    nameEs: 'Experiencia de Hospedaje en Lago Titicaca',
+    type: 'cultural',
+    city: 'puno',
+    region: 'Puno Region',
+    regionEs: 'Región Puno',
+    description: 'Live with an indigenous family on the shores of the world\'s highest navigable lake. This authentic cultural immersion includes traditional meals, textile demonstrations, farming activities, and stargazing at 3,800 meters under some of the clearest skies on Earth.',
+    descriptionEs: 'Vive con una familia indígena en las orillas del lago navegable más alto del mundo. Esta auténtica inmersión cultural incluye comidas tradicionales, demostraciones textiles, actividades agrícolas y observación de estrellas a 3,800 metros bajo algunos de los cielos más claros de la Tierra.',
+    whatToExpect: 'After crossing Lake Titicaca by boat, arrive at a traditional community on Amantani or Taquile Island. Your host family welcomes you into their adobe home, sharing meals of fresh trout, potatoes, and quinoa. Afternoon activities include learning weaving techniques, helping with farm tasks, or hiking to pre-Inca temples. Evening brings traditional dress-up, music, and dancing under spectacular star-filled skies. Wake to sunrise over the sacred lake.',
+    whatToExpectEs: 'Después de cruzar el Lago Titicaca en bote, llegas a una comunidad tradicional en la Isla Amantaní o Taquile. Tu familia anfitriona te da la bienvenida a su casa de adobe, compartiendo comidas de trucha fresca, papas y quinua. Las actividades de la tarde incluyen aprender técnicas de tejido, ayudar con tareas agrícolas o caminar a templos pre-Incas. La noche trae vestimenta tradicional, música y baile bajo espectaculares cielos estrellados. Despierta con el amanecer sobre el lago sagrado.',
+    highlights: [
+      'Authentic family homestay',
+      'Traditional Andean meals',
+      'Textile weaving demonstrations',
+      'Incredible stargazing',
+      'Sacred lake sunrise'
+    ],
+    highlightsEs: [
+      'Estadía familiar auténtica',
+      'Comidas andinas tradicionales',
+      'Demostraciones de tejido textil',
+      'Increíble observación de estrellas',
+      'Amanecer sobre el lago sagrado'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1-2 nights',
+    durationEs: '1-2 noches',
+    difficulty: 'moderate',
+    priceRange: '$80-150 per person including meals',
+    priceRangeEs: '$80-150 por persona incluyendo comidas',
+    bestTime: 'April-October (dry season), stargazing best May-August',
+    bestTimeEs: 'Abril-Octubre (temporada seca), mejor observación de estrellas Mayo-Agosto',
+    includes: [
+      'Round-trip boat transportation',
+      'Homestay accommodation',
+      'All meals with family',
+      'Cultural activities',
+      'Island guide services',
+      'Traditional costume rental for dancing'
+    ],
+    includesEs: [
+      'Transporte en bote ida y vuelta',
+      'Alojamiento en casa de familia',
+      'Todas las comidas con la familia',
+      'Actividades culturales',
+      'Servicios de guía en la isla',
+      'Alquiler de traje tradicional para baile'
+    ],
+    tips: [
+      'Bring headlamp - limited electricity',
+      'Pack warm layers - nights cold',
+      'Altitude can affect some visitors',
+      'Bring small gifts for host family',
+      'Learn a few Quechua greetings',
+      'Simple accommodations - manage expectations'
+    ],
+    tipsEs: [
+      'Lleva linterna frontal - electricidad limitada',
+      'Empaca capas abrigadas - noches frías',
+      'La altitud puede afectar a algunos visitantes',
+      'Lleva pequeños regalos para la familia anfitriona',
+      'Aprende algunos saludos en quechua',
+      'Alojamiento simple - maneja expectativas'
+    ],
+    safetyNotes: [
+      'High altitude - acclimatize in Puno first',
+      'Boat safety jackets provided',
+      'Basic medical facilities only on island',
+      'Drink bottled water only',
+      'Warm clothing essential'
+    ],
+    safetyNotesEs: [
+      'Alta altitud - aclimatarse en Puno primero',
+      'Chalecos de seguridad en bote proporcionados',
+      'Solo instalaciones médicas básicas en la isla',
+      'Bebe solo agua embotellada',
+      'Ropa abrigada esencial'
+    ],
+    relatedActivities: ['uros-islands-visit', 'lake-titicaca-kayaking', 'taquile-textile-tour'],
+    providers: [
+      { name: 'All Ways Travel', familyFriendly: true },
+      { name: 'Titicaca Peru', familyFriendly: true },
+      { name: 'Edgar Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'raqchi-pottery-workshop',
+    name: 'Raqchi Pottery Workshop',
+    nameEs: 'Taller de Cerámica en Raqchi',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Learn traditional Andean pottery techniques from master artisans in the village of Raqchi, famous for ceramics since Inca times. This hands-on workshop combines ancient temple exploration with creative family fun.',
+    descriptionEs: 'Aprende técnicas tradicionales de cerámica andina de maestros artesanos en el pueblo de Raqchi, famoso por su cerámica desde tiempos Incas. Este taller práctico combina exploración de templos antiguos con diversión creativa familiar.',
+    whatToExpect: 'Begin with a visit to the impressive Temple of Wiracocha to understand the area\'s Inca heritage. Then join local potters in their home workshops where families have made ceramics for generations. Learn to prepare clay, shape vessels on traditional wheels, and decorate with pre-Columbian designs. Kids love getting hands dirty creating their own pieces. Finish with lunch featuring local cuisine and browse the village artisan market for authentic souvenirs.',
+    whatToExpectEs: 'Comienza con una visita al impresionante Templo de Wiracocha para entender el patrimonio Inca del área. Luego únete a alfareros locales en sus talleres caseros donde las familias han hecho cerámica por generaciones. Aprende a preparar arcilla, dar forma a vasijas en tornos tradicionales y decorar con diseños precolombinos. A los niños les encanta ensuciarse las manos creando sus propias piezas. Termina con almuerzo de cocina local y explora el mercado artesanal del pueblo para souvenirs auténticos.',
+    highlights: [
+      'Hands-on pottery creation',
+      'Multi-generational artisan families',
+      'Temple of Wiracocha visit included',
+      'Traditional village atmosphere',
+      'Take home your creation'
+    ],
+    highlightsEs: [
+      'Creación de cerámica práctica',
+      'Familias artesanas multigeneracionales',
+      'Visita al Templo de Wiracocha incluida',
+      'Atmósfera de pueblo tradicional',
+      'Llévate tu creación a casa'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$45-75 per person including materials',
+    priceRangeEs: '$45-75 por persona incluyendo materiales',
+    bestTime: 'Year-round, June festival especially festive',
+    bestTimeEs: 'Todo el año, festival de junio especialmente festivo',
+    includes: [
+      'Temple of Wiracocha entrance',
+      'Pottery workshop with master artisan',
+      'All materials and clay',
+      'Finished piece to take home',
+      'Traditional lunch',
+      'Transportation from Cusco optional'
+    ],
+    includesEs: [
+      'Entrada al Templo de Wiracocha',
+      'Taller de cerámica con maestro artesano',
+      'Todos los materiales y arcilla',
+      'Pieza terminada para llevar',
+      'Almuerzo tradicional',
+      'Transporte desde Cusco opcional'
+    ],
+    tips: [
+      'Wear clothes that can get dirty',
+      'Great stop on Cusco-Puno route',
+      'Buy directly from artisans',
+      'Sunday market has most vendors',
+      'Ship purchases - fragile to carry',
+      'Third Sunday of June has major festival'
+    ],
+    tipsEs: [
+      'Usa ropa que pueda ensuciarse',
+      'Excelente parada en ruta Cusco-Puno',
+      'Compra directamente de los artesanos',
+      'Mercado dominical tiene más vendedores',
+      'Envía compras - frágiles para cargar',
+      'Tercer domingo de junio tiene festival importante'
+    ],
+    safetyNotes: [
+      'Work with non-toxic natural clay',
+      'Supervise children with pottery wheel',
+      'Moderate altitude - 3,480m',
+      'Wash hands well after workshop',
+      'Sun protection recommended'
+    ],
+    safetyNotesEs: [
+      'Trabaja con arcilla natural no tóxica',
+      'Supervisa niños con torno de alfarero',
+      'Altitud moderada - 3,480m',
+      'Lava bien las manos después del taller',
+      'Se recomienda protección solar'
+    ],
+    relatedActivities: ['chinchero-weaving', 'pottery-class', 'cusco-artisan-tour'],
+    providers: [
+      { name: 'Raqchi Artisan Cooperative', familyFriendly: true },
+      { name: 'Cusco Local Tours', familyFriendly: true },
+      { name: 'Andean Pottery Experience', familyFriendly: true }
+    ]
   }
 ];
 
