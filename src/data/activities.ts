@@ -10749,6 +10749,366 @@ export const activities: Activity[] = [
       { name: 'Urban Food Adventures', familyFriendly: true },
       { name: 'Barranco Gastro Tours', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'baroque-route-tour',
+    name: 'Baroque Route Art & Architecture Tour',
+    nameEs: 'Tour de Arte y Arquitectura de la Ruta Barroca',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Journey through southern Cusco\'s magnificent colonial churches on the Baroque Route, featuring some of the finest examples of Andean baroque art in the Americas. Visit the stunning Andahuaylillas Church, known as the "Sistine Chapel of the Americas," along with other artistic treasures in Huaro and Canincunca. This art-focused tour reveals the unique fusion of Spanish religious traditions with indigenous Andean creativity that defines Peru\'s colonial heritage.',
+    descriptionEs: 'Viaja por las magníficas iglesias coloniales del sur de Cusco en la Ruta Barroca, presentando algunos de los mejores ejemplos de arte barroco andino en las Américas. Visita la impresionante Iglesia de Andahuaylillas, conocida como la "Capilla Sixtina de las Américas", junto con otros tesoros artísticos en Huaro y Canincunca. Este tour enfocado en arte revela la fusión única de tradiciones religiosas españolas con la creatividad andina indígena que define el patrimonio colonial de Perú.',
+    whatToExpect: 'Begin with pickup from your Cusco hotel for the scenic drive along the South Valley road. First stop is the charming village of Andahuaylillas, where you\'ll visit the Church of San Pedro - prepare to be amazed as the modest exterior opens to reveal floor-to-ceiling baroque masterpieces. Your art historian guide explains the symbolism, pointing out indigenous elements hidden within European religious imagery. Children receive activity sheets to find specific details in the murals. Continue to Huaro to see the "Chapel of the Last Judgment" with its dramatic depictions of heaven and hell. Visit Canincunca\'s unique open-air chapel. Throughout, learn about the Cuzqueña school of painting and the mestizo artists who created these works. Return via charming villages with stops for photos of the countryside.',
+    whatToExpectEs: 'Comienza con recogida de tu hotel en Cusco para el viaje escénico por la carretera del Valle Sur. Primera parada es el encantador pueblo de Andahuaylillas, donde visitarás la Iglesia de San Pedro - prepárate para asombrarte cuando el modesto exterior se abre para revelar obras maestras barrocas del piso al techo. Tu guía historiador del arte explica el simbolismo, señalando elementos indígenas escondidos dentro de la imaginería religiosa europea. Los niños reciben hojas de actividades para encontrar detalles específicos en los murales. Continúa a Huaro para ver la "Capilla del Juicio Final" con sus dramáticas representaciones del cielo y el infierno. Visita la capilla única al aire libre de Canincunca. A lo largo del tour, aprende sobre la escuela de pintura Cuzqueña y los artistas mestizos que crearon estas obras. Regreso por pueblos encantadores con paradas para fotos del campo.',
+    highlights: [
+      'Visit the "Sistine Chapel of the Americas"',
+      'See priceless baroque murals and gold altars',
+      'Learn about indigenous-Spanish artistic fusion',
+      'Explore charming colonial villages',
+      'Family-friendly art scavenger hunt activities',
+      'Hear 400-year-old organ music demonstrations',
+      'Beautiful South Valley countryside views'
+    ],
+    highlightsEs: [
+      'Visitar la "Capilla Sixtina de las Américas"',
+      'Ver murales barrocos invaluables y altares dorados',
+      'Aprender sobre la fusión artística indígena-española',
+      'Explorar encantadores pueblos coloniales',
+      'Actividades de búsqueda del tesoro artístico para familias',
+      'Escuchar demostraciones de música de órgano de 400 años',
+      'Hermosas vistas del campo del Valle Sur'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Half day (4-5 hours)',
+    durationEs: 'Medio día (4-5 horas)',
+    difficulty: 'easy',
+    priceRange: '$45-75 per person',
+    priceRangeEs: '$45-75 por persona',
+    bestTime: 'Year-round. Morning tours have best light for viewing artwork.',
+    bestTimeEs: 'Todo el año. Tours matutinos tienen mejor luz para ver obras de arte.',
+    includes: [
+      'Hotel pickup and dropoff',
+      'Art historian guide',
+      'All church entrance fees',
+      'Activity booklets for children',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Guía historiador del arte',
+      'Todas las entradas a iglesias',
+      'Cuadernillos de actividades para niños',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Dress respectfully - churches are active places of worship',
+      'Photography not allowed inside most churches',
+      'Combine with Raqchi for full day South Valley experience',
+      'Morning light is best for interior viewing',
+      'Small donations to churches appreciated'
+    ],
+    tipsEs: [
+      'Vístete respetuosamente - las iglesias son lugares de culto activos',
+      'Fotografía no permitida dentro de la mayoría de las iglesias',
+      'Combina con Raqchi para experiencia de día completo del Valle Sur',
+      'Luz matutina es mejor para ver interiores',
+      'Pequeñas donaciones a las iglesias apreciadas'
+    ],
+    safetyNotes: [
+      'Easy walking throughout',
+      'Churches have stone floors - can be cool inside',
+      'Lower altitude than Cusco - no altitude concerns',
+      'Well-maintained villages and sites',
+      'Supervised visits'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en todo el recorrido',
+      'Las iglesias tienen pisos de piedra - puede ser fresco adentro',
+      'Menor altitud que Cusco - sin preocupaciones de altitud',
+      'Pueblos y sitios bien mantenidos',
+      'Visitas supervisadas'
+    ],
+    relatedActivities: ['south-valley-tour', 'cusco-city-tour', 'tipon-water-engineering-tour'],
+    providers: [
+      { name: 'Baroque Art Tours Peru', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Cusco Art & History Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'raqchi-community-experience',
+    name: 'Raqchi Community & Temple Experience',
+    nameEs: 'Experiencia Comunitaria y del Templo de Raqchi',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Combine archaeology with authentic community interaction at Raqchi, home to the largest Inca roofed structure ever built. This immersive experience includes exploring the Temple of Wiracocha and its 200+ circular storehouses, followed by hands-on time with local artisans learning traditional ceramic techniques. Share a meal prepared by community members and support sustainable tourism that directly benefits this welcoming Andean village.',
+    descriptionEs: 'Combina arqueología con interacción comunitaria auténtica en Raqchi, hogar de la estructura techada Inca más grande jamás construida. Esta experiencia inmersiva incluye explorar el Templo de Wiracocha y sus más de 200 almacenes circulares, seguido de tiempo práctico con artesanos locales aprendiendo técnicas tradicionales de cerámica. Comparte una comida preparada por miembros de la comunidad y apoya el turismo sustentable que beneficia directamente a este acogedor pueblo andino.',
+    whatToExpect: 'Your guide meets you in Cusco for the scenic drive south through the Vilcanota Valley. Arrive at Raqchi to explore the impressive Temple of Wiracocha, where the central wall once supported South America\'s largest thatched roof. Children love exploring the circular qolqas (storehouses) and searching for resident llamas and alpacas. After the archaeological tour, join local artisans for a pottery workshop. Using the same clay their ancestors used, you\'ll learn to make a small ceramic piece to take home. Gather for lunch at the community restaurant, enjoying traditional dishes like quinoa soup, cuy al horno, or vegetarian options prepared with local ingredients. Browse the artisan market for authentic ceramics made using pre-Columbian techniques. Return to Cusco with your handmade souvenir.',
+    whatToExpectEs: 'Tu guía te encuentra en Cusco para el viaje escénico al sur a través del Valle Vilcanota. Llega a Raqchi para explorar el impresionante Templo de Wiracocha, donde el muro central una vez soportó el techo de paja más grande de Sudamérica. A los niños les encanta explorar las qolqas circulares (almacenes) y buscar las llamas y alpacas residentes. Después del tour arqueológico, únete a artesanos locales para un taller de cerámica. Usando la misma arcilla que usaron sus ancestros, aprenderás a hacer una pequeña pieza de cerámica para llevar a casa. Reúnete para almorzar en el restaurante comunitario, disfrutando platos tradicionales como sopa de quinoa, cuy al horno u opciones vegetarianas preparadas con ingredientes locales. Explora el mercado artesanal para cerámicas auténticas hechas usando técnicas precolombinas. Regresa a Cusco con tu recuerdo hecho a mano.',
+    highlights: [
+      'Explore largest Inca roofed temple structure',
+      'See 200+ ancient circular storehouses',
+      'Hands-on pottery workshop with local artisans',
+      'Traditional Andean community lunch',
+      'Meet llamas and alpacas',
+      'Support sustainable community tourism',
+      'Take home your own ceramic creation'
+    ],
+    highlightsEs: [
+      'Explorar la estructura de templo techado Inca más grande',
+      'Ver más de 200 almacenes circulares antiguos',
+      'Taller de cerámica práctico con artesanos locales',
+      'Almuerzo tradicional de comunidad andina',
+      'Conocer llamas y alpacas',
+      'Apoyar turismo comunitario sustentable',
+      'Llevarte tu propia creación de cerámica a casa'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'easy',
+    priceRange: '$65-95 per person',
+    priceRangeEs: '$65-95 por persona',
+    bestTime: 'Year-round. June for annual ceramics festival. April-October dry season best.',
+    bestTimeEs: 'Todo el año. Junio para festival anual de cerámica. Temporada seca abril-octubre mejor.',
+    includes: [
+      'Transportation from Cusco',
+      'Professional bilingual guide',
+      'Site entrance fees',
+      'Pottery workshop with materials',
+      'Traditional community lunch',
+      'Take-home ceramic piece'
+    ],
+    includesEs: [
+      'Transporte desde Cusco',
+      'Guía bilingüe profesional',
+      'Entradas al sitio',
+      'Taller de cerámica con materiales',
+      'Almuerzo tradicional comunitario',
+      'Pieza de cerámica para llevar a casa'
+    ],
+    tips: [
+      'Book the June ceramics festival tour for extra activities',
+      'Bring soles for artisan market purchases',
+      'Kids love feeding the llamas (ask guide)',
+      'Can combine with Andahuaylillas Baroque Route',
+      'Community homestays available for overnight experiences'
+    ],
+    tipsEs: [
+      'Reserva el tour del festival de cerámica de junio para actividades extra',
+      'Trae soles para compras en el mercado artesanal',
+      'A los niños les encanta alimentar a las llamas (pregunta al guía)',
+      'Puede combinarse con la Ruta Barroca de Andahuaylillas',
+      'Homestays comunitarios disponibles para experiencias de noche'
+    ],
+    safetyNotes: [
+      'Easy terrain at archaeological site',
+      'Altitude 3,500m - acclimatize in Cusco first',
+      'Pottery workshop supervised for children',
+      'Gentle llamas and alpacas',
+      'Community is welcoming and safe'
+    ],
+    safetyNotesEs: [
+      'Terreno fácil en el sitio arqueológico',
+      'Altitud 3,500m - aclimatarse en Cusco primero',
+      'Taller de cerámica supervisado para niños',
+      'Llamas y alpacas dóciles',
+      'La comunidad es acogedora y segura'
+    ],
+    relatedActivities: ['baroque-route-tour', 'south-valley-tour', 'tipon-water-engineering-tour'],
+    providers: [
+      { name: 'Raqchi Community Tourism', familyFriendly: true },
+      { name: 'South Valley Expeditions', familyFriendly: true },
+      { name: 'Responsible Travel Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'waqrapukara-adventure-trek',
+    name: 'Waqrapukara Adventure Trek',
+    nameEs: 'Trek de Aventura a Waqrapukara',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek to one of Peru\'s most spectacular and least-visited archaeological sites - Waqrapukara, the "Horn Fortress." This challenging adventure rewards active families with breathtaking views of dramatic rock spires rising above a deep canyon, an ancient Inca ceremonial site that receives fewer than 20 visitors per day, and the thrill of authentic discovery. For families with older children seeking adventure beyond the typical tourist trail.',
+    descriptionEs: 'Camina a uno de los sitios arqueológicos más espectaculares y menos visitados de Perú - Waqrapukara, la "Fortaleza del Cuerno". Esta aventura desafiante recompensa a familias activas con vistas impresionantes de agujas rocosas dramáticas elevándose sobre un cañón profundo, un sitio ceremonial Inca antiguo que recibe menos de 20 visitantes por día, y la emoción del descubrimiento auténtico. Para familias con niños mayores que buscan aventura más allá del camino turístico típico.',
+    whatToExpect: 'Depart Cusco very early (4am) for the 4-hour drive through the remote Acomayo province, watching the sunrise over Andean peaks. Your guide provides breakfast at a local family\'s home before beginning the trek from Sangarara village. The 2-3 hour hike follows ancient paths through puna grasslands, with opportunities to spot Andean condors, viscachas, and high-altitude birds. As you approach, the twin horn-like rock spires come dramatically into view. Explore the pre-Inca and Inca ceremonial platforms, temples, and carved stone features while your guide explains the site\'s astronomical significance. Enjoy a packed lunch with spectacular canyon views. The return trek feels easier with the stunning scenery behind you. Return to Cusco by evening, filled with the satisfaction of having discovered a Peru few tourists ever see.',
+    whatToExpectEs: 'Sal de Cusco muy temprano (4am) para el viaje de 4 horas a través de la remota provincia de Acomayo, observando el amanecer sobre los picos andinos. Tu guía proporciona desayuno en la casa de una familia local antes de comenzar el trek desde el pueblo de Sangarara. La caminata de 2-3 horas sigue senderos antiguos a través de pastizales de puna, con oportunidades para avistar cóndores andinos, vizcachas y aves de alta altitud. Al acercarte, las agujas rocosas gemelas en forma de cuerno aparecen dramáticamente a la vista. Explora las plataformas ceremoniales pre-Incas e Incas, templos y características de piedra tallada mientras tu guía explica la importancia astronómica del sitio. Disfruta un almuerzo empacado con espectaculares vistas del cañón. El trek de regreso se siente más fácil con el impresionante paisaje detrás de ti. Regresa a Cusco por la noche, lleno de la satisfacción de haber descubierto un Perú que pocos turistas ven.',
+    highlights: [
+      'One of Peru\'s most dramatic archaeological sites',
+      'Fewer than 20 visitors per day',
+      'Spectacular twin rock spire formations',
+      'Authentic adventure and discovery experience',
+      'Possible condor and wildlife sightings',
+      'Stunning canyon and mountain panoramas',
+      'Support remote community tourism'
+    ],
+    highlightsEs: [
+      'Uno de los sitios arqueológicos más dramáticos de Perú',
+      'Menos de 20 visitantes por día',
+      'Espectaculares formaciones de agujas rocosas gemelas',
+      'Experiencia auténtica de aventura y descubrimiento',
+      'Posibles avistamientos de cóndores y fauna',
+      'Impresionantes panoramas de cañón y montañas',
+      'Apoyar turismo de comunidades remotas'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (12-14 hours from Cusco)',
+    durationEs: 'Día completo (12-14 horas desde Cusco)',
+    difficulty: 'challenging',
+    priceRange: '$95-150 per person',
+    priceRangeEs: '$95-150 por persona',
+    bestTime: 'April-October dry season only. June-August clearest weather.',
+    bestTimeEs: 'Solo temporada seca abril-octubre. Junio-agosto clima más despejado.',
+    includes: [
+      'Round-trip transportation from Cusco',
+      'Professional guide with first aid training',
+      'Breakfast at local family home',
+      'Packed trail lunch and snacks',
+      'Community entrance fees',
+      'Trekking poles available'
+    ],
+    includesEs: [
+      'Transporte ida y vuelta desde Cusco',
+      'Guía profesional con entrenamiento de primeros auxilios',
+      'Desayuno en casa de familia local',
+      'Almuerzo empacado y snacks para el sendero',
+      'Entradas comunitarias',
+      'Bastones de trekking disponibles'
+    ],
+    tips: [
+      'Acclimatize at least 3 days in Cusco first',
+      'Start early to maximize daylight hours',
+      'Bring warm layers - weather changes fast at 4,300m',
+      'Overnight camping option available for photographers',
+      'Book several days in advance - small group sizes only'
+    ],
+    tipsEs: [
+      'Aclimatarse al menos 3 días en Cusco primero',
+      'Comenzar temprano para maximizar horas de luz',
+      'Traer capas abrigadas - el clima cambia rápido a 4,300m',
+      'Opción de camping disponible para fotógrafos',
+      'Reservar con varios días de anticipación - solo grupos pequeños'
+    ],
+    safetyNotes: [
+      'High altitude trek (4,300m) - acclimatization essential',
+      'Guide carries first aid and emergency equipment',
+      'Weather can change rapidly - rain gear required',
+      'Trek difficulty is moderate but altitude is challenging',
+      'Not suitable for those with heart or respiratory conditions'
+    ],
+    safetyNotesEs: [
+      'Trek de alta altitud (4,300m) - aclimatación esencial',
+      'Guía lleva primeros auxilios y equipo de emergencia',
+      'El clima puede cambiar rápidamente - ropa impermeable requerida',
+      'Dificultad del trek es moderada pero la altitud es desafiante',
+      'No apto para personas con condiciones cardíacas o respiratorias'
+    ],
+    relatedActivities: ['rainbow-mountain-trek', 'laguna-69-trek', 'ausangate-trek'],
+    providers: [
+      { name: 'Waqrapukara Adventures', familyFriendly: false },
+      { name: 'Off-the-Beaten-Path Peru', familyFriendly: true },
+      { name: 'Adventure Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'palomino-islands-swim',
+    name: 'Palomino Islands Sea Lion Swim Adventure',
+    nameEs: 'Aventura de Nado con Lobos Marinos en Islas Palomino',
+    type: 'nature',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    description: 'Get up close with wild South American sea lions at the Palomino Islands, just 45 minutes from Lima. This unforgettable wildlife adventure offers the rare opportunity to swim alongside curious, playful sea lions in their natural ocean habitat, while also observing Humboldt penguins, countless seabirds, and possibly dolphins. One of Lima\'s best-kept secrets and a highlight for wildlife-loving families.',
+    descriptionEs: 'Acércate a los lobos marinos sudamericanos salvajes en las Islas Palomino, a solo 45 minutos de Lima. Esta inolvidable aventura de vida silvestre ofrece la rara oportunidad de nadar junto a lobos marinos curiosos y juguetones en su hábitat oceánico natural, mientras también observas pingüinos de Humboldt, innumerables aves marinas y posiblemente delfines. Uno de los secretos mejor guardados de Lima y un destacado para familias amantes de la vida silvestre.',
+    whatToExpect: 'Meet at La Punta pier in Callao, where you\'ll board a specially equipped boat with an experienced crew. During the 45-minute voyage, spot Humboldt penguins on rocky outcrops and learn about the rich Humboldt Current ecosystem. Approaching the main island, the sight and sound of thousands of sea lions is awe-inspiring. For swimmers, the crew helps you into your wetsuit before entering the water. The sea lions, particularly the curious young ones, approach swimmers playfully - an absolutely magical experience. Non-swimmers can observe from the boat, getting equally amazing views and photos. Seabirds wheel overhead in massive numbers. Dolphins are frequently spotted on the return journey. Hot chocolate and snacks await as you cruise back to the mainland, filled with incredible wildlife memories.',
+    whatToExpectEs: 'Encuéntrate en el muelle de La Punta en Callao, donde abordarás un bote especialmente equipado con una tripulación experimentada. Durante el viaje de 45 minutos, observa pingüinos de Humboldt en afloramientos rocosos y aprende sobre el rico ecosistema de la Corriente de Humboldt. Al acercarte a la isla principal, la vista y el sonido de miles de lobos marinos es impresionante. Para los nadadores, la tripulación te ayuda a ponerte tu traje de neopreno antes de entrar al agua. Los lobos marinos, particularmente los jóvenes curiosos, se acercan a los nadadores juguetonamente - una experiencia absolutamente mágica. Los no nadadores pueden observar desde el bote, obteniendo vistas y fotos igualmente increíbles. Las aves marinas vuelan sobre ti en números masivos. Los delfines se ven frecuentemente en el viaje de regreso. Chocolate caliente y snacks te esperan mientras navegas de regreso al continente, lleno de increíbles recuerdos de vida silvestre.',
+    highlights: [
+      'Swim with wild sea lions in their natural habitat',
+      'See Humboldt penguins up close',
+      'Colony of 8,000+ sea lions',
+      'Massive seabird colonies',
+      'Possible dolphin sightings',
+      'Professional crew and safety equipment',
+      'Only 45 minutes from central Lima'
+    ],
+    highlightsEs: [
+      'Nadar con lobos marinos salvajes en su hábitat natural',
+      'Ver pingüinos de Humboldt de cerca',
+      'Colonia de más de 8,000 lobos marinos',
+      'Masivas colonias de aves marinas',
+      'Posibles avistamientos de delfines',
+      'Tripulación profesional y equipo de seguridad',
+      'Solo 45 minutos del centro de Lima'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '4-5 hours',
+    durationEs: '4-5 horas',
+    difficulty: 'easy',
+    priceRange: '$55-85 per person',
+    priceRangeEs: '$55-85 por persona',
+    bestTime: 'Year-round. December-March warmest water. July-September most sea lion pups.',
+    bestTimeEs: 'Todo el año. Diciembre-marzo agua más cálida. Julio-septiembre más crías de lobos marinos.',
+    includes: [
+      'Boat transportation to islands',
+      'Wetsuit and snorkeling gear',
+      'Experienced bilingual crew',
+      'Safety briefing and supervision',
+      'Hot drinks and snacks on return',
+      'Hotel pickup option available'
+    ],
+    includesEs: [
+      'Transporte en bote a las islas',
+      'Traje de neopreno y equipo de snorkel',
+      'Tripulación bilingüe experimentada',
+      'Charla de seguridad y supervisión',
+      'Bebidas calientes y snacks en el regreso',
+      'Opción de recogida en hotel disponible'
+    ],
+    tips: [
+      'Swimming is optional - boat viewing is excellent',
+      'Water is cold (15-18°C) - wetsuits essential',
+      'Morning tours typically have calmer seas',
+      'Bring binoculars for birdwatching',
+      'Motion sickness medication if you\'re sensitive',
+      'Waterproof camera recommended'
+    ],
+    tipsEs: [
+      'Nadar es opcional - la vista desde el bote es excelente',
+      'El agua es fría (15-18°C) - trajes de neopreno esenciales',
+      'Tours matutinos típicamente tienen mares más tranquilos',
+      'Trae binoculares para observación de aves',
+      'Medicamento para mareo si eres sensible',
+      'Cámara impermeable recomendada'
+    ],
+    safetyNotes: [
+      'Professional crew with rescue training',
+      'Life jackets and wetsuits provided',
+      'Non-swimmers can stay on boat',
+      'Sea lions are wild but generally docile with swimmers',
+      'Weather conditions checked before departure'
+    ],
+    safetyNotesEs: [
+      'Tripulación profesional con entrenamiento de rescate',
+      'Chalecos salvavidas y trajes de neopreno proporcionados',
+      'No nadadores pueden quedarse en el bote',
+      'Lobos marinos son salvajes pero generalmente dóciles con nadadores',
+      'Condiciones climáticas verificadas antes de la salida'
+    ],
+    relatedActivities: ['ballestas-islands-tour', 'paracas-reserve-tour', 'lima-coastal-tour'],
+    providers: [
+      { name: 'Palomino Islands Tours', familyFriendly: true },
+      { name: 'Lima Wildlife Adventures', familyFriendly: true },
+      { name: 'Callao Sea Tours', familyFriendly: true }
+    ]
   }
 ];
 

@@ -9492,6 +9492,300 @@ export const sites: Site[] = [
       'Mercados artesanales',
       'Muelle con miradores'
     ]
+  },
+  {
+    slug: 'andahuaylillas-church',
+    name: 'Andahuaylillas Church (Sistine Chapel of the Americas)',
+    nameEs: 'Iglesia de Andahuaylillas (Capilla Sixtina de las Américas)',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3122,
+    description: 'The Church of San Pedro in Andahuaylillas is called the "Sistine Chapel of the Americas" for its breathtaking baroque interior featuring gold leaf altars, colorful murals covering every surface, and intricate painted ceilings. Built on Inca foundations in the 16th century, this modest adobe exterior hides one of Peru\'s most spectacular colonial artistic treasures. A stunning example of Andean baroque art that showcases the unique fusion of Spanish and indigenous artistic traditions.',
+    descriptionEs: 'La Iglesia de San Pedro en Andahuaylillas es llamada la "Capilla Sixtina de las Américas" por su impresionante interior barroco con altares de pan de oro, murales coloridos cubriendo cada superficie y techos intrincadamente pintados. Construida sobre cimientos Incas en el siglo XVI, este modesto exterior de adobe esconde uno de los tesoros artísticos coloniales más espectaculares de Perú. Un ejemplo impresionante del arte barroco andino que muestra la fusión única de tradiciones artísticas españolas e indígenas.',
+    history: 'The Church of San Pedro was built by Jesuits in 1570 on the foundations of an Inca temple, using the same massive stone blocks. The remarkable interior was created over centuries by indigenous artists under Spanish direction, resulting in a unique blend of European religious iconography with Andean symbolism. The murals were painted using cochineal, a red dye from local insects, and other natural pigments. The church\'s organ, dating from 1610, is one of the oldest functioning organs in the Americas. The Jesuits were expelled from Peru in 1767, but the church continued as a parish, carefully preserved by the local community.',
+    historyEs: 'La Iglesia de San Pedro fue construida por jesuitas en 1570 sobre los cimientos de un templo Inca, usando los mismos bloques masivos de piedra. El notable interior fue creado a lo largo de siglos por artistas indígenas bajo dirección española, resultando en una mezcla única de iconografía religiosa europea con simbolismo andino. Los murales fueron pintados usando cochinilla, un tinte rojo de insectos locales, y otros pigmentos naturales. El órgano de la iglesia, que data de 1610, es uno de los órganos funcionales más antiguos de las Américas. Los jesuitas fueron expulsados de Perú en 1767, pero la iglesia continuó como parroquia, cuidadosamente preservada por la comunidad local.',
+    highlights: [
+      'Floor-to-ceiling baroque murals and frescoes',
+      'Gold leaf altarpiece and ornate decorations',
+      'One of the oldest organs in the Americas (1610)',
+      'Andean-Spanish fusion art',
+      'Inca stone foundations visible',
+      'Painted ceiling depicting "Road to Heaven"',
+      'Charming colonial plaza outside'
+    ],
+    highlightsEs: [
+      'Murales y frescos barrocos del piso al techo',
+      'Retablo de pan de oro y decoraciones ornamentadas',
+      'Uno de los órganos más antiguos de las Américas (1610)',
+      'Arte de fusión andino-española',
+      'Cimientos de piedra Inca visibles',
+      'Techo pintado representando "Camino al Cielo"',
+      'Encantadora plaza colonial afuera'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 adults, S/8 children (part of Baroque Route ticket)',
+    entranceFeeEs: 'S/15 adultos, S/8 niños (parte del boleto Ruta Barroca)',
+    bestTime: 'Year-round. Morning light through windows illuminates murals beautifully.',
+    bestTimeEs: 'Todo el año. La luz matutina a través de las ventanas ilumina hermosamente los murales.',
+    tips: [
+      'Combine with Raqchi and other South Valley sites',
+      'Part of the Baroque Route ticket (good value)',
+      'No photography allowed inside',
+      'Respect the active place of worship',
+      'The plaza outside has nice cafes'
+    ],
+    tipsEs: [
+      'Combina con Raqchi y otros sitios del Valle Sur',
+      'Parte del boleto Ruta Barroca (buen valor)',
+      'No se permite fotografía adentro',
+      'Respeta el lugar activo de culto',
+      'La plaza afuera tiene buenos cafés'
+    ],
+    nearbyAttractions: ['Huaro Church', 'Raqchi', 'Pikillacta', 'Tipón'],
+    relatedSites: ['tipon', 'pikillacta', 'raqchi'],
+    gettingThere: 'Located 40km south of Cusco on the road to Puno. Colectivos leave from Cusco\'s Av. de la Cultura. Most South Valley tours include this stop.',
+    gettingThereEs: 'Ubicado a 40km al sur de Cusco en la carretera a Puno. Los colectivos salen de la Av. de la Cultura de Cusco. La mayoría de los tours del Valle Sur incluyen esta parada.',
+    facilities: [
+      'Small visitor center',
+      'Guide services available',
+      'Plaza with cafes and shops',
+      'Restrooms nearby',
+      'Artisan market'
+    ],
+    facilitiesEs: [
+      'Pequeño centro de visitantes',
+      'Servicios de guías disponibles',
+      'Plaza con cafés y tiendas',
+      'Baños cercanos',
+      'Mercado artesanal'
+    ]
+  },
+  {
+    slug: 'raqchi',
+    name: 'Raqchi (Temple of Wiracocha)',
+    nameEs: 'Raqchi (Templo de Wiracocha)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3480,
+    description: 'Raqchi is home to the Temple of Wiracocha, the largest known Inca roofed structure ever built. This remarkable site features the remains of a massive temple dedicated to the supreme Inca deity, along with circular stone storehouses (qolqas) and residential compounds. The impressive central wall, originally 14 meters high, demonstrates innovative Inca construction techniques combining stone and adobe. Less visited than famous sites, Raqchi offers an authentic experience with a welcoming artisan community.',
+    descriptionEs: 'Raqchi alberga el Templo de Wiracocha, la estructura techada Inca más grande jamás construida. Este notable sitio presenta los restos de un masivo templo dedicado a la deidad suprema Inca, junto con almacenes circulares de piedra (qolqas) y complejos residenciales. El impresionante muro central, originalmente de 14 metros de alto, demuestra técnicas de construcción Inca innovadoras combinando piedra y adobe. Menos visitado que los sitios famosos, Raqchi ofrece una experiencia auténtica con una comunidad artesanal acogedora.',
+    history: 'The temple was constructed during the reign of Inca Wiracocha in the early 15th century and dedicated to the creator god of the same name. The central wall, rising 14 meters, supported an enormous thatched roof spanning over 90 meters. The 200 circular storage buildings (qolqas) stored food supplies for the Inca army and pilgrims. Spanish chroniclers recorded their astonishment at the temple\'s grandeur. The Spanish demolished much of the structure in their campaign against indigenous religion, but the scale remains impressive. Today, the local community hosts an important ceramics festival each June.',
+    historyEs: 'El templo fue construido durante el reinado del Inca Wiracocha a principios del siglo XV y dedicado al dios creador del mismo nombre. El muro central, de 14 metros de alto, soportaba un enorme techo de paja que abarcaba más de 90 metros. Los 200 edificios de almacenamiento circulares (qolqas) guardaban suministros de comida para el ejército Inca y peregrinos. Los cronistas españoles registraron su asombro ante la grandeza del templo. Los españoles demolieron gran parte de la estructura en su campaña contra la religión indígena, pero la escala sigue siendo impresionante. Hoy, la comunidad local celebra un importante festival de cerámica cada junio.',
+    highlights: [
+      'Massive temple wall - largest Inca roofed structure',
+      'Over 200 circular stone storehouses',
+      'Active local artisan community',
+      'Annual ceramics festival (June)',
+      'Less crowded authentic experience',
+      'Beautiful highland scenery',
+      'Resident llamas and alpacas'
+    ],
+    highlightsEs: [
+      'Muro del templo masivo - estructura techada Inca más grande',
+      'Más de 200 almacenes circulares de piedra',
+      'Comunidad artesanal local activa',
+      'Festival anual de cerámica (junio)',
+      'Experiencia auténtica menos concurrida',
+      'Hermoso paisaje de tierras altas',
+      'Llamas y alpacas residentes'
+    ],
+    familyRating: 4,
+    minAge: 4,
+    duration: '1.5-2.5 hours',
+    durationEs: '1.5-2.5 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/15 adults, S/8 children (part of South Valley ticket)',
+    entranceFeeEs: 'S/15 adultos, S/8 niños (parte del boleto Valle Sur)',
+    bestTime: 'Year-round. June for ceramics festival. April-October dry season best.',
+    bestTimeEs: 'Todo el año. Junio para festival de cerámica. Temporada seca abril-octubre mejor.',
+    tips: [
+      'Combine with Andahuaylillas and Pikillacta',
+      'Buy ceramics directly from local artisans',
+      'Kids enjoy exploring the qolqa circles',
+      'The community offers homestay options',
+      'Try the local quinoa soup at community restaurant'
+    ],
+    tipsEs: [
+      'Combina con Andahuaylillas y Pikillacta',
+      'Compra cerámica directamente de artesanos locales',
+      'Los niños disfrutan explorando los círculos de qolqas',
+      'La comunidad ofrece opciones de homestay',
+      'Prueba la sopa de quinoa local en el restaurante comunitario'
+    ],
+    nearbyAttractions: ['Andahuaylillas Church', 'Huaro Church', 'San Pedro de Cacha', 'Lake Titicaca road'],
+    relatedSites: ['andahuaylillas-church', 'pikillacta', 'tipon'],
+    gettingThere: 'Located 110km south of Cusco on the road to Puno. South Valley tours typically include Raqchi. Buses to Puno can drop you at the site.',
+    gettingThereEs: 'Ubicado a 110km al sur de Cusco en la carretera a Puno. Los tours del Valle Sur típicamente incluyen Raqchi. Buses a Puno pueden dejarte en el sitio.',
+    facilities: [
+      'Small visitor center',
+      'Local guide services',
+      'Community restaurant',
+      'Artisan market',
+      'Restrooms',
+      'Llama and alpaca area for photos'
+    ],
+    facilitiesEs: [
+      'Pequeño centro de visitantes',
+      'Servicios de guías locales',
+      'Restaurante comunitario',
+      'Mercado artesanal',
+      'Baños',
+      'Área de llamas y alpacas para fotos'
+    ]
+  },
+  {
+    slug: 'waqrapukara',
+    name: 'Waqrapukara (Horn Fortress)',
+    nameEs: 'Waqrapukara (Fortaleza del Cuerno)',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 4300,
+    description: 'Waqrapukara, meaning "horn fortress" in Quechua, is one of Peru\'s most dramatic and least-visited archaeological sites. Perched on twin volcanic rock spires high above a deep canyon, this pre-Inca and Inca ceremonial site offers stunning views and adventurous hiking. The challenging trek rewards families with older children with an unforgettable experience of discovery at a site that receives only a handful of visitors daily.',
+    descriptionEs: 'Waqrapukara, que significa "fortaleza del cuerno" en quechua, es uno de los sitios arqueológicos más dramáticos y menos visitados de Perú. Ubicado en agujas gemelas de roca volcánica muy por encima de un cañón profundo, este sitio ceremonial pre-Inca e Inca ofrece vistas impresionantes y caminatas aventureras. El desafiante trek recompensa a familias con niños mayores con una experiencia inolvidable de descubrimiento en un sitio que recibe solo un puñado de visitantes diariamente.',
+    history: 'Waqrapukara was originally built by the Qanchi people before being absorbed into the Inca Empire. The Incas transformed it into an important ceremonial center, likely associated with astronomical observations. The name refers to the horn-like rock formations that frame the main platform. Spanish chronicles mention it as a sacred site, though its remote location helped preserve it from colonial destruction. Relatively unknown until recently, it has gained attention as adventurous travelers seek alternatives to crowded sites. Archaeological studies continue to reveal its significance in the Inca religious calendar.',
+    historyEs: 'Waqrapukara fue originalmente construido por el pueblo Qanchi antes de ser absorbido por el Imperio Inca. Los Incas lo transformaron en un importante centro ceremonial, probablemente asociado con observaciones astronómicas. El nombre se refiere a las formaciones rocosas en forma de cuerno que enmarcan la plataforma principal. Las crónicas españolas lo mencionan como un sitio sagrado, aunque su ubicación remota ayudó a preservarlo de la destrucción colonial. Relativamente desconocido hasta recientemente, ha ganado atención mientras viajeros aventureros buscan alternativas a sitios concurridos. Los estudios arqueológicos continúan revelando su importancia en el calendario religioso Inca.',
+    highlights: [
+      'Dramatic twin spire rock formations',
+      'Virtually no crowds - authentic discovery',
+      'Stunning canyon and mountain views',
+      'Adventure trekking experience',
+      'Pre-Inca and Inca dual history',
+      'Photogenic setting at any time',
+      'Wildlife spotting (condors, viscachas)'
+    ],
+    highlightsEs: [
+      'Dramáticas formaciones rocosas de agujas gemelas',
+      'Virtualmente sin multitudes - descubrimiento auténtico',
+      'Impresionantes vistas del cañón y montañas',
+      'Experiencia de trekking aventurero',
+      'Historia dual pre-Inca e Inca',
+      'Escenario fotogénico en cualquier momento',
+      'Avistamiento de fauna (cóndores, vizcachas)'
+    ],
+    familyRating: 3,
+    minAge: 10,
+    duration: 'Full day (8-10 hours from Cusco)',
+    durationEs: 'Día completo (8-10 horas desde Cusco)',
+    difficulty: 'challenging',
+    entranceFee: 'S/10 community fee',
+    entranceFeeEs: 'S/10 tarifa comunitaria',
+    bestTime: 'April-October dry season. June-August clearest skies for photos.',
+    bestTimeEs: 'Temporada seca abril-octubre. Junio-agosto cielos más claros para fotos.',
+    tips: [
+      'Trek is moderate but altitude is challenging',
+      'Start very early for best light and weather',
+      'Bring layers - weather changes rapidly',
+      'Hire local community guides for best experience',
+      'Can camp overnight for sunrise photos'
+    ],
+    tipsEs: [
+      'El trek es moderado pero la altitud es desafiante',
+      'Comienza muy temprano para mejor luz y clima',
+      'Trae capas - el clima cambia rápidamente',
+      'Contrata guías de la comunidad local para mejor experiencia',
+      'Puedes acampar para fotos del amanecer'
+    ],
+    nearbyAttractions: ['Acomayo', 'Checacupe', 'Ausangate Circuit'],
+    relatedSites: ['choquequirao', 'moray', 'sacsayhuaman'],
+    gettingThere: 'About 4 hours drive from Cusco to trailhead near Sangarara village, then 2-3 hour hike. Most visitors book tours that include transport and guide.',
+    gettingThereEs: 'Aproximadamente 4 horas en auto desde Cusco al inicio del sendero cerca del pueblo de Sangarara, luego 2-3 horas de caminata. La mayoría de visitantes reservan tours que incluyen transporte y guía.',
+    facilities: [
+      'Basic facilities only',
+      'Community guides available',
+      'No restrooms at site (natural facilities)',
+      'Some tours provide camping equipment',
+      'Local community lunch options'
+    ],
+    facilitiesEs: [
+      'Solo instalaciones básicas',
+      'Guías comunitarios disponibles',
+      'Sin baños en el sitio (instalaciones naturales)',
+      'Algunos tours proveen equipo de camping',
+      'Opciones de almuerzo de la comunidad local'
+    ]
+  },
+  {
+    slug: 'palomino-islands',
+    name: 'Palomino Islands (Sea Lion Sanctuary)',
+    nameEs: 'Islas Palomino (Santuario de Lobos Marinos)',
+    type: 'natural',
+    city: 'lima',
+    region: 'Lima Region',
+    regionEs: 'Región Lima',
+    altitude: 0,
+    description: 'The Palomino Islands, part of the larger Callao Islands group just off Lima\'s coast, are home to one of Peru\'s largest sea lion colonies. This family-friendly wildlife adventure offers the unique opportunity to swim with wild South American sea lions in their natural habitat. Boat tours also showcase Humboldt penguins, countless seabirds, and occasional dolphins, making it one of the best wildlife experiences accessible from Lima.',
+    descriptionEs: 'Las Islas Palomino, parte del grupo más grande de Islas del Callao frente a la costa de Lima, albergan una de las colonias de lobos marinos más grandes de Perú. Esta aventura de vida silvestre familiar ofrece la oportunidad única de nadar con lobos marinos sudamericanos salvajes en su hábitat natural. Los tours en bote también muestran pingüinos de Humboldt, innumerables aves marinas y delfines ocasionales, convirtiéndola en una de las mejores experiencias de vida silvestre accesibles desde Lima.',
+    history: 'The Palomino Islands have been a wildlife sanctuary for centuries, protected by cold Humboldt Current waters that create rich marine ecosystems. Early Spanish explorers noted the massive seabird and sea lion populations. In the 19th century, the islands were exploited for guano (bird droppings used as fertilizer), which nearly decimated wildlife. Since gaining protected status, populations have recovered dramatically. Today the islands host an estimated 8,000 sea lions along with significant Humboldt penguin colonies. Sustainable ecotourism now provides both income and incentive for conservation.',
+    historyEs: 'Las Islas Palomino han sido un santuario de vida silvestre por siglos, protegidas por las frías aguas de la Corriente de Humboldt que crean ricos ecosistemas marinos. Los primeros exploradores españoles notaron las masivas poblaciones de aves marinas y lobos marinos. En el siglo XIX, las islas fueron explotadas por guano (excrementos de aves usados como fertilizante), lo que casi diezmó la vida silvestre. Desde que obtuvieron estatus de protección, las poblaciones se han recuperado dramáticamente. Hoy las islas albergan aproximadamente 8,000 lobos marinos junto con colonias significativas de pingüinos de Humboldt. El ecoturismo sustentable ahora proporciona tanto ingresos como incentivos para la conservación.',
+    highlights: [
+      'Swim with wild sea lions',
+      'See Humboldt penguins up close',
+      'Massive seabird colonies',
+      'Possible dolphin sightings',
+      'Close-up wildlife photography',
+      'Only 45 minutes from Lima',
+      'Year-round wildlife experience'
+    ],
+    highlightsEs: [
+      'Nadar con lobos marinos salvajes',
+      'Ver pingüinos de Humboldt de cerca',
+      'Masivas colonias de aves marinas',
+      'Posibles avistamientos de delfines',
+      'Fotografía de vida silvestre de cerca',
+      'Solo 45 minutos desde Lima',
+      'Experiencia de vida silvestre todo el año'
+    ],
+    familyRating: 5,
+    minAge: 6,
+    duration: '4-5 hours (half-day tour)',
+    durationEs: '4-5 horas (tour de medio día)',
+    difficulty: 'easy',
+    entranceFee: 'Tours cost $50-80 per person including equipment',
+    entranceFeeEs: 'Tours cuestan $50-80 por persona incluyendo equipo',
+    bestTime: 'Year-round. December-March warmest water. July-September most sea lion pups.',
+    bestTimeEs: 'Todo el año. Diciembre-marzo agua más cálida. Julio-septiembre más crías de lobos marinos.',
+    tips: [
+      'Swimming with sea lions is optional - boat viewing excellent',
+      'Wetsuits provided - water is cold (15-18°C)',
+      'Book morning tours for calmer seas',
+      'Bring binoculars for seabird viewing',
+      'Motion sickness pills recommended if sensitive'
+    ],
+    tipsEs: [
+      'Nadar con lobos marinos es opcional - vista desde el bote excelente',
+      'Trajes de neopreno proporcionados - el agua es fría (15-18°C)',
+      'Reserva tours matutinos para mares más tranquilos',
+      'Trae binoculares para observar aves marinas',
+      'Pastillas para mareos recomendadas si eres sensible'
+    ],
+    nearbyAttractions: ['Callao Historic Center', 'La Punta', 'Real Felipe Fortress', 'Lima Historic Center'],
+    relatedSites: ['paracas-national-reserve', 'ballestas-islands', 'miraflores-boardwalk'],
+    gettingThere: 'Tours depart from La Punta pier in Callao, about 30-45 minutes from Miraflores. Most operators include hotel pickup from Lima.',
+    gettingThereEs: 'Los tours salen del muelle de La Punta en Callao, aproximadamente 30-45 minutos desde Miraflores. La mayoría de operadores incluyen recogida del hotel desde Lima.',
+    facilities: [
+      'Boats with restrooms',
+      'Wetsuits and snorkeling equipment provided',
+      'Experienced boat crews',
+      'Safety briefings',
+      'Hot drinks on return trip'
+    ],
+    facilitiesEs: [
+      'Botes con baños',
+      'Trajes de neopreno y equipo de snorkel proporcionados',
+      'Tripulaciones de bote experimentadas',
+      'Charlas de seguridad',
+      'Bebidas calientes en viaje de regreso'
+    ]
   }
 ];
 
