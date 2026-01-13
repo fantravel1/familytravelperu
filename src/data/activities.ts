@@ -15173,6 +15173,434 @@ export const activities: Activity[] = [
       { name: 'Northern Peru Expeditions', familyFriendly: true },
       { name: 'Colonial Trujillo Tours', familyFriendly: true }
     ]
+  },
+
+  // Batch 15 Activities
+  {
+    slug: 'huaca-pucllana-night-tour',
+    name: 'Huaca Pucllana Illuminated Night Tour',
+    nameEs: 'Tour Nocturno Iluminado de Huaca Pucllana',
+    type: 'educational',
+    city: 'lima',
+    region: 'Lima',
+    regionEs: 'Lima',
+    description: 'Experience the magic of ancient Lima after dark with a guided tour of Huaca Pucllana, a pre-Inca adobe pyramid dramatically illuminated against the night sky in the heart of Miraflores. This unforgettable evening combines archaeology with atmosphere as warm lighting transforms the 1,500-year-old ceremonial center into something mystical, with Lima\'s modern skyline providing a striking backdrop. Perfect for families who want an accessible introduction to Peru\'s ancient past without long travel days, this unique urban archaeological experience offers cool evening temperatures, smaller crowds, and the opportunity to dine at the acclaimed on-site restaurant with pyramid views.',
+    descriptionEs: 'Experimenta la magia del Lima antiguo después del anochecer con un tour guiado de Huaca Pucllana, una pirámide de adobe pre-Inca dramáticamente iluminada contra el cielo nocturno en el corazón de Miraflores. Esta velada inolvidable combina arqueología con atmósfera mientras la iluminación cálida transforma el centro ceremonial de 1,500 años de antigüedad en algo místico, con el horizonte moderno de Lima proporcionando un telón de fondo llamativo. Perfecto para familias que quieren una introducción accesible al pasado antiguo de Perú sin largos días de viaje, esta experiencia arqueológica urbana única ofrece temperaturas frescas de noche, menos multitudes, y la oportunidad de cenar en el aclamado restaurante en sitio con vistas a la pirámide.',
+    whatToExpect: 'Your night tour begins at dusk as the sun sets over Lima and the pyramid\'s lighting system gradually transforms the ancient adobe structure into a glowing monument. Professional English-speaking guides lead small groups along paved pathways through the excavated ceremonial complex, explaining the Lima culture that built this temple nearly 1,500 years ago. The unique "bookshelf" adobe construction—vertical bricks separated by gaps for earthquake resistance—is particularly striking when lit from below, casting dramatic shadows that enhance the sense of ancient mystery. Children are fascinated by stories of human sacrifices, ceremonial offerings including shark teeth, and the mummies discovered in Wari-era tombs. The on-site museum displays original artifacts including textiles, ceramics, and preserved mummies, all well-lit and air-conditioned. The tour covers approximately 1 kilometer of flat, paved paths accessible to all ages. Resident cats roam the grounds, delighting children who try to spot them in the shadows. After the tour, families can dine at the restaurant built into the archaeological complex, enjoying innovative Peruvian cuisine while gazing at the illuminated pyramid through floor-to-ceiling windows. The combination of education, atmosphere, and gastronomy makes this one of Lima\'s most memorable family experiences.',
+    whatToExpectEs: 'Tu tour nocturno comienza al anochecer mientras el sol se pone sobre Lima y el sistema de iluminación de la pirámide gradualmente transforma la antigua estructura de adobe en un monumento brillante. Guías profesionales de habla inglesa lideran grupos pequeños a lo largo de senderos pavimentados a través del complejo ceremonial excavado, explicando la cultura Lima que construyó este templo hace casi 1,500 años. La única construcción de adobe "librero"—ladrillos verticales separados por espacios para resistencia a terremotos—es particularmente llamativa cuando se ilumina desde abajo, proyectando sombras dramáticas que realzan el sentido de misterio antiguo. Los niños quedan fascinados por historias de sacrificios humanos, ofrendas ceremoniales incluyendo dientes de tiburón, y las momias descubiertas en tumbas de la era Wari. El museo en sitio exhibe artefactos originales incluyendo textiles, cerámicas, y momias preservadas, todo bien iluminado y con aire acondicionado. El tour cubre aproximadamente 1 kilómetro de senderos planos y pavimentados accesibles para todas las edades. Gatos residentes deambulan por los terrenos, deleitando a niños que intentan verlos en las sombras. Después del tour, las familias pueden cenar en el restaurante construido dentro del complejo arqueológico, disfrutando cocina peruana innovadora mientras contemplan la pirámide iluminada a través de ventanales de piso a techo. La combinación de educación, atmósfera y gastronomía hace de esto una de las experiencias familiares más memorables de Lima.',
+    highlights: [
+      'Magical illuminated pre-Inca pyramid',
+      'Dramatic nighttime atmosphere',
+      'Cooler evening temperatures than daytime',
+      'Smaller crowds than day tours',
+      'On-site museum with mummies and artifacts',
+      'Award-winning restaurant with pyramid views',
+      'Easy walking on paved paths',
+      'Professional English-speaking guides',
+      'No altitude issues—sea level',
+      'Perfect first night activity in Lima',
+      'Cats roam the grounds—kids love them',
+      'Accessible location in Miraflores'
+    ],
+    highlightsEs: [
+      'Mágica pirámide pre-Inca iluminada',
+      'Dramática atmósfera nocturna',
+      'Temperaturas más frescas por la noche que de día',
+      'Menos multitudes que tours de día',
+      'Museo en sitio con momias y artefactos',
+      'Restaurante galardonado con vistas a pirámide',
+      'Caminata fácil en senderos pavimentados',
+      'Guías profesionales de habla inglesa',
+      'Sin problemas de altitud—nivel del mar',
+      'Perfecta primera actividad nocturna en Lima',
+      'Gatos deambulan por los terrenos—niños los aman',
+      'Ubicación accesible en Miraflores'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '1.5-2 hours (plus dinner optional)',
+    durationEs: '1.5-2 horas (más cena opcional)',
+    difficulty: 'easy',
+    priceRange: 'S/17 adults, S/8.50 students. Restaurant dinner $50-100 extra.',
+    priceRangeEs: 'S/17 adultos, S/8.50 estudiantes. Cena en restaurante $50-100 extra.',
+    bestTime: 'Wednesday-Sunday evenings (night tours). Tours start at 7pm.',
+    bestTimeEs: 'Noches de miércoles-domingo (tours nocturnos). Tours comienzan a las 7pm.',
+    includes: [
+      'Professional English-speaking guide',
+      'Museum entrance',
+      'All site access',
+      'Illuminated tour route'
+    ],
+    includesEs: [
+      'Guía profesional de habla inglesa',
+      'Entrada al museo',
+      'Acceso a todo el sitio',
+      'Ruta de tour iluminada'
+    ],
+    tips: [
+      'Book dinner reservations in advance',
+      'Arrive 15 minutes before 7pm tour',
+      'Bring light jacket for evening coolness',
+      'Photography permitted throughout',
+      'Evening tours less crowded than sunset',
+      'Kids enjoy hunting for resident cats',
+      'Last tour usually most magical'
+    ],
+    tipsEs: [
+      'Reserva cena con anticipación',
+      'Llega 15 minutos antes del tour de 7pm',
+      'Trae chaqueta ligera para frescura nocturna',
+      'Fotografía permitida en todo el sitio',
+      'Tours nocturnos menos concurridos que al atardecer',
+      'Niños disfrutan buscando gatos residentes',
+      'Último tour usualmente más mágico'
+    ],
+    safetyNotes: [
+      'Well-lit paths throughout',
+      'Flat paved surfaces—wheelchair accessible',
+      'Safe upscale Miraflores location',
+      'Security guards on site',
+      'Easy walking suitable for all ages',
+      'Cool but not cold evening temperatures'
+    ],
+    safetyNotesEs: [
+      'Senderos bien iluminados en todo el sitio',
+      'Superficies planas pavimentadas—accesible para sillas de ruedas',
+      'Ubicación segura en exclusivo Miraflores',
+      'Guardias de seguridad en sitio',
+      'Caminata fácil apropiada para todas las edades',
+      'Temperaturas nocturnas frescas pero no frías'
+    ],
+    relatedActivities: ['lima-walking-tour', 'larco-museum-tour', 'miraflores-food-tour'],
+    providers: [
+      { name: 'Huaca Pucllana (direct)', familyFriendly: true },
+      { name: 'Lima Explorers', familyFriendly: true },
+      { name: 'Peru Hop Lima Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'manu-wildlife-expedition',
+    name: 'Manu Biosphere Family Wildlife Expedition',
+    nameEs: 'Expedición Familiar de Vida Silvestre en Biosfera del Manu',
+    type: 'nature',
+    city: 'cusco',
+    region: 'Cusco / Madre de Dios',
+    regionEs: 'Cusco / Madre de Dios',
+    description: 'Embark on the adventure of a lifetime exploring Manu Biosphere Reserve, one of Earth\'s most biodiverse places, on a family-focused wildlife expedition that descends from Andean cloud forests to pristine Amazon rainforest. This multi-day immersion takes families through dramatic ecosystems, from highland grasslands through orchid-draped cloud forests to steamy lowland jungle, spotting iconic wildlife including macaws at clay licks, giant river otters, monkeys, caimans, and hundreds of bird species. Designed with families in mind, this expedition balances adventure with comfort, education with wonder, creating profound connections with nature that children remember forever.',
+    descriptionEs: 'Embárcate en la aventura de toda una vida explorando la Reserva de Biósfera del Manu, uno de los lugares con mayor biodiversidad de la Tierra, en una expedición familiar de vida silvestre que desciende desde bosques nublados andinos hasta selva amazónica prístina. Esta inmersión de varios días lleva a familias a través de ecosistemas dramáticos, desde pastizales de altura a través de bosques nublados cubiertos de orquídeas hasta selva húmeda de tierras bajas, avistando vida silvestre icónica incluyendo guacamayos en colpas, nutrias gigantes de río, monos, caimanes, y cientos de especies de aves. Diseñado pensando en familias, esta expedición equilibra aventura con comodidad, educación con asombro, creando conexiones profundas con la naturaleza que los niños recuerdan para siempre.',
+    whatToExpect: 'Your expedition begins in Cusco with an early morning departure, climbing over a 3,800-meter pass before descending through some of South America\'s most dramatic scenery. The road drops from barren puna grasslands through the cloud forest transition zone—look for the stunning cock-of-the-rock at dawn viewing points and orchids clinging to mossy branches. Day one typically includes stops at cloud forest lodges where families walk trails through dripping forest searching for quetzals, toucans, and hummingbirds. The following days continue the descent to lowland jungle lodges accessible only by boat along the Manu River. Mornings start before dawn for visits to clay licks where hundreds of macaws and parakeets gather to eat mineral-rich clay, creating one of nature\'s most spectacular displays. Days are filled with jungle walks on well-maintained trails, canoe excursions on oxbow lakes searching for giant river otters, caimans, and piranhas, and boat trips looking for capybaras, tapirs, and monkeys along the riverbanks. Expert naturalist guides carry spotting scopes and know exactly where to find wildlife. Evenings include night walks searching for frogs, tarantulas, and nocturnal mammals. Accommodations are comfortable eco-lodges with private rooms, electricity, and hot showers—wilderness adventure without roughing it. Meals showcase local cuisine with plenty of kid-friendly options. The journey returns via a different route, maximizing ecosystem diversity and wildlife sightings.',
+    whatToExpectEs: 'Tu expedición comienza en Cusco con una salida temprano en la mañana, subiendo sobre un paso de 3,800 metros antes de descender a través de algunos de los paisajes más dramáticos de Sudamérica. El camino baja desde pastizales de puna desolados a través de la zona de transición del bosque nublado—busca el impresionante gallito de las rocas en puntos de observación al amanecer y orquídeas aferrándose a ramas musgosas. El primer día típicamente incluye paradas en lodges del bosque nublado donde las familias caminan senderos a través del bosque goteante buscando quetzales, tucanes y colibríes. Los días siguientes continúan el descenso a lodges de selva de tierras bajas accesibles solo por bote a lo largo del Río Manu. Las mañanas comienzan antes del amanecer para visitas a colpas donde cientos de guacamayos y pericos se reúnen para comer arcilla rica en minerales, creando uno de los espectáculos más espectaculares de la naturaleza. Los días están llenos de caminatas por la selva en senderos bien mantenidos, excursiones en canoa en lagos de herradura buscando nutrias gigantes de río, caimanes y pirañas, y viajes en bote buscando capibaras, tapires y monos a lo largo de las riberas. Guías naturalistas expertos llevan telescopios y saben exactamente dónde encontrar vida silvestre. Las noches incluyen caminatas nocturnas buscando ranas, tarántulas y mamíferos nocturnos. Los alojamientos son cómodos eco-lodges con habitaciones privadas, electricidad y duchas calientes—aventura en la naturaleza sin incomodidades. Las comidas presentan cocina local con muchas opciones amigables para niños. El viaje regresa por una ruta diferente, maximizando diversidad de ecosistemas y avistamientos de vida silvestre.',
+    highlights: [
+      'One of Earth\'s most biodiverse places',
+      'Journey from Andes to Amazon',
+      'Macaw clay lick spectacle at dawn',
+      'Giant river otters on oxbow lakes',
+      'Cock-of-the-rock viewing',
+      '1,000+ bird species possible',
+      'Monkeys, caimans, capybaras',
+      'Comfortable eco-lodge accommodations',
+      'Expert naturalist guides',
+      'Night walks for nocturnal wildlife',
+      'Indigenous community visits option',
+      'Pristine primary rainforest'
+    ],
+    highlightsEs: [
+      'Uno de los lugares con más biodiversidad de la Tierra',
+      'Viaje desde Andes hasta Amazonía',
+      'Espectáculo de colpa de guacamayos al amanecer',
+      'Nutrias gigantes de río en lagos de herradura',
+      'Observación de gallito de las rocas',
+      '1,000+ especies de aves posibles',
+      'Monos, caimanes, capibaras',
+      'Alojamientos cómodos en eco-lodges',
+      'Guías naturalistas expertos',
+      'Caminatas nocturnas para vida silvestre nocturna',
+      'Opción de visitas a comunidades indígenas',
+      'Selva primaria prístina'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '5-8 days',
+    durationEs: '5-8 días',
+    difficulty: 'moderate',
+    priceRange: '$1,500-3,500 USD per person depending on duration',
+    priceRangeEs: '$1,500-3,500 USD por persona dependiendo de duración',
+    bestTime: 'May-October dry season best. June-August peak wildlife.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Junio-Agosto pico de vida silvestre.',
+    includes: [
+      'All transportation from/to Cusco',
+      'All lodge accommodations',
+      'All meals',
+      'Expert naturalist guides',
+      'All park fees and permits',
+      'Boats and canoes',
+      'Rubber boots at lodges',
+      'Spotting scopes and binoculars'
+    ],
+    includesEs: [
+      'Todo el transporte desde/hacia Cusco',
+      'Todos los alojamientos en lodges',
+      'Todas las comidas',
+      'Guías naturalistas expertos',
+      'Todas las tarifas y permisos del parque',
+      'Botes y canoas',
+      'Botas de goma en lodges',
+      'Telescopios y binoculares'
+    ],
+    tips: [
+      'Acclimatize in Cusco before departure',
+      'Bring binoculars and camera with zoom',
+      'Waterproof bags essential',
+      'Pack insect repellent and sun protection',
+      'Light, quick-dry clothing recommended',
+      'Book months in advance—limited permits',
+      'Bring field guides for birds/wildlife'
+    ],
+    tipsEs: [
+      'Aclimátate en Cusco antes de salir',
+      'Trae binoculares y cámara con zoom',
+      'Bolsas impermeables esenciales',
+      'Empaca repelente de insectos y protección solar',
+      'Ropa ligera de secado rápido recomendada',
+      'Reserva con meses de anticipación—permisos limitados',
+      'Trae guías de campo para aves/vida silvestre'
+    ],
+    safetyNotes: [
+      'Expert guides manage all safety',
+      'Lodges have basic medical supplies',
+      'Satellite communication available',
+      'Yellow fever vaccination required',
+      'Antimalarials recommended',
+      'Safe, well-established routes'
+    ],
+    safetyNotesEs: [
+      'Guías expertos manejan toda la seguridad',
+      'Lodges tienen suministros médicos básicos',
+      'Comunicación satelital disponible',
+      'Vacuna de fiebre amarilla requerida',
+      'Antimaláricos recomendados',
+      'Rutas seguras y bien establecidas'
+    ],
+    relatedActivities: ['tambopata-jungle-adventure', 'amazon-river-cruise', 'birdwatching-tour'],
+    providers: [
+      { name: 'Manu Nature Tours', familyFriendly: true },
+      { name: 'Manu Expeditions', familyFriendly: true },
+      { name: 'InkaNatura Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'cusco-cathedral-colonial-art-tour',
+    name: 'Cusco Cathedral & Colonial Art Tour',
+    nameEs: 'Tour de la Catedral del Cusco y Arte Colonial',
+    type: 'cultural',
+    city: 'cusco',
+    region: 'Cusco',
+    regionEs: 'Cusco',
+    description: 'Discover the treasure-filled Cusco Cathedral and surrounding Plaza de Armas churches on an expert-guided tour exploring the fascinating collision of Spanish Catholicism and Andean culture through colonial art. This family-friendly cultural experience reveals how indigenous artists encoded Andean symbols and traditions within Catholic religious art, creating the distinctive Cusco School style that produced over 400 paintings now adorning the cathedral walls. Hunt for the guinea pig in the famous Last Supper painting, marvel at tons of hand-beaten gold and silver altarpieces, and understand how this magnificent church—built with stones from Inca Sacsayhuamán—represents Peru\'s complex mestizo heritage.',
+    descriptionEs: 'Descubre la Catedral del Cusco llena de tesoros y las iglesias circundantes de la Plaza de Armas en un tour guiado por expertos explorando la fascinante colisión del catolicismo español y la cultura andina a través del arte colonial. Esta experiencia cultural amigable para familias revela cómo artistas indígenas codificaron símbolos y tradiciones andinas dentro del arte religioso católico, creando el distintivo estilo de la Escuela Cusqueña que produjo más de 400 pinturas que ahora adornan las paredes de la catedral. Busca el cuy en la famosa pintura de la Última Cena, maravíllate con toneladas de retablos de oro y plata martillados a mano, y entiende cómo esta magnífica iglesia—construida con piedras de Sacsayhuamán Inca—representa la compleja herencia mestiza de Perú.',
+    whatToExpect: 'Your colonial art tour begins at the Plaza de Armas, Peru\'s most magnificent central square, with your expert guide explaining how this space served as the ceremonial heart of the Inca Empire before Spanish transformation. The main focus is the massive Cusco Cathedral, constructed over 95 years (1559-1654) using precisely cut stones taken from the nearby Inca fortress of Sacsayhuamán—a powerful symbol of Spanish dominance. Inside, the cathedral holds an overwhelming collection of colonial religious art, with your guide helping decode the fascinating fusion of Spanish and Andean traditions. The highlight for families is hunting for hidden Andean symbols: the Last Supper painting by Marcos Zapata famously shows Christ and the apostles about to dine on cuy (guinea pig), the sacred Andean ceremonial food. Other paintings include mountains shaped like the Virgin\'s dress and native plants replacing traditional flowers. Children enjoy these visual scavenger hunts for cultural clues. The cathedral\'s gold and silver altars weigh several tons each, demonstrating the wealth extracted from Peru\'s mines. The tour includes the connected churches of El Triunfo and Jesús María, plus La Compañía de Jesús across the plaza, whose ornate façade rivals the cathedral. Your guide explains El Señor de los Temblores (Lord of the Earthquakes), the crucifix paraded through Cusco since the devastating 1650 earthquake and still venerated during Holy Week. The tour provides essential context for understanding Peru\'s colonial heritage and mestizo identity.',
+    whatToExpectEs: 'Tu tour de arte colonial comienza en la Plaza de Armas, la plaza central más magnífica de Perú, con tu guía experto explicando cómo este espacio sirvió como corazón ceremonial del Imperio Inca antes de la transformación española. El enfoque principal es la masiva Catedral del Cusco, construida durante 95 años (1559-1654) usando piedras cortadas precisamente tomadas de la cercana fortaleza Inca de Sacsayhuamán—un poderoso símbolo del dominio español. Dentro, la catedral contiene una abrumadora colección de arte religioso colonial, con tu guía ayudando a decodificar la fascinante fusión de tradiciones españolas y andinas. El punto culminante para familias es buscar símbolos andinos escondidos: la pintura de la Última Cena por Marcos Zapata famosamente muestra a Cristo y los apóstoles a punto de cenar cuy (conejillo de indias), la comida ceremonial sagrada andina. Otras pinturas incluyen montañas con forma del vestido de la Virgen y plantas nativas reemplazando flores tradicionales. Los niños disfrutan estas búsquedas visuales de pistas culturales. Los altares de oro y plata de la catedral pesan varias toneladas cada uno, demostrando la riqueza extraída de las minas de Perú. El tour incluye las iglesias conectadas de El Triunfo y Jesús María, más La Compañía de Jesús al otro lado de la plaza, cuya ornamentada fachada rivaliza con la catedral. Tu guía explica El Señor de los Temblores, el crucifijo desfilado por Cusco desde el devastador terremoto de 1650 y aún venerado durante Semana Santa. El tour proporciona contexto esencial para entender la herencia colonial de Perú y la identidad mestiza.',
+    highlights: [
+      'Most important colonial church in Peru',
+      'Over 400 Cusco School paintings',
+      'Hunt for guinea pig in Last Supper',
+      'Hidden Andean symbols in religious art',
+      'Tons of gold and silver altarpieces',
+      'Built with stones from Sacsayhuamán',
+      'El Señor de los Temblores crucifix',
+      'La Compañía de Jesús ornate façade',
+      'Expert guide decodes cultural fusion',
+      'UNESCO World Heritage Site',
+      'Plaza de Armas stunning location',
+      'Three churches on single ticket'
+    ],
+    highlightsEs: [
+      'Iglesia colonial más importante de Perú',
+      'Más de 400 pinturas de Escuela Cusqueña',
+      'Busca el cuy en la Última Cena',
+      'Símbolos andinos escondidos en arte religioso',
+      'Toneladas de retablos de oro y plata',
+      'Construida con piedras de Sacsayhuamán',
+      'Crucifijo del Señor de los Temblores',
+      'Ornamentada fachada de La Compañía de Jesús',
+      'Guía experto decodifica fusión cultural',
+      'Sitio del Patrimonio Mundial de la UNESCO',
+      'Impresionante ubicación en Plaza de Armas',
+      'Tres iglesias con un solo boleto'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$35-55 USD per person including entrance fees',
+    priceRangeEs: '$35-55 USD por persona incluyendo entradas',
+    bestTime: 'Year-round. Morning best for light and fewer crowds. Holy Week spectacular.',
+    bestTimeEs: 'Todo el año. Mañana mejor para luz y menos multitudes. Semana Santa espectacular.',
+    includes: [
+      'Professional English-speaking art historian guide',
+      'Cathedral entrance fee',
+      'Iglesia del Triunfo access',
+      'Jesús María access',
+      'La Compañía de Jesús entrance',
+      'Cultural interpretation throughout'
+    ],
+    includesEs: [
+      'Guía historiador del arte profesional de habla inglesa',
+      'Entrada a la catedral',
+      'Acceso a Iglesia del Triunfo',
+      'Acceso a Jesús María',
+      'Entrada a La Compañía de Jesús',
+      'Interpretación cultural durante todo el tour'
+    ],
+    tips: [
+      'Photography prohibited inside cathedral',
+      'Dress modestly—shoulders and knees covered',
+      'Morning light best for interior',
+      'Ask guide to help spot hidden symbols',
+      'Audio guides available as supplement',
+      'Holy Monday procession is unforgettable',
+      'Churches close during lunch'
+    ],
+    tipsEs: [
+      'Fotografía prohibida dentro de la catedral',
+      'Viste modestamente—hombros y rodillas cubiertos',
+      'Luz de mañana mejor para interior',
+      'Pide al guía que ayude a encontrar símbolos escondidos',
+      'Audioguías disponibles como suplemento',
+      'Procesión del Lunes Santo es inolvidable',
+      'Iglesias cierran durante almuerzo'
+    ],
+    safetyNotes: [
+      'Easy walking on flat surfaces',
+      'High altitude—acclimatize first',
+      'Stairs in some church areas',
+      'Safe, well-patrolled plaza area',
+      'Indoor with rest benches',
+      'Accessible main floor'
+    ],
+    safetyNotesEs: [
+      'Caminata fácil en superficies planas',
+      'Altitud elevada—aclimatarse primero',
+      'Escaleras en algunas áreas de iglesias',
+      'Área de plaza segura y bien patrullada',
+      'Interior con bancos de descanso',
+      'Planta principal accesible'
+    ],
+    relatedActivities: ['cusco-walking-tour', 'qorikancha-tour', 'san-blas-artisan-tour'],
+    providers: [
+      { name: 'Cusco Art Tours', familyFriendly: true },
+      { name: 'Context Travel Cusco', familyFriendly: true },
+      { name: 'Free Walking Tour Cusco', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'karajia-chachapoya-tour',
+    name: 'Karajía Sarcophagi & Cloud Warriors Tour',
+    nameEs: 'Tour de Sarcófagos de Karajía y Guerreros de las Nubes',
+    type: 'adventure',
+    city: 'chachapoyas',
+    region: 'Amazonas',
+    regionEs: 'Amazonas',
+    description: 'Journey into the remote cloud forests of northern Peru to witness the haunting Karajía Sarcophagi, dramatic cliff-side funerary monuments of the mysterious Chachapoya—the "Warriors of the Clouds." This off-the-beaten-path adventure takes families through stunning mountain scenery and traditional villages to view towering clay figures perched impossibly on narrow cliff ledges 200 meters above the valley, their painted faces staring across the misty landscape after 500 years. Combined with a visit to mysterious Quiocta Cave filled with stalactites and human remains, this full-day tour reveals one of Peru\'s least-known but most fascinating ancient cultures.',
+    descriptionEs: 'Viaja a los remotos bosques nublados del norte de Perú para presenciar los inquietantes Sarcófagos de Karajía, dramáticos monumentos funerarios en ladera de acantilado de los misteriosos Chachapoya—los "Guerreros de las Nubes." Esta aventura fuera del camino trillado lleva a familias a través de impresionante paisaje montañoso y pueblos tradicionales para ver figuras de arcilla imponentes posadas imposiblemente en estrechas cornisas de acantilado 200 metros sobre el valle, sus caras pintadas mirando a través del paisaje brumoso después de 500 años. Combinado con una visita a la misteriosa Cueva Quiocta llena de estalactitas y restos humanos, este tour de día completo revela una de las culturas antiguas menos conocidas pero más fascinantes de Perú.',
+    whatToExpect: 'Your Chachapoya adventure begins with early morning pickup in Chachapoyas, driving 2 hours through stunning mountain scenery to the traditional village of Cruz Pata. Along the way, your guide shares the remarkable story of the Chachapoya people—fierce warriors who built fortified cities throughout these cloud forests and resisted Inca conquest for generations before finally succumbing in the 1470s. From Cruz Pata, a 30-minute walk through farmland and forest brings you to the viewpoint overlooking the Karajía cliff. Here, perched on a narrow ledge 200 meters above the valley floor, stand six towering sarcophagi (originally eight—two fell during an earthquake) called purunmachus, meaning "ancient people." Each 2.5-meter-tall clay figure, made of adobe plastered over wooden frameworks, housed the mummified remains of important Chachapoya leaders. Their painted faces—with prominent chins and flattened features—still stare out across the valley after more than 500 years. Binoculars allow you to see details including original paint and the hollow spaces where skulls once sat atop the figures. The mystery of how the Chachapoya transported these heavy figures to such inaccessible cliffs fascinates visitors of all ages. After lunch in the village, continue to Quiocta Cave, a massive limestone cavern filled with stalactites, stalagmites, and—for adventurous families—ancient human bones left by Chachapoya who used caves as burial sites. Headlamps provided allow exploration of multiple chambers before returning to Chachapoyas by late afternoon.',
+    whatToExpectEs: 'Tu aventura Chachapoya comienza con recogida temprano en la mañana en Chachapoyas, conduciendo 2 horas a través de impresionante paisaje montañoso al pueblo tradicional de Cruz Pata. En el camino, tu guía comparte la notable historia del pueblo Chachapoya—feroces guerreros que construyeron ciudades fortificadas a través de estos bosques nublados y resistieron la conquista Inca por generaciones antes de finalmente sucumbir en los 1470s. Desde Cruz Pata, una caminata de 30 minutos a través de tierras de cultivo y bosque te lleva al mirador con vista al acantilado de Karajía. Aquí, posados en una estrecha cornisa 200 metros sobre el piso del valle, se yerguen seis sarcófagos imponentes (originalmente ocho—dos cayeron durante un terremoto) llamados purunmachus, significando "gente antigua." Cada figura de arcilla de 2.5 metros de altura, hecha de adobe enlucido sobre estructuras de madera, albergaba los restos momificados de importantes líderes Chachapoya. Sus caras pintadas—con mentones prominentes y rasgos aplanados—aún miran a través del valle después de más de 500 años. Binoculares permiten ver detalles incluyendo pintura original y los espacios huecos donde cráneos una vez se sentaban encima de las figuras. El misterio de cómo los Chachapoya transportaron estas pesadas figuras a acantilados tan inaccesibles fascina a visitantes de todas las edades. Después del almuerzo en el pueblo, continúa a la Cueva Quiocta, una masiva caverna de piedra caliza llena de estalactitas, estalagmitas y—para familias aventureras—huesos humanos antiguos dejados por Chachapoya que usaban cuevas como sitios de entierro. Linternas de cabeza proporcionadas permiten exploración de múltiples cámaras antes de regresar a Chachapoyas por la tarde.',
+    highlights: [
+      'Dramatic cliff-side sarcophagi',
+      '2.5-meter-tall painted clay figures',
+      '500-year-old funerary monuments',
+      'Mysterious Chachapoya "Cloud Warriors" culture',
+      'Stunning cloud forest scenery',
+      'Traditional Andean villages',
+      'Quiocta Cave with stalactites',
+      'Ancient human remains in cave',
+      'Off-the-beaten-path adventure',
+      'Far fewer tourists than southern Peru',
+      'Mystery of impossible cliff transport',
+      'Excellent local guides'
+    ],
+    highlightsEs: [
+      'Dramáticos sarcófagos en ladera de acantilado',
+      'Figuras de arcilla pintadas de 2.5 metros de altura',
+      'Monumentos funerarios de 500 años',
+      'Misteriosa cultura Chachapoya "Guerreros de las Nubes"',
+      'Impresionante paisaje de bosque nublado',
+      'Pueblos andinos tradicionales',
+      'Cueva Quiocta con estalactitas',
+      'Restos humanos antiguos en cueva',
+      'Aventura fuera del camino trillado',
+      'Muchos menos turistas que sur de Perú',
+      'Misterio de transporte imposible al acantilado',
+      'Excelentes guías locales'
+    ],
+    familyRating: 4,
+    minAge: 7,
+    duration: 'Full day (7-8 hours)',
+    durationEs: 'Día completo (7-8 horas)',
+    difficulty: 'moderate',
+    priceRange: 'S/100-180 per person depending on group size',
+    priceRangeEs: 'S/100-180 por persona dependiendo del tamaño del grupo',
+    bestTime: 'May-October dry season best. Year-round with rain gear.',
+    bestTimeEs: 'Mayo-Octubre temporada seca mejor. Todo el año con ropa de lluvia.',
+    includes: [
+      'Hotel pickup/drop-off in Chachapoyas',
+      'Private transportation',
+      'Professional English-speaking guide',
+      'Karajía entrance fee',
+      'Quiocta Cave entrance fee',
+      'Headlamps for cave',
+      'Lunch in traditional village'
+    ],
+    includesEs: [
+      'Recogida/retorno al hotel en Chachapoyas',
+      'Transporte privado',
+      'Guía profesional de habla inglesa',
+      'Entrada a Karajía',
+      'Entrada a Cueva Quiocta',
+      'Linternas de cabeza para cueva',
+      'Almuerzo en pueblo tradicional'
+    ],
+    tips: [
+      'Bring binoculars for sarcophagi details',
+      'Wear sturdy hiking shoes',
+      'Morning light best for photos',
+      'Cave can be cool—bring light jacket',
+      'Children love the cave adventure',
+      'Combine with Kuelap over multiple days',
+      'Chachapoyas has excellent base hotels'
+    ],
+    tipsEs: [
+      'Trae binoculares para detalles de sarcófagos',
+      'Usa zapatos de senderismo resistentes',
+      'Luz de mañana mejor para fotos',
+      'Cueva puede ser fresca—trae chaqueta ligera',
+      'Niños aman la aventura de la cueva',
+      'Combina con Kuelap en varios días',
+      'Chachapoyas tiene excelentes hoteles base'
+    ],
+    safetyNotes: [
+      'Moderate walking on uneven terrain',
+      'Viewpoint has barriers for safety',
+      'Cave requires some scrambling',
+      'Guide manages all safety in cave',
+      'Lower altitude than Cusco—easier',
+      'Rain can make trails slippery'
+    ],
+    safetyNotesEs: [
+      'Caminata moderada en terreno irregular',
+      'Mirador tiene barreras de seguridad',
+      'Cueva requiere algo de trepar',
+      'Guía maneja toda la seguridad en cueva',
+      'Altitud más baja que Cusco—más fácil',
+      'Lluvia puede hacer senderos resbaladizos'
+    ],
+    relatedActivities: ['kuelap-fortress-tour', 'gocta-waterfall-trek', 'leymebamba-museum-tour'],
+    providers: [
+      { name: 'Chachapoyas Explorer', familyFriendly: true },
+      { name: 'Cloud Forest Trek', familyFriendly: true },
+      { name: 'Turismo Explorer Chachapoyas', familyFriendly: true }
+    ]
   }
 ];
 
