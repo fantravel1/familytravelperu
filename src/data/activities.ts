@@ -12535,6 +12535,362 @@ export const activities: Activity[] = [
       { name: 'Wasai Lodge', familyFriendly: true },
       { name: 'Corto Maltes Amazonia', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'rainbow-mountain-trek',
+    name: 'Rainbow Mountain (Vinicunca) Day Trek',
+    nameEs: 'Trekking de Día a la Montaña de Colores (Vinicunca)',
+    type: 'adventure',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    description: 'Trek to one of Peru\'s most spectacular natural phenomena - Vinicunca, the famous Rainbow Mountain. Revealed only in 2015 after glaciers receded, this surreal mountainside striped in vivid reds, yellows, turquoise, and gold has become one of the country\'s most iconic destinations. While challenging due to extreme altitude, properly acclimatized families with older children will find the otherworldly scenery absolutely unforgettable.',
+    descriptionEs: 'Haz trekking a uno de los fenómenos naturales más espectaculares de Perú - Vinicunca, la famosa Montaña de Colores. Revelada solo en 2015 después de que los glaciares retrocedieron, esta ladera de montaña surrealista rayada en vivos rojos, amarillos, turquesa y oro se ha convertido en uno de los destinos más icónicos del país. Aunque desafiante debido a la altitud extrema, las familias debidamente aclimatadas con niños mayores encontrarán el paisaje de otro mundo absolutamente inolvidable.',
+    whatToExpect: 'Depart Cusco around 3-4 AM for the three-hour drive through sleeping villages and across high passes. Watch the sunrise paint the Andes pink as you travel. Stop for a hearty breakfast at a local restaurant in the small town of Cusipata. Continue to the Pampachiri trailhead at 4,600 meters where local families offer coca tea and horse rentals. Begin the gradual 5-kilometer hike, climbing 600 meters in altitude. The trail crosses high-altitude puna grassland where llamas and alpacas graze against a backdrop of snow-capped peaks. Pace yourself - the altitude is extreme. Local community members line the trail with horses for those who need assistance. As you approach the summit, the famous striped mountain suddenly comes into view - a sight that seems impossibly vivid. Spend time at the 5,200-meter viewpoint photographing this geological wonder. Optionally hike to the nearby Red Valley for equally stunning views. Descend for a late lunch before the drive back to Cusco.',
+    whatToExpectEs: 'Parte de Cusco alrededor de 3-4 AM para el viaje de tres horas a través de pueblos dormidos y cruces de pasos altos. Observa el amanecer pintar los Andes de rosa mientras viajas. Para para un desayuno abundante en un restaurante local en el pequeño pueblo de Cusipata. Continúa al inicio del sendero en Pampachiri a 4,600 metros donde familias locales ofrecen té de coca y alquiler de caballos. Comienza la caminata gradual de 5 kilómetros, subiendo 600 metros de altitud. El sendero cruza pastizales de puna de alta altitud donde llamas y alpacas pastan contra un fondo de picos nevados. Márcate tu propio ritmo - la altitud es extrema. Miembros de la comunidad local se alinean en el sendero con caballos para quienes necesitan asistencia. Mientras te acercas a la cumbre, la famosa montaña rayada repentinamente aparece a la vista - una vista que parece imposiblemente vívida. Pasa tiempo en el mirador de 5,200 metros fotografiando esta maravilla geológica. Opcionalmente camina al cercano Valle Rojo para vistas igualmente impresionantes. Desciende para un almuerzo tardío antes del viaje de regreso a Cusco.',
+    highlights: [
+      'Surreal rainbow-striped mountain',
+      'One of Peru\'s most iconic views',
+      'High-altitude puna landscapes',
+      'Traditional Quechua communities',
+      'Llamas and alpacas grazing',
+      'Optional Red Valley extension',
+      'Sunrise over the Andes'
+    ],
+    highlightsEs: [
+      'Montaña surrealista con rayas arcoíris',
+      'Una de las vistas más icónicas de Perú',
+      'Paisajes de puna de alta altitud',
+      'Comunidades Quechua tradicionales',
+      'Llamas y alpacas pastando',
+      'Extensión opcional al Valle Rojo',
+      'Amanecer sobre los Andes'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: 'Full day (14-16 hours)',
+    durationEs: 'Día completo (14-16 horas)',
+    difficulty: 'challenging',
+    priceRange: '$80-150 per person',
+    priceRangeEs: '$80-150 por persona',
+    bestTime: 'April-November dry season only. June-August best visibility. Morning departures for clear skies.',
+    bestTimeEs: 'Solo temporada seca abril-noviembre. Junio-agosto mejor visibilidad. Salidas matutinas para cielos despejados.',
+    includes: [
+      'Hotel pickup and drop-off',
+      'Breakfast and lunch',
+      'Professional guide',
+      'Entrance fees',
+      'Emergency oxygen',
+      'First aid kit'
+    ],
+    includesEs: [
+      'Recogida y regreso al hotel',
+      'Desayuno y almuerzo',
+      'Guía profesional',
+      'Entradas',
+      'Oxígeno de emergencia',
+      'Botiquín de primeros auxilios'
+    ],
+    tips: [
+      'Must acclimatize 3-4 days in Cusco first',
+      'Altitude (5,200m) is extreme - assess honestly',
+      'Horses available for $15-20 if needed',
+      'Bring warm windproof layers and sunscreen',
+      'Start early to beat afternoon clouds'
+    ],
+    tipsEs: [
+      'Debe aclimatarse 3-4 días en Cusco primero',
+      'Altitud (5,200m) es extrema - evalúa honestamente',
+      'Caballos disponibles por $15-20 si se necesita',
+      'Trae capas abrigadas cortaviento y protector solar',
+      'Empezar temprano para evitar nubes de la tarde'
+    ],
+    safetyNotes: [
+      'Extreme altitude (5,200m) - serious acclimatization required',
+      'Not recommended for heart/lung conditions',
+      'Turn back if symptoms become severe',
+      'Guide carries emergency oxygen',
+      'Weather changes rapidly - be prepared'
+    ],
+    safetyNotesEs: [
+      'Altitud extrema (5,200m) - aclimatación seria requerida',
+      'No recomendado para condiciones de corazón/pulmón',
+      'Regresa si los síntomas se vuelven severos',
+      'Guía lleva oxígeno de emergencia',
+      'El clima cambia rápidamente - estar preparado'
+    ],
+    relatedActivities: ['ausangate-trek', 'sacred-valley-tour', 'cusco-walking-tour'],
+    providers: [
+      { name: 'Alpaca Expeditions', familyFriendly: true },
+      { name: 'Cusco Adventures', familyFriendly: true },
+      { name: 'Rainbow Mountain Travels', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'sechin-archaeological-tour',
+    name: 'Sechín Ancient Warriors Archaeological Tour',
+    nameEs: 'Tour Arqueológico a los Guerreros Antiguos de Sechín',
+    type: 'cultural',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Ancash',
+    description: 'Step back 3,600 years to encounter one of the Americas\' most enigmatic and dramatic archaeological sites. Sechín\'s remarkable stone carvings depict fierce warriors, severed heads, and dismembered bodies in vivid detail, offering a startling window into pre-Columbian warfare and ritual. This off-the-beaten-path destination predates Peru\'s famous cultures by over a millennium, fascinating families interested in archaeology beyond the standard tourist circuit.',
+    descriptionEs: 'Retrocede 3,600 años para encontrar uno de los sitios arqueológicos más enigmáticos y dramáticos de las Américas. Los notables tallados en piedra de Sechín representan guerreros feroces, cabezas cortadas y cuerpos desmembrados en vívido detalle, ofreciendo una ventana sorprendente a la guerra precolombina y el ritual. Este destino fuera de lo común precede a las famosas culturas de Perú por más de un milenio, fascinando a familias interesadas en arqueología más allá del circuito turístico estándar.',
+    whatToExpect: 'Meet your guide in Casma for the short drive to this remarkable site. Begin at the on-site museum where artifacts and interpretive displays provide context for the mysterious carvings. Learn about the site\'s discovery by Peruvian archaeologist Julio C. Tello in 1937 and the ongoing debates about what the images represent. Walk to the main temple complex where over 400 carved stone figures line the walls. Your guide explains the progression of warriors carrying clubs and trophy heads while pointing out the disturbing imagery of dismembered body parts - arms, legs, vertebrae, even intestines carved in stone. Discuss theories about whether these depict actual battles, ritual sacrifice, or mythological narratives. Examine the detailed carving techniques used 3,600 years ago. Children are often fascinated by the puzzle of deciphering what these ancient people were trying to communicate. Finish with free time to photograph and explore before optional visit to nearby Casma beaches.',
+    whatToExpectEs: 'Encuentra a tu guía en Casma para el corto viaje a este notable sitio. Comienza en el museo en sitio donde artefactos y exhibiciones interpretativas proporcionan contexto para los misteriosos tallados. Aprende sobre el descubrimiento del sitio por el arqueólogo peruano Julio C. Tello en 1937 y los debates en curso sobre qué representan las imágenes. Camina al complejo del templo principal donde más de 400 figuras talladas en piedra bordean las paredes. Tu guía explica la progresión de guerreros llevando mazas y cabezas trofeo mientras señala la perturbadora imaginería de partes del cuerpo desmembradas - brazos, piernas, vértebras, incluso intestinos tallados en piedra. Discute teorías sobre si estos representan batallas reales, sacrificio ritual o narrativas mitológicas. Examina las técnicas detalladas de tallado usadas hace 3,600 años. Los niños frecuentemente se fascinan con el rompecabezas de descifrar qué intentaban comunicar estas personas antiguas. Termina con tiempo libre para fotografiar y explorar antes de visita opcional a las cercanas playas de Casma.',
+    highlights: [
+      'Over 400 ancient stone carvings',
+      '3,600-year-old warrior imagery',
+      'One of Americas\' oldest monumental art',
+      'On-site museum with artifacts',
+      'Expert guide interpretation',
+      'Off-the-beaten-path experience',
+      'Optional beach visit nearby'
+    ],
+    highlightsEs: [
+      'Más de 400 tallados antiguos en piedra',
+      'Imaginería de guerreros de 3,600 años',
+      'Uno de los artes monumentales más antiguos de las Américas',
+      'Museo en sitio con artefactos',
+      'Interpretación de guía experto',
+      'Experiencia fuera de lo común',
+      'Visita opcional a playa cercana'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$30-60 per person',
+    priceRangeEs: '$30-60 por persona',
+    bestTime: 'Year-round. Coastal climate is mild. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Clima costero es templado. Visitas matutinas evitan calor de la tarde.',
+    includes: [
+      'Transportation from Casma',
+      'Professional guide',
+      'Museum entrance',
+      'Site entrance fees',
+      'Bottled water'
+    ],
+    includesEs: [
+      'Transporte desde Casma',
+      'Guía profesional',
+      'Entrada al museo',
+      'Entradas al sitio',
+      'Agua embotellada'
+    ],
+    tips: [
+      'Content is graphic - prepare children appropriately',
+      'Great for kids interested in history mysteries',
+      'Combine with Casma beaches for full day',
+      'Photography allowed throughout',
+      'Hat and sunscreen recommended'
+    ],
+    tipsEs: [
+      'Contenido es gráfico - preparar niños apropiadamente',
+      'Genial para niños interesados en misterios históricos',
+      'Combina con playas de Casma para día completo',
+      'Fotografía permitida en todo el lugar',
+      'Sombrero y protector solar recomendados'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Shaded areas limited - bring sun protection',
+      'Easy flat walking throughout',
+      'Mild coastal temperatures',
+      'Modern visitor facilities'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Áreas sombreadas limitadas - traer protección solar',
+      'Caminata fácil y plana en todo el recorrido',
+      'Temperaturas costeras templadas',
+      'Instalaciones modernas para visitantes'
+    ],
+    relatedActivities: ['chavin-de-huantar-tour', 'caral-archaeology-tour', 'chan-chan-tour'],
+    providers: [
+      { name: 'Casma Tours', familyFriendly: true },
+      { name: 'Peru Ancient Cultures', familyFriendly: true },
+      { name: 'Ancash Expeditions', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'kotosh-temple-tour',
+    name: 'Kotosh Crossed Hands Temple Tour',
+    nameEs: 'Tour al Templo de las Manos Cruzadas de Kotosh',
+    type: 'cultural',
+    city: 'huanuco',
+    region: 'Huánuco Region',
+    regionEs: 'Región Huánuco',
+    description: 'Visit one of the Americas\' most ancient religious sites to see the famous "Crossed Hands" - a 4,000-year-old clay relief that has become a symbol of Peru\'s earliest civilizations. This off-the-beaten-path temple complex in a beautiful eastern Andean valley predates the Incas by three millennia, offering families a journey into Peru\'s mysterious formative period far from the usual tourist crowds.',
+    descriptionEs: 'Visita uno de los sitios religiosos más antiguos de las Américas para ver las famosas "Manos Cruzadas" - un relieve de arcilla de 4,000 años que se ha convertido en símbolo de las civilizaciones más tempranas de Perú. Este complejo de templos fuera de lo común en un hermoso valle de los Andes orientales precede a los Incas por tres milenios, ofreciendo a las familias un viaje al misterioso período formativo de Perú lejos de las multitudes turísticas usuales.',
+    whatToExpect: 'Meet your guide in Huánuco city for the short drive to this remarkable archaeological site in a green river valley. Begin at the visitor center to understand the significance of what you\'re about to see - Kotosh was a ceremonial center when the Egyptian pyramids were still new. Walk the site\'s ancient pathways to view multiple ceremonial chambers, each built in the distinctive "Kotosh Religious Tradition" style with central fire hearths. Your guide explains how these small rooms were ritually burned and buried, then rebuilt over centuries. The highlight is viewing the famous Crossed Hands relief - a replica of the original now in Lima. These crossed forearms, molded in clay 4,000 years ago, appear on Peru\'s ten-sol coin and symbolize the country\'s ancient heritage. Children enjoy hunting for the subtle differences between ceremonial chambers and imagining the rituals that once took place here. The peaceful setting and lack of crowds create an contemplative atmosphere.',
+    whatToExpectEs: 'Encuentra a tu guía en la ciudad de Huánuco para el corto viaje a este notable sitio arqueológico en un verde valle de río. Comienza en el centro de visitantes para entender la significancia de lo que estás a punto de ver - Kotosh era un centro ceremonial cuando las pirámides egipcias aún eran nuevas. Camina por los antiguos senderos del sitio para ver múltiples cámaras ceremoniales, cada una construida en el distintivo estilo de la "Tradición Religiosa Kotosh" con hogares de fuego centrales. Tu guía explica cómo estas pequeñas habitaciones eran ritualmente quemadas y enterradas, luego reconstruidas durante siglos. El punto culminante es ver el famoso relieve de las Manos Cruzadas - una réplica del original ahora en Lima. Estos antebrazos cruzados, moldeados en arcilla hace 4,000 años, aparecen en la moneda de diez soles de Perú y simbolizan la herencia antigua del país. Los niños disfrutan buscando las diferencias sutiles entre cámaras ceremoniales e imaginando los rituales que una vez tuvieron lugar aquí. El entorno pacífico y la falta de multitudes crean una atmósfera contemplativa.',
+    highlights: [
+      'Famous Crossed Hands relief (replica)',
+      '4,000-year-old ceremonial complex',
+      'Symbol featured on Peruvian currency',
+      'Kotosh Religious Tradition origins',
+      'Multiple ancient ceremonial chambers',
+      'Peaceful uncrowded site',
+      'Beautiful mountain valley setting'
+    ],
+    highlightsEs: [
+      'Famoso relieve de Manos Cruzadas (réplica)',
+      'Complejo ceremonial de 4,000 años',
+      'Símbolo presentado en moneda peruana',
+      'Orígenes de la Tradición Religiosa Kotosh',
+      'Múltiples cámaras ceremoniales antiguas',
+      'Sitio pacífico sin multitudes',
+      'Hermoso entorno de valle de montaña'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$25-50 per person',
+    priceRangeEs: '$25-50 por persona',
+    bestTime: 'Year-round. April-October dry season best. Pleasant climate at 1,950m altitude.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre mejor. Clima agradable a 1,950m de altitud.',
+    includes: [
+      'Transportation from Huánuco',
+      'Professional bilingual guide',
+      'Site entrance fees',
+      'Bottled water',
+      'Snack'
+    ],
+    includesEs: [
+      'Transporte desde Huánuco',
+      'Guía profesional bilingüe',
+      'Entradas al sitio',
+      'Agua embotellada',
+      'Snack'
+    ],
+    tips: [
+      'Original Crossed Hands in Lima - this is replica',
+      'Show children the 10 sol coin beforehand',
+      'Combine with Huánuco city exploration',
+      'Great acclimatization stop en route to jungle',
+      'Peaceful site - few other tourists'
+    ],
+    tipsEs: [
+      'Manos Cruzadas originales en Lima - esta es réplica',
+      'Muestra a los niños la moneda de 10 soles antes',
+      'Combina con exploración de la ciudad de Huánuco',
+      'Gran parada de aclimatación en ruta a la selva',
+      'Sitio pacífico - pocos otros turistas'
+    ],
+    safetyNotes: [
+      'Moderate altitude (1,950m) - minimal impact',
+      'Easy flat walking throughout',
+      'Shaded rest areas available',
+      'Modern visitor facilities',
+      'Safe family-friendly site'
+    ],
+    safetyNotesEs: [
+      'Altitud moderada (1,950m) - impacto mínimo',
+      'Caminata fácil y plana en todo el recorrido',
+      'Áreas de descanso sombreadas disponibles',
+      'Instalaciones modernas para visitantes',
+      'Sitio seguro y familiar'
+    ],
+    relatedActivities: ['caral-archaeology-tour', 'chavin-de-huantar-tour', 'sechin-archaeological-tour'],
+    providers: [
+      { name: 'Huánuco Tours', familyFriendly: true },
+      { name: 'Peru Ancient Heritage', familyFriendly: true },
+      { name: 'Eastern Andes Adventures', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'puerto-inca-beach-ruins',
+    name: 'Puerto Inca Beach & Inca Ruins Adventure',
+    nameEs: 'Aventura en Playa Puerto Inca y Ruinas Incas',
+    type: 'adventure',
+    city: 'nazca',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Discover a hidden gem where ancient Inca history meets pristine Pacific beaches. Puerto Inca was once the fishing port that supplied fresh seafood to Cusco\'s emperors in just 24 hours via relay runners. Today, remarkably preserved ruins overlook a beautiful swimming bay on Peru\'s remote southern coast. This off-the-beaten-path adventure combines archaeology, beach time, snorkeling, and incredible stargazing.',
+    descriptionEs: 'Descubre una joya escondida donde la antigua historia Inca se encuentra con playas prístinas del Pacífico. Puerto Inca fue una vez el puerto pesquero que suministraba mariscos frescos a los emperadores de Cusco en solo 24 horas vía corredores de relevo. Hoy, ruinas notablemente preservadas dan a una hermosa bahía para nadar en la remota costa sur de Perú. Esta aventura fuera de lo común combina arqueología, tiempo de playa, snorkel y observación de estrellas increíble.',
+    whatToExpect: 'Depart from Nazca for the scenic three-hour drive south along the Pan-American Highway, with dramatic views of the coastal desert meeting the Pacific. Turn onto a rough road descending to a hidden bay where Inca ruins line the clifftops. Explore the well-preserved archaeological site with your guide, seeing storage buildings, administrative structures, and the remarkable Inca road climbing into the mountains - the same path chasqui runners once used to transport fresh fish to Cusco in 24 hours. Learn about the ingenious relay system that allowed the Inca emperor to enjoy ocean seafood in his mountain capital. After exploring, descend to the beautiful beach for swimming in calm, clear waters. The bay\'s protected cove is perfect for families. Snorkel around rocky points where tropical fish gather. Enjoy a fresh seafood lunch at the rustic beachfront hotel. Those staying overnight experience spectacular stargazing with zero light pollution. Morning swimmers often see pelicans diving and sea lions playing offshore.',
+    whatToExpectEs: 'Parte de Nazca para el viaje escénico de tres horas al sur por la Carretera Panamericana, con vistas dramáticas del desierto costero encontrándose con el Pacífico. Gira a un camino accidentado descendiendo a una bahía escondida donde ruinas Incas bordean los acantilados. Explora el sitio arqueológico bien preservado con tu guía, viendo edificios de almacenamiento, estructuras administrativas y el notable camino Inca subiendo a las montañas - el mismo sendero que los corredores chasquis una vez usaron para transportar pescado fresco a Cusco en 24 horas. Aprende sobre el ingenioso sistema de relevo que permitía al emperador Inca disfrutar mariscos del océano en su capital de montaña. Después de explorar, desciende a la hermosa playa para nadar en aguas tranquilas y claras. La ensenada protegida de la bahía es perfecta para familias. Haz snorkel alrededor de puntas rocosas donde se reúnen peces tropicales. Disfruta un almuerzo de mariscos frescos en el rústico hotel frente al mar. Quienes se quedan a pasar la noche experimentan observación de estrellas espectacular sin contaminación lumínica. Los nadadores matutinos frecuentemente ven pelícanos zambulléndose y lobos marinos jugando mar adentro.',
+    highlights: [
+      'Pristine Pacific beach',
+      'Well-preserved Inca fishing port',
+      'Famous chasqui runner road',
+      'Excellent snorkeling',
+      'Fresh seafood lunch',
+      'Spectacular stargazing',
+      'Remote uncrowded location'
+    ],
+    highlightsEs: [
+      'Playa prístina del Pacífico',
+      'Puerto pesquero Inca bien preservado',
+      'Famoso camino de corredores chasquis',
+      'Excelente snorkel',
+      'Almuerzo de mariscos frescos',
+      'Observación de estrellas espectacular',
+      'Ubicación remota sin multitudes'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: 'Full day or overnight',
+    durationEs: 'Día completo o pernocta',
+    difficulty: 'easy',
+    priceRange: '$80-150 day trip, $200-300 overnight',
+    priceRangeEs: '$80-150 viaje de día, $200-300 pernocta',
+    bestTime: 'Year-round. December-April warmest water. Clear skies most of year for stargazing.',
+    bestTimeEs: 'Todo el año. Diciembre-abril agua más cálida. Cielos despejados la mayor parte del año para observar estrellas.',
+    includes: [
+      'Transportation from Nazca',
+      'Professional guide for ruins',
+      'Site access',
+      'Fresh seafood lunch',
+      'Snorkeling equipment',
+      'Beach facilities access'
+    ],
+    includesEs: [
+      'Transporte desde Nazca',
+      'Guía profesional para ruinas',
+      'Acceso al sitio',
+      'Almuerzo de mariscos frescos',
+      'Equipo de snorkel',
+      'Acceso a instalaciones de playa'
+    ],
+    tips: [
+      'Overnight stay highly recommended',
+      'Book hotel well in advance - only one on site',
+      'Bring supplies - very remote location',
+      'Stars are incredible - bring stargazing app',
+      'Water is warmer December-April'
+    ],
+    tipsEs: [
+      'Estadía nocturna altamente recomendada',
+      'Reserva hotel con anticipación - solo uno en sitio',
+      'Trae suministros - ubicación muy remota',
+      'Las estrellas son increíbles - trae app de observación',
+      'El agua es más cálida diciembre-abril'
+    ],
+    safetyNotes: [
+      'Sea level - no altitude concerns',
+      'Calm protected bay for swimming',
+      'Remote location - limited medical facilities',
+      'Sun protection essential',
+      'Road is unpaved - 4x4 recommended'
+    ],
+    safetyNotesEs: [
+      'Nivel del mar - sin preocupaciones de altitud',
+      'Bahía tranquila y protegida para nadar',
+      'Ubicación remota - instalaciones médicas limitadas',
+      'Protección solar esencial',
+      'Camino sin pavimentar - 4x4 recomendado'
+    ],
+    relatedActivities: ['nazca-lines-flight', 'paracas-ballestas-tour', 'ica-oasis-tour'],
+    providers: [
+      { name: 'Nazca Trails', familyFriendly: true },
+      { name: 'Peru Coastal Adventures', familyFriendly: true },
+      { name: 'Hotel Puerto Inca', familyFriendly: true }
+    ]
   }
 ];
 

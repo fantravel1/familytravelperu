@@ -10984,6 +10984,306 @@ export const sites: Site[] = [
       'Sin instalaciones en el lago mismo',
       'Servicios completos en Puerto Maldonado'
     ]
+  },
+  {
+    slug: 'vinicunca-rainbow-mountain',
+    name: 'Vinicunca Rainbow Mountain',
+    nameEs: 'Montaña de Colores Vinicunca',
+    type: 'natural',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 5200,
+    description: 'Vinicunca, the famous Rainbow Mountain, has become one of Peru\'s most iconic natural wonders - a surreal mountainside painted in brilliant stripes of red, yellow, turquoise, lavender, and gold. These extraordinary colors come from mineral deposits exposed after ancient glaciers receded, creating a landscape that seems impossibly vivid. While the high altitude makes this a challenging trek, families with older children who have properly acclimatized will find the otherworldly scenery worth every step.',
+    descriptionEs: 'Vinicunca, la famosa Montaña de Colores, se ha convertido en una de las maravillas naturales más icónicas de Perú - una ladera de montaña pintada en rayas brillantes de rojo, amarillo, turquesa, lavanda y oro. Estos colores extraordinarios provienen de depósitos minerales expuestos después de que los glaciares antiguos retrocedieron, creando un paisaje que parece imposiblemente vívido. Aunque la alta altitud hace de este un trekking desafiante, las familias con niños mayores que se han aclimatado adecuadamente encontrarán que el paisaje de otro mundo vale cada paso.',
+    history: 'Rainbow Mountain remained largely unknown until 2015 when climate change melted the snow that had covered these slopes for millennia, revealing the colorful minerals beneath. The rapid glacial retreat exposed layers of sedimentary rock rich in iron oxides, sulfur, chlorite, and other minerals that create the distinctive bands. What had been a sacred peak to local Quechua communities suddenly became a global tourist phenomenon. The surrounding community of Pampachiri has adapted to this sudden change, with families offering horse rentals and warm drinks to trekkers. Efforts are underway to manage the impact of mass tourism on this fragile high-altitude environment.',
+    historyEs: 'La Montaña de Colores permaneció mayormente desconocida hasta 2015 cuando el cambio climático derritió la nieve que había cubierto estas laderas por milenios, revelando los minerales coloridos debajo. El rápido retroceso glacial expuso capas de roca sedimentaria rica en óxidos de hierro, azufre, clorita y otros minerales que crean las bandas distintivas. Lo que había sido un pico sagrado para las comunidades Quechua locales repentinamente se convirtió en un fenómeno turístico global. La comunidad circundante de Pampachiri se ha adaptado a este cambio repentino, con familias ofreciendo alquiler de caballos y bebidas calientes a los excursionistas. Esfuerzos están en marcha para manejar el impacto del turismo masivo en este frágil ambiente de alta altitud.',
+    highlights: [
+      'Surreal rainbow-striped mountain slopes',
+      'One of Peru\'s most photographed landscapes',
+      'Traditional Quechua communities',
+      'Red Valley viewpoint option',
+      'Llamas and alpacas grazing',
+      'Dramatic Andean panoramas',
+      'Unique geological phenomenon'
+    ],
+    highlightsEs: [
+      'Laderas de montaña con rayas multicolores surrealistas',
+      'Uno de los paisajes más fotografiados de Perú',
+      'Comunidades Quechua tradicionales',
+      'Opción de mirador del Valle Rojo',
+      'Llamas y alpacas pastando',
+      'Dramáticos panoramas andinos',
+      'Fenómeno geológico único'
+    ],
+    familyRating: 3,
+    minAge: 12,
+    duration: 'Full day (12-14 hours from Cusco)',
+    durationEs: 'Día completo (12-14 horas desde Cusco)',
+    difficulty: 'challenging',
+    entranceFee: 'S/10 community fee',
+    entranceFeeEs: 'S/10 tarifa comunitaria',
+    bestTime: 'April-November dry season. June-August best visibility. Avoid rainy season - clouds obscure views.',
+    bestTimeEs: 'Temporada seca abril-noviembre. Junio-agosto mejor visibilidad. Evitar temporada de lluvias - nubes obscurecen vistas.',
+    tips: [
+      'Must acclimatize 3-4 days in Cusco first',
+      'Altitude is extreme (5,200m) - not for everyone',
+      'Horses available for those who struggle',
+      'Start very early to avoid afternoon clouds',
+      'Bring warm windproof layers and sun protection'
+    ],
+    tipsEs: [
+      'Debe aclimatarse 3-4 días en Cusco primero',
+      'Altitud es extrema (5,200m) - no es para todos',
+      'Caballos disponibles para quienes tienen dificultad',
+      'Empezar muy temprano para evitar nubes de la tarde',
+      'Trae capas abrigadas cortaviento y protección solar'
+    ],
+    nearbyAttractions: ['Red Valley', 'Ausangate Circuit', 'Quechua communities', 'Hot springs'],
+    relatedSites: ['ausangate-trek', 'sacred-valley', 'cusco-plaza'],
+    gettingThere: 'From Cusco: 3-hour drive to trailhead, then 2-3 hour hike each way. All tours include transportation from Cusco.',
+    gettingThereEs: 'Desde Cusco: 3 horas en auto al inicio del sendero, luego 2-3 horas de caminata en cada dirección. Todos los tours incluyen transporte desde Cusco.',
+    facilities: [
+      'Basic facilities at trailhead',
+      'Portable toilets along trail',
+      'Local vendors selling snacks and coca tea',
+      'Horse rentals available',
+      'No facilities at summit',
+      'Emergency oxygen with tour guides'
+    ],
+    facilitiesEs: [
+      'Instalaciones básicas en inicio del sendero',
+      'Baños portátiles a lo largo del sendero',
+      'Vendedores locales vendiendo snacks y té de coca',
+      'Alquiler de caballos disponible',
+      'Sin instalaciones en la cima',
+      'Oxígeno de emergencia con guías de tour'
+    ]
+  },
+  {
+    slug: 'sechin-archaeological-site',
+    name: 'Sechín Archaeological Complex',
+    nameEs: 'Complejo Arqueológico de Sechín',
+    type: 'archaeological',
+    city: 'casma',
+    region: 'Ancash Region',
+    regionEs: 'Región Ancash',
+    altitude: 90,
+    description: 'Sechín is one of Peru\'s oldest and most enigmatic archaeological sites, featuring over 400 carved stone warriors and dismembered bodies dating back 3,600 years. This ceremonial center predates the better-known cultures by millennia, offering a glimpse into Peru\'s mysterious formative period. The graphic carvings - depicting warriors with clubs, severed heads, and mutilated bodies - are unlike anything else in the Americas and spark fascinating discussions about ancient warfare and ritual sacrifice.',
+    descriptionEs: 'Sechín es uno de los sitios arqueológicos más antiguos y enigmáticos de Perú, presentando más de 400 guerreros tallados en piedra y cuerpos desmembrados que datan de hace 3,600 años. Este centro ceremonial precede a las culturas más conocidas por milenios, ofreciendo un vistazo al misterioso período formativo de Perú. Los tallados gráficos - representando guerreros con mazas, cabezas cortadas y cuerpos mutilados - son diferentes a cualquier otra cosa en las Américas y generan discusiones fascinantes sobre guerra antigua y sacrificio ritual.',
+    history: 'Sechín was built around 1600 BCE, making it contemporary with ancient Egypt\'s Middle Kingdom and over 1,000 years older than the Nazca Lines. The site was discovered in 1937 by Peruvian archaeologist Julio C. Tello, who uncovered the extraordinary stone friezes. The carvings show processions of warriors carrying clubs and trophy heads, while dismembered body parts - arms, legs, vertebrae, and intestines - fill the spaces between. Debate continues about whether these depict actual battles, ritual sacrifices, or mythological narratives. Recent excavations have revealed painted adobe structures beneath, suggesting the site was rebuilt multiple times over centuries.',
+    historyEs: 'Sechín fue construido alrededor de 1600 AEC, haciéndolo contemporáneo con el Reino Medio del antiguo Egipto y más de 1,000 años más antiguo que las Líneas de Nazca. El sitio fue descubierto en 1937 por el arqueólogo peruano Julio C. Tello, quien descubrió los extraordinarios frisos de piedra. Los tallados muestran procesiones de guerreros llevando mazas y cabezas trofeo, mientras partes del cuerpo desmembradas - brazos, piernas, vértebras e intestinos - llenan los espacios entre ellos. El debate continúa sobre si estos representan batallas reales, sacrificios rituales o narrativas mitológicas. Excavaciones recientes han revelado estructuras de adobe pintado debajo, sugiriendo que el sitio fue reconstruido múltiples veces durante siglos.',
+    highlights: [
+      'Over 400 carved stone figures',
+      'One of Americas\' oldest monumental sites',
+      '3,600-year-old warrior carvings',
+      'Unique dismemberment iconography',
+      'On-site museum with artifacts',
+      'Off the main tourist trail',
+      'Easy coastal access'
+    ],
+    highlightsEs: [
+      'Más de 400 figuras talladas en piedra',
+      'Uno de los sitios monumentales más antiguos de las Américas',
+      'Tallados de guerreros de 3,600 años',
+      'Iconografía única de desmembramiento',
+      'Museo en sitio con artefactos',
+      'Fuera de la ruta turística principal',
+      'Fácil acceso costero'
+    ],
+    familyRating: 4,
+    minAge: 8,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10 adults, S/5 children',
+    entranceFeeEs: 'S/10 adultos, S/5 niños',
+    bestTime: 'Year-round. Coastal location means mild weather. Morning visits avoid afternoon heat.',
+    bestTimeEs: 'Todo el año. Ubicación costera significa clima templado. Visitas matutinas evitan calor de la tarde.',
+    tips: [
+      'Graphic content - prepare children appropriately',
+      'Combine with Casma beaches for full day',
+      'Guide essential for understanding carvings',
+      'Photography allowed throughout',
+      'Small museum provides excellent context'
+    ],
+    tipsEs: [
+      'Contenido gráfico - preparar a los niños apropiadamente',
+      'Combina con playas de Casma para día completo',
+      'Guía esencial para entender los tallados',
+      'Fotografía permitida en todo el lugar',
+      'Pequeño museo proporciona excelente contexto'
+    ],
+    nearbyAttractions: ['Casma beaches', 'Chanquillo Solar Observatory', 'Tortugas Beach', 'Huaraz (3 hours)'],
+    relatedSites: ['chavin-de-huantar', 'caral', 'chan-chan'],
+    gettingThere: 'From Lima: 370km (5 hours) on Pan-American Highway. From Huaraz: 150km (3 hours). Located just 5km from Casma city center.',
+    gettingThereEs: 'Desde Lima: 370km (5 horas) por Panamericana. Desde Huaraz: 150km (3 horas). Ubicado a solo 5km del centro de la ciudad de Casma.',
+    facilities: [
+      'Small on-site museum',
+      'Covered walkways',
+      'Basic restrooms',
+      'Parking area',
+      'Local guide services',
+      'Shaded rest areas'
+    ],
+    facilitiesEs: [
+      'Pequeño museo en sitio',
+      'Pasarelas cubiertas',
+      'Baños básicos',
+      'Área de estacionamiento',
+      'Servicios de guías locales',
+      'Áreas de descanso sombreadas'
+    ]
+  },
+  {
+    slug: 'kotosh-temple',
+    name: 'Kotosh Temple of the Crossed Hands',
+    nameEs: 'Templo de Kotosh de las Manos Cruzadas',
+    type: 'archaeological',
+    city: 'huanuco',
+    region: 'Huánuco Region',
+    regionEs: 'Región Huánuco',
+    altitude: 1950,
+    description: 'Kotosh is home to one of the Americas\' most ancient and mysterious sculptures - the "Crossed Hands," a 4,000-year-old clay relief that has become a symbol of Peru\'s earliest civilizations. This ceremonial complex in the eastern Andes predates most known Peruvian cultures and provides extraordinary evidence of sophisticated religious practices in the formative period. For families interested in archaeology beyond the famous Inca sites, Kotosh offers a journey into Peru\'s deep past.',
+    descriptionEs: 'Kotosh es hogar de una de las esculturas más antiguas y misteriosas de las Américas - las "Manos Cruzadas," un relieve de arcilla de 4,000 años que se ha convertido en símbolo de las civilizaciones más tempranas de Perú. Este complejo ceremonial en los Andes orientales precede a la mayoría de las culturas peruanas conocidas y proporciona evidencia extraordinaria de prácticas religiosas sofisticadas en el período formativo. Para familias interesadas en arqueología más allá de los famosos sitios Incas, Kotosh ofrece un viaje al pasado profundo de Perú.',
+    history: 'Kotosh was first occupied around 2000 BCE, making it roughly contemporary with Sechín and the earliest phases of Caral. Japanese archaeologist Seiichi Izumi excavated the site in 1960, discovering the remarkable Crossed Hands relief - two forearms with hands positioned as if in ritual gesture, molded in clay and originally painted. This image has become an iconic symbol of Peru\'s formative period, featured on the country\'s ten-sol coin. The site shows evidence of the "Kotosh Religious Tradition," a pattern of small ceremonial rooms with central hearths ritually buried and rebuilt over centuries. This tradition influenced religious architecture across early Peru.',
+    historyEs: 'Kotosh fue ocupado por primera vez alrededor de 2000 AEC, haciéndolo aproximadamente contemporáneo con Sechín y las fases más tempranas de Caral. El arqueólogo japonés Seiichi Izumi excavó el sitio en 1960, descubriendo el notable relieve de las Manos Cruzadas - dos antebrazos con manos posicionadas como en gesto ritual, moldeados en arcilla y originalmente pintados. Esta imagen se ha convertido en símbolo icónico del período formativo de Perú, presentada en la moneda de diez soles del país. El sitio muestra evidencia de la "Tradición Religiosa Kotosh," un patrón de pequeñas habitaciones ceremoniales con hogares centrales ritualmente enterrados y reconstruidos durante siglos. Esta tradición influyó la arquitectura religiosa a través del Perú temprano.',
+    highlights: [
+      'Famous 4,000-year-old Crossed Hands relief',
+      'One of Americas\' oldest temples',
+      'Symbol featured on Peruvian currency',
+      'Multiple ceremonial chambers',
+      'Kotosh Religious Tradition origins',
+      'Off-the-beaten-path destination',
+      'Beautiful mountain valley setting'
+    ],
+    highlightsEs: [
+      'Famoso relieve de Manos Cruzadas de 4,000 años',
+      'Uno de los templos más antiguos de las Américas',
+      'Símbolo presentado en moneda peruana',
+      'Múltiples cámaras ceremoniales',
+      'Orígenes de la Tradición Religiosa Kotosh',
+      'Destino fuera de lo común',
+      'Hermoso entorno de valle de montaña'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '1-2 hours',
+    durationEs: '1-2 horas',
+    difficulty: 'easy',
+    entranceFee: 'S/10 adults, S/5 children',
+    entranceFeeEs: 'S/10 adultos, S/5 niños',
+    bestTime: 'Year-round. April-October dry season best. Pleasant climate year-round at this altitude.',
+    bestTimeEs: 'Todo el año. Temporada seca abril-octubre mejor. Clima agradable todo el año a esta altitud.',
+    tips: [
+      'Original Crossed Hands in Lima museum - replica on site',
+      'Hire local guide for historical context',
+      'Combine with Huánuco city exploration',
+      'Not crowded - peaceful experience',
+      'Good acclimatization stop en route to jungle'
+    ],
+    tipsEs: [
+      'Manos Cruzadas originales en museo de Lima - réplica en sitio',
+      'Contrata guía local para contexto histórico',
+      'Combina con exploración de la ciudad de Huánuco',
+      'No concurrido - experiencia pacífica',
+      'Buena parada de aclimatación en ruta a la selva'
+    ],
+    nearbyAttractions: ['Huánuco city', 'Tingo María', 'Carpish tunnels', 'Eastern Andes scenery'],
+    relatedSites: ['caral', 'chavin-de-huantar', 'sechin-archaeological-site'],
+    gettingThere: 'From Huánuco city: 5km (15 minutes by taxi). From Lima: 410km (8-9 hours by bus or car through mountains).',
+    gettingThereEs: 'Desde ciudad de Huánuco: 5km (15 minutos en taxi). Desde Lima: 410km (8-9 horas en bus o auto por las montañas).',
+    facilities: [
+      'Small visitor center',
+      'Covered walkways',
+      'Basic restrooms',
+      'Parking area',
+      'Local guides available',
+      'Picnic areas nearby'
+    ],
+    facilitiesEs: [
+      'Pequeño centro de visitantes',
+      'Pasarelas cubiertas',
+      'Baños básicos',
+      'Área de estacionamiento',
+      'Guías locales disponibles',
+      'Áreas de picnic cercanas'
+    ]
+  },
+  {
+    slug: 'puerto-inca',
+    name: 'Puerto Inca Archaeological Site',
+    nameEs: 'Sitio Arqueológico Puerto Inca',
+    type: 'archaeological',
+    city: 'nazca',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    altitude: 0,
+    description: 'Puerto Inca is a stunning coastal archaeological site where Inca roads once reached the Pacific Ocean, creating a fishing port that supplied fresh seafood to Cusco in just 24 hours through relay runners. The remarkably preserved ruins overlook beautiful beaches in a remote stretch of Peru\'s southern coast, offering families an off-the-beaten-path adventure combining archaeology, beach time, and the fascinating story of the Inca highway system.',
+    descriptionEs: 'Puerto Inca es un impresionante sitio arqueológico costero donde los caminos Incas una vez alcanzaban el Océano Pacífico, creando un puerto pesquero que suministraba mariscos frescos a Cusco en solo 24 horas a través de corredores de relevo. Las ruinas notablemente preservadas dan a hermosas playas en un tramo remoto de la costa sur de Perú, ofreciendo a las familias una aventura fuera de lo común combinando arqueología, tiempo de playa y la fascinante historia del sistema de carreteras Inca.',
+    history: 'Puerto Inca served as the main coastal fishing port for the Inca Empire, connected to Cusco by a remarkable road over 240 kilometers long. The Incas developed a relay system using trained runners called chasquis who could transport fresh fish from the ocean to the emperor\'s table in just 24 hours - covering the extreme altitude changes from sea level to 3,400 meters. The well-preserved site includes storage buildings, administrative structures, and the remains of the road system climbing into the mountains. The adjacent bay provided anchorage for fishing rafts and remains a beautiful swimming beach today.',
+    historyEs: 'Puerto Inca sirvió como el principal puerto pesquero costero para el Imperio Inca, conectado a Cusco por un notable camino de más de 240 kilómetros de largo. Los Incas desarrollaron un sistema de relevo usando corredores entrenados llamados chasquis que podían transportar pescado fresco del océano a la mesa del emperador en solo 24 horas - cubriendo los cambios extremos de altitud desde el nivel del mar hasta 3,400 metros. El sitio bien preservado incluye edificios de almacenamiento, estructuras administrativas y los restos del sistema de caminos subiendo a las montañas. La bahía adyacente proporcionaba anclaje para balsas de pesca y sigue siendo una hermosa playa para nadar hoy.',
+    highlights: [
+      'Inca fishing port ruins on beach',
+      'Visible Inca road climbing mountains',
+      'Beautiful swimming beach',
+      'Chasqui runner story',
+      'Remote, uncrowded location',
+      'Snorkeling and diving',
+      'Stargazing at night'
+    ],
+    highlightsEs: [
+      'Ruinas de puerto pesquero Inca en la playa',
+      'Camino Inca visible subiendo montañas',
+      'Hermosa playa para nadar',
+      'Historia de corredores chasquis',
+      'Ubicación remota, sin multitudes',
+      'Snorkel y buceo',
+      'Observación de estrellas en la noche'
+    ],
+    familyRating: 4,
+    minAge: 5,
+    duration: '1-2 days (overnight recommended)',
+    durationEs: '1-2 días (pernoctar recomendado)',
+    difficulty: 'easy',
+    entranceFee: 'Free (site fee included in hotel if staying)',
+    entranceFeeEs: 'Gratis (tarifa del sitio incluida en hotel si se hospeda)',
+    bestTime: 'Year-round. December-April warmest water. Clear skies most of year.',
+    bestTimeEs: 'Todo el año. Diciembre-abril agua más cálida. Cielos despejados la mayor parte del año.',
+    tips: [
+      'Best experienced with overnight stay',
+      'One rustic hotel on site - book ahead',
+      'Bring supplies - remote location',
+      'Road from Pan-American is unpaved',
+      'Great stargazing - no light pollution'
+    ],
+    tipsEs: [
+      'Mejor experimentado con estadía nocturna',
+      'Un hotel rústico en sitio - reserva con anticipación',
+      'Trae suministros - ubicación remota',
+      'Camino desde Panamericana es sin pavimentar',
+      'Gran observación de estrellas - sin contaminación lumínica'
+    ],
+    nearbyAttractions: ['Nazca Lines', 'Chala', 'Lomas de Atiquipa', 'Cahuachi'],
+    relatedSites: ['nazca-lines', 'tambo-colorado', 'pachacamac'],
+    gettingThere: 'From Nazca: 160km (3 hours) south on Pan-American, then 10km unpaved road. From Arequipa: 350km (5 hours) north.',
+    gettingThereEs: 'Desde Nazca: 160km (3 horas) al sur por Panamericana, luego 10km de camino sin pavimentar. Desde Arequipa: 350km (5 horas) al norte.',
+    facilities: [
+      'One rustic beachfront hotel',
+      'Restaurant at hotel',
+      'Basic restrooms',
+      'Beach access',
+      'Snorkeling equipment rental',
+      'Limited electricity hours'
+    ],
+    facilitiesEs: [
+      'Un hotel rústico frente al mar',
+      'Restaurante en el hotel',
+      'Baños básicos',
+      'Acceso a la playa',
+      'Alquiler de equipo de snorkel',
+      'Horas limitadas de electricidad'
+    ]
   }
 ];
 
