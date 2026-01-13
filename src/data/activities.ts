@@ -8351,6 +8351,352 @@ export const activities: Activity[] = [
       { name: 'Caral Tours', familyFriendly: true },
       { name: 'Peru Cultural Journeys', familyFriendly: true }
     ]
+  },
+  {
+    slug: 'colca-condor-watching',
+    name: 'Colca Canyon Condor Watching',
+    nameEs: 'Observación de Cóndores en Colca',
+    type: 'nature',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Witness the majestic Andean condor soaring on thermal currents at Cruz del Condor viewpoint, one of the best places in the world to see these magnificent birds with wingspans reaching 3 meters.',
+    descriptionEs: 'Presencia el majestuoso cóndor andino planeando en corrientes térmicas en el mirador Cruz del Cóndor, uno de los mejores lugares del mundo para ver estas magníficas aves con envergaduras que alcanzan los 3 metros.',
+    whatToExpect: 'Arrive at Cruz del Condor viewpoint early morning when thermal currents begin rising from the canyon. As the air warms, condors launch from their roosting spots on cliff faces, riding updrafts to gain altitude. Watch them soar gracefully past the viewpoint, sometimes within meters. Expert guides help spot the birds and explain condor biology, conservation efforts, and Andean mythology surrounding these sacred birds.',
+    whatToExpectEs: 'Llega al mirador Cruz del Cóndor temprano en la mañana cuando las corrientes térmicas comienzan a elevarse del cañón. A medida que el aire se calienta, los cóndores se lanzan desde sus lugares de descanso en los acantilados, montando corrientes ascendentes para ganar altura. Obsérvalos planear graciosamente junto al mirador, a veces a metros de distancia. Guías expertos ayudan a avistar las aves y explican la biología del cóndor, esfuerzos de conservación y mitología andina sobre estas aves sagradas.',
+    highlights: [
+      'World\'s best condor viewing spot',
+      'Wingspans up to 3 meters',
+      'Dramatic canyon backdrop',
+      'Multiple sightings almost guaranteed',
+      'Sacred bird of the Andes'
+    ],
+    highlightsEs: [
+      'Mejor lugar del mundo para ver cóndores',
+      'Envergaduras de hasta 3 metros',
+      'Dramático telón de fondo del cañón',
+      'Múltiples avistamientos casi garantizados',
+      'Ave sagrada de los Andes'
+    ],
+    familyRating: 5,
+    minAge: 4,
+    duration: '2-3 hours at viewpoint',
+    durationEs: '2-3 horas en el mirador',
+    difficulty: 'easy',
+    priceRange: 'Included in Colca tours, or 70 soles boleto turístico',
+    priceRangeEs: 'Incluido en tours de Colca, o 70 soles boleto turístico',
+    bestTime: 'Year-round, 8-10am optimal viewing time',
+    bestTimeEs: 'Todo el año, 8-10am tiempo óptimo de observación',
+    includes: [
+      'Transportation from Chivay/Arequipa',
+      'Naturalist guide',
+      'Canyon viewpoint access',
+      'Village stops en route',
+      'Breakfast or snacks often included'
+    ],
+    includesEs: [
+      'Transporte desde Chivay/Arequipa',
+      'Guía naturalista',
+      'Acceso al mirador del cañón',
+      'Paradas en pueblos en ruta',
+      'Desayuno o bocadillos frecuentemente incluidos'
+    ],
+    tips: [
+      'Arrive by 8am - condors most active early',
+      'Bring binoculars for close views',
+      'Dress warmly - canyon rim is cold',
+      'Patience rewarded with multiple sightings',
+      'Best viewing June-September',
+      'Combine with hot springs afternoon'
+    ],
+    tipsEs: [
+      'Llega para las 8am - cóndores más activos temprano',
+      'Lleva binoculares para vistas cercanas',
+      'Vístete abrigado - borde del cañón es frío',
+      'La paciencia es recompensada con múltiples avistamientos',
+      'Mejor observación Junio-Septiembre',
+      'Combina con aguas termales en la tarde'
+    ],
+    safetyNotes: [
+      'Stay behind safety barriers',
+      'High altitude - 3,400m',
+      'Cliff edges can be dangerous',
+      'Supervise children carefully',
+      'Sun exposure intense at altitude'
+    ],
+    safetyNotesEs: [
+      'Permanece detrás de barreras de seguridad',
+      'Alta altitud - 3,400m',
+      'Bordes de acantilados pueden ser peligrosos',
+      'Supervisa a los niños cuidadosamente',
+      'Exposición al sol intensa en altitud'
+    ],
+    relatedActivities: ['colca-hot-springs', 'colca-trekking', 'arequipa-tour'],
+    providers: [
+      { name: 'Colca Trek', familyFriendly: true },
+      { name: 'Pablo Tour', familyFriendly: true },
+      { name: 'Giardino Tours', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'ballestas-islands-boat-tour',
+    name: 'Ballestas Islands Boat Tour',
+    nameEs: 'Tour en Bote a Islas Ballestas',
+    type: 'nature',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Cruise past rocky islands teeming with sea lions, Humboldt penguins, and thousands of seabirds on Peru\'s most accessible wildlife boat tour. See the mysterious Candelabra geoglyph and experience a marine ecosystem rivaling the Galápagos.',
+    descriptionEs: 'Navega junto a islas rocosas rebosantes de lobos marinos, pingüinos de Humboldt y miles de aves marinas en el tour de vida silvestre en bote más accesible del Perú. Ve el misterioso geoglifo del Candelabro y experimenta un ecosistema marino que rivaliza con Galápagos.',
+    whatToExpect: 'Board a speedboat at Paracas pier for the 2-hour coastal adventure. First stop is viewing the giant Candelabra figure carved into the coastal hillside. Then circle the Ballestas Islands where sea lions bark from rocky outcrops, penguins waddle on ledges, and thousands of boobies, pelicans, and cormorants fill the air. The nutrient-rich Humboldt Current creates one of the world\'s most productive marine ecosystems.',
+    whatToExpectEs: 'Aborda un bote rápido en el muelle de Paracas para la aventura costera de 2 horas. Primera parada es ver la figura gigante del Candelabro tallada en la ladera costera. Luego rodea las Islas Ballestas donde los lobos marinos ladran desde afloramientos rocosos, los pingüinos caminan en salientes, y miles de piqueros, pelícanos y cormoranes llenan el aire. La corriente de Humboldt rica en nutrientes crea uno de los ecosistemas marinos más productivos del mundo.',
+    highlights: [
+      'Sea lion colonies up close',
+      'Humboldt penguins in natural habitat',
+      'Thousands of seabirds',
+      'Candelabra geoglyph viewing',
+      'Accessible wildlife adventure'
+    ],
+    highlightsEs: [
+      'Colonias de lobos marinos de cerca',
+      'Pingüinos de Humboldt en hábitat natural',
+      'Miles de aves marinas',
+      'Vista del geoglifo Candelabro',
+      'Aventura de vida silvestre accesible'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2 hours',
+    durationEs: '2 horas',
+    difficulty: 'easy',
+    priceRange: '$15-25 USD per person',
+    priceRangeEs: '$15-25 USD por persona',
+    bestTime: 'Year-round, morning tours have calmest seas',
+    bestTimeEs: 'Todo el año, tours matutinos tienen mar más calmado',
+    includes: [
+      'Speedboat tour',
+      'Bilingual guide',
+      'Life jackets',
+      'Candelabra and island viewing',
+      'Wildlife narration'
+    ],
+    includesEs: [
+      'Tour en bote rápido',
+      'Guía bilingüe',
+      'Chalecos salvavidas',
+      'Vista del Candelabro e islas',
+      'Narración de vida silvestre'
+    ],
+    tips: [
+      'Book 8am tour for best conditions',
+      'Bring warm windproof jacket',
+      'Sunscreen and sunglasses essential',
+      'Take motion sickness medicine if prone',
+      'Cannot land on islands',
+      'Combine with Paracas Reserve afternoon'
+    ],
+    tipsEs: [
+      'Reserva tour de 8am para mejores condiciones',
+      'Lleva chaqueta abrigada cortavientos',
+      'Protector solar y lentes de sol esenciales',
+      'Toma medicamento para mareos si eres propenso',
+      'No se puede desembarcar en islas',
+      'Combina con Reserva de Paracas en la tarde'
+    ],
+    safetyNotes: [
+      'Life jackets required for all',
+      'Stay seated during boat ride',
+      'Spray from waves possible',
+      'Hold cameras/phones securely',
+      'Follow crew instructions'
+    ],
+    safetyNotesEs: [
+      'Chalecos salvavidas requeridos para todos',
+      'Permanece sentado durante el paseo',
+      'Posible rocío de las olas',
+      'Sostén cámaras/teléfonos de forma segura',
+      'Sigue instrucciones de la tripulación'
+    ],
+    relatedActivities: ['paracas-reserve-tour', 'nazca-lines-flight', 'huacachina-sandboarding'],
+    providers: [
+      { name: 'Paracas Explorer', familyFriendly: true },
+      { name: 'El Chaco Tours', familyFriendly: true },
+      { name: 'Ballestas Travel', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'huacachina-sandboarding-buggy',
+    name: 'Huacachina Sandboarding & Dune Buggy',
+    nameEs: 'Sandboard y Buggy en Huacachina',
+    type: 'adventure',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    description: 'Race over towering desert dunes in powerful buggies then slide down sandy slopes on boards at Peru\'s famous oasis. This adrenaline-pumping adventure ends with a spectacular sunset over the endless desert.',
+    descriptionEs: 'Corre sobre imponentes dunas de desierto en poderosos buggies y luego deslízate por pendientes arenosas en tablas en el famoso oasis del Perú. Esta aventura llena de adrenalina termina con un espectacular atardecer sobre el desierto infinito.',
+    whatToExpect: 'Climb aboard a powerful dune buggy as your driver races up and over massive sand dunes, creating a roller-coaster experience in the desert. Stop at the highest dunes where guides provide sandboards and instruction. Lie face-down on the board and slide at exhilarating speeds down steep dune faces. Multiple runs at different dunes, culminating with sunset views from the highest point as the desert glows orange and gold.',
+    whatToExpectEs: 'Sube a un poderoso buggy de dunas mientras tu conductor corre subiendo y bajando masivas dunas de arena, creando una experiencia de montaña rusa en el desierto. Para en las dunas más altas donde los guías proporcionan tablas de sandboard e instrucción. Acuéstate boca abajo en la tabla y deslízate a velocidades emocionantes por empinadas caras de dunas. Múltiples bajadas en diferentes dunas, culminando con vistas del atardecer desde el punto más alto mientras el desierto brilla naranja y dorado.',
+    highlights: [
+      'Thrilling dune buggy roller coaster',
+      'Sandboarding down giant dunes',
+      'Spectacular desert sunset',
+      'No experience needed',
+      'Unforgettable family adventure'
+    ],
+    highlightsEs: [
+      'Emocionante montaña rusa en buggy de dunas',
+      'Sandboard bajando dunas gigantes',
+      'Espectacular atardecer en el desierto',
+      'No se necesita experiencia',
+      'Aventura familiar inolvidable'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '2-3 hours',
+    durationEs: '2-3 horas',
+    difficulty: 'easy',
+    priceRange: '$10-30 USD per person',
+    priceRangeEs: '$10-30 USD por persona',
+    bestTime: 'Year-round, sunset tours most magical',
+    bestTimeEs: 'Todo el año, tours al atardecer más mágicos',
+    includes: [
+      'Dune buggy transport',
+      'Sandboard and wax',
+      'Safety equipment',
+      'Guide/driver',
+      'Multiple sandboarding runs',
+      'Sunset viewing spot'
+    ],
+    includesEs: [
+      'Transporte en buggy de dunas',
+      'Sandboard y cera',
+      'Equipo de seguridad',
+      'Guía/conductor',
+      'Múltiples bajadas de sandboard',
+      'Lugar para ver el atardecer'
+    ],
+    tips: [
+      'Sunset tours are most magical',
+      'Wear clothes that can get sandy',
+      'Bring goggles or close-fitting sunglasses',
+      'Hold on tight in the buggy!',
+      'Start with small dunes first',
+      'Leave valuables at hotel'
+    ],
+    tipsEs: [
+      'Tours al atardecer son más mágicos',
+      'Usa ropa que pueda llenarse de arena',
+      'Lleva gafas o lentes de sol ajustados',
+      '¡Agárrate fuerte en el buggy!',
+      'Comienza con dunas pequeñas primero',
+      'Deja objetos de valor en el hotel'
+    ],
+    safetyNotes: [
+      'Hold on to buggy handles',
+      'Follow sandboarding instructions',
+      'Keep mouth closed on dunes',
+      'Protect eyes from sand',
+      'Stay in designated areas'
+    ],
+    safetyNotesEs: [
+      'Agárrate de las manijas del buggy',
+      'Sigue instrucciones de sandboard',
+      'Mantén la boca cerrada en las dunas',
+      'Protege los ojos de la arena',
+      'Permanece en áreas designadas'
+    ],
+    relatedActivities: ['ballestas-islands-boat-tour', 'paracas-reserve-tour', 'nazca-lines-flight'],
+    providers: [
+      { name: 'Desert Adventures', familyFriendly: true },
+      { name: 'Huacachina Tours', familyFriendly: true },
+      { name: 'Oasis Peru', familyFriendly: true }
+    ]
+  },
+  {
+    slug: 'colca-hot-springs',
+    name: 'Colca Valley Hot Springs',
+    nameEs: 'Aguas Termales del Valle del Colca',
+    type: 'relaxation',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    description: 'Soak in natural thermal pools fed by volcanic hot springs while surrounded by Colca Canyon\'s stunning mountain scenery. The perfect way to relax tired muscles after condor watching or canyon hiking.',
+    descriptionEs: 'Sumérgete en piscinas termales naturales alimentadas por aguas termales volcánicas mientras estás rodeado por el impresionante paisaje montañoso del Cañón del Colca. La manera perfecta de relajar músculos cansados después de observar cóndores o caminar por el cañón.',
+    whatToExpect: 'Visit La Calera hot springs near Chivay with multiple pools at different temperatures. Choose from cooler pools for kids or hotter pools for adults, all with mineral-rich volcanic water said to have therapeutic properties. Stone-lined pools offer views of the surrounding mountains and terraced hillsides. After soaking, enjoy the on-site restaurant or continue exploring traditional villages.',
+    whatToExpectEs: 'Visita las aguas termales de La Calera cerca de Chivay con múltiples piscinas a diferentes temperaturas. Elige desde piscinas más frescas para niños o piscinas más calientes para adultos, todas con agua volcánica rica en minerales que se dice tiene propiedades terapéuticas. Las piscinas revestidas de piedra ofrecen vistas de las montañas circundantes y laderas de terrazas. Después de remojarte, disfruta del restaurante en el sitio o continúa explorando pueblos tradicionales.',
+    highlights: [
+      'Natural volcanic hot springs',
+      'Multiple temperature pools',
+      'Stunning mountain setting',
+      'Therapeutic mineral waters',
+      'Perfect post-hiking relaxation'
+    ],
+    highlightsEs: [
+      'Aguas termales volcánicas naturales',
+      'Múltiples piscinas a diferentes temperaturas',
+      'Impresionante entorno montañoso',
+      'Aguas minerales terapéuticas',
+      'Perfecta relajación post-caminata'
+    ],
+    familyRating: 5,
+    minAge: 2,
+    duration: '1-3 hours',
+    durationEs: '1-3 horas',
+    difficulty: 'easy',
+    priceRange: '15 soles adults, 5 soles children',
+    priceRangeEs: '15 soles adultos, 5 soles niños',
+    bestTime: 'Year-round, afternoon after condor watching ideal',
+    bestTimeEs: 'Todo el año, tarde después de ver cóndores ideal',
+    includes: [
+      'Hot springs access',
+      'Changing rooms',
+      'Lockers available',
+      'Multiple pool options',
+      'Restaurant on site'
+    ],
+    includesEs: [
+      'Acceso a aguas termales',
+      'Vestidores',
+      'Casilleros disponibles',
+      'Múltiples opciones de piscinas',
+      'Restaurante en el sitio'
+    ],
+    tips: [
+      'Bring swimsuit and towel',
+      'Start in cooler pools to adjust',
+      'Early morning less crowded',
+      'Perfect after condor watching',
+      'Don\'t stay in hot water too long',
+      'Rinse off after soaking'
+    ],
+    tipsEs: [
+      'Lleva traje de baño y toalla',
+      'Comienza en piscinas más frescas para ajustarte',
+      'Temprano en la mañana menos concurrido',
+      'Perfecto después de ver cóndores',
+      'No te quedes en agua caliente mucho tiempo',
+      'Enjuágate después de remojar'
+    ],
+    safetyNotes: [
+      'Supervise children in all pools',
+      'Hot pools can cause dizziness',
+      'Stay hydrated',
+      'Avoid if pregnant or heart conditions',
+      'Shower before entering pools'
+    ],
+    safetyNotesEs: [
+      'Supervisa a los niños en todas las piscinas',
+      'Piscinas calientes pueden causar mareos',
+      'Mantente hidratado',
+      'Evita si estás embarazada o tienes condiciones cardíacas',
+      'Dúchate antes de entrar a las piscinas'
+    ],
+    relatedActivities: ['colca-condor-watching', 'colca-trekking', 'arequipa-tour'],
+    providers: [
+      { name: 'La Calera Hot Springs', familyFriendly: true },
+      { name: 'Colca Lodge Spa', familyFriendly: true },
+      { name: 'Hotel Eco Inn', familyFriendly: true }
+    ]
   }
 ];
 

@@ -7498,6 +7498,298 @@ export const sites: Site[] = [
       'Estacionamiento disponible',
       'Tienda de bocadillos básica'
     ]
+  },
+  {
+    slug: 'colca-canyon',
+    name: 'Colca Canyon',
+    nameEs: 'Cañón del Colca',
+    type: 'natural',
+    city: 'arequipa',
+    region: 'Arequipa Region',
+    regionEs: 'Región Arequipa',
+    altitude: 3400,
+    description: 'One of the world\'s deepest canyons plunges twice as deep as the Grand Canyon, with Andean condors soaring on thermal currents above terraced hillsides. Traditional villages, hot springs, and stunning landscapes make this a must-visit destination.',
+    descriptionEs: 'Uno de los cañones más profundos del mundo se sumerge al doble de profundidad del Gran Cañón, con cóndores andinos planeando en corrientes térmicas sobre laderas de terrazas. Pueblos tradicionales, aguas termales y paisajes impresionantes hacen de este un destino imperdible.',
+    history: 'The Colca Valley has been inhabited for over 2,000 years. Pre-Inca peoples built agricultural terraces that are still used today. The Collagua and Cabana peoples developed distinctive traditions including cranial modification. Spanish missionaries built beautiful churches in valley villages during colonial times. The canyon was virtually unknown to tourists until the 1970s.',
+    historyEs: 'El Valle del Colca ha sido habitado por más de 2,000 años. Los pueblos pre-Incas construyeron terrazas agrícolas que todavía se usan hoy. Los pueblos Collagua y Cabana desarrollaron tradiciones distintivas incluyendo modificación craneal. Los misioneros españoles construyeron hermosas iglesias en los pueblos del valle durante tiempos coloniales. El cañón era virtualmente desconocido para los turistas hasta los años 1970.',
+    highlights: [
+      'Twice as deep as Grand Canyon',
+      'Andean condor viewing at Cruz del Condor',
+      'Traditional villages with colonial churches',
+      'Natural hot springs',
+      'Pre-Inca agricultural terraces'
+    ],
+    highlightsEs: [
+      'El doble de profundo que el Gran Cañón',
+      'Observación de cóndores andinos en Cruz del Cóndor',
+      'Pueblos tradicionales con iglesias coloniales',
+      'Aguas termales naturales',
+      'Terrazas agrícolas pre-Incas'
+    ],
+    familyRating: 4,
+    minAge: 6,
+    duration: '2-3 days recommended',
+    durationEs: '2-3 días recomendados',
+    difficulty: 'moderate',
+    entranceFee: '70 soles tourist ticket (boleto turístico)',
+    entranceFeeEs: '70 soles boleto turístico',
+    bestTime: 'April-December (dry season). Best condor viewing 8-10am.',
+    bestTimeEs: 'Abril-Diciembre (temporada seca). Mejor observación de cóndores 8-10am.',
+    tips: [
+      'Spend at least 2 days - rushing misses the best',
+      'Arrive at Cruz del Condor by 8am',
+      'Stay in Chivay or Yanque villages',
+      'Hot springs perfect after hiking',
+      'Altitude high - acclimatize first',
+      'Book multi-day tours from Arequipa'
+    ],
+    tipsEs: [
+      'Pasa al menos 2 días - apurarse pierde lo mejor',
+      'Llega a Cruz del Cóndor para las 8am',
+      'Quédate en pueblos de Chivay o Yanque',
+      'Aguas termales perfectas después de caminar',
+      'Altitud alta - aclimatarse primero',
+      'Reserva tours de varios días desde Arequipa'
+    ],
+    nearbyAttractions: ['la-calera-hot-springs', 'chivay', 'yanque'],
+    relatedSites: ['arequipa', 'salinas-aguada-blanca', 'misti-volcano'],
+    gettingThere: '160km from Arequipa (3-4 hours). Tours or rental car. Public buses to Chivay available.',
+    gettingThereEs: '160km desde Arequipa (3-4 horas). Tours o auto de alquiler. Buses públicos a Chivay disponibles.',
+    facilities: [
+      'Hotels and hostels in valley towns',
+      'Restaurants serving local cuisine',
+      'Hot springs with facilities',
+      'Viewpoints with parking',
+      'Local guides available',
+      'Basic medical services in Chivay'
+    ],
+    facilitiesEs: [
+      'Hoteles y hostales en pueblos del valle',
+      'Restaurantes con cocina local',
+      'Aguas termales con instalaciones',
+      'Miradores con estacionamiento',
+      'Guías locales disponibles',
+      'Servicios médicos básicos en Chivay'
+    ]
+  },
+  {
+    slug: 'choquequirao',
+    name: 'Choquequirao',
+    nameEs: 'Choquequirao',
+    type: 'archaeological',
+    city: 'cusco',
+    region: 'Cusco Region',
+    regionEs: 'Región Cusco',
+    altitude: 3050,
+    description: 'The "sister city" of Machu Picchu remains accessible only by a challenging multi-day trek, preserving its mystical atmosphere. This massive Inca citadel sprawls across a mountain ridge with terraces, temples, and the famous llama mosaics, all without the crowds.',
+    descriptionEs: 'La "ciudad hermana" de Machu Picchu permanece accesible solo por una desafiante caminata de varios días, preservando su atmósfera mística. Esta masiva ciudadela Inca se extiende a lo largo de una cresta montañosa con terrazas, templos y los famosos mosaicos de llamas, todo sin las multitudes.',
+    history: 'Built during the reign of Inca Tupac Yupanqui in the 15th century, Choquequirao may have served as a royal estate, religious center, and gateway to the jungle. It was a final refuge of Inca resistance against Spanish conquest. Only about 30% has been excavated, with ongoing discoveries revealing the site\'s true extent rivals Machu Picchu.',
+    historyEs: 'Construido durante el reinado del Inca Túpac Yupanqui en el siglo XV, Choquequirao pudo haber servido como hacienda real, centro religioso y puerta de entrada a la selva. Fue un refugio final de la resistencia Inca contra la conquista española. Solo aproximadamente el 30% ha sido excavado, con descubrimientos continuos revelando que la verdadera extensión del sitio rivaliza con Machu Picchu.',
+    highlights: [
+      'Machu Picchu\'s uncrowded sister city',
+      'Unique llama and condor stone mosaics',
+      'Challenging but rewarding trek',
+      'Only 30% excavated - ongoing discoveries',
+      'Spectacular mountain setting'
+    ],
+    highlightsEs: [
+      'Ciudad hermana de Machu Picchu sin multitudes',
+      'Mosaicos de piedra únicos de llamas y cóndores',
+      'Caminata desafiante pero gratificante',
+      'Solo 30% excavado - descubrimientos continuos',
+      'Espectacular entorno montañoso'
+    ],
+    familyRating: 2,
+    minAge: 12,
+    duration: '4-5 days round trip trek',
+    durationEs: '4-5 días caminata ida y vuelta',
+    difficulty: 'challenging',
+    entranceFee: '60 soles adults, 30 soles students',
+    entranceFeeEs: '60 soles adultos, 30 soles estudiantes',
+    bestTime: 'April-October (dry season). Avoid rainy season treks.',
+    bestTimeEs: 'Abril-Octubre (temporada seca). Evita caminatas en temporada de lluvias.',
+    tips: [
+      'Only for fit, experienced trekkers',
+      'Hire guides and mules - essential',
+      'Carry plenty of water',
+      'Camp at designated sites',
+      'Start very early each day',
+      'Future cable car may change access'
+    ],
+    tipsEs: [
+      'Solo para excursionistas en forma y experimentados',
+      'Contrata guías y mulas - esencial',
+      'Lleva suficiente agua',
+      'Acampa en sitios designados',
+      'Comienza muy temprano cada día',
+      'Futuro teleférico puede cambiar el acceso'
+    ],
+    nearbyAttractions: ['cachora', 'apurimac-canyon', 'cusco'],
+    relatedSites: ['machu-picchu', 'vilcabamba', 'espiritu-pampa'],
+    gettingThere: 'Trek starts from Cachora village (4 hours from Cusco). No road access to ruins.',
+    gettingThereEs: 'La caminata comienza en el pueblo de Cachora (4 horas desde Cusco). Sin acceso por carretera a las ruinas.',
+    facilities: [
+      'Basic campsites along trail',
+      'Simple shelters at ruins',
+      'Water sources (treat before drinking)',
+      'No electricity or services at site',
+      'Mule support available',
+      'Basic supplies in Cachora only'
+    ],
+    facilitiesEs: [
+      'Campamentos básicos a lo largo del sendero',
+      'Refugios simples en las ruinas',
+      'Fuentes de agua (tratar antes de beber)',
+      'Sin electricidad ni servicios en el sitio',
+      'Apoyo de mulas disponible',
+      'Suministros básicos solo en Cachora'
+    ]
+  },
+  {
+    slug: 'ballestas-islands',
+    name: 'Ballestas Islands',
+    nameEs: 'Islas Ballestas',
+    type: 'natural',
+    city: 'paracas',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 0,
+    description: 'These rocky islands teem with sea lions, Humboldt penguins, and thousands of seabirds in one of Peru\'s most accessible wildlife spectacles. Boat tours circle the islands revealing the Candelabra geoglyph and marine life comparable to the Galápagos.',
+    descriptionEs: 'Estas islas rocosas rebosan de lobos marinos, pingüinos de Humboldt y miles de aves marinas en uno de los espectáculos de vida silvestre más accesibles del Perú. Tours en bote rodean las islas revelando el geoglifo del Candelabro y vida marina comparable a las Galápagos.',
+    history: 'The islands were historically mined for guano (bird droppings used as fertilizer), which drove Peru\'s economy in the 19th century. Today they\'re protected as part of the Paracas National Reserve. The mysterious Candelabra carved into the hillside may be 2,000 years old, though its origin remains debated.',
+    historyEs: 'Las islas fueron históricamente explotadas por guano (excrementos de aves usados como fertilizante), que impulsó la economía del Perú en el siglo XIX. Hoy están protegidas como parte de la Reserva Nacional de Paracas. El misterioso Candelabro tallado en la ladera puede tener 2,000 años, aunque su origen sigue siendo debatido.',
+    highlights: [
+      'Sea lion colonies',
+      'Humboldt penguins',
+      'Thousands of seabirds',
+      'Candelabra geoglyph viewing',
+      'Peru\'s "Poor Man\'s Galápagos"'
+    ],
+    highlightsEs: [
+      'Colonias de lobos marinos',
+      'Pingüinos de Humboldt',
+      'Miles de aves marinas',
+      'Vista del geoglifo Candelabro',
+      '"Galápagos del hombre pobre" del Perú'
+    ],
+    familyRating: 5,
+    minAge: 3,
+    duration: '2 hours (boat tour)',
+    durationEs: '2 horas (tour en bote)',
+    difficulty: 'easy',
+    entranceFee: 'Boat tours $15-25 USD, no landing on islands',
+    entranceFeeEs: 'Tours en bote $15-25 USD, no se desembarca en islas',
+    bestTime: 'Year-round. June-September best for wildlife concentration.',
+    bestTimeEs: 'Todo el año. Junio-Septiembre mejor para concentración de fauna.',
+    tips: [
+      'Morning tours have calmer seas',
+      'Bring warm jacket - ocean is cold',
+      'Sunscreen and sunglasses essential',
+      'Motion sickness possible - take medication',
+      'Cannot land on islands - boat viewing only',
+      'Combine with Paracas Reserve visit'
+    ],
+    tipsEs: [
+      'Tours matutinos tienen mar más calmado',
+      'Lleva chaqueta abrigada - océano es frío',
+      'Protector solar y lentes de sol esenciales',
+      'Posible mareo - toma medicamento',
+      'No se puede desembarcar - solo vista desde bote',
+      'Combina con visita a Reserva de Paracas'
+    ],
+    nearbyAttractions: ['paracas-reserve', 'el-chaco', 'ica'],
+    relatedSites: ['paracas-national-reserve', 'nazca-lines', 'huacachina'],
+    gettingThere: 'Boats depart from El Chaco/Paracas pier. 3-4 hours from Lima by bus or car.',
+    gettingThereEs: 'Botes parten del muelle de El Chaco/Paracas. 3-4 horas desde Lima en bus o auto.',
+    facilities: [
+      'Tour operators at Paracas pier',
+      'Life jackets provided',
+      'Restrooms at pier',
+      'Hotels and restaurants in Paracas',
+      'Multiple daily departures',
+      'Bilingual guides on most tours'
+    ],
+    facilitiesEs: [
+      'Operadores turísticos en muelle de Paracas',
+      'Chalecos salvavidas proporcionados',
+      'Baños en el muelle',
+      'Hoteles y restaurantes en Paracas',
+      'Múltiples salidas diarias',
+      'Guías bilingües en la mayoría de tours'
+    ]
+  },
+  {
+    slug: 'huacachina-oasis',
+    name: 'Huacachina Oasis',
+    nameEs: 'Oasis de Huacachina',
+    type: 'natural',
+    city: 'ica',
+    region: 'Ica Region',
+    regionEs: 'Región Ica',
+    altitude: 400,
+    description: 'A storybook desert oasis with palm trees surrounding a natural lagoon, encircled by towering sand dunes. This unique landscape offers thrilling sandboarding, dune buggy rides, and magical sunsets just minutes from the city of Ica.',
+    descriptionEs: 'Un oasis de desierto de cuento con palmeras rodeando una laguna natural, cercada por imponentes dunas de arena. Este paisaje único ofrece emocionante sandboard, paseos en buggy de dunas y atardeceres mágicos a solo minutos de la ciudad de Ica.',
+    history: 'Legend says the lagoon was formed when a beautiful princess was interrupted while bathing, and her mirror became the lake while her cloak became the dunes. The oasis became a resort destination for Peruvian elite in the 1940s. Today it\'s both a backpacker hub and family adventure destination, though the lagoon\'s water level has required artificial replenishment.',
+    historyEs: 'La leyenda dice que la laguna se formó cuando una hermosa princesa fue interrumpida mientras se bañaba, y su espejo se convirtió en el lago mientras su capa se convirtió en las dunas. El oasis se convirtió en destino de resort para la élite peruana en los años 1940. Hoy es tanto un centro mochilero como destino de aventura familiar, aunque el nivel de agua de la laguna ha requerido reposición artificial.',
+    highlights: [
+      'Stunning desert oasis scenery',
+      'Thrilling dune buggy rides',
+      'Sandboarding down giant dunes',
+      'Spectacular sunset views',
+      'Unique photo opportunities'
+    ],
+    highlightsEs: [
+      'Impresionante paisaje de oasis de desierto',
+      'Emocionantes paseos en buggy de dunas',
+      'Sandboard bajando dunas gigantes',
+      'Espectaculares vistas del atardecer',
+      'Oportunidades únicas de fotos'
+    ],
+    familyRating: 5,
+    minAge: 5,
+    duration: '3-4 hours for activities',
+    durationEs: '3-4 horas para actividades',
+    difficulty: 'easy',
+    entranceFee: 'Free access; buggy/sandboard tours $10-30',
+    entranceFeeEs: 'Acceso gratuito; tours de buggy/sandboard $10-30',
+    bestTime: 'Year-round. Sunset tours most popular.',
+    bestTimeEs: 'Todo el año. Tours al atardecer más populares.',
+    tips: [
+      'Sunset buggy tours most magical',
+      'Wear clothes that can get sandy',
+      'Bring goggles or sunglasses',
+      'Hold on tight in buggies!',
+      'Sandboarding easier than it looks',
+      'Can stay overnight for full experience'
+    ],
+    tipsEs: [
+      'Tours de buggy al atardecer más mágicos',
+      'Usa ropa que pueda ensuciarse con arena',
+      'Lleva gafas o lentes de sol',
+      '¡Agárrate fuerte en los buggies!',
+      'Sandboard más fácil de lo que parece',
+      'Puede quedarse una noche para experiencia completa'
+    ],
+    nearbyAttractions: ['ica-wineries', 'nazca-lines', 'paracas'],
+    relatedSites: ['nazca-lines', 'ballestas-islands', 'paracas-national-reserve'],
+    gettingThere: '5km from Ica city center, 4-5 hours from Lima. Frequent buses and tours available.',
+    gettingThereEs: '5km del centro de la ciudad de Ica, 4-5 horas desde Lima. Buses frecuentes y tours disponibles.',
+    facilities: [
+      'Hotels and hostels around lagoon',
+      'Restaurants and bars',
+      'Tour operators everywhere',
+      'Equipment rental included in tours',
+      'ATMs in Ica city',
+      'Basic medical services in Ica'
+    ],
+    facilitiesEs: [
+      'Hoteles y hostales alrededor de la laguna',
+      'Restaurantes y bares',
+      'Operadores turísticos por todas partes',
+      'Alquiler de equipo incluido en tours',
+      'Cajeros automáticos en ciudad de Ica',
+      'Servicios médicos básicos en Ica'
+    ]
   }
 ];
 
