@@ -8,6 +8,8 @@ export interface Activity {
   city: string;
   region: string;
   regionEs: string;
+  image?: string;
+  imageCredit?: string;
   description: string;
   descriptionEs: string;
   whatToExpect: string;
@@ -43,6 +45,8 @@ export const activities: Activity[] = [
     city: 'iquitos',
     region: 'Loreto Region',
     regionEs: 'Región Loreto',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Amazon_rainforest.jpg/1280px-Amazon_rainforest.jpg',
+    imageCredit: 'Wikimedia Commons (CC BY-SA 3.0)',
     description: 'Explore the world\'s largest rainforest with your family on an unforgettable Amazon adventure. From spotting pink dolphins to meeting indigenous communities, the jungle offers endless wonder for curious kids.',
     descriptionEs: 'Explora el bosque tropical más grande del mundo con tu familia en una aventura amazónica inolvidable. Desde avistar delfines rosados hasta conocer comunidades indígenas, la selva ofrece infinitas maravillas para niños curiosos.',
     whatToExpect: 'Multi-day lodge stays with guided excursions into the jungle. Activities include canoe trips, jungle walks, piranha fishing, wildlife spotting, and visits to local communities. Lodges range from rustic to luxury, all with family-friendly options.',
@@ -133,6 +137,8 @@ export const activities: Activity[] = [
     city: 'huacachina',
     region: 'Ica Region',
     regionEs: 'Región Ica',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sandboarding_in_Huacachina.jpg/1280px-Sandboarding_in_Huacachina.jpg',
+    imageCredit: 'Wikimedia Commons (CC BY-SA 3.0)',
     description: 'Race across towering sand dunes in a thrilling dune buggy, then slide down the slopes on a sandboard. This desert oasis adventure is a highlight for families seeking excitement.',
     descriptionEs: 'Corre a través de imponentes dunas de arena en un emocionante buggy, luego deslízate por las pendientes en un sandboard. Esta aventura en el oasis del desierto es un punto culminante para familias que buscan emoción.',
     whatToExpect: 'A 2-hour tour in powerful dune buggies with multiple stops for sandboarding. Buggies climb high dunes for stunning views before racing down. Sandboarding is done lying down (easier for beginners) or standing (for the adventurous).',
@@ -216,6 +222,8 @@ export const activities: Activity[] = [
     city: 'cusco',
     region: 'Cusco Region',
     regionEs: 'Región Cusco',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ceviche_de_corvina.jpg/1280px-Ceviche_de_corvina.jpg',
+    imageCredit: 'Wikimedia Commons (CC BY-SA 3.0)',
     description: 'Learn to prepare traditional Peruvian dishes in a hands-on cooking class. Visit local markets, discover exotic ingredients, and create delicious meals your whole family will love.',
     descriptionEs: 'Aprende a preparar platos tradicionales peruanos en una clase de cocina práctica. Visita mercados locales, descubre ingredientes exóticos y crea deliciosas comidas que toda tu familia amará.',
     whatToExpect: 'Most classes start with a market tour to buy fresh ingredients. Then you\'ll learn to make classic dishes like ceviche, causa, lomo saltado, or ají de gallina. Kids get involved with age-appropriate tasks. Enjoy your creations for lunch or dinner.',
@@ -302,6 +310,8 @@ export const activities: Activity[] = [
     city: 'sacred-valley',
     region: 'Cusco Region',
     regionEs: 'Región Cusco',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Llama_lying_down.jpg/1280px-Llama_lying_down.jpg',
+    imageCredit: 'Wikimedia Commons (CC BY-SA 3.0)',
     description: 'Trek through the Andean highlands accompanied by friendly llamas who carry your gear. This gentle adventure is perfect for families, combining hiking with animal interaction in stunning scenery.',
     descriptionEs: 'Camina por las tierras altas andinas acompañado de llamas amigables que cargan tu equipo. Esta suave aventura es perfecta para familias, combinando caminata con interacción con animales en paisajes impresionantes.',
     whatToExpect: 'Meet your llama companions and learn how to lead them. Trek through traditional villages, past Inca ruins, and across beautiful Andean landscapes. Enjoy a picnic lunch with spectacular views. Llamas carry all supplies, making the hike easier for families.',

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F4FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="stoneGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#A0826D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B7355;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Sky background -->
+  <rect width="400" height="300" fill="url(#skyGrad)"/>
+  <!-- Mountains -->
+  <path d="M0 200 L80 120 L160 180 L240 100 L320 160 L400 120 L400 300 L0 300 Z" fill="#6B8E6B" opacity="0.6"/>
+  <path d="M0 240 L100 160 L200 220 L300 140 L400 200 L400 300 L0 300 Z" fill="#4A7C4A" opacity="0.7"/>
+  <!-- Inca temple/ruins structure -->
+  <rect x="120" y="160" width="160" height="100" fill="url(#stoneGrad)" stroke="#6B5344" stroke-width="2"/>
+  <!-- Trapezoidal doorway (Inca style) -->
+  <path d="M180 260 L185 200 L215 200 L220 260 Z" fill="#4A3728"/>
+  <!-- Stone blocks pattern -->
+  <line x1="120" y1="185" x2="280" y2="185" stroke="#6B5344" stroke-width="1"/>
+  <line x1="120" y1="210" x2="280" y2="210" stroke="#6B5344" stroke-width="1"/>
+  <line x1="120" y1="235" x2="280" y2="235" stroke="#6B5344" stroke-width="1"/>
+  <line x1="160" y1="160" x2="160" y2="260" stroke="#6B5344" stroke-width="1"/>
+  <line x1="200" y1="160" x2="200" y2="200" stroke="#6B5344" stroke-width="1"/>
+  <line x1="240" y1="160" x2="240" y2="260" stroke="#6B5344" stroke-width="1"/>
+  <!-- Terraces -->
+  <rect x="60" y="220" width="50" height="15" fill="#7A9F7A" stroke="#5A7F5A" stroke-width="1"/>
+  <rect x="60" y="240" width="55" height="15" fill="#7A9F7A" stroke="#5A7F5A" stroke-width="1"/>
+  <rect x="60" y="260" width="60" height="15" fill="#7A9F7A" stroke="#5A7F5A" stroke-width="1"/>
+  <rect x="290" y="220" width="50" height="15" fill="#7A9F7A" stroke="#5A7F5A" stroke-width="1"/>
+  <rect x="285" y="240" width="55" height="15" fill="#7A9F7A" stroke="#5A7F5A" stroke-width="1"/>
+  <rect x="280" y="260" width="60" height="15" fill="#7A9F7A" stroke="#5A7F5A" stroke-width="1"/>
+  <!-- Sun -->
+  <circle cx="320" cy="60" r="30" fill="#FFD700" opacity="0.9"/>
+  <!-- Clouds -->
+  <ellipse cx="80" cy="50" rx="40" ry="20" fill="white" opacity="0.8"/>
+  <ellipse cx="100" cy="45" rx="30" ry="15" fill="white" opacity="0.8"/>
+</svg>

@@ -1,7 +1,20 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getActivityBySlug, getAllActivitySlugs, activities } from '@/data/activities';
+
+function getActivityImageFallback(type: string): string {
+  const fallbacks: Record<string, string> = {
+    adventure: '/images/icons/adventure.svg',
+    cultural: '/images/icons/cultural.svg',
+    nature: '/images/icons/nature.svg',
+    culinary: '/images/icons/culinary.svg',
+    educational: '/images/icons/educational.svg',
+    relaxation: '/images/icons/relaxation.svg'
+  };
+  return fallbacks[type] || '/images/icons/adventure.svg';
+}
 import { getCityBySlug } from '@/data/cities';
 import {
   MapPin,
@@ -104,8 +117,31 @@ export default function ActivityPage({ params }: Props) {
   return (
     <div className="min-h-screen bg-gradient-to-b from-peru-sand/30 to-white">
       {/* Hero Section */}
-      <section className="relative py-16 lg:py-24 bg-gradient-to-r from-peru-gold to-peru-terracotta text-white">
-        <div className="container-peru">
+      <section className="relative py-16 lg:py-24 bg-gradient-to-r from-peru-gold to-peru-terracotta text-white overflow-hidden">
+        {/* Background Image */}
+        {activity.image ? (
+          <div className="absolute inset-0">
+            <Image
+              src={activity.image}
+              alt={activity.name}
+              fill
+              className="object-cover opacity-30"
+              priority
+              unoptimized
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-peru-gold/80 to-peru-terracotta/80" />
+          </div>
+        ) : (
+          <div className="absolute inset-0 opacity-20">
+            <Image
+              src={getActivityImageFallback(activity.type)}
+              alt=""
+              fill
+              className="object-cover"
+            />
+          </div>
+        )}
+        <div className="container-peru relative z-10">
           <div className="max-w-4xl">
             {/* Breadcrumb */}
             <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4 flex-wrap">
@@ -148,6 +184,9 @@ export default function ActivityPage({ params }: Props) {
                 <StarRating rating={activity.familyRating} />
               </div>
             </div>
+            {activity.imageCredit && (
+              <p className="mt-4 text-xs text-white/60">Photo: {activity.imageCredit}</p>
+            )}
           </div>
         </div>
       </section>
