@@ -82,9 +82,16 @@ export default function CityPage({ params }: Props) {
               <span className="text-peru-gold font-semibold">{city.region}</span>
             </div>
 
-            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-4">
+            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-2">
               {city.name} Family Travel Guide
             </h1>
+
+            {city.quechuaMeaning && (
+              <p className="text-lg text-peru-gold mb-4 italic">
+                {city.quechuaName && <span className="font-semibold">{city.quechuaName}</span>}
+                {' — '}&ldquo;{city.quechuaMeaning}&rdquo; <span className="text-white/60 text-sm">(Quechua)</span>
+              </p>
+            )}
 
             <p className="text-xl text-white/90 mb-6">
               {city.description}

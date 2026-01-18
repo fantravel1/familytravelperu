@@ -111,9 +111,16 @@ export default function FestivalPage({ params }: Props) {
               <CrowdBadge level={festival.crowdLevel} />
             </div>
 
-            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-4">
+            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-2">
               {festival.name}
             </h1>
+
+            {festival.quechuaMeaning && (
+              <p className="text-lg text-yellow-200 mb-4 italic">
+                {festival.quechuaName && <span className="font-semibold">{festival.quechuaName}</span>}
+                {' — '}&ldquo;{festival.quechuaMeaning}&rdquo; <span className="text-white/60 text-sm">(Quechua)</span>
+              </p>
+            )}
 
             <p className="text-xl text-white/90 mb-6">
               {festival.description}

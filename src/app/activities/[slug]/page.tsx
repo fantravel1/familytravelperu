@@ -157,9 +157,16 @@ export default function ActivityPage({ params }: Props) {
               <DifficultyBadge difficulty={activity.difficulty} />
             </div>
 
-            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-4">
+            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-2">
               {activity.name}
             </h1>
+
+            {activity.quechuaMeaning && (
+              <p className="text-lg text-peru-sand mb-4 italic">
+                {activity.quechuaName && <span className="font-semibold">{activity.quechuaName}</span>}
+                {' — '}&ldquo;{activity.quechuaMeaning}&rdquo; <span className="text-white/60 text-sm">(Quechua)</span>
+              </p>
+            )}
 
             <p className="text-xl text-white/90 mb-6">
               {activity.description}

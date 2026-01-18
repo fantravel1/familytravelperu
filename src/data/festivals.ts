@@ -4,6 +4,9 @@ export interface Festival {
   slug: string;
   name: string;
   nameEs: string;
+  quechuaName?: string;
+  quechuaMeaning?: string;
+  quechuaMeaningEs?: string;
   date: string;
   dateEs: string;
   month: number;
@@ -38,6 +41,9 @@ export const festivals: Festival[] = [
     slug: 'inti-raymi',
     name: 'Inti Raymi - Festival of the Sun',
     nameEs: 'Inti Raymi - Festival del Sol',
+    quechuaName: 'Inti Raymi',
+    quechuaMeaning: 'Festival of the Sun (Inti = Sun, Raymi = Festival)',
+    quechuaMeaningEs: 'Festival del Sol (Inti = Sol, Raymi = Festival)',
     date: 'June 24',
     dateEs: '24 de junio',
     month: 6,
@@ -128,6 +134,9 @@ export const festivals: Festival[] = [
     slug: 'qoyllur-riti',
     name: 'Qoyllur Rit\'i - Star Snow Festival',
     nameEs: 'Qoyllur Rit\'i - Festival de la Estrella de Nieve',
+    quechuaName: "Q'oyllur Rit'i",
+    quechuaMeaning: 'Star of the Snow (Q\'oyllur = Star, Rit\'i = Snow)',
+    quechuaMeaningEs: 'Estrella de la Nieve (Q\'oyllur = Estrella, Rit\'i = Nieve)',
     date: 'May/June (varies with lunar calendar)',
     dateEs: 'Mayo/junio (varía con el calendario lunar)',
     month: 5,
@@ -2392,6 +2401,9 @@ export const festivals: Festival[] = [
     slug: 'qoyllur-riti',
     name: 'Qoyllur Rit\'i (Snow Star Festival)',
     nameEs: 'Qoyllur Rit\'i (Festival de la Estrella de Nieve)',
+    quechuaName: "Q'oyllur Rit'i",
+    quechuaMeaning: 'Star of the Snow (Q\'oyllur = Star, Rit\'i = Snow)',
+    quechuaMeaningEs: 'Estrella de la Nieve (Q\'oyllur = Estrella, Rit\'i = Nieve)',
     city: 'cusco',
     region: 'Cusco Region',
     regionEs: 'Región Cusco',
