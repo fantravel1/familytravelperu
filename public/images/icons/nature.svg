@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="jungleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#228B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#006400;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Sky with mist -->
+  <rect width="400" height="120" fill="#87CEEB"/>
+  <rect width="400" height="40" y="80" fill="#B8D4E8" opacity="0.5"/>
+  <!-- Dense jungle canopy -->
+  <ellipse cx="50" cy="140" rx="60" ry="50" fill="#228B22"/>
+  <ellipse cx="130" cy="130" rx="70" ry="55" fill="#2E8B2E"/>
+  <ellipse cx="220" cy="125" rx="80" ry="60" fill="#228B22"/>
+  <ellipse cx="320" cy="135" rx="70" ry="50" fill="#2E8B2E"/>
+  <ellipse cx="380" cy="145" rx="50" ry="45" fill="#228B22"/>
+  <!-- River -->
+  <path d="M0 220 Q100 200 200 230 Q300 260 400 240 L400 300 L0 300 Z" fill="#4A90D9"/>
+  <path d="M0 225 Q100 210 200 235 Q300 260 400 245" stroke="#6BB3E0" stroke-width="3" fill="none"/>
+  <!-- Macaw -->
+  <ellipse cx="280" cy="100" rx="15" ry="10" fill="#FF4500"/>
+  <ellipse cx="290" cy="98" rx="8" ry="6" fill="#FFD700"/>
+  <path d="M268" y1="100" d="M265 100 L255 95 M265 100 L255 105" stroke="#1E90FF" stroke-width="3"/>
+  <circle cx="293" cy="96" r="2" fill="#000"/>
+  <path d="M295 100 L305 105" stroke="#FF4500" stroke-width="2"/>
+  <!-- Toucan -->
+  <ellipse cx="100" cy="110" rx="12" ry="8" fill="#000"/>
+  <path d="M112 110 L135 115 L112 112 Z" fill="#FF8C00"/>
+  <circle cx="105" cy="108" r="2" fill="#FFF"/>
+  <!-- Monkey silhouette -->
+  <circle cx="180" cy="150" r="8" fill="#4A3728"/>
+  <ellipse cx="180" cy="165" rx="6" ry="10" fill="#4A3728"/>
+  <path d="M175 160 Q160 180 165 200" stroke="#4A3728" stroke-width="3" fill="none"/>
+  <!-- Butterflies -->
+  <path d="M320 180 Q325 175 330 180 Q325 185 320 180" fill="#9932CC"/>
+  <path d="M330 180 Q335 175 340 180 Q335 185 330 180" fill="#9932CC"/>
+  <path d="M60 190 Q65 185 70 190 Q65 195 60 190" fill="#FF69B4"/>
+  <path d="M70 190 Q75 185 80 190 Q75 195 70 190" fill="#FF69B4"/>
+  <!-- Lily pads -->
+  <ellipse cx="80" cy="260" rx="20" ry="10" fill="#32CD32"/>
+  <ellipse cx="150" cy="280" rx="15" ry="8" fill="#32CD32"/>
+  <ellipse cx="320" cy="270" rx="18" ry="9" fill="#32CD32"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="tableGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#DEB887;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D2691E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Warm background -->
+  <rect width="400" height="300" fill="#FFF8DC"/>
+  <!-- Table -->
+  <rect x="30" y="180" width="340" height="20" fill="url(#tableGrad)" rx="3"/>
+  <!-- Ceviche plate -->
+  <ellipse cx="120" cy="150" rx="50" ry="15" fill="#F5F5F5" stroke="#DDD" stroke-width="2"/>
+  <ellipse cx="120" cy="145" rx="40" ry="12" fill="#FFA07A"/>
+  <circle cx="110" cy="142" r="5" fill="#FF6347"/>
+  <circle cx="125" cy="140" r="4" fill="#98FB98"/>
+  <circle cx="135" cy="143" r="3" fill="#FFD700"/>
+  <ellipse cx="115" cy="148" rx="8" ry="4" fill="#F0E68C"/>
+  <!-- Pisco sour glass -->
+  <path d="M260 100 L250 160 L290 160 L280 100 Z" fill="#FFFACD" stroke="#DDD" stroke-width="1"/>
+  <ellipse cx="270" cy="100" rx="15" ry="5" fill="#FFFACD" stroke="#DDD" stroke-width="1"/>
+  <ellipse cx="270" cy="110" rx="12" ry="4" fill="#F5F5DC"/>
+  <!-- Lime garnish -->
+  <circle cx="275" cy="105" r="6" fill="#32CD32"/>
+  <path d="M275 102 L275 108 M272 105 L278 105" stroke="#228B22" stroke-width="1"/>
+  <!-- Peruvian corn (choclo) -->
+  <ellipse cx="320" cy="150" rx="15" ry="25" fill="#FFD700"/>
+  <line x1="310" y1="135" x2="310" y2="165" stroke="#DAA520" stroke-width="1"/>
+  <line x1="315" y1="130" x2="315" y2="170" stroke="#DAA520" stroke-width="1"/>
+  <line x1="320" y1="128" x2="320" y2="172" stroke="#DAA520" stroke-width="1"/>
+  <line x1="325" y1="130" x2="325" y2="170" stroke="#DAA520" stroke-width="1"/>
+  <line x1="330" y1="135" x2="330" y2="165" stroke="#DAA520" stroke-width="1"/>
+  <!-- Anticucho skewer -->
+  <line x1="50" y1="170" x2="90" y2="120" stroke="#8B4513" stroke-width="3"/>
+  <rect x="55" y="160" width="12" height="10" fill="#8B0000" rx="2"/>
+  <rect x="65" y="150" width="12" height="10" fill="#8B0000" rx="2"/>
+  <rect x="75" y="140" width="12" height="10" fill="#8B0000" rx="2"/>
+  <!-- Aji pepper -->
+  <path d="M180 140 Q200 130 195 160 Q185 165 180 140" fill="#FF4500"/>
+  <rect x="186" y="135" width="3" height="8" fill="#228B22"/>
+  <!-- Decorative cloth/mantel -->
+  <rect x="30" y="200" width="340" height="40" fill="#C41E3A"/>
+  <path d="M30 200 L50 240 L70 200 L90 240 L110 200 L130 240 L150 200 L170 240 L190 200 L210 240 L230 200 L250 240 L270 200 L290 240 L310 200 L330 240 L350 200 L370 240" stroke="#FFD700" stroke-width="2" fill="none"/>
+  <!-- Steam wisps -->
+  <path d="M110 120 Q115 110 110 100" stroke="#DDD" stroke-width="2" fill="none"/>
+  <path d="M125 115 Q130 105 125 95" stroke="#DDD" stroke-width="2" fill="none"/>
+</svg>

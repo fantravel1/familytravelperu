@@ -1,8 +1,20 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getSiteBySlug, getAllSiteSlugs, getSitesByCity, sites } from '@/data/sites';
 import { getCityBySlug } from '@/data/cities';
+
+// Get fallback SVG path based on site type
+function getSiteImageFallback(type: string): string {
+  const fallbacks: Record<string, string> = {
+    archaeological: '/images/icons/archaeological.svg',
+    natural: '/images/icons/natural.svg',
+    cultural: '/images/icons/cultural.svg',
+    museum: '/images/icons/museum.svg'
+  };
+  return fallbacks[type] || '/images/icons/archaeological.svg';
+}
 import {
   MapPin,
   Mountain,
@@ -101,57 +113,89 @@ export default function SitePage({ params }: Props) {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-peru-sand/30 to-white">
-      {/* Hero Section */}
-      <section className="relative py-16 lg:py-24 bg-gradient-to-r from-peru-terracotta to-peru-earth text-white">
-        <div className="container-peru">
-          <div className="max-w-4xl">
-            {/* Breadcrumb */}
-            <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4 flex-wrap">
-              <Link href="/" className="hover:text-white">Home</Link>
-              <ChevronRight className="h-4 w-4" />
-              <Link href="/destinations" className="hover:text-white">Destinations</Link>
-              <ChevronRight className="h-4 w-4" />
-              {city && (
-                <>
-                  <Link href={`/cities/${city.slug}`} className="hover:text-white">{city.name}</Link>
-                  <ChevronRight className="h-4 w-4" />
-                </>
-              )}
-              <span className="text-white">{site.name}</span>
-            </nav>
+      {/* Hero Section with Image */}
+      <section className="relative py-16 lg:py-24 bg-gradient-to-r from-peru-terracotta to-peru-earth text-white overflow-hidden">
+        {/* Background Image */}
+        <div className="absolute inset-0 z-0">
+          <Image
+            src={site.image || getSiteImageFallback(site.type)}
+            alt={site.name}
+            fill
+            className="object-cover opacity-30"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-r from-peru-terracotta/90 to-peru-earth/80" />
+        </div>
 
-            <div className="flex items-center gap-3 mb-4 flex-wrap">
-              <TypeBadge type={site.type} />
-              <DifficultyBadge difficulty={site.difficulty} />
+        <div className="container-peru relative z-10">
+          <div className="grid lg:grid-cols-2 gap-8 items-center">
+            <div className="max-w-2xl">
+              {/* Breadcrumb */}
+              <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4 flex-wrap">
+                <Link href="/" className="hover:text-white">Home</Link>
+                <ChevronRight className="h-4 w-4" />
+                <Link href="/destinations" className="hover:text-white">Destinations</Link>
+                <ChevronRight className="h-4 w-4" />
+                {city && (
+                  <>
+                    <Link href={`/cities/${city.slug}`} className="hover:text-white">{city.name}</Link>
+                    <ChevronRight className="h-4 w-4" />
+                  </>
+                )}
+                <span className="text-white">{site.name}</span>
+              </nav>
+
+              <div className="flex items-center gap-3 mb-4 flex-wrap">
+                <TypeBadge type={site.type} />
+                <DifficultyBadge difficulty={site.difficulty} />
+              </div>
+
+              <h1 className="text-4xl lg:text-5xl font-display font-bold mb-4">
+                {site.name}
+              </h1>
+
+              <p className="text-xl text-white/90 mb-6">
+                {site.description}
+              </p>
+
+              <div className="flex flex-wrap gap-4">
+                <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
+                  <MapPin className="h-5 w-5 mr-2" />
+                  <span>{site.region}</span>
+                </div>
+                {site.altitude !== undefined && site.altitude > 0 && (
+                  <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
+                    <Mountain className="h-5 w-5 mr-2" />
+                    <span>{site.altitude}m altitude</span>
+                  </div>
+                )}
+                <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
+                  <Clock className="h-5 w-5 mr-2" />
+                  <span>{site.duration}</span>
+                </div>
+                <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
+                  <Baby className="h-5 w-5 mr-2" />
+                  <span>Family Rating:</span>
+                  <StarRating rating={site.familyRating} />
+                </div>
+              </div>
             </div>
 
-            <h1 className="text-4xl lg:text-5xl font-display font-bold mb-4">
-              {site.name}
-            </h1>
-
-            <p className="text-xl text-white/90 mb-6">
-              {site.description}
-            </p>
-
-            <div className="flex flex-wrap gap-4">
-              <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
-                <MapPin className="h-5 w-5 mr-2" />
-                <span>{site.region}</span>
-              </div>
-              {site.altitude !== undefined && site.altitude > 0 && (
-                <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
-                  <Mountain className="h-5 w-5 mr-2" />
-                  <span>{site.altitude}m altitude</span>
-                </div>
-              )}
-              <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
-                <Clock className="h-5 w-5 mr-2" />
-                <span>{site.duration}</span>
-              </div>
-              <div className="flex items-center bg-white/20 rounded-full px-4 py-2">
-                <Baby className="h-5 w-5 mr-2" />
-                <span>Family Rating:</span>
-                <StarRating rating={site.familyRating} />
+            {/* Featured Image */}
+            <div className="hidden lg:block">
+              <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
+                <Image
+                  src={site.image || getSiteImageFallback(site.type)}
+                  alt={site.name}
+                  fill
+                  className="object-cover"
+                  priority
+                />
+                {site.imageCredit && (
+                  <div className="absolute bottom-2 right-2 bg-black/50 text-white text-xs px-2 py-1 rounded">
+                    📷 {site.imageCredit}
+                  </div>
+                )}
               </div>
             </div>
           </div>

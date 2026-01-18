@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="poolGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4682B4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sunsetGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF7F50;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#87CEEB;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Sunset sky -->
+  <rect width="400" height="300" fill="url(#sunsetGrad)"/>
+  <!-- Mountains silhouette -->
+  <path d="M0 200 L80 140 L160 180 L240 120 L320 160 L400 100 L400 300 L0 300 Z" fill="#4A3728" opacity="0.4"/>
+  <!-- Hot spring pool -->
+  <ellipse cx="200" cy="230" rx="140" ry="50" fill="url(#poolGrad)"/>
+  <ellipse cx="200" cy="225" rx="120" ry="40" fill="#5F9EA0" opacity="0.5"/>
+  <!-- Steam rising -->
+  <path d="M120 180 Q125 160 120 140" stroke="#FFF" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M160 175 Q165 155 160 135" stroke="#FFF" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M200 170 Q205 150 200 130" stroke="#FFF" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M240 175 Q245 155 240 135" stroke="#FFF" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M280 180 Q285 160 280 140" stroke="#FFF" stroke-width="3" fill="none" opacity="0.6"/>
+  <!-- Rocks around pool -->
+  <ellipse cx="80" cy="240" rx="25" ry="15" fill="#696969"/>
+  <ellipse cx="320" cy="235" rx="30" ry="18" fill="#696969"/>
+  <ellipse cx="120" cy="260" rx="20" ry="12" fill="#808080"/>
+  <ellipse cx="280" cy="265" rx="22" ry="14" fill="#808080"/>
+  <!-- Person relaxing (silhouette) -->
+  <circle cx="200" cy="210" r="12" fill="#4A3728"/>
+  <path d="M188 220 Q200 235 212 220" stroke="#4A3728" stroke-width="8" fill="none"/>
+  <!-- Towel on rock -->
+  <rect x="310" y="220" width="30" height="5" fill="#FF6347" rx="2"/>
+  <!-- Setting sun -->
+  <circle cx="350" cy="80" r="40" fill="#FF4500" opacity="0.8"/>
+  <circle cx="350" cy="80" r="50" fill="#FF4500" opacity="0.3"/>
+  <!-- Palm fronds -->
+  <path d="M30 150 Q50 120 40 80" stroke="#228B22" stroke-width="4" fill="none"/>
+  <path d="M30 150 Q60 130 70 90" stroke="#228B22" stroke-width="4" fill="none"/>
+  <path d="M30 150 Q20 110 10 70" stroke="#228B22" stroke-width="4" fill="none"/>
+  <path d="M370 160 Q350 130 360 90" stroke="#228B22" stroke-width="4" fill="none"/>
+  <path d="M370 160 Q340 140 330 100" stroke="#228B22" stroke-width="4" fill="none"/>
+  <!-- Birds in sunset -->
+  <path d="M280 60 Q285 55 290 60" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M300 50 Q305 45 310 50" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

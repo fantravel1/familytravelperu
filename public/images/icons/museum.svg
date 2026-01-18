@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="skyGradM" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#B8D4E8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E8F4F8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Sky background -->
+  <rect width="400" height="300" fill="url(#skyGradM)"/>
+  <!-- Museum building base -->
+  <rect x="60" y="140" width="280" height="130" fill="#F0EAD6" stroke="#8B8378" stroke-width="2"/>
+  <!-- Columns -->
+  <rect x="90" y="140" width="20" height="130" fill="#FAF8F0" stroke="#8B8378" stroke-width="1"/>
+  <rect x="140" y="140" width="20" height="130" fill="#FAF8F0" stroke="#8B8378" stroke-width="1"/>
+  <rect x="190" y="140" width="20" height="130" fill="#FAF8F0" stroke="#8B8378" stroke-width="1"/>
+  <rect x="240" y="140" width="20" height="130" fill="#FAF8F0" stroke="#8B8378" stroke-width="1"/>
+  <rect x="290" y="140" width="20" height="130" fill="#FAF8F0" stroke="#8B8378" stroke-width="1"/>
+  <!-- Pediment (triangular roof) -->
+  <path d="M50 140 L200 60 L350 140 Z" fill="#E8DCC8" stroke="#8B8378" stroke-width="2"/>
+  <!-- Museum text/emblem area -->
+  <rect x="160" y="90" width="80" height="30" fill="#D4C4A8"/>
+  <!-- Entrance -->
+  <rect x="175" y="220" width="50" height="50" fill="#4A4A4A"/>
+  <!-- Steps -->
+  <rect x="140" y="270" width="120" height="10" fill="#D4C4A8" stroke="#8B8378" stroke-width="1"/>
+  <rect x="150" y="280" width="100" height="10" fill="#C4B498" stroke="#8B8378" stroke-width="1"/>
+  <rect x="160" y="290" width="80" height="10" fill="#B4A488" stroke="#8B8378" stroke-width="1"/>
+  <!-- Artifact displays (stylized) -->
+  <rect x="80" y="180" width="25" height="40" fill="#CD853F" stroke="#8B7355" stroke-width="1"/>
+  <rect x="295" y="180" width="25" height="40" fill="#CD853F" stroke="#8B7355" stroke-width="1"/>
+  <!-- Inca-style artifact on pedestal -->
+  <rect x="85" y="200" width="15" height="20" fill="#DAA520"/>
+  <rect x="300" y="200" width="15" height="20" fill="#DAA520"/>
+  <!-- Banner/flag -->
+  <rect x="185" y="45" width="30" height="20" fill="#C41E3A"/>
+  <line x1="200" y1="30" x2="200" y2="65" stroke="#4A4A4A" stroke-width="2"/>
+  <!-- Decorative elements -->
+  <circle cx="100" cy="110" r="8" fill="#DAA520" opacity="0.6"/>
+  <circle cx="200" cy="75" r="10" fill="#DAA520" opacity="0.6"/>
+  <circle cx="300" cy="110" r="8" fill="#DAA520" opacity="0.6"/>
+</svg>

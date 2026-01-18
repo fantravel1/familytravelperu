@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="skyGradCity" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90D9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#87CEEB;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Sky -->
+  <rect width="400" height="300" fill="url(#skyGradCity)"/>
+  <!-- Distant mountains -->
+  <path d="M0 180 L100 120 L200 160 L300 100 L400 150 L400 300 L0 300 Z" fill="#6B8E6B" opacity="0.4"/>
+  <!-- Plaza/ground -->
+  <rect x="0" y="230" width="400" height="70" fill="#D2B48C"/>
+  <!-- Colonial buildings -->
+  <rect x="20" y="130" width="80" height="100" fill="#F5DEB3" stroke="#8B7355" stroke-width="2"/>
+  <rect x="30" y="145" width="20" height="25" fill="#87CEEB" stroke="#8B7355" stroke-width="1"/>
+  <rect x="70" y="145" width="20" height="25" fill="#87CEEB" stroke="#8B7355" stroke-width="1"/>
+  <rect x="45" y="190" width="30" height="40" fill="#5D4037"/>
+  <path d="M20 130 L60 100 L100 130" fill="#8B4513"/>
+  <!-- Church/cathedral -->
+  <rect x="140" y="100" width="120" height="130" fill="#FAF0E6" stroke="#8B7355" stroke-width="2"/>
+  <rect x="140" y="60" width="40" height="40" fill="#FAF0E6" stroke="#8B7355" stroke-width="2"/>
+  <rect x="220" y="60" width="40" height="40" fill="#FAF0E6" stroke="#8B7355" stroke-width="2"/>
+  <path d="M140 60 Q160 30 180 60" fill="#CD853F"/>
+  <path d="M220 60 Q240 30 260 60" fill="#CD853F"/>
+  <!-- Crosses -->
+  <line x1="160" y1="25" x2="160" y2="40" stroke="#8B7355" stroke-width="3"/>
+  <line x1="153" y1="30" x2="167" y2="30" stroke="#8B7355" stroke-width="3"/>
+  <line x1="240" y1="25" x2="240" y2="40" stroke="#8B7355" stroke-width="3"/>
+  <line x1="233" y1="30" x2="247" y2="30" stroke="#8B7355" stroke-width="3"/>
+  <!-- Cathedral entrance -->
+  <path d="M175 230 L175 160 Q200 130 225 160 L225 230" fill="#5D4037"/>
+  <!-- More buildings -->
+  <rect x="300" y="140" width="80" height="90" fill="#FAEBD7" stroke="#8B7355" stroke-width="2"/>
+  <rect x="310" y="155" width="25" height="30" fill="#87CEEB" stroke="#8B7355" stroke-width="1"/>
+  <rect x="345" y="155" width="25" height="30" fill="#87CEEB" stroke="#8B7355" stroke-width="1"/>
+  <rect x="325" y="195" width="30" height="35" fill="#5D4037"/>
+  <path d="M300 140 L340 110 L380 140" fill="#B22222"/>
+  <!-- Balconies -->
+  <rect x="308" y="185" width="30" height="5" fill="#8B4513"/>
+  <rect x="343" y="185" width="30" height="5" fill="#8B4513"/>
+  <!-- Fountain in plaza -->
+  <ellipse cx="200" cy="270" rx="40" ry="15" fill="#4682B4"/>
+  <ellipse cx="200" cy="265" rx="30" ry="10" fill="#5F9EA0"/>
+  <rect x="195" y="250" width="10" height="20" fill="#808080"/>
+  <!-- Water spray -->
+  <path d="M200 250 Q195 235 190 245" stroke="#87CEEB" stroke-width="2" fill="none"/>
+  <path d="M200 250 Q205 235 210 245" stroke="#87CEEB" stroke-width="2" fill="none"/>
+  <!-- People in plaza -->
+  <circle cx="120" cy="255" r="5" fill="#4A4A4A"/>
+  <rect x="117" y="260" width="6" height="12" fill="#FF6347"/>
+  <circle cx="280" cy="258" r="5" fill="#4A4A4A"/>
+  <rect x="277" y="263" width="6" height="10" fill="#4169E1"/>
+  <!-- Sun -->
+  <circle cx="50" cy="40" r="25" fill="#FFD700"/>
+</svg>
