@@ -8,6 +8,9 @@ export interface City {
   regionEs: string;
   altitude: number;
   population: string;
+  quechuaName?: string;
+  quechuaMeaning?: string;
+  quechuaMeaningEs?: string;
   description: string;
   descriptionEs: string;
   highlights: string[];
@@ -180,6 +183,9 @@ export const cities: City[] = [
     regionEs: 'Región Cusco',
     altitude: 3400,
     population: '430,000',
+    quechuaName: 'Qosqo',
+    quechuaMeaning: 'Navel of the World',
+    quechuaMeaningEs: 'Ombligo del Mundo',
     description: 'The ancient capital of the Inca Empire is a UNESCO World Heritage Site filled with stunning colonial architecture built on Inca foundations. Cusco is the gateway to Machu Picchu and the Sacred Valley, making it the heart of any Peru family adventure.',
     descriptionEs: 'La antigua capital del Imperio Inca es Patrimonio de la Humanidad de la UNESCO, llena de impresionante arquitectura colonial construida sobre cimientos incas. Cusco es la puerta de entrada a Machu Picchu y el Valle Sagrado, convirtiéndolo en el corazón de cualquier aventura familiar en Perú.',
     highlights: [
@@ -242,6 +248,9 @@ export const cities: City[] = [
     regionEs: 'Región Cusco',
     altitude: 2800,
     population: 'Various towns',
+    quechuaName: 'Willka Qhichwa',
+    quechuaMeaning: 'Sacred Valley / Valley of the Sun',
+    quechuaMeaningEs: 'Valle Sagrado / Valle del Sol',
     description: 'The Sacred Valley of the Incas stretches between Cusco and Machu Picchu, featuring stunning Andean scenery, ancient ruins, traditional villages, and a lower altitude that\'s easier on families. It\'s an essential stop for experiencing authentic Andean culture.',
     descriptionEs: 'El Valle Sagrado de los Incas se extiende entre Cusco y Machu Picchu, con impresionantes paisajes andinos, ruinas antiguas, pueblos tradicionales y una altitud más baja que es más fácil para las familias. Es una parada esencial para experimentar la cultura andina auténtica.',
     highlights: [
@@ -423,6 +432,9 @@ export const cities: City[] = [
     regionEs: 'Región Puno',
     altitude: 3830,
     population: '150,000',
+    quechuaName: 'Punu',
+    quechuaMeaning: 'Place of Rest / Sleepiness',
+    quechuaMeaningEs: 'Lugar de Descanso / Sueño',
     description: 'Perched on the shores of Lake Titicaca, Puno is known as Peru\'s folklore capital. This high-altitude city is the gateway to the mystical lake, floating islands, and ancient Aymara culture that has survived for millennia.',
     descriptionEs: 'Situada en las orillas del Lago Titicaca, Puno es conocida como la capital del folclore peruano. Esta ciudad de gran altitud es la puerta de entrada al místico lago, las islas flotantes y la antigua cultura aymara que ha sobrevivido por milenios.',
     highlights: [
@@ -1194,6 +1206,9 @@ export const cities: City[] = [
     regionEs: 'Región Cusco',
     altitude: 2792,
     population: '3,000',
+    quechuaName: 'Ullantay Tampu',
+    quechuaMeaning: 'Lodging of Ollantay',
+    quechuaMeaningEs: 'Alojamiento de Ollantay',
     description: 'A living Inca town where ancient streets and waterways still function as they did 500 years ago. Ollantaytambo features impressive Inca ruins, traditional architecture, and serves as the gateway to Machu Picchu via train. The massive fortress ruins overlooking the town are among Peru\'s most impressive.',
     descriptionEs: 'Un pueblo inca vivo donde las calles y canales antiguos todavía funcionan como hace 500 años. Ollantaytambo presenta impresionantes ruinas incas, arquitectura tradicional y sirve como puerta de entrada a Machu Picchu por tren. Las masivas ruinas de la fortaleza sobre el pueblo están entre las más impresionantes de Perú.',
     highlights: [
@@ -1258,6 +1273,9 @@ export const cities: City[] = [
     regionEs: 'Región Cusco',
     altitude: 2972,
     population: '10,000',
+    quechuaName: "P'isaq",
+    quechuaMeaning: 'Partridge',
+    quechuaMeaningEs: 'Perdiz',
     description: 'Famous for its vibrant Sunday market and spectacular Inca ruins high above town, Pisac is a must-visit Sacred Valley destination. The massive archaeological site features agricultural terraces, temples, and an ancient cemetery. The market offers beautiful textiles, crafts, and local produce.',
     descriptionEs: 'Famoso por su vibrante mercado dominical y espectaculares ruinas incas en lo alto del pueblo, Písac es un destino imperdible del Valle Sagrado. El masivo sitio arqueológico presenta terrazas agrícolas, templos y un cementerio antiguo. El mercado ofrece hermosos textiles, artesanías y productos locales.',
     highlights: [
