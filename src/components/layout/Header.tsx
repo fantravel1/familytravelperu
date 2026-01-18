@@ -36,6 +36,7 @@ export default function Header() {
     { href: '/festivals/', label: locale === 'es' ? 'Festivales' : 'Festivals Calendar' },
     { href: '/connectivity/', label: locale === 'es' ? 'Internet y WiFi' : 'Connectivity Guide' },
     { href: '/spanish-phrases/', label: locale === 'es' ? 'Frases en Español' : 'Spanish Phrases' },
+    { href: '/quechua-phrases/', label: locale === 'es' ? 'Frases en Quechua' : 'Quechua Phrases' },
     { href: '/safety/', label: locale === 'es' ? 'Guía de Seguridad' : 'Safety Guide' },
     { href: '/emergency/', label: locale === 'es' ? 'Emergencias' : 'Emergency Contacts' },
     { href: '/visa/', label: locale === 'es' ? 'Visa y Entrada' : 'Visa & Entry' },

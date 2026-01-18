@@ -11,6 +11,9 @@ export interface Site {
   altitude?: number;
   image?: string;
   imageCredit?: string;
+  quechuaName?: string;
+  quechuaMeaning?: string;
+  quechuaMeaningEs?: string;
   description: string;
   descriptionEs: string;
   history: string;
@@ -48,6 +51,9 @@ export const sites: Site[] = [
     altitude: 2430,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/1280px-Machu_Picchu%2C_Peru.jpg',
     imageCredit: 'Wikimedia Commons (CC BY-SA)',
+    quechuaName: 'Machu Pikchu',
+    quechuaMeaning: 'Old Mountain',
+    quechuaMeaningEs: 'Montaña Vieja',
     description: 'The legendary "Lost City of the Incas" is one of the world\'s most iconic archaeological sites. Perched dramatically on a mountain ridge above the Urubamba Valley, Machu Picchu is a masterpiece of engineering and a bucket-list destination for travelers worldwide.',
     descriptionEs: 'La legendaria "Ciudad Perdida de los Incas" es uno de los sitios arqueológicos más icónicos del mundo. Ubicado dramáticamente en una cresta montañosa sobre el Valle del Urubamba, Machu Picchu es una obra maestra de ingeniería y un destino imperdible para viajeros de todo el mundo.',
     history: 'Built around 1450 AD during the reign of Inca emperor Pachacuti, Machu Picchu was likely a royal estate and sacred religious site. It was abandoned during the Spanish Conquest and remained hidden for centuries until Hiram Bingham brought it to international attention in 1911.',
@@ -121,6 +127,9 @@ export const sites: Site[] = [
     altitude: 3700,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_01.JPG/1280px-Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_01.JPG',
     imageCredit: 'Diego Delso, Wikimedia Commons (CC BY-SA 4.0)',
+    quechuaName: 'Saqsaywaman',
+    quechuaMeaning: 'Satisfied Falcon',
+    quechuaMeaningEs: 'Halcón Satisfecho',
     description: 'This massive fortress on the outskirts of Cusco features some of the most impressive stonework in the Americas. The zigzag walls made of enormous boulders - some weighing over 100 tons - continue to baffle engineers as to how they were moved and fitted together.',
     descriptionEs: 'Esta masiva fortaleza en las afueras de Cusco presenta algunos de los trabajos en piedra más impresionantes de las Américas. Las paredes en zigzag hechas de enormes rocas - algunas pesando más de 100 toneladas - continúan desconcertando a los ingenieros sobre cómo fueron movidas y ensambladas.',
     history: 'Built in the 15th century, Sacsayhuamán took over 60 years to construct and required a workforce of more than 20,000 laborers. It served as a fortress, religious center, and location for Inti Raymi ceremonies.',
@@ -192,6 +201,9 @@ export const sites: Site[] = [
     altitude: 2792,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ollantaytambo%2C_Per%C3%BA%2C_2015-07-30%2C_DD_79.JPG/1280px-Ollantaytambo%2C_Per%C3%BA%2C_2015-07-30%2C_DD_79.JPG',
     imageCredit: 'Diego Delso, Wikimedia Commons (CC BY-SA 4.0)',
+    quechuaName: 'Ullantaytampu',
+    quechuaMeaning: 'Ollantay\'s Resting Place',
+    quechuaMeaningEs: 'Lugar de Descanso de Ollantay',
     description: 'This "Living Inca Town" is the best-preserved example of Inca urban planning. The town layout and irrigation systems remain intact, while the impressive fortress ruins tower above. It\'s also the main departure point for Machu Picchu trains.',
     descriptionEs: 'Este "Pueblo Inca Viviente" es el mejor ejemplo preservado de planificación urbana inca. El diseño del pueblo y los sistemas de irrigación permanecen intactos, mientras que las impresionantes ruinas de la fortaleza se elevan arriba. También es el punto principal de partida para trenes a Machu Picchu.',
     history: 'Ollantaytambo served as both a temple and fortress during the Inca Empire. It was here that Manco Inca successfully resisted Spanish forces in 1536, in one of the few Inca military victories against the conquistadors.',
@@ -263,6 +275,9 @@ export const sites: Site[] = [
     altitude: 3300,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pisac_Ruins%2C_Peru.jpg/1280px-Pisac_Ruins%2C_Peru.jpg',
     imageCredit: 'Wikimedia Commons (CC BY-SA 3.0)',
+    quechuaName: 'P\'isaq',
+    quechuaMeaning: 'Partridge',
+    quechuaMeaningEs: 'Perdiz',
     description: 'Perched high above the Sacred Valley, Pisac offers both stunning Inca ruins and one of Peru\'s most famous traditional markets. The terraced hillsides, religious temples, and military fortifications make it a must-visit destination.',
     descriptionEs: 'Ubicado en lo alto del Valle Sagrado, Pisac ofrece tanto impresionantes ruinas incas como uno de los mercados tradicionales más famosos de Perú. Las laderas con terrazas, templos religiosos y fortificaciones militares lo hacen un destino imperdible.',
     history: 'Pisac was an important settlement that controlled the route from the Inca Empire into the Amazon jungle. The ruins include military, religious, and agricultural sectors, with the Intihuatana temple as its spiritual center.',
@@ -331,6 +346,9 @@ export const sites: Site[] = [
     regionEs: 'Región Cusco',
     altitude: 3500,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Moray_-_Pair_of_Circular_Terraces.jpg/1280px-Moray_-_Pair_of_Circular_Terraces.jpg',
+    quechuaName: 'Muray',
+    quechuaMeaning: 'Round/Circular',
+    quechuaMeaningEs: 'Redondo/Circular',
     imageCredit: 'McKay Savage, Wikimedia Commons (CC BY 2.0)',
     description: 'The mysterious circular terraces of Moray are unlike anything else in Peru. These concentric depressions created different microclimates, possibly serving as an ancient agricultural research station where the Incas experimented with crops.',
     descriptionEs: 'Las misteriosas terrazas circulares de Moray son únicas en Perú. Estas depresiones concéntricas creaban diferentes microclimas, posiblemente sirviendo como una estación de investigación agrícola antigua donde los incas experimentaban con cultivos.',
@@ -470,6 +488,9 @@ export const sites: Site[] = [
     altitude: 5200,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Per%C3%BA_-_Cusco_Trekking_049_-_Rainbow_Mountain_%287111451523%29.jpg/1280px-Per%C3%BA_-_Cusco_Trekking_049_-_Rainbow_Mountain_%287111451523%29.jpg',
     imageCredit: 'McKay Savage, Wikimedia Commons (CC BY 2.0)',
+    quechuaName: 'Winicunca',
+    quechuaMeaning: 'Rainbow Mountain',
+    quechuaMeaningEs: 'Montaña Arcoíris',
     description: 'One of Peru\'s most Instagram-famous destinations, Rainbow Mountain features stunning natural striations of color created by mineral deposits. The demanding hike to 5,200m rewards visitors with an otherworldly landscape of reds, yellows, and turquoise.',
     descriptionEs: 'Uno de los destinos más famosos de Instagram en Perú, la Montaña de Colores presenta impresionantes estrías naturales de color creadas por depósitos minerales. La exigente caminata a 5,200m recompensa a los visitantes con un paisaje de otro mundo de rojos, amarillos y turquesas.',
     history: 'Rainbow Mountain was only "discovered" for tourism in 2015 when climate change melted the snow that had covered it. The colorful bands are created by different mineral deposits - iron (red), sulfur (yellow), and copper (turquoise).',
@@ -609,6 +630,9 @@ export const sites: Site[] = [
     city: 'puno',
     region: 'Puno Region',
     regionEs: 'Región Puno',
+    quechuaName: 'Titiqaqa',
+    quechuaMeaning: 'Puma Rock / Gray Puma',
+    quechuaMeaningEs: 'Roca del Puma / Puma Gris',
     altitude: 3812,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_36.JPG/1280px-Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_36.JPG',
     imageCredit: 'Diego Delso, Wikimedia Commons (CC BY-SA 4.0)',
@@ -2043,6 +2067,9 @@ export const sites: Site[] = [
     regionEs: 'Región Puno',
     altitude: 3880,
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sillustani%2C_Per%C3%BA%2C_2015-08-02%2C_DD_63.JPG/1280px-Sillustani%2C_Per%C3%BA%2C_2015-08-02%2C_DD_63.JPG',
+    quechuaName: 'Sillustani',
+    quechuaMeaning: 'Nail of the Fingernail',
+    quechuaMeaningEs: 'Uña del Dedo',
     imageCredit: 'Diego Delso, Wikimedia Commons (CC BY-SA 4.0)',
     description: 'Mysterious burial towers called chullpas rise from a peninsula on Lake Umayo near Puno. Built by the Colla people before the Incas, these cylindrical stone tombs are larger at the top than the bottom, a unique architectural style found nowhere else.',
     descriptionEs: 'Misteriosas torres funerarias llamadas chullpas se elevan desde una península en el Lago Umayo cerca de Puno. Construidas por el pueblo Colla antes de los Incas, estas tumbas cilíndricas de piedra son más grandes arriba que abajo, un estilo arquitectónico único que no se encuentra en ningún otro lugar.',

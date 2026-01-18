@@ -150,9 +150,16 @@ export default function SitePage({ params }: Props) {
                 <DifficultyBadge difficulty={site.difficulty} />
               </div>
 
-              <h1 className="text-4xl lg:text-5xl font-display font-bold mb-4">
+              <h1 className="text-4xl lg:text-5xl font-display font-bold mb-2">
                 {site.name}
               </h1>
+
+              {site.quechuaMeaning && (
+                <p className="text-lg text-peru-gold mb-4 italic">
+                  {site.quechuaName && <span className="font-semibold">{site.quechuaName}</span>}
+                  {' — '}&ldquo;{site.quechuaMeaning}&rdquo; <span className="text-white/60 text-sm">(Quechua)</span>
+                </p>
+              )}
 
               <p className="text-xl text-white/90 mb-6">
                 {site.description}
