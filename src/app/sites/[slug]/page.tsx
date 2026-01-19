@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getSiteBySlug, getAllSiteSlugs, getSitesByCity, sites } from '@/data/sites';
 import { getCityBySlug } from '@/data/cities';
+import { YouTubeVideo } from '@/components/ui/YouTubeVideo';
 
 // Get fallback SVG path based on site type
 function getSiteImageFallback(type: string): string {
@@ -260,6 +261,22 @@ export default function SitePage({ params }: Props) {
                 <p className="text-gray-700 leading-relaxed">{site.history}</p>
               </div>
             </section>
+
+            {/* Video Section */}
+            {site.youtubeVideoId && (
+              <section>
+                <h2 className="text-2xl font-display font-bold text-peru-earth mb-6 flex items-center">
+                  <svg className="h-6 w-6 mr-2 text-red-600" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/>
+                  </svg>
+                  Watch Video
+                </h2>
+                <YouTubeVideo
+                  videoId={site.youtubeVideoId}
+                  title={site.youtubeVideoTitle || site.name}
+                />
+              </section>
+            )}
 
             {/* Highlights */}
             <section>

@@ -7,6 +7,8 @@ export interface Festival {
   quechuaName?: string;
   quechuaMeaning?: string;
   quechuaMeaningEs?: string;
+  youtubeVideoId?: string;
+  youtubeVideoTitle?: string;
   date: string;
   dateEs: string;
   month: number;
@@ -44,6 +46,8 @@ export const festivals: Festival[] = [
     quechuaName: 'Inti Raymi',
     quechuaMeaning: 'Festival of the Sun (Inti = Sun, Raymi = Festival)',
     quechuaMeaningEs: 'Festival del Sol (Inti = Sol, Raymi = Festival)',
+    youtubeVideoId: 'pKLoP0GKvWQ',
+    youtubeVideoTitle: 'Inti Raymi: Festival of the Sun in Cusco Peru',
     date: 'June 24',
     dateEs: '24 de junio',
     month: 6,
@@ -137,6 +141,8 @@ export const festivals: Festival[] = [
     quechuaName: "Q'oyllur Rit'i",
     quechuaMeaning: 'Star of the Snow (Q\'oyllur = Star, Rit\'i = Snow)',
     quechuaMeaningEs: 'Estrella de la Nieve (Q\'oyllur = Estrella, Rit\'i = Nieve)',
+    youtubeVideoId: 'UvMvG0eJTyw',
+    youtubeVideoTitle: 'Qoyllur Rit\'i: Peru\'s Most Sacred Pilgrimage',
     date: 'May/June (varies with lunar calendar)',
     dateEs: 'Mayo/junio (varía con el calendario lunar)',
     month: 5,
@@ -223,6 +229,8 @@ export const festivals: Festival[] = [
     slug: 'virgen-candelaria',
     name: 'Virgen de la Candelaria',
     nameEs: 'Virgen de la Candelaria',
+    youtubeVideoId: 'u3l8n7yKpXk',
+    youtubeVideoTitle: 'Virgen de la Candelaria: Peru\'s Greatest Festival',
     date: 'February 2-11',
     dateEs: '2-11 de febrero',
     month: 2,
@@ -1035,6 +1043,8 @@ export const festivals: Festival[] = [
     slug: 'corpus-christi-cusco',
     name: 'Corpus Christi Cusco',
     nameEs: 'Corpus Christi Cusco',
+    youtubeVideoId: 'DMc4Zs1cxWs',
+    youtubeVideoTitle: 'Corpus Christi in Cusco: A Spectacular Celebration',
     date: 'Variable (May/June - 60 days after Easter)',
     dateEs: 'Variable (mayo/junio - 60 días después de Semana Santa)',
     month: 6,
