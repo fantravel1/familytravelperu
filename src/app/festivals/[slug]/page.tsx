@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getFestivalBySlug, getAllFestivalSlugs, festivals } from '@/data/festivals';
 import { getCityBySlug } from '@/data/cities';
+import { YouTubeVideo } from '@/components/ui/YouTubeVideo';
 import {
   MapPin,
   Calendar,
@@ -99,7 +100,7 @@ export default function FestivalPage({ params }: Props) {
             <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4 flex-wrap">
               <Link href="/" className="hover:text-white">Home</Link>
               <ChevronRight className="h-4 w-4" />
-              <Link href="/festivals" className="hover:text-white">Festivals</Link>
+              <Link href="/festivals/" className="hover:text-white">Festivals</Link>
               <ChevronRight className="h-4 w-4" />
               <span className="text-white">{festival.name}</span>
             </nav>
@@ -200,6 +201,22 @@ export default function FestivalPage({ params }: Props) {
                 <p className="text-gray-700 leading-relaxed">{festival.history}</p>
               </div>
             </section>
+
+            {/* Video Section */}
+            {festival.youtubeVideoId && (
+              <section>
+                <h2 className="text-2xl font-display font-bold text-peru-earth mb-6 flex items-center">
+                  <svg className="h-6 w-6 mr-2 text-red-600" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/>
+                  </svg>
+                  Experience the Festival
+                </h2>
+                <YouTubeVideo
+                  videoId={festival.youtubeVideoId}
+                  title={festival.youtubeVideoTitle || festival.name}
+                />
+              </section>
+            )}
 
             {/* Highlights */}
             <section>
@@ -411,13 +428,13 @@ export default function FestivalPage({ params }: Props) {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/itineraries"
+              href="/itineraries/"
               className="inline-block bg-peru-gold text-peru-earth font-bold px-8 py-3 rounded-full hover:bg-white transition-colors"
             >
               View Itineraries
             </Link>
             <Link
-              href="/festivals"
+              href="/festivals/"
               className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
             >
               Browse All Festivals

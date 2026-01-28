@@ -759,6 +759,40 @@ export default function FestivalsPage() {
           </div>
         </div>
       </section>
+
+      {/* CTA Section */}
+      <section className="py-12 bg-peru-earth text-white">
+        <div className="container-peru text-center">
+          <h2 className="text-2xl font-display font-bold mb-4">
+            {locale === 'es' ? 'Planifica Tu Visita a un Festival' : 'Plan Your Festival Visit'}
+          </h2>
+          <p className="text-white/80 mb-6 max-w-2xl mx-auto">
+            {locale === 'es'
+              ? 'Combina estos festivales con nuestros itinerarios familiares para una experiencia inolvidable en Perú.'
+              : 'Combine these festivals with our family itineraries for an unforgettable Peru experience.'}
+          </p>
+          <div className="flex flex-wrap justify-center gap-4">
+            <a
+              href="/itineraries/"
+              className="inline-block bg-peru-gold text-peru-earth font-bold px-8 py-3 rounded-full hover:bg-white transition-colors"
+            >
+              {locale === 'es' ? 'Ver Itinerarios' : 'Browse Itineraries'}
+            </a>
+            <a
+              href="/when-to-visit/"
+              className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
+            >
+              {locale === 'es' ? 'Cuándo Visitar' : 'When to Visit'}
+            </a>
+            <a
+              href="/activities/"
+              className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
+            >
+              {locale === 'es' ? 'Actividades Familiares' : 'Family Activities'}
+            </a>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }

@@ -10,6 +10,8 @@ export interface Activity {
   regionEs: string;
   image?: string;
   imageCredit?: string;
+  youtubeVideoId?: string;
+  youtubeVideoTitle?: string;
   quechuaName?: string;
   quechuaMeaning?: string;
   quechuaMeaningEs?: string;

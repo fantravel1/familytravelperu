@@ -11,6 +11,8 @@ export interface City {
   quechuaName?: string;
   quechuaMeaning?: string;
   quechuaMeaningEs?: string;
+  youtubeVideoId?: string;
+  youtubeVideoTitle?: string;
   description: string;
   descriptionEs: string;
   highlights: string[];
@@ -121,6 +123,8 @@ export const cities: City[] = [
     regionEs: 'Región Lima',
     altitude: 154,
     population: '10+ million',
+    youtubeVideoId: 'qP5buT0k1RA',
+    youtubeVideoTitle: 'Lima Peru: The Ultimate City Guide',
     description: 'Peru\'s vibrant capital city combines colonial history, world-class cuisine, and Pacific Ocean beaches. As the gastronomic capital of South America, Lima offers families incredible food experiences alongside fascinating museums and beautiful parks.',
     descriptionEs: 'La vibrante capital de Perú combina historia colonial, gastronomía de clase mundial y playas del Océano Pacífico. Como capital gastronómica de Sudamérica, Lima ofrece a las familias experiencias culinarias increíbles junto con museos fascinantes y hermosos parques.',
     highlights: [
@@ -186,6 +190,8 @@ export const cities: City[] = [
     quechuaName: 'Qosqo',
     quechuaMeaning: 'Navel of the World',
     quechuaMeaningEs: 'Ombligo del Mundo',
+    youtubeVideoId: 'QDpqVKCEKTg',
+    youtubeVideoTitle: 'Cusco Peru: Ancient Capital of the Inca Empire',
     description: 'The ancient capital of the Inca Empire is a UNESCO World Heritage Site filled with stunning colonial architecture built on Inca foundations. Cusco is the gateway to Machu Picchu and the Sacred Valley, making it the heart of any Peru family adventure.',
     descriptionEs: 'La antigua capital del Imperio Inca es Patrimonio de la Humanidad de la UNESCO, llena de impresionante arquitectura colonial construida sobre cimientos incas. Cusco es la puerta de entrada a Machu Picchu y el Valle Sagrado, convirtiéndolo en el corazón de cualquier aventura familiar en Perú.',
     highlights: [
@@ -250,6 +256,8 @@ export const cities: City[] = [
     population: 'Various towns',
     quechuaName: 'Willka Qhichwa',
     quechuaMeaning: 'Sacred Valley / Valley of the Sun',
+    youtubeVideoId: 'nIVg4ZZSTf8',
+    youtubeVideoTitle: 'Sacred Valley of the Incas: Complete Travel Guide',
     quechuaMeaningEs: 'Valle Sagrado / Valle del Sol',
     description: 'The Sacred Valley of the Incas stretches between Cusco and Machu Picchu, featuring stunning Andean scenery, ancient ruins, traditional villages, and a lower altitude that\'s easier on families. It\'s an essential stop for experiencing authentic Andean culture.',
     descriptionEs: 'El Valle Sagrado de los Incas se extiende entre Cusco y Machu Picchu, con impresionantes paisajes andinos, ruinas antiguas, pueblos tradicionales y una altitud más baja que es más fácil para las familias. Es una parada esencial para experimentar la cultura andina auténtica.',
@@ -371,6 +379,8 @@ export const cities: City[] = [
     regionEs: 'Región Arequipa',
     altitude: 2335,
     population: '1 million',
+    youtubeVideoId: 'fYl_Z5OyJPE',
+    youtubeVideoTitle: 'Arequipa Peru: The Beautiful White City',
     description: 'Known as the "White City" for its stunning colonial architecture built from white volcanic stone, Arequipa sits beneath three volcanoes. It\'s the gateway to Colca Canyon and offers a perfect blend of culture, cuisine, and adventure for families.',
     descriptionEs: 'Conocida como la "Ciudad Blanca" por su impresionante arquitectura colonial construida con piedra volcánica blanca, Arequipa se encuentra bajo tres volcanes. Es la puerta de entrada al Cañón del Colca y ofrece una mezcla perfecta de cultura, gastronomía y aventura para familias.',
     highlights: [
@@ -435,6 +445,8 @@ export const cities: City[] = [
     quechuaName: 'Punu',
     quechuaMeaning: 'Place of Rest / Sleepiness',
     quechuaMeaningEs: 'Lugar de Descanso / Sueño',
+    youtubeVideoId: 'x4wT0cN7_gU',
+    youtubeVideoTitle: 'Puno & Lake Titicaca: Gateway to the Andes',
     description: 'Perched on the shores of Lake Titicaca, Puno is known as Peru\'s folklore capital. This high-altitude city is the gateway to the mystical lake, floating islands, and ancient Aymara culture that has survived for millennia.',
     descriptionEs: 'Situada en las orillas del Lago Titicaca, Puno es conocida como la capital del folclore peruano. Esta ciudad de gran altitud es la puerta de entrada al místico lago, las islas flotantes y la antigua cultura aymara que ha sobrevivido por milenios.',
     highlights: [
@@ -495,6 +507,8 @@ export const cities: City[] = [
     regionEs: 'Región Loreto',
     altitude: 104,
     population: '500,000',
+    youtubeVideoId: 'xb4UzsXpFDw',
+    youtubeVideoTitle: 'Iquitos Peru: Gateway to the Amazon Rainforest',
     description: 'The largest city in the world unreachable by road, Iquitos is the gateway to the Peruvian Amazon. This jungle city offers families an incredible opportunity to experience rainforest wildlife, indigenous cultures, and the mighty Amazon River.',
     descriptionEs: 'La ciudad más grande del mundo inaccesible por carretera, Iquitos es la puerta de entrada a la Amazonía peruana. Esta ciudad selvática ofrece a las familias una oportunidad increíble de experimentar la vida silvestre de la selva, culturas indígenas y el poderoso Río Amazonas.',
     highlights: [
@@ -555,6 +569,8 @@ export const cities: City[] = [
     regionEs: 'Región Ica',
     altitude: 520,
     population: '30,000',
+    youtubeVideoId: 'Z3lOrLftbpU',
+    youtubeVideoTitle: 'Nazca Lines: Ancient Mysteries Revealed',
     description: 'Home to the mysterious Nazca Lines, this desert town offers one of the world\'s great archaeological mysteries. The enormous geoglyphs, best seen from the air, have puzzled scientists for decades and captivate visitors of all ages.',
     descriptionEs: 'Hogar de las misteriosas Líneas de Nazca, este pueblo desértico ofrece uno de los grandes misterios arqueológicos del mundo. Los enormes geoglifos, mejor vistos desde el aire, han desconcertado a los científicos por décadas y cautivan a visitantes de todas las edades.',
     highlights: [
