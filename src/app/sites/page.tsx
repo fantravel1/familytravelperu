@@ -248,16 +248,22 @@ export default function SitesPage() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/itineraries"
+              href="/itineraries/"
               className="inline-block bg-peru-gold text-peru-earth font-bold px-8 py-3 rounded-full hover:bg-white transition-colors"
             >
               Browse Itineraries
             </Link>
             <Link
-              href="/activities"
+              href="/activities/"
               className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
             >
               Family Activities
+            </Link>
+            <Link
+              href="/cities/"
+              className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
+            >
+              Explore Cities
             </Link>
           </div>
         </div>

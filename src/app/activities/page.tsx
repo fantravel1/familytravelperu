@@ -247,16 +247,22 @@ export default function ActivitiesPage() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/itineraries"
+              href="/itineraries/"
               className="inline-block bg-peru-gold text-peru-earth font-bold px-8 py-3 rounded-full hover:bg-white transition-colors"
             >
               Browse Itineraries
             </Link>
             <Link
-              href="/destinations"
+              href="/destinations/"
               className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
             >
               Explore Destinations
+            </Link>
+            <Link
+              href="/sites/"
+              className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
+            >
+              Explore Sites
             </Link>
           </div>
         </div>

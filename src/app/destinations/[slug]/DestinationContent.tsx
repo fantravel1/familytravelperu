@@ -28,7 +28,7 @@ export default function DestinationContent({ slug }: { slug: string }) {
           <h1 className="text-4xl font-bold text-peru-brown mb-4">
             {locale === 'es' ? 'Destino no encontrado' : 'Destination Not Found'}
           </h1>
-          <Link href="/destinations" className="btn-gold">
+          <Link href="/destinations/" className="btn-gold">
             {locale === 'es' ? 'Ver todos los destinos' : 'View All Destinations'}
           </Link>
         </div>
@@ -75,7 +75,7 @@ export default function DestinationContent({ slug }: { slug: string }) {
 
         <div className="container-peru relative h-full flex flex-col justify-end pb-12">
           <Link
-            href="/destinations"
+            href="/destinations/"
             className="absolute top-8 left-4 md:left-0 flex items-center gap-2 text-white/80 hover:text-white transition-colors"
           >
             <ArrowLeft className="w-5 h-5" />
@@ -220,13 +220,13 @@ export default function DestinationContent({ slug }: { slug: string }) {
                 }
               </p>
               <Link
-                href="/itineraries"
+                href="/itineraries/"
                 className="block w-full bg-peru-gold text-peru-brown font-semibold py-3 px-6 rounded-lg text-center hover:bg-peru-gold/90 transition-colors"
               >
                 {locale === 'es' ? 'Ver Itinerarios' : 'View Itineraries'}
               </Link>
               <Link
-                href="/contact"
+                href="/contact/"
                 className="block w-full mt-3 bg-white/20 text-white font-semibold py-3 px-6 rounded-lg text-center hover:bg-white/30 transition-colors"
               >
                 {locale === 'es' ? 'Contáctanos' : 'Contact Us'}
@@ -287,10 +287,10 @@ export default function DestinationContent({ slug }: { slug: string }) {
             }
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/itineraries" className="btn-gold">
+            <Link href="/itineraries/" className="btn-gold">
               {locale === 'es' ? 'Explorar Itinerarios' : 'Explore Itineraries'}
             </Link>
-            <Link href="/destinations" className="btn-primary bg-white/20 hover:bg-white/30">
+            <Link href="/destinations/" className="btn-primary bg-white/20 hover:bg-white/30">
               {locale === 'es' ? 'Más Destinos' : 'More Destinations'}
             </Link>
           </div>

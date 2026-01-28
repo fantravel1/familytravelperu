@@ -135,11 +135,11 @@ export default function SitePage({ params }: Props) {
               <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4 flex-wrap">
                 <Link href="/" className="hover:text-white">Home</Link>
                 <ChevronRight className="h-4 w-4" />
-                <Link href="/destinations" className="hover:text-white">Destinations</Link>
+                <Link href="/sites/" className="hover:text-white">Sites</Link>
                 <ChevronRight className="h-4 w-4" />
                 {city && (
                   <>
-                    <Link href={`/cities/${city.slug}`} className="hover:text-white">{city.name}</Link>
+                    <Link href={`/cities/${city.slug}/`} className="hover:text-white">{city.name}</Link>
                     <ChevronRight className="h-4 w-4" />
                   </>
                 )}

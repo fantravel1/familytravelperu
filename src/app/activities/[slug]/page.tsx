@@ -148,7 +148,7 @@ export default function ActivityPage({ params }: Props) {
             <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4 flex-wrap">
               <Link href="/" className="hover:text-white">Home</Link>
               <ChevronRight className="h-4 w-4" />
-              <Link href="/activities" className="hover:text-white">Activities</Link>
+              <Link href="/activities/" className="hover:text-white">Activities</Link>
               <ChevronRight className="h-4 w-4" />
               <span className="text-white">{activity.name}</span>
             </nav>
@@ -499,13 +499,13 @@ export default function ActivityPage({ params }: Props) {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/itineraries"
+              href="/itineraries/"
               className="inline-block bg-peru-gold text-peru-earth font-bold px-8 py-3 rounded-full hover:bg-white transition-colors"
             >
               View Itineraries
             </Link>
             <Link
-              href="/activities"
+              href="/activities/"
               className="inline-block bg-white/20 text-white font-bold px-8 py-3 rounded-full hover:bg-white/30 transition-colors"
             >
               Browse All Activities

@@ -73,7 +73,7 @@ export default function CityPage({ params }: Props) {
             <nav className="flex items-center space-x-2 text-white/70 text-sm mb-4">
               <Link href="/" className="hover:text-white">Home</Link>
               <ChevronRight className="h-4 w-4" />
-              <Link href="/destinations" className="hover:text-white">Destinations</Link>
+              <Link href="/cities/" className="hover:text-white">Cities</Link>
               <ChevronRight className="h-4 w-4" />
               <span className="text-white">{city.name}</span>
             </nav>
